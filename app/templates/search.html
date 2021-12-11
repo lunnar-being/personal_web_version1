@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap-select.min.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+  <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap-select.min.js') }}"></script>
+  <link rel="icon" href="{{ url_for('static', filename='images/istic.png') }}" type="image/gif"/>
+  <title>科技政策数据库展示系统</title>
+</head>
+<body>
+<!--顶部导航栏-->
+<header>
+  {% import "_macros.html" as macros with context %}
+  {{ macros.header("search.html") }}
+</header>
+<!--页面主体部分-->
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-10 col-md-offset-1">
+      <form class="form" role="form" id="search-form">
+        <!-- 检索条件 -->
+        <div class="search-div">
+          <div class="row">
+            <div class="form-group col-md-3">
+              <select name="query-type" class="selectpicker" id="query-type">
+                {% set typelist = ["标题","摘要","关键词"] %}
+                {% for type in typelist %}
+                  <option value="{{ type }}" {% if type == query_type %}selected="selected"{% endif %}>{{ type }}</option>
+                {% endfor %}
+              </select>
+            </div>
+            <div class="form-group input-group col-md-9" style="padding-left: 15px;">
+              <input type="text" class="form-control" id="query"
+                     {% if query_word %}value="{{ query_word }}"{% endif %} name="query"
+                     placeholder="搜索">
+              <span class="input-group-btn">
+                  <button class="btn btn-info btn-search" type="submit"
+                          style="background-color: #f26522; border-color:#f26522 ">
+                    <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                  </button>
+                </span>
+            </div>
+          </div>
+        </div>
+        <!-- 筛选和排序 -->
+        <div class="filter" id="filter" style="display: inline-flex; flex-direction: row; align-items: flex-end; width: 101%;">
+          <div class="form-group col-lg-1 col-md-2 col-sm-2" style="margin-bottom: 21px; padding: 0;"><span>筛选：</span></div>
+          <div class="form-group col-lg-2 col-md-3" style="padding: 0;">
+            <select name="country" class="form-control" id="country" onchange="search()">
+                {% for country in country_list %}
+                  <option value="{{ country }}" {% if country == query_country %}selected="selected"{% endif %}>{{ country }}</option>
+                {% endfor %}
+            </select>
+          </div>
+          <div class="form-group col-lg-3 col-md-3" style="padding: 0;">
+            <select name="field" class="form-control" id="field" onchange="search()">
+              {% set fieldlist = ["全部分类","人工智能技术","新代信息通信技术","大数据技术",
+                "新材料技术","现代交通技术","空天技术","生物技术","海洋技术","智能制造","基因技术"] %}
+                {% for field in fieldlist %}
+                  <option value="{{ field }}" {% if field == query_field %}selected="selected"{% endif %}>{{ field }}</option>
+                {% endfor %}
+            </select>
+          </div>
+          <div class="form-group col-lg-3 col-md-4 pull-right" style="margin-left: 520px; padding: 0;">
+            <select name="order" class="form-control">
+              <option value="time" {% if order == 'time' %}selected="selected"{% endif %}>按时间排序</option>
+              <option value="rank" {% if order == 'rank' %}selected="selected"{% endif %}>按相关性排序</option>
+            </select>
+          </div>
+        </div>
+      </form>
+      <!-- 检索结果 -->
+      <div style="border-bottom: 1px solid #dddddd; padding-bottom: 10px;">检索结果总数量：{{ pagination.total }} 条</div>
+      <div class="result-list" id="result-list">
+        {% for policy_text in policy_text_list %}
+          <div class="search-result {% if policy_text.recommend == 1 %}recommend{% endif %}">
+            <p class="title"><a href="article.html?id={{ policy_text.id }}"
+                                class="h4">{{ policy_text.translated_title }}</a></p>
+            <p class="collapse-description">{{ policy_text.translated_abstract }}</p>
+          </div>
+        {% endfor %}
+      </div>
+      <!-- 翻页 -->
+      <div class="pagination">
+        {{ macros.pagination_widget(pagination, '.search', filter) }}
+      </div>
+    </div>
+  </div>
+</div>
+<!--页脚-->
+{% import "_macros.html" as macros %}
+{{ macros.footer() }}
+
+<script>
+  window.onload = function () {
+    var query = $("#query").val().replace(/\s+/i, " ");
+    var query_words = query.split(" ");
+    var content = $("#result-list").html();
+    for (let word of query_words) {
+      var split_content = content.split(word);
+      content = split_content.join('<span style="color: #f26522;">' + word + '</span>');
+    }
+    $("#result-list").html(content);
+  };
+
+  $("#filter .form-control").change(function (){
+    $("#search-form").submit();
+  });
+
+</script>
+</body>
+</html>

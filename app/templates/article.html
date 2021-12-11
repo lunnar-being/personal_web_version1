@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+  <link rel="icon" href="{{ url_for('static', filename='images/istic.png') }}" type="image/gif"/>
+  <title>科技政策数据库展示系统</title>
+</head>
+<body>
+<!-- 顶部导航栏 -->
+<header>
+  {% import "_macros.html" as macros with context %}
+  {{ macros.header("article.html") }}
+</header>
+<!-- 页面主体部分 -->
+<div class="container">
+  <div class="article-page row">
+    <!-- 左侧文章内容 -->
+    <div class="col-md-8">
+      <ol class="breadcrumb">
+        <li><a href="index.html">首页</a></li>
+        <li class="active">政策详情</li>
+        <li style="float: right;"><a href="edit-details.html?id={{ policy_text.id }}" target="_blank">编辑</a></li>
+      </ol>
+      <div class="article-content panel panel-default">
+        <div class="panel-body">
+          <h3>{{ policy_text.translated_title }}</h3>
+          {#          <h3>{{ policy_text.original_title }}</h3>#}
+          <div class="technologies">
+            <p>原标题：{{ policy_text.original_title }}</p>
+            <p>关键词：{{ "暂无" if policy_text.keywords == None else policy_text.keywords }}</p>
+            <p>翻译关键词：{{ "暂无" if policy_text.translated_keywords == None else policy_text.translated_keywords }}</p>
+          </div>
+          <div class="abstract">
+            <p>{{ "暂无摘要" if policy_text.translated_abstract == None else policy_text.translated_abstract | safe }}</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- 右侧内容 -->
+    <div class="col-md-4">
+      <div class="metadata panel panel-default">
+        <div class="panel-heading">
+          政策信息
+        </div>
+        <div class="panel-body">
+          <ul>
+            <li>国家：{{ policy_text.nation }}</li>
+            <li>发布时间：{{ "无" if policy_text.release_time == None else policy_text.release_time.strftime("%Y/%m/%d") }}</li>
+            <li>发布机构：{{ policy_text.translated_institution }}</li>
+            <li>政策来源：{{ policy_text.source_url }}</li>
+            <li>文档类型：{{ policy_text.doc_type }}</li>
+            <li>审核后领域：{{ policy_text.correct_field }}</li>
+            <li>领域：
+              {% if (not policy_text.norm_field) or (policy_text.norm_field|length == 0) %}
+                无分类结果
+              {% elif policy_text.norm_field|length == 2 %}
+                {{ policy_text.norm_field[0] }}（主类）｜{{ policy_text.norm_field[1] }}（次类）
+              {% elif policy_text.norm_field|length == 1 %}
+                {{ policy_text.norm_field[0] }}
+              {% endif %}
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="download panel panel-default">
+        <div class="panel-heading">
+          下载链接
+        </div>
+        <div class="panel-body">
+          <ul>
+            <p><a href="api/download?file_name={{ original_file.savename }}">原版</a></p>
+            <p><a href="{% if format_file is not none %}api/download?file_name={{ format_file.savename }}{% endif %}">格式化版</a>
+            </p>
+            {% if trans_file is not none %}
+              <p><a href="api/download?file_name={{ trans_file.savename }}">翻译版</a></p>{% endif %}
+            {% if checked_file is not none %}
+              <p><a href="api/download?file_name={{ checked_file.savename }}">审校版</a></p>{% endif %}
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- 页脚 -->
+{% import "_macros.html" as macros %}
+{{ macros.footer() }}
+</body>
+</html>

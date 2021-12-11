@@ -1,0 +1,180 @@
+<!--<%@ page language="java" contentType="text/html; charset=utf-8"
+   pageEncoding="utf-8"%>
+<%@ taglib prefix="s" uri="/struts-tags"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+"http://www.w3.org/TR/html4/loose.dtd">-->
+<html>
+
+<head>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <title>Homepage of our system</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <!-- style css -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Responsive-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}">
+    <!-- fevicon -->
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.png') }}"/>
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/jquery.mCustomScrollbar.min.css') }}">
+    <!-- Tweaks for older IEs-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome.css') }}">
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
+    <!-- font awesome -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/font-awesome.min.css') }}">
+    <!-- select -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap-select.min.css') }}">
+    <!--  -->
+    <!-- owl stylesheets -->
+    <link href="https://fonts.googleapis.com/css?family=Great+Vibes|Poppins:400,700&display=swap&subset=latin-ext"
+          rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/owl.carousel.min.css') }}">
+    <link rel="stylesoeet" href="{{ url_for('static', filename='css/owl.theme.default.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/jquery.fancybox.min.css" media="screen') }}">
+</head>
+
+<body>
+<div>
+    <!-- header top section start -->
+    <div class="container">
+        <div class="header_section_top">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="custom_menu">
+                        <ul>
+                            <li><a href="index.html">首页</a></li>
+                            <li><a href="search_result.html">检索</a></li>
+                            <li><a href="browse_by_category.html">分类浏览</a></li>
+                            <li><a href="parse.html">采集</a></li>
+                            <li><a href="statistics_analysis.html">统计分析</a></li>
+                            <li><a href="proofreading.html">审校</a></li>
+                        </ul>
+                        <div class="user">
+                            <img src="{{ url_for('static', filename='images/not_login.png') }}" alt="">
+                            <div class="user-name"><a href="login.html">未登录</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- header top section start -->
+    <!-- logo section start -->
+    <div class="logo_section">
+        <div class="container">
+            <div class="logo_div row clearfix">
+                <div class="logo col-md-2 column">
+                    <img src="{{ url_for('static', filename='images/istic-p2.png') }}">
+                </div>
+                <div class="col-md-10 column" style="position: relative;">
+                    <span class="system_name">颠覆性技术政策数据库</span>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- logo section end -->
+    <!-- header section start -->
+    <div class="header_section">
+        <div class="container">
+            <div class="containt_main">
+                <div class="search_field">
+                    <select class="selectpicker" title="全部字段" data-style="btn-info">
+                        <option value="">全部字段</option>
+                        <option value="">标题</option>
+                        <option value="">摘要</option>
+                        <option value="">关键词</option>
+                    </select>
+                </div>
+                <div class="main">
+                    <!-- Another variation with a button -->
+                    <div class="input-group" style="width:600px;">
+                        <input type="text" class="form-control" placeholder="Search in database">
+                        <div class="input-group-append">
+                            <button class="btn btn-secondary" type="button"
+                                    style="background-color: #f26522; border-color:#f26522 " onclick="retrieve()">
+                                <i class="fa fa-search"></i>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+                <div class="header_box">
+                    <div class="lang_box ">
+                        <select class="selectpicker" title="所有语言" data-style="btn-info">
+                            <option value="">中文</option>
+                            <option value="">English</option>
+                            <option value="">French</option>
+                        </select>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- header section end -->
+    <!-- banner section start -->
+    <div class="row clearfix">
+        <div class="col-md-12 column">
+            <div class="jumbotron" style="margin-left: 200px;margin-right: 200px;margin-top: 50px;">
+                <h1>
+                    关于本系统
+                </h1>
+                <p>
+                    This is a template for a simple marketing or informational website. It includes a large callout
+                    called the hero unit and three supporting pieces of content. Use it as a starting point to create
+                    something more unique.
+                    This is a template for a simple marketing or informational website. It includes a large callout
+                    called the hero unit and three supporting pieces of content. Use it as a starting point to create
+                    something more unique.
+                    This is a template for a simple marketing or informational website. It includes a large callout
+                    called the hero unit and three supporting pieces of content. Use it as a starting point to create
+                    something more unique.
+                </p>
+                <p>
+                    <a class="btn btn-primary btn-large" href="#">Learn more</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <!-- banner section end -->
+</div>
+<!-- Javascript files-->
+<script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/popper.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/bootstrap.bundle.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/bootstrap-select.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/jquery-3.0.0.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/plugin.js') }}"></script>
+<!-- sidebar -->
+<script src="{{ url_for('static', filename='js/jquery.mCustomScrollbar.concat.min.js') }}"></script>
+<script src="{{ url_for('static', filename='js/custom.js') }}"></script>
+<script>
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+    }
+
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+    }
+
+    // 修改样式
+    $(".bootstrap-select .filter-option").css({"background-color": "#fff", "color": "#676a6c"});
+    $(".bootstrap-select button").css({"border": "1px solid #E5E6E7"});
+
+    function retrieve() {
+        location.href = "search_result.html"
+    }
+</script>
+</body>
+
+</html>

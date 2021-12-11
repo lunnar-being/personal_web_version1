@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+  <link rel="icon" href="{{ url_for('static', filename='images/istic.png') }}" type="image/gif"/>
+  <title>科技政策数据库展示系统</title>
+</head>
+<body>
+<!-- 顶部导航栏 -->
+<header>
+  {% import "_macros.html" as macros with context %}
+  {{ macros.header("index.html") }}
+</header>
+<!-- 页面主体部分 -->
+<div class="container">
+  <div class="row">
+    <div class="col-sm-2 class-div">
+      <!-- 主题分类 -->
+      <ul class="list-group" id="field-selection">
+        {% set fieldlist = ["全部分类","人工智能技术","新代信息通信技术","大数据技术",
+        "新材料技术","现代交通技术","空天技术","生物技术","海洋技术","智能制造","基因技术", "综合"] %}
+        {% for field in fieldlist %}
+        <li><a value="{{ field }}" style="cursor:pointer;" class="list-group-item {% if field == filter['field'] %}active{% endif %}">{{ field }} ({{ filed_count_dict[field] }})</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+    <div class="col-sm-9 browse-list">
+      <ul class="tag-selection" id="file-type-selection">
+        {% set file_type_list = ["全部文档类型","研究报告","战略规划","技术治理","技术项目"] %}
+        {% for file_type in file_type_list %}
+        <li><a value="{{ file_type }}"><span class="tag {% if file_type == filter['file_type'] %}tag-checked{% endif %}">{{ file_type }}</span></li>
+        {% endfor %}
+      </ul>
+      <ul class="tag-selection" id="country-selection">
+        {% for country in country_list %}
+        <li><a value="{{ country }}"><span class="tag {% if country == filter['country'] %}tag-checked{% endif %}">{{ country }}</span></a></li>
+        {% endfor %}
+      </ul>
+      <ol class="breadcrumb">
+        <!--todo 面包屑得改动一下，实际上已经没有用了-->
+        <li>全部分类</li>
+        {% if not filter['field'] == '全部分类' %}
+            <li>{{ filter['field'] }}</li>
+        {% endif %}
+        <li class="pull-right">
+          <div class="sort">
+            <form action="" class="form-inline">
+              <div class="form-group pull-right">
+                <select name="sort" class="form-control">
+                  <option value="time" {% if filter['order'] == 'time' %}selected="selected"{% endif %}>按时间排序</option>
+                  <option value="rank" {% if filter['order'] == 'rank' %}selected="selected"{% endif %}>按相关性排序</option>
+                </select>
+              </div>
+            </form>
+          </div>
+        </li>
+      </ol>
+      <div class="result-list">
+        {% for policy_text in policy_text_list %}
+          <div class="search-result {% if policy_text.recommend %}recommend{% endif %}">
+            <p class="title"><a href="article.html?id={{ policy_text.id }}"
+                                class="h4">{{ policy_text.translated_title }}</a></p>
+            <p class="collapse-description">{{ policy_text.translated_abstract }}</p>
+          </div>
+        {% endfor %}
+      </div>
+      {% import "_macros.html" as macros %}
+      <div class="pagination">
+        {{ macros.pagination_widget(pagination, '.index', filter) }}
+      </div>
+    </div>
+  </div>
+</div>
+<!-- 页脚 -->
+{% import "_macros.html" as macros %}
+{{ macros.footer() }}
+</body>
+<script>
+  $("#field-selection a").click(function () {
+    $("#field-selection a.active").removeClass("active");
+    $(this).addClass("active");
+    reloadPage();
+  })
+
+  $("#file-type-selection span").click(function () {
+    $("#file-type-selection span.tag-checked").removeClass("tag-checked");
+    $(this).addClass("tag-checked");
+    reloadPage();
+  })
+
+  $("#country-selection span").click(function () {
+    $("#country-selection span.tag-checked").removeClass("tag-checked");
+    $(this).addClass("tag-checked");
+    reloadPage();
+  })
+
+  $(".form-control").change(function () {
+      reloadPage();
+  })
+
+  function reloadPage() {
+    var field = $("#field-selection a.active").attr("value");
+    var file_type = $("#file-type-selection span.tag-checked").parent().attr("value");
+    var country = $("#country-selection span.tag-checked").parent().attr("value");
+    var order = $(".form-control option:selected").val();
+    window.location.href = 'index.html?field=' + field + "&file_type=" + file_type + "&country=" + country + "&order=" + order;
+  }
+</script>
+</html>

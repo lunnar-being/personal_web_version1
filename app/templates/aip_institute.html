@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+  <link rel="icon" href="{{ url_for('static', filename='images/istic.png') }}" type="image/gif"/>
+  <title>科技政策数据库展示系统</title>
+  <style>
+    .btn-default a {
+      text-decoration: none;
+      color: black;
+    }
+  </style>
+</head>
+<body>
+<!-- 顶部导航栏 -->
+<header>
+  {% import "_macros.html" as macros with context %}
+  {{ macros.header("aip_institute.html") }}
+</header>
+<!-- 页面主体部分 -->
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
+          <ul class="nav nav-pills nav-stack">
+            <li class="active">
+              <a href="./aip_monitor.html">重要实体</a>
+            </li>
+            <li>
+              <a href="./aip_institute.html">重要机构</a>
+            </li>
+            <li>
+              <a href="./aip_link.html">重要链接</a>
+            </li>
+          </ul>
+        </div>
+    <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 tab-content">
+          <!-- 动态简报 -->
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4>AIP网站动态监测</h4>
+
+            </div>
+            <div class="panel-body">
+              <ol class="breadcrumb">
+                <li>机构统计</li>
+              </ol>
+                <div class="result-list">
+                {% for ent in institute %}
+                  <div class="search-result">
+                    <p class="title"><h4>{{ ent[0] }}</h4></p>
+                    <p>{{ ent[1] }}</p>
+                  </div>
+                {% endfor %}
+                </div>
+            </div>
+          </div>
+        </div>
+  </div>
+</div>
+<!-- 页脚 -->
+{% import "_macros.html" as macros %}
+{{ macros.footer() }}
+</body>
+<script>
+  $("#field-selection a").click(function () {
+    $("#field-selection a.active").removeClass("active");
+    $(this).addClass("active");
+    reloadPage();
+  })
+
+  $("#file-type-selection span").click(function () {
+    $("#file-type-selection span.tag-checked").removeClass("tag-checked");
+    $(this).addClass("tag-checked");
+    reloadPage();
+  })
+
+  $("#country-selection span").click(function () {
+    $("#country-selection span.tag-checked").removeClass("tag-checked");
+    $(this).addClass("tag-checked");
+    reloadPage();
+  })
+
+  $(".form-control").change(function () {
+      reloadPage();
+  })
+
+  function reloadPage() {
+    var field = $("#field-selection a.active").attr("value");
+    var file_type = $("#file-type-selection span.tag-checked").parent().attr("value");
+    var country = $("#country-selection span.tag-checked").parent().attr("value");
+    var order = $(".form-control option:selected").val();
+    window.location.href = 'index.html?field=' + field + "&file_type=" + file_type + "&country=" + country + "&order=" + order;
+  }
+</script>
+</html>

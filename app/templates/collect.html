@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+  <link rel="icon" href="{{ url_for('static', filename='images/istic.png') }}" type="image/gif"/>
+  <title>科技政策数据库展示系统</title>
+</head>
+<body>
+<!-- 顶部导航栏 -->
+<header>
+  {% import "_macros.html" as macros with context %}
+  {{ macros.header("collect.html") }}
+</header>
+<!-- 页面主体部分 -->
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12">
+      <div class="row">
+        <!-- 左侧目录 -->
+        <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
+          <ul class="nav nav-pills nav-stack">
+            <li class="active">
+              <a href="./collect.html">数据采集</a>
+            </li>
+            <li>
+              <a href="./users.html">用户管理</a>
+            </li>
+            <li>
+              <a href="./add-policy.html">导入数据</a>
+            </li>
+          </ul>
+        </div>
+        <!-- 右侧内容 -->
+        <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 tab-content">
+          <!-- 数据采集 -->
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4>数据采集</h4>
+            </div>
+            <div class="panel-body">
+              <table class="table table-hover">
+                <tr>
+                  <th width="20">操作</th>
+                  <th width="25%">网站名称</th>
+                  <th width="20%">域名</th>
+                  <th width="18%">上次采集时间</th>
+                  <th width="17%">新下载文档</th>
+                </tr>
+                {% for foo in [('英国政府网', 'https://www.gov.uk', 'govuk'),
+                ('欧盟出版物', 'https://op.europa.eu', 'opeu'),
+                ('美国战略与国际研究中心', 'https://www.csis.org', 'csis'),
+                ('美国信息技术与创新基金会', 'https://itif.org', 'itif')] %}
+                  <tr>
+                    <td>
+                      <button class="btn btn-primary collect-btn" id="collect-btn-{{ foo[2] }}">采集</button>
+                    </td>
+                    <td>{{ foo[0] }}</td>
+                    <td>{{ foo[1] }}</td>
+                    <td></td>
+                    <td class="text-center">
+                      <a class="detail-link" data-toggle="collapse" href="#clp-{{ foo[2] }}">
+                        <span class="glyphicon glyphicon-chevron-down"></span>
+                      </a>
+                    </td>
+                  </tr>
+
+                  <tr id="clp-{{ foo[2] }}" class="collapse">
+                    <td colspan="10">
+                      暂无新增
+                    </td>
+                  </tr>
+                {% endfor %}
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- 页脚 -->
+{% import "_macros.html" as macros %}
+{{ macros.footer() }}
+</body>
+
+<script>
+    $(".collect-btn").click(function () {
+        let site_name_re = /collect-btn-(\w+)/
+        let site_name_in_id = $(this).attr("id");
+        let re_group = site_name_in_id.match(site_name_re)
+        let site_name = re_group[1]
+
+        $.ajax({
+            url: "/api/collect",
+            type: "POST",
+            data: {"site_name": site_name},
+            success: function (data) {
+                console.log(site_name);
+                alert(data);
+            },
+            error: function (e) {
+                alert("error");
+            }
+        });
+    });
+</script>
+
+</html>
