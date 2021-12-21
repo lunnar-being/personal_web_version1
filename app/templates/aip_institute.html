@@ -10,6 +10,7 @@
   <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
   <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
   <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/aip_monitor.js') }}"></script>
   <link rel="icon" href="{{ url_for('static', filename='images/istic.png') }}" type="image/gif"/>
   <title>科技政策数据库展示系统</title>
   <style>
@@ -30,10 +31,10 @@
   <div class="row">
     <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
           <ul class="nav nav-pills nav-stack">
-            <li class="active">
+            <li>
               <a href="./aip_monitor.html">重要实体</a>
             </li>
-            <li>
+            <li class="active">
               <a href="./aip_institute.html">重要机构</a>
             </li>
             <li>
@@ -46,19 +47,31 @@
           <div class="panel panel-default">
             <div class="panel-heading">
               <h4>AIP网站动态监测</h4>
+                <div class="col-auto">
+                    显示词条数量：<input id="insshownum" type="number" min="1" max="300" step="1" value={{institute_num}}>
+                      <button type="submit" ><a style=" text-decoration: none; color: black;" onclick="AipInsNum()">刷新</a></button>
 
+{#                      <button type="submit" ><a style=" text-decoration: none; color: black;" href="/export_test">导出</a></button>#}
+{#                      <button >Submit</button>#}
+                        <span style="color:#a94442;font-size:small;">注：请输入1~100的整数</span>
+                      <button type="submit" style="margin-left: 45%" ><a style=" text-decoration: none; color: black;" onclick="ExportIns()">导出</a></button>
+
+                  </div>
             </div>
             <div class="panel-body">
               <ol class="breadcrumb">
                 <li>机构统计</li>
               </ol>
                 <div class="result-list">
-                {% for ent in institute %}
-                  <div class="search-result">
-                    <p class="title"><h4>{{ ent[0] }}</h4></p>
-                    <p>{{ ent[1] }}</p>
-                  </div>
-                {% endfor %}
+                <ul class="list-group">
+                    {% for ent in institute %}
+                  <li class="list-group-item d-flex justify-content-between align-items-center">
+                    {{ ent[0] }}
+                    <span class="badge badge-primary badge-pill">{{ ent[1] }}</span>
+                  </li>
+                     {% endfor %}
+
+                </ul>
                 </div>
             </div>
           </div>

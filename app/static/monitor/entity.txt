@@ -7,14 +7,11 @@ Congress,350
 DOE,338
 House,262
 NSF,256
-last week,250
 New York Times,233
-Thursday,232
 White House,222
 Chinese,211
 Wednesday,186
 Washington Post,176
-10:00 am,175
 Tuesday,168
 SpaceNews,167
 NIH,163

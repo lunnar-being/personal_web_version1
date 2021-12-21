@@ -33,12 +33,12 @@
       </ul>
     </div>
     <div class="col-sm-9 browse-list">
-      <ul class="tag-selection" id="file-type-selection">
-        {% set file_type_list = ["全部文档类型","研究报告","战略规划","技术治理","技术项目"] %}
-        {% for file_type in file_type_list %}
-        <li><a value="{{ file_type }}"><span class="tag {% if file_type == filter['file_type'] %}tag-checked{% endif %}">{{ file_type }}</span></li>
-        {% endfor %}
-      </ul>
+{#      <ul class="tag-selection" id="file-type-selection">#}
+{#        {% set file_type_list = ["全部文档类型","研究报告","战略规划","技术治理","技术项目"] %}#}
+{#        {% for file_type in file_type_list %}#}
+{#        <li><a value="{{ file_type }}"><span class="tag {% if file_type == filter['file_type'] %}tag-checked{% endif %}">{{ file_type }}</span></li>#}
+{#        {% endfor %}#}
+{#      </ul>#}
       <ul class="tag-selection" id="country-selection">
         {% for country in country_list %}
         <li><a value="{{ country }}"><span class="tag {% if country == filter['country'] %}tag-checked{% endif %}">{{ country }}</span></a></li>

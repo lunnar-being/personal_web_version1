@@ -21,7 +21,8 @@ from app import db, logging, Config
 from app.models import File, PolicyText, User, Permissions, News, Event
 from app.decorators import permission_required
 from app.main import main
-from util import get_md5_str, FileName
+from util import get_md5_str, FileName, get_file, export_excel
+import os
 
 logger = logging.getLogger('main view')
 logger.setLevel(logging.DEBUG)
@@ -389,73 +390,117 @@ def timeline():
                            news_list=news_list,
                            filter={'query' : query_word})
 
-# 新闻动态
+#默认的显示数量
+entity_num = 10
+institute_num = 10
+link_num = 10
 import os
-pwd = os.path.dirname(os.getcwd())
+# pwd = os.path.dirname(os.getcwd())
+
+
 @main.route('/', methods=['GET', 'POST'])
 @main.route('/aip_monitor.html', methods=['GET', 'POST'])
 @login_required
 @permission_required(Permissions.READ)
 def aip_monitor():
-    # print(pwd)
-    def get_file(file):
-        path = rf"E:\research\technology\app\static\monitor\{file}.txt"
-        with open(path, encoding='utf8') as f:
-            entity = f.readlines()
-            f.close()
-        entity2 = []
-        for en in entity:
-            entity2.append(en.strip().split(','))
-        return entity2
-    entity2 = get_file('entity')[:10]
-    # institude2 = get_file('institute')[:10]
-    # superlink2 = get_file('superlink')[:10]
-    return render_template('aip_monitor.html',entity = entity2)
+    global entity_num
+    entity2 = get_file('entity')[:entity_num]
+    return render_template('aip_monitor.html', entity=entity2, entity_num=entity_num)
+
 
 @main.route('/', methods=['GET', 'POST'])
 @main.route('/aip_institute.html', methods=['GET', 'POST'])
 @login_required
 @permission_required(Permissions.READ)
 def aip_institute():
+    institute2 = get_file('institute')[:institute_num]
+    return render_template('aip_institute.html', institute=institute2, institute_num=institute_num)
 
-    print(pwd)
-    def get_file(file):
-        path = rf"E:\research\technology\app\static\monitor\{file}.txt"
-        with open(path, encoding='utf8') as f:
-            entity = f.readlines()
-            f.close()
-        entity2 = []
-        for en in entity:
-            entity2.append(en.strip().split(','))
-        return entity2
-    # entity2 = get_file('entity')[:10]
-    institute2 = get_file('institute')[:10]
-    # superlink2 = get_file('superlink')[:10]
-    return render_template('aip_institute.html',institute = institute2)
 
 @main.route('/', methods=['GET', 'POST'])
 @main.route('/aip_link.html', methods=['GET', 'POST'])
 @login_required
 @permission_required(Permissions.READ)
 def aip_link():
-
-    def get_file(file):
-        path = rf"E:\research\technology\app\static\monitor\{file}.txt"
-        with open(path, encoding='utf8') as f:
-            entity = f.readlines()
-            f.close()
-        entity2 = []
-        for en in entity:
-            entity2.append(en.strip().split(','))
-        return entity2
-    # entity2 = get_file('entity')[:10]
-    # institude2 = get_file('institute')[:10]
-    superlink2 = get_file('superlink')[:10]
-    return render_template('aip_link.html', superlink = superlink2)
+    superlink2 = get_file('link')[:link_num]
+    return render_template('aip_link.html', superlink=superlink2, link_num=link_num)
 
 
 # --------------------------------以下是api-------------------------------- #
 # todo 迁移到api的blueprint
+@main.route('/aip_monitor_entity', methods=['POST'])
+@login_required
+def get_AIPentity_num():
+    global entity_num
+    num = request.form.get('num')
+    num = int(num)
+    if 0<num and num<=100:
+        entity_num = num
+        print(num)
+        # render_template('aip_monitor.html',entity = entity2[:num])
+        return json.dumps({'status':"ok"}), 200
+    else:
+        return "wrong number"
+
+
+@main.route('/aip_monitor_ins', methods=['POST'])
+@login_required
+def get_AIPins_num():
+    global institute_num
+    num = request.form.get('num')
+    num = int(num)
+    if 0<num and num<=100:
+        institute_num = num
+        return json.dumps({'status':"ok"}), 200
+    else:
+        return "wrong number"
+
+@main.route('/aip_monitor_link', methods=['POST'])
+@login_required
+def get_AIPlink_num():
+    global link_num
+    num = request.form.get('num')
+    num = int(num)
+    if 0<num and num<=100:
+        link_num = num
+        return json.dumps({'status':"ok"}), 200
+    else:
+        return "wrong number"
+
+@main.route('/export_entity', methods=['GET'])
+@login_required
+def export_entity():
+    num = int(request.args.get('num'))
+    if num>0 and num<=100:
+        entity_num = num
+        res = export_excel(entity_num, 'entity')
+        return res
+    else:
+        return "导出失败"
+
+
+@main.route('/export_ins', methods=['GET'])
+@login_required
+def export_ins():
+    num = int(request.args.get('num'))
+    if num>0 and num<=100:
+        entity_num = num
+        res = export_excel(entity_num, 'ins')
+        return res
+    else:
+        return "导出失败"
+
+@main.route('/export_link', methods=['GET'])
+@login_required
+def export_link():
+    num = int(request.args.get('num'))
+    if num>0 and num<=100:
+        entity_num = num
+        res = export_excel(entity_num, 'link')
+        return res
+    else:
+        return "导出失败"
+
 @main.route('/analysis_data', methods=['POST'])
 @login_required
 def get_analysis_data():
