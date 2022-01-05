@@ -35,8 +35,10 @@
 <!-- 顶部导航栏 -->
 {% macro header(url) %}
   <header>
-    {% set linklist = [("./index.html","首页"),("./search.html","复杂检索"),("./news.html","新闻动态"),("./aip_monitor.html","AIP监测"),("./analysis.html","统计分析"),("./collect.html","内容管理")] %}
-    <nav class="navbar navbar-default" role="navigation">
+    {% set linklist = [("./index.html","首页"),("./search.html","复杂检索"),("./news.html","新闻动态"),("./aip_monitor.html","AIP监测"),("./analysis_keywords.html","统计分析"),("./collect.html","内容管理")] %}
+{#    {% set linklist = [("./index.html","首页"),("./analysis.html","统计分析"),("./collect.html","内容管理")] %}#}
+
+      <nav class="navbar navbar-default" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse"

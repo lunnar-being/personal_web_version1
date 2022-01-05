@@ -25,8 +25,9 @@
     <div class="col-sm-2 class-div">
       <!-- 主题分类 -->
       <ul class="list-group" id="field-selection">
-        {% set fieldlist = ["全部分类","人工智能技术","新代信息通信技术","大数据技术",
-        "新材料技术","现代交通技术","空天技术","生物技术","海洋技术","智能制造","基因技术", "综合"] %}
+        {% set fieldlist = ["All","医药健康科技","新材料科技","能源环境科技",
+        "食品农业科技","空天科技","国防安全","智能制造","新代信息通信科技","大数据与人工智能",
+        "现代交通科技"] %}
         {% for field in fieldlist %}
         <li><a value="{{ field }}" style="cursor:pointer;" class="list-group-item {% if field == filter['field'] %}active{% endif %}">{{ field }} ({{ filed_count_dict[field] }})</a></li>
         {% endfor %}
@@ -46,8 +47,8 @@
       </ul>
       <ol class="breadcrumb">
         <!--todo 面包屑得改动一下，实际上已经没有用了-->
-        <li>全部分类</li>
-        {% if not filter['field'] == '全部分类' %}
+        <li>All</li>
+        {% if not filter['field'] == 'All' %}
             <li>{{ filter['field'] }}</li>
         {% endif %}
         <li class="pull-right">
@@ -67,8 +68,8 @@
         {% for policy_text in policy_text_list %}
           <div class="search-result {% if policy_text.recommend %}recommend{% endif %}">
             <p class="title"><a href="article.html?id={{ policy_text.id }}"
-                                class="h4">{{ policy_text.translated_title }}</a></p>
-            <p class="collapse-description">{{ policy_text.translated_abstract }}</p>
+                                class="h4">{{ policy_text.title }}</a></p>
+            <p class="collapse-description">{{ policy_text.abstract }}</p>
           </div>
         {% endfor %}
       </div>

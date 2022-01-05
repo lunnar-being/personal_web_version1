@@ -10,55 +10,85 @@
   <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
   <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
   <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/tech_analysis.js') }}"></script>
   <link rel="icon" href="{{ url_for('static', filename='images/istic.png') }}" type="image/gif"/>
   <title>科技政策数据库展示系统</title>
+  <style>
+    .btn-default a {
+      text-decoration: none;
+      color: black;
+    }
+  </style>
 </head>
 <body>
 <!-- 顶部导航栏 -->
 <header>
   {% import "_macros.html" as macros with context %}
-  {{ macros.header("news.html") }}
+  {{ macros.header("analysis_keywords.html") }}
 </header>
 <!-- 页面主体部分 -->
 <div class="container">
   <div class="row">
     <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
           <ul class="nav nav-pills nav-stack">
-            <li>
-              <a href="./news.html">动态简报</a>
-            </li>
             <li class="active">
-              <a href="./events.html">重要事件</a>
+              <a href="./analysis_keywords.html">关键词统计</a>
             </li>
             <li>
-              <a href="./timeline.html">新闻时间线</a>
+              <a href="./analysis_entity.html">实体统计</a>
             </li>
+{#            <li>#}
+{#              <a href="./aip_link.html">重要链接</a>#}
+{#            </li>#}
           </ul>
         </div>
     <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 tab-content">
-          <!-- 重要事件 -->
+          <!-- 动态简报 -->
+
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h4>重要事件</h4>
+              <h4>科技政策文本统计分析</h4>
+{#                <div class="row g-3 align-items-center">#}
+{#                  <div class="col-auto">#}
+{#                    <label for="inputPassword6" class="col-form-label">数量</label>#}
+{#                  </div>#}
+                  <div class="col-auto">
+                    显示词条数量：<input id="keywordshownum" type="number" min="1" max="300" step="1" value={{kw_num}}>
+                      <button type="submit" ><a style=" text-decoration: none; color: black;" onclick="KeywordNum()">刷新</a></button>
+
+{#                      <button type="submit" ><a style=" text-decoration: none; color: black;" href="/export_test">导出</a></button>#}
+{#                      <button >Submit</button>#}
+                        <span style="color:#a94442;font-size:small;">注：请输入1~100的整数</span>
+                      <button type="submit" style="margin-left: 45%" ><a style=" text-decoration: none; color: black;" onclick="ExportKeyword()">导出</a></button>
+
+                  </div>
+
+{#                </div>#}
             </div>
             <div class="panel-body">
+              <ol class="breadcrumb">
+                <li>关键词统计</li>
+              </ol>
                 <div class="result-list">
-                {% for event in events_list %}
-                  <div class="search-result">
-                    <p class="title"><a href="{{ event.link }}" class="h4">{{ event.title }}</a></p>
-                    <p>举办单位：{{ event.institution }}
-                        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-                        举办时间：{{ event.date }}</p>
-                  </div>
-                {% endfor %}
+                <ul class="list-group">
+                    {% for ent in keywords %}
+                  <li class="list-group-item d-flex justify-content-between align-items-center">
+                    {{ ent[0] }}
+                    <span class="badge badge-primary badge-pill">{{ ent[1] }}</span>
+                  </li>
+                     {% endfor %}
+
+                </ul>
+{#                {% for ent in entity %}#}
+{#                  <div class="search-result">#}
+{#                    <p class="title"><h4>{{ ent[0] }}</h4></p>#}
+{#                    <p>{{ ent[1] }}</p>#}
+{#                  </div>#}
+{#                {% endfor %}#}
                 </div>
-              <div class="pagination">
-                {{ macros.pagination_widget(pagination, '.events') }}
-              </div>
             </div>
           </div>
         </div>
-    </div>
   </div>
 </div>
 <!-- 页脚 -->
@@ -66,6 +96,7 @@
 {{ macros.footer() }}
 </body>
 <script>
+
   $("#field-selection a").click(function () {
     $("#field-selection a.active").removeClass("active");
     $(this).addClass("active");

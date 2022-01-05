@@ -65,7 +65,7 @@
                 {% for news in this_week_news_list %}
                   <div class="search-result">
                     <p class="title"><h4>{{ news.translated_title }}</h4></p>
-                    <p>{{ news.translated_content }}</p>
+                    <p>{{ news.translated_content if news.translated_content else news.content }}</p>
                   </div>
                 {% endfor %}
                 </div>
@@ -76,7 +76,7 @@
                 {% for news in last_week_news_list %}
                   <div class="search-result">
                     <p class="title"><h4>{{ news.translated_title }}</h4></p>
-                    <p>{{ news.translated_content }}</p>
+                    <p>{{ news.translated_content if news.translated_content else news.content }}</p>
                   </div>
                 {% endfor %}
                 </div>

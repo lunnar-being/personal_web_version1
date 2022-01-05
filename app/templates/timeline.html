@@ -56,9 +56,9 @@
             </div>
           </form>
           <div class="timeline-div">
-              {% for news in news_list %}
+              {% for news in news_list.keys() %}
                   <div class="search-result">
-                    <p class="title">{{ news.time }}&nbsp;{{ news.translated_title }}</p>
+                    <p class="title">{{ news }}&nbsp;{{ news_list[news]}}</p>
                   </div>
                 {% endfor %}
           </div>

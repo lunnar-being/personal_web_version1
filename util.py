@@ -122,8 +122,12 @@ class MyThread(threading.Thread):
 # import time
 from io import BytesIO
 import xlwt
+from statistic import statistic
 from flask import make_response
+import pymysql
 
+db = pymysql.connect(host="81.70.102.186", user="root", password="YDH@henniu123", database="spider", port=3306)
+s = statistic(db)
 
 def get_file(file):
     path = rf"E:\research\technology\app\static\monitor\{file}.txt"
@@ -167,6 +171,46 @@ def export_excel(num, type):
     response = make_response(sio.getvalue())
     response.headers['Content-type'] = 'application/vnd.ms-excel'  # 响应头告诉浏览器发送的文件类型为excel
     response.headers['Content-Disposition'] = f'attachment; filename={type_ch}.xls'  # 浏览器打开/保存的对话框，data.xlsx-设定的文件名
+    return response
+
+def get_statistic(db, name, num):
+    res = db.query.order_by(db.rank).all()
+    if name == 'keywords':
+        res2 = [(i.keywords, i.keywords_number) for i in res]
+        return res2[:num]
+    return None
+
+def export_excel2(db, name, num):
+    """excel 报表导出"""
+    # if name == 'keyword':
+    #     results = s.count_keywords()[:num]
+    # else:
+    #     return
+    res = db.query.order_by(db.rank).all()
+    if name == 'keywords':
+        res2 = [(i.keywords, i.keywords_number) for i in res]
+        results = res2[:num]
+    # 实例化，有encoding和style_compression参数
+    new = xlwt.Workbook(encoding='utf-8')
+    # Workbook的方法，生成.xls文件
+    sheet = new.add_sheet('关键词', cell_overwrite_ok=True)
+    # 写上字段信息
+    sheet.write(0, 0, "关键词")
+    sheet.write(0, 1, '数量')
+
+    # 获取并写入数据段信息
+    row = 1
+    col = 0
+    for row in range(1, len(results) + 1):
+        for col in range(0, 2):
+            sheet.write(row, col, u'%s' % results[row - 1][col])
+
+    sio = BytesIO()
+    new.save(sio)  # 将数据存储为bytes
+    sio.seek(0)
+    response = make_response(sio.getvalue())
+    response.headers['Content-type'] = 'application/vnd.ms-excel'  # 响应头告诉浏览器发送的文件类型为excel
+    response.headers['Content-Disposition'] = 'attachment; filename=keywords.xlsx'  # 浏览器打开/保存的对话框，data.xlsx-设定的文件名
     return response
 
 if __name__ == '__main__':

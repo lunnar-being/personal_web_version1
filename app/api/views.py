@@ -20,7 +20,7 @@ from flask import send_file, request
 
 from config import Config
 from app.api import api
-from app.models import File, PolicyText, User, Roles
+from app.models import PolicyText, User, Roles
 from app import db
 
 
@@ -52,10 +52,10 @@ def upload():
     print(policy_id, upload_file)
 
     policy_text = PolicyText.query.get(policy_id)
-    origin_file = File.query.get(policy_text.original_file)
+    origin_file = PolicyText.query.get(policy_text.original_file)
 
     # 如果是第一次上传
-    checked_file = File()
+    checked_file = PolicyText()
     checked_file.filetype = 4
     checked_file.name = origin_file.name
 

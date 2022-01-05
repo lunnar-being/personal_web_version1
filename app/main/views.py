@@ -18,10 +18,11 @@ from flask import (render_template, redirect, request, send_file, url_for, flash
 from flask_login import login_required, current_user
 from sqlalchemy import desc, text, func
 from app import db, logging, Config
-from app.models import File, PolicyText, User, Permissions, News, Event
+from app.models import PolicyText, User, Permissions, News, Event, Statistic
 from app.decorators import permission_required
 from app.main import main
-from util import get_md5_str, FileName, get_file, export_excel
+from util import get_md5_str, FileName, get_file, export_excel, export_excel2
+# from utils import export_excel2
 import os
 
 logger = logging.getLogger('main view')
@@ -43,74 +44,78 @@ def index():
     PER_PAGE = 10
     page = request.args.get('page', 1, int)
 
-    filter_args = [PolicyText.use]
+    filter_args = []
 
     # 排序
     order = request.args.get('order', 'rank', str)
     logger.info(f'received order: {order}')
 
     # 领域分类
-    field = request.args.get('field', '全部分类', str)
+    field = request.args.get('field', 'All', str)
+    # print(field)
     logger.info(f'received field: {field}')
-    if field != '全部分类':
+    if field != 'All':
         # filter_args.append(func.json_contains(PolicyText.norm_field, f'"{field}"') == 1)
-        filter_args.append(PolicyText.correct_field == field)
-
+        filter_args.append(PolicyText.field_main == field)
+        # filter_args.append(PolicyText.field_sub == field)
+    # print('dad',filter_args)
     # 文档类型  todo file_type or doc_type
-    doc_type = request.args.get('file_type', '全部文档类型', str)
-    logger.info(f'received dic_type: {doc_type}')
-    if doc_type != '全部文档类型':
-        filter_args.append(PolicyText.doc_type == doc_type)
+    # doc_type = request.args.get('file_type', '全部文档类型', str)
+    # logger.info(f'received dic_type: {doc_type}')
+    # if doc_type != '全部文档类型':
+    #     filter_args.append(PolicyText.doc_type == doc_type)
 
     # 国家
-    country = request.args.get('country', '全部国家', str)
-    logger.info(f'received country: {country}')
-    if country != '全部国家':
-        filter_args.append(PolicyText.nation == country)
+    # country = request.args.get('country', '全部国家', str)
+    # logger.info(f'received country: {country}')
+    # if country != '全部国家':
+    #     filter_args.append(PolicyText.nation == country)
 
     # 机构
-    institute = request.args.get('institute', 'all', type=str)
-    logger.info(f'received institute: {institute}')
-    if institute != 'all':
-        filter_args.append(PolicyText.institution == institute)
+    # institute = request.args.get('institute', 'all', type=str)
+    # logger.info(f'received institute: {institute}')
+    # if institute != 'all':
+    #     filter_args.append(PolicyText.institution == institute)
 
     # handle order
     if order == 'rank':
-        rank_entity = PolicyText.rank
+        rank_entity = PolicyText.score
     else:
-        rank_entity = PolicyText.release_time
+        rank_entity = PolicyText.time
 
     policy_text_pagination = PolicyText.query.filter(*filter_args).order_by(desc(rank_entity)).paginate(page=page,
                                                                                                         per_page=PER_PAGE)
 
     policy_text_list = policy_text_pagination.items
-    for policy_text in policy_text_list:  # type: PolicyText
+    for policy_text in policy_text_list:
         # if policy_text.abstract:
         #     policy_text.abstract = bs(policy_text.abstract, 'lxml').text
         # else:
         #     policy_text.abstract = 'Sorry, there is no preview...'
-        if not policy_text.translated_abstract:
+        # print(policy_text.title)
+        if not policy_text.abstract:
             policy_text.translated_abstract = '该政策无摘要'
 
-    field_list = PolicyText.query.with_entities(PolicyText.correct_field).filter(PolicyText.use,
-                                                                                 PolicyText.correct_field != None)
+    field_list = PolicyText.query.with_entities(PolicyText.field_main).filter(PolicyText.field_main != None)
     # field_list = list()
     # for field_tuple in field_tuple_list:
     #     field_list.extend(field_tuple)
+    # print('22122',field_list)
     field_list = [f[0] for f in field_list]
+    # print(field_list)
     filed_count = dict(Counter(field_list))
-    filed_count['全部分类'] = sum(filed_count.values())
+    filed_count['All'] = sum(filed_count.values())
 
-    country_list = PolicyText.query.with_entities(PolicyText.nation).filter(PolicyText.use, PolicyText.correct_field != None)
-    country_list = [c[0] for c in country_list]
-    country_list = list(set(country_list))
-
+    # country_list = PolicyText.query.with_entities(PolicyText.nation).filter(PolicyText.use, PolicyText.correct_field != None)
+    # country_list = [c[0] for c in country_list]
+    # country_list = list(set(country_list))
+    # print(policy_text_list)
     return render_template('index.html',
                            policy_text_list=policy_text_list,
                            pagination=policy_text_pagination,
-                           filter={'order': order, 'field': field, 'file_type': doc_type, 'country': country},
+                           filter={'order': order, 'field': field},
                            filed_count_dict=filed_count,
-                           country_list=country_list)
+                           )
 
 
 # 文章详情页面
@@ -120,10 +125,12 @@ def index():
 def article():
     policy_text_id = int(request.args.get('id'))
     policy_text = PolicyText.query.get(policy_text_id)  # type: PolicyText
-    original_file = File.query.get(policy_text.original_file)  # type: File
-    format_file = File.query.get(policy_text.format_file)  # type: File
-    trans_file = File.query.get(policy_text.translated_file) if policy_text.translated_file else None
-    checked_file = File.query.get(policy_text.checked_file) if policy_text.checked_file else None
+    # keywords = [', '.join(eval(i.keywords)) for i in policy_text]
+    policy_text.keywords = ', '.join(eval(policy_text.keywords))
+    original_file = PolicyText.query.get(policy_text.original_file)  # type: File
+    format_file = PolicyText.query.get(policy_text.format_file)  # type: File
+    trans_file = PolicyText.query.get(policy_text.translated_file) if policy_text.translated_file else None
+    checked_file = PolicyText.query.get(policy_text.checked_file) if policy_text.checked_file else None
     return render_template('article.html',
                            policy_text=policy_text,
                            original_file=original_file,
@@ -146,9 +153,9 @@ def search():
     order = request.args.get('order', 'rank', str)
     logger.info(f'received order: {order}')
     if order == 'rank':  # handle order
-        rank_entity = PolicyText.rank
+        rank_entity = PolicyText.score
     else:
-        rank_entity = PolicyText.release_time
+        rank_entity = PolicyText.time
 
     # 检索类型
     query_type = request.args.get('query-type')
@@ -162,19 +169,19 @@ def search():
     elif query_type == 'keyword':
         filter_args.append(PolicyText.translated_keywords.match(query_word))
     else:
-        filter_args.append(PolicyText.translated_title.match(query_word))
+        filter_args.append(PolicyText.title.match(query_word))
 
     # 筛选
     query_country = request.args.get('country', '全部国家', str)
     logger.info(f'received query country: {query_country}')
-    if query_country != '全部国家':
-        filter_args.append(PolicyText.nation == query_country)
+    # if query_country != '全部国家':
+    #     filter_args.append(PolicyText.nation == query_country)
 
     query_field = request.args.get('field', '全部分类', str)
     logger.info(f'received query field: {query_field}')
     if query_field != '全部分类':
         # filter_args.append(func.json_contains(PolicyText.norm_field, f'"{query_field}"') == 1)
-        filter_args.append(PolicyText.correct_field == query_field)
+        filter_args.append(PolicyText.field_main == query_field)
 
     policy_text_pagination = PolicyText.query.filter(*filter_args).order_by(rank_entity).paginate(page=page,
                                                                                                   per_page=PER_PAGE)
@@ -184,8 +191,7 @@ def search():
         if not policy_text.translated_abstract:
             policy_text.translated_abstract = '该政策无摘要'
 
-    country_list = PolicyText.query.with_entities(PolicyText.nation).filter(PolicyText.use,
-                                                                            PolicyText.correct_field != None)
+    country_list = PolicyText.query.with_entities(PolicyText.nation).filter(PolicyText.correct_field != None)
     country_list = [c[0] for c in country_list]
     country_list = ['全部国家'] + list(set(country_list))
 
@@ -226,7 +232,7 @@ def management():
     print(len(policy_text_list))
     policy_to_origin_file_dict = dict()
     for policy_text in policy_text_list:
-        policy_to_origin_file_dict[policy_text.id] = File.query.get(
+        policy_to_origin_file_dict[policy_text.id] = PolicyText.query.get(
             policy_text.original_file)
     return render_template('old/management.html',
                            policy_text_list=policy_text_list,
@@ -251,7 +257,7 @@ def proofread():
     page = request.args.get('page', 1, int)
     policy_text_pagination = PolicyText.query.filter(PolicyText.use).order_by().paginate(page=page, per_page=PER_PAGE)
     policy_text_list = policy_text_pagination.items
-    policy_to_origin_file_dict = {policy_text.id: File.query.get(policy_text.original_file) for policy_text in
+    policy_to_origin_file_dict = {policy_text.id: PolicyText.query.get(policy_text.original_file) for policy_text in
                                   policy_text_list}
     return render_template('proofread.html',
                            policy_text_list=policy_text_list,
@@ -266,12 +272,12 @@ def proofread():
 def details():
     policy_text_id = request.args.get('id', type=int)
     policy_text = PolicyText.query.get(policy_text_id)  # type: PolicyText
-    original_file = File.query.get(policy_text.original_file)  # type: File
-    format_file = File.query.get(
+    original_file = PolicyText.query.get(policy_text.original_file)  # type: File
+    format_file = PolicyText.query.get(
         policy_text.format_file) if policy_text.format_file else None
-    trans_file = File.query.get(
+    trans_file = PolicyText.query.get(
         policy_text.translated_file) if policy_text.translated_file else None
-    checked_file = File.query.get(
+    checked_file = PolicyText.query.get(
         policy_text.checked_file) if policy_text.checked_file else None
     return render_template('edit-details.html',
                            policy_text=policy_text,
@@ -380,10 +386,16 @@ def timeline():
     else:
         news_pagination = News.query.filter_by(id=-1).paginate(page=page, per_page=PER_PAGE)
 
-    news_list = news_pagination.items
-    for news in news_list:
-        news.time = news.time.strftime('%Y-%m-%d')
 
+    news_list2 = news_pagination.items
+    news_list_2 = [news.translated_title for news in news_list2]
+    dic = dict()
+    for new in news_list2:
+        dic[new.translated_title] = new.time
+    for news in dic.keys():
+        # news.time = news.time.strftime('%Y-%m-%d')
+        dic[news] = dic[news].strftime('%Y-%m-%d')
+    news_list = dic
     return render_template('timeline.html',
                            query_word=query_word,
                            pagination=news_pagination,
@@ -394,6 +406,7 @@ def timeline():
 entity_num = 10
 institute_num = 10
 link_num = 10
+kw_num = 10
 import os
 # pwd = os.path.dirname(os.getcwd())
 
@@ -424,6 +437,18 @@ def aip_institute():
 def aip_link():
     superlink2 = get_file('link')[:link_num]
     return render_template('aip_link.html', superlink=superlink2, link_num=link_num)
+
+#引入统计工具
+from util import get_statistic
+
+
+@main.route('/', methods=['GET', 'POST'])
+@main.route('/analysis_keywords.html', methods=['GET', 'POST'])
+@login_required
+@permission_required(Permissions.READ)
+def tech_keywords():
+    keywords = get_statistic(Statistic, 'keywords', kw_num)
+    return render_template('analysis_keywords.html', keywords=keywords, kw_num=kw_num)
 
 
 # --------------------------------以下是api-------------------------------- #
@@ -466,6 +491,32 @@ def get_AIPlink_num():
         return json.dumps({'status':"ok"}), 200
     else:
         return "wrong number"
+
+
+@main.route('/ana_keyword', methods=['POST'])
+@login_required
+def get_keyword_num():
+    global kw_num
+    num = request.form.get('num')
+    num = int(num)
+    # print(num)
+    if 0<num and num<=100:
+        kw_num = num
+        return json.dumps({'status':"ok"}), 200
+    else:
+        return "wrong number"
+
+
+@main.route('/export_keyword', methods=['GET'])
+@login_required
+def export_keyword():
+    num = int(request.args.get('num'))
+    if num>0 and num<=100:
+        entity_num = num
+        res = export_excel2(Statistic, 'keyword', num)
+        return res
+    else:
+        return "导出失败"
 
 @main.route('/export_entity', methods=['GET'])
 @login_required

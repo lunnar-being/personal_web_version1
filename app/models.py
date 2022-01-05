@@ -59,77 +59,84 @@ class User(UserMixin, db.Model):
         return "<User {}>".format(self.id)
 
 
-class File(db.Model):
-    """文件"""
-    __tablename__ = 'file'
-    __table_args__ = {'extend_existing': True}
-
-    id = Column(INTEGER, primary_key=True)  # 文件id，主键
-    filetype = Column(TINYINT)  # 文件类别: 1 origin, 2 format, 3 trans, 4 checked
-    name = Column(TEXT)  # 原始文件名
-    savename = Column(TEXT)  # 保存文件名称 get_md5_str(policy_text.file_url)
-    extension = Column(CHAR(5), nullable=False)  # 文件类型 txt, html, pdf
-    size = Column(VARCHAR(20), server_default=text("'0'"))  # 文件大小
-    create_time = Column(TIMESTAMP, server_default=text('CURRENT_TIMESTAMP'))  # 上传时间
-    update_time = Column(TIMESTAMP, server_default=text('CURRENT_TIMESTAMP'), server_onupdate=text('CURRENT_TIMESTAMP'))  # 修改时间
-    download = Column(INTEGER, server_default=text("'0'"))  # 下载次数
-    extra_info = Column(JSON, server_default=text("'null'"))  # 其他信息
-
-    def __repr__(self):
-        return f"<File {self.id} {self.savename}>"
-
+# class File(db.Model):
+#     """文件"""
+#     __tablename__ = 'file'
+#     __table_args__ = {'extend_existing': True}
+#
+#     id = Column(INTEGER, primary_key=True)  # 文件id，主键
+#     filetype = Column(TINYINT)  # 文件类别: 1 origin, 2 format, 3 trans, 4 checked
+#     name = Column(TEXT)  # 原始文件名
+#     savename = Column(TEXT)  # 保存文件名称 get_md5_str(policy_text.file_url)
+#     extension = Column(CHAR(5), nullable=False)  # 文件类型 txt, html, pdf
+#     size = Column(VARCHAR(20), server_default=text("'0'"))  # 文件大小
+#     create_time = Column(TIMESTAMP, server_default=text('CURRENT_TIMESTAMP'))  # 上传时间
+#     update_time = Column(TIMESTAMP, server_default=text('CURRENT_TIMESTAMP'), server_onupdate=text('CURRENT_TIMESTAMP'))  # 修改时间
+#     download = Column(INTEGER, server_default=text("'0'"))  # 下载次数
+#     extra_info = Column(JSON, server_default=text("'null'"))  # 其他信息
+#
+#     def __repr__(self):
+#         return f"<File {self.id} {self.savename}>"
+#
 
 class PolicyText(db.Model):
     """
     政策
     """
-    __tablename__ = 'policy_text'
+    __tablename__ = 't1'
     __table_args__ = {'extend_existing': True}
 
     id = Column(INTEGER, primary_key=True)  # 政策文本id，主键
     source_url = Column(TEXT, nullable=False)  # 来源url
-    site = Column(VARCHAR(100))  # 站点（域名）
-    nation = Column(VARCHAR(30), nullable=False)  # 国别
-    release_time = Column(DateTime, nullable=False)  # 发布时间
+    # site = Column(VARCHAR(100))  # 站点（域名）
+    # nation = Column(VARCHAR(30), nullable=False)  # 国别
+    time = Column(DateTime, nullable=False)  # 发布时间
     institution = Column(TEXT)  # 发布机构
-    translated_institution = Column(VARCHAR(100))  # 翻译后的发布机构
-    field = Column(VARCHAR(100))  # 领域
-    norm_field = Column(JSON)  # 计算后的领域
-    correct_field = Column(TEXT)  # 人工审核后的领域
-    language = Column(VARCHAR(50), nullable=False)  # 原始语种
+    translated_institution = Column(VARCHAR(255))  # 翻译后的发布机构
+    field_main = Column(VARCHAR(255))  # 领域
+    field_sub = Column(VARCHAR(255))  #
+    # norm_field = Column(JSON)  # 计算后的领域
+    # correct_field = Column(TEXT)  # 人工审核后的领域
+    # language = Column(VARCHAR(50), nullable=False)  # 原始语种
     keywords = Column(TEXT)  # 关键词
-    old_keywords = Column(TEXT)  # 关键词
-    tech_word = Column(TEXT)  # 技术词
-    tech_word_list = Column(JSON)  # 技术词列表
+    # old_keywords = Column(TEXT)  # 关键词
+    # tech_word = Column(TEXT)  # 技术词
+    # tech_word_list = Column(JSON)  # 技术词列表
     translated_keywords = Column(TEXT)  # 翻译后的关键词
-    original_title = Column(TEXT, nullable=False)  # 原始标题
-    translated_title = Column(TEXT)  # 中文标题
+    title = Column(TEXT, nullable=False)  # 原始标题
+    # translated_title = Column(TEXT)  # 中文标题
     abstract = Column(TEXT)  # 摘要
     translated_abstract = Column(TEXT)  # 翻译后的摘要
-    file_url = Column(TEXT)  # 文件来源url
-    original_file = Column(db.ForeignKey('file.id', ondelete='CASCADE', onupdate='CASCADE'), index=True)  # 原始版本文件id
-    format_file = Column(db.ForeignKey('file.id', ondelete='CASCADE', onupdate='CASCADE'), index=True)  # 原始版本文件id
-    translated_file = Column(db.ForeignKey('file.id', ondelete='CASCADE', onupdate='CASCADE'), index=True)  # 机翻版本文件id
-    checked_file = Column(db.ForeignKey('file.id', ondelete='CASCADE', onupdate='CASCADE'), index=True)  # 审校版本文件id
-    use = Column(BOOLEAN)  # 是否使用
-    recommend = Column(BOOLEAN)
-    rank = Column(FLOAT)  # 评分
-    spider_condition = db.Column(INTEGER)  # 0 pdf, 1 html
-    doc_type = db.Column(VARCHAR(20))  # 'report', 'strategy', ''
-    create_time = Column(TIMESTAMP, server_default=text('CURRENT_TIMESTAMP'))  # 上传时间
-    update_time = Column(TIMESTAMP, server_default=text('CURRENT_TIMESTAMP'), server_onupdate=text('CURRENT_TIMESTAMP'))  # 修改时间
-    modified_by = Column(TEXT)  # 上次被xxx修改
+    # file_url = Column(TEXT)  # 文件来源url
+    original_file = Column(TEXT)  # 原始版本文件id
+    format_file = Column(TEXT)  # 原始版本文件id
+    translated_file = Column(TEXT)  # 机翻版本文件id
+    checked_file = Column(TEXT)  # 审校版本文件id
+    # use = Column(BOOLEAN)  # 是否使用
+    # recommend = Column(BOOLEAN)
+    entity_institution = Column(TEXT)
+    entity_location = Column(TEXT)
+    entity_person = Column(TEXT)
+    entity_other = Column(TEXT)
+    entity_time = Column(TEXT)
+    entity_policy = Column(TEXT)
+    score = Column(FLOAT)  # 评分
+    # spider_condition = db.Column(INTEGER)  # 0 pdf, 1 html
+    # doc_type = db.Column(VARCHAR(20))  # 'report', 'strategy', ''
+    # create_time = Column(TIMESTAMP, server_default=text('CURRENT_TIMESTAMP'))  # 上传时间
+    # update_time = Column(TIMESTAMP, server_default=text('CURRENT_TIMESTAMP'), server_onupdate=text('CURRENT_TIMESTAMP'))  # 修改时间
+    # modified_by = Column(TEXT)  # 上次被xxx修改
     # 准备新增：
     # 爬虫信息，翻译后的摘要、关键词、机构
     # md5值、原始机构
 
-    original_file_rl = db.relationship('File', foreign_keys=[original_file])
-    format_file_rl = db.relationship('File', foreign_keys=[format_file])
-    translated_file_rl = db.relationship('File', foreign_keys=[translated_file])
-    checked_file_rl = db.relationship('File', foreign_keys=[checked_file])
+    # original_file_rl = db.relationship('File', foreign_keys=[original_file])
+    # format_file_rl = db.relationship('File', foreign_keys=[format_file])
+    # translated_file_rl = db.relationship('File', foreign_keys=[translated_file])
+    # checked_file_rl = db.relationship('File', foreign_keys=[checked_file])
 
-    def __repr__(self):
-        return f"<PolicyText {self.id} {self.site}>"
+    # def __repr__(self):
+    #     return f"<t1 {self.id} {self.source_url}>"
 
 
 class News(db.Model):
@@ -168,6 +175,31 @@ class Event(db.Model):
     def __repr__(self):
         return f"<Event {self.id} {self.site}>"
 
+
+class Statistic(db.Model):
+    """
+    统计
+    """
+    __tablename__ = 'statistics'
+    __table_args__ = {'extend_existing': True}
+
+    rank = Column(INTEGER, primary_key=True)  # 新闻id，主键
+    keywords = Column(TEXT, nullable=False)  # 新闻标题
+    institution = Column(TEXT, nullable=False)  # 翻译后的新闻标题
+    time = Column(TEXT, nullable=False)  # 发布时间
+    policy = Column(TEXT, nullable=False)  # 新闻内容
+    location = Column(TEXT, nullable=False)
+    person = Column(TEXT, nullable=False)
+    other = Column(TEXT, nullable=False)
+    keywords_number = Column(INTEGER)
+    institution_number = Column(INTEGER)
+    time_number = Column(INTEGER)
+    policy_number = Column(INTEGER)
+    person_number = Column(INTEGER)
+    other_number = Column(INTEGER)
+
+    def __repr__(self):
+        return f"<Statistics {self.id} {self.site}>"
 
 if __name__ == '__main__':
     # db.create_all()

@@ -55,9 +55,13 @@
                   <th width="17%">新下载文档</th>
                 </tr>
                 {% for foo in [('英国政府网', 'https://www.gov.uk', 'govuk'),
-                ('欧盟出版物', 'https://op.europa.eu', 'opeu'),
-                ('美国战略与国际研究中心', 'https://www.csis.org', 'csis'),
-                ('美国信息技术与创新基金会', 'https://itif.org', 'itif')] %}
+                ('美国能源局', 'https://www.energy.gov/', 'DOE'),
+                ('麦肯锡公司', 'https://www.mckinsey.com/', 'mckinsey'),
+                ('兰德公司', 'https://www.rand.org/', 'rand'),
+                ('哈佛大学贝尔福研究中心', 'https://www.belfercenter.org', 'bc'),
+                ('众议院军事委员会', 'https://armedservices.house.gov/', 'hasc'),
+                ('美国国防部', 'https://www.defense.gov/', 'DOD'),
+                ] %}
                   <tr>
                     <td>
                       <button class="btn btn-primary collect-btn" id="collect-btn-{{ foo[2] }}">采集</button>
@@ -79,7 +83,12 @@
                   </tr>
                 {% endfor %}
               </table>
+                <div class="form-check form-switch">
+              <span style="width:20px"></span><input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckChecked" checked>
+              <label class="form-check-label" for="flexSwitchCheckChecked">每日24:00自动采集</label>
+          </div>
             </div>
+
           </div>
         </div>
       </div>
