@@ -1,0 +1,33 @@
+
+    
+    
+
+        
+        
+        
+    Key takeaways
+    The ongoing input cost increases and volatility, while representing a difficult challenge, provide an opportunity to improve pricing through adoption of best practices.
+    Organizations that adopt a strategic approach to pricing actions can significantly minimize margin leakage during a pricing action.
+    Our four-step approach can put your organization on a path to pricing excellence, allowing you to recover cost increases and minimize negative impacts to financial performance in a responsible, transparent, and customer-centric manner.
+
+	
+ on demand and pricing varied across industries. While demand initially fell significantly for segments such as luxury retail and food service, others such as consumer building products saw demand spike as people invested in their homes. The pandemic also disrupted supplier operations and supply chains, leading to significant availability issues across products and geographies.Not surprisingly, most companies during the past 18 months focused on meeting customer demand and managing profitability through targeted cost savings. Pricing remained an afterthought. And while many upstream players have begun to increase prices in response to cost increases, downstream organizations have balked. Many have left prices largely unchanged or have implemented only minor increases, especially during mid- to late 2020, concerned about the impact on communities when lives and livelihoods are at risk.Yet the business environment in recent months has been very different. In the United States, the consumer price index jumped 5.4 percent in June, its biggest monthly gain since August 2008.
+
+
+ Raw-material costs have also been increasing steadily since July 2020 (Exhibit 1). As a result, several manufacturers and distributors have implemented price increases to keep up with rising costs and minimize impact on financial performance.
+    
+The decision to implement price changes in an atmosphere still heavily impacted by a global pandemic is not easy. Pricing strategies grounded in advanced data analytics, informed by value created for customers, and supported by well-planned price execution can help put a check on the degradation of financial performance, potentially narrowing the gap between supply and demand. It may also position companies for improved financial performance when business returns to postpandemic normalcy. Yet price changes are not simple and can carry risks: our analysis shows poor management of pricing actions can wipe 66 cents off every dollar of potential price improvement (Exhibit 2).
+    
+As companies imagine the postpandemic economy, leaders ready to invest in pricing to counter inflation and to build strong foundations for growth may want to carefully consider four steps:
+    
+    
+    
+    
+By strategically and systematically implementing price changes, companies could effectively pass on input-driven cost increases (or decreases) in a value-based way while potentially creating healthier pricing practices and stronger customer relationships that will endure.
+    
+A (new) world of cost volatilityAfter the upheaval of the past year, demand has begun to stabilize at a new level—often very different than before the COVID-19 pandemic. Supply chains are adjusting to the next normal, and prices of raw materials are increasing rapidly, primarily trending upward across categories. To accommodate this shift in input costs, manufacturers and distributors may have to adjust their pricing strategies. Yet many commercial leaders have hesitated, reluctant to reflect the impact of input cost increases in their product prices. This hesitation may be driven primarily by the fear that being the “first mover” in their segment could potentially hurt customer relationships in a way that is only worsened by the pandemic (for example, significant volume loss). Yet we believe there are few alternatives to passing on (at least partially) input cost increases.In our experience, being reactive about a price increase often leads to last-minute, generic, broadbrush price hikes that lower customer satisfaction and worsen any systematic pricing or margin strategies companies may have in place. For example, in  we shared the story of a packaging company that delayed changing its prices for a few quarters before being compelled to pass through a sweeping price increase to mitigate the impact of a 20 percent yearly rise in raw-material costs. The move wasn’t aligned with its overall pricing strategy, and the organization hadn’t prepared its sales force to respond to customers’ concerns and questions. Within three months, it lost double-digit market share and had to roll back a portion of the price changes.A four-step approach to pricing successCompanies should consider investing in a careful and strongly executed plan both to maintain margins and to create stronger customer relationships and healthier pricing practices. To carry this out, most decision makers can adopt a four-step approach to pricing discipline:
+    
+    
+    
+    
+While these four steps feel intuitively accurate and simple, the real challenge organizations face is their ability to execute them with enough granularity, accuracy, and speed to make them effective and actionable. In our experience, organizations may avoid taking action because of a perception that they lack sufficient data and analytic talent to make progress. The reality is that most organizations have adequate data within existing systems to undertake basic analyses and straightforward actions.Those realizing value with this approach can then begin to invest further in their systems, especially dynamic pricing systems, as well as in acquiring analytic talent to uncover future pricing opportunities. Coupled with a focused change-management effort across the organization, these organizations put themselves on a road to achieving the cross-functional collaboration necessary to deal with cost increases, price volatility, and any other challenge that might arise. It’s a path to pricing excellence: organizations can potentially recover cost increases and minimize negative impacts to financial performance in a responsible, transparent, and customer-centric manner

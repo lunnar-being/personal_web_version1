@@ -1,0 +1,532 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Set up a commercial or digital and technology spend controls pipeline
+  
+
+  
+  
+  
+      
+  Follow this guidance to create forward-looking pipelines for version 5 of the commercial and digital and technology spend controls processes.
+
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Cabinet Office
+
+      
+      Published
+      30 April 2018
+      Last updated
+      
+        11 September 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Purpose of pipelines
+
+        
+        
+          Pipeline templates
+
+        
+        
+          Help creating pipelines
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+You can read the definition of pipelines and the qualifying criteria in the spend controls policy summary.
+
+Purpose of pipelines
+
+Your organisation must create and maintain pipelines showing future activity to join version 5 of the commercial and digital and technology spend controls process. Pipelines help your organisation to:
+
+
+  see all commercial, digital and technology spend activity
+  plan resourcing and capability requirements
+  improve spend planning and transparency for your management team
+  focus expertise on spend activities that require more oversight, allowing you to spot patterns or duplicated spend within your organisation
+  reduce retrospective spend requests
+  plan for extensions, renewals, and new requirements earlier
+  promote assurance activity that is sensible and proportionate
+
+
+Overlap between pipelines
+You can overlap commercial pipelines with digital and technology pipelines. For example, when digital and technology activity totals £10 million or over, you must feature this activity on both pipelines during the triaging process. You should work jointly with the Government Digital Service (GDS) and the Cabinet Office Central Commercial Teams to ask for approval.
+
+You must include any ongoing activity that could incur future spend in both pipelines, even if you have not secured funding. This includes Independent Shared Service Centres activity, for example, current or new back office/administrative systems a website or service such as hosting, data centres, voice and video, security expenditure related to PSN.
+
+Pipeline templates
+Your organisation must record activities on your pipelines, and you should add new spend to your pipeline as soon as possible.
+
+You must make sure planned spend is included in your pipeline and within scope of the respective controls. You do not need to include existing contracts that you are not replacing in the pipeline.
+
+The Cabinet Office has developed 2 templates of what you should include in commercial and digital and technology pipelines, at a minimum.
+
+Commercial pipeline template
+
+
+  
+    
+      Field
+      What to include (if applicable)
+      
+    
+  
+  
+    
+      Reference number
+      Enter the unique organisation reference number, if applicable.
+       
+    
+    
+      Business area
+      Enter the business area/organisation owner for this contract.
+       
+    
+    
+      Short description
+      A short contextual entry about the activity. This should reference how the activity delivers your organisation’s strategy and what is being purchased. Please reference the overarching programme when relevant.
+       
+    
+    
+      Contract title
+      The planned or published activity name
+       
+    
+    
+      Commercial strategy
+      The commercial strategy or approach for the commercial activity. Potential options include: 1. New requirement  2. Re-procurement (same scope) 3. Re-procurement (different scope) 4. Extension
+
+       
+    
+    
+      Existing contract end date
+      Enter the end date of the existing contract, for example, the first date that the contract needs replacing. If this is a new requirement, please enter N/A if not applicable.
+       
+    
+    
+      Next Business Case Stage
+      You should include your business case, either in its strategic outline, rough draft, or full outline.
+       
+    
+    
+      Planned date for next business case stage
+      Enter a valid date for your next business case.
+       
+    
+    
+      Procurement start date
+      Enter your procurement procedure start date. For example, the release of OJEU or commencement of a further competition under a framework agreement.
+       
+    
+    
+      Contract start date
+      Enter a valid start date for your new contract.
+       
+    
+    
+      New contract end date (excluding options)
+      Enter a valid end date of the new contract. This excludes options, for example, options for extension.
+       
+    
+    
+      Value of new contract (excluding options)
+      Enter the £ value of the new contract. This excludes any value associated with options for extension.
+       
+    
+    
+      Procurement sourcing route
+      The procurement vehicle being used to source the contract. Options include Framework, OJEU, below OJEU and Dynamic Purchasing Systems.
+       
+    
+    
+      Level of competition
+      How did you award your supplier contract? For example, was there a competitive tender, a mini-competition, a single source or a direct award?
+       
+    
+    
+      Spend category
+      You should classify the type of work you’re doing with the spend. This can be from any system your organisation uses as a standard practice, including CAS, CPV, UNSPSC.
+       
+    
+    
+      Contract tiering
+      You should include the contract tier classification as per your organisation preference and outline the level of risk, for example, Tier 1,2,3 / Gold, Silver, Bronze.
+       
+    
+    
+      Existing Supplier
+      Enter the name of your current supplier of the service, if applicable.
+       
+    
+    
+      Which functional standards apply
+      Enter the type of Cabinet Office spend controls that apply. For example, digital and technology, commercial or property.
+       
+    
+    
+      Assessment against functional standards (triage)
+      Your spend will have been assessed by your organisation. It will either be assured, monitor, control, or pending.
+       
+    
+    
+      Senior Responsible Owner
+      Enter the Senior Responsible Owner for each contract or spend activity.
+       
+    
+    
+      Main Contact
+      Enter the name and contact details of the single point of contact.
+       
+    
+  
+
+
+Digital and technology pipeline template
+
+Download a template of the digital and technology pipeline
+
+
+  
+    
+      Field
+      What to include (Compulsory fields are marked)
+    
+  
+  
+    
+      Programme identifier
+      To improve data quality departments should give every line a unique reference number. Programme identifiers are optional.
+    
+    
+      Project identifier (compulsory)
+      You must have a project identifier. To improve data quality departments should give every line a unique reference number.
+    
+    
+      Department (compulsory)
+      Enter a shortened name of the department. This should be well-known like DEFRA or MOD.
+    
+    
+      Area (compulsory)
+      This should be the arm’s length body (ALB) or directorate.
+    
+    
+      Project name (compulsory)
+      Enter the full name of the project.
+    
+    
+      Requires service assessment
+      Enter whether this spend requires a service assessment. This could be: GDS  Internal No  TBC
+    
+    
+      Assurance level (compulsory)
+      Enter the Assurance Level. This will be one of the following: Assured Monitor  Control Pending Information (this is for information only)
+    
+    
+      Assurance level reason (compulsory)
+      Enter a reason for the assurance level referencing the Technology Code of Practice and the GDS spend controls pipeline assessment criteria.  Enter N/A if not applicableYou should enter any monitor or control reasons here. If there is a change in the assurance level this should be noted here.
+    
+    
+      Digital pipeline reference
+      If a project or programme is marked as control and put through for assurance by the STA, record the case number here.
+    
+    
+      Spend control type
+      Enter either Digital (public facing) or Technology (internal facing)  Novel or Contentious.  If a project has a digital element, then the whole spend should be treated as digital spend. Only one selection should be made.
+    
+    
+      Description (compulsory)
+      Enter a short 100 word description about the activity. This should reference how the activity delivers your organisation’s strategy and what is being purchased. You should reference the overarching programme when relevant. You can use the following structure: Objectives Outcomes  Benefits Timescales
+    
+    
+      Service
+      What digital service is this project part of? Enter N/A if not applicable.
+    
+    
+      Spend start date
+      Enter the date that the spend is due to start. This can be an estimated date that may change. Use the format 21/11/2020.
+    
+    
+      Most recent review date
+      Enter the last date the service or activity was reviewed. Use the format 21/11/2020.
+    
+    
+      Next Review date
+      Enter the next date the project, programme, product, activity or service will be reviewed. Use the format 21/11/2020.
+    
+    
+      First alpha assessment date
+      For digital services this will be the date of its first alpha assessment. This should take place within 3 months of the spend start date. Use the format 21/11/2020. If there is no alpha assessment enter N/A.
+    
+    
+      Public beta start
+      Enter the expected date of the public beta launch. This can be an estimated date. Use the format 21/11/2020. If there is no public beta start enter N/A.
+    
+    
+      Date expected live
+      This is the expected date of live. For a digital service this will be a successful live service assessment. For a technology project, this will be when the service is available. This can be an estimated date. Use the format 21/11/2020.
+    
+    
+      Project phase
+      Enter the project phase. This should be one of the following:  Pre-Discovery  Discovery AlphaPrivate Beta Beta  Live  Paused  Stopped
+    
+    
+      Business case phase
+      Enter the business case phase: Strategic Outline Business Case (SOBC) Outline Business case (OBC)Full Business Case (FBC)  Programme Business Case (PBC) N/A if not applicable
+    
+    
+      Approved cost
+      This should be the approved cost exclusive of VAT.  If you have projects and programmes then this will only be populated at the project level. Use the format 2,000,165. If you want to include £, make sure the cells are formatted to the ‘currency’ setting.
+    
+    
+      Cost comment
+      Any comments around the approved cost.
+    
+    
+      Estimated lifetime spend
+      For a digital project this is the cost from discovery to live. For a technology project this is total spend. Use the format 2,000,165. If you want to include £, make sure the cells are formatted to the ‘currency’ setting.
+    
+    
+      Estimated lifetime spend comment
+      Add any comments regarding estimated life time spend.
+    
+    
+      Savings introduced
+      Your GDS Senior Technology Advisor (STA) will provide a framework, which you can use to assess savings on pipeline items. These savings will then be assured by the STA.
+    
+    
+      Status
+      Open - Still spending the money. Closed - Money has been spent or the request has been rejected.  Paused - Project is not spending money currently but is expected to resume.  Pending - Project is known about but has not yet started spending money. You can choose to keep open and closed items on the same sheet, or on a separate sheet in the same document. Please note if your department manages through programmes and projects then you will have open and closed items on the pipeline. If you are running separate sheets, the closed projects should only be moved when a programme as a whole is closed.
+    
+    
+      SRO (compulsory)
+      Enter the name of the Senior Responsible Owner (SRO). This can be a full name or an email.
+    
+    
+      Contact or Project Manager
+      Enter the name of the main contact. This can be a full name or an email. This may be a duplicate if they are also the SRO.
+    
+    
+      Comments
+      This is a free text column to add any additional information. You should aim to use tags when adding comments. Your STA will provide the current list of agreed tags. Enter tags at the end of the comments using the following format: TAGS: Legacy, AI
+    
+    
+      Commercial pipeline reference
+      Enter a reference if it’s on the commercial pipeline.
+    
+    
+      Commercial approach
+      How do you intend to procure the services required? For example: Open tender Direct award  Extension Other (please specify)
+    
+    
+      Route to market
+      Enter the commercial framework or other route to market being used: Commercial Framework  OJEU Other
+    
+    
+      Suppliers
+      List all suppliers delivering this project using a comma separated list. For example, company x, company y, company z
+    
+    
+      Contract end date
+      For multiple contracts then it should be the next one which expires.
+    
+    
+      Contract supplier comment
+      Add any comments relating to contracts or suppliers.
+    
+    
+      Will the project change or create a citizen facing website?
+      Create Change No change Enter N/A if not applicable
+    
+    
+      What is the proposed or existing URL
+      If you are creating or updating an existing website, tell us the domain name.
+    
+  
+
+
+Help creating pipelines
+
+You should note that it may take time for you to create your pipelines, and maintaining them is an ongoing process.
+
+If you need help developing a  commercial pipeline you can work with the GCF Central Commercial Team. Email commercialassurance@cabinetoffice.gov.uk to find out which Commercial Business Partner is assigned to your organisation.
+
+If you need help developing a digital and technology pipeline you can work with a GDS senior technology adviser. Email gdsapprovals@digital.cabinet-office.gov.uk to find out which senior technology adviser is assigned to your organisation.
+
+
+
+
+
+      
+        
+    Published 30 April 2018
+    Last updated 11 September 2020
+      + show all updates
+      
+        
+            
+              11 September 2020
+              Amending the descriptions in the digital and technology pipeline based on user feedback.
+            
+            
+              18 February 2020
+              There is a new template for the digital and technology pipeline.
+            
+            
+              30 April 2018
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Digital and technology spend controls (version 5)
+        GDS spend controls pipeline assessment criteria
+        Assurance frameworks guidance
+        A Shared Services Strategy for Government
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Cabinet Office Controls
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

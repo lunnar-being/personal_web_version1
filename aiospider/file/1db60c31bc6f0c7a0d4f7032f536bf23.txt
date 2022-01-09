@@ -1,0 +1,153 @@
+
+
+The RAND Blog
+Previous Blog PostPresident Biden's First Address to Congress: Insights from RANDNext Blog PostCOVID-19 Disinformation, Biden's Address, Leaving Afghanistan: RAND Weekly Recap
+
+China's Disappeared Uyghurs: What Satellite Images Reveal
+essay
+An ethnic Uyghur boy stands at the door of his home as Chinese security forces secure the area in Urumqi, ChinaPhoto by Nir Elias/Reuters
+
+
+
+April 29, 2021
+
+
+
+One million Uyghurs and other ethnic minorities, maybe more, have vanished into a sprawling network of camps and prisons in China's far west. Chinese officials at first denied the camps even existed. Then they claimed they were for training workers, or for re-educating potential radicals. Then they said it didn't matter—everyone had graduated and was free to go.
+
+
+Satellite data reviewed by RAND tell a different story. They show bright-lit compounds in the desert dark, wall after wall of barbed wire, and a sudden rush to build what appear to be fortified preschools.
+
+
+“This gives us clear evidence of what's happening on the ground in western China,” said Katherine Pfrommer, a quantitative analyst at RAND who helped review the images. “In such a denied area, it's hard to know how conditions are changing and evolving. Satellite images gave us a way to get that information.”
+
+
+The United States has described what is happening to the mostly Muslim Uyghurs as a genocide. Starting in 2016, China launched a campaign of repression, banning Muslim names, forbidding long beards. It transformed the vast Uyghur homeland of Xinjiang into one of the most sophisticated surveillance states in the world, bristling with police checkpoints and facial-recognition cameras. Then people began to disappear.
+
+
+Students coming home on break found empty houses. Officials told them their parents had been “infected” by the virus of Islamic radicalism and needed to be quarantined and cured, according to documents obtained by The New York Times. Occasional stories began to emerge from the camps: high-pressure indoctrination classes; forced labor; physical and sexual abuse; a grinding out of Uyghur language, culture, and identity.
+
+The Growth of Detention Facilities
+
+Researchers at RAND had used satellite observations to get inside the Islamic State, to see how it governed and how cities fared when it took over. Now they turned their attention to Xinjiang. Working with the National Geospatial-Intelligence Agency (NGA), they began looking at detention camps that Chinese officials insisted were empty.
+
+
+“It's breathtaking how much satellite imagery is publicly available,” said Edmund Burke, the former senior China officer at the NGA, now a senior international defense researcher at RAND. “You see stories about one particular camp, or hear one harrowing account from someone who got out of Xinjiang. We realized we could advance those stories and help provide a broader account of what is happening there.”
+
+This nighttime satellite view shows the location of each detention and re-education camp in Urumqi, Xinjiang province, China, January 2021
+Image by NOAA VIIRS and OpenStreetMap
+
+Australian researchers had already mapped 380 suspected detention facilities scattered across Xinjiang, based on media reports, government documents, and their own review of satellite data. RAND's team started there and then focused in on how the nighttime lighting at those locations changed over time, an indication of activity there. They saw the same pattern, again and again, starting in earnest in 2016: the glaring lights of construction work, followed by the steady glow of a new prison or detention center.
+
+
+China's approach may have shifted in 2019 and 2020 from the short-term detention and re-education of Uyghur people to long-term incarceration.Share on Twitter
+In fact, lighting kept increasing at nearly half of the facilities through at least mid-2020, an indication that they were not just active, but growing. At most other facilities, lighting levels stayed steady, or declined some, but never dimmed to where they had been before. That suggested to the researchers that those facilities were still operating, but possibly at reduced capacity.
+
+
+The facilities that slowed down seemed to be mostly lower-security re-education sites. Those that grew looked more like prisons, with high walls spiked with barbed wire. That may indicate that China's approach shifted in 2019 and 2020, from the short-term detention and re-education of Uyghur people to long-term incarceration.
+A guard tower and barbed wire fences are seen around a facility in the Kunshan Industrial Park in Artux, Xinjiang, December 3, 2018
+Photo by Ng Han Guan/AP
+
+Only 51 of the facilities showed the kind of significant lighting decline that could indicate a closure. But when researchers looked at satellite photos of those sites, they found evidence that most were still active. There were cars in the parking lots, people standing outside, walkways plowed of snow. Despite Chinese assurances that the camps had closed, the researchers concluded that only 11 of them—3 percent of the total they examined—showed any real signs of closure by mid-2020.
+
+
+“The data is so granular that you can see, down to a city block, how bright the lights are, and how that changes, every month,” said Sean Mann, a policy analyst at RAND who specializes in data science. “Even in urban areas, we could identify these lighting signatures that showed us where they were establishing camps, where they were expanding them, and when they really decommissioned them.”
+A Sustained Campaign
+
+Journalists had reported seeing boarding schools in Xinjiang that appeared to house children whose parents had been taken away. The researchers began scrolling through satellite images to find these facilities. They identified nearly 100 in three towns alone—“postage stamp” buildings, often two or three stories tall, many with high walls and a single controlled point of entry. Some had decorative towers, some had colorful circles on the ground, but they all had a telltale play structure outside. Most of the schools appeared within a matter of months, just as the detention camps were lighting up.
+
+
+The researchers also saw evidence of destroyed Uyghur cemeteries. China had acknowledged that it demolished some grave sites to make way for roads, parks, and high-rise buildings. The researchers did indeed find factories, farms, buildings, and green space on some of the old cemeteries. But nearly a third seemed to have been razed for no apparent reason.
+
+A satellite image shows what appears to be a multifacility detention center in Xinjiang
+Image by Digital Globe and NGA Tearline
+
+RAND published its findings in a series of reports in the NGA's public online journal, Tearline. Taken together, they provide new and visual evidence of the furious pace with which China carried out its detention campaign against the Uyghurs and other ethnic minority groups in Xinjiang. The satellite data “allowed us to capture and really understand the extent to which the broader detention network just kind of turned on overnight,” said Eric Robinson, a research programmer and analyst at RAND.
+
+
+The researchers hope to continue piecing together a bird's-eye view of what's happening in Xinjiang. In particular, they want to take a closer look at allegations of forced labor in local factories, some of which supply major global brands. Their lighting data showed that camps administered by the state-owned Xinjiang Production and Construction Corps grew especially quickly.
+
+
+Their work is a continuation of some of RAND's earliest research. During the Cold War, RAND helped pioneer satellite technology as the United States raced to see behind the Iron Curtain. The first report it ever published, in fact, proposed a “preliminary design of an experimental world-circling spaceship,” a decade before the launch of Sputnik. Such an “observation aircraft,” the researchers wrote in 1946, would provide an unobstructed view across the “whole surface of the world.”
+
+—Doug Irving
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+Topics
+ China
+Displaced Persons
+Forced Migration
+Geographic Information Systems
+Imagery Intelligence
+International Humanitarian Law
+Minority Populations
+Preschool Children
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Journal Article
+Investigating the Growth of Detention Facilities in Xinjiang Using Nighttime Lighting
+
+Feb 26, 2021
+Eric Robinson @RobinsonEricD, Sean Mann
+
+
+
+
+
+
+
+
+
+
+Commentary
+Upcoming Summit an Opportunity for Japan to Reconsider Whether to Join Rest of G-7 in Sanctioning China Over Genocide
+
+Apr 15, 2021
+Scott W. Harold @ScottWHarold
+
+
+
+
+
+
+
+
+
+
+Commentary
+How Washington Could Make Beijing Listen on Xinjiang
+
+Jan 17, 2020
+Mollie Saltskog, Colin P. Clarke
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:Blog","Research Topics:Geographic Areas/East Asia/China","Research Topics:International Affairs/International Law/International Humanitarian Law","Research Topics:Children, Families, and Communities/Populations/Students/Preschool Children","Research Topics:Children, Families, and Communities/Migration/Forced Migration","Research Topics:Science and Technology/Communication Technology/Communication Systems/Geographic Information Systems","Research Topics:Children, Families, and Communities/Populations/Migrants/Displaced Persons","Content Types:Essay","Research Topics:Children, Families, and Communities/Populations/Minority Populations","Research Topics:National Security and Terrorism/Intelligence Community/Imagery Intelligence"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Blog","value":"content-types:blog"},{"display":"China","value":"research-topics:geographic-areas/east-asia/china"},{"display":"International Humanitarian Law","value":"research-topics:international-affairs/international-law/international-humanitarian-law"},{"display":"Preschool Children","value":"research-topics:children-families-and-communities/populations/students/preschool-children"},{"display":"Forced Migration","value":"research-topics:children-families-and-communities/migration/forced-migration"},{"display":"Geographic Information Systems","value":"research-topics:science-and-technology/communication-technology/communication-systems/geographic-information-systems"},{"display":"Displaced Persons","value":"research-topics:children-families-and-communities/populations/migrants/displaced-persons"},{"display":"Essay","value":"content-types:essay"},{"display":"Minority Populations","value":"research-topics:children-families-and-communities/populations/minority-populations"},{"display":"Imagery Intelligence","value":"research-topics:national-security-and-terrorism/intelligence-community/imagery-intelligence"}];})();
+

@@ -1,0 +1,675 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Post-combustion carbon dioxide capture: best available techniques (BAT)
+  
+
+  
+  
+  
+      
+  The available techniques which are the best for preventing or minimising emissions and impacts on the environment from post-combustion carbon dioxide capture.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Environment Agency
+
+      
+      Published
+      2 July 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          1. Who this guidance is for
+
+        
+        
+          2. Power plant selection and integration with the PCC plant
+
+        
+        
+          3. PCC plant design and operation
+
+        
+        
+          4. Cooling
+
+        
+        
+          5. Discharge to water
+
+        
+        
+          6. Climate change adaptation
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+You can fit post-combustion carbon capture (PCC) plants to new or existing power plants to capture the carbon dioxide (CO2) in the flue gas. This is so the CO2 can be either:
+
+
+  stored in permanent underground geological storage facilities
+  used as a product
+
+
+BAT means the available techniques which are the best for preventing or minimising emissions and impacts on the environment.
+
+Except where stated, this BAT guidance is not a regulatory requirement but identifies important environmental issues to address and best practice.
+
+1. Who this guidance is for
+
+This guidance covers PCC plants that use amine-based technologies to capture CO2 from the flue gases of power and CHP plants fuelled by natural gas and biomass.
+
+In the UK these installations are permitted under the:
+
+
+  Environmental Permitting Regulations (England and Wales) 2016
+  Pollution Prevention and Control (Scotland) Regulations 2012
+  Pollution Prevention and Control (Industrial Emissions) Regulations (NI) 2013
+
+
+For environmental permitting purposes, a PCC plant is a Part A (1) 6.10 activity in its own right when the CO2 is being captured for geological storage. It could also be a directly associated activity with a combustion activity installation when the CO2 is captured and used for other purposes.
+
+This guidance is for:
+
+
+  operators when designing their plants and preparing their application for an environmental permit
+  regulatory staff when setting conditions in environmental permits
+  any other organisation or members of the public who want to understand how the environmental regulations and standards are being applied
+
+
+The guidance covers both new plants and retrofits to existing plants.
+
+The guidance is supported by a BAT review on the same topic which summarises the available evidence. This guidance refers to relevant sections in the BAT review.
+
+The guidance does not include carbon capture for use, though much of this BAT guidance is relevant where you use amine capture solvents.
+
+Current BAT identifies carbon capture as an emerging technique in the large combustion plant (LCP) BAT reference document (BREF) but does not address all the potential effects of carbon capture. This situation is addressed by Article 14(6) of the Industrial Emissions Directive (IED) where regulators must set permit conditions covering emission limit values (ELVs) together with other permit conditions. These conditions must be based on their own determination of BAT using the criteria listed in Annex III of the IED. They should also consult with operators during this process.
+
+Permit conditions must also protect the environment by setting conditions to ensure no environmental quality standards are breached (Article 18 of the IED).
+
+If you operate a large combustion plant, you will need to comply with the:
+
+
+  IED Chapter III Annex V ELVs
+  
+BAT associated emission limits (AELs) identified in the LCP BREF
+
+
+
+You can apply for a temporary derogation of BAT AELs for up to 9 months, on the basis that carbon capture is testing and using an emerging technique (see Article 15(5) of IED).
+
+When you apply for an environmental permit for this activity, you must tell us whether you’re going to follow this guidance or propose an alternative.
+
+UK regulators have worked with the UK CCS Research Centre, Carbon Capture and Storage Association and other stakeholders to develop this BAT guidance for PCC.
+
+2. Power plant selection and integration with the PCC plant
+
+2.1 Efficiency of fuel use in power and CHP plants with PCC
+
+
+You must maximise the thermal energy efficiency of the power plant and of the supply of heat for the associated PCC plant.
+
+You should refer to the LCP BREF which gives BAT definitions that include thermal efficiencies for new and existing power plant technology. Also refer to section 4.13 of the IED environmental permitting regulations guidance on Part A installations.
+
+For natural gas power plants, lower heating value efficiencies of 60% or above without CO2 capture are reported in the LCP BREF to be achievable for large-scale new combined cycle gas turbine installations.
+
+New biomass power plant efficiencies will depend on:
+
+
+  the size and type of boiler
+  whether you use sub- or super-critical steam conditions
+
+
+You can reduce the impact of adding PCC by using power plant technologies that give highest thermal efficiencies without CO2 capture, since these have low specific CO2 emissions (tonnes CO2 per megawatt hour).
+
+If you expect to use more fuel to help meet the heat or power needs of the PCC plant, you should also integrate the most efficient power plant technologies for that fuel capturing additional CO2.
+
+You should apply fuel input, electricity output and CO2 emission metrics in the same way as you would to a power plant with fully integrated PCC (see section 2.3 on supplying heat and power for PCC operation).
+
+2.2 Dispatchable operation
+
+In line with the needs of a UK electricity system with a large amount of intermittent renewable generation, all thermal power plants, including those with CO2 capture, are likely to be dispatchable.
+
+This means that the power plant operator can, within technical limits on rates of change in output and on minimum stable generation levels, operate the plant at any required output, up to its full load, at any time, and sustain this output indefinitely.
+
+For CHP plants, some variation in electrical output may also be possible. However, they may not be able to meet the requirements for good quality CHP over periods when electrical output is constrained. The design of the power plant may be changed to help variable operation, possibly with a slight impact on full load thermal efficiency.
+
+2.3 Supplying heat and power for PCC operation
+
+You will need to use low grade (for example 130°C) heat and electrical power to operate the PCC plant. You should work out the amounts needed based on factors that include the:
+
+
+  selected solvent
+  
+PCC plant configuration
+  
+CO2 capture level
+  
+CO2 delivery pressure
+
+
+You should supply this heat and electricity from the main power plant. Where not possible, this will need to be by fuel combustion in ancillary plants (with CO2 capture) that are then also treated as a power plant system for performance calculations.
+
+The ratio between heat supplied as steam (or otherwise) and electricity output lost will depend on the:
+
+
+  temperature at which you need to supply heat
+  steam condenser cooling water temperature
+
+
+For a biomass power plant steam cycle, you should use waste heat from the PCC plant in both the power plant condensate and feed water heating system, to minimise the net loss of power output.
+
+Typically, the best heat supplied to lost power ratio will exceed 4:1 for regeneration heat supplied at 130°C. It follows that if you use electricity instead of steam in PCC heating, for example to compress the vapour produced from flashing lean amine so that it can be fed back into the amine stripper, you should aim to achieve a similar ratio. This will ensure that the overall impact on plant electricity output is no higher than for steam extraction.
+
+You will achieve the best use of any additional fuel inputs when as much electricity as possible is also generated from the energy in the fuel before supplying the low grade heat. You can assess this based on:
+
+
+  the thermal efficiency of a BAT baseload-capable power plant without capture using that fuel
+  the ratio between heat supplied for PCC and the reduction in electrical power output from the relevant unabated BAT power plant output in the LCP BREF, which should exceed 4:1 for a typical amine regeneration heat supply at 130°C
+
+
+3. PCC plant design and operation
+
+3.1 Purpose
+
+The purpose of the PCC plant is to maximise the capture of CO2 emissions for secure geological storage.
+
+You should aim to achieve a design CO2 capture rate of at least 95%, although operationally this can vary, up or down.
+
+You should capture CO2 during start-up and shutdown as part of using BAT.
+
+You will need to deliver CO2:
+
+
+  at local transport system pressures (gas phase such as 35 bar or dense phase such as 100 bar)
+  with levels of water, oxygen and other impurities as required for transport and storage such as that for the system operator National Grid (NGC/SP/PIP/25 Dec.2019)
+
+
+The PCC plant must also have acceptable environmental risks through preventing or minimising emissions, or render them harmless.
+
+You must achieve environmental quality standards for air emissions from the PCC plant and their subsequent atmospheric degradation products (including, for example, nitrosamines and nitramines). You should confirm this using:
+
+
+  atmospheric dispersion and reaction modelling tools
+  specific site parameters which will define plant-specific ELVs
+
+
+
+Find out more about how to complete an air emissions risk assessment for your environmental permit.
+
+Your PCC system design should aim to minimise the overall electricity output penalty on the power or CHP plants from all aspects of PCC plant operation, as much as possible. It should do this while meeting the CO2 capture requirements set out in this guidance.
+
+3.2 Solvent selection
+
+While the process design for the PCC plant is likely to be generally similar for all solvents, the amine solvent you select will determine details of the design and performance.
+
+Solvent types and published performance figures are described in the BAT review. There is particular concern about impacts on the environment from nitrosamines and other potentially harmful compounds formed by reaction of the amines and their degradation products with nitrogen oxides (NOx) in the flue gases. Check the environmental standards for air emissions for the protective environmental assessment levels. You have a choice between:
+
+
+  solvents using primary amines that may require more heat for regeneration but will not readily form stable nitrosamines in the PCC plant, especially if a high level of reclaiming is used to remove degradation products
+  solvent formulations including secondary amines or other species that may have lower regeneration heat requirements may readily form nitrosamines with NOx in the flue gases in the PCC plant - for controls, see section 3.3 on features to control and minimise atmospheric and other emissions
+
+
+The project-specific potential for absorber stack emissions and consequent environmental impacts will depend on the selected solvent. You should assess your plant design and operation, plus local environmental factors, based on:
+
+
+  direct emissions of solvent components
+  formation of additional substances in the PCC system and emissions of those substances
+  formation of further additional substances in the atmosphere from emissions from the PCC system
+
+
+The potential for solvent reclaiming and other cleaning methods is also an important factor in solvent selection. You should make sure it is practicable to remove all non-solvent constituents from the solvent inventory as fast as they are added during operation, to avoid accumulation. You should also make sure that you:
+
+
+  recover a high fraction of the solvent in the feed to the reclaimer during reclaiming
+  minimise reclaimer wastes and that they can easily be disposed of
+
+
+You must work out the solvent performance, including reclaiming requirements and emissions to atmosphere. Determine this through realistic pilot (or full scale) tests using fully representative (or actual) flue gases and power plant operating patterns over a period of at least 12 months.
+
+3.3 Features to control and minimise atmospheric and other emissions
+
+3.3.1 Flue gas cleaning
+
+You will need to consider the following, depending on the flue gas source and the solvent selected.
+
+
+SOx removal
+
+Sulphur oxides (SOx) removal can be in the power plant flue gas desulphurisation unit or in the PCC direct contact cooler. SOx in the flue gas will readily react with amines to produce heat stable salts.
+
+These products are typically stable under reclaimer conditions, but the heat stable salt formation with SOx can be, at least partly, reversed by alkali addition in the solvent reclaiming process.
+
+SOx levels will therefore affect solvent consumption but are expected to have a limited effect on emissions. For most gas and biomass fuels that have intrinsically low S levels, adding more upstream SOx removal is likely to be primarily an economic decision.
+
+SOx levels in the exit flue gases from an amine PCC plant will be at extremely low levels.
+
+
+NOx removal
+
+The impact of NOx in the flue gas will vary significantly with the solvent composition. If the amine blend will form significant amounts of stable nitrosamines with NOx in the flue gas, then you must reduce NOx to as low a level as practicably possible (see LCP BREF) using selective catalytic reduction (SCR).
+
+If necessary, it is expected that ammonia (NH3) slip from the SCR unit could be addressed in a suitably designed PCC unit. In all cases, you must assess the effects of NOx in the flue gas on atmospheric degradation reactions and this may also affect the need for SCR.
+
+If SCR is not fitted to a new build power plant, it is generally considered BAT to maintain space so it may be retrofitted in future, should this be considered necessary to meet ELVs.
+
+Aerosols
+
+Sulphur trioxide (SO3) droplets and fine particulates should not be present in the flue gas. If they arise in the PCC process they can cause significant amine emissions.
+
+The level of emissions (mainly solvent amines) are not directly related to aerosol measurements. Monitoring aerosols is difficult and aerosol quantities may also vary significantly over time.
+
+Aerosols might be present, for example, because of significant SOx in the flue gas. Where this is the case, you should carry out long-term testing on a pilot plant or the actual plant, with all planned countermeasures in place, to show satisfactory operation. You should also carry out regular isokinetic sampling in the operational plant to assess total vapour and droplet emission levels.
+
+Other flue gas impurities
+
+You may need to remove materials in the flue gas that would accumulate as impurities in the solvent (such as metals, chlorine and fly ash) to lower concentrations than is required under the LCP BREF. This is to ensure satisfactory PCC plant operation. Whether you need to do this will depend on the specific solvent properties and the effectiveness of the solvent management equipment (such as filtering and reclaiming).
+
+You should assess the effects of flue gas impurities through realistic, long term pilot testing. In general, your PCC plant must abate these types of flue gas impurities before the residual flue gases are finally released to atmosphere.
+
+3.3.2 PCC system operation
+
+Operating temperatures
+
+You must establish and maintain optimum temperature and appropriate limits in the solvent stripping process.
+
+Elevated temperatures can cause some thermal degradation of the solvent. But higher peak average temperatures during regeneration will also likely promote reduced energy requirements and higher CO2 capture levels. You must balance both to ensure the right environmental outcome.
+
+Where feasible, you should avoid locally higher metal skin temperatures, such as from the use of superheated steam in heaters, as this provides no benefit and can result in degradation.
+
+Solvent degradation
+
+You should minimise oxidative degradation of the solvent by reduced solvent residence times in the absorber sump and other hold-up areas. Direct O2 removal from rich solvent may be developed in the future but has not yet been proven at scale.
+
+3.3.3 Absorber emissions abatement
+
+Water wash
+
+You must use one or two water washes or a scrubber to return amine and other species to the solvent inventory. Capture levels are limited by vapour or liquid equilibria, with volatile amines captured less effectively. Any aerosols present will also not be captured effectively. Water washes alone are ineffective in preventing NH3 emissions, as concentrations will increase until the rate of release balances the rate of formation (and possibly addition from SCR slip).
+
+Acid wash
+
+An acid or other chemically active wash or scrubber after the water wash will react with amines, NH3 and other basic species and reduce them to very low levels (for example, 0.5 to 5mg per m3 per species or lower).
+
+You should implement an acid wash as BAT, unless:
+
+
+  emission levels are already at acid wash levels with a water wash
+  you can show that the need to dispose of the acid wash waste outweighs the benefits of the additional reduction in emissions to atmosphere
+
+
+Depending on PCC system configuration, an absorber acid wash can also counteract NH3 slip from an SCR system.
+
+If an acid wash is not fitted, you should consider a second water wash as an acid wash if:
+
+
+  emissions performance is worse than expected
+  you wish to change to a more volatile solvent
+
+
+An acid wash is not likely to trap aerosols.
+
+Droplet removal
+
+You must prevent emissions of aerosols. To do this you could use standard droplet removal sections after washes. These will prevent droplet carryover from the wash. However, they are not effective against very fine aerosols arising from SO3 or other aerosol mists.
+
+Stack height
+
+Where modelling predicts that you may need to raise the temperature at the point of release to aid dispersion, you can:
+
+
+  increase the design stack height
+  add flue gas reheating
+
+
+Flue gas reheating can also reduce the plume visibility. Heat from cooling the flue gas before the PCC plant or waste heat from the PCC process should be used for flue gas reheating (see section 4 on cooling).
+
+3.4 Process and emissions monitoring
+
+3.4.1 Role of monitoring
+
+The main purpose of monitoring the PCC process is to show that the emissions from the process, primarily to air, are not causing harm to the environment.
+
+You must also carry out monitoring to show that resources are being used efficiently. This includes:
+
+
+  energy and resource efficiency
+  capture efficiency
+  verification that the CO2 product is suitable for safe transport and storage
+
+
+Your permit application should include a monitoring plan for both a commissioning phase and routine operation.
+
+During the commissioning phase you will need to optimise the operating envelope for the process. When you have achieved this the process operation will then become routine, along with the monitoring.
+
+It’s likely you’ll need to do more extensive monitoring during commissioning than during routine operation. As PCC is an emerging technique, you will need to develop monitoring methods and standards. You should include proposals for this in your permit application.
+
+Compliance with ELVs in the permit will provide the necessary protection for the environment, by monitoring emissions at authorised release points. You must also show that you’re managing the process to prevent (or minimise) the formation of solvent degradation products.
+
+Where degradation products are formed (and may be released), you must reduce these and any solvent emissions to the appropriate level. This process control monitoring will also be part of the permit conditions.
+
+3.4.2 Point source emissions to air
+
+You must include monitoring to demonstrate compliance with the IED Chapter III ELVs and the LCP BREF BAT AELs at normalised conditions.
+
+You must also monitor for:
+
+
+  ammonia
+  volatile components of the capture solvent
+  likely degradation products such as nitrosamines and nitramines
+
+
+Your monitoring may be by either:
+
+
+  continuous emissions monitoring (‘on line’)
+  periodic extractive sampling (‘off line’) – where aerosol formation is expected, this must be isokinetic
+
+
+Emission sampling point must also comply with M1 sampling requirements for stack emission monitoring.
+
+3.4.3 Process control monitoring
+
+You should use process control monitoring or periodic sampling with off-line analysis to control the CO2 capture and the quality of the solvent reclaiming. Parameters you can monitor include:
+
+
+  absorber solvent quality – percentage active solvent
+  
+CO2 loading both rich and lean solvent
+  maximum solvent temperature
+  heat stable solvent content
+  solvent colour or opacity
+  soluble iron and other metals and degradation products
+  in water or acid washes and scrubbers – pH, conductivity, loading of abated substances, flow rate
+
+
+3.4.4 Monitoring of CO2
+
+
+To meet the required specification, include:
+
+
+  
+CO2 mass balance
+  
+CO2 in fuel combusted
+  total capture level (as a percentage)
+  
+CO2 released to the environment
+  
+CO2 quality
+
+
+3.4.5 Monitoring standards
+
+The person who carries out your monitoring must be competent and work to recognised standards such as the Environment Agency’s monitoring certification scheme (MCERTS).
+
+MCERTS sets the monitoring standards you should meet. The Environment Agency recommends that you use the MCERTS scheme where applicable. You can use another certified monitoring standard, but you must provide evidence that it is equivalent to the MCERTS standards.
+
+There are no prescriptive BAT requirements for how to carry out monitoring. Monitoring methods need to be flexible to meet specific site or operational conditions.
+
+You must use a laboratory accredited by the United Kingdom Accreditation Service (UKAS) to carry out analysis for your monitoring.
+
+3.5 Unplanned emissions to the environment
+
+You should propose a leak detection and repair programme that is appropriate to the solvent composition. This should use industry best practice to manage releases, including from joints, flanges, seals and glands.
+
+Your hazard assessment and mitigation for the plant must consider the risks of accidental releases to environment. This should also consider the actual composition of the fluids, gases and vapours that could be released from the plant after an extended period of operation. (Not only fresh solvent as initially charged.)
+
+3.6 Capture level, including during flexible operation
+
+Capturing at least 95% of the CO2 in the flue gas is considered BAT. You can base this on average performance over an extended period (for example, a year). To achieve this, you should make sure the design capture level for flue gas passing through the absorber equates to at least 95% of the CO2 in the total flue gas from the power plant. If you process less than the full flue gas flow, your capture rate will have to be correspondingly higher. Over the averaging period, your capture level may vary up or down.
+
+As the fraction of intermittent renewable generation in the UK rises, CCS power plants will need to start and stop more often, and possibly also operate at variable loads. It is therefore important that CO2 can also be captured at high levels during these periods, including during start-up and shutdown, to maintain high average capture levels.
+
+A method to maintain capture at normal rates or higher at all times using solvent storage has been identified in the BAT review. This, or alternatives that can achieve equivalent results, is considered BAT. If your PCC plant is not initially constructed with this capability, your permit application should show how you may retrofit it.
+
+3.7 Compression
+
+You should select CO2 compressors based on the expected duty. You should consider how any waste heat arising may be used.
+
+For base load operation, you should use integrally geared units because they give the:
+
+
+  maximum full-load efficiency
+  minimum number of compression trains
+
+
+For flexible and part-load operation, smaller compression trains (for example 2 at 50% compared to 1 at 100%) may be preferable. The use of different types of compressor or pump in series may also be preferable, to give greater flexibility at the expense of slightly lower full-load efficiencies.
+
+3.8 Noise and odour
+
+The LCP BREF already covers noise impacts for the main power plant. You only need to consider additional process steps in PCC technology that have high potential for noise and vibration. In particular, CO2 compression could be an area of concern.
+
+Once you’ve identified the main sources and transmission pathways, you should consider the use of common noise and vibration abatement techniques and mitigation at source wherever possible. For example, the:
+
+
+  use of embankments to screen the source of noise
+  enclosure of noisy plant or components in sound-absorbing structures
+  use of anti-vibration supports and interconnections for equipment
+  orientation and location of noise-emitting machinery
+  change of the frequency of the sound
+
+
+The handling, storage and use of some amines may result in odour emissions, so you should always use best practice containment methods. Where there is increased risk that odour from activities will cause pollution beyond the site boundary, you will need to send an odour management plan with your permit application.
+
+4. Cooling
+
+You will be able to achieve the best power and CO2 capture plant performance by using the lowest temperature cooling available. You should use the hierarchy of cooling methods as follows:
+
+
+  direct water cooling (such as seawater)
+  wet cooling towers
+  hybrid cooling towers
+  dry cooling – direct air-cooled condensers and dry cooling towers
+
+
+Power plants that are retrofitted with PCC using steam extraction, or are intended to be able to operate without capture, can share water cooling between the power plant and the PCC system. This is because the cooling load on the main steam condensers falls with increased steam extraction rate. This shift away from condenser cooling will not apply for systems with direct air-cooled condensers.
+
+It may also be possible to reuse cooling water after the main condensers for higher-temperature cooling applications in the PCC plant. However, site specific water discharge temperature limits may be an issue for direct cooling.
+
+A feature of PCC is that you have to remove heat from a flue gas stream that was originally not cooled. You can still achieve rejection of heat to atmosphere by heating the flue gas leaving the absorber, using heat from the incoming flue gas. You can do this either:
+
+
+  directly – such as using a rotary gas-gas heater
+  indirectly – such as using a heat transfer fluid or low-pressure steam
+
+
+Lean and rich solvent storage may also help you achieve satisfactory PCC performance during periods of high cooling demand.
+
+You should refer to the Environment Agency’s evidence on cooling water options for the new generation of nuclear power stations in the UK when considering options for cooling. This gives an overview of UK power station cooling water systems in use in the UK and abroad.
+
+5. Discharge to water
+
+For discharges to water, you should refer to the guidance on surface water pollution risk assessment for your environmental permit.
+
+For best practice in plume dispersal modelling, see the Joint Environmental Program report ‘A protocol on projects modelling cooling water discharges into TrAC waters within power station developments’.
+
+6. Climate change adaptation
+
+You must complete an adapting to climate change risk assessment as part of your permit application.
+
+
+
+
+
+      
+        
+    Published 2 July 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Environmental permitting regulations: Guidance on part A installations
+        M9 environmental monitoring of bioaerosols at regulated facilities
+        Textile sector: additional guidance
+        Technical guidance for regulated industry sectors: environmental permitting
+        Waste water treatment works: treatment, monitoring and compliance limits
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Technical guidance for regulated industry sectors: environmental permitting
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Energy efficiency
+        Greenhouse gas emissions
+        Business and the environment
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

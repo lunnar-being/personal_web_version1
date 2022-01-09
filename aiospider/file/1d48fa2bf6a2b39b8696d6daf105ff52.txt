@@ -1,0 +1,270 @@
+
+
+The RAND Blog
+Previous Blog PostTemporary Safety Net Policies Prevented Mass Insurance Loss During the PandemicNext Blog PostDeterring Putin in Eastern Europe
+
+The Future of REF: Driving a Culture to Maximise High-Quality Research and Impact
+commentary
+(Wonkhe)
+Photo by Andrii Yalanskyi/Getty Images
+
+
+
+by Catriona Manville, Camilla d'Angelo, Susan Guthrie
+December 14, 2021
+
+
+A real-time evaluation of views on Research Excellence Framework (REF) 2021 shows that the assessment exercise is a driver of researcher behaviour—so why not use that to improve research culture?
+Since the late 1980s, the United Kingdom has conducted a regular quality exercise assessing research in higher education institutions (HEIs). The results guide the allocation of so-called quality-related, or core, funding, to HEIs.
+As significant levels of funding rest on the outcomes—typically about £2 billion of public funding per year—these regular assessments, and the institutional and academic interpretation of them, can act as a major driver of behaviour in the UK academic sector, for better or worse.Measuring the Impact
+Originally envisaged as a way to drive up quality and excellence in the research system, the exercise has since diversified, with the introduction of the REF in 2014 looking at research impact as well as quality. This move was intended to both reflect the outcomes of UK research and to focus more on the impact of research on society.
+REF 2021 is now under way and research submissions were made earlier this year. To understand the impact of the assessment, Research England, on behalf of the four UK funding bodies, commissioned a RAND Europe study to record in real time (i.e., while researchers and HEIs completed their submission) the attitudes of the United Kingdom's research community towards the REF.
+This study, building on a pilot (PDF) from 2017, addressed a significant evidence gap in the research field as there is little systematic and nuanced evidence about how academics across the sector view the REF and how it has shaped their research and wider research in their field.
+Through surveys, interviews, and focus groups, the study team was able to gain valuable insight into researcher views across disciplines, career stages, and types of institutions.Figure 1: Proportional Representation of Survey Respondents' Views on the Influence of the REF on the Research Community
+
+
+
+ 
+Quantity
+Public Relevance
+Open Research
+Gameplay
+Interdiscplinarity
+Quality
+Integrity
+Novelty
+Authenticity
+
+
+
+
+0
+-12.7
+-17.9
+-13.75
+-5.35
+-18.8
+-16.55
+-23.8
+-14.3
+-16.45
+
+
+-1
+-8.9
+-5
+-3.6
+-1.6
+-11.3
+-10.9
+-13.9
+-18.8
+-22.8
+
+
+-2
+-3.2
+-3.8
+-2.5
+-1.1
+-9.2
+-7.6
+-9.8
+-18.1
+-16.3
+
+
+(-3) greatly decreased
+-2.3
+-3.7
+-2.1
+-1.1
+-6.4
+-5.3
+-6.4
+-17.8
+-13.3
+
+
+-2
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+-1
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+(0) no influence
+12.7
+17.9
+13.75
+5.35
+18.8
+16.55
+23.8
+14.3
+16.45
+
+
+1
+24.8
+27
+23.8
+14
+19.8
+19.8
+11.7
+8.1
+7.8
+
+
+2
+21.8
+16.9
+23.8
+22.8
+11.1
+15.8
+7.3
+6.3
+4.7
+
+
+(3) greatly increased
+13.7
+7.7
+16.6
+48.8
+4.4
+7.5
+3.4
+2.3
+2.2
+
+
+
+Note: For each aspect, survey respondents were asked to score the influence of the REF as follows: -3 (the REF has greatly decreased this); -2; -1; 0 (the REF has had no influence); 1; 2; 3 (the REF has greatly increased this). Source: Understanding perceptions of the Research Excellence Framework among UK researchers: The Real-Time REF ReviewOur study shows that on average, academics have negative attitudes towards the REF, however perceptions are also very mixed. The picture very much depends on personal experiences and context.
+These high-level negative views are somewhat in line with previous findings. Academics have been vocal about the REF in the past, with some considering it to be a costly and burdensome exercise.Review Recommendations
+The last review of the REF, led by Nicholas Stern in 2016, suggested several changes designed to streamline the exercise to help reduce the perceived burden.
+We found that the REF influences researchers and the research community across many areas in different ways. For example, most researchers believe that the REF has increased open research, the public relevance of research, and the quantity of research in the research community.
+Conversely, many researchers also believe that the REF has decreased the authenticity and novelty of research in the research community.
+This view of the impact on the community is interesting to compare with their views of the influence of the REF on their own research, where most researchers stated that, at an individual level, the REF has not influenced their own research. This highlights a disconnect between the perceived impact on others and the real influence individuals perceive on themselves.
+Most academics thought that changes to the rules for REF 2021 were positive for them. Academics welcomed the move away from the individual towards a collective and team-based approach to assessment. For example, some felt that certain changes to the rules around the selection of staff and outputs may have helped to reduce people “game playing” the assessment process (though it remains a concern).
+The study also shows that the wider research environment is an important focus of the REF, and the evolution of the exercise from 2014 to 2021 is broadly seen as positive in this regard.Creating the Right Environment
+Academics have a range of views on the way the REF could be altered following the 2021 exercise.
+When asked about how the REF could be improved, there were divergent views on what the future should look like—with a focus on how to assess, as well as what and who to assess.
+With the increasing focus on team science, and the move from the lone academic to a team where members play distinct roles to deliver maximum benefit, we suggest there could be a greater focus on the research process and environment in which research takes place, rather than a retrospective assessment of outputs and impacts.
+Rather than functioning as a regulatory instrument, the REF could support behavioural change and ensure a greater focus on a positive working culture.Share on Twitter
+Rather than functioning as a regulatory instrument, the REF could support behavioural change and ensure a greater focus on a positive working culture.
+This could be done, for example, by assessing whether the department offers collegiality, a nurturing environment, mentorship, support to early career researchers, or a mechanism to encourage innovation and creativity.
+Researchers, managers, and institutional leaders stressed that a greater focus on equality, diversity, and inclusion could also be important in future cycles of the REF. Single-blind peer review (where reviewers do not know the identity of the author) could be one step towards this.
+Institutional responsibility is seen as being important in creating the environment and conditions within which high-quality research and impact can be achieved. This is an important shift for the REF to continue to build on.
+In future, the exercise could focus on creating a culture to maximise high-quality research and impact in the 21st century, by taking a collective and team-based approach to assessment and focusing on the wider HEI environment.
+We know that the REF can influence the academic community, this may be an opportunity to use that influence to drive a better, more-inclusive research culture.
+
+Catriona Manville is director of policy and public affairs at the Association of Medical Research Charities. Camilla d'Angelo is an analyst and Susan Guthrie is a research group director at RAND Europe.
+This commentary originally appeared on Wonkhe on December 8, 2021. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Camilla d'Angelo
+ Analyst
+
+
+
+Susan Guthrie
+Research Group Director, Science and Emerging Technology, RAND Europe
+
+
+
+
+
+
+Topics
+ Program Evaluation
+Science of Science
+Science, Technology, and Innovation Policy
+United Kingdom
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+Understanding perceptions of the Research Excellence Framework among UK researchers
+
+Nov 24, 2021
+Catriona Manville, Camilla d'Angelo, et al.
+
+
+
+
+
+
+
+
+
+
+Project
+Understanding researcher views on the UK’s national assessment programme, REF 2021
+
+Nov 24, 2021
+
+
+
+
+
+
+
+
+
+
+Multimedia
+Expert Insights: The Future of Research Assessments
+
+Sep 17, 2021
+
+
+
+
+
+
+
+

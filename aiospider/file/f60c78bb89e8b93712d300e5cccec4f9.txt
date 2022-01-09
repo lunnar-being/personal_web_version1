@@ -1,0 +1,49 @@
+
+	
+As we emerge from the COVID-19 crisis, healthcare organizations need to align on and begin implementing their strategic and operational plans for the post-pandemic era, including responding to the potential disruption of traditional business models. The , such as consumer adoption of digital health platforms and tools, will likely accelerate in the wake of COVID-19. We anticipate the crisis will impact growth rates across healthcare segments, specifically increasing growth for healthcare services companies (especially in virtual care platforms including telehealth, patient engagement, and wearable technologies) while payers’ and providers’ traditional core businesses may see declining earnings before interest, taxes, depreciation, and amortization (EBITDA) growth.
+
+
+As healthcare organizations look to evolve their business models, we are seeing increasing M&A activity among those seeking to add scale as well as diversify through new capabilities and services. Healthcare deal volume in Q4 2020 was 21 percent higher than in Q4 2019.
+
+
+ In addition, in our survey of more than 700 organizations, a third anticipated more M&A activity post-pandemic than planned prior to the crisis.
+
+
+However, as our research and experience working with healthcare organizations has found, not all M&A strategies are equally likely to prove accretive. In this article, we share how healthcare organizations can best use M&A to drive their strategic goals while ensuring long-term value creation.
+		
+	
+Types of M&A playersFor the past decade, we have been conducting  by market capitalization to understand what drives value creation. In this research, we identify four types of M&A activity for organizations across industries:
+    Programmatic: More than two small/midsize deals per year
+    Large deals: One or more deals where target market capitalization was more than 30 percent of acquirer’s market capitalization and/or revenue
+    Selective: Less than two small/midsize deals per year
+    Organic: Less than one small deal every three years
+Our latest refresh of this M&A research, which expanded the cross-sector company universe from the Global 1000 to the Global 2000 and shifted the time window forward through 2019, affirmed our previous findings that programmatic acquirers were more likely to outperform other M&A types (Exhibit 1).
+    
+Across all industries, programmatic acquirers achieved higher excess total returns to shareholders (TSR) than industry peers, with the least amount of risk as measured by standard deviation. Both selective and organic M&A approaches most often resulted in negative TSR; results for large deal acquirers were neutral on average, with some organizations driving outsized returns compared with their peers and others losing value post-acquisition.The same findings also hold true for healthcare companies in the Global 2000 (Exhibit 2). Large, public healthcare companies adopting programmatic M&A delivered the highest average excess TSR compared with other M&A types, and large deals carried the greatest risk. These implications apply to non-public and nonprofit organizations as well, given that programmatic M&A strategy, capabilities, and processes are consistent across organizations, and these organizations compete with the large, public companies with respect to M&A targets. Importantly, a diversity of approaches remains; some healthcare players continue to pursue M&A to consolidate, especially via large deals, while others are pursuing diversified business building, often enabled by programmatic M&A. We expect additional players to pivot toward growth-driven M&A as we emerge from the pandemic.
+    
+Programmatic M&A is not just about executing on serial acquisitions; rather, programmatic acquirers execute a series of choreographed deals around specific themes, such as building new diversified businesses or acquiring new capabilities. Programmatic M&A is a strategic, proactive, and disciplined approach to creating deal flow, resulting in a series of related transactions that support a clear M&A blueprint that is linked to corporate strategy. Healthcare players can use programmatic M&A to help pivot their organizations coming out of the pandemic. For example, one large US health system previously pursued hospital acquisitions to complement its regional market footprint, yet in the last two years has pivoted to focus on acquisitions in growing areas of healthcare that complement its core acute care service offerings. This shift in strategy has included deals focused on home health and managing total cost of care with technologies that address alternative payment models (for example, bundled payments). Similarly, one company that provides services and supplies to office-based healthcare providers has leveraged M&A to increase its geographic scale globally, broaden the supplies it distributes, and diversify its offerings to include technology solutions. Since the pandemic began, this organization has also used M&A to enter home healthcare and wound care as new verticals adjacent to its core.Value creation in large dealsOur research shows that large deals are “big bets” that could lead to big wins or, just as easily, to big losses. We looked at value creation from the universe of large deals completed by the Global 2000 since 2010 for which we had at least five years of post-close data. We found that their value creation is hard to predict and driven largely by execution over approximately two years. Deals that showed TSR after two years were also likely to show excess TSR after five years (Exhibit 3).
+    
+    
+        
+    
+With programmatic M&A, smaller organizations are largely incorporated into the acquiring organization as part of the broader corporate strategy, or as a new business unit. In contrast, larger mergers tend to face more significant cultural issues, as well as more functions and processes that need to be merged and regulatory requirements. These issues increase the number and scale of integration hurdles and, for healthcare companies, the risk of disruption to patient care or experience.Given this inherent challenge, healthcare organizations, when considering these transformational events, may factor in three lessons learned to mitigate risk and increase their chances of success:
+    Bet carefully: Making a large, horizontal deal in an evolving sector like healthcare can be risky. Companies may need to change industry dynamics to avoid underperformance
+    Be wary of distraction to patient care or experience: Large deals tend to perform best in mature organizations with established offerings, a loyal patient base, and stable relationships with other players and vendors
+    Be realistic about the ability to execute: Few healthcare companies have real experience in executing large-scale integrations and run the risk of underestimating the investment of time and resources successful integrations require
+
+		
+	
+Capabilities that drive M&A successHealthcare organizations can unlock value in M&A and can improve their odds for success by adopting specific . These include:
+     A clearly articulated  addresses how, why, and where organizations will use M&A to achieve their corporate strategy. A blueprint drives success across the deal process by forcing difficult conversations and internal alignment within the leadership team early, well before any specific target gains momentum. A blueprint can help address the questions we hear often from our healthcare clients, such as “What should our goal for total revenue by 2030 be, and how should we get there? Would we do one larger merger, smaller ones, or try to build it ourselves?”
+     Build a dynamic asset pipeline by actively identifying and monitoring potential candidates across the market landscape, independent of which assets are currently “for sale.” Organizations may leverage both internal functions and external networks to source potential opportunities
+     Strong acquirers engage potential targets early and often, and continually update their pitch as they learn more about target organizations. They orient their focus around targets with a shared vision for the future and causes for action common to both parties
+     Place as much emphasis on strategic and cultural due diligence as on financial, legal, and tax due diligence
+     Document end-to-end processes in an M&A playbook that is tailored and leveraged for each deal. Organizations should also aim to continuously learn and update their playbooks with lessons from completed deals
+
+        
+
+
+    
+    We surveyed more than 700 companies on their M&A activities and found that programmatic acquirers were most likely to demonstrate these best practices and capabilities, compared with companies that executed other types of M&A strategies (Exhibit 4). Importantly, while many of these practices may be well understood, less than half of respondents, even among programmatic acquirers, felt their organizations adhered to the activities described above.
+    
+M&A can be an important lever for healthcare organizations to shape and innovate their offerings in the face of industry headwinds. As we enter the ‘next normal,’ organizations with the capabilities to diversify and grow via M&A may be best positioned to thrive, thereby benefiting their employees, patients, and local communities.

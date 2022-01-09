@@ -1,0 +1,467 @@
+
+  
+    
+      Waste pre-acceptance, acceptance and tracking appropriate measures
+
+    
+
+      
+        
+  These are the appropriate measures for waste pre-acceptance, acceptance and tracking at regulated facilities with an environmental permit for treating or transferring healthcare waste.
+
+      
+        
+          
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+      
+        
+          
+            Waste pre-acceptance
+          
+        
+        
+
+    1. You must implement waste pre-acceptance procedures so that you know enough about a waste (including its composition) before it arrives at your facility. You need to do this to assess and confirm the waste is technically and legally suitable for your facility. Your procedures must follow a risk-based approach, considering:
+
+  the source and nature of the waste
+  its hazardous properties
+  potential risks to process safety, occupational safety and the environment (for example, from odour and other emissions)
+  knowledge about the previous waste holder(s)
+
+2. You must make sure that the advice you give to waste producers about segregating and packaging waste follows the Safe Management of Healthcare Waste (HTM 07 01). Where HTM 07 01 does not specify the colour of packaging for a particular type of waste, the waste producer should use the most appropriate colour. They should take into account the nature of the waste and the waste disposal or recovery route needed. For example, it should be:
+
+  yellow if the waste requires waste incineration
+  orange if alternative treatment is appropriate
+  black or black and yellow if municipal incineration is appropriate
+  or (if possible) an additional non-conflicting colour code
+
+3. If you receive waste from a country that does not use the same waste segregation process or colour-coded packaging as set out in HTM 07 01, you must get additional information from the producer. This must confirm the segregation practices and colour-coding they have used so that you can fully understand the waste stream and send it for appropriate treatment.
+4. You must get the following information in writing when you receive a customer query:
+
+  details of the waste producer (for example, medical practice) including address and contact details
+  the specific source of the waste – for example,  pharmacy, veterinary, primary care, dental, acute care, laboratory
+  details of the waste streams and types produced, including their quantity, physical form, composition, properties, classification and description (you must carry out more detailed checks as part of your audit of the waste pre-acceptance report)
+
+5. Before waste arrives at your facility you must get a representative waste pre-acceptance audit report from the waste producer. You do not need an audit report for:
+
+  waste produced at domestic premises
+  waste produced at care homes that do not provide nursing care
+  healthcare wastes from non-healthcare activities – as classified under chapter 20 of the LoW
+
+
+6. The audit report must include the following general information:
+
+  the name, address and contact details of the healthcare waste practice
+  the type of practice, for example, hospital, veterinary clinical, general practice
+  dates for when the audit started and ended
+  a description of the audit, the procedures employed, the auditors, their affiliation and their competence
+
+7. It must also include a list (or diagram) of the different wards, departments, or functional areas that exist within the premises. This should detail all the specific processes producing relevant wastes at the practice, for example, pharmacy, primary care, dental acute or laboratory.
+8. The audit report must identify and list which waste types are produced by each ward, department or area within the premises. The waste types the audit should identify include:
+
+  cytotoxic and cytostatic contaminated material
+  other pharmaceuticals or pharmaceutically contaminated material – for example, medicinally contaminated syringes, intravenous (IV) therapy bags, tubing, bottles, vials, ampoules
+  waste chemicals – for example, laboratory agents, auto-analyser bottles, diagnostic kits, disinfectants
+  human or animal tissue and associated chemical preservatives
+  sharps, and whether they are contaminated with medicines (even if fully discharged)
+  other infectious wastes
+  dental amalgam
+  non-hazardous offensive wastes
+  other non-hazardous wastes, including municipal waste and autoclaved wastes
+  gypsum wastes other than the limited quantities correctly described as infectious
+
+9. For each of the waste types identified and listed by unit, department or area, the audit report must detail:
+
+  the waste’s written description, type and classification, including List of Waste (LoW) codes
+  the type and colour-coding of the container or packaging the waste is placed in
+  how the packaging is labelled
+  physical form and composition
+  hazardous properties
+
+It must also identify whether the correct waste type was present in the container or packaging when it was checked during the audit. It must also compare the waste to its proposed waste classification or description.
+10. The audit report must include information about:
+
+  the segregation practices for wastes placed in storage areas and bulk containers or carts
+  specific storage requirements, for example, cold storage or freezing
+  the contents of a representative number of each type of bulk container that were checked visually
+  discussions held with staff that establish the validity of the segregation and storage standards, and the observation and recording of actual practice
+
+11. The audit report must include a comparison of practice with the requirements of HTM 07-01 Safe management of healthcare waste and of Guidance on the classification and assessment of waste – technical guidance WM3. For example, the medical practice should have an:
+
+  acceptable and working definition of cytotoxic and cytostatic waste where applicable
+  offensive waste stream for healthcare waste
+
+12. The report must also include:
+
+  the findings made for each waste stream, and where applicable, the changes made as a result of this or previous audits
+  information on waste policies, staff training, internal audit regimes, and environmental management systems
+  the estimated quantity of each waste expected to be delivered to the operator from the medical practice per year and in a typical load
+  confirmation that waste does not contain a radioactive source or, when there is a risk of radioactive contamination, confirmation that the waste is not radioactive, unless the permit for your site allows you to accept these materials
+  safety data sheets for single stream product chemicals, laboratory chemicals or pharmaceuticals (if available)
+
+13. The waste producer is responsible for making sure that a waste pre-acceptance audit is carried out for their premises. The audit report must not be completed wholly over the phone or using online tools. Physical presence at the practice is needed. This may be provided by an appropriately trained and experienced member of site staff or an external auditor.
+14. Where a medical practice produces 5 tonnes or more of clinical waste per year, the first audit must cover the entire practice. If this is satisfactory, and identifies consistent practice, you can reduce the scope of each subsequent annual audit to cover at least one third of the units, wards and departments. A 3 year audit cycle must include all units, wards and departments. If a medical practice produces less than 5 tonnes of clinical waste per year each audit should include the entire practice. It should be clear in the audit report which units, wards and departments have been inspected.
+15. You must obtain and assess a waste pre-acceptance audit report before you take delivery of the first batch of waste from each medical practice. You must then do this at the following minimum frequencies, every:
+
+  12 months for each medical practice that produces 5 tonnes or more of clinical waste in any calendar year
+  2 years for each veterinary practice, dental practice and laboratory that produces less than 5 tonnes of clinical waste in any calendar year
+  5 years for other healthcare waste producers
+
+16. The audit report will no longer be valid for pre-acceptance purposes:
+
+  once the time intervals are exceeded
+  if the producer makes significant changes to on-site practices
+  if the waste changes
+  if you find that the waste received contains significant non-conformances to the pre-acceptance information – for example, it contains a waste type that was not included in the pre-acceptance audit of the producer
+
+17. The staff doing the assessment of the waste pre-acceptance audit report must have the professional skills, training and experience needed. They must have a clear understanding of healthcare waste and its:
+
+  composition
+  classification
+  packaging and transport
+
+18. These staff must also understand:
+
+  the wastes associated with specific healthcare activities
+  any conditions within the permit that relate to these wastes
+  the requirement to complete waste consignment and transfer notes
+
+19. If the audit report is partially incomplete or inadequate, because it does not meet all the requirements set out in appropriate measures 1 to 18, you must request the missing information (or another audit report). You must assess this before you accept the waste.
+20. If the audit report is acceptable (it meets all the requirements set out in appropriate measures 1 to 18) you must technically assess the suitability of the wastes for on-site treatment (or transfer) to make sure you can meet your permit conditions. You must not accept wastes which are not suitable.
+21. You must keep records that relate to pre-acceptance for a minimum of 3 years in a computerised process control system. For example, this includes:
+
+  audit reports
+  assessment of the reports
+  additional information received
+  your assessment that the waste is acceptable
+
+22. If an enquiry from a waste producer does not lead to receiving waste, you do not need to keep records.
+23. You must keep separate the roles and responsibilities of sales staff and technical staff. If sales staff are involved in waste enquiries then technical staff must do a final technical assessment before approval. You must use this final technical check, independent of commercial considerations, to make sure that you:
+
+  only accept wastes that are suitable for the site
+  avoid accumulating waste
+  have enough storage and treatment capacity
+
+24. The waste facility operator is responsible for making sure they carry out appropriate pre-acceptance checks and subsequent assessments on the waste received from each producer. You can employ a third party to carry out these checks and assessments for you, for example, if you receive the waste from a waste transfer station. Where this is the case you must meet the following measures as a minimum:
+
+  the third party must provide you with details of any audit tools or methodologies and assessment criteria used – these must meet the standards in this guidance
+  you must periodically review their pre-acceptance checks and assessments (at least annually) to make sure pre-acceptance checks, subsequent assessments, waste classification and descriptions meet the standards in this guidance
+  if you employ others to carry out the pre-acceptance checks and assessments for you these must cover all relevant producers from whom you collect waste, including new customers
+  you must keep records of the third party’s pre-acceptance checks and assessments and a summary report that demonstrates they have carried out the correct checks on wastes from relevant producers
+
+25. The summary report must:
+
+  list the producer types, for example, dental practice
+  detail the waste types and waste streams produced and destined for the permitted facility, including details of their composition, classification and any hazardous properties
+  describe the containers or packaging used for each waste stream (including colours)
+  confirm that the relevant appropriate measures for waste pre-acceptance have been completed for all relevant producers – where this is not the case for a particular producer, the report must state what has been done
+
+26. The summary report must also:
+
+  confirm any issues the third party has identified and what action they have taken with the producers about the wastes affected
+  be updated if any details about the producers or the wastes change
+
+27. The information in the summary report must be relevant to the waste types that your facility is permitted to accept. It must be taken from the pre-acceptance audits carried out on the relevant producer premises, which must comply with the requirements of this guidance.
+28. The operator must be able to get (without unreasonable delay) a copy of the pre-acceptance audit report and assessment about any individual producer. This may be needed for operational reasons or because an Environment Agency officer asks to see it.
+
+
+
+      
+        
+          
+            Waste acceptance
+          
+        
+        
+
+    1. You must implement waste acceptance procedures to check that the characteristics of the waste received matches the information you obtained during waste pre-acceptance. This is to confirm that the waste is as expected and you can accept it. If it is not, you must confirm that you can accept it as a non-conforming waste, or you must reject it.
+2. Your procedures must follow a risk-based approach, considering:
+
+  the source, nature and age of the waste
+  the waste’s hazardous properties
+  potential risks to process safety, occupational safety and the environment (for example, from odour and other emissions)
+  knowledge about the previous waste holder(s)
+
+3. Other than in an emergency (for example, taking waste resulting from an emergency incident clean-up), you must only receive pre-booked wastes onto site that have been adequately pre-accepted and that are consistent with the pre-acceptance information.
+4. All relevant storage areas (quarantine, reception and general) and treatment processes in your facility must have the physical capacity needed for the waste you receive. You must not receive wastes if this capacity is not available. The amount of waste you receive must also comply with storage limits in your permit.
+5. You must visually check waste containers and packages and verify them against pre-acceptance information and transfer documentation before you accept them on site.
+6. You must weigh each consignment of waste on arrival to confirm the quantities against the accompanying paperwork, unless alternative reliable systems are available (for example, based on volume). You must record the weight in the computerised waste tracking system.
+7. You must check and validate all transfer documentation and resolve discrepancies before you accept the waste. If you believe the incoming waste classification and description is wrong or incomplete, then you must address this with the original waste producer during waste acceptance. You must record any non-conformance. If you have assessed the waste as acceptable for on-site storage or treatment, you must document this.
+8. After you have completed the initial visual inspection and confirmatory checks, you must offload waste containers into a dedicated reception or storage area. You must not unload wastes if you do not have enough space.
+9. Once offloaded, and as soon as practicable to do so, you must assess the waste and verify it for acceptance.
+10. You must carry out a thorough visual check of all loads of waste you receive (for example, in carts or similar bulk containers, or on pallets) to identify any non-conforming items. If a specific customer has no non-conformances for 3 months or 6 collections (whichever is the longer period) you can reduce the visual inspection of their waste to a spot check of 1 cart, bulk container or pallet in 10.
+11. If you later identify a non-conforming waste during a spot check, you must take measures to prevent a recurrence (including contacting the customer). You must reinstate thorough visual checks on all loads from that customer until there are no non-conformances for the period stated in appropriate measure 10 (in this section).
+12. The person carrying out waste acceptance checks (the visual inspection of the waste) must be trained to identify and manage any non-conformances in the loads received, complying with this guidance and the conditions of your permit.
+13. You do not need to open healthcare waste bags, sharps boxes, rigid bins or similar packages during the thorough visual check for non-conforming items. The waste pre-acceptance checks determine their contents, and you can verify this by referring to the appropriate colour coded waste packaging. The objective of the thorough visual check is to identify non-conforming items that may be:
+
+  unknown
+  undocumented
+  unexpected packaging types or colours
+  a waste type that the facility is not permitted for
+
+For example, this could be a cytotoxic or cytostatic sharps box, or rigid yellow bin of unknown content, buried at the bottom of a cart or bulk container under orange clinical waste bags received for alternative treatment.
+14. Typically, waste is visually checked during cart-to-cart transfers or unloading or tipping operations. It is either directly inspected by the trained operative or via a surveillance camera and screen. If you use the latter, the camera and screen must operate in colour and have a resolution and clarity that is good enough to easily and reliably identify any non-conforming items, so they can be removed.
+15. You must minimise the manual handling of waste. You should use mechanical unloading technologies where it is possible and practicable to do so.
+16. On arrival, bagged waste must be in, or unloaded into, carts or other rigid, leak proof bulk containers for storage and handling around the site. You must securely close the lid of the cart or other bulk container when you are not loading waste into or out of it.
+17. On arrival, rigid containers (bins or boxes) must be in, or unloaded onto, enclosed bulk containers (for example, carts) or pallets for storage and handling around the site. To prevent spillages, you must store and handle rigid containers and packaging that contain waste (for example, bins or boxes) in an upright, stable and controlled manner, as far as it is practicable to do so.
+18. Where you use pallets, containers must be stable, stacked upright no more than 2.2m high, and secured with shrink wrap. The containers must not extend beyond (over-hang) the sides of the pallet. The shrink wrap must be clear or transparent so that you can identify waste types, damaged containers, leaks or spillages and incorrectly stacked containers.
+19. Waste packages must be in sound condition. All containers (boxes and bins) must have well-fitting lids or other secure closing mechanisms. You must deal immediately with any non-conforming packages or put them in a bulk container. You must put non-conforming packages into quarantine to be dealt with appropriately. You must record all non-conformances.
+20. You must have clear and unambiguous criteria that you use to reject non-conforming wastes. You must also have a written procedure for recording, reporting and tracking non-conforming wastes, including notifying the relevant customer or waste producer to prevent reoccurrence.
+21. All waste packages received must be labelled or marked with a unique identifier. The unique identifier must allow you to track the waste (see appropriate measures for waste tracking) and easily identify the producer of the waste, its type and hazardous properties, and its receipt date.
+22. If you receive or store waste packages in a bulk container (for example, a wheeled cart), provided they are from the same producer and contain a single waste stream, you can mark or label the unique identifier on the bulk container for as long as the waste remains in there. Similarly, if you receive waste packages on a pallet, provided they are from the same producer and contain a single waste stream, you can mark or label the pallet with the unique identifier for as long as the waste remains on it. If you split a bulk or palletised load, you must mark or label each container with the unique identifier so that you can track them.
+23. You must hold all records about waste received on a computerised waste tracking system. This must be able to cross-reference all the available waste stream information for a receipt using the unique identifier. You must update the tracking system whenever you move or treat a waste on site, or send it off site. You must follow your written procedures when you move wastes between different locations (or off site).
+24. If there is a known risk of radioactive contamination (for example, a site is thought to use radioactive materials but it is not clear if all the suitable systems are in place to manage and segregate the wastes produced), you must check the waste to determine that it does not include radioactive material, unless you are permitted to accept these materials.
+25. Your facility must have a dedicated waste quarantine area located within a building.
+26. Quarantine storage must be for a maximum of 5 working days. You must have written procedures for dealing with wastes you hold in quarantine, and a maximum storage volume. For some limited and specific cases (for example, the detection of radioactivity), you can extend quarantine storage time if the Environment Agency agrees. The maximum storage time must take account of the potential for odour generation, insect infestation and storage conditions, such as refrigeration (for example, for anatomical waste). Quarantine storage must be separate from all other storage and clearly marked as a quarantine area.
+27. The waste offloading, reception and quarantine areas must have an impermeable surface with self-contained drainage to prevent any spills entering the storage systems or escaping off site. All surfaces must be of a type and quality that can be disinfected effectively.
+
+
+
+      
+        
+          
+            Waste tracking
+          
+        
+        
+
+    1. You must use a computerised tracking system to hold up to date information about the available capacity of the waste quarantine, reception, general and bulk storage areas of your facility. You must use a pre-booking system to make sure that you have enough waste storage and process capacity for the incoming acceptable waste.
+2. Your waste tracking system must hold all the information generated during:
+
+  pre-acceptance
+  acceptance
+  storage
+  repackaging
+  treatment
+  removal off site
+
+This information must be readily accessible.
+3. You must create records and update them to reflect deliveries, on-site treatment and despatches. Your tracking system will also operate as a waste inventory and stock control system. It must include this information as a minimum:
+
+  the date the waste arrived on site
+  the original producer’s details (or unique identifier)
+  details of all previous holders
+  a unique reference number
+  waste pre-acceptance and acceptance information
+  the package type and size
+  the intended treatment or disposal route
+  accurate records of the nature and quantity of wastes held on site, including all hazards – and identifying the primary hazards
+  where the waste is physically located on site
+  where the waste is in the designated disposal route
+  the names of staff who have taken any decisions about accepting or rejecting waste streams and who have decided on recovery or disposal options
+  details that link each healthcare waste container accepted to its consignment or transfer note
+  details of any non-conformances and rejections
+
+4. The tracking system must be able to report:
+
+  the total quantity of waste present on site at any one time
+  a breakdown by type of the waste quantities you are storing pending treatment, incineration or transfer
+  an indication of where a batch or consignment of waste is located based on a site plan
+  the quantity of waste on site compared with the limits authorised by your permit
+  the length of time the waste has been on site
+  the quantity of end-of-waste product materials on site at any one time, where applicable
+
+5. If you receive loose, packaged items (for example, bags or boxes of waste not in labelled bulk containers) collected from multiple premises (for example, collections from smaller producers such as doctor surgeries, dental practices or tattoo parlours) your systems and procedures must allow you to:
+
+  track the waste back to the original load received at the facility
+  see associated waste acceptance information and records
+
+6. If you add individual packages of waste (for example, bags or boxes) to a bulk container or pallet at your facility, your waste labelling and tracking system (including barcode systems) must be able to record this along with the date of the earliest package received.  For example, by marking or labelling the container or pallet with the unique identifiers of the packages it holds and the earliest receipt date.
+7. You must store back-up copies of computer records off site. Records must be readily accessible in an emergency.
+8. You must hold acceptance records for a minimum of 2 years after you have treated the waste or removed it off site. You may have to keep some records for longer if they are required for other purposes, for example, hazardous waste consignment notes.
+
+
+
+
+        
+  

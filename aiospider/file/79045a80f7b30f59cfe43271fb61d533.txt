@@ -1,0 +1,187 @@
+
+
+The authors examine the ethical considerations, benefits, and risks of military applications of artificial intelligence. Comparing development efforts in the United States, China, and Russia (as well as various positions on proposals to regulate or ban autonomous weapons), the authors point to a need for the United States to continue to pursue advantages in the field and explore confidence-building and risk-reduction measures with other states.
+
+
+
+
+Read Online
+
+Military Applications of Artificial Intelligence
+Ethical Concerns in an Uncertain World
+by Forrest E. Morgan, Benjamin Boudreaux, Andrew J. Lohn, Mark Ashby, Christian Curriden, Kelly Klima, Derek Grossman
+Related Topics: Artificial Intelligence, China, Military Doctrine, Military Technology, Russia, Science, Technology, and Innovation Policy, Survey Research Methodology, United States
+CitationEmbed
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+DownloadDownload eBook for Free
+
+FormatFile SizeNotes
+
+
+
+
+PDF file
+
+
+3.9 MB
+Use Adobe Acrobat Reader version 10 or higher for the best experience.
+
+
+
+
+Purchase
+Purchase Print Copy
+
+ FormatList Price
+Price
+
+
+Add to Cart
+Paperback223 pages
+$49.00
+$39.20 20% Web Discount
+
+
+
+
+
+
+
+
+
+
+Research Questions
+
+Is the United States constrained in its development or employment of military AI in ways that China and Russia are not?What does the Air Force need to do to maximize the benefits potentially available from AI-enabled systems while mitigating the risks they entail?What are the U.S. public's attitudes toward military AI and the ethical questions its applications raise?
+
+
+
+The authors of this report examine military applications of artificial intelligence (AI) and consider the ethical implications. The authors survey the kinds of technologies broadly classified as AI, consider their potential benefits in military applications, and assess the ethical, operational, and strategic risks that these technologies entail. After comparing military AI development efforts in the United States, China, and Russia, the authors examine those states' policy positions regarding proposals to ban or regulate the development and employment of autonomous weapons, a military application of AI that arms control advocates find particularly troubling. Finding that potential adversaries are increasingly integrating AI into a range of military applications in pursuit of warfighting advantages, they recommend that the U.S. Air Force organize, train, and equip to prevail in a world in which military systems empowered by AI are prominent in all domains. Although efforts to ban autonomous weapons are unlikely to succeed, there is growing recognition among states that risks associated with military AI will require human operators to maintain positive control in its employment. Thus, the authors recommend that Air Force, Joint Staff, and other Department of Defense leaders work with the State Department to seek greater technical cooperation and policy alignment with allies and partners, while also exploring confidence-building and risk-reduction measures with China, Russia, and other states attempting to develop military AI. The research in this report was conducted in 2017 and 2018. The report was delivered to the sponsor in October 2018 and was approved for distribution in March 2020.
+Key Findings
+
+A steady increase in the integration of AI in military systems is likelyThe various forms of AI have serious ramifications for warfighting applications.
+AI will present new ethical questions in war, and deliberate attention can potentially mitigate the most-extreme risks.
+Despite ongoing United Nations discussions, an international ban or other regulation on military AI is not likely in the near term.
+The United States faces significant international competition in military AIBoth China and Russia are pursuing militarized AI technologies.
+The potential proliferation of military AI to other state and nonstate actors is another area of concern.
+The development of military AI presents a range of risks that need to be addressedEthical risks are important from a humanitarian standpoint.
+Operational risks arise from questions about the reliability, fragility, and security of AI systems.
+Strategic risks include the possibility that AI will increase the likelihood of war, escalate ongoing conflicts, and proliferate to malicious actors.
+The U.S. public generally supports continued investment in military AISupport depends in part on whether the adversary is using autonomous weapons, the system is necessary for self-defense, and other contextual factors.
+Although perceptions of ethical risks can vary according to the threat landscape, there is broad consensus regarding the need for human accountability.
+The locus of responsibility should rest with commanders.
+Human involvement needs to take place across the entire life cycle of each system, including its development and regulation.
+
+
+Recommendations
+
+Organize, train, and equip forces to prevail in a world in which military systems empowered by AI are prominent in all domains.
+Understand how to address the ethical concerns expressed by technologists, the private sector, and the American public.
+Conduct public outreach to inform stakeholders of the U.S. military's commitment to mitigating ethical risks associated with AI to avoid a public backlash and any resulting policy limitations for Title 10 action.
+Follow discussions of the Group of Governmental Experts involved in the UN Convention on Certain Conventional Weapons and track the evolving positions held by stakeholders in the international community.
+Seek greater technical cooperation and policy alignment with allies and partners regarding the development and employment of military AI.
+Explore confidence-building and risk-reduction measures with China, Russia, and other states attempting to develop military AI.
+
+
+
+Table of Contents
+
+Chapter One
+Introduction
+
+Chapter Two
+The Military Applications of Artificial Intelligence
+
+Chapter Three
+Risks of Military Artificial Intelligence: Ethical, Operational, and Strategic
+
+Chapter Four
+Military Artificial Intelligence in the United States
+
+Chapter Five
+Military Artificial Intelligence in China
+
+Chapter Six
+Military Artificial Intelligence in Russia
+
+Chapter Seven
+Assessment of U.S. Public Attitudes Regarding Military Artificial Intelligence
+
+Chapter Eight
+Findings and Recommendations
+
+Appendix A
+Expert Interviews: Methods, Data, and Analysis
+
+Appendix B
+Public Attitudes Survey: Methods, Data, and Analysis
+
+
+
+
+Research conducted by
+
+RAND Project AIR FORCE
+
+
+
+This research was commissioned by the United States Air Force and conducted within the Strategy and Doctrine Program of RAND Project AIR FORCE.This report is part of the RAND Corporation Research report series. RAND reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND reports undergo rigorous peer review to ensure high standards for research quality and objectivity.Permission is given to duplicate this electronic document for personal use only, as long as it is unaltered and complete. Copies may not be duplicated for commercial purposes. Unauthorized posting of RAND PDFs to a non-RAND Web site is prohibited. RAND PDFs are protected under copyright law. For information on reprint and linking permissions, please visit the RAND Permissions page.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: RAND Corporation
+Availability: Available
+
+Print
+Format: Paperback
+Paperback Pages: 223
+List Price: $49.00
+Paperback Price:  $39.20
+Paperback ISBN/EAN: 9781977404923
+DOI: https://doi.org/10.7249/RR3139-1
+Document Number: RR-3139-1-AF
+Year: 2020
+Series: Research Reports
+
+
+
+Explore
+Related Topics
+
+Artificial IntelligenceChinaMilitary DoctrineMilitary TechnologyRussiaScience, Technology, and Innovation PolicySurvey Research MethodologyUnited States
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+Citation
+Format:
+
+ Chicago Manual of Style
+ RAND Corporation Style Manual
+
+Morgan, Forrest E., Benjamin Boudreaux, Andrew J. Lohn, Mark Ashby, Christian Curriden, Kelly Klima, and Derek Grossman, Military Applications of Artificial Intelligence: Ethical Concerns in an Uncertain World. Santa Monica, CA: RAND Corporation, 2020. https://www.rand.org/pubs/research_reports/RR3139-1.html. Also available in print form.
+Morgan, Forrest E., Benjamin Boudreaux, Andrew J. Lohn, Mark Ashby, Christian Curriden, Kelly Klima, and Derek Grossman, Military Applications of Artificial Intelligence: Ethical Concerns in an Uncertain World, Santa Monica, Calif.: RAND Corporation, RR-3139-1-AF, 2020. As of December 15, 2021: https://www.rand.org/pubs/research_reports/RR3139-1.html
+
+Download Citation (BibTeX)
+Download Citation (RIS)
+
+
+

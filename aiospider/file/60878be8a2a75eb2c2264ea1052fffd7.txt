@@ -1,0 +1,590 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Environmental permitting: air dispersion modelling reports
+  
+
+  
+  
+  
+      
+  Find out what you must include in an air dispersion modelling report to get an environmental permit.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Environment Agency and Department for Environment, Food & Rural Affairs
+
+      
+      Published
+      1 November 2014
+      Last updated
+      
+        19 January 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+    
+      Applies to England
+
+                Guidance for Wales
+          Guidance for Scotland
+          Guidance for Northern Ireland
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Explain your report
+
+        
+        
+          Include a location map
+
+        
+        
+          List emissions and environmental standards for air
+
+        
+        
+          Work out ambient and background levels
+
+        
+        
+          Explain the model
+
+        
+        
+          Explain emission parameters
+
+        
+        
+          Explain the modelled domain and receptors
+
+        
+        
+          Explain meteorological data and surface characteristics
+
+        
+        
+          Explain terrain and building treatments
+
+        
+        
+          Estimate model uncertainty
+
+        
+        
+          Carry out sensitivity analysis
+
+        
+        
+          Special treatments
+
+        
+        
+          Carry out impact assessment
+
+        
+        
+          Include input files and input parameters
+
+        
+        
+          Contact
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+You must carry out detailed modelling assessment on any emissions that you did not screen out through your air emissions risk assessment. Detailed modelling will identify if these emissions could harm the environment or human health.
+
+You need to include all the information explained in this guide, in your report. If you do not include some information, you’ll need to explain why. There needs to be enough information in the report to make an exact copy of the model.
+
+If your risk assessment identifies that your operation is likely to cause odour problems, you may need to model odour exposure. The guide H4 odour management has more information.
+
+Explain your report
+At the start of your report you must:
+
+
+  explain the purpose of the study
+  describe the site
+  explain the modelled scenarios and how they represent your operations
+
+
+Include a location map
+You must include a map that:
+
+
+  shows the location of the proposed site and surrounding land use
+  shows the size of the modelled area
+  uses National Grid referencing and indicates terrain contours, such as the Ordnance Survey Landranger series (1:50,000)
+
+
+List emissions and environmental standards for air
+You must provide a list of the emissions modelled, including their chemical specification. For example, oxides of nitrogen and halogenated compounds.
+
+You must also identify the relevant environmental standard for air emissions for these substances.
+
+Work out ambient and background levels
+You must:
+
+
+  work out a representative value for the background concentration
+  explain how your background concentrations are representative of the local environment
+
+
+Find this information from:
+
+
+  local authority ambient monitoring data
+  
+background maps produced by Defra
+  
+data from Defra national monitoring networks
+
+
+If you use a different source for this information, you need to explain why.
+
+Explain the model
+You must list the:
+
+
+  dispersion modelling software used
+  software name, including version number
+  type of model, for example Gaussian or new-generation
+  supplier
+
+
+The model you use must be fit for purpose, based on established science, and be validated and independently reviewed.
+
+Explain emission parameters
+You must provide and explain the following information, including relevant units, in a table.
+
+
+  
+    
+      Parameter
+      Units
+    
+  
+  
+    
+      Stack location
+      (grid reference)
+    
+    
+      Stack height
+      (metres)
+    
+    
+      Pollutant emission rate
+      (grammes per second)
+    
+    
+      Exit diameter
+      (metres)
+    
+    
+      Exit temperature
+      (kelvin, degrees celcius)
+    
+  
+
+
+If relevant to your model, you must also provide information about one or more of the following parameters.
+
+
+  
+    
+      Parameter
+      Units
+    
+  
+  
+    
+      Efflux velocity
+      (metres per second)
+    
+    
+      Volumetric flow rate (actual)
+      (cubic metres per second)
+    
+    
+      Volumetric flow rate (at reference conditions)
+      (normal cubic metres per second)
+    
+  
+
+
+You must explain how you have worked out the emission rates used in your model.
+
+You can calculate these rates using chimney exit concentration values from the appropriate BAT conclusion document or by using a measured concentration value. Where you use measured concentrations you need to include the raw monitoring data.
+
+You must also include other relevant data, including:
+
+
+  temperature
+  actual oxygen and moisture levels used to adjust volumetric flows
+  emissions and source terms that vary with time, if appropriate
+
+
+If you have modelled a source other than a point source you need to explain the source type. For example area, line, volume or other, and their emission parameters.
+
+Explain the modelled domain and receptors
+You need to justify the resolution of the model receptor grid you use.
+
+If it’s relevant to your model, you must give the assumed height above ground level for the receptors.
+
+You must also give details of any discrete receptors and include grid references used to assess impact at sensitive locations.
+
+Explain meteorological data and surface characteristics
+You must explain your choice of meteorological data and say why it’s representative. You also need to explain how the surface characteristics you have chosen represent land use. For example, surface roughness, albedo, Bowen ratio or Priestley-Taylor parameter.
+
+Your report must include:
+
+
+  the location of the chosen Met Office weather station in relation to the modelled domain
+  the number of years covered by the data – 5 is recommended but it must be a minimum of 3
+  the source of the data, for example, the UK Met Office
+  a description of the data quality and uncertainties relating to any alternative meteorological data
+  the format of the meteorological data – hourly sequential or long-term statistical
+  a wind rose showing the distribution of wind speed and direction
+
+
+Explain terrain and building treatments
+You must justify why you have included terrain and building treatments in your assessment. If you have not, you’ll need to explain why.
+
+Your report should:
+
+
+  justify why you have included building treatment in your assessment – if you have not, explain why
+  explain the source, format and processing of digital terrain data used in the model
+  show the location and dimensions of all buildings included in the model, including National Grid reference, height, width and rotation
+  show the location and relative orientation of buildings and their dimensions on a site plan
+
+
+Estimate model uncertainty
+You must show that you have estimated the level of uncertainty in your predictions.
+
+Look at validation documents for examples of the differences between measured values and those estimated by models.
+
+Where the validation documents indicate levels of uncertainty that might affect your conclusions, you need to consider running your data through another validated model to check the differences between models.
+
+You will need to carry out sensitivity analysis to deal with variability in your input data.
+
+Carry out sensitivity analysis
+You must show how the model is affected by:
+
+
+  meteorological data, such as different Met Office weather stations, data sources, inter-annual variation and surface characteristics
+  emission parameters, such as stack parameters, pollutant release rates and different plant operating scenarios
+  the receptor grid resolution
+  treatment of terrain and buildings
+
+
+Special treatments
+
+Describe the input parameters and any assumptions you have made on specialised model treatments, such as:
+
+
+  coastal models
+  fluctuations
+  photochemistry
+  wet or dry deposition
+  flare releases
+  short-term (puff) releases
+  effects of wind turbines
+  post-processing or short-term statistical analysis – to calculate the likelihood of intermittent emissions coinciding with meteorological conditions that could increase pollution
+
+
+Carry out impact assessment
+Your assessment must present the post-processing of relevant percentile values with the addition of background concentrations.
+
+You must also justify any assumptions you have made relating to pollutant conversion processes (such as nitric oxide and nitrogen dioxide photochemistry) for different averaging times. For combustion processes where no more than 10% of nitrogen oxides are emitted as nitrogen dioxide, you can assume worst case conversion ratios to nitrogen dioxide of:
+
+
+  35% for short-term average concentrations
+  70% for long-term average concentrations
+
+
+Breaches of environmental standards for air
+You must comment on any potential breaches of environmental standards for air emissions. You must take into account model uncertainty and where relevant provide an assessment of different:
+
+
+  stack heights
+  emission characteristics
+  process operation scenarios
+
+
+Contour plots
+You must provide contour plots for each air quality objective you assess. These must:
+
+
+  include the pollutant name and modelling scenario
+  provide averaging time and appropriate percentile plotted, clearly indicating areas of exceedance
+  use the same colour scale for all contour plots relating to a particular air quality objective
+
+
+Present your results
+Your results must be:
+
+
+  for the locations of maximum air quality impacts
+  at discrete sensitive receptor locations
+
+
+Present them in a table showing:
+
+
+  the process contribution (PC)
+  predicted environmental concentration (PEC) – which is the PC plus ambient background concentration values
+  PCs and PECs as a percentage of the relevant environmental standard for air
+
+
+You must include a discussion of results (what they mean and their significance) before you make your final conclusions.
+
+For a detailed modelling assessment PCs are insignificant where they are less than:
+
+
+  10% of a short-term environmental standard
+  1% of a long-term environmental standard
+
+
+At the detailed modelling stage there are no criteria to determine whether:
+
+
+  PCs are significant
+  PECs are insignificant or significant
+
+
+You must explain how you judged significance and base this on the site specific circumstances.
+
+Include input files and input parameters
+You must include the input files for the air dispersion model you have used, in addition to your report.
+
+You must provide a separate annex with a table of all the input parameters you have used within your model that supports any:
+
+
+  air quality impact assessment
+  human health risk assessment
+  odour impact assessment
+
+
+You must provide enough data so that we can audit the model configuration you have used.
+
+We’ll audit the model configuration and check the parameter values you have used to define sources of emissions and meteorological inputs to the model.
+
+Contact
+
+
+    General enquiries
+
+    
+      National Customer Contact Centre PO Box 544RotherhamS60 1BY
+    
+
+    
+        
+          Email enquiries@environment-agency.gov.uk
+        
+
+
+        
+          Telephone 03708 506 506
+        
+        
+          Telephone from outside the UK (Monday to Friday, 8am to 6pm GMT) +44 (0) 114 282 5312
+        
+    
+
+    Monday to Friday, 8am to 6pm.  The impact of COVID-19 means you may experience some delays in responses.
+
+
+
+If you have a query about producing air dispersion modelling reports:
+
+Email: aqmau@environment-agency.gov.uk
+
+
+
+
+
+      
+        
+    Published 1 November 2014
+    Last updated 19 January 2021
+      + show all updates
+      
+        
+            
+              19 January 2021
+              We have added the requirement that you must provide a separate annex with a table of all the input paramaters you have used.
+            
+            
+              24 May 2019
+              We have: added that we need enough information in the report to make an exact copy of the model; changed air quality standards to environmental standards for air; linked to Defra national monitoring networks; added more detail on emission rates calculations; added clarity on post-processing under special treatments; added information on impact assessment for combustion processes and added clarity to ‘present your results’.
+            
+            
+              1 November 2014
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Air emissions risk assessment for your environmental permit
+        Risk assessments for specific activities: environmental permits
+        Environmental permitting: H4 odour management
+        Assess the impact of air emissions on global warming
+        Best available techniques: environmental permits
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Environmental permits
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

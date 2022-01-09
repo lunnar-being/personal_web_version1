@@ -1,0 +1,569 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Implementing the Falsified Medicines Directive: Safety Features
+  
+
+  
+  
+  
+      
+  How to prepare for implementation and compliance of the Safety Features Regulation.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Medicines and Healthcare products Regulatory Agency
+
+      
+      Published
+      24 October 2018
+      Last updated
+      
+        31 December 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          10 September 2021 update
+
+        
+        
+          Introduction
+
+        
+        
+          How the Falsified Medicines Directive works
+
+        
+        
+          Guidance and useful resources
+
+        
+        
+          
+FMD newsletter
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+
+10 September 2021 update
+
+In its July Command Paper, the Government set out proposals for a new balance in how the Protocol is operated.
+
+In order to provide certainty and stability as discussions proceed between the UK and EU on these proposals, the Government has set out that it will continue to operate the Protocol on its current basis. This will mean that existing arrangements continue in force, including extending the specific arrangements/easements/grace period.
+
+The Government will ensure that reasonable notice is provided in the event that any of these arrangements are to change, to enable businesses and citizens to make appropriate preparations.
+
+Further information will be provided soon.
+
+
+Introduction
+
+This page is a hub of information for all stakeholders impacted by the implementation of FMD Safety Features.  With both UK Government and stakeholder produced information; those impacted by the new Regulation can access the most up to date advice on how to prepare for the implementation of and compliance with the Safety Features Regulation.
+In addition to the guidance for all, stakeholders can access sector-specific guidance.  This is segmented into stakeholder groups and you should review links to additional information that fall into the group category(ies) you or your organisation identifies as.
+
+How the Falsified Medicines Directive works
+
+The EU Falsified Medicines Directive (2011/62/EU) (FMD) was adopted in 2011 and introduced new harmonised measures to ensure that medicines in the European Union (EU) are safe and that trade in medicines is properly controlled.
+
+The final part of the Directive, the ‘safety features’ Delegated Regulation (EU) 2016/161) comes into force on 9 February 2019.
+
+The European Commission has produced a video to explain more about the safety features.
+
+These safety features are:
+
+
+  
+    a unique identifier (a 2D data matrix code and human readable information) which will be placed on medical products that can be scanned at fixed points along the supply chain
+  
+  
+    tamper evident features (anti-tampering devices) on the pack
+  
+
+
+The unique identifier comprises:
+
+
+  
+    a product code which allows the identification of at least the name of the medicine, the common name, the pharmaceutical form, the strength, the pack size, and the pack type
+  
+  
+    a serial number which is a numeric or alphanumeric sequence of a maximum of 20 characters randomly generated
+  
+  
+    a batch number
+  
+  
+    an expiry date
+who
+If the member state to which the medicine is being supplied requires it, the unique identifier will also need to include the national reimbursement number (note that this is not applicable in the UK). The unique identifier must be printed on the pack in a 2D data-matrix code and be printed in a way in which the information can be read by the human eye.
+  
+
+
+The Delegated Regulation does not specify which tamper-evident feature should be used.
+
+The choice of tamper-evident feature to be used will be for the marketing authorisation holder (MAHs) to decide. A European Standard is available which gives guidance on the types of tamper-evident features which could be considered by MAHs. This is titled ‘Tamper verification features for medicinal product packaging EN 16679:2014’.
+
+MAHs will be required to place the safety features on the packaging of medicines which fall within the remit of the Delegated Regulation no later than 9 February 2019.
+
+Manufacturers will place the safety features on the packaging of prescription only medicines and upload the data into the European repository system prior to placing the product on the market. The 2D barcode will need to be scanned at various points in the supply chain to verify that it is an ‘authentic’ medicine.
+
+On supply to the patient, the unique identifier must be ‘decommissioned’ via a scan from the FMD system, to prevent any duplication of a legitimate identifier for use on a falsified medicine. This will be checked against data in the national repository, which in the UK is run by SecurMed UK.
+
+MHRA and the Department for Health and Social Care will continue to publish further guidance to inform all stakeholders throughout the supply chain as it becomes available.  To suggest any non-Government guidance for inclusion on this page please email FMD.safetyfeatures@mhra.gov.uk.
+
+Guidance and useful resources
+
+Guidance on safety features: 7 February 2019
+
+The United Kingdom is committed to meeting the 9 Feb 2019 deadline for the launch of EU FMD safety features Delegated Regulation, and we expect all stakeholders in the UK supply chain to be aiming to comply with these new requirements, indeed we know much of the UK supply chain is already prepared.
+
+Despite the significant work undertaken to date in the UK and given the complexities associated with setting up the medicines verification system across the EU it is anticipated issues will arise especially during the initial operational/implementation phase. It is important that these issues do not compromise confidence in the medicines supply chain.  The Government’s priority is the continued supply of safe medicines to patients.
+
+For example, several Member States have formally advised those who may receive ‘unknown’ error messages to dispense anyway.  Therefore, the MHRA will also be taking a pragmatic, flexible approach to how we enforce the new legal requirements, as long as the normal checks are carried out, and there is no reason to think that the medicine is falsified. This position will be kept under review.
+
+We are also aware of issues around non-FMD compliant packs released to market before 9 February 2019, and wholesalers’ designated status, We will continue to work with UK stakeholders to help bring them into full compliance with the safety features regulation as soon as possible.
+
+Error messaging and false alerts
+
+Medicinal products manufactured and released before 9 February 2019 containing safety features may not necessarily be fully uploaded to the repositories system. There are also packs of medicines already on the UK market which contain 2D barcodes that do not relate to the FMD safety features due to other international initiatives. Attempts to verify or verify and decommission these products will trigger system alerts. This situation may continue for a period of time due to the shelf life of medicinal products, in some cases up to five years.  Where Alert IDs are triggered please refer to the guidance published by the Royal Pharmaceutical Society, and the UK FMD working group.
+
+Any instances of suspected falsification (including physical signs of tampering) are to be reported in the usual way via the yellow card scheme using the ‘Fake’ button.
+
+Where the Marketing Authorisation Holder is notified by the alerting system that a data error has occurred, they are to notify the MHRA if upon further investigation, falsification is suspected.
+
+Further background explaining the alert management process on the EMVO website.
+
+Guidance on checking Italian and Greek FMD compliant stock
+There are two countries (Greece and Italy) that are yet to implement the 2D barcode UI system.
+
+Where the 2D barcode UI is not yet in use the MHRA are clear that it is still your responsibility to identify falsified, stolen or recalled stock received into your systems, including those that have already been decommissioned.
+
+Italian stock
+The Italian Medicines Agency (AIFA) have issued updated guidance on the security label used by Italy; the ‘Bollino’.
+
+This system uses a serial number on a 2-layered adhesive sticker / label which can be tracked via a central database and must be applied to each pack. The upper label is removed upon dispensing in Italy leaving a voided area and strip containing the repeated serial number.
+
+The complete Italian bollino label (2 layers) must be present on the outer carton of packs exported from Italy.
+
+Furthermore, the exported packs should bear a nullification mark (e.g., an “ESPORTAZIONE” stamp or a cross over the barcode).
+
+The MHRA have been made aware of packs that do not have the full 2 layers of the bollino label or packs on which the bollino has been falsified and is not of the correct appearance.
+
+AIFA state that both a missing bollino or bearing a falsified bollino should be considered as a falsified medicine and reported.
+
+If there are anomalies with missing bollino or bollino labels showing different features from those described in the guidance document, please contact medicrime@aifa.gov.it, who will check the legitimacy of the products.
+
+If falsified medicines are confirmed please report to the MHRA using the Yellow Card reporting system
+
+Italian Medicine Agency guidance (PDF, 3.61MB, 2 pages)
+
+Greek stock
+
+Greece operates a similar, two-layer system where the unique identifier (pack serial number) is placed upon an authenticity sticker carrying a linear GS1 128 serialised barcode plus an EAN 13 product barcode. As with the Italian system, the adhesive top layer sticker would be removed when the product is dispensed in Greece to reveal an exposed area where it was once located.
+
+Greek FMD barcode (JPEG, 44.2KB)
+
+Reporting suspected falsified medicines
+
+Any falsified medicines identified should be reported through the Yellow Card Scheme [Report a FAKE or Counterfeit]. 
+For FMD applicable Prescription only Medicines (POM) products containing the Unique Identifier (UI) 2D bar code the following information is needed: 
+A report of an alert for one of these packs should include:
+
+
+  
+    the alert number in the following format: “GB-xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx” 
+and the following details from the pack itself:
+  
+  
+    GTIN
+  
+  
+    serial number
+  
+  
+    batch id
+  
+  
+    expiry date
+  
+
+
+Ideally this would be with images of the pack showing all 4 elements in human readable format AND the 2D barcode. 
+The alert could be generated for any of the following codes upon verification or decommissioning;
+
+
+  
+    NMVS_FE_LOT_03
+  
+  
+    NMVS_FE_LOT_12
+  
+  
+    NMVS_FE_LOT_13
+  
+  
+    NMVS_NC_PC_01
+  
+  
+    NMVS_NC_PC_02
+  
+  
+    NMVS_NC_PCK_19
+  
+  
+    NMVS_NC_PCK_22
+  
+
+
+For those For FMD applicable products without a Unique Identifier (UI) 2D bar code from Italy or Greece the following is needed:
+
+
+  
+    supplier details
+  
+  
+    product particulars
+  
+  
+    photographs (to include the side where the adhesive stickers / labels should have been present.
+  
+  
+    date received
+  
+
+
+Guidance for all stakeholders
+
+Frequently asked questions received by the Competent Authorities on implementation, published by the Specialist Pharmacy Service
+
+Changes to alert messages from NMVS provider SecurMed (February 2019)
+
+We published Additional guidance on Article 23 providers, Healthcare Institutions and Article 26 exemption (PDF, 701KB, 6 pages) in December 2018.
+
+European Commission Delegated Regulation on Safety Features
+
+Government consultation on the implementation of Safety Features (ran from 16 July to 23 September 2018) response published December 2018.
+
+European Commission Q&A on Safety Features for Medicinal Products for Human Use (published September 2018)
+
+European Commission letter to stakeholders on their obligations under the Delegated Regulation
+
+SecurMed, the providers of the UK Medicines Verification System
+
+Technical notices regarding the impact of Brexit on the Life Sciences
+
+NHS Digital overarching guidance
+
+Devolved administrations
+
+This guidance does not apply to British Overseas Territories, which are out of scope of the legislative changes, but does apply to The Crown Dependencies and the devolved administrations, which can be contacted directly for further information
+
+Manufacturers, Marketing Authorisation Holders and Parallel Importers
+
+MHRA guidance on how to apply to register safety features
+
+MHRA guidance for parallel import license holders (PDF, 163KB, 24 pages)
+
+Heads of Medicines Agencies (CMDh) clarification on the implementation of FMD (April 2018)
+
+ABPI’s FAQ’s for pharmaceutical manufacturers
+
+Wholesalers
+
+European Medicines Verification Organisation guidance for designated wholesalers
+
+MHRA guidance for wholesalers (PDF, 159KB, 5 pages)
+
+Community pharmacies
+
+RPS pharmacy professionals guide to FMD
+
+NHS Digital toolkit for community pharmacy
+
+FMDSource.co.uk -  the website of the UK FMD Working Group for Community Pharmacy
+
+Community Pharmacy Scotland’s website
+
+Hospitals and hospital pharmacies
+
+CQC guidance will be linked to from this section
+
+SPS ‘FAQs Secondary care services and FMD’
+
+NHS guidance on secondary care
+
+Further information for NHS organisations on FMD can be requested by emailing fmd@nhs.net
+
+Guidance on the definition of Healthcare Institutions
+
+Independent hospital pharmacists can contact the network representing them at independent@chiefpharmacists.com for further information and advice on implementation
+
+GPs
+
+NHS Digital toolkit for GP Surgeries
+
+NHS Digital Out of hours GP toolkit
+
+PHE information on PHE-supplied vaccines under FMD
+
+Dispensing Doctors
+
+NHS Digital toolkit for Dispensing Doctors
+
+FMD registration body advice from the Dispensing Doctors Association
+
+Homecare
+
+Medicines Homecare relates to specialised medicines prescribed by hospitals and supplied, often via a third party, to patients in community settings.
+
+Guidance related to Medicines Homecare
+
+Providers not part of a healthcare institution, clinic or health centre – subject to final Government position on Article 23
+
+SPS ‘FAQs Secondary care services and FMD’
+
+
+FMD newsletter
+
+MHRA publish the FMD Newsletter to all MAHs and Wholesale Dealers Licence holders when new information and guidance is available.
+
+Safety Features Newsletter - Jan 2019 (PDF, 186KB, 4 pages)
+Safety Features Newsletter - 12 Nov 2018 (PDF, 116KB, 4 pages)
+Safety Features Newsletter July 2018 (PDF, 70.8KB, 3 pages)
+Safety Features Newsletter March 2018 (PDF, 72.9KB, 2 pages)
+Safety Features Newsletter February 2018 (PDF, 110KB, 2 pages)
+Safety Features Newsletter November 2017 (PDF, 69.5KB, 2 pages)
+Safety Features Newsletter October 2017 (PDF, 72.9KB, 2 pages)
+Safety Features Newsletter September 2017 (PDF, 71KB, 2 pages)
+Safety Features Newsletter August 2017 (PDF, 88.3KB, 2 pages)
+Safety Features Newsletter April 2017 (PDF, 95.4KB, 2 pages)
+Safety Features Newsletter March 2017 (PDF, 110KB, 2 pages)
+Safety Features Newsletter February 2017 (PDF, 98.1KB, 2 pages)
+Safety Features Newsletter January 2017 (PDF, 122KB, 2 pages)
+
+Please send items for inclusion in the newsletter to FMD.safetyfeatures@mhra.gov.uk.
+
+
+
+
+
+      
+        
+    Published 24 October 2018
+    Last updated 31 December 2020
+      + show all updates
+      
+        
+            
+              31 December 2020
+              Added a notice to the top of the page, explaining that the content of this page will be updated in the following weeks following the Northern Ireland Protocol coming into effect after the end of the transition period.
+            
+            
+              26 October 2020
+              Change to wording under 'Italian stock' as well as updated guidance links.
+            
+            
+              11 July 2019
+              Updated link to PHE information on PHE-supplied vaccines under FMD.
+            
+            
+              8 July 2019
+              Updated Italian Medicine Agency guidance
+            
+            
+              5 July 2019
+              Additional guidance on checking Italian and Greek FMD compliant stock
+            
+            
+              27 March 2019
+              Added Jan 2019 pdf attachment
+Amended wording.
+            
+            
+              22 February 2019
+              Added links to external information in the Guidance for all stakeholders section.
+            
+            
+              7 February 2019
+              Added information on the implementation of safety features.
+            
+            
+              8 January 2019
+              Published guidance for wholesalers, guidance for parallel import license holders and a link to guidance related to Medicines Homecare.
+            
+            
+              2 January 2019
+              Minor update to dates of government consultation including when response was published.
+            
+            
+              21 December 2018
+              Published Additional guidance on Article 23 providers, Healthcare Institutions and Article 26 exemption.
+            
+            
+              24 October 2018
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        FMD guidance for recipients of PHE supplied vaccines
+        Statutory warnings for all medicines containing paracetamol
+        Warning statements for labels and leaflets of certain medicines
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Medicines, medical devices
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

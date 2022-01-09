@@ -1,0 +1,402 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    BDUK New Procurement Pipeline
+  
+
+  
+  
+
+  
+    
+  There are a number of upcoming Local Body procurements that come under BDUK’s National Broadband Scheme that will be commencing shortly. This page provides guidance and information to support Suppliers to participate in these procurements.
+
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Digital, Culture, Media & Sport
+
+      
+      Published
+      20 May 2016
+      Last updated
+      
+        6 February 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Supplier Briefing
+    
+        PDF, 2.08MB, 71 pages
+    
+
+
+  
+
+  
+      
+  
+  
+    Use of Existing Infrastructure Code of Conduct
+    
+        PDF, 643KB, 10 pages
+    
+
+
+  
+
+  
+      
+  
+  
+    160916 Suppliers with intention to participate in upcoming BDUK procurements v4.0
+    
+        MS Excel Spreadsheet, 11.4KB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@dcms.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    BDUK 2016-2017 Procurement Pipeline - 170413
+    
+        PDF, 445KB, 3 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@dcms.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+BDUK Procurement Pipeline Information
+
+A table setting out the current information on the pipeline of local body OJEU procurements, including timelines and contact details for suppliers can be found here
+
+A chart setting out the timelines for the upcoming procurements (as of September 2016) can be found at the top of this webpage.
+
+Procurements – Template Documents
+
+Please see below for further information and links to template documents to be used for procurement under BDUK’s 2016 State Aid decision.
+
+Use of Existing Infrastructure Code of Conduct
+
+Under paragraph 78(f) of the 2013 Broadband Guidelines there is a requirement for operators to offer access to other bidders for infrastructure it operates in an intervention area, should the operator(s) wish to bid for a particular requirement.
+
+BDUK has implemented a ‘Code of Conduct’ to meet this requirement, whereby suppliers agree to provide relevant information on the use of existing infrastructure to other bidders upfront and in readiness for any issue of a tender. A copy of this document can be found at the top of this webpage.
+
+Invitation to Tender template
+
+Drafts of BDUK’s template Invitation to Tender documentation including the Project Financial Model and the Speed and Coverage Template can be accessed here.
+
+Contract Template
+
+Drafts of BDUK’s template Terms and Conditions and Contract Schedules have been published and can be accessed here.
+
+Prospective bidders should remember that while BDUK will promote use of these standardised templates, local bodies will provide their own procurement documentation as part of each individual tender process. Prospective bidders should examine all procurement documentation released as part of a procurement process very carefully, as there may be variations from any of the templates set out here.
+
+Partnering Opportunities
+
+Several suppliers with an interest in the pipeline are willing to be contacted by other organisations about potential partnering opportunities. A full list of these suppliers can be found at the top of this webpage.
+
+If you would like your organisation to be listed on this document, please email stateaidforbroadband@culture.gov.uk providing the name of your organisation, the person/people you would like listed as the key contact(s), along with their email address(es).
+
+State Aid Information
+
+Information regarding BDUK’s state aid cover, including guidance regarding how to meet the terms of the 2016 National Broadband Scheme decision, can be found here
+
+Bidder Support
+
+One to One supplier sessions
+
+BDUK is offering one-to-one sessions with suppliers to discuss or help understand the typical requirements and process for these upcoming procurements and encourage participation in the new pipeline.
+
+BDUK will manage requests for topics of discussion in one-to-one sessions individually, but expects that suppliers may wish to discuss the following:
+
+
+  Creating supplier solution design documents
+  Providing evidence of NGA capability for technology components
+  Requirements for wholesale access, including products and pricing
+  Requirements for preparing a project financial model
+  Requirements for preparing an implementation plan and milestone payments
+  The template Contract terms and conditions
+  Willingness to bid in procurements and specifically capacity or constraints to bid in multiple concurrent procurements
+
+
+Suppliers interested in booking a session should email stateaidforbroadband@culture.gov.uk stating the topics they would like to discuss, and some proposed times for a meeting.
+
+Supplier Briefing Sessions
+
+Following the State Aid decision on BDUK’s National Broadband Scheme, BDUK held supplier briefing sessions on the 8th and 9th June 2016 to update suppliers on the following:
+
+
+  BDUK’s infrastructure rollout progress to date
+  Upcoming Local Authority projects within the BDUK pipeline
+  Requirements of a typical Local Authority procurement, including State aid constraints and obligations
+  Typical Local Authority procurement processes and bid evaluation criteria
+  Overview of the tender documents and contract structure
+  Description of further support available from BDUK
+
+
+Slides from these sessions are attached to this webpage for future reference. Please note, that these slides are accurate at the time of being published (9 June 2016). Local Bodies should be contacted directly for latest information regarding specific procurements.
+
+BDUK may hold further similar sessions in the future if the demand is there, details of which will be shared on this webpage.
+
+
+
+        
+      
+
+      
+    Published 20 May 2016
+    Last updated 6 February 2020
+      + show all updates
+      
+        
+            
+              6 February 2020
+              Updated 'Use of Existing Infrastructure Code of Conduct' document
+            
+            
+              22 August 2017
+              Removed Broadband Investment Fund
+            
+            
+              20 April 2017
+              New OJEU pipeline provided.
+            
+            
+              23 September 2016
+              New version of Indicative Timeline uploaded
+            
+            
+              19 September 2016
+              Contains a link to page with Invitation to Tender template documents
+            
+            
+              2 September 2016
+              New versions of the PFM OJEU templates and the Suppliers with Intention to Participate in Upcoming BDUK Procurements document are now published
+            
+            
+              3 August 2016
+              This page now includes a link to Drafts of BDUK’s template Terms and Conditions and Contract Schedules.
+            
+            
+              22 July 2016
+              PFM OJEU Templates have been updated
+            
+            
+              15 July 2016
+              Link to 2016 National Broadband Scheme webpage has now been added
+            
+            
+              13 July 2016
+              Specific guidance on key topics related to the State aid decision is now available here.
+            
+            
+              6 July 2016
+              Suppliers with intention to participate in upcoming BDUK procurements are listed in an attached PDF. New PFM OJEU templates are attached.
+            
+            
+              5 July 2016
+              The latest version of the Project Financial Model template (PFM) is available on this webpage
+            
+            
+              28 June 2016
+              There is now a link to a table setting out the current information on the pipeline of local body OJEU procurements, including timelines and contact details of suppliers.
+            
+            
+              22 June 2016
+              BDUK's State aid decision has now been published on the European Commission's website, a link to which can be found in the text.
+            
+            
+              20 May 2016
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Broadband State Aid Advice
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Media and communications
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

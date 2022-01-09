@@ -1,0 +1,197 @@
+
+
+Face recognition technologies (FRTs) have many practical security-related purposes, but advocacy groups and individuals have expressed apprehensions about their use. This report highlights the high-level privacy and bias implications of FRT systems. The authors propose a heuristic with two dimensions — consent status and comparison type — to help determine a proposed FRT's level of privacy and accuracy. They also identify privacy and bias concerns.
+
+
+
+
+Read Online
+
+Face Recognition Technologies
+Designing Systems that Protect Privacy and Prevent Bias
+by Douglas Yeung, Rebecca Balebako, Carlos Ignacio Gutierrez Gaviria, Michael Chaykowsky
+Related Topics: Border and Port Security, Data Privacy, Racial Equity, Science and Technology Legislation, Science, Technology, and Innovation Policy
+CitationEmbed
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+DownloadDownload eBook for Free
+
+FormatFile SizeNotes
+
+
+
+
+PDF file
+
+
+1.1 MB
+Best for desktop computers. Use Adobe Acrobat Reader version 10 or higher for the best experience.
+
+
+
+
+
+ePub file
+
+
+1.8 MB
+Best for mobile devices. On desktop computers and some mobile devices, you may need to download an eBook reader to view ePub files. Calibre is an example of a free and open source e-book library management application.
+
+
+
+
+
+mobi file
+
+
+4.3 MB
+Best for Kindle 1-3. On desktop computers and some mobile devices, you may need to download an eBook reader to view mobi files. Amazon Kindle is the most popular reader for mobi files.
+
+
+
+
+Purchase
+Purchase Print Copy
+
+ FormatList Price
+Price
+
+
+Add to Cart
+Paperback88 pages
+$28.00
+$22.40 20% Web Discount
+
+
+
+
+
+
+
+
+
+
+Research Questions
+
+How can society benefit from and use face recognition while still protecting privacy?
+What methods can be used to mitigate the disparate impact of inaccuracies in the results from using face recognition?
+
+
+
+
+The objective of face recognition technologies (FRTs) is to efficiently detect and recognize people captured on camera. Although these technologies have many practical security-related purposes, advocacy groups and individuals have expressed apprehensions about their use. The research reported here was intended to highlight for policymakers the high-level privacy and bias implications of FRT systems. In the report, the authors describe privacy as a person's ability to control information about them. Undesirable bias consists of the inaccurate representation of a group of people based on characteristics, such as demographic attributes. Informed by a literature review, the authors propose a heuristic with two dimensions: consent status (with or without consent) and comparison type (one-to-one or some-to-many). This heuristic can help determine a proposed FRT's level of privacy and accuracy. The authors then use more in-depth case studies to identify "red flags" that could indicate privacy and bias concerns: complex FRTs with unexpected or secondary use of personal or identifying information; use cases in which the subject does not consent to image capture; lack of accessible redress when errors occur in image matching; the use of poor training data that can perpetuate human bias; and human interpretation of results that can introduce bias and require additional storage of full-face images or video. This report is based on an exploratory project and is not intended to comprehensively introduce privacy, bias, or FRTs. Future work in this area could include examinations of existing systems, reviews of their accuracy rates, and surveys of people's expectations of privacy in government use of FRTs.
+Key Findings
+
+Every system requires a trade-off between accuracy and privacySystems that obtain the subject's consent are more accurate than those that do not.
+
+Systems that match one subject image with one stored image, such as device authentication and mug shots, perform verification.
+
+Systems that check one or more subject images against multiple images, such as social media identity verification and surveillance cameras, perform identification.
+
+The most-accurate systems also have the lowest privacy risk: systems that obtain the subject's consent for one-on-one verification. One example would be passport authentication at a border.
+
+Medium-accuracy systems with low privacy risk include visa screenings; those with high privacy risk include detainee identification.
+
+The least accurate systems have high privacy risk and include face-in-a-crowd airport surveillance.
+
+No unified set of rules governs the use of face recognition technologiesMultiple laws and regulations create a disjointed policy environment, limiting the extent to which privacy and bias concerns can be mitigated for these implementations.
+
+
+
+Recommendations
+
+For any technology that gathers personally identifiable information, such as facial characteristics, in public settings, strive to protect those data, use anonymization or other means to reduce the amount of those data available, and establish rigorous user protocols to limit unauthorized access.
+
+Carefully consider the composition and size of either training or targeting data sets to discern the potential for skewing face recognition algorithms.
+
+Design blacklists that avoid bias, and identify thresholds that produce acceptable rates of false-positive facial matches in security-related applications.
+
+
+
+
+Table of Contents
+
+Chapter One
+Introduction
+
+Chapter Two
+Background on Face Recognition Technology: A Primer
+
+Chapter Three
+Selected Face Recognition Technology Policies in the United States
+
+Chapter Four
+Face Recognition Technologies in Action: Two Use Cases
+
+Chapter Five
+Study Overview and Areas for Future Research
+
+
+
+
+Research conducted by
+
+Homeland Security Operational Analysis CenterHSOAC is a federally funded research and development center operated by the RAND Corporation under contract with DHS.
+
+
+
+
+This independent research was conducted using internal funding generated from operations of the Homeland Security Research Division (HSRD) and within the HSRD Acquisition and Development Program. This report is part of the RAND Corporation Research report series. RAND reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND reports undergo rigorous peer review to ensure high standards for research quality and objectivity.Permission is given to duplicate this electronic document for personal use only, as long as it is unaltered and complete. Copies may not be duplicated for commercial purposes. Unauthorized posting of RAND PDFs to a non-RAND Web site is prohibited. RAND PDFs are protected under copyright law. For information on reprint and linking permissions, please visit the RAND Permissions page.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: RAND Corporation
+Availability: Available
+
+Print
+Format: Paperback
+Paperback Pages: 88
+List Price: $28.00
+Paperback Price:  $22.40
+Paperback ISBN/EAN: 9781977404558
+DOI: https://doi.org/10.7249/RR4226
+Document Number: RR-4226-RC
+Year: 2020
+Series: Research Reports
+
+
+
+Explore
+Related Topics
+
+Border and Port SecurityData PrivacyRacial EquityScience and Technology LegislationScience, Technology, and Innovation Policy
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+Citation
+Format:
+
+ Chicago Manual of Style
+ RAND Corporation Style Manual
+
+Yeung, Douglas, Rebecca Balebako, Carlos Ignacio Gutierrez Gaviria, and Michael Chaykowsky, Face Recognition Technologies: Designing Systems that Protect Privacy and Prevent Bias. Homeland Security Operational Analysis Center operated by the RAND Corporation, 2020. https://www.rand.org/pubs/research_reports/RR4226.html. Also available in print form.
+Yeung, Douglas, Rebecca Balebako, Carlos Ignacio Gutierrez Gaviria, and Michael Chaykowsky, Face Recognition Technologies: Designing Systems that Protect Privacy and Prevent Bias, Homeland Security Operational Analysis Center operated by the RAND Corporation, RR-4226-RC, 2020. As of December 16, 2021: https://www.rand.org/pubs/research_reports/RR4226.html
+
+Download Citation (BibTeX)
+Download Citation (RIS)
+
+
+

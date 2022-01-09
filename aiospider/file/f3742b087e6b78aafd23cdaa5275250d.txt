@@ -1,0 +1,166 @@
+
+
+The RAND Blog
+Previous Blog PostWake-Up Call for RussiaNext Blog PostEstimates of COVID-19's Fatality Rate Might Change. And Then Change Again.
+
+The Right Technology Can Help Refugees Stay Connected
+essay
+A man texts on his mobile phone while waiting in line to register at Ifo refugee camp in Dadaab, KenyaPhoto by Internews Europe/CC BY-NC-ND 2.0
+
+
+
+March 11, 2020
+
+
+
+Shelly Culbertson learned how valuable a phone can be from a cab driver threading his way through the streets of Beirut.
+
+
+She's a senior researcher at RAND. He was a refugee from Syria who had lost almost everything to the civil war there. As they chatted, he brought out his phone to show her pictures of a home that no longer stood, and a life that no longer existed.
+
+
+“It was really striking to me,” said Culbertson, who has spent years working in the Middle East and elsewhere to improve the lives of refugees like him. “Here's this person who's displaced, impoverished. He's lost his home. And yet, he still manages to have a smartphone, because it holds his history, his identity. He's able to use that phone as a lifeline, not just to communicate with friends and family, but to maintain his past.”
+
+
+The experience stuck with her. Back at RAND, she teamed up with a researcher who had fled Greece as a child to look at how displaced people around the world use technology—and how technology could better serve them. The research spanned four continents, drew upon scores of interviews, and came to one inescapable conclusion: There's a disconnect between what displaced people need, and what investors and innovators think they need.
+
+There's a disconnect between what displaced people need, and what investors and innovators think they need. Share on Twitter
+The United Nations has called the past ten years the decade of displacement. Nearly 71 million people have fled conflict and persecution, filtering into cities far from home or crowding into refugee camps. Almost one in every 100 people around the world is now a refugee, an asylum seeker, or otherwise displaced by force or fear.
+
+
+The mobile phone has become such a vital part of their lives that refugees have been known to trade food rations for airtime and data. A recent survey found that refugees often prioritize their phone and internet connections above education, clothing, and health care. As one interviewee told RAND researchers, “Their phone is all they have left.”
+
+
+Culbertson had seen that dynamic up close, from the city centers of Iraq to the sprawling refugee camps of Jordan. She partnered with fellow researcher Jim Dimarogonas to conduct one of the most comprehensive studies to date on the role technology plays in the lives of displaced people. He's an engineer by training, a specialist in nuclear command and control—but it was his personal story that brought him to the project. He and his parents fled the 1967 military coup in Greece when he was a child; several generations of his family had also fled persecution and conflict.
+A Syrian refugee shows his hometown of Hama on his phone while en route to Canada
+Photo by IOM/Muse Mohammed 2015/CC BY-NC-ND 2.0
+
+He and Culbertson convened focus groups of displaced people in Colombia, Jordan, Zambia, Greece, and Pittsburgh, Pa. They interviewed officials with the United Nations, humanitarian groups, tech companies, and refugee organizations. They thought they would find gaps in the technology available to displaced people, areas where more investment, more innovation, could help more people.
+
+
+What they found was the opposite.
+
+
+“There's too much,” Dimarogonas said. “There are too many organizations trying to pursue technology to solve problems. In many cases, they're enamored with the technology first, and then trying to find a problem they can apply it to.”
+
+
+A few years ago, for example, as news reports filled with images of desperate migrants risking everything to cross the Mediterranean Sea, app developers rushed to help. They churned out apps to help new arrivals find their way around unfamiliar cities, navigate national bureaucracies, even find a place to eat based on their home cuisine. Most of these apps were inactive within a year or two.
+
+
+Almost one in every 100 people around the world is now a refugee, an asylum seeker, or otherwise displaced by force or fear.Share on Twitter
+It wasn't for a lack of need. Refugees in the focus groups said they rely on their smartphones to communicate with family and friends, look for jobs, educate their children, preserve photos and documents, read the Bible or Quran, and learn new languages. The problem is that those apps already exist. The refugees didn't need a flashy new app to communicate with friends; they needed a good internet connection and a link to Facebook.
+
+
+All those new tools too often ended up as “digital litter,” a trail of broken links and abandoned apps. Refugees looking for help in a strange, new place might think they've found a source of reliable information, when really it's just another piece of outdated litter.
+
+
+“What we've seen in the past couple of years is an app craze, where a lot of different entities want to create apps specifically for refugees,” Culbertson said. “But refugees use technology like everybody else. There's been tremendous investment in developing apps, and a lot of it has been wasted.”
+
+A cell phone charging station just before the border crossing to Austria in Dravograd, Slovenia, 2015
+Photo by Felix Kleymann/laif/Redux
+
+The same uncoordinated approach to technology has also hampered the aid agencies and nongovernmental organizations that work with refugees. They can now gather vast amounts of information about the people they serve—but often lack the skills or security protocols to manage it. Refugees in the focus groups said they feel especially vulnerable, having fled violence and persecution, but often have no choice but to provide their data to get the help they need.
+
+
+There have been some real advances in how aid agencies use technology. The World Food Program has started using iris scans to streamline its distribution of cash assistance. Greece allowed incoming migrants to register for asylum over Skype. But innovations like those have too often been fragmented, without a larger vision for how they could expand to help more people in more places.
+
+
+That's a challenge, and an opportunity, for the United Nations. It should consider establishing worldwide frameworks for the ethical and effective use of technology in refugee settings. At a minimum, it should set standards for data security to protect refugees and other displaced people.
+
+
+The researchers also recommended a “wedding registry” approach to developing new technology. International organizations like the UN could establish wish lists of technological needs—better internet connectivity in far-flung refugee camps, for example, or more reliable digital identifications. Rather than competing to rush out the latest soon-to-be-forgotten app, investors and tech companies could choose projects to work on from the registry.
+
+
+“We really need to take a step back, understand the problem, look at what needs to be solved, and then try to identify the right solutions,” Dimarogonas said. “Not identify the technology first and then look for problems it can be applied to. We need to put the focus more on refugees and what they really need.”
+Celestin Mpagaze, a refugee from the Democratic Republic of the Congo, says he wouldn't be as connected without his phone
+Photo courtesy of Celestin Mpagaze
+
+Celestin Mpagaze doesn't need much more digital technology than what he already has on the iPhone 6 he keeps in his pocket. He's a refugee from what is now the Democratic Republic of the Congo. He spent three days fleeing gunshots and explosions after rebel fighters overran his village, then another 20 years in a sparse refugee camp in neighboring Uganda. He lives now in Pittsburgh with his family, works as a machine operator and part-time interpreter, and was one of the participants in the RAND focus groups.
+
+
+“It would be worse if I didn't have my phone,” he said. “The situation wouldn't be good, the way I see it. I wouldn't be connected; I wouldn't know what is happening.”
+
+
+But, aside from a news feed that leans toward the Congo, nothing on the home screen of his phone hints at his refugee background. He's got Facebook and WhatsApp to stay in touch with friends, Apple Maps to get him around Pittsburgh, a video chat app for family meetings. “I wouldn't even know how to get a specific app for refugees,” he said. And besides, he added, “If I need anything, I can just go on Google.”
+
+
+— Doug Irving
+
+Philanthropy in Action
+Funding for this research was provided by Schmidt Futures, a philanthropic initiative founded by Eric and Wendy Schmidt, which seeks to advance society through technology, inspire breakthroughs in scientific knowledge, and promote shared prosperity.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+Topics
+ Communication Technology
+Displaced Persons
+International Humanitarian Assistance
+Refugees
+Science, Technology, and Innovation Policy
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+Crossing the Digital Divide
+
+Dec 17, 2019
+Shelly Culbertson @SC_Culbertson, James Dimarogonas, et al.
+
+
+
+
+
+
+
+
+
+
+Commentary
+Jobs Can Improve the Lives of Syrian Refugees and Their Host Communities—and Support Stability in the Middle East
+
+Mar 11, 2019
+Shelly Culbertson @SC_Culbertson, Krishna B. Kumar @kbkumar_
+
+
+
+
+
+
+
+
+
+
+off site
+Schmidt Futures: Fueling Research to Improve the Lives of Refugees
+
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:Blog","Research Topics:Children, Families, and Communities/Populations/Migrants/Displaced Persons","Content Types:Essay","Research Topics:Science and Technology/Communication Technology","Research Topics:International Affairs/International Humanitarian Assistance","Research Topics:Science and Technology/Science, Technology, and Innovation Policy","Research Topics:Children, Families, and Communities/Populations/Migrants/Refugees"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Blog","value":"content-types:blog"},{"display":"Displaced Persons","value":"research-topics:children-families-and-communities/populations/migrants/displaced-persons"},{"display":"Essay","value":"content-types:essay"},{"display":"Communication Technology","value":"research-topics:science-and-technology/communication-technology"},{"display":"International Humanitarian Assistance","value":"research-topics:international-affairs/international-humanitarian-assistance"},{"display":"Science, Technology, and Innovation Policy","value":"research-topics:science-and-technology/science-technology-and-innovation-policy"},{"display":"Refugees","value":"research-topics:children-families-and-communities/populations/migrants/refugees"}];})();
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:Blog","Research Topics:Children, Families, and Communities/Populations/Migrants/Displaced Persons","Content Types:Essay","Research Topics:Science and Technology/Communication Technology","Research Topics:International Affairs/International Humanitarian Assistance","Research Topics:Science and Technology/Science, Technology, and Innovation Policy","Research Topics:Children, Families, and Communities/Populations/Migrants/Refugees"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Blog","value":"content-types:blog"},{"display":"Displaced Persons","value":"research-topics:children-families-and-communities/populations/migrants/displaced-persons"},{"display":"Essay","value":"content-types:essay"},{"display":"Communication Technology","value":"research-topics:science-and-technology/communication-technology"},{"display":"International Humanitarian Assistance","value":"research-topics:international-affairs/international-humanitarian-assistance"},{"display":"Science, Technology, and Innovation Policy","value":"research-topics:science-and-technology/science-technology-and-innovation-policy"},{"display":"Refugees","value":"research-topics:children-families-and-communities/populations/migrants/refugees"}];})();
+

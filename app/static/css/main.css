@@ -1,6 +1,6 @@
 /* 通用部分 */
 a, p {
-    font-size: 15px;
+    font-size: 16px;
 }
 
 ul, li {
@@ -97,6 +97,9 @@ header {
     background-color: #f5f5f5;
 }
 
+
+
+
 /* search.html */
 
 .search-div form {
@@ -182,6 +185,10 @@ header {
 #users table th,
 #users table td {
     text-align: center;
+}
+
+.result_date {
+    align-content: flex-start;
 }
 
 /* login.html signup.html */
@@ -286,7 +293,9 @@ header {
 .chart-part .tab-pane .panel .panel-body .chart-div {
     width: 100%;
 }
-
+.chart-part .panel-default {
+    width: 1000px;
+}
 .chart-div {
     height: 500px;
     text-align: center;
@@ -295,7 +304,7 @@ header {
 .collapse-description {
     position: relative;
     line-height: 20px;
-    max-height: 40px;
+    max-height: 60px;
     overflow: hidden;
 }
 
@@ -331,3 +340,4 @@ header {
 .timeline-div {
     height: 700px;
 }
+

@@ -1,0 +1,26 @@
+
+    
+    
+    
+
+
+ to have $8 out of every
+$10 for IT hosting go toward the cloud, including private cloud, infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). Achieving that aspiration
+will require significant effort from both enterprises and technology providers. The COVID-19 pandemic is one factor driving the ambitious goal, as it triggered the need to speed the pace of enterprise digitization. But the more significant catalyst is the  that cloud adoption can unlock. Some organizations, however, are leaking their share of that value instead of capturing it, with inefficiencies in orchestrating cloud migrations adding unexpected cost and delays. Approximately $100 billion of wasted migration spend is expected over the next three years, and most enterprises cite the costs around migration as a major inhibitor to adopting the cloud. But not everyone is suffering these growing pains. A McKinsey survey of nearly 450 chief information officers (CIOs) and IT decision makers globally finds that a subset of organizations has shifted a majority of IT hosting to the cloud on time and on budget. This article reveals the aspirations and hurdles that business leaders are facing in their journey to the cloud—and what outperforming organizations are doing right. 
+    
+
+            
+    
+		
+	
+
+            
+            
+    
+		
+	
+
+            
+            
+    A path forwardBusinesses can set their cloud migrations on a stronger foundation by following the example of outperformers. But providers and partners must do their part as well. Cloud-service providers should make value creation, not consumption, a core metric, and SIs and channel partners need to adapt their recipes for success, since the results of our study show that the approaches used for on-site implementations are not scaling effectively to the cloud.
+    

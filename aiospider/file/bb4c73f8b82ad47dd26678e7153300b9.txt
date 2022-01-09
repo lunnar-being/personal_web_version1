@@ -1,0 +1,532 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    DASA Standard Terms and Conditions
+  
+
+  
+  
+  
+      
+  Guidance on Defence and Security Accelerator terms and conditions for funding, contracts and intellectual property rights.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Defence and Security Accelerator
+
+      
+      Published
+      8 December 2016
+      Last updated
+      
+        2 June 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Who can apply
+
+        
+        
+          What DASA funds
+
+        
+        
+          What DASA does not fund
+
+        
+        
+          Our Competitions
+
+        
+        
+          Your Proposal
+
+        
+        
+          Our Standard Contracts
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+The guidance below will help you to understand who can apply for funding, the sort of projects the Defence and Security Accelerator (DASA) funds, and the terms and conditions of DASA contracts.
+
+Who can apply
+
+DASA submissions are welcome from the private sector, academia, individuals (i.e. sole traders) and Public Sector Research Establishments (PSREs). DASA will examine the legal status of organisations prior to placement of any contract. In most cases there are no nationality restrictions, however DASA individual competition documents will detail any necessary restrictions.
+
+Excluding ineligible suppliers
+
+We expect our suppliers to maintain the highest standards of integrity and professionalism in their business dealings and adhere to the laws of the countries where they operate.
+
+We reserve the right to exclude a supplier who’s been convicted of any of the offences or misconduct listed in the ‘statement relating to good standing’ that will be sent to you if you’re successful under a DASA competition.
+
+DUNS number
+
+To submit a DASA proposal you are asked to supply a DUNS number - a unique nine-digit identifier for businesses.
+
+Organisations based in the United Kingdom can obtain their DUNS number from Dun & Bradstreet.
+
+Organisations based outside the United Kingdom can access their DUNS number using this link.
+
+Individuals who are not representing a registered entity, and therefore unable to obtain a DUNS number, can continue to engage with their local DASA Innovation Partner via an enquiry form on the registration page
+
+What DASA funds
+
+We fund innovative and exploitable ideas that could lead to an advantage for UK armed forces and national security, and support UK prosperity.
+
+We use technology readiness levels (TRL) to give an indication of an innovation. See the table below for guidance.
+
+
+  
+    
+      TRL
+      Ministry of Defence (MOD) definition
+    
+    
+      1
+      Basic principles observed and reported
+    
+    
+      2
+      Technology concept and/or application formulated
+    
+    
+      3
+      Analytical and experimental critical function and/or characteristic proof of concept
+    
+    
+      4
+      Technology basic validation in a laboratory environment
+    
+    
+      5
+      Technology basic validation in a relevant environment
+    
+    
+      6
+      Technology model or prototype demonstration in a relevant environment
+    
+    
+      7
+      Technology prototype demonstration in an operational environment
+    
+    
+      8
+      Actual technology completed and qualified through test and demonstration
+    
+    
+      9
+      Actual technology qualified through successful mission operations
+    
+  
+
+
+If you have a product and are looking to become a defence supplier, you may wish to speak to the MOD Defence Suppliers’ Service.
+
+What DASA does not fund
+
+DASA generally does not fund the following unless explicitly stated in the competition document.
+
+
+  projects or manpower that is currently receiving funding or has already been funded from elsewhere in government
+  solutions at TRL 9, unless explicitly stated in the competition document
+  concepts which are not novel or innovative
+  consultancy
+  ideas from within Government (excluding  Public Sector Research Establishments (PSREs).
+  commercialisation of ideas
+
+
+If you are concerned your project falls in to one of these categories and are unsure if you should submit a full proposal for a competition please submit an innovation outline which will be checked by a member of our team.
+
+Our Competitions
+
+You can apply for funding via a themed competition or the Open Call for Innovation.  All open opportunities are listed on the ‘Apply for Funding’ page.
+
+In addition to the guidance on this page you must refer to the relevant competition document for the competition specific terms and conditions, including the specific contract.
+
+Your Proposal
+
+DASA recognises the value of your intellectual property (IP). We use a number of safeguards to protect the information you provide to us in your proposals, whilst allowing proper scrutiny of your submissions by our expert assessors, facilitating effective collaboration, and achieving appropriate transparency of how public money is being spent.
+
+Unless stated otherwise below or in the relevant competition document, all information you provide to us as part of your proposal, that is not already available to us from other sources, will be handled in confidence. This information will only be used for the purposes for which it is provided to us. It won’t be used for other purposes, without us having obtained the necessary rights and permissions to do so.
+
+DASA reserves the right to disclose on a confidential basis any information it receives from you during the procurement process to any third party engaged by DASA for the specific purpose of evaluating or assisting DASA in the evaluation of your proposal. For the specific purposes of considering additional funding for a competition and onward exploitation opportunities, DASA also reserves the right to share information in your proposal in-confidence with any UK Government Department. In providing such information you consent to such disclosure. Appropriate confidentiality agreements will be put in place
+
+As part of your proposal you will be required to provide a proposal title and a short abstract that you permit us to publish and use freely. You will also be required to provide a longer and more detailed abstract that will remain confidential.
+
+We will keep the title; abstract; total price; technology area; organisation; and any related prior submission reference number, detailed in your proposal.
+
+We will make sure all proposals which are downloaded by us from our online submission service are appropriately classified and get a digital watermark. The watermark names the person who will assess the proposal, along with the date and time it was downloaded.
+
+Transparency
+
+For proposals that we fund, in accordance with the Government’s Transparency Agenda, we are required to publish information in respect of Contract documents, comprising:
+
+
+  all non-redacted elements of the final terms and conditions
+  all non-redacted elements of the contract schedules. This must include the overall price, but not a breakdown of the pricing structure if that detailed information can be redacted under the Freedom of Information Act
+  all non-redacted elements of your proposal where these are incorporated into the final contract schedules or the terms and conditions.
+
+
+In addition to the above, for proposals that we fund we will publish on DASA website your organisation name and type; DASA reference (ACCxxxxxx) and project title; and contract value.
+
+Our Standard Contracts
+
+For your proposal to be accepted for assessment, you must tick a box to confirm your organisation’s unqualified acceptance of DASA terms and conditions for the respective competition. The following guidance will help you to understand what these terms and conditions mean.
+
+DASA uses the Innovation Standard Contract Innovation Standard Contract (PDF, 372KB, 11 pages) (ISC)
+The ISC is a short set of terms and conditions that have been created specifically for the provision of innovative requirements. This short and simple contracting method aims to encourage engagement with DASA, whilst having the complexities of some other contracting methods removed. The ISC comprises a set of core conditions (conditions 1-19) and additional contract specific conditions (conditions 20 onwards), supported by ISC Schedules (PDF, 420KB, 11 pages) The ISC is used for Themed Competitions and Open Call.
+
+We reserve the right to add additional contractual conditions if individual circumstances dictate. Any additions will be mutually agreed with you before a contract is awarded.
+
+Intellectual Property
+
+Intellectual Property in the ISC is in most cases managed according to the MOD standard intellectual property contract condition for fully funded research contracts – DEFCON 705. Under the terms of DEFCON 705 any intellectual property generated under the contract belongs to the contractor. In return, the funding Authority obtains a set of rights to use the delivered technical information and associated intellectual property for specified purposes. More information on DEFCON 705 can be found here.
+
+The MOD commercial toolkit is accessible on the MOD internet site and contains details on MOD contract conditions. The site is available via registered access. You’ll need to register and then activate your account before you can browse the toolkit. Be aware that it could take a period of time for the account to be activated.
+
+Deliverables and Deliverable Markings
+
+In your proposal to us, you must describe the ‘deliverables’ from your project; in other words, what will be produced and delivered as a result of the project.
+
+In competitions using the ISC and DEFCON 705 you must also state in your proposal if the deliverables are what we call ‘Full Rights’ or ‘Limited Rights’ versions. Full Rights Versions only contain Foreground Information – information generated under the work that we contract with you. Limited Rights Versions contain both Foreground Information and Background Information, the latter being information not generated under the work we contract with you e.g. information generated under previous private venture funding. You must provide us with a Full Rights Version of all deliverables, ensuring that it is coherent on its own. You may also provide to us a Limited Rights Version where we agree it is useful to include background information relevant to the evaluation/understanding of the deliverables. Limited Rights Versions of deliverables won’t be released by us outside of Government.
+
+Where you specify in your proposal ‘Limited Rights’ versions of deliverables, you must also specify whether the relevant Background Information has been previously generated under contract using MOD funding. Where this is the case you should also state clearly in your proposal the details of the prior contract and the associated intellectual property contract conditions. Where any deliverable is subject to third party intellectual property rights (IPR) you must also describe this in your proposal.
+
+As detailed in the ISC, you must mark your deliverables in accordance with the document marking scheme detailed therein.
+
+Price
+
+All prices quoted for DASA proposals are firm (non-variable) and must be exclusive of VAT. Prices quoted are not subject to the effects of escalation or exchange-rate variation.
+
+As well as the technical aspects, value for money will also be taken into consideration during the assessment of your proposal. To help with this, prices in your proposal must be supported by a full cost breakdown.
+
+Note that all bought-in items will become our property and will be registered as government-furnished assets (GFA).
+
+Payment
+
+We will make payment in accordance with the terms of the relevant contract.
+
+You can propose an interim payment plan, which must be supported by a detailed expenditure profile showing projected monthly expenditure figures.
+
+The interim payment plan must provide clearly defined work stages, deliverables with associated payments and timescales.
+
+If you’re requesting interim payments you must comply with the following:
+
+
+  We won’t pre-fund any expenditure, so interim payment claims mustn’t include costs not yet incurred.
+  Each interim payment must be related to verifiable achievement.
+  No more than 6 interim payments are to be proposed.
+  The last payment, entitled ‘satisfactory completion of all work under the contract’, shall be at least 20% of the total quoted firm price.
+
+
+Government-furnished assets
+
+Government Furnished Assets (GFA) could be equipment, information or resources that are government-owned and loaned (on a free-of-charge basis) to a contractor to assist in the completion of the contract. GFA is not provided lightly and only where there are substantial and pressing reasons (e.g. where there would be significant financial or quality benefits to the work as a result of using GFA). Therefore, if there is a demonstrable need that can only be met via GFA, this should be detailed in your proposal.
+
+Ethical approval
+
+It’s a condition of the contract that, as certain work must be justified ethically as well as scientifically, we reserve the right to terminate the work with immediate effect if you don’t gain the relevant approval.
+
+You should submit your priced proposal using a staged approach, detailing deliverables and prices for work that can be done before and after getting ethical approval.
+
+Read more about MOD ethical approval and other regulations which may affect your work.
+
+Research workers
+
+When submitting your proposal, you must provide a resourcing plan that identifies, where possible, the nationalities of those proposed research workers that you intend working on this phase. Before we can award a contract, we need each proposed research worker to complete a Form 388 that we will use to perform due diligence and obtain necessary clearances. Please note that this process will take as long as necessary and could take up to 6 weeks in some cases for non-UK nationals. A Form 388 will be sent to you if you’re successful under a DASA competition.
+
+Each Form 388 must be signed and returned with a brief curriculum vitae (CV) of each person by the nominated individual completing the work. The relevant people will be named in the subsequent contract. Throughout the life of any contract you must notify us in writing if you intend to change or add additional research workers. You must supply a completed Form 388 and CV for any new research workers.
+
+Communications
+
+You must appoint a person who’s responsible for all communications with us.
+
+After a contract has been awarded, all queries should be directed to the named points of contact detailed in the contract documentation.
+
+English is the official language for all communication between bidders, DASA and in all parts of DASA proposals.
+
+You must provide details to us of any related public announcement for review prior to release.
+
+We’ll use the email address that you used to create your account and the telephone number in your profile to contact you.
+
+Defence and Security Accelerator
+
+GO1 
+Building 5 
+Porton Down
+Salisbury
+Wiltshire
+SP4 0JQ
+
+Tell us your idea: contact us
+
+Other enquiries: accelerator@dstl.gov.uk
+
+Urgent DASA enquiries - Telephone +44 (0)1980 950000 option 3 (open 09:00am – 12:00pm Monday-Friday)
+
+Please email for the quickest response.
+
+Please note the dasacommercial@dstl.gov.uk address is no longer in use
+
+
+
+
+
+      
+        
+    Published 8 December 2016
+    Last updated 2 June 2021
+      + show all updates
+      
+        
+            
+              2 June 2021
+              - Updated Innovation Standard Contract (ISC) document and schedule, the ISC will be used for Themed and Open Call competitions.
+            
+            
+              31 March 2021
+              Further guidance included in "What DASA does not fund" section.
+            
+            
+              5 October 2020
+              - Updated Terms and conditions.
+- Updated ISC Schedule
+            
+            
+              28 May 2020
+              Innovation Standard Contract Limit of Liability change - new version attached
+            
+            
+              1 April 2020
+              Updates to your proposal section.
+            
+            
+              31 January 2020
+              Updated DASA Terms and Conditions - including new contract and intellectual property guidance.
+            
+            
+              22 November 2018
+              Edited/new version of DASA Short form contract uploaded to documents
+            
+            
+              11 October 2018
+              Update to text from 'All competitions will use the new' to 'Many competitions, especially Phase 1 earlier TRL competitions, will use the new'
+            
+            
+              20 July 2018
+              Please note we have updated our short form contract template.
+
+Best wishes
+
+The Defence and Security Accelerator
+            
+            
+              19 February 2018
+              Submission service open.
+            
+            
+              15 February 2018
+              Submission Service reopen dates published.
+            
+            
+              8 December 2016
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Assessment process and criteria
+        Contact a DASA Innovation Partner
+        Apply For Funding
+        Submit a proposal
+        Defence and Security Accelerator: ethical, legal and regulatory guidance
+
+  
+
+
+
+
+      
+
+    Detailed guidance
+
+  
+
+
+        How to sell to or work with Dstl
+        Submit a proposal
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Login or register for an account
+        Apply For Funding
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Armed forces and Ministry of Defence reform
+        National security
+        Science and innovation
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

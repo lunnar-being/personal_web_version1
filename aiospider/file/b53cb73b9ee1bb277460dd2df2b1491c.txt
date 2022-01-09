@@ -1,0 +1,115 @@
+
+
+
+
+Previous News ReleaseAlcohol Consumption Rises Sharply During Pandemic Shutdown; Heavy Drinking by Women Rises 41%Next News ReleaseInsulin Prices Are Dramatically Higher in the United States Than in Other Countries
+
+
+Foreign Interference in U.S. Elections Focuses on Cultivating Distrust to Reduce Political Consensus
+
+
+
+For Release
+ThursdayOctober 1, 2020
+
+Foreign interference in U.S. elections likely focuses, in part, on creating distrust among Americans, with paralyzing the American political process as its main goal, according to a new RAND Corporation report.
+Recent efforts by Russia to meddle in U.S. elections are based largely on strategies developed by the Soviet Union during the Cold War, and partly aim to elicit strong reactions and drive people to extreme positions to lower the odds they will reach a consensus—a bedrock of American democracy.
+New technologies such as the rise of social media have made Russia's information efforts easier to implement than the propaganda campaigns of the Soviet era, presenting policymakers with challenges to develop practices to counter the meddling, according to the study.
+“While foreign influence in U.S. domestic affairs dates back to the founding of this country, Russia has advanced its tactics into a comprehensive foreign policy tool that seeks to undermine democratic governance processes in the United States,” said Marek N. Posard, the study's lead author and a sociologist at RAND, a nonprofit, nonpartisan research group.
+Researchers recommend that strategies for responding to foreign information efforts be broad rather than narrow, and that those strategies anticipate which subgroups of Americans are likely targets of information efforts by foreign adversaries.
+Additionally, there is a need to develop evidence-based preventative interventions for those who are most likely targets within U.S. society.
+The RAND study documents how foreign influence in U.S. domestic affairs dates back to the founding of this country, with both Alexander Hamilton and George Washington warning about the dangers of foreign influence in U.S. governing.
+While many countries have sought to use active measures against the United States, the Soviet Union and then Russia institutionalized them over many decades and advanced them into a comprehensive foreign policy tool. The strategy is used to undermine democratic governance processes in the United States and its allies, with the overarching aim to weaken the United States and its allies, while advancing Russia as a global power.
+The techniques the Soviets developed during the Cold War have been augmented today with internet-based media, social networking sites, trolls, and bots, according to the report. Technological development has opened new means of manipulation via information and facilitates more scalable, bigger, and more-impactful operations with minimal expense.
+RAND researchers say that some of Russia's actions aim to exacerbate divisive issues like racial inequities or immigration. Others target public confidence in democratic institutions and processes to undermine social trust.
+Reports indicate that Russian-backed attempts to create discord in the United States have made use of existing movements across the American political ideological spectrum and worked to create new ones. Reports show that online Russian trolls have targeted both white supremacists and civil rights activists.
+“Successful information efforts try to sow deep divisions between groups of people to generate a perception of 'us' versus 'them' that will trigger strong reactions in people,” Posard said. “The ultimate goal is to reduce the probability that groups of people may find common ground on issues of public concern.”
+Any defensive strategy should account for the complex relationship between the production of falsehoods, how others distribute content online, and the impacts of the content on consumers.
+RAND researchers say an antidote to manufacturing intergroup conflict is convincing people that they have more in common with those who are different from them than they may believe at first glance. The RAND report recommends collecting, analyzing, and evaluating preventative interventions to protect people from reacting to falsehoods meant to divide the United States.
+The research was sponsored by the California Governor's Office of Emergency Services. The report is the first in a four-part series aimed at helping policymakers and the public understand the threat of online foreign interference in national, state, and local elections, and how to mitigate it.
+The report, “From Consensus to Conflict: Understanding Foreign Measures Targeting U.S. Elections,” is available at www.rand.org. Other authors of the study are Marta Kepe, Hilary Reininger, James Marrone, Todd Helmus, and Jordan Reimer.
+The RAND National Security Research Division conducts research and analysis on defense and national security topics for the U.S. and allied defense, foreign policy, homeland security, and intelligence communities and foundations and other non-governmental organizations that support defense and national security analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+About the RAND Corporation
+The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous.
+
+
+
+
+Media Resources
+RAND Office of Media Relations
+(703) 414-4795
+(310) 451-6913
+media@rand.org
+
+
+Researcher Spotlight
+
+
+
+Marek N. Posard
+Military Sociologist
+
+
+Marek N. Posard is a military sociologist at the RAND Corporation and an affiliate faculty member at the Pardee RAND Graduate School. His primary area of research focuses on social problems in military organizations. Posard's research has focused on a range of topics, including unit cohesion,…
+
+Explore Our People »
+
+Explore
+All News Releases
+By Date
+Related Topics
+
+DemocracyInformation OperationsThe InternetRussiaSocial Media Analysis
+
+Research Conducted By
+
+RAND National Security Research Division
+
+Explore All Topics »
+
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+From Consensus to Conflict
+
+Oct 1, 2020
+Marek N. Posard @mnposard, Marta Kepe @martakepe, et al.
+
+
+
+
+
+
+
+
+
+
+Multimedia
+Russian Interference in the 2020 U.S. Election
+
+Oct 1, 2020
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Research Topics:Methodology/Social Media Analysis","Research Topics:National Security and Terrorism/Military Affairs/Warfare and Military Operations/Information Operations","Content Types:News Release","Research Topics:Law and Business/Law/Politics and Government/Democracy","Research Topics:Science and Technology/Communication Technology/The Internet","Research Topics:Geographic Areas/Europe/Russia"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Social Media Analysis","value":"research-topics:methodology/social-media-analysis"},{"display":"Information Operations","value":"research-topics:national-security-and-terrorism/military-affairs/warfare-and-military-operations/information-operations"},{"display":"News Release","value":"content-types:news-release"},{"display":"Democracy","value":"research-topics:law-and-business/law/politics-and-government/democracy"},{"display":"The Internet","value":"research-topics:science-and-technology/communication-technology/the-internet"},{"display":"Russia","value":"research-topics:geographic-areas/Europe/russia"}];})();
+

@@ -1,0 +1,309 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Analysis of routinely collected data: descriptive studies
+  
+
+  
+  
+  
+      
+  How to use routinely collected data to evaluate your digital health product.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency
+
+      
+      Published
+      30 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          What to use it for
+
+        
+        
+          Pros
+
+        
+        
+          Cons
+
+        
+        
+          How to carry out an analysis of routinely collected data
+
+        
+        
+          Example: SmokeFree28
+
+        
+        
+          More information and resources
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This page is part of a guide to evaluating digital health products.
+
+Digital products can produce data on how they are accessed and used. Users are often asked to input data as part of how they use a product. This data may also be available to you. Analysing this data can tell you about how people use the product and the impact it has on their behaviour or health.
+
+What to use it for
+
+Data that is routinely collected by your digital product can tell you about usage and provide insights into how to improve the product. It may also tell you about health outcomes for users.
+
+The NICE Evidence Standards Framework for digital health technologies states that using routinely collected data can provide evidence for demonstrating effectiveness of tier 3 products (broadly, these are digital products that seek to prevent, manage, treat or diagnose conditions).
+
+Pros
+
+Benefits include:
+
+
+  the data is easy to get
+  analysis of routinely collected data can provide detailed insights into use
+
+
+Cons
+
+Drawbacks include:
+
+
+  it can only tell you about usage, not non-usage
+  it cannot tell you why people made choices
+  there may be problems with the accuracy of the data
+
+
+How to carry out an analysis of routinely collected data
+
+Your digital product may generate and store data on product usage and on the users. This data may be used for the running of the product or service. It can also be analysed as a form of evaluation. When carrying out an evaluation, you will usually have a specific question driving your analysis of the data. The question will usually be about the effect or impact on users. You may do this as a one-off, or you could develop a regular process of data analysis for evaluation.
+
+What data is collected depends on how the product has been designed. This means the available data may not answer the most important evaluation questions. When designing the product, or an update, try to plan for what data would help with evaluation.
+
+You can analyse usage data to understand how people are using the product. For example, you could look at:
+
+
+  total number of downloads
+  number of users disengaging from the product
+  which features of the product get used
+
+
+The product may also collect data on the user, either passively (for example, data from motion sensors on physical activity) or actively (for example, asking the user to record their drinking behaviour).
+
+Analysing the data can show whether the product is popular with users. It can also show whether the product is producing the change it is intended to. However, there are limitations:
+
+
+  usually the data available from the user is self-reported, which can be biased
+  data is only available from users; it does not tell you what has happened to non-users
+
+
+You can look at data collected from normal use of the product. This is a type of audit or observational study. You can also use this data in before-and-after studies or randomised controlled trials.
+
+It can be valuable to regularly examine data from an app using methods like statistical process control (SPC). SPC and similar methods, like Six Sigma, can be used to monitor and control processes and see when there are deviations from normal conditions.
+
+Example: SmokeFree28
+
+Ubhi and others (2015), ‘A Mobile App to Aid Smoking Cessation: Preliminary Evaluation of SmokeFree28’
+
+The team evaluated a smoking cessation app called SmokeFree28. They analysed data from downloads over a year’s period. The evaluation used a benchmark. They compared how many users successfully quit smoking to data from a large sample of smokers trying to quit in England.
+
+They asked app users some background questions (age category, gender, occupational group, number of cigarettes smoked per day, time since previous quit attempt, weekly expenditure on cigarettes, choice of medication option). Users could not be identified from this data. The study got approval from a university ethics committee.
+
+The study found that 19% of users managed to stop smoking, which they defined as being abstinent for at least 28 days. The report notes that they are relying on users’ self-report and that this is not as reliable as a biochemical measure of abstinence. People who stopped using the app didn’t meet the criteria for being abstinent and so were considered not to have stopped, even though some of them might have. This is an example of making a conservative assumption with missing data.
+
+The percentage of users who managed to stop smoking was higher than the 15% benchmark figure. However, the evaluation noted that app users were unlike the general population of people trying to give up smoking. App users smoked more, were younger, more often women, and more often in a non-manual rather than manual job.
+The evaluation showed correlations between background and users who were most successful at giving up smoking. Users who were older, in non-manual jobs or using smoking cessation medication were more likely to quit. More use of the app was also associated with greater success at quitting.
+
+The evaluation also reported usage of the app, for example, the average number of logins (8.5) and which groups of people used the app more. For example, people who previously attempted to quit over a year ago used the app more than those who hadn’t previously tried to quit smoking.
+
+The team planned to move on to a comparative study.
+
+More information and resources
+
+Naughton and others (2016), ‘A Context-Sensing Mobile Phone App (Q Sense) for Smoking Cessation: A Mixed-Methods Study’. This study used routinely-collected data as part of a larger, mixed methods evaluation.
+
+Attwood and others (2017), ‘Using a mobile health application to reduce alcohol consumption: a mixed-methods evaluation of the drinkaware track & calculate units application’. The team used routinely-collected data to understand patterns of usage of the app, then conducted interviews with a sub-sample to explore in-depth views of the app.
+
+Barnard and others (2018), ‘Comparing the characteristics of users of an online service for STI self-sampling with clinic service users: a cross-sectional analysis’. The team used routinely collected data on an online STI testing service and compared the user characteristics with those using clinic-based STI testing.
+
+
+
+
+
+      
+        
+    Published 30 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Usability testing: qualitative studies
+        Before-and-after study: comparative studies
+        Analyse your data: evaluating digital health products
+        Interview study: qualitative studies
+        Mixed methods study
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Evaluating digital health products
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Health improvement
+        Research and innovation in health and social care
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

@@ -1,0 +1,388 @@
+
+
+
+
+Previous Blog Post
+A Stable Blood Supply Is Critical in the COVID-19 EraNext Blog Post
+Don't Entangle COVID-19 Relief with Cannabis Legalization
+
+article
+Brain-Computer Interfaces Are Coming. Will We Be Ready?
+August 27, 2020
+
+Illustration by Alyson Youngblood/RAND Corporation
+
+
+
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+Overview
+Humans controlling machines with their minds may sound like something from a sci-fi movie, but it’s becoming a reality through brain-computer interfaces. Understanding this emerging technology now can help ensure that effective policies are in place before BCI becomes a part of everyday life.
+
+
+
+Topline
+
+
+Brain-computer interface technology is already in development. RAND researchers are exploring the potential risks and opportunities that BCI could bring. #Security2040
+Share on Twitter
+
+
+
+
+
+Three drones lift off, filling the air with their telltale buzz. They slowly sail upward as a fleet—evenly spaced and level—and then hover aloft.
+On the ground, the pilot isn't holding a remote control. In fact, he isn't holding anything. He's just sitting there calmly, controlling the drones with his mind.
+This isn't science fiction. This is a YouTube video from 2016.
+In the clip, a mechanical engineering Ph.D. candidate at Arizona State University (ASU) sports an odd piece of headwear. It looks a bit like a swim cap, but with nearly 130 colorful sensors that detect the student's brain waves. These devices let him move the drones simply by thinking directional commands: up, down, left, right.
+Today, this type of brain-computer interface (BCI) technology is still being developed in labs like the one at ASU in 2016, which has since moved to the University of Delaware. In the future, all kinds of BCI tech could be sold to consumers or deployed on the battlefield.
+The fleet of mind-controlled drones is just one real-life example of BCI explored in an initial assessment of BCI by RAND Corporation researchers. They examined current and future developments in the world of BCI and evaluated the practical applications and potential risks of various technologies. Their study is part of RAND's Security 2040 initiative, which looks over the horizon and explores new technologies and trends that are shaping the future of global security.
+“That video of the drones really struck me as we were researching,” said Anika Binnendijk, a political scientist at RAND and an author of the report.
+“Some of this technology seems to be the stuff of science fiction. But it was intriguing to see what has actually been achieved thus far in a laboratory setting, and then to think in a structured way about how it might be used outside of the lab.”
+It stands to reason that BCI breakthroughs in the not-too-distant future could be truly momentous.Share on TwitterIf today's achievements in brain-computer interface technology already seem unbelievable, then it stands to reason that BCI breakthroughs in the not-too-distant future could be truly momentous. And that means we need to start thinking about them now.
+How Do BCIs Work?
+BCI technology allows a human brain and an external device to talk to one another—to exchange signals. It gives humans the ability to directly control machines, without the physical constraints of the body.
+
+/content/rand/blog/articles/2020/08/brain-computer-interfaces-are-coming-will-we-be-ready/jcr:content/par/digitalarticle/par-digital-article/wrapperdiv_878185224/teaserlist
+
+
+
+Brain-Computer Interfaces: An Initial Assessment
+
+
+Binnendijk and her colleagues analyzed existing and potential BCI tools that vary in terms of accuracy and invasiveness, two qualities that are closely related. The greater the proximity of an electrode to the brain, the stronger the signal—like a cerebral cell phone tower.
+Non-invasive tools often use sensors applied on or near the head to track and record brain activity, just like the swim cap the ASU student used. These tools can be placed and removed easily, but their signals may be muffled and imprecise.
+Invasive BCI would require surgery. Electronic devices would need to be implanted beneath the skull, directly into the brain, to target specific sets of neurons. BCI implants currently under development are tiny and can engage up to a million neurons at once. For example, a research team at the University of California, Berkeley, has created implantable sensors that are roughly the size of a grain of sand. They call these sensors “neural dust.”A "neural dust" implantable sensor developed by researchers at UC Berkeley.
+Image from UC Berkeley / CC BY 3.0
+Invasive methods would likely result in a much clearer and more accurate signal between the brain and the device. But as with any surgery, the procedures required to implant them would come with health risks.A World of Possibilities
+By creating the ability for humans to communicate directly with machines, BCI has the potential to influence all facets of life. But Timothy Marler, a senior research engineer at RAND and coauthor of the report, says that it makes sense to start by studying an emerging technology like BCI through a military lens. Why? Because war is one of the most fraught and complicated scenarios imaginable.
+“If I can use it in a war, I could probably use it during a natural disaster like a tsunami or an earthquake. And frankly, I could use it more to save lives,” said Marler. “Those are good things. But we aren’t necessarily advocating the use of these technologies. We're testing the viability of their use.”
+Most BCI technologies are still in the early stages of development and are actively being researched and funded by the Defense Advanced Research Projects Agency (DARPA), the Army Research Lab, the Air Force Research Laboratory, and other organizations. With the power of BCI tools, the U.S. military could potentially enhance the physical and cognitive power of its personnel.
+BCI could also provide major medical benefits in the military and civilian worlds. For instance, amputees could directly control sophisticated prosthetic limbs. And implanted electrodes could improve memory for people dealing with Alzheimer's disease, stroke, or head injuries. Binnendijk, recalling a young neighbor who currently controls her mobility by using a joystick, is hopeful that the technology might one day revolutionize the girl's ability to navigate the world.
+Based on their analysis of current BCI development and the types of tasks that future tactical military units might face, the RAND team created a toolbox that catalogs how BCI might be useful in the coming years. Some BCI functions may be available within a relatively short time (within a couple of decades or so). But others, especially those that transfer more complicated data, could take much longer to mature. The team then tested this toolbox by bringing together neuroscientists and individuals with operational warfighting experience to play a national security game.
+
+
+
+A Systematic Approach
+
+RAND researchers developed a path for determining
+where BCI technology stands now and where it could
+potentially go. They applied a comprehensive method
+that could be applied to other emerging
+technologies.
+
+
+
+
+
+
+
+
+
+
+
+
+Step 1: Analysis
+
+
+Conduct a literature review and interviews with
+experts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step 2: Toolbox
+
+
+Break the technology down into practical tools.
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step 3: Tabletop Game
+
+
+
+Facilitate a structured discussion of how and where
+to use those tools.
+
+
+
+
+
+
+
+
+
+Step 4: Recommendations
+
+
+Encourage developers to create products that respond
+to users’ real needs.
+
+
+Researching Tomorrow's Technology Today
+As with any emerging technology, BCI carries many risks and unknowns. Before BCI matures, it's important for developers to plan ahead and consider the ethical and policy issues surrounding complicated and potentially frightening scenarios.
+For instance, advanced BCI technology could be used to reduce pain or even regulate emotions. What happens when military personnel are sent into battle with a reduced sense of fear? And when they return home, what psychological side effects might veterans experience without their “superhuman” traits? Now may be the perfect time to think through these scenarios and ensure that there are guardrails in place ahead of time.
+As BCI developers prepare, they should carefully weigh the opportunities against the risks.Share on Twitter“There can be a knee-jerk reaction to emerging technology—that it will take jobs away or it will be militarized,” said Marler. “But BCI is not that different than the automobile; it can be dangerous, but it can be very helpful.
+“I wish we had these policy discussions about artificial intelligence and robotics 20 years ago because, in many ways, folks are now being reactive. People fear what they don't understand. We all need to understand BCI, so we can ensure that we're not reckless with it.”
+As BCI developers prepare, they should carefully weigh the opportunities against the risks.
+
+
+
+Weighing Potential
+Opportunities and
+Risks of BCI
+
+
+
+Opportunities
+
+
+
+Augmented human abilities
+
+
+
+Faster information sharing and improved
+situational awareness could lead to
+more rapid and accurate decisions.
+
+
+People could
+control machines with their thoughts.
+
+
+People’s
+memory, attention spans, and cognitive
+performance could be improved.
+
+
+
+
+
+Better understanding of human experience
+
+
+
+People could
+monitor for excessive stress or cognitive
+workload.
+
+
+People could develop a
+better understanding of how physiological
+states affect
+cognitive and motor performance.
+
+
+
+
+
+Improved ability to succeed in challenging
+circumstances
+
+
+
+Search-and-rescue operations in
+remote or otherwise inaccessible environments
+could be improved.
+
+
+People could communicate silently
+and without risk of radio interference.
+
+
+
+
+
+New health treatment options
+
+
+
+People who are unable to use limbs could
+walk, manipulate physical objects, or sense
+interactions with prosthetics or exoskeletons.
+
+
+Pain, depression, posttraumatic stress, and
+severe anxiety could be treated
+without pharmaceuticals.
+
+
+
+
+
+
+Risks
+
+
+
+Augmented human abilities
+
+
+
+Devices may be hacked to cause
+physical harm; control thoughts, emotions, or
+actions; or access personal information.
+
+
+People could be
+micromanaged on an entirely new level. This has huge implications for work, school,
+relationships, parenting, etc.
+
+
+BCI could be
+misused for totalitarian control
+of people.
+
+
+
+
+
+Better understanding of human experience
+
+
+
+Interpersonal
+relationships may be profoundly altered.
+
+
+People may be psychologically harmed
+if “superhuman” capabilities are revoked—for
+example, at the end of military service.
+
+
+Long-term mental effects are unknown.
+
+
+
+
+
+Ethical impacts and inequity
+
+
+
+In war,
+combat speed could outpace human decisionmaking
+speed. Rapidly sharing information between people and
+machines raises ethical issues of accountability
+in war.
+
+
+Unequal access to BCI technology could
+widen existing social, political, and economic
+inequities.
+
+
+
+
+Physical harm
+
+
+Implants introduce
+risk of hemorrhaging, infection, or brain
+damage.
+
+
+Long-term physical effects are unknown.
+
+
+
+
+The report highlights recommendations for the U.S. government, including planning to address a lack of trust in BCI technologies among the service members who may be expected to use them, and guidance to ensure ethical applications. The researchers also stress the importance of creating tools that respond to actual needs, rather than falling in love with “an exquisite technology,” as Binnendijk put it, and developing something just because it's possible. These and other considerations could help reduce risks as BCI capabilities mature.
+The thought-powered drones that first intrigued Binnendijk when she began this study may eventually be the ancestors of hands-free swarms of drones, robots, or even vehicles.
+Binnendijk says it's important to analyze emerging technologies from a policy perspective to understand how they might be useful in the future.
+“We have an opportunity to get ahead of the game. This is something we should be thinking about now, before BCI technologies become a reality in the everyday world.”
+Project Credits
+
+Story
+Marissa Norris
+Design and Development
+Alyson Youngblood
+
+
+
+
+Topics
+ Biomedical Research
+Biotechnology
+Emerging Technologies
+Global Security
+Military Technology
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+Brain-Computer Interfaces
+
+Aug 27, 2020
+Anika Binnendijk, Timothy Marler, et al.
+
+
+
+
+
+
+
+
+
+
+Project
+Security 2040
+
+Apr 23, 2018
+
+
+
+
+
+
+
+More about this research
+The research on which this article is based was conducted by RAND researchers. The full report, Brain-Computer Interfaces: U.S. Military Applications and Implications, An Initial Assessment (by Anika Binnendijk, Timothy Marler, and Elizabeth M. Bartels, 2020), was peer-reviewed and published to rand.org; it is free to read online or download for personal use. Learn more about RAND copyright and permissions.
+Funding for this project was provided by gifts from RAND supporters and income from operations.
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:Blog","Research Topics:International Affairs/Global Security","Research Topics:Science and Technology/Biology and Life Sciences/Biotechnology","Research Topics:Health, Health Care, and Aging/Biomedical Research","Research Topics:Science and Technology/Military Technology","Content Types:Article","Research Topics:Science and Technology/Emerging Technologies"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Blog","value":"content-types:blog"},{"display":"Global Security","value":"research-topics:international-affairs/global-security"},{"display":"Biotechnology","value":"research-topics:science-and-technology/biology-and-life-sciences/biotechnology"},{"display":"Biomedical Research","value":"research-topics:health-health-care-and-aging/biomedical-research"},{"display":"Military Technology","value":"research-topics:science-and-technology/military-technology"},{"display":"Article","value":"content-types:article"},{"display":"Emerging Technologies","value":"research-topics:science-and-technology/emerging-technologies"}];})();
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:Blog","Research Topics:International Affairs/Global Security","Research Topics:Science and Technology/Biology and Life Sciences/Biotechnology","Research Topics:Health, Health Care, and Aging/Biomedical Research","Research Topics:Science and Technology/Military Technology","Content Types:Article","Research Topics:Science and Technology/Emerging Technologies"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Blog","value":"content-types:blog"},{"display":"Global Security","value":"research-topics:international-affairs/global-security"},{"display":"Biotechnology","value":"research-topics:science-and-technology/biology-and-life-sciences/biotechnology"},{"display":"Biomedical Research","value":"research-topics:health-health-care-and-aging/biomedical-research"},{"display":"Military Technology","value":"research-topics:science-and-technology/military-technology"},{"display":"Article","value":"content-types:article"},{"display":"Emerging Technologies","value":"research-topics:science-and-technology/emerging-technologies"}];})();
+

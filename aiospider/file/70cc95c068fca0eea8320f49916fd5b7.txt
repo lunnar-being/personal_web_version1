@@ -1,0 +1,448 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Business analyst
+  
+
+  
+  
+  
+      
+  Find out what a business analyst does and the skills you need to do the job.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      7 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of business analyst
+
+        
+        
+          Junior business analyst
+
+        
+        
+          Business analyst
+
+        
+        
+          Senior business analyst
+
+        
+        
+          Principal business analyst
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This describes the role of a business analyst and the skills required, including:
+
+
+  an introduction to the role, telling you what you would do in this role and the full list of skills
+  a description of the levels in this role, from junior business analyst to principal business analyst, specifying the skills you need for each level and the corresponding skill level (awareness, working, practitioner, expert)
+
+
+This role is part of the Digital, Data and Technology Profession in the Civil Service.
+
+Introduction to the role of business analyst
+
+Business analysts understand and analyse user and business needs.
+
+Skills required to be a business analyst
+
+You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.
+
+
+  
+Agile working. You know about agile methodology and can apply an agile mindset to all aspects of your work. You can work in a fast-paced, evolving environment and use an iterative method and flexible approach to enable rapid delivery. You are unafraid to take risks, willing to learn from mistakes and appreciate the importance of agile project delivery for digital projects in government. You can ensure the team knows what each other is working on and how this relates to practical government objectives and user needs.
+  
+Business analysis. You know how to investigate, analyse, visualise, articulate and solve complex problems and concepts, and make disciplined decisions based on available information. Such skills include: applying thinking, gathering and analysing information using comprehensive tools and techniques; using data to formulate both short-term day-to-day and long-term strategic plans; and identifying and analysing options to assess feasibility and operational impact. You can ensure that the business solution aligns with the vision, mission, objectives, strategy and the business and user needs and can identify and recognise a viable solution or control.
+  
+Business improvement process. You can identify and explore opportunities for service and business improvement. You know how to drive analysis and identify, prioritise and implement improvements and efficiencies, ensuring that the organisation derives maximum value from services This includes recognising the potential for automation of processes, determining costs and benefits of new approaches and managing change or assisting implementation where needed.
+  
+Business modelling. You can represent real-world situations to aid the communication and understanding of different scenarios (existing, conceptual or proposed). You focus on the representation of organisational processes, roles and data models and whether they can be used to represent subjects at various levels of detail or complexity.
+  
+Business process testing. You can plan, design, manage and report business process tests and usability evaluations. You know how to apply evaluation skills to see how appropriate or useful the defined process is going to be. This can be done through synthesising test tasks, selecting user samples, analysing performance and sharing results with the development teams.
+  
+Digital perspective. You understand how the digital economy is changing user behaviour and the government landscape. You can make informed decisions based on user needs, available technology and value for money. You know about the wider digital economy and advances in technology.
+  
+Enterprise and business architecture. You know how to maintain and constantly iterate the structures that make up a business enterprise or architecture. You can embody the methods that prescribe an organisation’s future state; you know how to accommodate change. You can assess current capabilities, identify and interpret business objectives, strategy and inter-relationships with people, data and processes to create an operating model. You know how to develop this process, helping to define any constraints or relevant guiding principles. This ensures effective governance and evolution to achieve transition to the new state.
+  
+Innovation. You know how to identify and pinpoint business opportunities to allow organisations to perform more effectively. This allows businesses to look at new ways of tackling business processes or to establish new services from scratch.
+  
+Methods and tools. You know how to use the most appropriate methods and tools, ensuring these are adopted and used to plan, develop, test, manage and maintain a system effectively.
+  
+Requirements definition and management. You know how to identify, define and manage the objectives of a business. You can specify requirements from both a business and user perspective to enable agreed changes to be implemented effectively.
+  
+Stakeholder relationship management. You know how to identify, analyse, manage and monitor relationships with and between stakeholders. You can communicate with stakeholders clearly and regularly, clarifying mutual needs and commitments through consultation and consideration of impacts while focusing on user needs. For example, you know how to manage customer and supplier relationships, ensuring that recommendations deliver maximum benefit and facilitating workshops with stakeholders.
+  
+Testing (business analysis). You can plan, design, manage and execute reporting of tests, using appropriate testing tools and techniques and conforming to agreed process standards and industry specific regulations.
+  
+User focus. You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs. You can engage in meaningful interactions and relationships with users.You put users first and can manage competing priorities.
+
+
+Junior business analyst
+
+A junior business analyst receives direction from more senior BAs (task-based delivery) but is responsible for the output. At this level, you will have a limited toolset and will work with others or under supervision. You will support stakeholder relationship management.
+
+Skills needed for this role
+
+
+  
+Agile working. You have experience of working in agile, including an awareness of agile tools and how to use them. You can advise colleagues on how and why agile methods are used and be able to provide a clear, open and transparent framework in which teams can deliver. You can adapt and reflect and be resilient. You have the ability to see outside of the process. (Relevant skill level: working)
+  
+Business analysis. You know how to investigate operational needs or problems and assist in the recommendation of service improvement and business solutions. You can contribute to recommendations to improve services and understand the importance of evidence-based design or analysis. (Relevant skill level: awareness)
+  
+Business improvement process. You can identify service and process improvement opportunities with guidance. You can contribute to the implementation of proposed solutions. (Relevant skill level: working)
+  
+Business modelling. You can model simple areas using established techniques and understand the purpose of this and its importance. You can assist in complex modelling if required. (Relevant skill level: awareness)
+  
+Business process testing. You can support business process testing. You know how to execute test cases under supervision. You understand the role of business process testing and how it works. (Relevant skill level: awareness)
+  
+Digital perspective. You are responsive to changes in technology, adapting your approach accordingly. You can make decisions to meet user needs in the government context. You understand the importance of assisted digital and can design services and make decisions to meet users needs. (Relevant skill level: working)
+  
+Enterprise and business architecture. You are aware of the target operating model. (Relevant skill level: awareness)
+  
+Innovation. You know about innovation and what it involves. (Relevant skill level: awareness)
+  
+Methods and tools. You have an understanding of the use of methods and tools. (Relevant skill level: awareness)
+  
+Requirements definition and management. You know about tools and techniques for determining requirements. You can talk about the objectives of the business. (Relevant skill level: awareness)
+  
+Stakeholder relationship management. You know who your stakeholders are, what evidence is relevant to them and the importance of managing relationships with them. (Relevant skill level: awareness)
+  
+Testing (business analysis). You can execute test scripts under supervision. You understand the role of testing and how it works in systems development. (Relevant skill level: awareness)
+  
+User focus. You have an awareness or understanding of user experience analysis and its principles. You can see the purpose of user stories and focus on user needs. (Relevant skill level: awareness)
+
+
+Business analyst
+
+A business analyst leads small-to-medium-sized projects and supports larger and more complex projects. At this level, you will be expected to:
+
+
+  manage stakeholder relationships
+  work independently
+  have a good understanding of your own work area
+  advance the BA community through the sharing of best practice and mentoring others
+
+
+Skills needed for this role
+
+
+  
+Agile working. You can identify and compare the best processes or delivery methods to use, including measuring and evaluating outcomes. You know how to help the team to decide the best approach. You can help teams to manage and visualise outcomes, prioritise work and work to agreed minimum viable product (MVP), print and scope. (Relevant skill level: practitioner)
+  
+Business analysis. You can investigate problems and analyse options for new and existing services. You know how to provide recommendations to solutions. You can work with stakeholders to identify objectives, opportunities and potential benefits available. (Relevant skill level: working)
+  
+Business improvement process. You know how to analyse current services and processes, and can identify and implement opportunities to optimise these. You can help to evaluate and establish requirements using relevant techniques such as gap analysis. (Relevant skill level: practitioner)
+  
+Business modelling. You can use a wide range of techniques to model situations confidently. You know how to gain the necessary agreement needed from subject matter experts and stakeholders, ensuring they review the results to fix any issues. (Relevant skill level: working)
+  
+Business process testing. You know how to report on system quality and collect metrics on test cases. (Relevant skill level: working)
+  
+Digital perspective. You have the ability to apply a digital understanding to your work. You can identify and implement solutions for assisted digital. (Relevant skill level: practitioner)
+  
+Enterprise and business architecture. You understand and can apply the current target operating model to work. (Relevant skill level: working)
+  
+Innovation. You know about innovation and can apply this to your own work. (Relevant skill level: working)
+  
+Methods and tools. You can select and support the most appropriate tool or method. (Relevant skill level: working)
+  
+Requirements definition and management. You know how to source requirements. You can facilitate the setting of business priorities for change initiatives of medium complexity. You can manage and implement requests for changes to baseline requirements. (Relevant skill level: working)
+  
+Stakeholder relationship management. You know how to identify important stakeholders, tailoring communication to their needs, and work with teams to build relationships while also meeting user needs. You have the ability to take opposing views to reach consensus. You understand how to work with stakeholders and contribute to improving these relationships, using evidence to explain decisions made. (Relevant skill level: working)
+  
+Testing (business analysis). You can review requirements, specifications and define test conditions. You can identify issues and risks associated with work while being able to analyse and report test activities and results. (Relevant skill level: working)
+  
+User focus. You can identify needs and engage with users or stakeholders to collate user needs evidence. You understand and can define research that fits user needs. You can use quantitative and qualitative data about users to turn user focus into outcomes. (Relevant skill level: working)
+
+
+Senior business analyst
+
+A senior business analyst has a good understanding of strategic arenas and leads large and complex projects.
+
+At this level, you will:
+
+
+  have functional and / or people management responsibilities
+  mentor others
+  develop best practice
+  own stakeholder relationships
+  manage communities-of-practice activities (internally and across government)
+
+
+Skills needed for this role
+
+
+  
+Agile working. You can identify and compare the best processes or delivery methods to use, including measuring and evaluating outcomes. You know how to help the team to decide the best approach. You can help teams to manage and visualise outcomes, prioritise work and work to agreed minimum viable product (MVP), print and scope. (Relevant skill level: practitioner)
+  
+Business analysis. You can take responsibility for investigative work into problems and opportunities in existing and new services. You know how to drive the analysis and collection of information to create recommendations for service improvements. You can analyse large amounts of complex information and use it to produce solutions. (Relevant skill level: practitioner)
+  
+Business improvement process. You know how to analyse current services and processes, and can identify and implement opportunities to optimise these. You can help to evaluate and establish requirements using relevant techniques such as gap analysis. (Relevant skill level: practitioner)
+  
+Business modelling. You can model more advanced and complex situations across more than one business function or programme. You know how to gather insight from senior stakeholders and communicate modelling results clearly to them. (Relevant skill level: practitioner)
+  
+Business process testing. You can take responsibility for the creation of test cases. You can create traceability records, from test cases back to requirements. (Relevant skill level: practitioner)
+  
+Digital perspective. You have the ability to apply a digital understanding to your work. You can identify and implement solutions for assisted digital. (Relevant skill level: practitioner)
+  
+Enterprise and business architecture. You can contribute to the creation and maintenance of the target operating model and identify the impact on operational service. (Relevant skill level: practitioner)
+  
+Innovation. You can lead others to innovate in their work as well as enabling them to innovate on their own.. (Relevant skill level: practitioner)
+  
+Methods and tools. You know how to ensure that teams are using the right tools and methodologies and promote their use. (Relevant skill level: practitioner)
+  
+Requirements definition and management. You can facilitate the setting of business priorities for change initiatives of high complexity. You know how to lead on requirements analysis and take responsibility for the investigation and implementation of changes to programme scope. (Relevant skill level: practitioner)
+  
+Stakeholder relationship management. You can influence stakeholders and manage relationships effectively. You know how to build long-term strategic relationships and communicate clearly and regularly with stakeholders. (Relevant skill level: practitioner)
+  
+Testing (business analysis). You can define test condition requirements. You know how to work according to test plans to design, interpret and execute them. You can highlight reports and risks and analyse results based on tests and activities. (Relevant skill level: practitioner)
+  
+User focus. You know how to collaborate with user researchers and can represent users internally. You understand the difference between user needs and the desires of the user. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used. (Relevant skill level: practitioner)
+
+
+Principal business analyst
+
+A principal business analyst has a good understanding of the enterprise arena and works on multiple, highly complex projects. At this level, you will:
+
+
+  be a leader in the BA community (across government and externally)
+  have functional management, or people management accountabilities, or a combination of both
+  proactively share knowledge and will be seen as a go-to person in their field while also mentoring others and owning the main stakeholder relationships
+
+
+This has 2 roles: a management role and a specialist role.
+
+Management role: skills needed for this role
+
+
+  
+Agile working. You can identify and compare the best processes or delivery methods to use, including measuring and evaluating outcomes. You know how to help the team to decide the best approach. You can help teams to manage and visualise outcomes, prioritise work and work to agreed minimum viable product (MVP), print and scope. (Relevant skill level: practitioner)
+  
+Business analysis. You can take responsibility for investigative work into problems and opportunities in existing and new services. You know how to drive the analysis and collection of information to create recommendations for service improvements. You can analyse large amounts of complex information and use it to produce solutions. (Relevant skill level: practitioner)
+  
+Business improvement process. You know how to analyse current services and processes, and can identify and implement opportunities to optimise these. You can help to evaluate and establish requirements using relevant techniques such as gap analysis. (Relevant skill level: practitioner)
+  
+Business modelling. You can advise on the most appropriate techniques to use and create models that support a business strategy. You know how to plan and coordinate a team’s modelling and support them in this activity. (Relevant skill level: expert)
+  
+Business process testing. You can be accountable for the integrity of testing and acceptance activities; you can coordinate the execution of these activities. You know how to manage client relationships with respect to testing matters. (Relevant skill level: expert)
+  
+Digital perspective. You know about the wider digital economy and advances in technology; you understand how these impact on a government context. You can make decisions that set the standards for others to follow. You understand working using agile methodology at an organisational level. You know how to create an environment for success. (Relevant skill level: expert)
+  
+Enterprise and business architecture. You can contribute to the creation and maintenance of the target operating model and identify the impact on operational service. (Relevant skill level: practitioner)
+  
+Innovation. You can lead others to innovate in their work as well as enabling them to innovate on their own.. (Relevant skill level: practitioner)
+  
+Methods and tools. You can provide the direction for teams in using the most appropriate tools and methodologies and introduce new ones. (Relevant skill level: expert)
+  
+Requirements definition and management. You can facilitate the setting of business priorities for change initiatives of high complexity. You know how to lead on requirements analysis and take responsibility for the investigation and implementation of changes to programme scope. (Relevant skill level: practitioner)
+  
+Stakeholder relationship management. You know how to direct the strategic approach for stakeholder relationships, establishing and promoting the meeting of stakeholder objectives. You can influence important senior stakeholders and provide an arbitration function. (Relevant skill level: expert)
+  
+Testing (business analysis). You can define test condition requirements. You know how to work according to test plans to design, interpret and execute them. You can highlight reports and risks and analyse results based on tests and activities. (Relevant skill level: practitioner)
+  
+User focus. You know how to collaborate with user researchers and can represent users internally. You understand the difference between user needs and the desires of the user. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used. (Relevant skill level: practitioner)
+
+
+Specialist role: skills needed for this role
+
+
+  
+Agile working. You know how to coach and lead teams in Agile and Lean practices, determining the right approach for the team to take and evaluating this through the life of a project. You can think of new and innovative ways of working to achieve the right outcomes. You are able to act as a recognised expert and advocate for the approaches, continuously reflecting and challenging the team. (Relevant skill level: expert)
+  
+Business analysis. You know how to direct business analysis including the discovery of information and evidence and the identification of problems and opportunities. You can ensure that recommendations fit with strategic business objectives. You are able to actively manage senior stakeholders and create a compelling case for change. You can own methods and identify the most suitable approach out of a variety of approaches. (Relevant skill level: expert)
+  
+Business improvement process. You know how to set strategic direction. You can liaise with colleagues in business areas to establish business requirements. You can identify, propose, initiate and lead these programmes to increase efficiency. (Relevant skill level: expert)
+  
+Business modelling. You can advise on the most appropriate techniques to use and create models that support a business strategy. You know how to plan and coordinate a team’s modelling and support them in this activity. (Relevant skill level: expert)
+  
+Business process testing. You can be accountable for the integrity of testing and acceptance activities; you can coordinate the execution of these activities. You know how to manage client relationships with respect to testing matters. (Relevant skill level: expert)
+  
+Digital perspective. You know about the wider digital economy and advances in technology; you understand how these impact on a government context. You can make decisions that set the standards for others to follow. You understand working using agile methodology at an organisational level. You know how to create an environment for success. (Relevant skill level: expert)
+  
+Enterprise and business architecture. You can contribute to the creation and maintenance of the target operating model and identify the impact on operational service. (Relevant skill level: practitioner)
+  
+Innovation. You can lead others to innovate in their work as well as enabling them to innovate on their own.. (Relevant skill level: practitioner)
+  
+Methods and tools. You can provide the direction for teams in using the most appropriate tools and methodologies and introduce new ones. (Relevant skill level: expert)
+  
+Requirements definition and management. You set the methods and standards for eliciting requirements, defining standards and quality targets. You know how to set priorities for strategic business change. You can define standards and targets and engage stakeholders, managing multiple stakeholder perspectives and expectations. (Relevant skill level: expert)
+  
+Stakeholder relationship management. You know how to direct the strategic approach for stakeholder relationships, establishing and promoting the meeting of stakeholder objectives. You can influence important senior stakeholders and provide an arbitration function. (Relevant skill level: expert)
+  
+Testing (business analysis). You can define test condition requirements. You know how to work according to test plans to design, interpret and execute them. You can highlight reports and risks and analyse results based on tests and activities. (Relevant skill level: practitioner)
+  
+User focus. You know how to give direction on which tools or methods to use. You are experienced in meeting the needs of users across a variety of channels. You can bring insight and expertise in how user needs have changed over time to ensure these are met by the business. You know how to apply strategic thinking in how to provide the best service for the end user. (Relevant skill level: expert)
+
+
+Read more
+
+
+  Civil Service Jobs
+  Find out about training on digital and agile awareness for analysts
+
+
+
+
+
+      
+        
+    Published 7 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Digital leadership course
+        Product manager
+        The Sourcing and Consultancy Playbooks
+        Government Consulting Hub
+        Working level for product managers course
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

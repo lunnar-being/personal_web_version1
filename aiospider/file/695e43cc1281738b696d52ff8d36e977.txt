@@ -1,0 +1,328 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Choosing open standards for government
+  
+
+  
+  
+  
+      
+  Find out how the government chooses open standards, and how you can suggest open standards, to improve services for users.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      30 July 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Suggest and discuss an open standards challenge
+
+        
+        
+          Open Standards team finds an owner to lead on the challenge
+
+        
+        
+          Challenge owner assesses the suggested open standard for suitability
+
+        
+        
+          Challenge owner writes a formal proposal for the Open Standards Board
+
+        
+        
+          Get approval from the Open Standards Board
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Open standards are sets of technical rules for creating compatible and consistent products, processes and services. The advantages of open standards include:
+
+
+  open and collaborative design processes
+  no or low cost
+  no licensing restrictions
+  compatible with other open source and proprietary solutions
+
+
+The Open Standards Board is a panel of experts drawn from industry, academia and the public sector. The board uses the government’s open standards principles and a rigorous selection process to choose standards for use in government. These standards improve the efficiency of government services, data and technology, and the board can decide to either mandate or recommend using them.
+
+There are 5 steps to choosing an open standard.
+
+
+  Anyone can suggest and discuss a challenge and possible open standards solutions.
+  The Open Standards team chooses a challenge owner to lead on assessing a suggested open standard solution.
+  The challenge owner assesses the suggested open standard solution for suitability.
+  The challenge owner writes a proposal for the Open Standards Board.
+  The Open Standards Board approves the open standard for mandatory or recommended use for the government.
+
+
+Suggest and discuss an open standards challenge
+Anyone can suggest a problem found in government which an open standard might solve or improve. You can also suggest specific open standards that might solve the problem. Suggestions and problems to solve are called ‘challenges’.
+
+You can currently suggest and discuss your challenge through the GitHub ‘open-standards’ repository. GitHub is a platform where you can collaborate and maintain version control of a project. If you do not already have one, you will need to create a free account.
+
+Your challenge should include:
+
+
+  the problem you’ve identified
+  who the users are and what they need
+  the benefits of solving the problem with an open standard
+  suggesting an open standard, or more than one standard, which could solve the problem
+
+
+The Open Standards team and subject matter experts will decide whether to take your challenge to the community for open discussion.
+
+Anyone can comment, or suggest an open standard, on any open standards challenge. The Open Standards team encourages discussion of possible solutions to the problem. Anyone can:
+
+
+  suggest open standards or approaches to help solve a challenge
+  suggest alternative standards if one is already included in the challenge
+  give feedback on other suggestions
+
+
+Open Standards team finds an owner to lead on the challenge
+Open standards challenge owners are volunteers who lead the work to develop challenges into formal proposals. They are usually from government or not-for-profit organisations. They will:
+
+
+  work with the open standards community to investigate the challenge
+  assess the suggested open standards for suitability
+  write the proposal for the Open Standards Board
+
+
+The Open Standards team will assign each challenge an owner. They’ll first offer the role to the person who wrote the initial challenge before looking for other candidates.
+
+The team will also:
+
+
+  explain the role’s requirements to the challenge owner
+  help the challenge owner through the open standards process
+
+
+If you would like to become a challenge owner you can contact the Open Standards team on openstandards@digital.cabinet-office.gov.uk.
+
+Challenge owner assesses the suggested open standard for suitability
+If you are the challenge owner you must assess the suggested open standard for suitability before writing a proposal. Your assessment must show how closely the suggested open standard follows the open standards principles. The assessment will go to the Open Standards Board with the proposal. The proposal will show how the government can use the standard.
+
+The Open Standards Board selected 47 questions to use in an assessment. These questions are based on the EU Common Assessment Method for Standards and Specifications (CAMSS). The questions cover 7 topics.
+
+
+  The proposed open standard’s specifications.
+  How organisations can implement the proposed standard.
+  The proposed standard’s openness and public availability.
+  The versatility and flexibility of the proposed standard.
+  The proposed standard’s effects and benefits for the end user.
+  How organisations can maintain the standard’s use.
+  Related European standards.
+
+
+The Open Standards team will provide the list of questions to the challenge owner.
+
+Challenge owner writes a formal proposal for the Open Standards Board
+If you are the challenge owner and have assessed the suggested open standard, you must write a formal proposal for the Open Standards Board.
+
+The open standards community can review and comment on drafts of the formal proposal through GitHub. You can use the comments and reviews to iterate the formal proposal.
+
+When writing your formal proposal, use your answers to the assessment questions and comments from the open standards community to expand the original challenge.
+
+The formal proposal should show how to solve the initial challenge with one or more open standards. You should include:
+
+
+  the name and URL link of the proposed open standard or standards
+  a summary of how the proposed open standard or standards will meet the user’s needs
+  include a summary of your answers to the assessment questions, for example, the maturity and openness of the standard, any intellectual property rights and market support
+  the predicted benefits and opportunities of using the proposed open standard/s, for example, economic and environmental areas
+  how the open standard or standards can help cross-government interoperability
+
+
+Also answer these questions:
+
+
+  Should government organisations be using all or some of the standard?
+  Are there any legal areas the government will need to consider, such as relevant legislation, public procurement law, intellectual property rights and licensing?
+  Are there any potential technical barriers the government will need to consider?
+  Are there any operational or non-technical barriers to using the standard and how might they be addressed?
+  Are there any known issues with backwards compatibility between versions of the standards or with legacy technology?
+  Are there any known risks government organisations would need to mitigate?
+  Have there been any trials, case studies or pilot projects showing the standard in action?
+  Were any other standards considered to solve this challenge? If so, why were they rejected?
+
+
+When your formal proposal is complete, email it and the answers to the assessment questions to the Open Standards team at openstandards@digital.cabinet-office.gov.uk.
+
+Get approval from the Open Standards Board
+The Open Standards Board will recommend or mandate the use of proposed open standard by deciding if it:
+
+
+  meets user needs
+  gives equal opportunity to open source and proprietary software
+  is mature, usable by all government organisations and widely used by suppliers
+  has been adequately researched and the impact of adoption is understood
+  supports the use of open data
+
+  aligns with the open standards principles and the government’s IT/digital strategies
+
+
+The board will also consider:
+
+
+  any additional information from workshops
+  the community’s comments on GitHub
+
+
+The board will decide if the open standard is:
+
+
+  accepted - the Open Standards team will write a summary profile for the open standard to publish with the standard on GOV.UK
+
+  accepted with conditions - the proposal is returned to the challenge owner with questions and suggestions for amendments
+  rejected - the Open Standards team records the result in the minutes of the meeting and publish them on the Open Standards Board page
+
+
+
+Everyone involved in the Open Standards Board is asked to declare any personal, business or financial interests at the start of each session. Any interests are published in the meeting notes.
+
+When the Open Standards Board approves an open standard for government use, the challenge owner, with the help of the Open Standards team, writes a profile. The profile summarises how the government can use the open standard, the benefits and high-level information about implementation.
+
+The Open Standards team publishes profiles on GOV.UK and reviews them on a regular basis. The Open Standards team also maintains an open standards section in the Technology Code of Practice which the government uses in its spend control process.
+
+
+
+
+      
+        
+    Published 30 July 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Open standards for government data and technology
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

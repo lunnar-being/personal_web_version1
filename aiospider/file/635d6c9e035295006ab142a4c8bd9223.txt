@@ -1,0 +1,252 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Fact sheet — Online Harms Full Government Response
+  
+
+  
+    
+      
+    
+        
+            English
+        
+        
+            Cymraeg
+        
+    
+  
+
+  
+
+
+  
+    
+  We've announced new rules for tech firms around online harms — below are answers to questions surrounding the Full Government Response.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Digital, Culture, Media & Sport, Home Office, The Rt Hon Oliver Dowden CBE MP, and The Rt Hon Priti Patel MP
+
+      
+      Published
+      15 December 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Fact Sheet — Online Harms Full Government Response
+    
+        ODT, 14.2KB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+What are we going to do?
+The government response sets out plans for new laws to make the UK a safer place to be online, while ensuring strong safeguards for freedom of expression. This legislation will be ready next year.
+
+What does this mean for users?
+Our new online safety laws will make the internet a safer place for everyone in the UK, especially children, while making sure that everyone can enjoy their right to freedom of expression online.
+
+Children
+
+  For children, these new laws will mean that all in-scope companies must take action to tackle illegal activity that threatens the safety of children. In addition, platforms likely to be accessed by children will need to:
+  Prevent access to material that is inappropriate to children, such as pornography.
+  Ensure that there are strong protections from content that is harmful to children, such as bullying.
+
+
+Adults
+
+  It should be much less likely that you encounter illegal material online. If you do, it will be easy to report it to the company, who will have to act quickly and take it down.
+  You will be clear on what legal content is acceptable on major service providers, and how to complain when things go wrong.  You will be able to access and post legal content that some may find offensive or upsetting, but going forward, you will be able to make informed decisions about the online services you use and be able to trust that the platforms will keep the promises they make in their terms and conditions.
+
+
+Which companies will our new laws affect?
+The laws will apply to companies that host user-generated content such as images, videos and comments, or allow UK users to talk with other people online through messaging, comments and forums. It will also apply to search engines because they play a significant role in enabling individuals to access harmful content online. This includes the biggest and most popular social media platforms like Facebook, Instagram and Twitter. It also includes a broad range of websites, such as gaming sites, forums and messaging apps and commercial pornography sites.
+
+The legislation will include safeguards for freedom of expression and pluralism online - protecting people’s rights to participate in society and engage in robust debate. The laws will not affect the articles and comments sections on news websites.
+
+What types of harmful content will be in scope?
+The new laws will apply to content where it gives rise to a reasonably foreseeable risk of a significant adverse physical or psychological impact on individuals. The legislation will set out priority categories of harmful content, and in particular will make clear what content children must be protected from. Some categories of harmful content will be explicitly excluded, to avoid regulatory duplication. This will provide legal certainty for companies and users and prioritise action on the biggest threats of harm.
+
+What will companies need to do?
+All companies in scope will need to tackle illegal content on their services and protect children from harmful and inappropriate content, such as pornographic or violent content. The regulator will have additional powers to ensure companies take particularly robust action to tackle terrorist activity and child sexual abuse and exploitation online.
+
+A small number of the biggest companies will also need to set out what types of legal content is acceptable for adults to access on their sites in their terms and conditions. The new laws will ensure that their terms and conditions are comprehensive, clear and accessible to all users. These companies will need to enforce their terms and conditions transparently, consistently and effectively. This approach will ensure more effective action to tackle content prohibited by companies and ensure that companies do not arbitrarily remove controversial viewpoints.
+
+The requirements will be proportionate, reflecting the different size, resources and risk profile of the companies in scope. Our new laws will raise the bar on how companies respond to complaints, by setting expectations that those mechanisms must meet. All companies will need to have clear and accessible ways for users, including children, to report harmful content or challenge wrongful takedown.
+
+How will this change what companies do at the moment?
+Many companies already have measures to tackle illegal content and protect children on their services. Some companies also have their own terms and conditions or ‘community guidelines’ for the kind of content and behaviour they will take down on their services.
+
+However, there is a mismatch between these policies and users’ experiences of harmful content online. Companies will need to consider the risks posed by their services and ensure that they are taking sensible steps to protect their users. Companies will also need to ensure they have good systems in place to respond to complaints from users.
+
+Who will oversee and enforce the framework?
+Ofcom, the communications regulator, will be appointed as the new online harms regulator.
+
+Ofcom will help companies to comply with the new laws by publishing codes of practice. The codes of practice will set out the steps a company should take to comply with the law. Ofcom will also enforce the rules with tough powers to take action against rogue companies. If companies don’t meet their responsibilities, Ofcom will be able to give fines of up to £18m or 10% of global annual turnover, whichever is the higher, or stop services from operating.
+
+The legislation will also impose criminal sanctions on senior managers that fail to comply with information requests from the regulator. However, the government will not bring forward these powers unless companies fail to take the new rules seriously.
+
+Which companies will be exempt from these new laws?
+Proportionality is a key part of our regulatory framework and thus we will exempt a number of services from these new laws. This includes those businesses who we assess are ‘low-risk’ such as reviews and comments on products and services directly delivered by a company, as well as ‘below the line’ comments on articles and blogs. Additional exemptions will be in place for:
+
+
+  Email services, voice calls, and SMS/MMS text messages.
+  Online services managed by educational institutions, as these are already subject to separate regulation.
+  Services used by organisations for internal business, such as enterprise storage and team collaboration platforms.
+
+
+How will the new laws tackle misinformation and disinformation?
+The duty of care will require companies to address harms, such as misinformation and disinformation about vaccines, that are happening on their platforms.
+
+The new laws will have robust and proportionate measures to deal with misinformation and disinformation that could cause significant physical or psychological harm to an individual. Services accessed by children will need to protect underage users from harmful disinformation. Services with the largest audiences and a range of high risk features will be required to set out clear policies on harmful disinformation accessed by adults.
+
+These companies will need to set out what content, including many types of misinformation and disinformation on social media platforms, such as anti-vaccination content and falsehoods about Covid-19, is and is not acceptable in their terms and conditions.  Companies will need to enforce this effectively. If what is appearing on their platforms doesn’t match up with the promises made to users, Ofcom will be able to take enforcement action. Companies are already expected to remove illegal disinformation, for example where this contains direct incitement to violence.
+
+The regulatory framework will also include additional measures to address disinformation, including: 
+* an expert working group 
+* transparency reporting requirements 
+* provisions to boost audience resilience through media literacy and
+* supporting research on misinformation and disinformation.
+
+How will you protect freedom of speech online?
+Our approach will safeguard freedom of expression and pluralism online, protecting people’s rights to participate in society and engage in robust debate online. These laws are not about imposing excessive regulation or state removal of content, but ensuring that companies have the systems and processes in place to ensure users’ safety.
+
+We will protect freedom of expression online by ensuring that the framework is risk-based and focused on systems and processes. We recognise that adults have the right to access content that some might find offensive and upsetting, and as such, this regulation will not prevent adults from accessing or posting legal content, nor require companies to remove specific pieces of legal content.
+
+Will private messaging platforms be in scope?
+A significant proportion of the most abhorrent illegal child sexual exploitation and abuse happens on private channels like direct messaging and closed social media groups. Even services aimed at young children include direct messaging functions.
+
+Platforms will need to take measures to make their private channels safer too. These measures will be decided by the regulator, Ofcom, but they could include making these channels safer by design, such as limiting the ability for anonymous adults to contact children.
+
+As a measure of last resort,  Ofcom will be able to require a platform to use highly accurate technology to scan public and private channels for child sexual abuse material. This power is necessary to tackle child sexual exploitation and abuse online, but will be subject to strict safeguards to protect users’ privacy. The use of highly accurate tools will ensure that legal content is not affected. To use this power, Ofcom must be certain that no other measures would be similarly effective and there is evidence of a widespread problem on a service.
+
+
+
+        
+      
+
+      
+    Published 15 December 2020
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Online safety
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

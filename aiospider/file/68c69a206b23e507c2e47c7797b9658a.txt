@@ -1,0 +1,409 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    5G Programme findings
+  
+
+  
+  
+  
+      
+  Findings and lessons learnt to date from the 5G Testbeds and Trials Programme
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Digital, Culture, Media & Sport
+
+      
+      Published
+      2 August 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          1. Overall impact to date
+
+        
+        
+          2. Boosting the UK supply chain
+
+        
+        
+          3. 5G as innovative technology
+
+        
+        
+          4. Reducing costs and barriers to 5G deployment
+
+        
+        
+          5. Areas that already work well on 4G
+
+        
+        
+          6. Areas where the case for 5G may be less strong
+
+        
+        
+          7. New and improved business models
+
+        
+        
+          8. Sectors likely to benefit from 5G
+
+        
+        
+          9. International engagement
+
+        
+        
+          10. Enriching the 5G ecosystem
+
+        
+        
+          11. Running an innovation programme
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+1. Overall impact to date
+
+
+  The 5G Programme’s initial evaluation report, completed in September 2020, concluded that solid progress has been in delivering its short-term outcomes, but the true scale of impact on long term outcomes will only be measurable in years to come.
+  Current estimates are for 5G Programme benefits of £2.58 billion or £15 for every £1 invested, due to potential earlier adoption of technology in sectors such as healthcare and manufacturing.
+  The UK is considered by many to be a leader in 5G with the 5G Programme contributing to this.
+  With 30 projects still in flight significantly more evidence of benefits will be available by late 2021 and early 2022. It will take years to see the full impact of our trials even once they have concluded.
+
+
+2. Boosting the UK supply chain
+
+
+  Government investment in R&D has successfully stimulated innovation and the UK supply chain.
+  Evidence from our 5G projects shows that we can impact the supply chain, scaling small businesses to provide affordable connectivity solutions.
+    
+      For example, the AutoAir project included a small-medium enterprise (SME) as part of its consortium, which helped them to develop the hardware to test whether 5G could play a key role in the development of Connected and Autonomous Vehicles (CAV). This proved to be a success for the project.
+    
+  
+
+
+3. 5G as innovative technology
+
+
+  
+    5G private Standalone (SA) networks are becoming increasingly popular in a number of our projects. They can increase efficiency by allowing the full potential of 5G to be realised, including much lower latency, using only 5G radio with a new 5G core.
+  
+  Our trials show that 5G has great potential to deliver enhanced visitor experiences through Augmented Reality and Virtual Reality (AR/VR) applications to smartphones and headsets in tourism, sports and the arts.
+  
+    5G with Edge Computing could provide some additional advantages for AR/VR applications to work even more seamlessly with more users.
+  
+  5G will be crucial in the wireless collection of large amounts of data at a faster speed in the logistics sector.
+    
+      For example, in the 5G Logistics project, 5G enabled drones could provide a very flexible, accurate and precise method of location and information when tracking goods and cargo, reducing manual inspections and loss of goods.
+      In the 5G Wales Unlocked project sensors can be placed on buses and can collect data on the number of potholes that need to be fixed on a road as the bus travels over them.
+      Faster wireless data transmission through 5G could allow sensors to detect potential faults in factory machines and operate cranes remotely in real time in a port environment.
+    
+  
+  5G’s ultra low latency connectivity works well with use cases involving live music performances.
+    
+      This could allow musicians to play together, despite being in different locations without any impacting delay in connectivity.
+    
+  
+
+
+4. Reducing costs and barriers to 5G deployment
+
+
+  Densification - using lots of small cells in crowded places, such as arenas, with simultaneous users - could lead to enhanced spectator experiences at live sporting events.
+    
+      Currently, a single cell is used to provide connectivity covering a specific area. Small cells can deliver multiple connections from a single antenna that covers a wider area.
+    
+  
+  Setting up the network and installing equipment using smaller providers and SMEs in a factory setting is being tested as a viable, potentially low cost approach. We are exploring and comparing a range of approaches in our industrial projects.
+  Our trials have found that directly opting for 5G standalone models to build private networks results in fewer deployment barriers and lower equipment costs (e.g. easier spectrum licensing).
+  The Infrastructure Accelerator in the West Midlands 5G project is aiming to reduce the cost and time taken to upgrade existing 4G sites to 5G by working with Mobile Network Operators (MNOs) and local authorities.
+    
+      This is currently a lengthy and complicated process, which requires planning permissions and potential court proceedings if this goes to appeal.
+      So far, the infrastructure accelerator has shown that:
+        
+          It could potentially save up to 6 months to upgrade each site.
+          It could save on court costs, with £500k tribunal cases mitigated.
+          There has been an increase in planning approvals, with 79 sites turned from "likely to be rejected for 5G" to being approved for 5G.
+        
+      
+    
+  
+  
+    This has contributed to greater coverage of 5G in the West Midlands than other locations.
+  
+  
+    Fixed Wireless Access (FWA) can provide a more affordable alternative than large-scale fibre installations.
+  
+  60GHz mesh links avoid digging up roads in urban areas and have provided significant advantages for a number of projects, for example the Liverpool 5G and the Smart Junctions project.
+  With wireless meshing hundreds of devices could reliably connect to thousands of use cases.
+
+
+5. Areas that already work well on 4G
+
+
+  Low-power Internet of Things (IoT) sensors can already use alternative connectivity methods to transfer data. However, 5G can offer simpler and more flexible deployment options.
+  Some of the simpler AR/VR use cases can run on a 4G or Wi-Fi network.However 5G offers greater capacity and capability as usersusing the application, or headset, increase or as the application becomes more immersive.
+
+
+6. Areas where the case for 5G may be less strong
+
+
+  TV White Space (TVWS): The 5GRIT project aimed to use alternative wireless technologies to test whether superfast broadband (30Mbps) could be delivered to properties in rural areas which are currently very hard to reach The project published a report on their findings.
+  We discovered that use cases with low returns may not justify infrastructure investment on their own (for example sheep monitoring by drone). Multiple use cases may be required where revenue margins are low.
+
+
+7. New and improved business models
+
+
+  Using 5G-enabled drones could provide very accurate location and information when tracking goods and cargo, reducing manual inspections and loss of goods.
+  Drones can also be used in farming, allowing farmers to remotely check on the quality of their harvest through the real-time data.
+  The Liverpool 5G project demonstrated that it may be possible to create and maintain an affordable, public sector-owned, private network to support a variety of use cases vital to the public.
+
+
+8. Sectors likely to benefit from 5G
+
+
+  
+    5G has the potential to produce significant benefits in multiple sectors such as Health and Social care (patient outcomes and costs) and Manufacturing (productivity).
+
+    
+      For example, if further evidence comes out from these additional trials as we hope, provisional modelling suggests UK manufacturing output increases of up to £5.7 billion may be possible.
+    
+  
+  
+    It has also contributed to the development of a number of different use cases in the Transport sector to improve the safety of public transport, to enhance traffic monitoring and management and to improve passenger experience, among others.
+  
+  
+    Finally, the application accelerator in the West Midlands has helped to validate several use cases that work to achieve the UK’s green agenda.
+  
+
+
+9. International engagement
+
+
+  National and international engagement allowed the Programme to raise its profile and its project partners significantly.
+    
+      For example, Mobile World Congress in 2018 and 2019 and visits to the US have led to huge international interest.
+    
+  
+  Countries with particular interests are looking towards the 5G Programme to learn from our 5G projects. For example:
+    
+      The 5G Programme’s collaboration with South Korean businesses led to building an underground 5G network and trial augmented reality applications across parts of the Seoul and Glasgow metro systems, creating the opportunity for new experiences and exploring new markets for UK creative businesses.
+      Germany’s interest in industrial Internet of Things (IoT) applications for 5G led to the MOU between 5G Alliance for Connected Industries and Automation (5G - ACIA) and and UK5G to ensure that network and security frameworks in industrial settings align globally.
+      From the visit to Iceland, officials showcased the UK’s 5G development of health and social care applications.
+    
+  
+  Our international engagement has led to investment opportunities in the UK.
+    
+      Inward investment through the NeutrORAN competition and the Global Open RAN Center of Excellence in the U.K is supporting the UK Government’s work on diversification, through partnerships between NEC, Fujitsu and Rakuten Mobile.
+      Ericsson’s investment in Digital Catapult has created the industrial 5G accelerator. This has further strengthened its partnership through new investments by Siemens, Seagate, and Tharsus.
+    
+  
+
+
+10. Enriching the 5G ecosystem
+
+
+  Consortia from our projects have included 23 universities, or higher education organisations, and 18 local authorities and public sector organisations.
+  With over 4,000 members from more than 1600 organisations, the UK5G Innovation Network (UK5G), funded by the 5G Programme, has helped raise the awareness of how 5G can transform businesses and improved the coordination of 5G related technologies amongst other things.
+    
+      As of the end of March 2021, UK5G has published over 600 articles and over 300 other resources added to the website; over 450 events posted on the website and over 130 vendors on the supplier directory.
+    
+  
+
+
+11. Running an innovation programme
+
+
+  It’s vital to include a mix of private and public sector experience in the team, including expert Technical advisors - this has worked well for the 5G Programme.
+  Collaboration between 5G projects is an important aspect of an innovation programme to help build and expand the 5G ecosystem across the UK. This should be one of the key priorities.
+  Competitions can generate interest from stakeholders to explore further avenues in 5G even if they don’t receive funding.
+  Regular dissemination of lessons is needed to keep policy teams up to date.
+  It can be tricky to choose when to invest in new tech.
+    
+      The 5G Programme decided to invest early, before the 5G standards were established.
+      While this encouraged UK organisations to get ahead of global competitors, there were supply chain issues which impacted some of our projects.
+      Once standards are agreed, more work will need to be done around adoption of 5G.
+    
+  
+  Getting smaller companies involved in wider 5G activities yields positive results.
+  A strong consortium with the right people on board (good leadership, technical expertise, comms) can help the project deliver effectively and has been a recurring theme amongst our strongest projects.
+  R&D programmes work effectively when working alongside policy.
+  Project partners and technical advisors within the 5G Programme can also provide valuable constructive feedback to inform policy.
+  The 5G Programme has invested in a large number of projects located across the entire country contributing to levelling up the UK.
+    
+      For example, we’ve invested in areas such as the Orkneys (5G Rural First), Dorset (5G Rural Dorset) and the North East (5G Connected Autonomous Logistics).
+      See our Full list of projects.
+    
+  
+
+
+
+
+
+
+      
+        
+    Published 2 August 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Scoping and Evaluation reports for the 5G Testbeds and Trials Programme
+        5G Testbeds and Trials Programme: complete list of 5G projects
+        5GUK Test Network
+        West Midlands leading the way in 5G coverage
+        Overview of 5G Related Initiatives led or Supported by the Central and Local Governments
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Communications and telecomms
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

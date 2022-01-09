@@ -1,0 +1,257 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Pathways: Text Analysis
+  
+
+  
+  
+  
+      
+  Government Analysis Function Learning Pathways, highlighting a route through learning focusing on text analysis.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Government Analysis Function
+
+      
+      Published
+      1 November 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Analysis Function Learning Pathways: Text Analysis
+
+        
+        
+          Persona
+
+        
+        
+          Summary
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+
+
+Analysis Function Learning Pathways: Text Analysis
+
+
+You can find learning to help you follow this pathway on the Learning Hub.  If you don’t already have an account, contact GSS.Capability@statistics.gov.uk to request log in details.
+
+
+Description
+
+Text Analysis sits at the intersection of computing, linguistics and analytics to facilitate communication between computers and humans in “natural language” e.g., English. This pathway introduces the field of Natural Language Processing (NLP) for handling natural language data using industry standard open-source tools. The pathway gives an in-depth understanding of standard machine learning techniques, and how these can be employed within text analysis to develop predictive language models for applications like text classification, sentiment analysis and topic modelling.
+
+Learning Objectives
+
+
+  Demonstrate a thorough understanding of natural language processing principles in a computational setup.
+  Ingest, clean and pre-process text data using industry standard open-source tools and libraries.
+  Understand and practice standard statistical machine learning approaches including decision trees, regression, classification and clustering.
+  Apply statistical machine learning principles to natural language data for a variety of use cases.
+
+
+Length
+
+This pathway contains five courses.
+
+Persona
+
+To help decide if this is the pathway for you, this learning persona is designed to create a realistic representation of the intended learning audience.
+
+
+
+General Background
+
+Raj is a fraud analyst.
+
+Starting Point
+
+Raj handles a large amount of text data, he is an expert Excel user, however newer technologies that come under Artificial Intelligence are unfamiliar to him.
+
+Perceived Needs
+
+Raj is keen to learn how coding and new analytical tools like Machine Learning and Natural Language Processing can be used to make his job easier.
+
+Special Considerations
+
+Raj would feel comfortable with learners at the same level as him.
+
+Summary
+
+Textual data is overflowing from all fronts: social media outlets to blogs to emails. This learning journey explores key concepts in language models, and how to process text data to draw insights from textual data.
+
+
+You can find learning to help you follow this pathway on the Learning Hub.  If you don’t already have an account, contact GSS.Capability@statistics.gov.uk to request log in details.
+
+
+Back to Analytical Learning Pathways page.
+
+
+
+
+      
+        
+    Published 1 November 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Pathways: Statistical Analysis
+        Pathways: Managing Data
+        Pathways: Data Visualisation
+        Pathways: Analytical Awareness for Non-Analysts
+        Pathways: Data Wrangling
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Corporate information
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

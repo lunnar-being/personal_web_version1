@@ -1,0 +1,319 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Make video conferencing tools work across government
+  
+
+  
+  
+  
+      
+  Improve cross-departmental working by opening up access to video conferencing tools.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      23 June 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Allow open access by default
+
+        
+        
+          Making sure your VCT allows open access to external users
+
+        
+        
+          Testing your users can access the tools other organisations use
+
+        
+        
+          Making users aware of their responsibilities
+
+        
+        
+          Federating with other government organisations
+
+        
+        
+          Using VCT for sensitive conversations
+
+        
+        
+          Choosing new or replacement video conferencing tools
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+To make sure cross-departmental working is effective, the government needs to communicate and work together across organisational boundaries. One way of doing this efficiently is by using video conferencing tools (VCT).
+
+This guidance outlines:
+
+
+  what to consider when choosing and configuring your VCT
+  how to make sure your organisation’s use of VCT is safe and appropriate
+  what updates you can make to your internal policies to improve how you use your VCT
+
+
+Allow open access by default
+
+Where possible, you should open access to VCTs by default to make sure your users can attend meetings hosted on other tools. Other departments and organisations will use different VCTs than you, and by blocking them you will prevent your users from working with those other departments.
+
+This means that your policies should not explicitly forbid you to open up access to your organisational VCT or to access other organisations’ VCT.
+
+You should create a process within your department that allows you to safely and easily open access to VCTs so your users can communicate across organisations.
+
+This may include planning how you will:
+
+
+  make sure you configure and manage tools properly
+  test them on end user devices
+  complete information assurance
+
+
+You do not need to purchase new tools unless your user needs have changed.
+
+The organisations you want to work with will also need to implement these changes before your users can communicate. You should not normally have to pay for licenses and accounts to be able to access a video conference hosted on a tool used by another organisation.
+
+Video conferencing does not require all users to share video. It’s possible for some organisations to customise their internal access. For example, they can remove webcam access, but continue to allow audio, screen sharing, chat, and presentations.
+
+Making sure your VCT allows open access to external users
+
+You must allow open access so that participants outside your organisation can join meetings through your VCT as a guest. By allowing access you will allow better communication between organisations, increase efficiency and save time.
+
+If you have more than one VCT for your organisation, you need to make sure at least one is accessible to external users. Most external users will want to connect to your tool through a web browser, so you should make sure that functionality is available.
+
+If your access settings are usually only for internal or specific users, you’ll need to review and update your security position and processes. There is guidance from the NCSC on how to deploy and configure VCT securely.
+
+You will also need to assess your internal policies to check they allow your users to access external VCTs. This may include your security, privacy or fair use policies. You must update your internal policies to allow your users to access external VCTs as participants.
+
+As long as you use VCT properly, unblocking external VCTs will not decrease your security.
+
+Communicate clearly to your users so they know which tools they can use, and how to use them. This could include:
+
+
+  internal guidance
+  blog posts
+  sharing your security policies
+
+
+Testing your users can access the tools other organisations use
+
+Once your policies allow users to access external VCT, it’s important you test the most frequently used ones to make sure they work.
+
+For example, some tools might require you to download browser plugins, extensions or the native app. You should:
+
+
+  consider which approach is best for your organisation
+  test the chosen approach with your users
+  provide your users with the appropriate guidance
+
+
+Most VCTs require web browsers to function. You might have to deploy newer browsers to users, or provide guidance on which browser they should use to access specific tools.
+
+Where possible, you should try to use the web browser rather than an app, and only install extra software or plugins if they are absolutely necessary for users to access meetings.
+
+You should also work with other organisations to test whether they can access your VCT.
+
+Making users aware of their responsibilities
+
+The host of a meeting must know how to properly set up one with your VCT. This is to make sure the meeting is secure and unauthorised people cannot access it.
+
+A properly set up meeting could include:
+
+
+  controlling access with authentication, lobby or waiting room facilities
+  only sharing passwords with authorised attendees, separately from the meeting invite
+  making sure hosts know how to remove unwanted participants
+  making sure hosts know how to restrict capability - for example, who can present or share their screen
+
+
+You should give guidance to your users on how to use VCT securely and responsibly. When you host meetings with external guests, you also have to make sure the meeting is set up so that all participants have an appropriate level of access.
+
+You should make sure that your users are aware of the security culture of organisations participating in your meetings, and the relationship between the 2 organisations. For example, if you work regularly with an organisation and have similar VCT configuration, you might allow your users to discuss more sensitive topics on VCT.
+
+You could share the NCSC guidance for individuals with your organisation, which outlines common best practices and includes an infographic about video conferencing.
+
+Federating with other government organisations
+
+Federation allows you to access other organisations’ Software as a Service (SaaS) tools, like video conferencing, without having an organisational user account. For example, 2 organisations can federate, or join up, and use each other’s email addresses to validate the identities of users joining VCT meetings.
+
+Federation can increase the level of trust and assurance in external users’ identities. Without federation, you’re reliant on manual validation of identity. Federation can also allow closer integration, for example by sharing a user’s free or busy status.
+
+Some tools can automatically perform some basic federation. You should use this feature if it’s available.
+
+Federation is not always possible. For example, it might not be possible to federate with another organisation who uses a different cloud office productivity suite.
+
+Federation can provide additional functionality and security, but you must not require an external organisation to federate with you in order to participate in meetings.
+
+Federation can take some time to implement and can be difficult, so it’s not feasible to federate with large numbers of other organisations. You should consider federation for organisations that:
+
+
+  you work closely with on a regular basis, and that;
+  use the same cloud office productivity suite
+
+
+To help you federate with organisations you work with often, you can view the tests done by Project Unblock in April 2020 to find out which VCTs some organisations are using.
+
+Using VCT for sensitive conversations
+
+When you configure VCT with the appropriate security and authentication, it is secure enough to discuss OFFICIAL content.
+
+A small number of users in your organisation might need to hold conversations that require additional security considerations. This could limit the choice of tools available to you. You should consult with the Government Security Group if you need guidance on a particular use case. You can email them at GSFInfo@cabinetoffice.gov.uk.
+
+Choosing new or replacement video conferencing tools
+
+If you’re choosing a new or replacement VCT for your organisation, you should assess whether it meets your users’ needs and accessibility requirements.
+
+You might need multiple tools to meet different user needs. For example, one tool for hosting small meetings and one for hosting large webinars.
+
+If you do pick more than one tool, be clear and tell your users which tool is intended for which purpose.
+
+When assessing the user needs for your VCT, you might want the ability to:
+
+
+  present and share screens in real-time
+  broadcast pre-recorded video
+  offer guests access without them requiring a license or account
+  access VCT through a browser without plug-ins or software
+  provide authentication, lobby or waiting room facilities to verify the identity of users and control access by external users
+  configure the VCT to allow hosts to remove unwanted participants
+  configure the VCT to allow hosts to restrict capability, such as who can present
+  allow the host to control screen sharing and muting, if needed
+
+
+You must choose a VCT with the right level of security for your intended communications. There may be specific advice on the usage of some tools which you can get from a Security Advisor from your security or information assurance team.
+
+When carrying out this assessment, make sure your security team also works with users, operational leaders and senior leaders. This will make sure that the security team understands the needs and pressures of all users, in addition to securing services.
+
+If you need to buy new or extra VCT, choose an appropriate tool by following the:
+
+
+  Technology Code of Practice
+  NCSC’s 14 cloud security principles
+
+  Crown Commercial Services’ contract management standards
+
+
+
+Using buying frameworks like the Digital Marketplace can make buying easier.
+
+You should also take into consideration the NCSC’s advice about how to choose a video conferencing service, which is part of their published guidance on the security of video conferencing.
+
+
+
+
+      
+        
+    Published 23 June 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

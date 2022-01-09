@@ -1,0 +1,185 @@
+
+	
+COVID-19 has caused ongoing challenges for health systems across the United States throughout 2020. Recent increases in cases and hospitalizations, however, reveal that pressure may be more widespread in the coming months, with less resiliency across the country to support surges in demand for care. Early in the pandemic some providers relied on resources, such as supplies, from other parts of the country to manage demand, and postponed “elective” care to free up resources for COVID-19 patients.
+
+
+
+
+
+However, potential widespread health system demand may limit the ability of providers to shift resources to emerging “hot spots.” Increasing acuity resulting from delayed care may limit the ability of providers to unlock additional capacity and resources when needed. Given the unique challenges that are evolving across the country, health systems and public health leaders will need to rapidly adjust to prevent potential COVID-19-related crises and save lives.Considerations to mitigate these challenges include 1) developing plans to increase effective capacity of acute care beds to meet COVID-19 demand in addition to urgent and elective care needs; 2) proactively managing supply and demand for personal protective equipment (PPE) in advance of potential shortages; and 3) strengthening plans to support the provider workforce by cross-training, creating contingency staffing models, and increasing ancillary support for frontline workers. These supports might include childcare services and mental health services.COVID-19 cases and hospitalizations are rising and demand for care is now more widespread than ever beforeMore than 1,750,000 people across the United States were diagnosed with COVID-19 in the first two weeks of November. As of November 22, the number of new cases each day continues to climb across almost every state.
+
+
+ Despite many public health measures and COVID-19-related restrictions, the prevalence of the virus is now greater and more widespread than at any point since the pandemic began. While the country has continued to increase testing capacity, there is also a rising percent of tests with positive diagnosis results across most states (Exhibit 1). Hospitalizations have been steadily rising for weeks, indicating the disease is becoming more prevalent (Exhibit 2).
+
+
+
+    
+
+    
+Since the beginning of the pandemic, some variables have decreased the burden on the health system. Admission and mortality rates have fallen as older populations have represented a smaller proportion of new cases in recent months. For example, the median age of new cases was 38 years at the end of August compared to 46 years in May.
+
+
+ In addition, the evolution in treatment protocols has decreased reliance on ventilators, lowered overall hospital length of stay, and decreased clinical and demographic-adjusted mortality rates.
+
+
+
+
+
+
+		
+	
+However, as case growth climbs and over 80,000 patients are currently hospitalized with a COVID-19 diagnosis, pressure on hospital systems is starting to mount again—but this time large systems are seeing pressure in multiple locations simultaneously. As of November 22, 33 states had at least 10 percent of all hospital beds occupied by a patient with a COVID-19 diagnosis, and 34 states had more than 20 percent of all adult intensive care unit (ICU) beds occupied by a COVID-19 patient (Exhibit 3).
+
+
+ This compares to nine states having more than 10 percent of beds occupied by COVID-19 patients on April 15, and 11 states on July 23, when the country reached the two prior peaks of around 60,000 patients hospitalized. Hospitalizations continue to rise, as all 50 states had an increase in the number of patients hospitalized with COVID-19 in the second week of November. In addition, many of the locations with the highest relative pressure are located in more rural areas of the country and may have relatively fewer resources nearby to support patients compared to major metropolitan areas that experienced surges early on in the pandemic (for example, North Dakota has 11 staffed ICU beds per 100,000 population, while the United States average is 27 staffed ICU beds per 100,000 population).
+
+
+ North Dakota, for example, announced on November 9 that healthcare workers with asymptomatic cases could continue to work in COVID-19 units in order to alleviate staffing concerns.
+
+
+
+    
+Continued increases in COVID-19 volumes may soon overwhelm hospitals. Currently, 11 states have more than 80 percent of all hospital beds occupied, and 18 states have more than 80 percent of all ICU beds occupied. If current transmission and hospitalization rates continue, and length of stay is not reduced, 13 states may exceed their current ICU bed capacity in the next few weeks if additional beds are not brought online or if existing capacity is not freed up, for example by decreasing elective admissions. Six states may surpass 100 percent of their total ICU and med surg occupancy for all inpatient beds (Exhibit 4).
+
+
+ Certain micro-regions within some states may face even greater pressure, as several cities (for example, El Paso and Milwaukee) have already reported that hospitals were entirely full in early November.
+
+
+
+
+
+
+    
+Prior health system responses to managing COVID-19 surges may not be as effective due to new challengesAs outlined in “,”
+
+
+ hospital leaders could consider certain actions to help alleviate potential pressure, such as decreasing elective care, stockpiling supplies, and cross-training staff. However, continued and widespread pressure, combined with new challenges (for example, raw material shortages and severe caregiver burnout) will limit the effectiveness of approaches that providers deployed earlier in 2020, such as:CapacityEarly in the pandemic, many hospital systems postponed elective care in order to free up additional capacity for COVID-19 patients. As the pandemic has progressed, this has continued to be an effective technique used by many states and providers to help ensure sufficient capacity.
+
+
+
+
+
+ For example, providers across the state of Arizona decreased non-COVID-19 inpatient volumes by around 40 percent from June 13 to July 6, largely because providers halted elective admissions.
+
+
+
+
+
+ However, multiple recent reports suggest that the acuity of care is increasing, and care that was once deemed to be elective may now be more urgent in nature.
+
+
+
+
+
+ Therefore, decisions to halt elective care may have a relatively smaller impact than the same decision might have had in the period of March to July. In addition, some patients also may have forgone seeking medical treatment for life-threatening conditions. For example, in the first 10 weeks of the pandemic, hospitals saw a 23 percent reduction in heart attacks and a 20 percent reduction in strokes, which led to fewer emergent admissions between the March to May time period.
+
+
+ Lastly, many alternative sites of care were built early on in the pandemic. However, many of these facilities have been disassembled, and the ability or willingness to erect new alternative sites of care may be more limited moving forward.
+
+	
+
+
+
+
+    
+    
+
+SuppliesThe demand for PPE and testing supplies continues to be well above baseline levels as society grapples with trying to safely resume “normal” activity in light of strong virus resurgence. Our latest Consumer Health Insights survey found that 90 percent of respondents reported masks and testing as their most important factors in supporting return.
+
+
+ The increase in PPE use across all healthcare settings, as well as in schools, businesses, and public spaces has exacerbated demand-side pressure. The most recent FDA report has identified shortages for 20 critical supplies (including N95 respirators, surgical gloves, gowns, testing supplies, and ventilators).
+
+
+ Further, sustained pressure on the global supply chain could result in higher costs (for example, raw materials, labor, and capital expenditures) and persistent supply shortages.WorkforceCOVID-19 has strained the clinical workforce for more than nine months, and the continued pressure is leading to increased risks and new challenges moving forward. Recent reports have shown that healthcare workers face a greater risk of acquiring COVID-19 compared to workers in other sectors, and are experiencing longer working hours, fatigue, and psychological stress.
+
+
+
+
+
+
+
+
+ As a result, many physicians and nurses have been unable to work due to exposures or infections, which are likely to continue.
+
+
+ Potential infections of family members along with disruptions to school and childcare arrangements have also led to higher-than-normal call-out rates, and delayed paid time off (PTO) is starting to pose potential liabilities for organizations moving forward.
+
+
+ Early in the pandemic, many heroic physicians and nurses moved across the country to “COVID-19 hot spots” to provide additional support as necessary. However, as the COVID-19 burden is now rising across the country, the ability for providers to be shifted across regions may become more limited.
+
+
+ Many states still have mandatory quarantine requirements in place for visitors, which may impact providers considering travel assignments, particularly around the holiday season.
+
+
+The increased stress on healthcare workers is leading to longer-term concerns as well. Some providers have seen an increase in early retirements (compounding existing increased retirement rates driven by baby boomers, especially nurses).
+
+
+ Many nursing and medical schools have delayed clinical rotations which may decrease the number of new graduates available in the next year.
+
+
+
+
+
+
+
+
+ Lastly, some staff who were furloughed have found new roles outside of healthcare.
+
+
+ Altogether, the potential exists for workforce shortages to limit effective capacity in the coming months, and it will be important to consider solutions within, rather than across, markets.Health systems may consider developing new COVID-19 strategies to manage novel challenges and ensure sufficient resourcesAs the prevalence of COVID-19 continues to rise, providers could consider establishing or reinvigorating “command centers” in order to support agility in operational decision making. Having a centralized view of potential challenges, supported by real-time data, may be able to help leaders mitigate potential capacity, supply, and workforce issues before they arise. Below are several actions that health systems could consider across these three dimensions:Capacity—Develop thoughtful plans to increase effective capacity of acute care beds to meet COVID-19 demand in addition to urgent and elective care needs.As highlighted in “,” hospitals across the country have faced significant financial pressures throughout 2020, in part due to a reduction in elective procedure volume, which typically drives a disproportionate share of revenue and margin for hospitals.
+
+
+
+
+
+
+
+
+ Therefore, as the pandemic continues, providers may be increasingly hesitant to cease elective procedures for financial reasons. At the same time, providers recognize the need to prepare for potential increases in COVID-19 volumes.However, leaders should not always view this as an “either-or” decision.
+
+
+
+
+
+ Health systems could consider the following actions to help balance capacity conservation for COVID-19 patients, with the ability to concurrently provide routine care as long as possible:
+    Leverage real-time data and forward-looking models to understand potential demand and capacity of med surg and ICU beds across all facilities
+    Establish occupancy thresholds which may necessitate slowing down elective admissions, with criteria to determine which types of care may be safest to postpone first
+    Explore opportunities to leverage virtual care (for example, remote monitoring and tele-ICU) when medically appropriate and in accordance with legal and professional standards to increase acute bed availability
+    Increase the number of acute or critical care beds by converting existing space (for example, conversion of operating/perioperative rooms) or considering double occupancy rooms when medically appropriate
+    Optimize inpatient throughput to increase effective capacity
+    Create community-wide plans for utilization of alternative care sites (for example, use of alternative care sites for post-acute care)
+    Develop effective triage processes to cross-level demand and route patients to nearby facilities with bed availability (potentially involving partnerships with other providers)
+    Proactively ramp up elective care volumes when COVID-19 demand is low to prevent unnecessary deferral of care (which may help to mitigate non-COVID-19 demand in subsequent months)
+
+		
+	
+Supplies—Revisit supply and demand mitigation plans to prepare for crisis scenarios.Proactively managing supply and demand in advance of potential shortages may help to prevent another acute shortage. As such, health systems should consider the following actions to help manage COVID-19 resurgence:
+    Utilize real-time dashboards to track projected demand and supply inflow, with demand management thresholds set for key supplies
+    Cross-level supplies with nearby facilities
+    Codify and syndicate contingency and crisis demand management protocols for supply conservation across the system, including protocols in patient and non-patient areas to conserve supply as needed
+    Expand sourcing channels and explore appropriate alternatives for supplies, including direct to manufacture sources
+    Coordinate with internal (for example, central emergency response team) and external (for example, state government) stakeholders to ensure efforts are integrated with the broader system and risk is managed appropriately
+Workforce—Strengthen plans to support the provider workforce by cross-training, creating contingency staffing models, and increasing ancillary support.Given the new workforce challenges outlined above, many novel strategies may be required in the months ahead to prevent workforce shortages. Potential actions to consider include:
+    Model potential demand and supply of providers by site of care, role, and specialty to identify locations with the greatest relative risk
+    Establish contracts with temporary staffing agencies or increase hiring with expedited HR and onboarding processes
+    Engage with recently retired providers and identify potential ways to leverage their expertise (for example, providing virtual mentoring/assistance to less tenured providers)
+    Shift providers from nearby facilities or markets, if feasible (either within a system or in partnership with external providers in other regions of the country with lower relative COVID-19 pressure)
+    Increase availability of rapid COVID-19 tests for employees to limit potential spread of the virus and decrease call-out rates
+
+
+
+    Strategically stagger PTO and provide incentives (financial and non-financial) to work during peak times and holidays
+    Provide personal wellness and mental health support to prevent provider burnout
+    Provide cross-training and upskill personnel to fill critical roles (for example, critical care nurses)
+
+
+
+    Develop plans to shift to contingency or crisis staffing ratios once other options have been explored
+    Increase programs for caregivers designed to support them in and outside of work with childcare (including homeschooling), providing meals for them and their loved ones, and anything else to reduce some of their burden
+    Explore ways to get new grads and cross-training caregivers up to speed more quickly and partner with local schools to enable continued clinical requirements and avoid seeing major gaps in talent availability
+
+        
+
+
+    
+    Providers across the country have shown tremendous resiliency in response to unprecedented challenges throughout 2020. However, new strategies will be required to manage this latest uptick in demand, which may end up being the greatest challenge to date in the COVID-19 response. Health systems that proactively prepare for worst case scenarios, and develop thoughtful strategic and operational plans to mitigate upcoming challenges, will be best positioned to prevent crises and save lives.

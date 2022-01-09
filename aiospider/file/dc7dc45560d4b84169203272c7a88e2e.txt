@@ -1,0 +1,134 @@
+
+        
+        
+        
+     a historic shutdown of US schools in the spring, state and district leaders speculated that the disruption could last anywhere from a few weeks to a few months. With a surge in new infections, the pandemic is now likely to keep many students out of the classroom until well into 2021.Educators, parents, and students know firsthand the high cost of this prolonged period of remote learning, from  to the loss of student learning. The COVID-19 pandemic has taken an especially heavy toll on Black, Hispanic, and Indigenous communities. Along with robbing them of lives and livelihoods, school shutdowns could deny students from these communities the opportunity to get the education they need to build a brighter future.
+    
+    
+        
+In the spring, we examined how school shutdowns were likely to , analyzing the toll on learning, dropout rates, and the overall economy. We now share assessment data from this fall, which show that students, on average, started school about three months behind where we would expect them to be in mathematics. Students of color were about three to five months behind in learning; white students were about one to three months behind. The picture for reading is more positive, with students starting school just a month and a half behind historical averages.Much has improved since the spring. States and school districts have made significant efforts to close the digital divide and improve remote learning, and the implementation of school-based health and safety precautions enabled some students to return to classrooms in the fall (although some of these gains are now at risk as COVID-19 cases spike across the country). However, Black and Hispanic students continue to be more likely to remain remote and are less likely to have access to the prerequisites of learning—devices, internet access, and live contact with teachers. Left unaddressed, these opportunity gaps will translate into wider achievement gaps. Looking forward, we consider several different scenarios to estimate the total potential learning loss to the end of this academic year in June 2021. While the worst-case scenarios from the spring may have been averted, the cumulative learning loss could be substantial, especially in mathematics—with students on average likely to lose five to nine months of learning by the end of this school year. Students of color could be six to 12 months behind, compared with four to eight months for white students. While all students are suffering, those who came into the pandemic with the fewest academic opportunities are on track to exit with the greatest learning loss.It doesn’t have to be this way. While we may not be able to control the virus without an effective vaccine, we are more prepared to deal with its consequences. The immediate priority is to prevent further learning loss through a combination of bringing students back to school where it is safe to do so and improving remote learning across the board. However, that is not enough. Much damage has already been done, and even the best-case scenarios have students half a grade-level behind in June. To catch up, many students will need step-up opportunities to accelerate their learning. Now is the time for school systems to prepare postpandemic strategies that help students to meet their full potential.Autumn report card: The high cost of COVID-19
+	
+School systems were understandably overwhelmed and unequipped to respond when COVID-19 began rapidly spreading in the spring. The US education ecosystem is built around an in-class experience, from technology investments in school-level broadband internet and devices to curriculum design and how teachers are trained. In many communities, schools are also the hub for supports such as school meals, mental-health counseling, and childcare. In many homes, especially for low-income families, students lack access to the internet, devices, and a dedicated, quiet place to study.The disparities in basic conditions for learning are reflected in the results of formative assessments taken this fall. We analyzed assessment data from the 
+
+
+ and found that students in their sample learned only 67 percent of the math and 87 percent of the reading that grade-level peers would typically have learned by the fall.
+
+
+ On average, that means students lost the equivalent of three months of learning in mathematics and one-and-a-half months of learning in reading.
+
+
+ The learning loss was especially acute in schools that predominantly serve students of color,
+
+
+ where scores were 59 percent of the historical average in math and 77 percent in reading (Exhibit 1).
+    
+These results are only a snapshot of a small cross section of students, but, if anything, these students may outperform national averages. These assessments were taken in school by students who had already made it back into the classroom. In addition, because the survey compares results at the school level, it doesn’t capture the full scope of student-level opportunity and achievement gaps. The OECD suggests that more than three-quarters of the variance in US student scores typically occurs within schools, not between them.
+
+
+ Extrapolating to a student level, these scores suggest that students of color may have lost three to five months of learning in mathematics, while white students lost just one to three months.
+
+
+ Four months roughly tracks with the number of months of disrupted learning after schools began closing in March 2020—suggesting that some students didn’t learn any new material once the pandemic hit and may have even slipped backward.The next normal: Adapting to the realities of remote learningConditions for learning have improved significantly since the spring, even though many students remain remote. Even students who still spend their days online are likely to have a better learning experience this year as schools have adapted their curricula, teacher training, and outreach to boost engagement with children and parents. Grading and testing have been reinstated in most schools, raising expectations for teachers and students.
+
+
+We estimate that about 60 percent of K–12 students started the 2020–21 school year fully remote. Another 20 percent started school with a hybrid model of remote and in-person classes, while the remaining 20 percent headed back full-time to in-person classrooms (Exhibit 2). This reflects a patchwork of modalities across the 13,000 public school districts in the nation.
+    
+Students in urban areas and large school districts are most likely to still be learning remotely. Even within the same district, Black and Hispanic students were more likely than white students to have started the school year remote. This partially reflects parental demand, as multiple polls show that Black and Hispanic parents are less likely to want their children to attend in-person classes.
+
+
+The pandemic hasn’t just forced schools to remain remote; it has also prompted some students to leave the public school system altogether. Some parents who can afford it have switched their children to private schools, pandemic pods, or homeschooling. Other children lack that option, and older teens may have dropped out of school altogether. The biggest drop appears to be at the starting point for school. While we don’t yet have national enrollment data, an NPR survey of more than 60 school districts across 20 states found that kindergarten enrollment is down an average of 16 percent this year.
+
+
+ Some parents may be keeping their children in quality preschool programs that promote socio-emotional and academic growth, but others may not have that option. The decision to skip kindergarten is understandable, especially if the kindergarten experience is remote and parents are juggling work and childcare, but it has long-term consequences. Although kindergarten is compulsory in only 19 states and the District of Columbia, it can have a profound impact on children’s skill development that influences later academic performance and even long-term life outcomes.
+
+
+
+    
+For those children who remain in the K–12 school system, the challenge is having the tools and resources to thrive academically in a remote environment. Over the spring and summer, states and  to distribute devices, connect students to the internet, reconnect with homeless students who had fallen off the radar, and put in place new regulations and benchmarks on remote instruction (Exhibit 3). But gaps remain. The October US Census Bureau Household Pulse Survey shows that 91 percent of households with K–12 students always or usually have access to a device for learning and internet access. Although gaps have narrowed since the spring, Black and Hispanic households are still three to four percentage points less likely than white households to have reliable access to devices, and three to six percentage points less likely to have reliable access to the internet (Exhibit 4).
+    
+Access is easy to measure; quality less so. However, most experts agree that without any live instruction, many students will struggle to progress. Although more students may be receiving live instruction this fall than in the spring, significant racial disparities remain. Black and Hispanic students are twice as likely as white students to have received no live contact with teachers over the previous week and are three to six percentage points less likely to be receiving consistent live instruction (Exhibit 5).
+    
+Keeping students engaged remotely is a challenge. Data from instructional software provider Zearn show that student participation in online math coursework decreased by 11 percent this fall compared with participation prior to the pandemic. Among low-income students, the drop is 16 percent, while participation by high-income students decreased by just 2 percent.
+
+
+ The good news is that this is a substantial improvement from the spring, when participation was 41 percent lower for low-income students.Beyond access and quality of instruction, students must be in a physical and emotional state that enables them to learn. The COVID-19 pandemic has wreaked havoc on families, leaving many children in precarious situations. Feeding America notes that one in four children is at risk of hunger during the pandemic.
+
+
+ The number of children who are housing-insecure has risen as families struggle to pay rent. Parental supervision and support may be more difficult in families in which both parents need to work outside the home, or in which the parents are English-language learners and cannot directly support their child’s learning.
+
+	
+
+
+
+
+    
+    
+
+Looking forward: A high hurdle to reduce learning lossWhile schools have made progress in key areas, the reality is that the 2020–21 school year is going to remain a challenge for every student. The COVID-19 pandemic has upended the US education system, forcing schools to adopt strategies without certainty about the results. Existing remote learning studies are based on virtual charter schools that aren’t representative of the full public school population.
+
+
+ There are no rigorous studies on the impact of hybrid models—not just on learning, but also on students’ emotional and mental health, as well as on limiting disease spread. This makes it tough for schools to design effective learning strategies and makes it difficult for researchers to predict the impact of ongoing disruptions. Guided by pre-COVID-19 studies of the effectiveness of virtual learning and by assessment data collected at the start of this school year, we created four scenarios to consider:
+     As a baseline scenario, this is what students were on track to lose had we continued on the same path as the initial switch to remote learning in the spring.
+
+
+ Given the improvements this fall, we hope we have averted this worst-case scenario.
+     This presumes that students stay in their current learning modalities (remote, hybrid, or in-person) until the end of the school year, with a mix of remote learning quality slightly better than historical virtual charter school performance.
+
+
+
+     In this scenario, students stay in their current learning modalities until the end of the school year, but with significant improvements in remote and hybrid learning quality.
+
+
+
+     This scenario is identical to the status quo scenario to the end of 2020, and then students resume a more typical in-person schedule from January 2021 to the end of the school year.
+
+
+
+The results are startling. Students on average could lose five to nine months of learning by the end of June 2021. Students of color could be six to 12 months behind, compared with four to eight months for white students (Exhibit 6).
+
+	
+
+
+
+
+    
+    
+
+
+        
+
+
+    
+    All of these scenarios will have a meaningful impact on existing achievement gaps, but shortening the length of disruption or improving the quality of remote learning can lessen this impact significantly, especially for students of color. If the status quo continues, students of color stand to lose 11 to 12 months of learning by the end of the year, but targeted action could help reduce this to six to eight months.And this could be just the beginning—we also know from studies of natural disasters, such as the 2005 earthquake in Pakistan, that learning losses are likely to compound over time (see sidebar, “The case of Pakistan”). Schools can take action right now to minimize further damage and repair what’s already been done.A path forward: Curb losses and accelerate learningWith remote classes likely to remain a reality for months to come, school systems could do more to . Along with access to both technology and live teaching, students need a daily schedule that builds in formal opportunities for engagement, collaboration, and feedback. System leaders should also empower teachers with new ways to share practices and receive professional development in an online format.
+
+
+ There are already some bright spots. Recent Curriculum Associates analysis identified a subset of exemplar schools serving low-income students of color that managed to minimize learning loss. These schools eliminated the digital divide; reached out to each family; doubled down on feedback loops of instruction, learning, and assessment; and held everyone accountable while celebrating successes.
+
+
+Most important, perhaps, schools can take a more holistic view of their role in a student’s life,  in ways that go beyond the norm. That could start with a renewed focus on early childhood—integrating healthcare, social services, and education programs to support children to be ready for school cognitively and socioemotionally. It could continue with ensuring high-quality instructional materials in every classroom, integrating best-practice personalized, blended learning to help students master content. By recognizing teachers as the lifeblood of our education system, the approach could involve a more practicum-based approach to teacher professional development and innovation in unbundling the role of the teacher. For example, Opportunity Culture has been working with several school districts to adopt its multiclassroom leadership model to remote learning—embedding real-time virtual coaching into every classroom.
+
+
+ More broadly, schools provide so much more than academics. The pandemic has underscored the importance of investing in mental-health support, motivational coaching, skills training, and new support structures that could lead to an improved education experience.Even if schools follow the most carefully structured, evidence-based approach to get the most out of remote learning and improve their teaching going forward, the reality is that many months of learning have already been lost. As a result, school systems need to create a step change in student learning if we are to catch up on what has been lost through this pandemic. Systems can start now to create acceleration plans using evidence-based strategies that support students with more time and more dedicated attention, all founded on exposing students to grade-level learning. These strategies can be targeted to the students who need them most, leveraging the best formative assessments and early-warning systems to identify students at risk.
+
+
+ These approaches have been road-tested, but will require significant investment to scale (Exhibit 7).
+    
+Some of this may only be possible once it is safe to return to in-person learning, but other elements can begin remotely. In a recent survey of district and state leaders conducted in partnership with Chiefs for Change, we found that several districts and states are already experimenting to implement these strategies in the current environment. Some specific examples follow.Expanded learning time: Acceleration AcademiesGiven the scope of learning loss so far and the limitations of remote learning, students will likely need additional learning hours to make up the loss. That can come through extended school-day and structured after-school programs, weekend school, and summer school programs that already have proven benefits.
+
+
+ The most effective programs strive to reinforce core learning, be culturally relevant, and limit groups to eight to 12 students. While some of these strategies can be implemented now, others should be developed for rapid implementation once in-person instruction is safe.The summer of 2021 presents a promising opportunity. A recent RAND analysis of 43 summer programs suggests that 75 percent were effective in improving at least one outcome, especially in reading. Promising examples include Acceleration Academies, which has helped students gain up to three months of learning through 25 hours of targeted instruction in a single subject (math or English-language arts) over week-long vacation breaks.
+
+
+ California’s Aim High organization, meanwhile, reduced chronic absenteeism by 22 percent and suspensions by 37 percent with its project-based summer program.Some districts are already planning for extended learning time. For example, Ector County Independent School District in Texas has extended its school year from 180 to 210 days and will run a summer-long program available for all students. Governments, foundations, and school districts collaborate to create a national initiative to bring locally driven, evidence-based summer learning programs to every US student who needs it in 2021.Dedicated attention: High-intensity tutoringA proven catalyst for accelerated learning is one-on-one support for students. That requires bringing more talent into the system to provide “high dosage” tutoring and coaching.
+
+
+ These programs were pioneered by Match Education in Boston and scaled by Saga Education in Chicago to provide students who are behind grade level in mathematics with an individualized 50-minute class period every school day. Tutors work with two students at a time in each session and cover content that not only meets students where they are but also links back to what is being taught in the regular math classroom. These types of student–tutor ratios may seem unachievable, but costs are kept (relatively) low by using paraprofessionals (for example, recent college graduates) to provide the tutoring. Although certified classroom-teaching expertise is required for teaching a class of 25, trained college graduates can effectively tutor a group of two students. The results are impressive: participating students learned one to two additional school years of mathematics in a single year.These high-dosage programs are much more effective than low-dosage volunteer tutoring provided weekly or on an ad hoc basis, which have not been shown to have any significant effect on academic progression. Broader research on tutoring finds that it has the greatest impact on reading abilities in the early years (especially in kindergarten and first grade) but more impact in math performance in later grades. Tutoring conducted during school hours is more effective than tutoring after school, and tutoring using teachers or paraprofessionals is more effective than that using volunteers or parents.
+
+
+It’s unclear whether remote tutoring can have the same impact as in-person sessions, but several school systems are running experiments. For example, the Broward County Public Schools district is implementing and assessing several remote tutoring programs, including targeted high-intensity algebra tutoring for high schoolers through an external partnership with Saga Education, as well as “Ask BRIA” (Broward Remote Instructional Assistance)—a locally developed, broad-based interactive video homework helpline available to every K–12 student. The  is working to scale quality tutoring nationwide through increased funding, clear quality standards, and communities of practice. Universities and school districts partner to leverage successful math-tutoring strategies, creating a national education-service program that gives college students credit to tutor K–12 students through a targeted curriculum.Acceleration not remediation: Exposure to grade-level contentA key factor fueling disparity in achievement is disparity in teaching. Teachers who follow evidence-based best practices in curriculum and pedagogy are most likely to foster academic progression. When helping students catch up on lost learning, it’s critical for instructors to keep them immersed in grade-level content. That might seem counterintuitive. Shouldn't teachers “meet students where they are”? However, recent research from the New Teacher Project suggests that well-intentioned approaches that pull students out of grade-level instruction to “reteach” earlier-grade content can reinforce low expectations and create vicious cycles of underachievement.
+
+
+ The better approach is for instructors to provide exposure to grade-level content, while scaffolding students with “just-in-time support” so they can access such content.
+
+
+ This is a natural way of prioritizing the building-block content from previous grades that is required to progress.For example, the Mississippi Department of Education has provided professional development and webinars to teachers, shifting from a deficit model toward accelerated learning—starting with teaching grade-level standards. Meanwhile, the Highline Public Schools district in the state of Washington has identified the essential “essential standards” to provide just-in-time scaffolding to students, creating sample units demonstrating how to implement this grade-level teaching approach. Teachers and schools around the country set high expectations for every student, exposing them to grade-level learning with the scaffolding they need to succeed.The COVID-19 pandemic has both illuminated and magnified the persistent disparities between different races and income groups in the United States. In education, attention has largely focused on the achievement gap, which is widening because of the pandemic. But to address the achievement gap, schools must focus on underlying opportunity gaps. The pandemic has forced the most vulnerable students into the least desirable learning situations with inadequate tools and support systems to navigate them. In the spring, that was perhaps an inevitable consequence of being thrust into a sudden unpredictable crisis. With the knowledge and systems we now have in place, allowing this to continue is unacceptable.One of the distinguishing drivers of US success is Americans’ ability to innovate and mobilize around ambitious goals. That drive made the country spend $250 billion to put a human on the moon in 1969 and has made the United States a magnet for talent from around the world. A similar investment and focus on innovation is needed now in education—with deeper collaboration across public, private, and social sectors. Currently, the United States ranks 36th in math and 13th in reading in the Programme for International Student Assessment (PISA) rankings. With many other OECD countries having resumed in-person learning, the United States risks falling further behind relative to other nations. Even more important than national competitiveness, of course, is the imperative to provide every child with an opportunity to succeed. While the COVID-19 pandemic has forced this generation of students to face challenges that could shape the rest of their lives, it could also inspire a new moonshot to bring excellence and equity to an education system that’s already left too many students behind.

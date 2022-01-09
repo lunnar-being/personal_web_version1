@@ -1,0 +1,559 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Standard individual export licences (SIELs)
+  
+
+  
+  
+  
+      
+  You can use a SIEL to make shipments of specified military or dual-use items to a named consignee and/or end user. 
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Export Control Joint Unit and Department for International Trade
+
+      
+      Published
+      12 September 2012
+      Last updated
+      
+        9 December 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction
+
+        
+        
+          Check if your items are controlled
+
+        
+        
+          When to use a SIEL
+
+
+        
+        
+          
+SIELs for temporary exports
+
+        
+        
+          What you need to apply for a SIEL
+
+
+        
+        
+          Supporting documents for SIEL applications
+
+        
+        
+          Applying for a SIEL
+
+
+        
+        
+          Exporter responsibilities
+
+        
+        
+          How licences are assessed
+
+        
+        
+          Licence processing time
+
+        
+        
+          Terms and conditions
+
+        
+        
+          Customs declarations when exporting outside the UK
+
+        
+        
+          Compliance
+
+        
+        
+          Penalties and fines
+
+        
+        
+          Subscribe to notices to exporters
+
+        
+        
+          Contact ECJU
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Introduction
+
+A standard individual export licence (SIEL), issued by the Export Control Joint Unit (ECJU), permits the export of certain strategic controlled items.
+
+A SIEL is specific to an exporter and allows shipments of a stated quantity of specified items to a named consignee or end-user. A consignee is an entity who first receives the items. The end-user is the entity which uses the items or incorporates them into another product or a higher-level system. You will need appropriate supporting documentation to get a SIEL.
+
+Check if your items are controlled
+
+Check if your items are controlled and find the appropriate control entry using:
+
+
+  the consolidated list of strategic military and dual-use item that require export authorisation
+
+  the OGEL and Goods Checker Tools database
+
+
+
+You may need a licence under end-use controls or if your export is subject to trade sanctions or embargoes even if your items are not controlled.
+
+Check the military and dual-use guides for further information about end-use controls.
+
+Check if your export is subject to trade sanctions, arms embargoes, and other trade restrictions.
+
+When to use a SIEL
+
+
+A SIEL might be the right licence for you if:
+
+
+  you cannot comply with the specified terms and conditions of an open general export licence (OGEL)
+
+  you plan to export a specific quantity of items to a specified consignee or end-user
+  you can submit appropriate supporting documentation such as a completed end-user undertaking, or stockist undertaking with your application
+
+
+If you cannot supply supporting documentation ECJU will not be able to grant you a SIEL.
+
+SIELs for permanent exports are generally valid for 2 years or until the quantity specified has been exported, whichever occurs first.
+
+If you are likely to be exporting similar items regularly to the same customer in the future, you should consider an open individual export licence (OIEL).
+
+
+It is a criminal offence to export controlled goods without the correct licence. Check information on penalties which vary depending on the nature of the offence.
+
+
+
+SIELs for temporary exports
+
+You may need a SIEL which is specific for temporary export if you are exporting on a temporary basis. For example for exhibition, demonstration, trial, repair, maintenance or evaluation.
+
+A SIEL for temporary export is generally valid for one year only. The items must be returned to the UK before the licence expires.
+
+An end-user undertaking form is generally not required when applying for a SIEL for temporary export.
+
+What you need to apply for a SIEL
+
+
+To apply for a SIEL you must:
+
+
+  have a UK registered address on Companies House
+  have an account on SPIRE, the online export licensing system
+
+  be able to specify the items for export, their quantity, and their destination (consignee and/or end-user)
+  have the appropriate supporting documentation to submit with your application
+
+
+When applying for a SIEL on SPIRE you must ensure that you:
+
+
+  describe the items in detail, including model or type numbers where appropriate
+  include the quantity or amount of each type of item being exported
+  include the value of each item or goods in pounds sterling, even if the value is only nominal
+  specify the destination of items and provide full details of the consignee and/or the end-user of the items
+  describe how the items are to be used by the consignee and/or the end-user
+
+
+Supporting documents for SIEL applications
+
+Your application on SPIRE must include:
+
+
+  the unique technical specification of the items
+  an accurate and correct undertaking form, completed and signed by the end-user
+
+
+When the customer is a foreign government, a copy of the government purchase order or contract may be accepted instead of an undertaking form.
+
+
+Check additional supporting documentation requirements for SIEL applications when exporting firearms, ammunition and related equipment from Great Britain or Northern Ireland.
+
+
+End-use undertakings
+
+There are various types of undertaking forms. The one that you need to submit in support of your application on SPIRE, depends on circumstances.
+
+You must complete and submit:
+
+
+  an end-user undertaking (EUU) form if the items are being shipped for their end-use or if an end-user is incorporating the items, such as installing them into another product or high-level system
+  
+stockist undertaking (SU) form if the items will be held in stock for future delivery or re-sale
+  
+end-user certificate (EUC) if you are exporting chemicals listed in schedule 3 of the Chemical Weapons Convention (CWC) to an end-user in a non-ratified country
+
+
+We will accept undertakings with digital/electronic signatures, following a change to the export licence processing arrangements due to coronavirus (COVID-19). You must retain the original undertaking for your records. We reserve the right to request the original document, if necessary.
+
+Applying for a SIEL
+
+
+
+Apply for a SIEL using SPIRE.
+
+
+Read further guidance on how to use SPIRE to apply for an export licence for controlled goods, software and technology.
+
+Exporter responsibilities
+
+It is your responsibility to:
+
+
+  have the right licence in place before you export
+  comply with all terms and conditions of the licence
+  submit the undertaking and covering letter ensuring they are:
+    
+      completed legibly, in English and signed by an appropriate responsible official
+      attached as a copy to the licence application
+      retained as original versions in your records
+    
+  
+
+
+How licences are assessed
+
+We assess all licence applications on a on a case-by-case basis against the Strategic Export Licensing Criteria. The Criteria provides a thorough risk assessment framework. We will not grant a licence when it is inconsistent with the Criteria. Applications for countries subject to sanctions or embargoes are also considered against trade sanctions, arms embargoes, and other trade restrictions.
+
+In reaching a decision on an application, the Department for International Trade receives advice from several departments, including the Ministry of Defence and the Foreign, Commonwealth and Development Office.
+
+Licence processing time
+
+We aim to provide a decision on 70% of SIEL applications within 20 working days, and 99% within 60 working days. These targets apply once the applicant has supplied the documentation necessary to begin the assessment of their application. Where further information is requested by ECJU, your time to provide that information is not counted against the targets.
+
+Processing licences for sanctioned or highly sensitive destinations is likely to take significantly longer than the standard 20 working day target.
+
+Strategic export controls: licensing data provides information on decisions and processing times for licence applications.
+
+Processing delays can occur if for example an exporter:
+
+
+  fails to provide a technical specification or undertaking
+  submits an incorrect or incomplete undertaking
+
+
+Terms and conditions
+
+You must read and follow the terms and conditions of your licence. You must maintain records of all transactions carried out under your licence.
+
+Export licences are not transferable to another exporter.
+
+Only ECJU can amend, suspend or revoke a licence.
+
+
+You must check whether you need to declare goods you take out of the UK.
+
+
+Customs declarations when exporting outside the UK
+
+SIEL conditions require you, the licensee, to submit a customs declaration before all exports to destinations outside the UK except if you are exporting from Northern Ireland to the EU customs territory.
+
+This declaration must quote the export licence number.
+
+You must quote the licence number to HM Revenue & Customs (HMRC) officials when items are presented for export. If the HMRC official has instructed you of any alternative arrangements, then you must comply with those.
+
+Exporting from Northern Ireland to the EU customs territory
+
+No pre-export customs declaration is required.
+
+However, you must fulfil SIEL conditions which require that you:
+
+
+  
+    notify HMRC officials at least 3 days before the proposed date of export by emailing one of the following:
+
+    
+      it.audit.south.district@hmrc.gov.uk
+      the relevant large business (LB) customer region
+
+    
+  
+  specify a place for HMRC goods inspection
+  include a copy of the licence with shipping documents when the items are exported
+
+
+Compliance
+
+ECJU has a statutory right to inspect export records to ensure the correct use of licences. Our compliance officers visit companies holding export licences. They ensure licence conditions are met in compliance with export control legislation.
+
+See our compliance code of practice and find out more about compliance visits.
+
+You will receive compliance visits if you hold SIELs for electronic transfers of software or technology.
+
+Penalties and fines
+
+Breaching export controls is a criminal offence. Penalties can vary depending on the nature of the offence.
+
+They include:
+
+
+  revocation of licences
+  seizure of goods
+  issuing of a compound penalty fine
+  imprisonment for up to 10 years
+
+
+If you receive a compliance warning letter you must comply with any conditions stated in the letter within the timescales provided, or your licence may be revoked. Serious cases of breaches or non-compliance may be prosecuted by HMRC. 
+
+See how to report any licensing irregularities to HMRC voluntarily.
+
+Subscribe to notices to exporters
+
+Sign up to our notices to exporters email alert service to keep up-to-date with changes to export licences or legislation.
+
+Contact ECJU
+
+
+    Helpline
+
+    
+      Export Control Joint UnitDepartment for International Trade
+Old Admiralty Building
+Admiralty PlaceLondonSW1A 2DY
+    
+
+    
+        
+          Email exportcontrol.help@trade.gov.uk
+        
+
+
+        
+          Telephone 020 7215 4594
+        
+    
+
+    Contact for general queries about strategic export licensing.
+
+
+
+
+
+
+
+      
+        
+    Published 12 September 2012
+    Last updated 9 December 2021
+      + show all updates
+      
+        
+            
+              9 December 2021
+              Updated reference and link in 'How licences are assessed' from Consolidated EU and National Arms Export Licensing Criteria to Strategic Export Licensing Criteria.
+            
+            
+              22 April 2021
+              Content restructured. Addition of new sections on when you can use a SIEL, what you'll need, how long it takes to get a licence, exporter responsibilities, customs declarations, compliance and legal obligations.
+            
+            
+              12 September 2012
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        End-user certificate (EUC) for Chemical Weapons Convention Schedule 3 chemicals to states not party to the convention
+        End-user undertaking (EUU) form
+        Exporting firearms
+        Controls on radioactive sources
+        Export controls: dual-use items, software and technology, goods for torture and radioactive sources
+
+  
+
+
+
+
+      
+
+    Detailed guidance
+
+  
+
+
+        Transhipment licences
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Import and export controls
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Export controls and licensing
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

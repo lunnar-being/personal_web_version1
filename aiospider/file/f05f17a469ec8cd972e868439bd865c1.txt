@@ -1,0 +1,262 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Data ethics and AI guidance landscape
+  
+
+  
+  
+  
+      
+  This page collates the various existing ethical principles for data and AI, developed by government and public sector sector bodies. It intends to provide clarity and guidance for public servants working with data and/or AI.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Digital, Culture, Media & Sport
+
+      
+      Published
+      21 July 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+
+  
+    
+      Product
+      Creator
+      Description
+      Who is it for?
+      Last updated
+    
+  
+  
+    
+      Data Ethics Framework
+      Department for Digital, Culture, Media and Sport (DCMS) and Government Digital Service (GDS)
+      The Data Ethics Framework guides appropriate and responsible data use in government and the wider public sector. It helps public servants understand ethical considerations, address these within their projects, and encourages responsible innovation.
+      For anyone working directly or indirectly with data in the public sector, including data practitioners (statisticians, analysts and data scientists), policymakers, operational staff and those helping produce data-informed insight, to ensure the highest ethical standard of their projects.
+      August 2018
+    
+    
+      A guide to using AI in the public sector
+      Office for AI, Government Digital Service and the Alan Turing Institute
+      The guide to using AI in the public sector is a guide on how to choose, build and use AI in the public sector to ensure that government is maximising the benefits of such technology.
+      For public servants deciding whether AI is the right solution in their project and looking for information on how to use AI safely and ethically.
+      June 2019
+    
+    
+      AI procurement guidelines
+      Office for AI and World Economic Forum
+      The AI procurement guidelines are a guide that addresses the ethical uncertainty around AI procurement so that officials feel equipped to use innovative technology whilst being able to mitigate risks.
+      For public servants and commercial specialists procuring AI. The guidelines set a baseline for the harmonisation of AI procurement standards.
+      June 2020
+    
+    
+      UKSA Self-assessment
+      UK Statistics Authority
+      The UK Statistical Authority’s self-assessment aims to offer researchers an easy-to-use framework to review the ethics of their projects throughout the research cycle. The self-assessment provides a timely means to identify ethical issues and shape future discussions. The process aims to support an accurate and consistent estimation of the ethical risk  of research proposals.
+      For public servants creating statistical research projects.
+      May 2019
+    
+    
+      Code of conduct for data-driven health and care technology
+      Department of Health and Social Care (DHSC)
+      The code of conduct is a guide that tackles a number of emerging ethical challenges associated with the use of data-driven technologies in the NHS and the wider health and care system. It applies data ethics to the specific sensitivities and challenges of the health care system. The code of conduct aims to ensure that the NHS capitalises on the possible technical benefits for users and staff.
+      For public servants involved in health-care specific projects who are considering the use of data-driven technologies in their work.
+      July 2019
+    
+    
+      NHSX: A Buyer’s Checklist for AI in Health and Care
+      NHSX
+      The Buyer’s Checklist for AI in Health and Social Care is a short reference checklist to assist the decision-making of those responsible for procuring AI solutions in their organisations.
+      For procurement officials working in health and social care; for chief finance officers, service transformation and commissioning leads, in-house data scientists and analysts and other chief officers considering procurement of AI solutions.
+      May 2020
+    
+    
+      Intelligent security tools
+      National Cyber Security Centre (NCSC)
+      The NCSC’s intelligent security tools provide guidance on using AI tools in the security sector. Consideration of intelligent security tools is divided into four sections, each with a series of questions designed to aid users.
+      For public servants looking to use an off the shelf security tool that employs AI as a core component. It may also be of use to those developing in-house AI security tools or when considering AI for some non-security business function.
+      April 2019
+    
+    
+      The Dstl Biscuit Books
+      Defence, Science and Technology Laboratory (DSTL)
+      The Biscuit Books explain some of the most common terminology in artificial intelligence and data science in an informative and accessible way. These guides are arranged as a series of easily digestible chunks, each covering a topic in a manner that provides the essential information without being too technical.
+      For public servants looking for a non-technical, easily-digestible guide to AI, data science and machine learning.
+      December 2019
+    
+    
+      The Magneta Book
+      Her Majesty’s Treasury (HMT)
+      The Magneta Book provides guidance on evaluation in government. It focuses on the scoping, design, conduct, use and dissemination of evaluations as well as the capabilities required of government evaluators. It provides guidance on how to incorporate evaluation through the design, implementation, delivery and review stages of policy making. It also explains how results can be interpreted and presented, and what should be considered in this process.
+      For the policy, delivery and analytical professions, all of which are responsible for securing and using good evidence.
+      March 2020
+    
+    
+      Analytical Quality Assurance Book (AQuA)
+      Her Majesty’s Treasury (HMT)
+      The Aqua Book is a good practice guide on analysis and analytical models. It was created by a cross-departmental working group on analytical quality assurance.
+      For those working with analysis and analytical models.
+      March 2015
+    
+    
+      Service Standard - Service Manual
+      Government Digital Service (GDS)
+      The Service Standard is a 14-point manual to helps teams to create and run great public services. The Service Manual focuses on user needs, as well as the team involved in the project and how to create the service.
+      For civil servants creating public services using data and AI.
+      June 2019
+    
+  
+
+
+Multilateral guidance
+
+
+  
+    
+      Product
+      Creator
+      Description
+      Who is it for?
+      Last updated
+    
+  
+  
+    
+      OECD principles on AI
+      OECD
+      The five values-based OECD principles on AI promote artificial intelligence (AI) that is innovative and trustworthy and that respects human rights and democratic values. They were adopted in May 2019 by OECD member countries (including the UK).
+      For policymakers working in data, AI, and international relations.
+      May 2019
+    
+    
+      G20 AI principles
+      G20
+      The G20 AI principles draw from and agree with the OECD principles and recommendations.
+      For policymakers working in data, AI, and international relations.
+      June 2019
+    
+  
+
+
+
+
+
+      
+        
+    Published 21 July 2020
+
+
+
+          
+      
+
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        How the Ministry of Justice used AI to compare prison reports
+        Using natural language processing to structure market research
+        A guide to using artificial intelligence in the public sector
+        How DFID used satellite images to estimate populations
+        Natural language processing for Land Registry documentation in Sweden
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

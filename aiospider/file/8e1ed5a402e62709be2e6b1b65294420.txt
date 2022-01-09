@@ -1,0 +1,539 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Responding to buyer requirements on the Digital Outcomes and Specialists framework
+  
+
+  
+  
+  
+      
+  How to find opportunities if you supply services on the Digital Marketplace, includes how to provide evidence and the standards your services need to meet.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Government Digital Service
+
+      
+      Published
+      1 June 2016
+      Last updated
+      
+        14 September 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Apply for an outcomes, specialists or user research participants opportunity
+
+        
+        
+          Writing evidence
+
+        
+        
+          Apply for a user research studios opportunity
+
+        
+        
+          How to provide services
+
+        
+        
+          Responsibilities when you’re on the framework
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This guidance is for suppliers who have been accepted onto the Digital Outcomes and Specialists framework.
+
+Find out how to apply to provide digital services on the Digital Marketplace.
+
+Apply for an outcomes, specialists or user research participants opportunity
+
+1. View opportunities
+
+You can view all published opportunities on the Digital Outcomes and Specialists opportunities page on the Digital Marketplace. You’ll also receive notifications when new opportunities are posted.
+
+Each opportunity includes the buyer’s requirements for the work and the criteria and assessment methods they’ll use to evaluate suppliers.
+
+2. Ask questions about an opportunity
+
+If you need to clarify something in the opportunity, you can ask the buyer a question, also known as a ‘clarification’ question.
+
+Go to the opportunity on the Digital Marketplace to:
+
+
+  ask a question
+  view questions from other suppliers
+
+
+Each opportunity shows the last date you can ask questions. The buyer must publish all questions and answers at least one working day before the application deadline.
+
+The buyer may use the questions and answers section on the opportunity page to make small changes to their requirements, for example they may correct an error or communicate an update like a webinar date change. You should check this section regularly.
+
+Read how buyers answer supplier questions.
+
+3. Apply for an opportunity
+
+You need to provide:
+
+
+  evidence of the essential and nice-to-have skills and experience you have for the opportunity
+  a contact email address
+  a start date
+  your day rate (specialists only)
+
+
+The opportunity has to be in the category of service (‘lot’) that you applied to sell on the Digital Marketplace. For example, you cannot apply for a digital specialists opportunity if you only applied to provide digital outcomes services.
+
+If you’re a digital specialists supplier, you can only apply for roles that you chose when you applied to the framework. You’ll have to add a role if - for example - you want to apply to provide a delivery manager role but you only chose to provide agile coach roles when you applied to the framework.
+
+Contact Crown Commercial Service to add a new specialist role, for example delivery manager, to your services.
+
+
+Crown Commercial Services
+cloud_digital@crowncommercial.gov.uk
+
+
+You can only:
+
+
+  apply once for each opportunity
+  put forward 1 specialist for each specialist opportunity
+
+
+If you do not say you have all the essential skills and experience listed, you will not be eligible for this opportunity and you’ll be excluded from the application process.
+
+Writing evidence
+
+Buyers find it easier to understand how your skills and experience match their needs if you provide evidence that includes specific examples of work you’ve done or skills you’ve used in the past.
+
+Be specific about:
+
+
+  what the situation was
+  the work you did
+  what the results were
+
+
+You should only provide one example for each essential or nice-to-have requirement (unless the buyer specifies otherwise). Use up to 100 words for each bit of evidence.
+
+You can reuse examples across different essential or nice-to-have requirements if you need to.
+
+Here’s an example of well-written evidence that clearly describes the situation, the work done and the results.
+
+
+  
+    
+      Buyer requirement
+      Bad evidence
+      Good evidence
+    
+  
+  
+    
+      The delivery manager must have experience creating and implementing a booking system
+      The proposed specialist has extensive experience creating and implementing booking systems
+      The admin and IT teams in a county hospital were suffering with an old Windows 7 booking system that was frustrating to use and maintain. One of our highly skilled delivery managers was employed to create a new system that properly met users’ needs and was easy to manage. Over 4 months, they analysed user needs, involved stakeholders, created a plan and implemented a new web-based system. Before releasing it, they conducted user acceptance tests, documented the system and trained staff on it. Now, bookings are easier and quicker to manage and the IT team hardly needs to be involved.
+    
+  
+
+
+4. The buyer shortlists suppliers
+
+Buyers say how many suppliers they’ll take through to the evaluation stage in their requirements.
+
+The buyer will score supplier applications to reduce the number of applications to the number they’ve said they’ll evaluate. They’ll do this based on:
+
+
+  whether the day rate is within their budget (specialists only)
+  whether the supplier can start by the latest start date in their requirements
+  the number of nice-to-have requirements suppliers say they have
+  the evidence the suppliers provide of their skills and experience
+  how well the supplier meets any other shortlisting criteria
+
+
+The suppliers who provide the highest-scoring evidence and have the most nice-to-have skills and experience will be taken through to the evaluation stage.
+
+Read more about how buyers shortlist suppliers.
+
+5. The buyer evaluates the shortlisted suppliers
+
+At the evaluation stage, the buyer will assess your application using some or all of the assessment methods they included in the opportunity, for example a work history or a written proposal.
+
+Read more about:
+
+
+  assessment methods buyers can use
+  how buyers evaluate
+
+
+If you’re shortlisted, the buyer will contact you and invite you to the evaluation stage and tell you what information you need to provide and when.
+
+The buyer will score your application based on the criteria and weightings they published in the opportunity. Read more about how buyers score.
+
+The winning supplier is the one with the highest overall score.
+
+If 2 suppliers have the same score, the buyer may ask you for your best and final price.
+
+6. The buyer awards a contract and gives feedback to unsuccessful suppliers
+
+The buyer will award a contract (or ‘call-off’) to the supplier with the highest score. Read:
+
+
+  how buyers award a contract
+  how buyers manage a contract
+
+
+The buyer will provide unsuccessful and successful suppliers with feedback.
+
+The buyer does not have to award a contract if they cannot find a suitable supplier. They may choose to review what they need and then post a new opportunity on the Digital Marketplace.
+
+The buyer should tell you if:
+
+
+  they have not found a supplier that meets their needs
+  they’re not going to award a contract
+
+
+Read more about the digital outcome, specialist and user research participant services buying process.
+
+Apply for a user research studios opportunity
+
+Applying for a user research studios opportunity is different from applying to digital outcomes, specialists and participant recruitment opportunities. Instead of using the Digital Marketplace, buyers will contact you directly if they think your studio could meet their needs.
+
+1. The buyer decides what they need
+
+The buyer decides what their requirements are. They should think about what they need, and when and where they need it.
+
+2. The buyer downloads the list of user research studios from the Digital Marketplace
+
+The list of user research studios includes information you provided when you applied to the Digital Outcomes and Specialists framework.
+
+3. The buyer shortlists suppliers
+
+The buyer creates a shortlist by using their requirements to filter the list of studios.
+
+4. The buyer contacts all the studios on their shortlist
+
+The buyer will contact you directly if they think you could meet their needs. They’ll tell you:
+
+
+  what facilities they need, for example size of viewing room or eye tracking software
+  any assisted digital or accessibility needs of their research participants
+  where they want the research to take place
+  when and how often they want the research to take place
+  which requirements are essential and which are nice-to-have
+  how they’ll evaluate your user research studio on technical competence and price
+  how they’ll weight your availability, location, facilities, accessibility and price
+  when you need to respond by
+
+
+5. Ask questions about the opportunity
+
+If you need to clarify something in the opportunity, you can ask the buyer a question. You do this by emailing the buyer with the contact details they provide you. The buyer must answer all supplier questions at least one working day before the application deadline. They will share all questions and answers with all shortlisted suppliers.
+
+6. Apply to the opportunity
+
+Email the buyer, using the contact details they provide, to tell them:
+
+
+  if the studio is available when they need it
+  if you meet their essential requirements
+  which nice-to-have requirements you meet
+  how much the studio will cost to hire
+
+
+7. The buyer evaluates supplier responses
+
+After the closing date, the buyer will review all supplier responses. The buyer can exclude you if:
+
+
+  you do not have a studio available when they need it
+  you do not meet their essential requirements
+  the cost of your studio exceeds their budget
+
+
+The buyer will evaluate the remaining applications based on the criteria and weightings they told you about in step 4. They will evaluate and score your:
+
+
+  availability
+  technical competence, which is based on studio location, facilities and accessibility
+  price
+
+
+The buyer may visit your studio before they award a contract or before the studio is used.
+
+If 2 suppliers have the same score, the buyer may ask you for your best and final price.
+
+8. The buyer awards a contract and gives feedback to unsuccessful suppliers
+
+The buyer will award a contract to the supplier with the highest score. Read:
+
+
+  how buyers award a contract
+  how buyers manage a contract
+
+
+The buyer will provide unsuccessful and successful suppliers with feedback.
+
+The buyer does not have to award a contract if they cannot find a suitable supplier. They may choose to review what they need and then post a new opportunity on the Digital Marketplace.
+
+The buyer should tell you if:
+
+
+  they have not found a supplier that meets their needs
+  they’re not going to award a contract
+
+
+Read more about the user research studios buying process.
+
+How to provide services
+
+Methodologies
+
+You should plan on using an agile process, starting with user needs. The methodology that should be used on each project will be outlined in the ‘statement of work’.
+
+You should only use waterfall methodology in exceptional circumstances, and where it can be shown to better meet user needs. Projects may need the best of both waterfall and agile methods.
+
+You can read guidance on using agile in the service design manual and the technology code of practice.
+
+Standards
+
+You must support buyers:
+
+
+  through successful Service Standard assessments
+
+  to develop services based on open standards and accessible data protocols
+  to comply with any standards that are compulsory in government
+
+
+
+Security
+
+If requested by the buyer, you must work according to the Baseline Personnel Security Standard (BPSS). Additional levels of security clearance may be required by the buyer at the contract stage and may include:
+
+
+  Security Check (SC)
+  Developed Vetting (DV)
+  Counter-Terrorist Check (CTC)
+
+
+The buyer can also request that you work according to:
+
+
+  the supplier assurance framework for contracts at the ‘Official’ information security level
+  any relevant security guidance
+
+  the Cyber Essentials scheme
+
+  the Government Security Classifications
+
+
+
+Code of conduct
+
+You should also comply with the Civil Service conduct and guidance.
+
+Responsibilities when you’re on the framework
+
+Suppliers on the Digital Marketplace must meet obligations while they’re on their framework, for example providing monthly management information (MI) returns to CCS using the Report Management Information (RMI) system.
+
+Read more about your responsibilities as a supplier.
+
+
+
+
+
+      
+        
+    Published 1 June 2016
+    Last updated 14 September 2020
+      + show all updates
+      
+        
+            
+              14 September 2020
+              Edited example of well-written evidence
+Amended user research labs to user research studios
+            
+            
+              27 June 2019
+              Guide improved for clarity. Title has been changed to 'Responding to buyer requirements on the Digital Outcomes and Specialists framework'. Information has been added about service standards as a supplier under the heading 'Responsibilities when you’re on the framework'. Information about responsibilities as a CCS supplier has been added under the heading 'How to provide services'.
+            
+            
+              14 July 2016
+              You can only put forward one specialist per role.
+            
+            
+              1 June 2016
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Applying to the Digital Outcomes and Specialists framework
+
+  
+
+
+
+
+      
+
+    Detailed guidance
+
+  
+
+
+        Applying to the Digital Outcomes and Specialists framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Government spending
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

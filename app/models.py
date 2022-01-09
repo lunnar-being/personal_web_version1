@@ -104,7 +104,7 @@ class PolicyText(db.Model):
     # tech_word_list = Column(JSON)  # 技术词列表
     translated_keywords = Column(TEXT)  # 翻译后的关键词
     title = Column(TEXT, nullable=False)  # 原始标题
-    # translated_title = Column(TEXT)  # 中文标题
+    translated_title = Column(TEXT)  # 中文标题
     abstract = Column(TEXT)  # 摘要
     translated_abstract = Column(TEXT)  # 翻译后的摘要
     # file_url = Column(TEXT)  # 文件来源url
@@ -121,6 +121,10 @@ class PolicyText(db.Model):
     entity_time = Column(TEXT)
     entity_policy = Column(TEXT)
     score = Column(FLOAT)  # 评分
+    source_classification = Column(VARCHAR(255))
+    CHN = Column(INTEGER)
+    recommend = Column(FLOAT)
+    topic_classification = Column(VARCHAR(255))
     # spider_condition = db.Column(INTEGER)  # 0 pdf, 1 html
     # doc_type = db.Column(VARCHAR(20))  # 'report', 'strategy', ''
     # create_time = Column(TIMESTAMP, server_default=text('CURRENT_TIMESTAMP'))  # 上传时间
@@ -200,6 +204,24 @@ class Statistic(db.Model):
 
     def __repr__(self):
         return f"<Statistics {self.id} {self.site}>"
+
+
+class Collect(db.Model):
+    """
+    统计
+    """
+    __tablename__ = 'collect'
+    __table_args__ = {'extend_existing': True}
+
+    id = Column(INTEGER, primary_key=True)  # id，主键
+    last_time = Column(DateTime, nullable=False)  # 上次爬取时间
+    name = Column(TEXT, nullable=False,primary_key=True)
+    new_title = Column(TEXT, nullable=False)
+
+    def __repr__(self):
+        return f"<Collect {self.name} {self.last_time}>"
+
+
 
 if __name__ == '__main__':
     # db.create_all()

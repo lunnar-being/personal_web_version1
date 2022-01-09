@@ -1,0 +1,275 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Test manager
+  
+
+  
+  
+  
+      
+  Find out what a test manager does and the skills you need to do the job.
+
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      7 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of test manager
+
+        
+        
+          Test manager
+
+        
+        
+          Head of test
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This describes the role of a test manager and the skills required, including:
+
+
+  an introduction to the role, telling you what you would do in this role and the full list of skills
+  a description of the levels in this role, from test manager to head of test, specifying the skills you need for each level and the corresponding skill level (awareness, working, practitioner, expert)
+
+
+This role is part of the Digital, Data and Technology Profession in the Civil Service.
+
+Introduction to the role of test manager
+
+A test manager takes ownership of the quality assurance and testing (QAT) strategy as part of a broader risk-based approach.
+
+Skills required to be a test manager
+
+You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.
+
+
+  
+Functional testing. You can analyse changes to the development of products and services and plan design. You know how to run and manage appropriate tests to ensure that requirements have been fully met. You understand and can identify the most effective techniques, data sets and tools to use. You can communicate defects or trends clearly to software developers, outlining how defects are identified and the possible causes. You can design, or provide assurance for, appropriate risk-based end-to-end system integration test models.
+  
+Non-functional testing. You know how to analyse changes to or the development of products and services. You can plan design in a non-functional environment. You know how to run and manage appropriate non-functional tests to ensure that requirements have been fully met. You understand and can identify the most effective techniques, data sets and non-functional testing tools. You can communicate defects or trends clearly to software developers, outlining how defects are identified and possible causes. You can design or provide assurance for appropriate risk-based end-to-end system integration test models.
+  
+Technical breadth. You know how to use a range of contemporary technologies including cloud platforms, open source and ‘aaS’ services to better enable and enhance the delivery of QAT services. You stay abreast of industry developments to make cost-effective use of new and emerging tools and technologies. You can use a breadth of knowledge from across the wider technology and digital professions, strengthening the effective delivery of services. You have relevant professional awareness, which may include architecture, continuous integration and deployment, coding or scripting languages.
+  
+Test analysis. You know how to visualise, articulate and solve complex problems and concepts. You can make disciplined decisions based on available information. You can apply logical thinking and gather and analyse information using a range of tools and techniques. You know how to use data to formulate both short-term and long-term strategic plans, identify and analyse options, and assess feasibility and operational impact. You can ensure that the business solution aligns with the vision, mission, objectives, strategy and the business and user needs. You can identify and recognise a viable solution or control.
+
+
+Test manager
+
+A test manager takes ownership for delivery, creates the strategy and leads its implementation.
+
+Test managers:
+
+
+  are responsible for test improvement and optimisation
+  may promote and advocate test capabilities internally and outside the government
+  take responsibility for talent, succession planning and supplier management
+  make important decisions relating to test within the context of the delivery environment
+
+
+Skills needed for this role
+
+
+  
+Functional testing. You can design and execute a wide range of testing techniques and communicate test results to both technical and non-technical stakeholders. You know how to make decisions on the environment for testing and coach others. You can identify defects, alerting the business to them, and you can help prioritise them based on defect severity. (Relevant skill level: practitioner)
+  
+Non-functional testing. You know about non-functional testing techniques. You can execute non-functional test scenarios and identify defects. You can run non-functional tests others have written and know the processes to do so. You understand a range of standard non-functional testing techniques. (Relevant skill level: awareness)
+  
+Technical breadth. You have a good working knowledge of different tools and techniques and can train others. You can advise others on testing techniques and frameworks. You know how to research, plan and train others within the team. (Relevant skill level: practitioner)
+  
+Test analysis. You can think creatively, ask the right questions and critically evaluate and communicate findings to a larger team. You know how to lead investigative work into problems and opportunities in existing processes. You can drive the collection of information and creation of recommendations for improvements. You can absorb large amounts of conflicting information and use it to determine solutions. (Relevant skill level: practitioner)
+
+
+Head of test
+
+A head of test takes ownership for establishing policy for the test team and setting the testing strategy. At this level, you:
+will own continuous improvement, research new technology and new techniques to implement change
+will make important decisions
+will build the QAT community and provide organisational leadership
+may advocate test capabilities both internally and outside of government
+make sure that teams have the right capabilities
+
+Skills needed for this role
+
+
+  
+Functional testing. You can design and execute a wide range of testing techniques and communicate test results to both technical and non-technical stakeholders. You know how to make decisions on the environment for testing and coach others. You can identify defects, alerting the business to them, and you can help prioritise them based on defect severity. (Relevant skill level: practitioner)
+  
+Non-functional testing. You know about non-functional testing techniques. You can execute non-functional test scenarios and identify defects. You can run non-functional tests others have written and know the processes to do so. You understand a range of standard non-functional testing techniques. (Relevant skill level: awareness)
+  
+Technical breadth. You have a good working knowledge of different tools and techniques and can train others. You can advise others on testing techniques and frameworks. You know how to research, plan and train others within the team. (Relevant skill level: practitioner)
+  
+Test analysis. You can think creatively, ask the right questions and critically evaluate and communicate findings to a larger team. You know how to lead investigative work into problems and opportunities in existing processes. You can drive the collection of information and creation of recommendations for improvements. You can absorb large amounts of conflicting information and use it to determine solutions. (Relevant skill level: practitioner)
+
+
+Read more
+
+
+  Civil Service Jobs
+  Blog: agile testing at the Home Office
+
+
+
+
+
+      
+        
+    Published 7 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Infrastructure engineer
+        Security architect
+        IT service manager
+        Service desk manager
+        Network architect
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

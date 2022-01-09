@@ -1,0 +1,114 @@
+
+
+The RAND Blog
+Previous Blog PostRussian S-400 Surface-to-Air Missile System: Is It Worth the Sticker Price?Next Blog PostDon't Make the Pandemic Worse with Poor Data Analysis
+
+Protecting the U.S. Supply on Heavy Lift Launch Vehicles
+commentary
+(The RAND Blog)
+A SpaceX Falcon Heavy rocket lifts off from historic launch pad 39-A at the Kennedy Space Center in Cape Canaveral, Florida, February 6, 2018Photo by Thom Baur/Reuters
+
+
+
+by Bonnie L. Triezenberg
+May 6, 2020
+
+
+Our recent RAND report on the global heavy lift launch market highlights the potential for a near term (2022–2025) shortage of launch vehicles needed to lift U.S. defense and intelligence satellites to orbit. These satellites are the eyes, ears, networks and timekeepers of U.S. armed services, and an inability to launch them in times of need could compromise national security. While our report describes this potential risk and recommendations for mitigating it, in this post we reflect on how the United States came to this juncture. At root, the national space security (NSS) launch story is one of delayed investment in critical infrastructure and the perils of magical thinking regarding the ability to scale deployment of critical services—whether launch systems or medical supplies.
+The Atlas and Delta launch vehicles that are the historic workhorses of national security launch were designed as ICBMs in the 1950s and later converted to launch vehicles to support U.S. efforts to put a man on the moon. Although upgraded many times since—for example the Delta used today is the fourth major redesign—government and private investment in new vehicles largely focused on “reusable space planes” in the last three decades of the 20th century. Government investment produced the space transportation system (i.e., the space shuttle) used for both government and commercial launch until the Challenger accident in 1986. Private investment then surged in the 1990s as firms pursued the shuttle's former market share but dried up when projected demand from proliferated low earth orbit constellations collapsed in 1999.
+The United States did not see another significant investment in heavy lift launch until SpaceX, aided by NASA investments in 2008, brought the Falcon 9 to market. The USAF certified the Falcon 9 for NSS launch in 2014—the first new launch vehicle to be certified since the space shuttle debut in 1981. Additional investments, begun in 2016, to modernize critical NSS launch services have yet to bear fruit. Meanwhile, the Delta is being retired from service and the USAF is prohibited from buying launch vehicles with Russian-designed or built engines after 2022, effectively pushing the Atlas out of the NSS launch market. This decades-long delay in infrastructure investment is the direct root cause of the potential supply shortage documented in our report. A RAND report on launch site infrastructure—also conducted in the summer of 2019—details the impact of similarly long-delayed investments in the critical support systems needed for launch.
+
+Perhaps because infrastructure is largely unseen, the real cost of delayed investment is often not apparent until it is almost too late.Share on TwitterPerhaps because infrastructure is largely unseen, the real cost of delayed investment is often not apparent until it is almost too late. This is not a phenomenon unique to space launch—similar stories can be found across U.S. infrastructure services from roads and bridges to personal protective equipment for our health workers.
+The human tendency to focus on final outcomes (total supply capacity) as opposed to transitions (the rate at which industry can scale production) may also explain why infrastructure investments are left until very late. As demonstrated by the current COVID-19 crisis, having an approved design for a complex engineered product is only a first step. To impact the situation today, test kits, PPE and ventilators need to be produced at scale. Time to scale, in fact, is the most critical parameter in the near-term risk equation, and also one of the most difficult to judge, since it depends both on technical execution and firm-level investment decisions.
+This is also true of the NSS launch market—it is the rate at which suppliers can scale up production, not their final production rate, that will determine the scale of the near term supply risks we highlighted. We discussed capabilities and plans with each of the market participants to develop our analysis, and our assessment was that access to a legacy system already producing at capacity would mitigate the near-term risk.
+Scaling production of a complex item like a launch system is not a trivial undertaking—if production is increased too quickly and the roll out of a new product fails, it can take years to recover. Conversely, any unnecessary delay creates unnecessary shortages of critical services. The ability to scale up production of new launch vehicles quickly while simultaneously maintaining the current unprecedented string of national security launch successes is, in our assessment, the most critical challenge facing today's U.S. Space Force launch enterprise team.
+
+Bonnie Triezenberg is a senior engineer at the nonprofit, nonpartisan RAND Corporation.
+Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Bonnie L. Triezenberg
+Senior Engineer
+
+
+
+
+
+
+Topics
+ Capacity Building
+Military Acquisition and Procurement
+Military Equipment
+Space Science and Technology
+United States
+United States Air Force
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+Assessing the Impact of U.S. Air Force National Security Space Launch Acquisition Decisions
+
+Apr 28, 2020
+Bonnie L. Triezenberg, Colby P. Steiner, et al.
+
+
+
+
+
+
+
+
+
+
+Tool
+Space Launch Market for Heavy Lift Vehicles
+
+Apr 28, 2020
+Bonnie L. Triezenberg, Jonathan Cham @JonathanKCham
+
+
+
+
+
+
+
+
+
+
+Report
+National Security Space Launch Report
+
+Jul 21, 2006
+Forrest McCartney, Peter A. Wilson, et al.
+
+
+
+
+
+
+
+

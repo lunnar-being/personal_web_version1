@@ -1,0 +1,90 @@
+
+        
+        
+        
+     and a national reckoning on racial injustice in the United States in 2020 drew attention to many disparities among Americans, including access to healthcare and outcomes in health. Those gaps continue to exist including for individuals who work for large US employers.Health equity in the workplace means that all employees have a fair and just opportunity to be as healthy as possible.
+
+
+ Large employers have long offered employer-sponsored health insurance, but now many are asking what more they can do to help employees access the healthcare and other benefits they need.
+        
+
+
+    
+    To offer guidance on that question, we analyzed data from a June 2021 survey of full-time employees at large US employers across multiple industries to understand the state of health equity within the American workforce (see sidebar “Survey methodology”). Our survey results indicate that employees of large US employers, even those earning high salaries, face healthcare disparities. For example, Black, Hispanic and Latino, Asian, and LGBTQ+ individuals were less likely to report receiving the care they needed and were more likely than the overall employee population to report considering switching employers for reasons related to benefits.
+
+
+To improve health equity, employers can take action in three areas:
+    expand benefits that help employees to meet basic needs (for example, housing and transportation)
+    ensure benefits are easy to access, understand, and use
+    change workplace culture to destigmatize receiving care
+By taking action to support health equity among employees, employers can not only build a healthier and more productive workforce but also improve employee retention, broaden impact on families over generations, and help create a more just society. Additionally, increased engagement could help employers defray long-term costs.Lack of accessible or affordable care can prompt employees to consider searching for a new jobResearch indicates that diverse teams often make better decisions and that there is a correlation between diverse organizations and outperformance.
+
+
+
+
+
+ Our survey found, however, that employers are at greater risk of losing diverse talent due to challenges these employees face in using benefits to meet their needs. In our survey, 30 percent or more of Black, Hispanic and Latino, LGBTQ+, and younger employees said they had considered switching employers due to their health benefits, even when they had access to the same benefits as other colleagues (Exhibit 1).
+
+
+ In addition, employees who reported not receiving the care they needed were two times more likely to consider switching employers and half as likely to say they would recommend their employer to friends based on benefits (Exhibit 1). These data points suggest that health equity is an important element to consider as employers create and evaluate their talent value propositions.
+    
+Health insurance and related services are typically the largest non-salary benefits employees receive. They also influence employee sentiment and feelings of inclusion. Benefits can help employees feel cared for and supported by their employer, even outside of the workplace. In our survey, diverse employees were less likely to report feeling that their current benefits showed that their employer cared about them. LGBTQ+ respondents, for example, were 1.6 times less likely to report feeling their current benefits showed that their employer cared.Inequity in employees’ ability to find, receive, and afford care for themselves and their dependents can also lead to groups of employees missing work more often or feeling less productive at work. Our survey found that people of color were more likely to report missing six or more days of work for health reasons than White respondents.
+
+
+ If Black, Hispanic and Latino, and Asian employees were able to meet their own health needs and those of their dependents while missing the same average number of days as White employees, the US economy could expand by around $20 billion—the equivalent of between 5 and 10 percent of the total cost of absenteeism, as estimated by the Centers for Disease Control and Prevention (CDC).
+
+
+
+		
+	
+Expand benefits that help employees meet basic needsThe ability to meet basic needs (for example, housing, transportation, social support, and economic stability) affects health and well-being. McKinsey’s Consumer Social Determinants of Health Survey found that individuals with a greater number of unmet basic needs often have decreased access to healthcare and lower satisfaction with the care they do receive.
+
+
+ Our survey underscores these findings, as employees with one or more unmet basic needs were around 2.4 times more likely to have not received needed physical healthcare (Exhibit 2) and to have missed six or more days of work in the past 12 months (Exhibit 3).
+    
+
+    
+We found that around 65 percent of all full-time employees of large US employers had experienced at least one unmet basic need, and 66 percent of LGBTQ+ employees experienced two or more unmet basic needs (Exhibit 4).
+
+
+ Even when controlling for income, disparities existed for people of color: 69 percent of employees of color earning less than $100,000 in household income experienced two or more unmet basic needs in the past year, compared to 49 percent of White employees in the same income bracket.
+    
+Some groups also experience specific unmet basic needs more acutely than others. For instance, Black, Hispanic and Latino, and LGBTQ+ people reported economic instability and a lack of social support, while Asian employees reported concerns over community safety.The relatively high share of employees with unmet basic needs highlights an opportunity for employers to provide additional benefits to close these gaps. Many employers recognize that employees with lower wages may struggle to pay for food, transportation, and healthcare. As one HR professional said in a survey response, “Our frontline employees have trouble balancing paying for benefits with paying for immediate needs like childcare and food.” One insurance company recently took steps to help employees balance their budgets by providing them with employer-funded debit cards that can be used to pay for food, transportation, or childcare. Others provide discounted legal services to help employees with housing, safety, or immigration needs; partner with local communities to provide subsidized transportation or housing; or offer on-site subsidized childcare to help employees meet their basic needs.Ensure that benefits are easy to access, understand, and useInterviews with HR and employee-benefits teams suggest that many large employers have room to improve how they inform employees of their available benefits and in making those benefits easy to access, understand, and use. For example, many HR teams said they recognize that emails about benefits often go unread, that employees may not have time to attend informational sessions during work hours, that employees may not have access to internal systems outside of work hours, and that spouses may not have access to these systems at all. Identifying solutions to these communication challenges can be difficult given operating models or technology constraints. Some HR professionals have used creative solutions to better engage employees, such as sending postcards to employees’ home addresses as an additional channel for mass communications or using employee resource groups and diverse leaders from across the organization to communicate important benefits-related messages. Still, many HR departments find themselves relying on ad hoc, one-on-one communications to employees with the greatest needs.When companies partner with vendors and payers (such as insurance companies) to make benefits easy to understand and navigate, employees are more likely to be able to receive the care they need. Our survey results show that diverse employees across income levels are more likely to say they do not qualify for or are not sure if they qualify for major benefits, such as health insurance, ancillary insurance, employee assistance programs, leave policies, and wellness benefits. Diverse colleagues were also more likely to report finding tools and resources provided to explain benefits unhelpful in answering their questions. For example, employees of color were 1.4 to 1.5 times more likely than White employees to find the resources and tools explaining benefits unhelpful, even at the highest income levels (Exhibit 5).
+    
+The root causes of this discrepancy likely vary. For instance, LGBTQ+ focus-group participants shared that they could easily find resources on fertility benefits for heterosexual couples. However, they were not sure if those benefits also applied to same-sex couples, often because the resources lacked inclusive language around gender and sexuality. Employees who are immigrants or children of immigrants said that resources often assumed an understanding of complicated details about the US healthcare system and that, in times when they needed care the most, they did not have time or mental space to research nuances concerning what applied to them. One employee commented, “My family is coming from a country that had a different [healthcare] system, and now I’m put into this situation where I have to figure it out on my own and I don’t have a support group to lean on.” In short, materials and websites explaining benefits need to be centralized and easy to navigate, and they also need to resonate with different audiences.
+		
+	
+Employers can take a number of steps to improve the accessibility of employee resources and benefits, including (but not limited to) the following initiatives:Use inclusive languageMany employees reported confusion when trying to understand which benefits they were eligible for and how to use them. Employers may consider carefully reviewing their benefits resources and ensure inclusivity in their communications. Although many of these materials are produced by health insurance companies, employers can partner with carriers to incorporate inclusive language in forms and other materials. This may include using gender-neutral language when describing parental leave or health benefits, as well as considering translating resources into a wide range of languages. Both of these steps could help ensure employees from all backgrounds have equal opportunities to understand and use their benefits.Enhance the availability of personalized informationDiverse employees were especially likely to report experiencing moments of “frustration” when accessing healthcare, citing unexpected costs and “not feeling listened to” as key factors.
+
+
+ To help employees anticipate medical costs, employers could provide tools that estimate out-of-pocket costs for copays and deductibles. Employers could also consider implementing care-coordination services to help their employees have better healthcare experiences.Support through culturally competent providersCare-coordination services guide and support employees in understanding their benefits, including estimating costs and finding providers who understand employees’ backgrounds and experiences. Collectively, care coordination may improve employee experience within the healthcare system and increases the likelihood that patients receive the care they need. One Asian employee said she wanted to find doctors who would understand and not invalidate her experiences, most notably after one doctor suggested that “Asian women don’t have a high pain tolerance.” One LGBTQ+ employee discussed spending hours outside of work finding a primary care provider (PCP) who would offer a welcoming environment to their family of two moms and a child: “I didn’t want someone who would just assume my child has a dad and ask about ‘their father’s health history.’” Care coordinators can help employees find providers who may be better suited to their personal or economic needs, saving the employee valuable time, and helping fend off frustration.Similarly, employers can also encourage their employees to seek care from a PCP.
+
+
+ Employees who said they had a preferred PCP were more likely to have had “delightful” healthcare experiences; employees of color in particular were around eleven percentage points more likely to have had “delightful” experiences if they had a PCP (Exhibit 6).
+
+
+
+
+
+ LGBTQ+ employees were 30 percentage points more likely to have had “delightful” experiences. By encouraging—and even providing incentives for—employees to build relationships with PCPs and by giving them the needed resources to find PCPs who understand and validate personal identities and experiences, employers may be able to improve their employees’ healthcare experiences, helping them receive the care they need.
+    
+Bring benefits to lifeEmployees could also benefit from seeing how others are actually using their benefits. HR can help by offering spotlights of real employees or employee archetypes using different benefits, including leaders with diverse profiles, in the hope that employees may identify with others who “look like them.” HR can also provide supplemental content to health insurance policies to offer more detailed guidance on the use of various benefits (for example, how to find a PCP or how to navigate a pregnancy), as well as information about how to effectively navigate the US healthcare and insurance systems.Finally, employers can take steps to ensure that their enhanced communications are resonating with multiple audiences. These steps may include surveying employees about their experiences and conducting focus groups to further understand gaps in knowledge or understanding. HR can also partner with employee resource groups and diverse leaders to gain additional insight into preferred terminology and specific needs of diverse groups and reach out directly to specific populations that may be underusing their benefits.Build a workplace culture that destigmatizes receiving careWhen asked to describe the level of stigma in the workplace associated with taking time to address physical or mental health needs, 53 percent of all employees shared that they felt at least some degree of stigma around receiving physical care, and 61 percent noted some degree of stigma around receiving mental healthcare.
+
+
+ Additionally, people of color and LGBTQ+ employees were three to ten percentage points more likely to report stigma in their workplace than their White or straight counterparts.Stigma is a pervasive barrier that can inhibit employees from seeking needed care. Among employees who reported not receiving the physical or mental healthcare they needed, 40 percent said the reason they did not receive care was that they felt stigma, shame, or embarrassment. People who do not receive the care they need have a higher risk of missed detection of preventable or treatable illnesses, of later-stage diagnoses, and of mortality.
+
+
+ Additionally, a recent survey conducted by McKinsey found that close to seven in ten respondents with high stigma levels reported missing at least a day of work because of burnout or stress.
+
+
+ Reducing the stigma of attending to health needs is an important component of maintaining a healthy and productive workforce.Black, Hispanic and Latino, and LGBTQ+ employees felt particularly apprehensive about using some benefits due to worries about stigma and seeming “not committed to work.” One woman of color shared that “sometimes in a work environment you are trying to overcome a stereotype. [If you] need a break to take care of something, you are always afraid you’ll come across as lazy or be passed over for promotion.” Employees with chronic illnesses noted similar concerns and were especially worried that their health conditions would find their way into their performance reviews and affect their chances of promotion or even of keeping their job. In our survey, respondents who had missed more days of work due to their own health or that of their dependents noted higher levels of stigma.Black, Hispanic and Latino, and LGBTQ+ employees also noted worse mental health outcomes, likely in part due to the mental and emotional toll that stigma and biases can have.
+
+
+ A fifth of Black and Hispanic and Latino and a third of LGBTQ+ employees rated their mental health as “poor,” compared with one-tenth of White employees.Fostering a culture of care: Actions to consider
+	
+While changing a company culture to destigmatize the need for healthcare is difficult, it is a critical step in supporting health equity. Employers can consider several actions along the journey:
+    
+    
+    
+    
+Employers can take concrete steps to achieve health equity among their employees, including making benefits easier to understand and navigate, designing new benefits to help employees meet basic needs, and developing a culture that empowers employees to seek needed care without fear of stigma. Employers have a meaningful role to play in improving the health and well-being of their employees. While health equity is first and foremost a human issue, employers that improve access to healthcare for all employees have the opportunity to make real improvements to both employee health and company performance.

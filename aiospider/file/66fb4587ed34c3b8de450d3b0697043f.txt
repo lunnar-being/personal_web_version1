@@ -1,0 +1,125 @@
+    
+
+
+
+ As COVID-19 spreads extensively within the United States, health systems have entered a period of unprecedented change. This paper was originally completed for publishing in early 2020, prior to the onset of the pandemic. However, as health systems and other healthcare providers navigate through the crisis and prepare for an upcoming restart of operations, the dynamics and topics addressed in this paper will only heighten in importance. The underlying trends impacting where and how patients receive care will likely see an even greater push away from traditional acute care—including even more rapid technological advancements (for example, telehealth), consumer sentiment around site-of-care selection, and increasing need for post-acute care to provide much needed relief to acute facilities. In addition, nurses in these settings will require new supports and resources to ensure their physical and psychological safety. Strengthening and tailoring workforce strategies for non-acute settings will become even more of an imperative, specifically in the areas of talent planning and hiring, training, and retention.—changes in reimbursement practices, rising patient out-of-pocket costs, heightened patient expectations and their demands for transparency and convenience, telehealth and other advances in technology, and the proliferation of new care models and access points—have an impact on where and how patients receive care. Healthcare systems and other healthcare providers are actively navigating how to meet this uptick in demand as more patients receive care outside the traditional acute care hospital setting.Currently, the most mature nursing workforce
+
+
+ strategies primarily address the acute care setting, where 60 percent of employed nurses practice.
+
+
+ There has been less focus paid to the education and development opportunities of the 25 percent of nurses who practice in ambulatory (18 percent) and long-term care (LTC) settings (7 percent).To better understand these care setting trends and their implications for the workforce strategy of health systems and other healthcare providers, we set out to explore responses to the following questions:
+    How are care utilization patterns shifting across sites of care?
+    What are the characteristics, preferences, and requirements of the nursing staff in different settings? How are they similar and how are they different?
+    What are the implications of shifting sites of care for health systems and other healthcare providers and their talent strategies?
+To answer these questions, we examined two medical claims data sets and data from the American Nurses Association’s (ANA) HealthyNurse Health Risk Appraisal survey.
+
+
+
+
+
+ Based on this analysis, we found many similarities, but also some important differences among cohorts of nurses in different care settings. This includes their demographics and preferences as well as their perceptions of factors such as their own personal safety.In the claims analysis, we found flat growth (less than 1 percent absolute compound annual growth rate [CAGR]
+
+
+) in inpatient care and a 2 to 4 percent absolute CAGR increase in emergency department and ambulatory activity. This slowed growth in inpatient care (and the presence of more meaningful growth in other settings) is happening against a backdrop of increasing patient acuity across settings, including nonacute.
+
+
+
+
+
+In addition, among nurses practicing in different settings of care, we discovered several differences in demographics, working preferences, and perceptions about factors such as personal safety. In nonacute settings (for example, ambulatory and LTC), demand and patient acuity are rising while nurses have lower completion rates of (and potentially less access to) formal and informal training. Ambulatory nurses also are more likely to be closer to retirement age. LTC nurses also report that they feel their employers are less likely to value their health and safety than was reported by nurses who worked in all other care settings, except for emergency departments. Finally, annual turnover in the LTC nursing population can be more than 30 percent,
+
+
+ which is about two times the turnover rate of inpatient nurses.
+
+
+Moving forward, health systems and other healthcare providers that operate across these settings should tailor their talent strategies to the preferences and requirements of their ever-evolving workforce. To do this, we recommend taking a more strategic approach to nonacute settings, including a focus on the following:
+    Talent planning and hiring strategies that prepare for the aging and retirement of nurses in all settings, with a renewed focus on nonacute settings;
+    On-the-job training to enhance nursing skills in nonacute settings—for example, a 6- to 12-month formal nurse residency modeled after inpatient programs; and,
+    Tailored retention programs that draw upon cross-setting best practices and address nonacute nuances (including safety concerns of the LTC nurses).
+Shifts in care settingsFor purposes of analysis, we grouped care into three settings—inpatient, emergency department, and ambulatory—as outlined by the US Bureau of Labor Statistics.
+
+
+ We then analyzed trends in medical claims data as a way to compare, directionally, activity and the utilization levels of the different settings.An analysis of public (Medicare fee-for-service) and private (employer-sponsored) medical claims from 2014 to 2016 shows that claims for healthcare services for these populations grew 2 to 3 percent per year. Growth in the emergency department (2 to 4 percent absolute CAGR) and ambulatory settings (2 to 4 percent absolute CAGR) outpaced that of the inpatient setting (less than 1 percent absolute CAGR) (Exhibit 1). Multiple factors underlie this particularly strong growth in nonacute settings, including demographics, advancements in technology, care availability, price transparency and choice for patients, and changes in reimbursement practices.
+    
+
+		
+	
+Nursing workforce dynamics by setting
+        
+
+
+    
+    We then mapped how the current nursing workforce stratifies against each setting, to analyze each setting’s unique characteristics and nurses’ preferences. Sidebar 1 shows how we have defined each care setting as well as the breakdown of respondents from the ANA’s HealthyNurse Health Risk Appraisal survey. We compared these definitions with the national average proportion of registered nurses in each care setting, as described by the US Bureau of Labor Statistics’ 2018 data,
+
+
+ to ensure that the survey data were representative.We have attempted to compare like settings across claims and survey data analyses and have called out any situations in which doing so was not possible (for example, the claims data sets do not explicitly report on the utilization of LTC facilities).The ANA’s HealthyNurse Health Risk Appraisal survey documents the characteristics of the nursing workforce across these care settings.
+
+
+ Several differences appear in this data, specifically for LTC and ambulatory settings when compared with their inpatient counterparts, including the following characteristics:
+     Ambulatory settings have older nursing populations, with 36 percent who are over the age of 55, compared with other care settings, with 9 to 19 percent over age 55.
+     Both ambulatory and LTC nurses are likely to work shorter and fewer shifts.
+
+
+
+     LTC nurses are less likely to have bachelor’s degrees or higher than nurses in other settings, but the percentage of advanced degrees in the ambulatory and inpatient settings are comparable. Even with comparable advanced degrees, both ambulatory and LTC nurses report completing fewer training programs, such as residency programs for all nurses.
+     LTC (as well as emergency department) nurses perceive less employer support for their health and safety than nurses in other settings do.
+In the paragraphs that follow, we will describe these distinctions in more detail. We will also call out, where appropriate, key differences between the nonacute settings themselves (for example, ambulatory and LTC) in addition to differences between the nonacute and acute settings more broadly.AgeDue to a variety of factors, including the post-2008 recession, many nurses of retirement age have remained employed, with 500,000 fewer nurses retiring than had been projected over the past decade.
+
+
+ Currently, about 51 percent of the nursing workforce is age 50 or older.
+
+
+ For comparison, the median age of the total US labor force in 2018 was around 42 years.
+
+
+The US Health Resources and Services Administration now projects that one-third of all nurses will retire within the next ten years.
+
+
+ These nurses will move to retirement as demand continues to rise, resulting in estimated openings for 200,000 nurses per year between 2016 and 2026.
+
+
+ The impact and severity of the shortage will vary significantly by geography, with the largest shortages occurring in rural areas.
+
+
+ While these shortages will have an impact on all care settings, the ANA survey data suggest a particularly significant impact on ambulatory settings, where nurses are closest to retirement age (Exhibit 2). It is worth noting that we did not observe the same trend with LTC nurses, whose age breakdown more closely resembled the nurses in the inpatient and emergency department settings, where fewer (approximately 9 to 19 percent) of nurses are 55 or older.
+
+
+ We did note, however, that LTC nurses have approximately 10 to 15 percent more of their population with less than five years of experience as a nurse than nurses in these inpatient settings, potentially heightening the need for support and development.
+    
+Length of shift, part-time versus full-time work, and salarySurvey data tell us that ambulatory care and LTC nurses work shorter and fewer shifts than their inpatient and emergency department counterparts. They are more likely to work eight or fewer hours per shift (70 percent ambulatory and 57 percent LTC compared with 20 percent inpatient) (Exhibit 3). Ambulatory and LTC nurses are also more likely to be employed part-time (21 percent and 22 percent of nurses, respectively) than their inpatient peers (14 percent). While some of this discrepancy in work hours is likely driven by a facility’s hours of operation in different settings, it may also reflect different preferences of the ambulatory and LTC nurses.
+    
+In addition, ambulatory care and LTC nurses’ annual wages are approximately 7 to 13 percent less than those of inpatient and emergency department nurses.
+
+
+ While one of many factors at play, this pay gap highlights the need for a more holistic engagement and retention strategy for ambulatory and LTC populations, because the non-compensation elements of the employer value proposition (the work environment and development opportunities, for example) may play a critical role in overall satisfaction and long-term incentives to stay.Education and continuing education opportunitiesResearch indicates baccalaureate-prepared nurses have a better understanding of evidence-based practice and greater exposure to teamwork and decision making than their counterparts without bachelor’s degrees.
+
+
+ Almost a decade ago, the Institute of Medicine set a goal for 80 percent of nurses to be baccalaureate-prepared or higher by 2020,
+
+
+ and there are indications that this is on track. In the nurse survey data, more than 65 percent of nurses (including 12 percent who are current students) are baccalaureate-prepared or higher (slightly higher than the 56 percent of nationally published data
+
+
+). Ambulatory nurses have a comparable percentage of advanced degrees to inpatient nurses (Exhibit 4). In contrast, LTC nurses are significantly less likely to have bachelor’s or higher degrees (approximately 40 percent of population compared with approximately 70 percent in other settings).
+    
+In addition to the academic education and training nurses receive, continuing education and formalized opportunities for mentorship are critical to nurse preparation. In particular, some health systems have created more formal residency programs—6- to 12-month experiences that build critical thinking, promote evidence-based decision making, and create a cohort of peers.
+
+
+ Studies have shown a 21 percent decrease in first-year nursing turnover when a nurse residency program is in place.
+
+
+ The nurse survey data imply that ambulatory and LTC nurses may have less access to these types of ongoing education opportunities, as inpatient nurses are more likely to report completing a residency program (27 percent compared with 10 percent of ambulatory and 7 percent of LTC nurses).Perceived safetyIn all settings, the nursing profession brings with it a certain risk level—in fact, one study in Massachusetts found that nurses were attacked more frequently than police or prison guards.
+
+
+ This finding is corroborated by the Bureau of Labor Statistics, which has found that, for nurses, the nonfatal injury rate due to violence was more than three times that of the average US worker.
+
+
+ Fewer than half of the nurses responding to the ANA survey “strongly agree” that their employer values their health and safety, which could have implications for optimal employer approaches to nurses’ satisfaction, performance, retention, experience, and more.While we see minimal difference overall in perceived safety in inpatient and ambulatory settings (83 percent and 81 percent, respectively, saying they “strongly agree” or “agree” that their employer values their health and safety), we see a difference in emergency department and LTC nurses (only 76 and 73 percent of each cohort, respectively, “agree” or “strongly agree” with the same statement) (Exhibit 5). In fact, LTC nurses reported lower scores overall on five of the seven survey questions regarding perceived safety than their colleagues in other settings.
+    
+
+		
+	
+Implications for future workforce strategiesWith increasing demand in nonacute settings being met today by an aging (and, for LTC, less credentialed) nursing workforce, health systems and other healthcare providers operating in these settings will need to strengthen and tailor future nursing workforce strategies, specifically in the areas of talent planning and hiring, training, and retention.Talent planning and hiringProactive pipeline planning is crucial in the nursing profession, given high turnover overall and labor shortages in particular geographies. This planning may be more challenging in the ambulatory and LTC care settings, where demand is rising, nurses are aging, and staffing standards and productivity metrics are not as well established as in other settings.Both LTC and ambulatory settings, including the appropriate tailoring of approaches by setting, should be addressed in planning. For example, nursing school curricula are designed for acute care, leading many nurses to believe that they should begin their careers in the inpatient setting and possibly shift away from the hospital later in their careers. In addition, new graduates may not be graduating with tools that are optimal for serving the needs of ambulatory and LTC patients. More direct partnerships or collaborations between universities and health systems and other providers could help to ensure the right preparation for each type of setting and increase the readiness of nurses to enter settings other than acute inpatient care after graduation.Health systems and other healthcare providers also could explore ways to attract nurses to ambulatory and LTC settings earlier in their careers. The shorter shifts, part-time schedules, and reliable time off on weekends and holidays in ambulatory and LTC settings may be appealing, particularly to millennial and Generation Z nurses. In addition, the creation of opportunities for exposure to nonacute settings may be compelling for acute care staff as well. Example offerings could include developing programs to allow for rotations through ambulatory positions, creating opportunities for ambulatory staff to work while completing advanced schooling, and offering student loan coverage across settings. Deepening understanding about what nurses want from their careers can help health systems design competitive offerings and value propositions for nonacute roles.TrainingAs the nonacute care environment rapidly evolves to meet the demands of patients with increasingly complex conditions, nurses in nonacute care settings will need additional training and critical thinking support. To improve nurse preparedness and retention, employers of LTC and ambulatory care nurses could consider launching supportive training programs such as formal nurse residencies, which now are available mostly to inpatient nurses. A tailored nonacute residency program (with versions for new graduates as well as individuals transitioning from a different setting) should give nurses exposure to a range of situations and ensure they have mastered a comprehensive set of skills in the settings where they are training. This type of program could be highly beneficial for supporting acute care nurses interested in a change of setting as well as onboarding and retaining newer graduates in nonacute settings.Providers that find residency or other educational programs unfeasible or undesirable might opt to tailor for nonacute settings their nurse onboarding by using a lighter touch— for example, consistently incorporating preceptors, amplifying orientation programs, or implementing additional structured leader engagement.
+    
+RetentionIn our work with providers that are focused on acute care, we often find that the root causes of poor nursing retention are multifactorial, including macroeconomic factors (a strong economy with enhanced career options), internal challenges (including inconsistent development opportunities or low leadership engagement), and local market structural issues (for example, strong local competition). While providers cannot directly control or influence some of these factors, others represent opportunities that providers can start acting on immediately.While the ANA survey indicates there is work to do across the board—for example, only 60 to 70 percent of nurses across settings “agree” or “strongly agree” that they are recognized/thanked for their contributions at work—there are possibly setting-specific dynamics that could be addressed as part of a holistic, multi-setting workforce retention program. For example, in the LTC setting—which has an annual nursing turnover rate of more than two times that of the inpatient setting—we know that the proportion of nurses feeling “recognized” or “thanked” was 10 percent lower than the proportion of nurses in other settings. These LTC nurses were 10 percent more likely to report needing to arrive early or work late, and they have heightened concerns about workplace safety.Being prepared for changesAs a growing number of patients receive care in settings outside acute care hospitals, the US healthcare system needs health systems and other healthcare providers that are prepared to meet these shifting demands and expectations. The nature of nurses’ work will continue to evolve, requiring new capabilities in all settings. Developing strategies around training and preparation for these changes will become increasingly important as nurses (and other caregivers like nursing assistants) move toward the home setting over the next 10 years and require new ways of working (for examples, engagement with a broader suite of technology-enabled tools). Currently, the most mature nursing workforce strategies primarily address the acute care setting, with less focus paid to the nuances of the education and development opportunities of the 25 percent of nurses who practice in ambulatory and LTC settings. By establishing appropriate planning strategies and hiring, training, and retention tactics, health systems and other providers can build nimble nursing workforces that have what it takes for doing the job each setting requires.

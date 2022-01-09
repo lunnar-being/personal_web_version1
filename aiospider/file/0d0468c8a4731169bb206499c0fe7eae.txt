@@ -1,0 +1,28 @@
+
+
+
+
+
+
+"5G networks — and the technologies that will be built upon them — are an integral component of the " said Michael Kratsios, during a teleconference from the Pentagon. "We at the DOD are committed to the advancement of this critical emerging technology to improve the lethality and modernization of our force."
+Five installations, including Hill Air Force Base, Utah; Joint Base Lewis-McChord, Washington; Marine Corps Logistics Base Albany, Georgia; Naval Base San Diego; and Nellis Air Force Base, Nevada, will serve as locations for the application and evaluation of a variety of 5G technologies.The effort — Tranche 1 of the department's larger 5G initiative — will accelerate adoption of 5G technology, enhance the effectiveness and lethality of U.S. combat forces, and further the development and use of common 5G standards to ensure interoperability with military partners and allies.Kratsios also said the department's efforts in 5G will benefit participating industry partners, as well, because operating on U.S. military installations allows industry to move faster in their own experimentation and testing than what would normally be possible."Outside of the department, in order for private sector companies to test the capabilities and functionality of 5G communications, they face an onerous process — negotiating agreements with state and local officials, attaining pole permits, funding the construction of antennas, and the list goes on," Kratsios said. "At the DOD, we already have the personnel, operational capacity, facilities, scale and regulatory green light to get the job done."
+
+
+
+
+At Joint Base Lewis-McChord, four vendors will work to build a 5G-enabled test bed to enable augmented reality and virtual reality training. The effort will enhance mission planning and distributed training.To enhance naval logistic operations, four industry partners will develop a 5G-enabled "smart warehousing" capability at Naval Base San Diego. The project there is focused on transshipment between shore facilities and naval units and includes using 5G to improve the identification, recording, organization, storage, retrieval and transportation of materiel and supplies.At Marine Corps Logistics Base Albany, four vendors will be focused on warehousing capabilities, similar to what's happening in San Diego; however, the focus in Georgia will be on the storage and maintenance of Marine Corps vehicles.
+
+
+
+
+Nellis AFB will serve as a test bed for the use of 5G technology to enhance operational and tactical command and control applications and services. There, a 5G network will be employed to disaggregate and mobilize existing C2 architectures in a combat employment scenario.Finally, at Hill AFB, six industry partners will work to develop better ways to allow Air Force radar systems to share spectrum with 5G cellular services."We look forward to great progress to come from these test sites in the months and years ahead," Kratsios said. "Nations that master advanced communication technologies will enjoy long-term economic and military advantages."Work on the test bed sites will last approximately three years, with the sites expected to be set up within the first year. Full-scale experimentation will happen by year two.
+
+
+
+
+Joint Base Lewis-McChord, Hill AFB, Naval Base San Diego and Marine Corps Logistics Base Albany were named as Tranche 1 test beds for 5G capabilities in October 2019. The requests for proposals from interested industry partners went out earlier this year. In May, Nellis AFB was named as an additional Tranche 1 test bed.The five Tranche 1 test sites were selected for their ability to provide streamlined access to site spectrum bands, mature fiber and wireless infrastructure, access to key facilities, support for new or improved infrastructure requirements, and the ability to conduct controlled experimentation with dynamic spectrum sharing.In June, the department also announced seven new locations to serve as Tranche 2 test beds for additional 5G capability testing.The Tranche 2 locations include Naval Station Norfolk, Virginia; Joint Base Pearl Harbor-Hickam, Hawaii; Joint Base San Antonio; the National Training Center at Fort Irwin, California; Fort Hood, Texas; Marine Corps Base Camp Pendleton, California; and Tinker Air Force Base, Oklahoma.
+
+
+
+
+Dr. Joe Evans, the principal director for 5G in the office of the undersecretary of defense for research and engineering, expects the first solicitations to industry partners at Navy and Marine Corps bases in Tranche 2 to happen this month. Solicitations for the involved Army and Air Force installations should be ongoing through December.For the Tranche 1 locations, prime contractors include AT&T, Booz Allen Hamilton, Deloitte Consulting LLP, Ericsson, Federated Wireless, GBL System Corp., General Dynamics Mission Systems, Inc., GE Research, Key Bridge Wireless LLC, KPMG LLP, Nokia, Oceus Networks, Scientific Research Corporation, Shared Spectrum Company and Vectrus Mission Solutions Corporation."These sandboxing activities at military bases harness the department's unique authorities to pursue bold innovations in game-changing technologies," Kratsios said. "By increasing our coordination among partners in the services, industry and academia and by renewing our commitment to fundamental research and development, we will preserve our nation’s technological edge and the innovative genius that has long been the source of American strength and leadership."

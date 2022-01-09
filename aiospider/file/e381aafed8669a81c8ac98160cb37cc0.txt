@@ -1,0 +1,665 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Marine Licensing: sediment analysis and sample plans
+  
+
+  
+  
+  
+      
+  Details of sediment and sample analysis for marine licence applications.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Marine Management Organisation
+
+      
+      Published
+      2 October 2014
+      Last updated
+      
+        14 September 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Sample plans and sediment analysis
+
+        
+        
+          Laboratory validation
+
+        
+        
+          Methodological requirements
+
+        
+        
+          Contact information
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Sample plans and sediment analysis
+
+The UK is signed up to the London Protocol and OSPAR Convention for the Protection of the Marine Environment of the North-East Atlantic, both of which address preventing marine pollution from disposal at sea.
+
+MMO licenses disposing of dredged materials at sea and uses guidelines produced by OSPAR to regulate this activity. A marine licence to dispose of dredged materials to sea requires the sediments to be characterised to allow the potential adverse environmental effects of disposing of the material to be considered.
+
+The OSPAR guidelines recommend a tiered approach to assess the sediments, if sufficient information is not already available from existing sources. The assessments required will depend upon the specific details of the proposed activities, although characterisation of a standard set of physical and chemical determinands within the sediments is often necessary.
+
+Sample plans
+
+Before you apply for a marine licence, a sediment sampling plan must be agreed with the MMO in consultation with the Centre for Environment, Fisheries and Aquaculture Science (Cefas). The sample plan will set out the sample locations as well as the specific biological, chemical and physical analysis requirements.
+
+The sample plan must be requested through the MMO’s Marine Case Management System as a sample plan request.
+
+If an application for a marine licence is submitted without sediment sample analysis and the MMO considers that this evidence is required, the application will be placed on hold and the applicant directed to request a sample plan.
+
+Sediment analysis
+
+The MMO must ensure that sediment sample analysis data submitted to support a marine licence application is consistent and comparable between separate applications, as well as Cefas action levels. Cefas action levels are currently used by the MMO to decide how suitable it is to dispose of dredged sediments at sea.
+
+You must make sure that sediment sample analysis, as set out in the MMO approved sample plan, is undertaken by a MMO validated laboratory.
+A laboratory may choose to sub-contract analysis of samples for specific determinands. Any sub-contracted laboratories must also meet the same requirements.
+
+
+To note: Due to the current coronavirus pandemic, some laboratories are experiencing delays in analysing certain chemicals for sediment samples. Please be mindful of this when considering project timeframes and engage with your chosen validated laboratory in order to have a clear understanding of predicted timeframes.
+
+
+Laboratories that have been validated to undertake sediment sample analysis to inform marine licence applications can be found in the table below, alongside the determinands they have been validated to analyse.
+
+Table 1 – Laboratories validated by MMO for sediment analysis to inform marine licence applications and validated determinands
+
+
+  Yes - determinands validated
+  No - determinands unvalidated
+
+
+
+  
+    
+       
+      Cefas
+      National Laboratory Service – Environment Agency
+      SOCOTEC
+      RPS
+      Ocean Ecology Limited
+      Kenneth Pye Associates Limited
+      Fugro GB Marine Limited
+    
+    
+      Inorganics (inc. Trace Metals)
+      Yes
+      Yes
+      Yes
+      Yes
+      No
+      No
+      No
+    
+    
+      Organotins (Tributyltin and dibutylin)
+      Yes
+      Yes
+      Yes
+      Yes
+      No
+      No
+      No
+    
+    
+      Polychlorinated biphenyls (PCBs)
+      Yes
+      Yes
+      Yes
+      Yes
+      No
+      No
+      No
+    
+    
+      Brominated Flame Retardants
+      Yes
+      No
+      No
+      No
+      No
+      No
+      No
+    
+    
+      Total hydrocarbon content (THC)
+      Yes
+      Yes
+      Yes
+      No
+      No
+      No
+      No
+    
+    
+      Polycyclic aromatic hydrocarbons (PAHs)
+      Yes
+      Yes
+      Yes
+      No
+      No
+      No
+      No
+    
+    
+      Organochlorine pesticides (OCPs)
+      Yes
+      No
+      Yes
+      No
+      No
+      No
+      No
+    
+    
+      Total Organic Carbon (TOC)
+      Yes
+      Yes
+      Yes
+      Yes
+      No
+      No
+      No
+    
+    
+      Particle Size Analysis (PSA)
+      Yes
+      Yes
+      No
+      No
+      Yes
+      Yes
+      Yes
+    
+  
+
+
+Submit data
+
+You must use the results template below to submit sediment sample analysis data, undertaken by a MMO validated laboratory, in support of a marine licence application.
+
+
+  
+      
+  
+  
+    Results template
+    
+        XLSM, 565KB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email communications@marinemanagement.org.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+Your sediment sample analysis results should be a single report. The validated laboratories must also provide a chain of custody evidence in support of the analysis results to prove samples have been handled and stored correctly.
+
+Samples taken for chemical analysis must be stored frozen in glass containers. These containers must be acid cleaned (10% volume-to-volume aqueous nitric acid), and solvent-rinsed (hexane or pentane) before they are used. The integrity of container closure must also be protected (solvent-rinsed aluminium foil) to avoid potential loss of determinands, contamination of samples, or both.
+
+A temperature of 25°C should not be exceeded at any stage of storage or transportation. Samples not analysed within 48 hours must be stored at 4°C (short-term storage, under 1 week). Samples stored for more than 1 week and up to a maximum of 3 months must be kept frozen at -20°C or below.
+
+The MMO will request further information to support any incomplete submissions to you and this may delay the marine licence application process.
+
+Using existing data
+
+You may use existing analytical data on the physical and chemical properties of sediments in support of a marine licence application. The information must be from a lab that had been validated by the MMO at the time of the analysis and collected within 3 to 5 calendar years of your valid marine licence application being received and accepted by the MMO.
+
+You should engage with the MMO at the earliest opportunity to establish suitability and relevance of existing data before its use, evidencing that the data complies with storage, analysis and quality control requirements.
+
+If the data was collected outside the marine licensing process, you must provide full information on the original analysis of the samples. This should be submitted using laboratory capability statements and laboratory methodological statements found below.
+
+Suitability of material
+
+Marine licence application chemical analysis results are assessed against Cefas action levels and geological background levels. The action levels are used to determine the contaminant loading of the material and it’s suitability for disposal at sea.
+
+Current Cefas action levels were set in 1994 and are provided in the table below:
+
+
+  
+    
+      Contaminant or compound
+      Action Level 1 (mg/kg dry weight (ppm))
+      Action Level 2 (mg/kg dry weight (ppm))
+    
+  
+  
+    
+      Arsenic
+      20
+      100
+    
+    
+      Mercury
+      0.3
+      3
+    
+    
+      Cadmium
+      0.4
+      5
+    
+    
+      Chromium
+      40
+      400
+    
+    
+      Copper
+      40
+      400
+    
+    
+      Nickel
+      20
+      200
+    
+    
+      Lead
+      50
+      500
+    
+    
+      Zinc
+      130
+      800
+    
+    
+      Organotins (TBT, DBT, MBT)
+      0.1
+      1
+    
+    
+      PCBs – sum of ICES 7
+      0.01
+      None
+    
+    
+      PCBs – sum of 25 congeners
+      0.02
+      0.2
+    
+    
+      PAHs
+      0.1
+      None
+    
+    
+      DDT
+      *0.001
+       
+    
+    
+      Dieldrin
+      *0.005
+       
+    
+  
+
+
+Laboratory validation
+
+The MMO’s laboratory validation process is undertaken in consultation with Cefas.
+
+In order to become a validated laboratory, the following information must be submitted to the MMO for review through the MMO Marine Case Management System:
+
+
+  Laboratory Capability Statement; and
+  Methodological statements
+
+
+Laboratories seeking validation are encouraged to engage with the MMO before applying to be validated. This can be requested through an Enquiry on the MMO Marine Case Management System. 
+Once validated, laboratories will also be subject to an on-going competence review.
+
+The MMO and Cefas charge for validating laboratories. Work is charged at an hourly rate of £122 for MMO staff and £90.30 an hour for Cefas staff. You will be invoiced in arrears.
+
+Laboratory capability statement
+
+In order to be validated by the MMO, laboratories must submit a laboratory capability statement confirming they meet minimum standards.
+
+
+  
+      
+  
+  
+    Sampling and sediment analysis – Laboratory capability statement
+    
+        PDF, 133KB, 2 pages
+    
+
+
+  
+
+
+The capability statement includes:
+
+
+  being ISO/IEC 17025 accredited
+  for particle size analysis, successfully participating in the National Marine Biological Analytical Quality Control (NMBAQC) Particle Analysis Size ring test
+  for chemical analysis, successfully participating twice a year in QUASIMEME (Quality Assurance of Information for Marine Environmental Monitoring in Europe) over a minimum of 2 years
+
+
+Methodological requirements
+
+Laboratories must provide details of methodologies and quality control processes for the sample analyses they perform.
+
+A laboratory must submit a methodological statement for particle size analysis and for each group of, or individual, determinands where methods differ. This is so the laboratory’s methods can be validated.
+
+
+  
+      
+  
+  
+     Sampling and sediment analysis – Methodological statement
+    
+        PDF, 174KB, 6 pages
+    
+
+
+  
+
+
+Methodological statement
+
+The laboratory must detail performance characteristics of the methods within the methodological statement and must meet the minimum performance requirements.
+
+Laboratories can use methods other than those specified, but must demonstrate fitness for purpose within the methodological statement. Sediment analysis outputs must be comparable with those obtained using the methods detailed here.
+
+Laboratories should see the guidance on physical and chemical determinands for sampling and sediment analysis
+
+The MMO must review methodologies not previously validated, or changes to previously validated methodologies, before analysis outputs are accepted in support of a marine licence application.
+
+Laboratories are encouraged to engage with MMO to agree appropriate methodologies before you apply. 
+MMO may request extra documentation to support the application. This may include but is not limited to:
+
+
+  audit reports and improvement actions from UK Accreditation Service (UKAS) surveillance visits
+  chemical reference material control charts
+  instrumental reports for each sample including calibration curves
+  full raw data from the analysis including procedural blanks or blank reagent results
+
+
+Blind Testing Exercise in support of evidence for external Quality Control
+
+For chemical analysis, where a laboratory does not have sufficient proficiency testing data (i.e. because a method has been newly developed or improved to meet MMO requirements), a one-off blind testing exercise consisting of up to 6 reference materials can be arranged via the MMO. This is to allow the laboratory to generate sufficient external quality control data. Each blind testing exercise must however be complimented with results from at least one round of QUASIMEME (i.e. two sediment materials tested per round).
+
+Results of the blind testing exercise must be submitted to the MMO. Z-scores will be derived using the QUASIMEME method of calculation and will be evaluated against MMO requirement for proficiency testing.
+Blind testing is chargeable at an hourly rate of £122 for MMO staff and £90.36 an hour for Cefas staff. You will be invoiced in arrears.
+
+On-going Competence Review
+
+In order to ensure that MMO validated laboratories maintain fitness-for-purpose, the requirements to demonstrate on-going competence are as follows;
+
+
+  United Kingdom Accreditation Service (UKAS) ISO/IEC 17025 accreditation is to be maintained for the laboratory
+  United Kingdom Accreditation Service (UKAS) ISO/IEC 17025 accreditation is to be gained or maintained within 2 years from the date of the Laboratory Validation letter for the determinands and specific methods used for MMO marine licence applications. The determinands and specific methods validated by the MMO must be added to the Schedule of Accreditation for assessment by UKAS
+
+  The laboratory is required to submit the annual UKAS issued Schedule of Accreditation, UKAS Assessment Report and UKAS Improvement Action Report (IAR) to the MMO within 1 month of the reports being produced
+  Where the laboratory is issued with improvement actions following the UKAS annual assessment then the laboratory will be required to rectify the findings within the timescale set by UKAS in the IAR
+  Where UKAS accreditation is suspended, or any MMO validated method is removed from the Schedule of Accreditation, then the laboratory must inform the MMO in writing within 24 hours
+
+
+Failure to comply with the expectations of the MMO, as set out above, would result in the MMO withdrawing validation and the laboratory will no longer be allowed to analyse marine sediments to inform marine licence applications.
+All evidence provided to the MMO in support of on-going competence must be submitted via the Marine Case Management System (MCMS) as a sample plan request ‘validate a laboratory’.
+
+Contact information
+
+Marine Licensing Team
+
+0300 123 1032
+
+marine.consents@marinemanagement.org.uk
+
+
+
+
+
+      
+        
+    Published 2 October 2014
+    Last updated 14 September 2020
+      + show all updates
+      
+        
+            
+              14 September 2020
+              Amendments made to PDF attachments in line with .GOV accessibility requirements
+            
+            
+              18 July 2018
+              SOCOTEC validated to test for OCPs
+            
+            
+              25 April 2018
+              RPS column added
+            
+            
+              16 February 2018
+              Results template added
+            
+            
+              18 January 2018
+              Table updated
+            
+            
+              11 October 2016
+              Table updated
+            
+            
+              27 June 2016
+              Text amended
+            
+            
+              13 November 2015
+              Suitability of material information added
+            
+            
+              7 October 2015
+              Link to Guidelines produced by OSPAR broken and removed
+            
+            
+              2 October 2014
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Marine licensing: physical and chemical determinands for sediment sampling
+        UK, UK Overseas Territories and UK Crown Dependencies Maritime Limits and Law of the Sea
+        Scuttling of any vessel or floating container
+        Marine licensing - Definitions
+        Incineration of any substance or object
+
+  
+
+
+
+
+      
+
+    Detailed guidance
+
+  
+
+
+        Make a marine licence application
+        Do I need a marine licence?
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Marine
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

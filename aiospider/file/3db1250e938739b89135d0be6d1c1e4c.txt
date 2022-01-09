@@ -1,0 +1,595 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Classifying electrical equipment for import and export
+  
+
+  
+  
+  
+      
+  Get help to classify electrical equipment such as communication equipment, cameras, and their parts and accessories.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          HM Revenue & Customs
+
+      
+      Published
+      21 July 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Wireless charging plates and adapters
+
+        
+        
+          Smartphones and communication apparatus
+
+        
+        
+          Soundbars
+
+        
+        
+          Cameras
+
+        
+        
+          Monitors with no TV receiver
+
+        
+        
+          
+LED and LCD video walls
+
+        
+        
+          E-book readers
+
+        
+        
+          Electronic Cigarettes
+
+        
+        
+          Laser skin treatment apparatus
+
+        
+        
+          Video Converters
+
+        
+        
+          Cables fitted with connectors
+
+        
+        
+          Parts of electrical equipment
+
+        
+        
+          Accessories of electrical equipment
+
+        
+        
+          Composite machines and multi-function apparatus
+
+        
+        
+          Changes to the classification of electrical equipment from 1 January 2022
+
+        
+        
+          More information
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This guidance refers to chapters and headings in the UK Global Online Tariff. If you’re importing goods into Northern Ireland, or if this guidance does not include your item, read more information.
+
+Most electrical goods are classified under chapter 85. There are exceptions, such as computers which are classified under chapter 84. Find out more about classifying computers and software.
+
+All goods classified within chapter 85 are considered to be ‘machines’ for classification purposes.
+
+Wireless charging plates and adapters
+
+These products are designed to wirelessly charge a variety of electrical apparatus. They convert (rectify) alternating current into direct current and transfer it to a charging plate. The current is then converted back to alternating current and which is then converted into an electromagnetic field.
+
+These products are generally classified under subheading 8504 40 90.
+
+Smartphones and communication apparatus
+
+Smartphones and other mobile phones are classified under subheading 8517 12 00.
+
+The following subheadings cover other apparatus used for the transmission or reception of voice, images or other data, including apparatus for communication in a wired or wireless network (such as a local or wide area network):
+
+
+  8517 61
+  8517 62
+  8517 69
+
+
+Subheading 8517 62 also covers machines used for the:
+
+
+  reception of voice, images or other data – the conversion of a signal from one format to another must be solely used to allow transmission or reception of a signal (such products must include a communication interface, such as a RJ-45 interface)
+  conversion and transmission of voice, images or other data
+  regeneration of voice, images or other data
+
+
+This includes:
+
+
+  Bluetooth headsets, used solely or principally with mobile phones and smartphones – they enable the user to answer, end and dial calls (for example, redial the last call)
+  Bluetooth wireless speaker adapters which allow a user to listen to music from a smartphone, on a home audio system or through separate speakers
+
+
+Video converters and similar products are classified in heading 8543 if they do not transmit a signal through a communication interface. Find out more about classifying video converters.
+
+Soundbars
+
+A sound reproducer of audio files of various formats from various interfaces designed to create surround sound and stereo effects. This includes Bluetooth and WiFi network connectivity. They can be used with another sound reproducer or a TV and can reproduce audio files stored on USB flash memory or an Internet radio.
+
+These products are classified under subheading 8519 81 45.
+
+Cameras
+
+Cameras that have no in-built capability of recording an image (for example, webcams) are classified as television cameras under subheading 8525 80 19 (or possibly under 8525 80 11).
+
+Products that incorporate a non-volatile memory, where the camera captures an image, but the image is lost when the camera is switched off, are classified as having an in-built capability of recording an image. High-speed cameras often include non-volatile memory.
+
+Cameras that capture and store images are classified as digital cameras under subheading 8525 80 30, or as video camera recorders under subheading 8525 80 91 or 8525 80 99.
+
+Many of these cameras can capture and record still and video images. Cameras are classified under subheading 8525 80 91 or 8525 80 99 when capable of capturing video images (using their maximum storage capacity):
+
+
+  in a quality of 800 x 600 pixels (or higher)
+  at 23 frames per second (or higher)
+  for a continuous period of at least 30 minutes
+
+
+If one or more of this criteria is not met, you must determine if the product has the principal function of a digital camera or a digital video camera recorder. Find out more about classifying composite machines and multi-function machines.
+
+If the captured video images are recorded in separate files, lasting less than 30 minutes, the camera remains classified under 8525 80 91 or in 8525 80 99. This applies even if the user cannot see the transition from one file to the next during playback.
+
+If the camera automatically terminates the recording of video in less than 30 minutes, it’s classified as a digital camera.
+
+Video camera recorders are classified under subheading 8525 80 91 if they are only able to record sound and images taken by a television camera. Otherwise, they’re classified under subheading 8525 80 99, which covers products that record images from external sources, which must be capable of being reproduced on an external television receiver or monitor.
+
+Cameras for drones which capture and record video and still images are generally classified under subheading 8525 80 91, or  8525 80 99.
+
+Dashcams which capture and record video images while the user is driving are generally classified under subheading 8525 80 91, or 8525 80 99.
+
+Monitors with no TV receiver
+
+Monitors capable of directly connecting to (and designed for use with) an automatic data-processing machine that is classified under heading 8471, are classified under subheading 8528 52.
+
+For other monitors (classified under subheading 8528 52 99), you must determine if the monitor is both:
+
+
+  capable of directly connecting to a computer of heading 8471
+  designed for use with a computer of heading 8471
+
+
+To do this, an overall assessment of a monitors characteristics needs to be made. Monitors are likely to be classified under subheading 8528 52, if they include:
+
+
+  interfaces characteristic with computer systems, such as:
+    
+      RS-232
+      RS-422
+      RJ-45
+      8P8C
+      HDMI
+      D-Sub
+      DVI
+      VGA
+    
+  
+  aspect ratio of 4:3
+  small pixel pitch suitable for close-proximity viewing
+  small screen size of 30 inches or less
+  low brightness
+  ergonomic design characteristics to assist prolonged periods of close viewing, such as a glare free surface, tilt, swivel and height adjusting mechanisms
+
+
+If the monitor is capable of directly connecting to a computer and is designed for use with one, a decision needs to be made on which subheading within 8528 52 applies.
+
+Monitors solely or principally used in an automatic data processing system that is classified under heading 8471, are classified under subheading 8528 52 10.
+
+Monitors designed to be used in a computer system (comprising at least a central processing unit, an input and output unit), with no other use or purpose, are usually classified under subheading 8528 52 10.
+
+Monitors with a screen of the liquid crystal display (LCD) technology are classified under subheading 8528 52 91.
+
+A monitor may be intended for a specific purpose, such as medical systems to display clinical data or navigation systems to display data. If a monitor directly connects to a computer and is designed for use with one, it’s not considered to be solely or principally used with a computer system of heading 8471. Therefore, it is classified under subheadings 8528 52 91 or 8528 52 99, depending on the technology (for example, if it has a LCD display).
+
+Monitors that are not capable of connecting to a computer of heading 8471 and are not designed for use with one are classified under subheading 8528 59 00. They:
+
+
+  may be connected directly to a video camera or recorder by means of composite video, s-video or co-axial cables
+  do not include connectors that are characteristic of computer systems
+  are not designed for close-proximity viewing
+  may have a direct connection with a computer but are designed specifically for use with, for example, a DVD player or recorder, so are not designed for use with a computer
+
+
+Products with a USB interface designed only, for example, for the transfer of media files or for reproducing audio or video from a USB memory stick, are classified under subheading 8528 59 00.
+
+
+LED and LCD video walls
+
+LED (light emitting diode) walls intended for outdoor viewing comprise several modules made of tiles, each tile contains red, green and blue LED’s. They also have a video processor and a signal processor, allowing signal inputs and scaling of images and video to be displayed. They are classified under subheading 8528 52 99.
+
+A LED tile, whether connected to other tiles, that does not include a video processor, is classified as a part of a monitor under subheading 8529 90 92. This is because the tile cannot display video images directly originating from video source and can only display signals originating from a dedicated video processor.
+
+LCD walls intended for indoor viewing which incorporate a computer are classified under subheading 8528 52 91.
+
+E-book readers
+
+These products are classified under subheading 8543 70 05. This applies if they do or do not include translation or dictionary functions.
+
+Electronic Cigarettes
+
+Electronic cigarettes, which may include a packet of cartridges, will be classified together under subheading 8543 70 70.
+
+Empty cartridges with an upper part shaped like a mouthpiece, which have a small hole through which vapour is inhaled, are classified as a part of an electronic cigarette under subheading 8543 90 00.
+
+Laser skin treatment apparatus
+
+This apparatus performs various treatments by laser including hair removal, treatment for face and leg veins, treatment for sun spots and cosmetic rejuvenation. They can be used by professional medical practitioners and by non-medical personnel in beauty parlours.
+
+They are classified under subheading 8543 70 90.
+
+Video Converters
+
+Products which convert a video signal from one format to another, for example, SDI to HMDI, which do not transmit a signal through a communication interface, are classified under subheading 8543 70 90.
+
+This is because they’re performing a video conversion, not a communication function of heading 8517.
+
+Cables fitted with connectors
+
+Subheading 8544 42 10 covers products used for telecommunications, including those used in telecommunications networks, such as to connect a computer with a modem.
+
+Products excluded from this subheading include (but are not limited to) products:
+
+
+  that connect non-telecommunication apparatus, such as a DVD player with a monitor
+  inserted into machines to connect internal parts of the machine
+  that only supply power
+
+
+Parts of electrical equipment
+
+Parts are items that are essential to the operation of a product.
+
+Parts of the goods of chapter 84 and 85 are covered by note 2 to section XVI and must be suitable for use solely or principally with a product.
+
+Note 2 applies, subject to the exclusions listed in note 1 to section XVI, chapter 84 and chapter 85.
+
+Note 2 (a)
+
+A product identified as part of a machine, which is covered by a ‘complete goods’ heading of chapter 84 or 85, should be classified in that heading. This is whether the part is designed for a specific machine and with the exception of the following headings, which cover parts or both parts and accessories:
+
+
+  8409
+  8431
+  8448
+  8466
+  8473
+  8487
+  8503
+  8522
+  8529
+  8538
+  8548
+
+
+Many headings in section XVI have a subheading covering parts. Alternatively, some headings, for example 8529, covers parts of the goods of several headings.
+
+Note 2 (b)
+
+Other parts should be classified with the machines of that kind, if they are suitable for use either:
+
+
+  only or mainly with a particular kind of machine
+  with a number of machines of the same heading (including a machine of heading 8479 or 8543)
+
+
+They can also be classified under the following headings:
+
+
+  8409
+  8431
+  8448
+  8466
+  8473
+  8503
+  8522
+  8529
+  8538
+
+
+
+Parts which are equally suitable for use principally with the goods of headings 8517 and 8525 to 8528, should be classified under heading 8517.
+
+
+Most parts that do not meet the criteria of note 2(a) will be classified in the respective parts heading or subheading.
+
+Note 2 (c)
+
+All other parts should be classified under the following headings:
+
+
+  8409
+  8431
+  8448
+  8466
+  8473
+  8487
+  8503
+  8522
+  8529
+  8538
+  8548
+
+
+Accessories of electrical equipment
+
+Accessories are items that are not essential to the operation of a product but perform an additional function or service. They must be suitable for use solely or principally with a product. There are no legal notes that cover accessories of section XVI.
+
+Accessories are interchangeable parts or devices designed to:
+
+
+  adapt a machine for a particular operation
+  perform a particular service relative to the main function of the machine
+  increase its range of functions
+
+
+The only headings within section XVI that include accessories are:
+
+
+  8448, which includes accessories of goods classified under headings:
+    
+      8444
+      8445
+      8446
+      8447
+      8448
+    
+  
+  8466, which includes accessories of goods classified under headings 8456 to 8465
+  8473, which includes accessories of goods classified under headings:
+    
+      8470
+      8471
+      8472
+    
+  
+  8522, which includes accessories of goods classified under headings 8519 and 8521
+
+
+All other accessories will not be classified within chapter 84 or 85, unless the accessory meets the terms of a heading in those chapters.
+
+Composite machines and multi-function apparatus
+
+Find information on classifying composite machines and multi-function apparatus.
+
+Changes to the classification of electrical equipment from 1 January 2022
+
+Smartphones
+
+Smartphones will be covered by a new subheading in heading 8517 (8517 13).
+
+Cameras
+
+Heading 8525 will be restructured to include new subheadings, covered under the description ‘television cameras, digital cameras and video camera recorders’. New subheadings will include:
+
+
+  8525 81, high-speed goods  – this will only cover high-speed television cameras, digital cameras and video camera recorders, having one or more of the following characteristics:
+    
+      a writing speed exceeding 0.5mm per microsecond
+      time resolution 50 nanoseconds or less
+      frame rate exceeding 225,000 frames per second
+    
+  
+  8525 82, other, radiation-hardened or radiation-tolerant goods – this will cover goods designed or shielded to enable operation in a high-radiation environment
+  8525 83, other, night vision goods  – this will cover night vision goods which use a photocathode to convert available light to electrons, which can be amplified and converted to yield a visible image
+  8525 89, other – this will cover other goods not covered by other subheadings, including (generally) thermal imaging cameras
+
+
+Drones
+
+Remotely controlled apparatus for capturing and recording video and still images, which are specifically designed to be used with drones, will remain classified under heading 8525.
+
+Drones will be classified under the new heading, 8806. This will cover unmanned aircraft, with parts covered by new heading, 8807.
+
+Flying toys designed solely for amusement purposes will be classified under heading 9503.
+
+Electronic cigarettes
+
+Electronic cigarettes will be classified under a new subheading, 8543 40. This will cover electronic cigarettes and similar personal electric vaporising devices.
+
+New headings
+
+Heading 8524 will cover flat panel display modules whether or not incorporating touch-sensitive screens.
+
+Heading 8549 will cover electrical and electronic waste and scrap.
+
+More information
+
+If this guidance does not cover your specific item in detail and you’re importing goods into Great Britain, you can search for it in the Online Trade Tariff.
+
+If you’re importing goods into Northern Ireland from outside the UK, and the EU and the goods are not ‘at risk’ of onward movement to the EU, you should also use the Online Trade Tariff.
+
+If you’re importing goods into Northern Ireland from outside the UK and the EU, and the goods are at risk of onward movement to the EU, you should use the Northern Ireland (EU) Tariff.
+
+If this guidance does cover your item, you’ll still need to find the full commodity code to use in your declaration on the appropriate tariff.
+
+You can find more ways to help you find a commodity code by referring to the links given in this section.
+
+
+
+
+
+      
+        
+    Published 21 July 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Classifying computers and their components for import and export
+        Classifying textile apparel for import and export
+        Classifying vitamins, supplements and herbal medicines for import and export
+        Classifying toys, games and festive articles for import and export
+        Classifying organic chemicals for import and export
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Import, export and customs for businesses
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

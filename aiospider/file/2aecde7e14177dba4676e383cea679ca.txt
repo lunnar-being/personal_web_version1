@@ -1,0 +1,598 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    LRS organisational portal
+  
+
+  
+  
+
+  
+    
+  Guidance about accessing the LRS organisational portal and latest releases. Includes the monthly headline report for national learners aged 14+. 
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Education and Skills Funding Agency
+
+      
+      Published
+      27 February 2014
+      Last updated
+      
+        4 August 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+  
+    
+      Applies to England, Northern Ireland and Wales
+
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Learning Records Service: release 21.03.02
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    LRS: monthly headline report July 2021
+    
+        
+          
+            View online
+          
+        
+        
+          
+            Download CSV
+            44.1KB
+        
+    
+
+
+  
+
+  
+      
+  
+  
+    Changes to the Learning Records Service
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    New 3a batch schema
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    New LRS password reset self-service now available
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    LRS web service certificate renewal
+    
+        HTML
+    
+
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+
+Access the Learning Records Service organisational portal.
+
+
+Learners retain the same unique learner number (ULN) for accessing their personal learning record (PLR) throughout their lives whatever level of learning they attain and wherever they choose to undertake education, training and learning.
+
+Each unique learner number (ULN) is issued and held by the LRS organisation portal. They are for people who use the numbers to index learner identity details as well as education and training qualifications within the PLR.
+
+You can find your ULN on award certificates or results slips. If you cannot find it ask your current or previous learning provider to collect it from the LRS organisation portal or to create a ULN for you.
+
+Monthly headline report
+
+This report shows summary counts of 40 report lines that are grouped into 7 sub-sets as trends for the last 6 months.
+
+The seven sub-sets include counts from:
+
+
+  learner records
+  bulk learner registration
+  achievements data load
+  organisations and user accounts
+  search for learner by demographics
+  verify learner
+  search for learner by unique learner number (ULN)
+
+
+
+
+
+        
+      
+
+      
+    Published 27 February 2014
+    Last updated 4 August 2021
+      + show all updates
+      
+        
+            
+              4 August 2021
+              We have published the LRS: monthly headline report July 2021.
+            
+            
+              14 July 2021
+              We have published the LRS: monthly headline report June 2021.
+            
+            
+              8 June 2021
+              We have published the LRS: monthly headline report for May 2021.
+            
+            
+              24 March 2021
+              We have published the Learning Records Service: release 21.03.02.
+            
+            
+              3 March 2021
+              We have published the LRS: monthly headline report February 2021.
+            
+            
+              5 February 2021
+              We have published the LRS: monthly headline report January 2021.
+            
+            
+              19 January 2021
+              We have published information about changes being made to the Learning Records Service.
+            
+            
+              13 January 2021
+              We have published the LRS monthly headline report for December 2020.
+            
+            
+              14 December 2020
+              We have updated the LRS web service certificate renewal document.
+            
+            
+              7 December 2020
+              We have published the LRS monthly headline report for November 2020.
+            
+            
+              9 November 2020
+              We have published the Learning Records Service: release 20.11.01.
+            
+            
+              16 September 2020
+              We have published the Learning Records Service: release 20.09.01.
+            
+            
+              17 July 2020
+              We have published the LRS: monthly headline report for June 2020.
+            
+            
+              25 June 2020
+              We have published Learning Records Service: release 20.06.01.
+            
+            
+              8 June 2020
+              We have published the LRS monthly headline report for May 2020.
+            
+            
+              28 May 2020
+              We have published Learning Records Service: release 20.05.01.
+            
+            
+              22 April 2020
+              We have published Learning Records Service: release 20.04.02.
+            
+            
+              10 March 2020
+              We have removed the important notice about LRS maintenance as this has now been completed.
+            
+            
+              6 March 2020
+              We have added information about planned maintenance to LRS between Thursday 5 March 2020 until Tuesday 10 March 2020.
+            
+            
+              27 February 2020
+              We have published the Learning Records Service: release 2002.02 note.
+            
+            
+              17 February 2020
+              We have published the Learning Records Service: release 2002.01.
+            
+            
+              15 January 2020
+              We have published the Learning Records Service: release 2001.01.
+            
+            
+              12 December 2019
+              We have published the Learning Records Service: release 1912.01.
+            
+            
+              13 November 2019
+              We have published Learning Records Service: release 1911.01.
+            
+            
+              12 November 2019
+              We have published the LRS: monthly headline report October 2019.
+            
+            
+              10 October 2019
+              Learning Records Service: September headline report added to the page.
+            
+            
+              3 October 2019
+              Release Note replaced with a newer version.
+            
+            
+              23 September 2019
+              Please be aware that the LRS Organisational portal and Web services will be unavailable between 3pm today and 8am tomorrow morning. 
+
+We apologies for any inconvenience this may cause
+            
+            
+              20 September 2019
+              The LRS Portal will be unavailable from 4pm on Friday 20 September until 8am on Monday 23 September. 
+
+This is as a result of some emergency maintenance that we have scheduled to resolve the slow performance issues with the LRS Portal. We apologise for any inconvenience caused during this outage.
+            
+            
+              19 September 2019
+              We have published LRS: monthly headline report for August 2019.
+            
+            
+              18 September 2019
+              We have published the LRS release note 1909.01
+            
+            
+              4 September 2019
+              We have published information on the LRS web service certificate renewal.
+            
+            
+              15 August 2019
+              We have published the LRS monthly headline report for July 2019.
+            
+            
+              8 August 2019
+              We have published the Learning Records Service: release 1908.01.
+            
+            
+              24 July 2019
+              We have published the Learning Records Service: release 1907.02.
+            
+            
+              10 July 2019
+              We have published the LRS monthly headline report for June 2019.
+            
+            
+              10 July 2019
+              We have published the Learning Records Service: release 1907.01.
+            
+            
+              21 June 2019
+              We have updated the LRS monthly headline report.
+            
+            
+              29 May 2019
+              Updated the LRS release note 1905.02
+            
+            
+              15 May 2019
+              We have published the Learning Records Service: release 1905.01.
+            
+            
+              9 May 2019
+              We have published the LRS monthly headline report for April 2019.
+            
+            
+              8 May 2019
+              We have published details about the new LRS password reset self-service.
+            
+            
+              1 May 2019
+              We have published Learning Records Service: release 1904.03.
+            
+            
+              17 April 2019
+              We have published Learning Records Service: release 1904.02
+            
+            
+              9 April 2019
+              We have published the LRS: monthly headline report March 2019.
+            
+            
+              3 April 2019
+              We have published Learning Records Service: release 1904.01.
+            
+            
+              20 March 2019
+              We've updated the learning record service release note.
+            
+            
+              11 March 2019
+              We have published the LRS: monthly headline report February 2019.
+            
+            
+              8 March 2019
+              We've updated the learning record service release note.
+            
+            
+              4 March 2019
+              We have published information on the new LRS password reset self-service functionality which will be introduced shortly.
+            
+            
+              20 February 2019
+              We have published the Learning Records Service: release 1902.02 note.
+            
+            
+              12 February 2019
+              We have published the Learning Records Service: release 1902.01 and information about the new 3a batch schema.
+            
+            
+              5 February 2019
+              We have published the monthly headline report for January 2019.
+            
+            
+              28 January 2019
+              We have updated the information regarding release 2901.02 as the new 3a batch schema has been postponed until further notice.
+            
+            
+              25 January 2019
+              We have published Learning Records Service: release 29.01.02 and information on the new 3a batch schema.
+            
+            
+              21 January 2019
+              We have published the Learning Records Service: release 2201.01.
+            
+            
+              8 January 2019
+              We have published the monthly headline report for December 2018.
+            
+            
+              14 December 2018
+              We have published the Learning Records Service: release 1812.01.
+            
+            
+              6 December 2018
+              We have published the LRS: monthly headline report for November 2018.
+            
+            
+              16 November 2018
+              We have published information about LRS release 1811.02.
+            
+            
+              14 November 2018
+              Updated LRS monthly headline report.
+            
+            
+              5 November 2018
+              Added information about LRS release 1811.01
+            
+            
+              10 October 2018
+              Updated LRS monthly headline report.
+            
+            
+              28 September 2018
+              Added information about LRS release 1809.02
+            
+            
+              10 September 2018
+              Updated LRS monthly headline report.
+            
+            
+              16 August 2018
+              Updated LRS: monthly headline report
+            
+            
+              3 July 2018
+              Updated LRS: monthly headline report
+            
+            
+              22 June 2018
+              Updated monthly headline report
+            
+            
+              28 March 2018
+              LRS organisation portal link updated
+            
+            
+              2 March 2018
+              LRS organisation portal - updated.
+            
+            
+              20 November 2017
+              New file titled LRS organisation portal - new URL uploaded on 20 November 2017. Also call to action added to detail section.
+            
+            
+              25 November 2016
+              New document titled Data encryption and passphrase guidance sheet to all users uploaded on 25 November 2016.
+            
+            
+              27 February 2014
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Using the learning records service (LRS)
+        How to register on the Learning Records Service
+        Unique pupil numbers
+        LRS: validation tool
+        LRS: privacy notice
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Learning Records Service
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

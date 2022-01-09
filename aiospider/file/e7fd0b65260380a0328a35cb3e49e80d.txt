@@ -1,0 +1,62 @@
+
+        
+        
+        
+     central banks in Europe, Japan, and the United States have sought to stimulate economic activity, stabilize banking systems suffering from nonperforming loans, and manage exchange rates. A few have even pushed reference rates toward zero and below, while also undertaking quantitative easing in the form of bond-buying programs, to push down term rates as well. Against this background, central banks are contemplating broader and more intensive implementation of negative rates in case of a severe downturn.
+	
+While economies have benefited, low and negative interest rates come with strong side effects for investors and financial institutions. Over time, negative interest rates hurt profitability by eroding banks’ net-interest margins. Japanese banks, for example, first saw net-interest margins increase as client rates on deposits were reduced faster than average rates on loans.
+
+
+ Soon thereafter, however, net-interest margins steadily declined as yields on loans and bonds acquired declined, pushed down by the Bank of Japan’s quantitative-easing program. The increase in balance-sheet volumes did not offset the decline in net-interest margins.Economists and business analysts expect that the present squeeze on margins is going to last at least five years, and probably more. Eurozone banks could face a margin decline of eight basis points. But there’s good news too: treasurers may be able to mitigate most or all of the forecast depletion, through a combination of effective governance, a clear risk-appetite framework for hedging strategies, and IT and data reporting that achieves transaction-level transparency.Since 2015, most banking sectors subject to negative-interest-rate policies have experienced a decline in net-interest margins (Exhibit 1).
+
+
+
+    
+The impact on banks of negative-interest-rate policies varies according to the . Smaller banks focused on domestic loans and deposits are often hurt more than larger banks, which tend to be more diversified across currencies and have a larger share of fee business. Banks of all sizes should prepare for the long-term effects of negative interest rates and quantitative easing by adopting a comprehensive program of countermeasures. Treasurers will be instrumental in designing and implementing these measures.The components of net-interest marginsThe main components of net-interest margins are structural elements, margins on assets, and margins on liabilities (which depend on the business model and regional setup) (Exhibit 2). The structural elements include benefits from maturity transformation, modeling and hedging the repricing tenor of the bank’s own funds, and liquidity buffer income. They account for 15 to 35 percent of net-interest margin and decline due to flattening interest-rate curves and tighter credit spreads for bonds. The other two components—the margins on assets and liabilities—are more closely linked to client business.
+    
+Negative interest rates and quantitative easing create  for each component:
+    
+    
+    
+Even if interest rates remain stable over the next five years, the impact of negative rates will continue to squeeze net-interest margins, especially the structural elements. Consequently, the net-interest margin for banks in the eurozone could decline by another 8 basis points during this period. If the interest-rate curve were to move down another 50 basis points, the net-interest margin would drop by a further 8 basis points—or more—depending on  (Exhibit 3).
+
+
+
+    
+The treasurer’s role in building resilienceBank treasurers can play a central role in countering the impact of negative interest rates. They can do this by taking action in the following areas: identify and understand all relevant risks; implement measures to shore up and stabilize the components of net-interest margins, including the structural and client-related elements; and actively cooperate with top management to help steer the business in the negative-interest-rate environment.Capturing risksTo identify and understand all relevant risks, treasurers need reporting systems that capture, model, and simulate interest-rate, funding, and liquidity risks. The IT and data architecture for reporting should create transaction-level transparency across legal entities. With these systems in place, treasurers can take these important actions:
+    Choose a sufficiently long time horizon (such as five years) for capturing the impact of negative rates on net-interest margins and the balance sheet.
+    Assess the impact of political, legal, or reputational risks, such as the implied
+    zero percent floor for retail deposit and mortgage rates.
+    Review the dynamics of pension and insurance risks due to changes in interest rates and the interplay with inflation rates, credit spreads, and longevity.
+    Identify the characteristics of implicit and behavioral options, such as prepayment risk in loans and attrition risk in deposits, even if they are not accounted at fair value. Quantify the risk arising from negative convexity in the balance sheet positions (when bond prices move in the same direction as interest rates).
+    When calculating scenario analysis for the economic value of equity, also consider the impact on commercial margins. Perform reverse stress tests to identify critical moves in interest rates across different currencies.
+Optimizing the risk–return profile of the structural components of net-interest marginsTo optimize the risk–return profile of the structural components of net-interest margins, banks need to formulate an effective governance model and a clear risk-appetite framework for hedging strategies. These measures will allow the treasurer and related risk managers to make transparent, informative, and effective proposals. The objective is to obtain clear and timely decisions in the following areas:
+    Behavioral models for nonmaturing deposit balances feeding into interest-rate risk models and hedging strategies.
+    Adjustments for mismatched maturity profiles of assets and liabilities.
+    Positions with positive convexity (financial instruments which could disproportionally benefit from further declines in interest rates and offset negative-convexity positions).
+    Assumptions regarding the interest-rate tenor of equity and respective replicating hedge positions.
+    Assumptions on the size, composition, and funding tenor of the liquidity buffer as well as of collateral for payment and clearing and settlement systems.
+    Utilization of liquidity in foreign subsidiaries or branches, which can become trapped on local balance sheets due to legal or regulatory requirements.
+Stabilizing client-related componentsTo stabilize the client-related components of net-interest margins (assets and liabilities), treasurers also need a funds-transfer pricing mechanism and limit system that does four things: provide business lines with incentives to generate interest-bearing assets, bring down funding costs, increase the stability of deposits, and minimize liquidity buffer requirements. Treasurers can attain the leverage necessary to accomplish these objectives by taking certain measures:
+    Providing incentives to increase loan volumes in currencies with positive interest-rate levels.
+    Encouraging new loan products and loan products with digital distribution channels that are scalable and can provide stable margins due to fast processing and positive client experience.
+    Linking mortgages and covered bond issuances more closely with respect to issuance volumes and yields.
+    Adjusting client rates for current accounts, short-term deposits, and savings deposits by offering “account packages” with fixed fees.
+    Introducing tiered pricing for larger deposit balances and reference deposit rates to central-bank rates as appropriate for client group and purpose of deposits.
+    Classifying hurdle rates for client deposits as particularly stable from an internal-risk-management or regulatory perspective.
+    Stimulating the shift of unstable deposits with a zero interest-rate floor into alternative investment products.
+These actions may include a temporary increase in the loan-to-deposit ratio, reversing
+the traditional paradigm of targeting a low loan-to-deposit ratio. Denmark, Japan, Sweden, and Switzerland all took this approach from 2014 to 2018 (Exhibit 4).
+    
+Our experience and analysis suggest that treasurers may be able to mitigate most or all of the forecast depletion of net-interest margins for the next five years, through a combination of these mitigating measures (Exhibit 5).
+
+
+ The degree of mitigation will depend on a bank’s business model, its risk appetite, its ability to employ more capital, and the degree to which the specific levers discussed above have already been deployed. The exact shape of the yield curve will also play a role.
+    
+Steering the businessTo help senior leaders steer the businesses within the negative-interest-rate environment, treasurers must understand each business line’s specific business model and criteria for success. To be effective in their consultative capacity, treasurers must help ensure that the roles and responsibilities among treasury, finance, risk, and the business lines are clearly defined and universally understood. The group needs to establish a shared view on balance-sheet planning (including capital, liquidity, and funding needs), legal entities, and strategic planning. Modern technology in fact makes such management overlays relatively easy to create. Establishing organizational units that bridge business lines and treasury departments can help facilitate communication and implement measures.Ongoing strategic management is neededSimply stabilizing the net-interest margin will not sufficiently drive significant and sustainable income growth. Banks need to take a strategic approach to manage real growth. Treasurers can facilitate that strategy by taking calculated steps in the following areas:
+    Expand off-balance sheet investment solutions, such as deposit platforms, sweeps, fund solutions, cash exchange-traded funds, and insurance-based savings plans.
+    Renew emphasis on fee- and commission-based products, such as payments, advisory business, and asset management.
+    Use incentives and capital allocation to expand loan volumes in high-margin businesses such as consumer finance and credit cards.
+Treasurers can thus increase the efficiency of their own oversight and bring valuable counsel to the executive suite. Depending on the business model, the regional setup of the bank, and the deployment of additional capital, a comprehensive program can improve net-interest margins by up
+to 10 basis points. But timely and decisive action is of essential importance.While today’s interest-rate environment poses enormous challenges to growth in the banking sector, many of the tools for addressing the challenges are well known to treasurers. By taking
+a more holistic approach to using these tools, bringing their own considerable expertise to bear, and establishing a joint-management view on strategic planning and balance sheet–capital management, treasurers can play a vital role in their banks’ financial success in the next period.

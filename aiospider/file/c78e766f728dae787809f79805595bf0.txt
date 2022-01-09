@@ -1,0 +1,235 @@
+
+
+In this report, the authors assess the state of artificial intelligence (AI) relevant to DoD and address misconceptions about it; conduct an independent and introspective assessment of the Department of Defense's posture in AI; and put forth a set of recommendations for internal actions, external engagements, and potential legislative or regulatory actions that could enhance the Department of Defense posture in AI.
+
+
+
+
+Read Online
+
+The Department of Defense Posture for Artificial Intelligence
+Assessment and Recommendations
+by Danielle C. Tarraf, William Shelton, Edward Parker, Brien Alkire, Diana Gehlhaus, Justin Grana, Alexis Levedahl, Jasmin Léveillé, Jared Mondschein, James Ryseff, et al.
+Related Topics: Artificial Intelligence, Big Data, Machine Learning, Military Information Technology Systems, Science, Technology, and Innovation Policy, United States Department of Defense
+CitationEmbedView related products
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+DownloadDownload eBook for Free
+
+FormatFile SizeNotes
+
+
+
+
+PDF file
+
+
+1.1 MB
+Use Adobe Acrobat Reader version 10 or higher for the best experience.
+
+
+
+
+Purchase
+Purchase Print Copy
+
+ FormatList Price
+Price
+
+
+Add to Cart
+Paperback186 pages
+$28.00
+$22.40 20% Web Discount
+
+
+
+
+
+
+
+
+
+
+Research Questions
+
+What is the state of AI relevant to the DoD?What is the DoD’s current posture in AI?What internal actions, external engagements, and potential legislative or regulatory actions might enhance the DoD’s posture in AI?
+
+
+
+The 2019 National Defense Authorization Act mandated a study on artificial intelligence (AI) topics. In this report, RAND Corporation researchers assess the state of AI relevant to the U.S. Department of Defense (DoD), and address misconceptions about AI; they carry out an independent and introspective assessment of the Department of Defense's posture for AI; and they share a set of recommendations for internal actions, external engagements, and potential legislative or regulatory actions to enhance the Department of Defense's posture in AI.
+Key Findings
+
+The state of AI and its implications for DoDMany technologies underpin AI. Recent significant technological advances have been primarily in supervised machine learning, specifically deep learning. Success in deep learning is predicated on the availability of large labeled data sets and significant computing power to train the models. The current crop of approaches are fragile, artisanal, and are optimized for commercial rather than DoD uses.
+The current state of AI verification, validation, test, and evaluation (VVT&E) is nowhere close to ensuring the performance and safety of AI applications, particularly where safety-critical systems are concerned. Although this is not a problem unique to DoD, it is one that significantly affects DoD.
+It is important for DoD to maintain realistic expectations for both performance and timelines in going from demonstrations of the art of the possible to deployments at scale. As a rule of thumb, investments made today can be expected to yield at scale deployment in the near-term for enterprise AI, mid-term for most mission support AI, and long-term for most operational AI.
+DoD's posture in AI is significantly challenged across all dimensions of the authors' assessmentDoD lacks baselines and metrics in conjunction with its AI vision.
+The Joint Artificial Intelligence Center (JAIC) lacks visibility and authorities to carry out its present role. It also lacks a five-year strategic road map, and a precise objective allowing it to formulate one.
+The lack of longer-term budget commitments might hinder the JAIC's success.
+The service AI annexes lack baselines and metrics. When mandates and authorities of the service AI organizations exist, they appear to be limited.
+Communication channels between the builders and users of AI within DoD are sparse.
+Innovation within DoD might be hampered by current practices and processes or their implementation. Current practices and processes also inhibit the ability to bring in external innovation.
+Data are not collected and stored at every opportunity, and access to existing data is limited; the data that exist are not always understandable or traceable. Lack of interoperability in systems across DoD also creates challenges. There is ambiguity in data ownership where external vendors are involved.
+DoD lacks clear mechanisms for defining and tracking AI talent, and it struggles to grow and cultivate AI talent.
+
+
+Recommendations
+
+DoD should adapt AI governance structures that align authorities and resources with their mission of scaling AI.
+
+The JAIC and each centralized service organization should develop a five-year strategic road maps to scale AI.
+
+The JAIC, working with DoD partners, should carry out annual or biannual portfolio reviews of DoD-wide investments in AI.
+
+The JAIC should organize a technical workshop showcasing AI programs DoD-wide.
+
+DoD should advance the science and practice of VVT&E of AI systems, working in close partnership with industry and academia.
+All funded AI efforts should include a budget for AI VVT&E, including any critically needed testing infrastructure.
+
+All agencies within DoD should create or strengthen mechanisms for connecting AI researchers, technology developers, and operators.
+
+DoD should recognize data as critical resources, continue instituting practices for their collection and curation, and increase sharing while resolving issues in protecting the data after sharing and during analysis and use.
+
+The chief data officer should make a selection of DoD data sets available to the AI community to spur innovation and enhance external engagement with DoD.
+
+DoD should embrace permeability, and an appropriate level of openness, as a means of enhancing DoD's access to AI talent.
+
+
+
+
+ Related Products 
+
+
+
+
+
+
+
+
+
+News Release
+Pentagon's Ambitious Vision and Strategy for AI Not Yet Backed by Sufficient Visibility or Resources
+
+Dec 17, 2019
+
+
+
+
+
+
+
+
+
+
+Research Brief
+The Department of Defense's Posture for Artificial Intelligence
+
+Jan 26, 2021
+Danielle C. Tarraf @daniellectarraf, William Shelton, et al.
+
+
+
+
+
+
+
+Table of Contents
+
+Chapter One
+Introduction
+
+Chapter Two
+Analytical Framework and Methodology
+
+Chapter Three
+The DoD-Relevant State of Artificial Intelligence
+
+Chapter Four
+DoD Posture for Artificial Intelligence
+
+Chapter Five
+Recommendations
+
+Appendix A
+Details of the Analytic Methodology
+
+Appendix B
+Insights from Federal Interviews
+
+Appendix C
+Insights from Interviews with Industry and Academia
+
+Appendix D
+Insights from Historical Case Studies
+
+Appendix E
+Defining Artificial Intelligence
+
+
+
+
+Research conducted by
+
+RAND National Security Research Division
+
+
+
+This research was sponsored by the DoD Joint Artificial Intelligence Center (JAIC) and was conducted within the Acquisition and Technology Policy Center of the RAND National Defense Research Institute, a federally funded research and development center sponsored by the Office of the Secretary of Defense, the Joint Staff, the Unified Combatant Commands, the Navy, the Marine Corps, the defense agencies, and the defense Intelligence Community.This report is part of the RAND Corporation Research report series. RAND reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND reports undergo rigorous peer review to ensure high standards for research quality and objectivity.Permission is given to duplicate this electronic document for personal use only, as long as it is unaltered and complete. Copies may not be duplicated for commercial purposes. Unauthorized posting of RAND PDFs to a non-RAND Web site is prohibited. RAND PDFs are protected under copyright law. For information on reprint and linking permissions, please visit the RAND Permissions page.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: RAND Corporation
+Availability: Available
+
+Print
+Format: Paperback
+Paperback Pages: 186
+List Price: $28.00
+Paperback Price:  $22.40
+Paperback ISBN/EAN: 9781977404053
+DOI: https://doi.org/10.7249/RR4229
+Document Number: RR-4229-OSD
+Year: 2019
+Series: Research Reports
+
+
+
+Explore
+Related Topics
+
+Artificial IntelligenceBig DataMachine LearningMilitary Information Technology SystemsScience, Technology, and Innovation PolicyUnited States Department of Defense
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+Citation
+Format:
+
+ Chicago Manual of Style
+ RAND Corporation Style Manual
+
+Tarraf, Danielle C., William Shelton, Edward Parker, Brien Alkire, Diana Gehlhaus, Justin Grana, Alexis Levedahl, Jasmin Léveillé, Jared Mondschein, James Ryseff, Ali Wyne, Daniel Elinoff, Edward Geist, Benjamin N. Harris, Eric Hui, Cedric Kenney, Sydne Newberry, Chandler Sachs, Peter Schirmer, Danielle Schlang, Victoria M. Smith, Abbie Tingstad, Padmaja Vedula, and Kristin Warren, The Department of Defense Posture for Artificial Intelligence: Assessment and Recommendations. Santa Monica, CA: RAND Corporation, 2019. https://www.rand.org/pubs/research_reports/RR4229.html. Also available in print form.
+Tarraf, Danielle C., William Shelton, Edward Parker, Brien Alkire, Diana Gehlhaus, Justin Grana, Alexis Levedahl, Jasmin Léveillé, Jared Mondschein, James Ryseff, Ali Wyne, Daniel Elinoff, Edward Geist, Benjamin N. Harris, Eric Hui, Cedric Kenney, Sydne Newberry, Chandler Sachs, Peter Schirmer, Danielle Schlang, Victoria M. Smith, Abbie Tingstad, Padmaja Vedula, and Kristin Warren, The Department of Defense Posture for Artificial Intelligence: Assessment and Recommendations, Santa Monica, Calif.: RAND Corporation, RR-4229-OSD, 2019. As of December 17, 2021: https://www.rand.org/pubs/research_reports/RR4229.html
+
+Download Citation (BibTeX)
+Download Citation (RIS)
+
+
+

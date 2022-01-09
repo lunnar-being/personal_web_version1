@@ -1,0 +1,115 @@
+
+
+The RAND Blog
+Previous Blog PostWant to Stem the Rising Mental Health Crisis? Look Beyond the Usual Suspects for HelpNext Blog PostEqual Pay for Equal Work: How Binding Pay Transparency Measures May Help
+
+The Future of Research Outputs
+commentary
+(British Library)
+Photo by ipopba/Getty Images
+
+
+
+by Susan Guthrie, Maja Maricevic, Catriona Manville
+May 12, 2020
+
+
+Earlier this year, the British Library and RAND Europe hosted a roundtable discussion on how research outputs—the different ways research can be disseminated—are changing. It brought together representatives from research funders, publishers, research institutes, government, and universities to explore the issue and its implications.
+Workshop participants discussed RAND Europe's recent study for Research England that showed that researchers currently produce a diversity of output forms, the range of which is likely to increase. Although researchers expect to continue to produce journal articles and conference contributions, they also want and plan to diversify the outputs they produce, with a particular focus on those aimed at a wider, non-academic audience.
+The British Library also presented its current work and experience in collecting, preserving and making accessible a range of research outputs such as research data, web and social media, as well as new and evolving output formats.
+The discussion addressed the following five questions:
+How Do We Define and Identify a Research Output?
+
+The fluid and dynamic mix of different media emerging over time makes it challenging to understand what is a 'research output' as traditionally defined. Share on TwitterThere are many different types of outputs from research, from traditional journal articles and books to more diverse examples such as computer code, artworks, blogs, datasets, and peer review contributions. One of the challenges is to identify which are actually outputs for dissemination, and which represent a stage in the development of research on the pathway to producing those outputs. An example of the latter is a Github repository for managing and storing revisions of projects, which may be fluid and changing on an ongoing basis. Other products—for example social media exchanges—are a fixed point but may not represent a researcher's final perspective on a topic, rather the emergence and discussion of views and ideas. This fluid and dynamic mix of different media emerging over time makes it challenging to understand what is a 'research output' as traditionally defined. 
+Where Does Responsibility Lie?
+Research is increasingly global and research outputs may span national borders—hence, drawing lines between what is and what is not 'UK research' is not straightforward. There is a limit on the extent to which a full record of all research endeavours can be provided. Different stakeholders—libraries, funders, institutions, publishers—can either look to shape and drive desirable changes in behaviour or respond to changes as they emerge from the 'bottom up'. Funders in particular have the potential to drive researcher actions through the use of incentives.How Do We Manage Quality Control?
+As the range and nature of outputs broaden, questions emerge around how to assess the quality of the outputs and decide what is part of the scientific record. Peer review, the current approach, has its weaknesses. A key test of the quality and rigour of research is the extent of uptake and use by the academic community over time. In that sense, the change in types of outputs makes little difference to the ultimate assessment of their quality. However, as the volume of research products increases, alongside increasing concerns over reproducibility, fake news and the reliability of evidence, being able to point to legitimate and reliable sources may be of increasing value.Do We Have the Support Infrastructure for Now and the Future?
+The growing diversity of research outputs creates new challenges in relation to the complex infrastructure needed to support their review, dissemination, and storage across different players in the field e.g., funders, publishers, and libraries. Identifying areas in which an intervention could make systems more efficient and futureproof could help but needs to be better understood. Securing digital platforms for sharing and collaborating on research could be part of these interventions, as could increasing digital archiving for discovery and access.What Are Some Possible Solutions?
+Permanent digital links to research outputs, which act as unique IDs for outputs to enable their consistent identification and referencing, may be a key part of the solution. Ensuring their consistent use, however, is a potential challenge and an important route forward to help make this problem more tractable. Participants discussed the successful example of DataCite in establishing an international solution. AI may also be part of the solution, in terms of discoverability of outputs. However, there are potential risks associated with this, such as biases, and a lack of knowledge around the way information is curated and presented by algorithms (for example, when using Google Scholar). Linked to these technological solutions is the need for data literacy, within and beyond the research community, as well as creating a culture of openness and transparency across all stages of the research cycle.
+The changing nature of research outputs has the potential to affect a wide range of organisations and people in the sector. Joined-up thinking and action could help. As the diversity of research outputs increases, we have to make choices. We can either be reactive, responding to needs and challenges as they emerge, or proactive, to help shape and guide the nature and effective preservation of research outputs. A more proactive stance could help drive research towards better practice in information storage, sharing and communication, but requires early action and shared goals at a sector level. Continued dialogue and sharing of views on this topic could be important to make sure these issues are appropriately and adequately addressed.
+
+Susan Guthrie and Catriona Manville are research leaders in science and innovation policy at RAND Europe. Maja Maricevic is head of higher education and science at the British Library.
+This commentary originally appeared on British Library on May 7, 2020. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Susan Guthrie
+Research Group Director, Science and Emerging Technology, RAND Europe
+
+
+
+
+
+
+Topics
+ Science of Science
+Science, Technology, and Innovation Policy
+United Kingdom
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+The changing research landscape and reflections on national research assessment in the future
+
+Oct 3, 2019
+Sarah Parks, Daniela Rodriguez-Rincon, et al.
+
+
+
+
+
+
+
+
+
+
+Commentary
+Outputs of the Future
+
+Oct 11, 2019
+Catriona Manville, Steven Hill
+
+
+
+
+
+
+
+
+
+
+Project
+What is the future of research and research assessment?
+
+Oct 4, 2019
+
+
+
+
+
+
+
+

@@ -1,0 +1,239 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Defence condition 658: cyber (flow-down)
+  
+
+  
+  
+
+  
+    
+  DEFCON 658 cyber applies to all suppliers down the supply chain (edition October 2017).
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Ministry of Defence
+
+      
+      Published
+      17 October 2017
+      Last updated
+      
+        10 September 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Cyber DEFCON 658
+    
+        
+          Ref: Edition 10/17 9/21
+        
+        HTML
+    
+
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+Defence Condition 658 (cyber)
+
+This document contains the following sections:
+
+
+  Definitions
+  Authority obligations
+  Contractor obligations
+  Management of sub-contractors
+  Records
+  Audit
+  General
+
+
+Annex to DEFCON 658
+
+
+  Definitions
+  Sub-contractor obligations
+  Records
+  Audit
+  General
+
+
+
+
+        
+      
+
+      
+    Published 17 October 2017
+    Last updated 10 September 2021
+      + show all updates
+      
+        
+            
+              10 September 2021
+              Added the updated version of DEFCON 658 (9/21).
+            
+            
+              17 October 2017
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Defence Cyber Protection Partnership
+        Cyber security for defence suppliers (Def Stan 05-138)
+        Cyber Security Model: cyber risk profiles’ requirements
+        DCPP: Cyber Security Model industry buyer and supplier guide
+        Defence Cyber Protection Partnership: communications materials
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Defence and armed forces
+        National security
+        Business and industry
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

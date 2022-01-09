@@ -1,0 +1,91 @@
+
+
+
+
+Previous News ReleaseMost U.S. Social Studies Teachers Feel Unprepared to Teach Civic Learning, a Gap That Could Contribute to Truth DecayNext News ReleaseFinancial Woes Grow Worse Over Course of Coronavirus Pandemic; More Families Report Trouble Paying Bills
+
+
+Remote Learning Here to Stay Despite Challenges
+
+
+
+For Release
+TuesdayDecember 15, 2020
+
+About two in 10 U.S. school districts have already adopted, plan to adopt, or are considering adopting virtual schools after the end of the COVID-19 pandemic, according to a new RAND Corporation study.
+The survey of district leaders indicates that virtual schooling was the innovative practice that most district leaders anticipated would continue, citing both student and parent demand for continuing various forms of online instruction.
+District leaders were united in their concerns about students' unequal opportunities to learn during COVID-19, which was among their top-rated challenges for the 2020–2021 school year.
+However, in districts where at least 50% of students are Black or Hispanic/Latino or at least 50% of students qualify for free or reduced-price lunch rate, leaders also continued to rank fundamentals like internet and technology access as greatest needs. In contrast, leaders of the remaining districts more heavily emphasized student mental health and high-quality instructional resources rate as greatest needs. 
+“We found three common concerns: disparities in students' opportunities to learn, students' social and emotional learning needs, and insufficient funding to cover staff,” said Heather Schwartz, lead author of the report and director of the Pre-K to 12 educational systems program at RAND, a nonprofit research organization. “But just as reopening plans differ based on local approaches to both schooling and the pandemic, district leaders' opinions differed on the degree to which they prioritized these needs and concerns.” 
+RAND fielded the survey to the new American School District Panel (ASDP) September through November 2020. The ASDP is the first-of-its-kind nationally representative, longitudinal panel of school districts across the United States, providing opportunities for district and charter management organization leaders to inform policy and practice. It is the newest member of the American Educator Panels (AEP), which includes two other standing panels of educators: the American Teacher Panel and the American School Leader Panel. 
+RAND, the Center on Reinventing Public Education, Chiefs for Change, and Kitamba partnered to develop and deploy the ASDP. The Center on Reinventing Public Education developed case studies of six districts' approaches to remote learning during COVID-19.
+The other authors of “Remote Learning Is Here to Stay: Results from the First American School District Panel Survey” are David M. Grant, Melissa Diliberti, Gerald P. Hunter and Claude Messan Setodji.
+RAND Education and Labor, a division of RAND, is dedicated to improving education and expanding economic opportunities for all through research and analysis. Its researchers address key policy issues in U.S. and international education systems and labor markets, from pre-kindergarten to retirement planning.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+About the RAND Corporation
+The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous.
+
+
+
+
+Media Resources
+RAND Office of Media Relations
+(703) 414-4795
+(310) 451-6913
+media@rand.org
+
+
+Researcher Spotlight
+
+
+
+Heather L. Schwartz
+Director, Pre-K to 12 Educational Systems Program
+
+
+Heather Schwartz is the director of the Pre-K to 12 educational systems program and a senior policy researcher at the RAND Corporation. She researches education and housing policies intended to reduce the negative effects of poverty on children and families. Her work falls in three policy…
+
+Explore Our People »
+
+Explore
+All News Releases
+By Date
+Related Topics
+
+Coronavirus Disease 2019 (COVID-19)Educational EquityEducational InstitutionsEducational TechnologyPandemic
+
+Research Conducted By
+
+RAND Education and Labor
+
+Explore All Topics »
+
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+Report
+Remote Learning Is Here to Stay
+
+Dec 15, 2020
+Heather L. Schwartz @schwartz_hl, David Grant, et al.
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Research Topics:Education and Literacy/Educational Institutions","Research Topics:Health, Health Care, and Aging/Infectious Diseases/Coronavirus Disease 2019 (COVID-19)","Content Types:News Release","Research Topics:Health, Health Care, and Aging/Infectious Diseases/Epidemic/Pandemic","Research Topics:Education and Literacy/Educational Equity","Research Topics:Science and Technology/Educational Technology"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Educational Institutions","value":"research-topics:education-and-literacy/educational-institutions"},{"display":"Coronavirus Disease 2019 (COVID-19)","value":"research-topics:health-health-care-and-aging/infectious-diseases/coronavirus-disease-2019-COVID-19"},{"display":"News Release","value":"content-types:news-release"},{"display":"Pandemic","value":"research-topics:health-health-care-and-aging/infectious-diseases/epidemic/pandemic"},{"display":"Educational Equity","value":"research-topics:education-and-literacy/educational-equity"},{"display":"Educational Technology","value":"research-topics:science-and-technology/educational-technology"}];})();
+

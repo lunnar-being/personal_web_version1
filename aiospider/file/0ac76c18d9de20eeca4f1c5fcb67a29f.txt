@@ -1,0 +1,113 @@
+
+
+The RAND Blog
+Previous Blog PostCOVID-19 Testing in Schools, Family Caregivers, U.S. Entrepreneurship: RAND Weekly RecapNext Blog PostBook Review: 'Liberalism, the Blob, and American Foreign Policy: Evidence and Methodology' by Robert Jervis
+
+Could the Bioweapons Treaty Be Another Tool for Addressing Pandemics?
+commentary
+(Bulletin of the Atomic Scientists)
+ U.S. Marines check a barrel for contamination during a training exercise at Marine Corps Air Station Miramar, San Diego, California, April 30, 2013Photo by Sgt. Keonaona C. Paulo/U.S. Marine Corps
+
+
+
+by Daniel M. Gerstein
+March 12, 2021
+
+
+Since the beginning of the pandemic, the World Health Organization (WHO) has played a central role in updating the public, investigating the origin of the novel coronavirus, and encouraging public health measures around the globe. But the WHO has contended with critics on several fronts, including its initial handling of COVID-19 and the ongoing investigation into the virus's origins. It's perhaps easy to forget that outside of the spotlight shining on the WHO, there is a separate international agreement that is similar in some ways to the regulations that guide the health body—a treaty that has the potential to play a critical role in preventing or addressing deliberate biological attacks—which themselves could spark a pandemic: the Biological Weapons Convention.
+The bioweapons treaty has overlapping interests with the International Health Regulations that underpin the WHO. Those require all countries to have the ability to “detect, assess, report, and respond to public health events.” The bioweapons treaty has the aim of excluding “completely the possibility of…biological agents and toxins being used as weapons.” Both depend on governments having the ability to conduct disease surveillance, provide personal protective equipment and medical countermeasures, and ensure biosafety and biosecurity in labs. And these capabilities and resources are important for responding to or mitigating either a naturally occurring event or a deliberate attack. Yet during the pandemic, neither the public nor expert community has paid much attention to the role the bioweapons treaty could play.
+However, in light of COVID-19, perhaps now is the right time to revisit the 46-year-old treaty and make it a better tool against future biological threats, including both deliberate biological attacks and pandemics. The members of the Biological Weapons Convention are set to meet this fall for an every-five-year review conference. This forum could provide an important opportunity to consider the implications of COVID-19 on the likelihood of, preparations for, and response to a deliberate biological attack.…
+The remainder of this commentary is available at thebulletin.org.
+
+Daniel M. Gerstein is a senior policy researcher at the RAND Corporation. He formerly served as the undersecretary (acting) and deputy undersecretary in the Science and Technology Directorate of the Department of Homeland Security from 2011 to 2014.
+Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Daniel M. Gerstein
+@Daniel_Gerstein
+Senior Policy Researcher
+
+
+
+
+
+
+Topics
+ Biological Weapons and Warfare
+Bioterrorism
+Coronavirus Disease 2019 (COVID-19)
+International Diplomacy
+Pandemic
+Security Cooperation
+Vaccination
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Commentary
+Biosecurity Is the Lesson We Need to Learn from the Coronavirus Pandemic
+
+May 11, 2020
+Daniel M. Gerstein @Daniel_Gerstein, James Giordano
+
+
+
+
+
+
+
+
+
+
+Commentary
+Countering Bioterror
+
+Jan 18, 2016
+Daniel M. Gerstein @Daniel_Gerstein
+
+
+
+
+
+
+
+
+
+
+Commentary
+How to Handle the Infectious Diseases Threat
+
+Jun 3, 2016
+Daniel M. Gerstein @Daniel_Gerstein
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:Commentary","Content Types:Blog","Research Topics:Health, Health Care, and Aging/Infectious Diseases/Coronavirus Disease 2019 (COVID-19)","Research Topics:National Security and Terrorism/Military Affairs/Warfare and Military Operations/Biological Weapons and Warfare","Research Topics:International Affairs/International Diplomacy","Research Topics:International Affairs/Global Security/Security Cooperation","Research Topics:Health, Health Care, and Aging/Infectious Diseases/Epidemic/Pandemic","Research Topics:Health, Health Care, and Aging/Preventive Health Care/Vaccination","Research Topics:Homeland Security and Public Safety/Homeland Security/Bioterrorism"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Commentary","value":"content-types:commentary"},{"display":"Blog","value":"content-types:blog"},{"display":"Coronavirus Disease 2019 (COVID-19)","value":"research-topics:health-health-care-and-aging/infectious-diseases/coronavirus-disease-2019-COVID-19"},{"display":"Biological Weapons and Warfare","value":"research-topics:national-security-and-terrorism/military-affairs/warfare-and-military-operations/biological-weapons-and-warfare"},{"display":"International Diplomacy","value":"research-topics:international-affairs/international-diplomacy"},{"display":"Security Cooperation","value":"research-topics:international-affairs/global-security/security-cooperation"},{"display":"Pandemic","value":"research-topics:health-health-care-and-aging/infectious-diseases/epidemic/pandemic"},{"display":"Vaccination","value":"research-topics:health-health-care-and-aging/preventive-health-care/vaccination"},{"display":"Bioterrorism","value":"research-topics:homeland-security-and-public-safety/homeland-security/bioterrorism"}];})();
+

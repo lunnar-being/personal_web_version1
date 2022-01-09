@@ -1,0 +1,546 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    The Target Development Profile Toolkit
+  
+
+  
+  
+  
+      
+  This toolkit is for Innovation Passport holders following the Innovative Licensing and Access Pathway (ILAP) and provides activities to support the design and development of medicines.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Medicines and Healthcare products Regulatory Agency
+
+      
+      Published
+      30 March 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Adaptive Inspections
+
+        
+        
+          Certifications
+
+        
+        
+          Continuous Benefit Risk Assessment integrating Real World Evidence
+
+        
+        
+          Clinical Practice Research Datalink (CPRD) Assisted Patient Recruitment
+
+        
+        
+          Enhanced patient engagement
+
+        
+        
+          Innovative and Flexible Licensing Routes
+
+        
+        
+          Novel methodology and innovative clinical trial design
+
+        
+        
+          Rapid Clinical Trial Dossier Pre-Assessment
+
+        
+        
+          Forthcoming tools
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+These tools are a collection of activities and assessments to support you as you follow the ILAP. You may request any tool that you want to use and is relevant to your application through the Target Development Profile (TDP). The partners will consider the request in the TDP Roadmap.
+
+Adaptive Inspections
+
+The Adaptive Inspections tool is designed to support the over-arching ILAP and enable transformed regulation. It will support the non-clinical, clinical and manufacturing design and development pathway to ensure protection of patients and reliability of results.
+
+Adaptive inspections can be used to progress and support your authorisation applications and post-authorisation patient supply. This will help to make sure that the most promising innovative products are developed in line with the highest quality standards and can be brought to patients both safely and quickly. It will also help prevent unnecessary cost and waste in the development pathway by making sure that all design and technologies are fit for purpose from the start.
+
+How it works
+
+Adaptive inspections provide tailored flexible and pragmatic supervisory and licensing inspections, specific to the Good Practice guidelines and the needs of the product as identified through the TDP. A risk-based approach to the inspection strategy will be applied, which may include:
+
+
+  live-phase inspections for pre-clinical or clinical aspects, ensuring design and technologies are fit for purpose and appropriate manufacturing licences are in place in line with statutory requirements. This could include joint Agency inspections where relevant
+  defined pre-authorisation inspections of clinical trials, potentially linked to adaptive design key decision or design implementation points, and/or at end of trial to confirm patient safety and reliability of results
+  inspections may link to key data certification timepoints (see Certifications tool) along the pathway to marketing authorisation, including within rolling review as appropriate, enabling innovation
+  pre-authorisation inspections to assess the applicant’s ability to comply with post-authorisation pharmacovigilance obligations. These may include activities to identify and characterise new risks associated with the use of the product and activities to minimise important known or potential risks, such as controlled distribution or pregnancy prevention strategies
+  post-authorisation inspections to assess compliance with specific licence conditions or routine requirements, such as post-authorisation safety study commitments and risk minimisation measures, providing assurance in support of the earlier approval time-point
+
+
+Patient benefits include assurance that products that come through the pathway are approved based on valid and reliable data, and that the developer has the necessary infrastructure to support risk identification and management.
+
+Delivery partners
+
+If you use the Adaptive Inspections tool you will work with experts from the MHRA divisions and centres.
+
+Related tools
+
+The Adaptive Inspections tool can be used alongside the Certifications, Continuous Benefit Risk Assessment integrating Real World Evidence (RWE), Innovative and Flexible Licensing Routes, Novel Methodology and Innovative Clinical Trial Design tools.
+
+Certifications
+
+Building on the Agency’s scientific advice approach, the Certification tool provides developers with an enhanced official regulatory review of packages of Common Technical Document (CTD) data (including Module 1). The process will provide applicants with specific and actionable feedback on the expectations for marketing authorisation and the regulatory requirements, highlighting potential deficiencies and where there are key issues to address.
+
+This tool is not part of a formal marketing authorisation application but provides expert advice on how ‘regulatory ready’ a particular part of the development is.
+
+How it works
+
+You must confirm in the TDP which aspects of the CTD you are interested in having certified. We would expect this to be within Module 1, Module 3, Module 4 or Module 5, not necessarily a full module.
+
+You can apply to have packages of CTD data assessed by an MHRA multi-disciplinary team including licensing, pharmacovigilance and inspectorate colleagues who will review the submission against marketing authorisation requirements and expectations for regulatory compliance.
+
+Packages of CTD data might include quality, non-clinical or clinical and pharmacovigilance aspects. Early engagement on the acceptability of the submission will provide the developer with the opportunity to make timely changes to their programme in advance of a formal marketing authorisation application.
+
+For biological medicines, such as vaccines, blood products and other immunological biotherapeutics, you will be able to engage early on with the National Institute for Biological Standards and Control (NIBSC) scientists. Interactions will facilitate the rapid establishment of the relevant tests and make sure that, where possible, legally mandated batch testing can be performed in parallel to manufacturer’s in-house testing, ensuring no delays in access to these medicines.
+
+Certification may be considered for the whole of one module or a subsection or across modules if agreed. You can request more than one certification over time for different modules.
+
+Following the submission, the team will assess the modules against the regulatory framework and standards. The outcome of the certification will be a letter summarising the regulatory view of the data, the parts that are satisfactory and the major deficiencies if they exist and opportunities for further scientific advice as needed.
+
+Delivery partners
+
+If you use the Certifications tool you will work with experts from the MHRA divisions and centres.
+
+Related tools
+
+The Certification tool could be used alongside rolling review in the Innovative and Flexible Licensing tool and Adaptive Inspections tool.
+
+Continuous Benefit Risk Assessment integrating Real World Evidence
+
+A proactive approach to data collection and post authorisation vigilance is key in supporting approval of innovative medicines. This tool, co-developed by MHRA, NICE and SMC, aims to provide guidance that ensures that the agreed approach delivers the right data, filling potential gaps in evidence within the right timeframe.
+
+The purpose of the tool is to:
+
+
+  optimise identification, access and timely delivery of decision-relevant data for regulatory and reimbursement bodies
+  support use of RWE and continuous assessment of emerging evidence to monitor safety and efficacy
+  ensure a proactive, feasible and sustainable approach to data collection covering both efficacy/effectiveness and safety aligned with key stakeholders
+  provide a unique offer which encourages and facilitates the use of RWE to support the benefit-risk profile
+
+
+Through the tool, MHRA will provide regulatory science expertise, building on the TDP to support activities in the Risk Management Plan (RMP), offering guidance and assistance around development of an upfront data collection and delivery plan. We will explore with the applicant the options for long-term data collection.
+
+Where appropriate, we will support alignment with key stakeholder requirements including that of Health Technology Assessment bodies, offering scientific advice on study design and assessment of study protocols (for example defining the key objectives, study endpoints, data sources, and feasible delivery timelines). Guidance provided throughout the procedure will allow for prompt study start and data collection. The tool will seek to increase the utility and availability of RWE, ensuring it is used optimally to support the benefit-risk profile. This will be achieved by offering guidance on possible sources of RWE, considering options for data linkage and supporting engagement with data providers where possible.
+
+How it works
+
+Products most suitable for the tool would typically be those where:
+
+
+  Post-Authorisation Safety (or Efficacy) Study (PASS/ PAES) is likely to be desirable or mandated including those where the product may be subject to conditions of the marketing authorisation
+  medicines granted through a conditional marketing authorisation or authorisation under exceptional circumstances
+  where an appropriate control group may be lacking or where there may be other uncertainties about the generalisability of the clinical data to real world use in the UK
+
+
+If your product is likely to need complex additional risk minimisation strategies, you may also benefit from the advice you can access through the tool.
+
+The process could begin at any point from TDP roadmap development up to and including submission of your application for marketing authorisation or extension of indication, depending on your particular needs.
+
+Key outputs from the tool could include:
+
+
+  advice to further refine the TDP roadmap and support development of the RMP, focussing on plans for post-approval evidence requirements, including RWE.
+  provisional agreement of study protocols, in full or as synopses
+
+
+Delivery partners
+
+MHRA, Health Technology Assessment and NHS bodies will be important partners in influencing plans for further studies.
+
+Related tools
+
+The tool could operate independently of other tools but could work with:
+
+
+  Innovative Licensing Routes
+  Clinical Practice Research Datalink (CPRD) Assisted Patient Recruitment
+  Adaptive Inspections
+  Enhanced Patient Engagement
+
+
+Clinical Practice Research Datalink (CPRD) Assisted Patient Recruitment
+
+CPRD has developed an innovative service to efficiently locate patients across the UK who are potentially eligible for a clinical trial via a centralised search of the CPRD electronic health records (EHR) database, followed by GP clinical review.
+
+Find out more about CPRD
+
+How it works
+
+If you want to make use of this tool you can indicate that in the TDP. Representatives from CPRD will advise you on the feasibility of using this approach and provide you with an outline of the process.
+
+Subsequent discussions would be held to undertake a detailed assessment of potential patient numbers, geographical distribution of potential trial subjects, to assess the operational feasibility of using the tool and to outline estimated costs.
+
+Delivery of the service would be undertaken with the customer or an agent with responsibility for clinical trial recruitment, and in collaboration with the sponsor.
+
+Delivery partners
+
+The whole process is centrally managed by CPRD. The service will be delivered directly by CPRD in collaboration with the sponsor.
+
+Related tools
+
+The CPRD Assisted Patient Recruitment tool could be used with the Continuous Benefit Risk Assessment integrating RWE tool to manage any longer term follow up of enrolled patients.
+
+Enhanced patient engagement
+
+This tool is a key component of MHRA’s broader commitment to be a patient and public-focused regulator – putting patients and the public at the centre of our regulatory decision-making. It has been co-developed by MHRA, NICE and SMC to provide opportunities throughout the ILAP for companies to consider the patient’s experience and voice in a meaningful way in how they develop their innovative products.
+
+The patient engagement tool will consider the patient’s voice and experience from clinical design, scientific advice and all the way through to the generation of meaningful real-world data post-licensing and pharmacovigilance. It will give patients the opportunity to influence the development of products that will benefit them.
+
+With a wealth of experience we will be able to advise on identifying stakeholders who may not be active members of patient groups, as well as under-represented populations and diverse communities. This experience includes working with patient representatives on our Patient Group Consultative Forum (which currently has over 100 participants who are either representatives of patient groups/networks and research charities or individual patients),
+We will also be able to provide support on how best to integrate patient-reported outcome measures, a critical component to assess the benefits patients have gained from the product.
+
+This tool has been developed in consultation with patients.
+
+How it works
+
+We will ask if you have already engaged with patients in developing the product and explore what additional approaches you have identified for patient engagement. We will also seek your views on what you would like to gain from new or further patient involvement.
+
+In line with MHRA’s development of the broader Patient and Public Engagement and Involvement Strategy, you will also be asked to consider how you propose to engage and involve not just patients but others such as carers and a patient’s family. Our offer will include patient engagement facilitation across an extensive range of conditions, diseases, areas, issues and clinical needs, including rare diseases.
+
+Post-product authorisation, you will be given the opportunity to access support and advice on patient information and evaluations including real world data, and advice on how post-market surveillance can best meet the needs of patients.
+
+Delivery partners
+This tool is delivered by the MHRA, NICE, the Scottish Medicines Consortium, and potentially in collaboration with other organisations such as the Health Research Authority and NHS England and NHS Improvement
+
+Related tools
+This tool can be used alongside Innovative licensing routes, CPRD assisted patient recruitment, Novel methodology and Innovative Clinical Trial Design, Continuous Benefit: Risk Assessment integrating Real-World Evidence.
+
+Innovative and Flexible Licensing Routes
+
+The tool is intended to provide support and guidance in the choice of routes for products in the ILAP. Some of these routes may be available as options to companies with products outside of ILAP.
+
+The Innovative and Flexible Licensing Routes tool can provide expedited timelines for review, pragmatic approaches to evidence requirements and international options where appropriate and available.
+
+Regulatory licensing flexibilities can be used to expedite the approval process once a product or new indication has sufficient data for regulatory review. Independent laboratory testing can also support authorisations based on reduced data packages through the generation, post-licensure, of data supporting batch-to-batch consistency.
+
+The routes are:
+
+
+  Accelerated assessment
+  Rolling review
+  Approval with conditions
+  Conditional Marketing Authorisations
+  Approval under exceptional circumstances
+  Project Orbis
+  Access Consortium
+
+
+Accelerated Assessment
+
+An accelerated assessment procedure will reach opinion on approvability of a marketing authorisation application within 150 days of submission of a valid application. This option is available for good quality marketing authorisation applications for both new and existing active substances.
+
+Eligibility will also include those applications seeking an orphan MA approval in Great Britain and those submitted for conditional and full marketing authorisations as well as those submitted for approval under exceptional circumstances.
+
+Rolling Review
+
+The Rolling Review is a new route for marketing authorisation application intended to enhance development of novel medicines. It does this by offering ongoing regulatory input and feedback. The process is envisaged as a phased, modular, iterative approach to evaluation of marketing authorisation applications.
+
+The quality, non-clinical and clinical parts may be submitted singly or in combinations depending on the individual circumstances as data becomes available. It is expected that each module will be near completion to avoid multiple iterations of assessment of the same module. Each assessment phase will progress independently permitting early identification of issues.
+
+Each assessment cycle with points of clarification raised will offer the applicant the opportunity and time for a comprehensive update of the modules prior to final submission. The final phase will involve submission of a complete application including the remaining module together with updated versions of the modules evaluated previously.
+
+Find out more about rolling review
+
+Approval with Conditions
+Conditions are obligations that are imposed at the time that the marketing authorisation is granted. Conditions include PASS/ PAES that can be used to provide reassurance that gaps in the evidence generation will be filled appropriately.
+
+Conditional Marketing Authorisation
+
+In order to meet unmet medical needs of patients and in the interest of public health, it may be possible to grant marketing authorisations on the basis of less complete data than is normally required. In such cases, the granting of a marketing authorisation is subject to certain specific obligations to be reviewed annually.
+
+These medicines are for the treatment, the prevention or the medical diagnosis of seriously debilitating diseases or life-threatening diseases, medicinal products to be used in emergency situations, in response to public threats and medicinal products for rare diseases. Conditional marketing authorisation will allow medicines to reach patients with unmet medical needs earlier than might otherwise be the case and will ensure that additional data on a product are generated, submitted, assessed and acted upon.
+
+Approval under exceptional circumstances
+
+For licensing under exceptional circumstances, the applicant must demonstrate that they are unable to provide comprehensive data on the efficacy and safety under normal conditions of use. This may be because:
+
+
+  the indications for which the product in question is intended are encountered so rarely that the applicant cannot reasonably be expected to provide comprehensive evidence or
+  in the present state of scientific knowledge, comprehensive information cannot be provided or
+  it would be contrary to generally accepted principles of medical ethics to collect such information
+
+
+Under these circumstances an authorisation may be granted with a reduced clinical data package than would ordinarily be required.
+
+Project Orbis
+
+Project Orbis is an initiative of the Food and Drug Administration (FDA) Oncology Center of Excellence (OCE) that provides a framework for concurrent submission and review of oncology products among international partners including the UK.
+
+Find out more about Project Orbis
+
+Access Consortium
+
+The Access Consortium is a collaborative initiative of medium-sized regulatory authorities between Australia’s Therapeutic Goods Administration (TGA), Health Canada (HC), Singapore’s Health Sciences Authority (HSA), the Swiss Agency for Therapeutic Products (Swissmedic) of Switzerland and MHRA. The purpose of the consortium is to build synergies and share knowledge amongst the regulatory authorities thereby enhancing the efficiency of regulatory systems.
+
+Find out more about the Access Consortium
+
+How it works
+
+The TDP will recommend the most suitable routes to market based on the product and patient population to treat in the context of the ongoing development programme.
+
+Regulatory licensing flexibilities can be used to expedite the approval process once a product or new indication has sufficient data for regulatory review. Independent laboratory testing can also support authorisations based on reduced data packages through the generation, post-licensure, of data supporting batch-to-batch consistency.
+
+Early engagement with NIBSC will enable the rapid establishment of the relevant tests to make sure that, where possible, legally mandated batch testing can be performed in parallel to manufacturer’s in-house testing, ensuring no delays in access to these medicines.
+
+You can find out more from the NIBSC website
+
+Delivery partners
+
+This tool can be used with NICE, SMC and other system partners such that the impacts of licensing routes on Health Technology Assessment and commissioning, including timeliness of patient access and the potential need for managed access arrangements, can be prospectively considered.
+
+Related tools
+
+The Certification tool is relevant to Rolling review, as is the Continuous benefit risk assessment tool for approval with conditions.
+
+Novel methodology and innovative clinical trial design
+
+The Novel Methodology and Innovative Clinical Trial Design tool, co-developed by MHRA, NICE and SMC, is designed to establish a system and culture that is receptive and supportive of novel methodologies in both the clinical and pre-clinical space to develop new medicines or new indications. This includes innovative clinical trial designs, manufacturing, and endpoint development. We will also demonstrate that innovative methodologies are acceptable to all stakeholders, for example by issuing an opinion on the proposed methodology or technology.
+
+The tool has the potential to significantly accelerate development and bring safe, effective medicines to patients faster, balancing the risks and benefits of any novel approaches, with a strong patient focus.
+
+Novel trial designs with virtual and decentralised elements will increase patient-centricity in trials and reduce the burden of taking part, improving recruitment and retention. Qualification and multi-stakeholder regulatory acceptance of novel methodologies will de-risk and reduce the costs of development. The tool will encourage and facilitate the proactive use of novel trial designs for evidence generation – including master protocols – to ensure a flexible regulatory approach that can react to emerging data with a focussed, efficient use of resources.
+
+How it works
+
+According to the individual requirements of the applicant, key outputs from the tool include:
+
+
+  securing multi-stakeholder agreement for novel and innovative approaches to evidence generation
+  qualification of the new methodologies and support via (joint) scientific advice procedures (e.g. with NICE) offered during the ILAP, including targeted inspections of novel technologies
+  guideline documents on topics of interest
+  encouragement and facilitation of the use of novel trial designs, including master protocols, to ensure a flexible regulatory approach that can react to emerging data with a focussed use of resources
+  regulatory assurance on the requirements and acceptability of virtual, AI and decentralised elements in trial conduct
+  regulatory assurance on new e-systems technologies that may be used to support any such novel trial designs
+
+
+You should expect regulatory assurance on the requirements and acceptability of, for example, use of Artificial Intelligence (AI), virtual and decentralised elements in trial conduct, and e-systems technologies used to support such novel trial designs. Developers will also see use of new approaches for qualification of new methodologies, technologies, use of modelling and simulation, and novel endpoints.
+
+Delivery partners
+
+This tool can be used with partners such as MHRA, NICE and the SMC so that implications of novel trial designs for Health Technology Assessment, can be prospectively addressed. The tools can also be used with other health research system partners such as the Health Research Authority (HRA) and the National Institute of Health Research (NIHR) to provide reassurance that innovative clinical trial proposals are deliverable.
+
+Related tools
+
+The tool is wide ranging and can be used with a number of different tools in the pathway such as the Adaptive Inspections tool, the Rapid Clinical Trial Dossier Pre-Assessment tool and the CPRD Assisted Patient Recruitment.
+
+Rapid Clinical Trial Dossier Pre-Assessment
+
+The Rapid Clinical Trial Dossier Pre-Assessment service provides sponsors of clinical trials with expert feedback from MHRA clinical trial unit assessors on their clinical trial authorisation (CTA) application dossier before it is formally submitted.
+
+The tool will help to reduce the chance of a ‘Grounds for Non-acceptance’ being issued for the trial following official submission and therefore de-risk development. This will also facilitate a quicker trial set-up and development.
+
+This is an optional tool for trial sponsors with an Innovation Passport and agreed TDP. This tool should be used when documentation is in an advanced stage.
+
+Trials for products falling under the ‘higher risk’ category that require review by the Commission on Human Medicines (CHM) would still be eligible, but the final authorisation of the study would be dependent on CHM meeting timelines.
+
+How it works
+
+You can submit draft clinical, quality and/or non-clinical documentation for pre-assessment. 
+MHRA will evaluate the data and documentation, provide rapid feedback and identify any potential issues to be rectified prior to formal submission. An informal scientific advice meeting will be held with the sponsor so that any questions or required clarifications can be addressed swiftly.
+
+An iterative approach can be taken, and for the tool to maximise its benefits, it is essential that trial sponsors also respond to any feedback in an expedited manner.
+
+Delivery partners
+
+The tool will be delivered by the MHRA Clinical Trials Unit. Where appropriate additional input may be obtained from the HRA to reduce duplication of review of common documentation.
+
+Related tools
+
+The tool may have interdependencies with the Novel methodology and Innovative Clinical Trial Design tool.
+
+Forthcoming tools
+
+The following tools are currently being developed and will be added to the TDP toolkit during 2021.
+
+Advanced Therapy Medicinal Product (ATMP) Centre Accreditation
+MHRA accreditation of centres with specific expertise in ATMP development to provide assurance that trials and/or manufacture conducted by these centres are as safe as possible and meet an MHRA accredited standard, providing patient confidence in their regulation. Organisations in the scheme would exceed the basic GxP regulatory standards by having additional standardised procedures and a proven track record in this field, ensuring high-quality data, to facilitate regulatory decision making and ensure the highest standards for protection of patients.
+
+Coordinated approval of research involving investigation of both a medicine and medical device
+Combined assessment of clinical trials that involve both an investigational medicine and an investigational medical device. Looking to optimise the regulatory pathway for research for combined medicines and medical devices.
+
+Combined in vitro diagnostic (IVD) and investigational medicinal product development:
+Combined assessment of clinical trials where there is an investigational medicine and IVD such as. a companion diagnostic. This is to optimise and where necessary adapt the clinical trial regulatory pathway for research that requires combinations of medicines and in vitro diagnostics.
+
+
+CPRD Control Groups
+Providing access to CPRD primary care real world data to enable the use of real-world data virtual control arms drawn from relevant and high-quality real-world data as comparators. Uses and applications of virtual control groups are currently being assessed but may be of potential use as natural disease course or standard of care comparators. They may have a specific role in distinguishing treatment effects from other factors in the context of a single arm trials.
+
+Development of quality standards
+Using MHRA’s existing quality standards setting functions of the British Pharmacopoeia and NIBSC to identify and develop standards through the TDP process that would support the assurance of product quality and facilitating the assessment of the medicine.
+
+
+
+
+
+      
+        
+    Published 30 March 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Guidance on Project Orbis
+        Innovative Licensing and Access Pathway
+        Access Generic Medicines Work Sharing Initiative
+        Rolling review for marketing authorisation applications
+        Access Consortium
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Marketing authorisations, variations and licensing guidance
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

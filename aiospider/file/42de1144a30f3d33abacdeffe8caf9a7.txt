@@ -1,0 +1,402 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Child online safety: Age-appropriate content
+  
+
+  
+  
+  
+      
+  This guide is to help you and your business understand how to ensure that content on your service is appropriate for children.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Digital, Culture, Media & Sport
+
+      
+      Published
+      29 June 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          What you should do as a business
+
+        
+        
+          Additional guidance for services used by under 13s
+
+        
+        
+          How you can go above and beyond
+
+        
+        
+          Why this is important
+
+        
+        
+          Useful links
+
+        
+        
+          Additional information on advertising to children
+
+        
+        
+          Additional information on British Board of Film Classification (BBFC) ratings
+
+        
+        
+          Additional information for Video Sharing Platforms
+
+        
+        
+          Additional information on online gaming
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+
+The guidance contained within these pages is distinct and separate from the forthcoming regulatory requirements that will be introduced through the Online Safety Bill. The draft Online Safety Bill confers powers on Ofcom to oversee and enforce the new regulatory regime, and requires Ofcom to prepare codes of practice to assist providers in complying with their duties of care.
+
+
+Online content comes in many forms, including published content from you as a business, and content from your users and advertisers.
+
+It also comes in many formats, including videos, photos, music, games, live chat, messaging and comments.
+
+If your service is being used by children, you should design your service to ensure your content is suitable for them.
+
+What you should do as a business
+
+
+
+
+Decide what content is acceptable on your service , and how you will make this clear to users. Tell users what to expect when they sign up and give frequent reminders of your content rules.
+
+
+Be clear on minimum age limits and take proactive steps to understand whether children are accessing your service and to prevent those who are too young from accessing it.
+
+
+Offer easy to use reporting mechanisms for children to report inappropriate content. You should also inform users of the action taken as a result of the report and the reasons for this action.
+
+
+Consider special default protections for accounts that are opened by under 18s. See Online safety guidance if you own or manage an online platform for further advice.
+
+
+Plan and regularly update how you will manage inappropriate content posted on your site. Children often find ways around your moderation processes, so you need to keep them under review.
+
+
+Consider implementing safety technology tools such as age assurance technologies to ensure that children are not able to access content aimed at adult audiences.
+
+
+Regard advertising as another source of content on your service and know how it is regulated. Make sure you are up to date on the UK advertising standards and that you understand how they are applied online. For general information on advertising regulation, visit the Committee of Advertising Practice. It administers and maintains the UK Advertising Code, as part of the Advertising Standards Authority. There is specific advice on advertising to children.
+
+
+Consider providing age ratings on the content on your platform by adopting industry best practice. The British Board of Film Classification (BBFC) rating system for film and video content and the Pan European Game Information (PEGI) system for video games are recognised as industry best practice.
+
+
+
+
+Additional guidance for services used by under 13s
+
+
+  Use suitable language for your target age group. Ensure that messages are clear and use vocabulary understandable to users.
+  Consider a ‘walled garden environment’ in which all content is pre-moderated before children see it and content generated from third parties is limited or restricted.
+  Consider applying a mix of moderation styles, including pre-moderation before content is posted, post-moderation to ensure content remains appropriate and reactive moderation when inappropriate content is reported or detected. This can be done through a mix of automatic and manual techniques.
+  Get parents involved. You should consider contacting parents to verify the age of a user and to inform them of changes in your service.
+
+
+How you can go above and beyond
+
+
+  
+    Consider having special consideration for children of different ages and vulnerabilities and tailoring your service in an age-appropriate way.
+  
+  
+    As well as creating a safe online environment, it is important to also empower children to be able to make informed and safer choices online. Consider providing information, tools and resources to improve children’s awareness of how to utilise the safety features on your site. This could include information on how to use the platform safely and report inappropriate content; how to critically understand content; and how to create content appropriately. These tools and resources can be delivered in a multitude of ways including using prompts which could take the format of characters or cartoons; creating online safety quizzes on your platforms, or using pop up reminders to help users manage their safety settings.
+  
+
+
+Why this is important
+
+
+  According to Ofcom research, 81% of 12-15 year-olds said they had a potentially harmful experience online, and three in ten 12-15 year olds said they had seen something worrying or nasty online in 2020.
+  In the Ofcom Pilot Online Harms Survey of internet users aged 13+ conducted between November 2020 and February 2021, 76% said that they had been exposed to at least one harm in the previous four weeks.
+  
+According to YouGov research commissioned by the BBFC, 90% of UK parents say that they want to see the same age ratings on online platforms that they see in the cinema and on DVD and Blu-ray packaging, to help them make safe and informed viewing decisions for their families.
+  The proposed Online Safety Bill gives Ofcom the power to issue fines up to £18 million or 10% of annual global turnover if you fail to comply with the requirements of forthcoming online safety legislation. This will include protecting children from both illegal content and content which is legal but harmful.
+
+
+Useful links
+
+
+  
+Ofcom’s Making Sense of Media Network offers an opportunity to engage with industry stakeholders to share information and resources to promote media literacy.
+  The UK government’s Verification of Children Online (VoCO) project phase 2 report was published in November 2020 and has responded to the challenge of knowing which online users are children and looked in detail at age assurance solutions.
+  The Samaritans has published guidelines for sites and platforms hosting user-generated content with best practice principles for managing self-harm and suicide content.
+
+
+Additional information on advertising to children
+
+The Advertising Standards Authority regulates advertising in the UK. The UK Code of Non-broadcast Advertising and Direct & Promotional Marketing (CAP Code), outlines rules to protect children from being misled, exploited or harmed. The CAP Code highlights a number of rules to protect children when advertising which include:
+
+
+  Not making a direct appeal to children to buy advertised products or persuade their parent or another adult to buy it for them
+  Not presenting risks to children’s safety and mental, moral or physical harm - for example, advertising should not encourage children to behave dangerously
+  Not undermining children because they do not have the advertised product
+  Being clear and using suitable language on what is on offer when advertising
+  Not exploiting children’s susceptibilities in promotional marketing, for example, in the marketing of charitable appeals
+
+
+See also further advice on how advertisers should advertise to children. In addition, there are specific regulations for areas which present a risk of particular harm to children:
+
+
+  Recognition of online marketing to children
+  Targeting of advertising towards children
+  High fat, salt and sugar advertising
+  Betting and gaming
+  
+Tobacco and electronic cigarettes
+
+
+
+Additional information on British Board of Film Classification (BBFC) ratings
+
+You should consider providing age ratings (as seen in cinemas and on DVD/Blu-ray packaging) on film and TV content available on video-on-demand or streaming services. The British Board of Film Classification (BBFC) is designated by the government to be the independent body carrying out the age classification role for videos supplied to UK consumers.
+
+BBFC ratings provide consumers information they need to make informed choices about what their children watch. The standards underpinning the BBFC’s ratings (U, PG, 12, 15 and 18) are set out in their published Classification Guidelines, and are based on regular and extensive consultation with the UK public and with experts. BBFC ratings can be linked to parental controls to allow parents to manage their children’s access to video content. Providers who want to adopt the BBFC’s framework should ensure this is done with knowledge and agreement of the BBFC.
+
+Additional information for Video Sharing Platforms
+
+Since 1 November 2020, UK-established video-sharing platforms (VSPs) must comply with new rules around protecting users from harmful content. See Ofcom’s guide on these new requirements on VSPs and their approach to regulation.
+
+VSPs must self-assess whether they fall under the regulations and come under UK jurisdiction and must notify Ofcom if they do. Ofcom has published guidance to help them do this. Should you meet the definition of a VSP and fall under UK jurisdiction as per the guidance above, then you must take appropriate measures to protect:
+
+
+  
+The general public from‘relevant harmful material’. This includes:
+    
+      incitement to violence or hatred against particular groups
+      content which would be considered a criminal offence under laws relating to terrorism; child sexual abuse material; and racism and xenophobia.
+    
+  
+  
+Under-18s from‘restricted material’. This includes:
+    
+      material which has been issued, or would likely be issued, an R18 certificate by the BBFC. The R18 category is a special and legally-restricted classification issued by the BBFC primarily for explicit videos of consenting sex or strong fetish material involving adults, and where the primary purpose of the material is sexual arousal or stimulation.
+      material which has been deemed, or would likely be deemed, unsuitable for classification by the BBFC
+      other material which might impair the physical, mental or moral development of under-18s.
+    
+  
+
+
+Ofcom has published draft guidance for VSP providers on appropriate measures to protect users from harmful material. Appropriate measures to protect children could include:
+
+
+  Having terms and conditions which state that if a person uploads a video that contains restricted material, that person must bring it to your attention (for example, by labelling the content).
+  Establishing and operating systems for establishing if a user or potential viewer is over 18.
+  Providing for parental control systems, which allow parents to control whether or how their children are able to access videos or adverts on the platform.
+
+
+Additional information on online gaming
+
+Age ratings play an important role in helping consumers, and parents in particular, decide whether the content of a particular game is age-appropriate for children in their care.
+
+The Video Standards Council Rating Board (VSC) has been designated by the government as the body responsible for awarding age ratings to games supplied to customers in the UK on physical formats, such as discs and cartridges. They do so using the Pan European Game Information (PEGI) system, which is also used to label games across much of Europe.
+
+Online and app-based video games are also encouraged to consider obtaining and displaying Pan European Game Information (PEGI) ratings. PEGI ratings provide consumers with the information they need to make informed choices about what their children play. The ratings also work with parental controls on video game consoles to allow parents to manage their children’s access to age-appropriate games. The Video Standards Council Rating Board has set out a series of best practice recommendations for online games platforms, which are available on their website. Ratings may be obtained for online games via PEGI itself or via the International Age Ratings Coalition (IARC). IARC offers games companies a streamlined process for obtaining PEGI age ratings for online games by filling in an online questionnaire.
+
+You should also apply the Principles for online and app-based games originally published by the Office of Fair Trading and adopted by the Competition and Markets Authority. These clarify its view of the online and app-based games industry’s obligations under consumer protection law, and set out a number of ways to improve transparency and avoid exploitative and misleading practices on your platform. These include:
+
+
+  
+    Ensuring that promotions for paid-for content or any products and services are clear and distinguishable from gameplay. Bear in mind that children may not understand that they are spending real money when making a purchase within a game.
+  
+  
+    Avoiding the use of aggressive or exploitative practices which place undue pressure on a child to make a purchase.
+  
+  
+    Avoiding the use of direct exhortations to make a purchase.
+  
+  
+    Ensuring that payment cannot be taken from the payment account holder unless authorised. This ensures that children do not inadvertently spend their parents’ or carer’s money.
+  
+
+
+
+
+Part of A business guide for protecting children on your online platform
+
+
+
+
+
+      
+        
+    Published 29 June 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        A business guide for protecting children on your online platform
+        Child online safety: Data protection and privacy
+        Principles for online and app-based games: OFT1519
+        VoCO (Verification of Children Online) Phase 2 report
+        Child online safety: Protecting children from online sexual exploitation and abuse
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        A business guide for protecting children on your online platform
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Online safety
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

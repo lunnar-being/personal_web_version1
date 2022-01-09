@@ -1,0 +1,119 @@
+
+
+The RAND Blog
+Previous Blog PostThe Intelligence Community's Deadly Bias Toward Classified SourcesNext Blog PostBeyond Sweatpants: Waking Up in a Post–COVID-19 World
+
+Satellite Internet Services—Fostering the Dictator's Dilemma?
+commentary
+(Small Wars Journal)
+SpaceX Starlink missionPhoto by SpaceX/ CC BY-NC 2.0
+
+
+
+by Michael Schwille and Scott Fisher
+April 12, 2021
+
+
+Constellations of low-altitude, low-latency satellites providing broadband internet access to wide swathes of the earth are an impending challenge to the information dominance enjoyed by the world's authoritarian states. Whether Amazon's proposed Project Kuiper, Elon Musk's Starlink (already functional in some areas of North America), or the United Kingdom funded OneWeb, the ability to provide relatively low cost internet access outside of government control is both a challenge for authoritarian states and an opportunity for democracies.
+In Russia, the Duma is already considering a law to criminalize access to such satellite services. China is not only planning to launch a competing service, it has Starlink's Musk concerned about having his satellites “blown up.” North Korea, which bans its citizens from accessing the internet and (in)famously attacks leaflets with machine guns, shells loudspeakers with artillery, and punishes citizens for accessing Chinese cellphone towers, has yet to comment publicly on such services. Given this history though, Pyongyang's reaction is unlikely to be very positive.
+What are low-altitude, low-latency satellites and why are authoritarian states so concerned? The problem (for authoritarians) and promise (for democracies) are the services' ability to provide broadband internet access almost anywhere on earth, with nothing new required on the ground aside from a small terminal. Because these satellites orbit at several hundred kilometers (low Earth orbit), versus 35,000km for telecommunication satellites in geostationary orbit, their terminals can be smaller, portable, and easier to conceal, smuggle, and infiltrate. With one of these terminals, users can cheaply and quickly bypass national controls on the internet and information access, plus place phone (e.g. Voice over Internet Protocol, Skype, or Zoom) calls outside of government-controlled systems. It is this freedom of information access and communication that has Russia and China so concerned, and that provides an opportunity for democratic states to rebalance their current information disadvantage.
+In what some scholars have termed democracy's dilemma, nations that rely on relatively free and open information flows are vulnerable to having that openness turned against them by adversaries. Think Russian influence on Brexit, the 2016 U.S. elections and the COVID-19 infodemic. What these new satellite systems offer is an opportunity to reinvigorate the dictator's dilemma (PDF)—the fear authoritarian leaders have of nonregime narratives reaching their people, or their people communicating outside of government-approved channels.
+
+Moscow reacts more negatively to criticisms and threats to its information control than it does to (far more expensive) NATO exercises. Share on TwitterJust how powerful is this fear? Moscow reacts more negatively to criticisms and threats to its information control than it does to (far more expensive) NATO exercises. For years, Russian state media have even coordinated to deflect these criticisms of Russia's censorship onto countries with which Moscow is in conflict, successively targeting Georgia, the United States, and Ukraine.
+China's rulers have a similar view, more fearful of “American ideals of freedom, democracy, and human rights infecting the people of China and Hong Kong,” than they are of U.S. military or economic challenges. This is not a new concern for Beijing; the term Great Firewall of China was discussed in a Wired article back in 1997. Beijing's controls have expanded since, with hundreds of thousands of censors and billions of dollars spent on informational and societal control, including the uniquely intrusive social credit systems (PDF).
+North Korea is an even clearer example, with years of North Korea specialists (see Lankov, Baek, Cha, Myers, and others) highlighting Pyongyang's reliance on domestic information control to keep the Kim family in power. Impressive control, but a weakness masquerading as a strength.
+This desire for information control represents both the dictator's dilemma and democracy's opportunity. Beijing, Moscow, and Pyongyang (as well as Tehran and others) are clearly concerned about the threat posed by unsupervised information access. Washington (or Brussels, London, Tokyo…whomever) publicly advocating for more open internet access, coupled with a clear mention of the new satellite services, would quickly command attention and establish a compelling narrative (and underlying threat). Coupling this message with a reminder of the West's ability to challenge information controls by, for example, smuggling bulky typewriters, printing presses, and Xerox machines into Eastern Europe in the 80s, which increased the flow of uncensored information, would add credibility to the threat—if authoritarian states thought typewriters were a problem, infiltrating an “internet in a box” (or thousands of them) looms as an even more compelling danger. The physical threat of infiltrated devices combined with a narrative advocating freedom of information access provide the West with a new, information-based tool for foreign policy leverage. A tool, or active measure, based not on fear, deception, or disinformation, but simply on information access.
+
+The physical threat of infiltrated devices combined with a narrative advocating freedom of information access provide the West with a new, information-based tool for foreign policy leverage.Share on TwitterBy offering an information-based response to an information-based attack, this tool offers a fresh, calibrated response option. Chinese cyber espionage or recent attacks on Hong Kong's civil liberties, Russian attempts to influence Brexit or U.S. elections (or the more recent SolarWinds hack), North Korean attacks on Sony or South Korea's ATM network, are all activities ripe for response. Once this tool is effectively demonstrated in terms of fostering the dictator's dilemma, democracy's response and deterrence toolkits, for both cyber and influence activities, commensurately expands. 
+Importantly, the utility of this information tool is not confined simply to allowing outside information in; it also allows information to flow out (especially important with North Korea). Perhaps most importantly, it provides another tool to avoid government monitoring inside an authoritarian state. When paired with mesh networks of the type used, for example, during demonstrations in Hong Kong, it further increases the opportunity for the free flow of information dictators perceive as so threatening.
+This tool (or its threatened use) does not replace other foreign policy tools—diplomatic, economic, and military tools remain options; this proposal simply adds a new information-based capability. The tool fits within a historical context of Western information activities and offers a compelling public narrative—fighting censorship. The hardware costs are relatively low, largely borne by the companies launching the satellites, and coming into existence whether governments wish them to or not. Finally, by rebalancing democracy's dilemma through a reinforcement of the dictator's dilemma, this tool offers an information response to information/cyber/influence attacks, using a method that clearly targets the vulnerabilities and sensitivities of authoritarian adversaries.
+The technological change is underway. Authoritarian states are already passing new laws and reacting to the threat. Democracies can choose to harness these tools, or ignore them.
+
+Michael Schwille is a senior policy analyst at the RAND Corporation, where his work focuses on the integration of information into combined arms warfare. He is also an Army Reserve officer with the U.S. Army Civil Affairs and Psychological Operations Command (Airborne). Scott Fisher is a security studies professor at New Jersey City University. His research focuses on information warfare, East Asia, and big data in national security. Fisher is also an Army Reserve officer with the 301st Information Operations Battalion in New York City. 
+This commentary originally appeared on Small Wars Journal on April 11, 2021. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Michael Schwille
+@MichaelSchwille
+Senior Policy Analyst
+
+
+
+
+
+
+Topics
+ Emerging Technologies
+The Internet
+Satellites
+Space Science and Technology
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Commentary
+How to Avoid a Space Arms Race
+
+Oct 26, 2020
+John Lauder, Frank G. Klotz, et al.
+
+
+
+
+
+
+
+
+
+
+Commentary
+Our Reliance on Space Tech Means We Should Prepare for the Worst
+
+Mar 12, 2018
+James Black
+
+
+
+
+
+
+
+
+
+
+Commentary
+Russian Propaganda Is Pervasive, and America Is Behind the Power Curve in Countering It
+
+Sep 12, 2016
+Christopher Paul, William Courtney @courtneywmh
+
+
+
+
+
+
+
+

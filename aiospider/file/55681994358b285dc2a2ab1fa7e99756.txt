@@ -1,0 +1,35 @@
+
+        
+        
+        
+     their quarterly earnings-per-share (EPS) guidance during the COVID-19 crisis. Assets and operations were incredibly volatile during businesses’ initial responses to the crisis; performance projections beyond even the next week quickly became out of date. Rather than risk missing the numbers when too much was simply unknowable, companies stopped providing guidance. What’s more, about 52 percent of 285 S&P 500 compa­nies that historically provided annual EPS guidance say they will not do so for either FY 2020 or FY 2021, given the continuing uncertainty.
+
+
+
+    
+    
+Their actions raise the question: Does it make sense to resume the practice at all?
+	
+Finance executives face all kinds of internal and external pressures to preserve the status quo. But even before the COVID-19 crisis, many finance leaders were second-guessing the impact of quarterly or annual earnings guidance. According to FCLTGlobal, in 2017 only about 28 percent of S&P 500 companies provided quarterly earnings guidance, 31 percent provided annual EPS guidance, and 40 offered no EPS guidance at all.
+
+
+A growing body of evidence, going back more than a dozen years and continuing today, suggests that such guidance can be more of a distraction than a help to investors and that many of them don’t put as much weight on quarterly EPS guidance as executives believe they do.Since executives have already experienced the effects of temporarily suspending quarterly earnings guidance, they can feel emboldened to do away with such guidance altogether. At the very least, they can change the process so that they’re sharing the most useful data—the operating metrics and key indicators that give investors a broader, longer-term view of corporate performance.The limits of EPS guidanceTo help manage investors’ expectations of performance, companies provide regular estimates of revenues, capital spending, units sold, cash flow, and other key financial metrics. But not every data set is meaningful to stakeholders in the same way.The notion that quarterly EPS guidance may be of limited use to investors is not new. Back in 2006, the chief investment officer at Merrill Lynch explained that analysts there were advised “not only to discount heavily and to question earnings guidance but also to analyze what the guidance—and the way it is constructed—says about the management.”
+
+
+ More recently, business lions Jamie Dimon and Warren Buffett penned a Wall Street Journal Op-Ed on how quarterly earnings guidance can lead to “an unhealthy focus on short-term profits at the expense of long-term strategy, growth, and sustainability.”
+
+
+ BlackRock CEO Larry Fink echoed that sentiment, saying, “Today’s culture of quarterly earnings hysteria is totally contrary to the long-term approach we need.”
+
+
+
+		
+	
+A range of research validates such views. McKinsey compared the market performance of companies
+that offer quarterly earnings guidance with the performance of those that don’t. It found that the companies that did not provide EPS guidance  to shareholders (TRS). That same body of research revealed no difference in TRS between companies that regularly met the earnings consensus and those that occasionally missed it.  only if companies missed consensus consistently over several quarters because of systematically lower performance. Further, McKinsey research showed that only 13 percent of investors surveyed thought that consistently beating EPS estimates was important for assessing a potential investment. What’s the harm, then, in providing quarterly earnings guidance if investors don’t weigh such information heavily? One potential problem is the overemphasis of quarterly earnings to evaluate management teams’ performance, which can create unnecessary noise in corporate boardrooms. More important, EPS-focused companies are known to implement actions to “meet the number”—deferring investments or cutting costs excessively, for instance. Such moves might end up hurting the business. Con­sider those large conglom­erates, for example, that buy and sell small businesses to close the last-penny gap. In addition, companies overly focused on EPS growth can become overly reliant on stock buy­backs, potentially diverting cash from reinvest­ment in the business. A better form of guidanceCOVID-19 may have provided a platform for change, but the evidence all along has showed that companies should consider shifting their focus permanently—from giving investors quarterly earnings guidance to giving them guidance on the underlying drivers of the business over longer time frames. In 2018, the National Investor Relations Institute (NIRI) changed its policy, recommending that “companies provide long-term guidance (that is, one year or longer) on a consistent set of financial and nonfinancial metrics that, together, constitute the key long-term value drivers of its business.”
+
+
+
+		
+	
+For most companies, this would mean providing three-year targets (at a minimum) for revenue growth, margins, and return on capital. For capital-intensive companies, such disclosures could also include plans for future capital expenditures. And companies can seek to marry this outlook with data on operating metrics—number of customers, revenue per customer, and so on.We agree with NIRI that in some circumstances companies may need to furnish short-term guidance—to address seasonality, for instance, or unexpected market developments. But to maintain good communications with analysts and investors, in good times and bad, companies should try to focus their guidance on business fundamentals and long-range goals.

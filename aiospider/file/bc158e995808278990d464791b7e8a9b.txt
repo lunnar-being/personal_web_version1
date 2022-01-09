@@ -1,0 +1,1 @@
+Design and develop two novel technologies that will reduce the hydrogen production cost to $2/kg in a small-scale Reversible-SOFC (R-SOFC) plant capable of producing both electricity and hydrogen.

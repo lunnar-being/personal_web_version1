@@ -1,0 +1,41 @@
+
+        
+        
+        
+     a single confirmed case of COVID-19 in the United States has exploded into a human tragedy that has affected hundreds of thousands of people in the country. The pandemic has also created an economic crisis that is stretching state governments’ ability to deliver support services.As businesses lay off workers in the face of an abrupt economic slowdown, a spike in unemployment has tested state governments’ capacity. Almost 3.3 million people filed initial claims for unemployment benefits between March 15 and March 21, 2020, the highest on record for the country.
+
+
+ Unemployment programs are underequipped to meet this level of need: programs themselves are understaffed for a crisis, processes easily overwhelm legacy IT systems, and in-person appearances aren’t feasible during a pandemic. 
+
+	
+
+
+
+
+    
+    
+
+At the moment, claimants are facing obstacles at every step of the process to obtain unemployment benefits (Exhibit 1):
+    
+    
+    
+    
+
+    
+
+        
+
+
+    
+    Yet the public is depending on unemployment programs to meet the challenge. Unemployment assistance is one of the few immediately available financial lifelines, not only for residents in need but also—in a massive economic event such as the COVID-19 pandemic—for local economies (see sidebar “Pandemic Unemployment Assistance program presents new challenges for states”for how state governments could overcome these additional challenges faced in implementing Pandemic Unemployment Assistance for self-employed workers). For a local economy, unemployment insurance has the potential to inject far greater stimulus than the individual assistance in the federal relief package given the level of support per person. In the face of these challenges, states could consider five levers to identify and address bottlenecks and rapidly deliver benefits to residents (Exhibit 2).
+
+    
+Critically, each of these levers can have a tangible impact within days or weeks, enabling states to weather surging demand (to see what states could accomplish immediately, see sidebar, “Easing service backlogs within 24 hours”). Taken together, these levers help set the stage for fundamental process redesigns—rather than mere incremental improvements. 
+        
+
+
+    
+     centers on managing demand and stopping nonessential work. This could be as simple as taking a few hours to execute a governance change that decreases bottlenecks during processing. For instance, several states have revised their eligibility requirements to increase throughput of applications. In addition, states could fast-track claimants who are most likely to qualify for benefits and consider relaxing requirements that might not be worth the incremental complexity. These decisions require careful cost–benefit analysis but could be quite impactful.  refers to redesigning processes to reduce handoffs and bypass bottlenecks. Some shifts could be simple—for instance, expediting straightforward claims in batches. Others could require more legwork, such as moving toward automatic approval for initial claims that meet certain conditions. States can significantly shorten processing time by making end-to-end processes leaner; a virtual “process war room” can help rapidly identify and act on opportunities for improvement. Indeed, multiple states are already expediting claims by waiving requirements such as seven-day waiting periods and employment-search verifications. enables states to make significant front- and back-end changes to improve user interaction, enhance data clarity, and streamline workflows—ushering in a completely reinvented process, which is especially relevant given the implications of physical distancing during a pandemic. At the same time, a cloud-hosted model increases the ability to handle surge volumes more easily, web pages updated with simple directions and FAQs improve application quality, optical character recognition scans forms rapidly and automatically, and dashboards track productivity in real time (Exhibit 3). State unemployment program leaders will need to work closely with state or department chief information officers to incorporate considerations such as security and coordinate on procurements, but this lever has significant potential to support physical-distancing efforts by enabling both residents and state employees to avoid physical locations.
+    
+ refers to techniques such as targeted deployment of low- and no-code technologies (for example, robotic process automation, robotic desktop automation, and chatbots) to rapidly address holdups (such as common errors in forms) and updates for residents on the status of their applications by text or phone. Although these investments can take longer to implement, they can significantly decrease backlog as well as the burden on state staff while efficiently administering services. With staff already overwhelmed, gathering their input to automate processes will require creativity. Work sprints that minimize
+time commitment from staff and tap former department employees who are not actively responding to the crisis can generate useful input without burdening staff.  focuses on people—deploying and upskilling workers to efficiently work through the backlog. In the short term, supporting employees and making sure they can effectively work from home can improve output. Over time, reallocating capacity to the area of greatest need, training agents in customer service, and ensuring consistency can sustainably increase productivity. For example, a midwestern state has redeployed staff from less-utilized services to meet demand at its unemployment call center.While state unemployment systems have never seen such a surge in volume, our experiences with governments in crisis situations suggest that states can use these tactics to overcome the present challenge. After all, one federal agency achieved a tenfold increase in claims throughput after a natural disaster. Unemployment benefits is the first of many services to see a spike in demand. States can invest in interventions that will remove process bottlenecks today, increase readiness for the surge that is likely to come, and lay the foundation for broader, longer-term transformational change. States that transform the way they deliver services can improve the likelihood that critical resources reach their most vulnerable residents.

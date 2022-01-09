@@ -1,0 +1,85 @@
+
+        
+        
+        
+    This report is part of the series on the Productivity Imperative in US Healthcare Delivery. Read further analysis of administrative simplification in .Every organization or large-scale system needs a base of administrative functions to run. As these functions adopt new technologies and innovations, spending typically drops and quality improves. Consider payment processing, which is faster and cheaper than ever, or signing up for a new mortgage, for which you can get preliminary approval on your phone in minutes. Despite generations of technological advancements, however, the US healthcare system remains stuck: productivity and quality have stagnated, and change has been slow.
+
+
+Of the nearly $4 trillion spent on healthcare annually in the United States, administrative spending is about one-quarter of the total; delivery of care is about three-quarters. But what portion of that administrative spending is unnecessary, and how can it be simplified?To answer these questions, it is critical to understand what is truly necessary spending. The US healthcare system, with thousands of hospitals and physician groups and more than 900 payers, is geared both to local service and to competition.
+
+
+ The predominant fee-for-service payment model puts competitive checks and balances on payers, hospitals, and physician groups. This leads to a number of benefits for the United States, such as being known as a world leader of innovative care delivery. But this fragmentation can also lead to unnecessary spending due to the number of communication and transaction points among all these organizations. For example, for a healthcare claim to be paid, it must go through multiple hand-offs: payers may have to validate the medical necessity of a procedure before authorizing physicians to provide the service; physicians and members must submit claims to payers; payers need to review and then contact providers to confirm details; payments have to flow through multiple clearinghouses; and, in some cases, appeals by providers who disagree with the payment amount must be heard.
+		
+	
+Further, the US healthcare system is highly regulated. This leads to more administrative spending in areas ranging from adhering to compliance requirements, such as the Health Insurance Portability and Accountability Act of 1996 (HIPAA), to participating in new markets like Medicare Advantage. The intent of policymakers is to provide patients with better healthcare; often, for organizations, new administrative expenses are partially the cost of doing business to meet these requirements. But this can also become another layer of expense into which inefficiencies and errors can creep. Other challenges include the need to manage labor displacement in an industry that is a driver of US workforce growth.
+
+
+
+	
+
+
+	
+Typical approaches to sizing the opportunity for administrative spending reduction tend to compare the United States to other countries in the Organisation for Economic Co-Operation and Development (OECD). However, the conclusions reached from such an approach may not account for the idiosyncrasies of the US healthcare system and thus may not provide a basis for action. For example, Canada may have lower administrative spending as a percent of total healthcare spending, but it mostly uses a single-payer system that may not provide the level of choice, access, and innovation that the US system fosters and that some Americans demand.Instead, we offer a pragmatic perspective that addresses how the US healthcare system could reshape administrative spending by payers and providers within the current system (Exhibit 1). The goal is not to reduce administrative spending to zero but rather to gain the highest value for each administrative dollar spent without sacrificing quality or access.
+    
+Too often, payers’ and providers’ profit-and-loss (P&L) statements do not provide enough detail to estimate what is necessary and unnecessary spending. Even when they do, the data are not broken down in a way that mimics how the organization operates. From our experience, administrative spending can instead be reorganized into five functional focus areas (Exhibit 2):
+    
+
+     The movement of all payments, claims, and billing throughout the healthcare ecosystem among payers, hospitals, physician groups, and customers
+     Back-office, non-clinical functions that are mostly industry-agnostic, such as finance and human resources
+     Back-office, non-clinical functions that are mostly industry-specific, such as underwriting, enrollment, quality reporting, and accreditation
+     The set of activities and processes that provide services to customers, typically done via call centers and increasingly moving toward digital and self-service functions
+     Activities that have a clinical component (for example, nursing administration, case management), which can be customer-facing and require some clinical expertise but are not related to the hands-on care of patients
+
+	
+
+
+	
+To our knowledge, this approach to categorizing administrative spending is the first of its kind. It allows us to break up an administrative function into two parts: what work is necessary, and what could be eliminated in the next three years through proven techniques while holding or improving access and quality at today’s levels.
+
+
+ By identifying simplification opportunities for each functional focus area, we were able to build a roadmap of about 30 interventions that could deliver up to $265 billion in annual savings (Exhibit 3). This is based on three types of interventions: “within,” “between,” and “seismic.”
+    
+The first type is “within” interventions, which can be controlled and implemented by individual organizations. These within interventions could deliver about $175 billion in annual savings, or 18 percent of total administrative spending. Some examples include automating repetitive work in back-office functions, such as human resources and finance, and integrating a suite of tools and solutions that nurse managers use to manage staffing and budgeting.Some other interventions can be made “between” organizations. These require agreement and collaboration between organizations but not broader, industry-wide change; they could deliver about $35 billion in annual savings, or 4 percent of total administrative spending. Building payer–provider communications platforms that unify messaging to customers is one example.All the within and between interventions have a positive return on investment and, in our experience, can be deployed using current technology and nominal investment (that is, one-time spending of 0.7 to 1.0 times the annual run-rate savings).
+		
+	
+The third intervention type is “seismic” and requires broad, structural agreement and changes across the US healthcare system.
+
+
+ These interventions could deliver about $105 billion in annual savings, or 11 percent of total administrative spending. Seismic interventions—including those that require technology platforms, operational alignment, or payment design—generally benefit from partnerships between the public and private sectors to align incentives for change.Many seismic interventions address the same sources of spending as the within and between ones but take the savings a step further. Accounting for this overlap, we estimate total savings across all three types of interventions at about $265 billion, or 28 percent of total administrative spending.
+
+
+Furthermore, all interventions come with some specific limitations: when deploying these interventions, especially automation, healthcare organizations must be vigilant to avoid biases, such as algorithms built on skewed data that could adversely affect equity or access for vulnerable populations. In addition, many interventions that rely on automation should be coupled with reskilling programs that allow existing talent to be placed in higher-value roles.
+	
+
+
+	
+Administrative simplification may not be at the top of stakeholders’ priority lists, but the potential to save $265 billion could be compelling to leaders across healthcare. Even better, these savings are available today. If fully realized, these savings would be more than three times the combined budgets of the National Institutes of Health ($39 billion), the Health Resources and Services Administration ($12 billion), the Substance Abuse and Mental Health Services Administration ($6 billion), and the Centers for Disease Control and Prevention ($12 billon).
+
+
+ Put another way, $265 billion is greater than Medicare Part A spending ($201 billion in 2019) and is equivalent to $1,300 for each American adult.
+
+
+Some organizations have made impressive progress on administrative simplification by deploying within and between interventions. At these organizations we found a set of common denominators of success. These include the following:
+    Prioritizing administrative simplification as a strategic initiative
+    Committing to transformational change versus incremental steps
+    Engaging the broader partnership ecosystem on the right capabilities and investments
+    Disproportionally allocating resources, such as capital and talent, to the underlying drivers of productivity
+
+    
+Seismic interventions are more difficult, largely because they are generally needed due to a lack of motivation to innovate at the organization level.
+
+
+ For example, today, the Centers for Medicare & Medicaid Services (CMS) requires reporting on more than 1,700 quality measures.
+
+
+ Physicians spend the time equivalent to seeing nine patients reporting on such measures weekly.
+
+
+ Laying out mechanisms that could promote standardization, such as convening a public–private partnership to identify and streamline to the highest-­value measures, could be a seismic way to unlock this opportunity by accelerating technology modernization in organizations (for example, digitizing sources of data).Apart from the outsize potential for savings, external forces are also creating pressure for organizations to act. Across the US economy, the COVID-19 pandemic and subsequent economic downturn have prompted organizations to rethink operations and invest in digital transformations. Indeed, research has shown that organizations that aggressively pursue industry-leading productivity programs are twice as likely to be in the top quintile of their peers as measured by economic profit.
+
+
+ To galvanize the seismic opportunity, we see actions for three sets of stakeholders:
+     could set the framework in which other organizations operate. Federal and state bodies can set guardrails for payers, hospitals, and physician groups.
+     can prove ideas with pilots. They might create public–private partnerships to test interventions within a state and then scale up success stories nationally.
+     such as foundations and bipartisan groups, can conduct objective fact gathering and analyses. An arbiter of facts can galvanize action.
+There is an opportunity to capture over a quarter-trillion dollars in savings in the next few years without compromising care delivery in the current US healthcare system. There is a clear roadmap ahead with proven solutions; the choice to act is upon everyone.

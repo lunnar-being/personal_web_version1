@@ -1,0 +1,86 @@
+    
+
+
+
+ affecting lives and livelihoods across the world. Its knock-on effect for state governments is a fiscal crisis that dwarfs the Great Recession of 2008. In addition to the budget challenges, the demands on state services have spiked and the means by which those services are delivered (in person or by digital means) are of greater importance as public-health protocols endure.Many state governments have already acted and are making tough decisions to meet these needs. US state governments are almost all bound by constitutional amendments to balance their budgets annually or biannually—a constraint not found in many other governments around the world. Within these constraints, states may consider options such as raising revenues, monetizing assets, and creative public financing, as well as traditional cost-reduction efforts. But states have the opportunity to consider a tried-and-tested, though rarely used, recipe to transform government at scale—improving performance and efficiency. Transforming in the face of crisis is not a radical idea, whether in the private or public sector. However, transformation is challenging for large and complex organizations. Indeed, McKinsey research has found that .Experience shows there is a proven recipe for beating these odds. The recipe involves three necessary elements: setting a bold aspiration, ensuring execution at pace, and sustaining the transformational change. A successful approach involves the following:
+    starting with a comprehensive diagnostic across all areas and functions to identify the full potential for improvement
+    setting clear and quantified targets
+    accelerating priority initiatives
+    moving initiatives through a well-defined stage-gate process
+    standing up a rigorous “execution engine” to drive implementation, support widespread capability building, and overcome barriers
+This article introduces the initial phases of that journey (Exhibit 1). First, we review how states responded to the global financial crisis of 2008 and the steps they have taken since the COVID-19 pandemic began. We then outline three tactical actions that states could take immediately in the “do now” phase to respond to the fiscal crisis as it unfolds. In the “discover”
+phase, we examine how governments might rapidly identify cost-efficiency and effectiveness opportunities across their organization, launch early initiatives to build momentum, and stand up the execution engine to drive implementation.
+    
+The transformation approach is a powerful mechanism for progress, but it is not for the faint of heart. These extraordinary circumstances demand extraordinary actions. This approach hinges on mobilizing the broader organization while demanding flexibility, open-mindedness, creativity, and stamina from both leaders and frontline employees throughout the effort.
+
+	
+
+
+
+
+    
+    
+
+Great Recession impacts hinder COVID-19 budget optionsOn September 29, 2008, the Dow Jones Industrial Average dropped an unprecedented 778 points in a matter of hours. After watching financial titans declare bankruptcy one by one for months, the market had finally lost faith. For most Americans, this was the largest financial shock they had ever experienced.The Great Recession tested the resilience of US financial systems and the capacity of government. The economic shock was felt acutely by states, which experienced a collective $690 billion budget shortfall over the subsequent five-year period.
+
+
+ All but Vermont had a balanced-budget requirement, meaning funding shortages had to be resolved in-year. To close this gap, states turned to their well-worn playbook of austerity measures, including borrowing from rainy-day funds, implementing top-down expenditure reductions, using pension-plan adjustments and reserves, raising fees in certain areas, and appealing for federal funding.Despite enlisting their full arsenal of austerity measures, states were pushed to a breaking point by the cumulative burden. Twenty-eight states drained their rainy-day funds to a point where they had less than a week’s worth of operating costs; 17 used them entirely. Others cut elementary- and secondary-education funding by as much as 40 percent,
+
+
+ leading many districts to reduce the number of school days and furlough employees. Between 2008 and 2013, state-government workforces were reduced by about 6 percent,
+
+
+ and the average state-pension funding ratio fell to 75 percent. And, even though the federal government injected about $1.3 trillion into the economy as part of the largest fiscal recovery plan in US history (at the time),
+
+
+ states were still left with challenging decisions.
+		
+	
+More than a decade later, a quarter of states have not restored their rainy-day funds to pre-recession levels, and all but five states remain below the recommended threshold of two months’ operating expenses.
+
+
+ Per-student funding for higher education is down 13 percent.
+
+
+ State government workforces are still almost 5 percent smaller than they were in 2008. Pension-plan funding levels are down to 66 percent on average across states,
+
+
+ and the federal deficit has more than doubled.Today’s fiscal crisis dwarfs the Great Recession, and GDP forecasts suggest the worst drop since World War II (Exhibit 2). Twenty-five percent of small businesses closed temporarily, and 43 percent fear permanent shutdowns in the next six months.
+
+
+ The price of oil has plummeted, even falling below zero per barrel at one point. Finally, retail sales tax fell 8.7 percent in March 2020,
+
+
+ the largest decline on record.
+    
+Meanwhile, demand for social programs and state expenditures has surged. In the span of a few weeks, 36 million Americans have filed for unemployment insurance. Spending on the federal Supplemental Nutrition Assistance Program (SNAP) is up 40 percent nationwide.
+
+
+ Extensive shortages of personal protective equipment have required states to step in as wholesale buyers, inflating unit prices more than tenfold.Traditional austerity measures simply cannot be scaled to close the impending fiscal gap, especially after being blunted in the aftermath of the previous crisis.Do now: Manage near-term responseOperational transformation presents another set of options in addition to raising revenue, increasing debt, leveraging assets, and reducing austerity across the board. For states that must balance their budgets annually, instead of chipping away at a budget tailored to a current operating model, state governments can modify service delivery. Launching targeted interventions that redefine government operations can stabilize budgets faster, cultivate long-term resilience, and help states adapt to new ways of doing business. Many of these changes will require years of development and execution, but a few could be launched immediately and in parallel with emergency-response initiatives.Adopting vigilant cash-flow managementUnlike the private sector, most state governments are not equipped to manage real-time liquidity. In good times, comparatively predictable government cash flows render the need to actively monitor cash unnecessary. Fragmented and antiquated accounting systems further complicate taking nimble cash actions. But in times of great volatility—and certainly in times of crisis—expected sources of inflows can quickly become sources of outflows; for example, expected personal income taxes become unemployment insurance payments.The fallout caused by COVID-19 will require an extensive, sophisticated, and protracted disaster response. For the next several years, all states are at risk of facing liquidity crises as revenues plummet and expenditures soar. Even states with robust rainy-day funds, largely built on the backs of natural-resource endowments, face a bleak outlook as oil prices fall.In these uncertain times, states can evolve to meet the demands of the challenge at hand. Introducing vigilant cash management is the first step to a successful emergency response. Creating a “cash control tower” can accelerate capability building and enable state governments to do the following (Exhibit 3):
+     the proper allocation of resources
+     that shows discrete sources and uses of cash to make decisions on near-term actions
+     including those with operational trade-offs, if necessary
+     by developing the tools and capabilities necessary to ensure the organization treats liquidity as a core objective
+
+    
+In our experience, a cash control tower can improve cash balance by 6 to 12 percent within weeks. For many organizations, this cash-balance improvement alone is the difference between solid ground and the brink of a liquidity crisis.Addressing the surge in critical government servicesOn May 8, the US Department of Labor reported that 14.7 percent of the American workforce was unemployed in April. Unemployment insurance claims have increased 2,000 percent in the past few weeks.
+
+
+
+With each passing day, state residents become more dependent on government for basic services. This economic vulnerability will likely result in greater housing and food insecurity, susceptibility to health risks, and other acute needs down the line. As requests for unemployment insurance, housing assistance, SNAP, Medicaid, and Temporary Assistance for Needy Families swell, states could consider preparing operations for exceptional levels of demand. Planning for this involves both anticipating spikes and identifying short-term solutions to tide over existing systems.Anticipating service demand is critical for maintaining operations while intake systems experience surges. Services that have not yet been bombarded by an influx of claims could stress-test their capacity immediately. Additionally, identifying and monitoring leading indicators can serve as a warning for the magnitude of spikes down the road.However, when service-delivery processes do begin to buckle under pressure, states could consider the following short-term solutions for supporting systems:
+    —for example, by granting automatic extensions to certain licenses
+    to areas of higher demand
+     that meet predefined criteria
+     to screen for eligibility, thereby shielding less-adept back-end systems from processing unqualified claims
+Implementing controls to maximize available federal fundsIn times of crisis, organizational decision making can shift from a coordinated top-down approach to a decentralized frontline response. Diligent tracking processes may also break down when conditions call for more agility. In these situations, governments become vulnerable to unbounded emergency-spending commitments or responsible for many initiatives launched with minimal planning and unclear accountability. To ensure federal funds are not left on the table and to use those funds responsibly, states should consider coordinating with federal agencies in these five steps:
+     to maximize fiscal and operational impact
+     through their regional offices and establish a protocol to ensure steady lines of communication as resources go online
+     required by federal agencies to recover qualified expenditures or receive up-front payments
+     by fully accounting for eligible expenses and avoiding potential clawbacks from ineligible uses
+     by assessing the potential for impact and ensuring effective and quick deployment of the money
+Discover: Embark on long-term transformationWhile immediate actions strengthen emergency-response capabilities, addressing the looming budget shortfalls will require sweeping changes across a much longer time horizon. The “discover” phase of the transformation journey involves quickly laying the groundwork for the coming years. Tactically, this means setting up a central transformation office to compel progress, launching priority initiatives to achieve early financial impact and demonstrate momentum to state workers and citizens, and conducting a rapid diagnostic across all areas and functions of the organization to assess the size of the opportunity for operational innovations.Improving procurementStates can improve procurement by managing demand for vendors, refining pricing through analytical category management, and modernizing procurement capabilities.One US state recently worked to optimize its contractual services across multiple agencies. By transforming approval and ownership processes and improving personnel capabilities, the state saved more than $100 million in the first year of its integrated program.Similarly, a major US city pursued procurement reform as a high-value intervention. Reviewing vendor cycle times and quality assurance, clean-sheeting its largest contracts, and better managing category spending using advanced analytics allowed the city to identify 10 to 20 percent in savings for centrally procured items.Automating servicesStates could systematically identify areas of citizen service that can be automated or moved online to reduce cost to serve.For example, one state’s economic- and social-support agency digitized its entirely paper-based enrollment process in three weeks. The process—application filing, processing, screening, and approval—was shortened from an average of 38 days to eight days, thereby dramatically improving citizen satisfaction and reducing associated costs.
+		
+	
+Carrying out Medicaid controlsStates can implement Medicaid controls such as third-party liability, utilization management, and program integrity measures to accrue savings of 1 to 3 percent while improving healthcare services.In the past decade, the Medicaid program more than doubled in terms of percent of state budget without notable changes in the number of quality outcomes. In 2019, one state embarked on a journey to transform its Medicaid program. By engaging the collective wisdom of agency staff, the state identified more than $1 billion in savings across 70 initiatives while sustaining desired quality outcomes.Addressing tax delinquencyStates can review delinquent tax revenues and cash compliance, along with other tax-gap elements due to under- or unreported income. This revenue leakage is typically estimated at 10 to 20 percent of potential annual collections.One state confronted an unexpected budget gap by using advanced analytics to increase tax revenues. The state detected and treated 10,000 underreporting businesses and captured $60 million to $100 million in revenues while simultaneously reducing the undue burden of mistargeted investigation.Beyond this short list are hundreds of additional context-specific opportunities. In the earliest phases of transformation, states could consider launching a comprehensive analysis across their governments to take stock of potential efficiency and effectiveness improvements. This exercise involves evaluating both government departments and relevant cross-cutting enablers (Exhibit 4). Depending on the scope of analysis, states could reach savings of 3 to 10 percent in operating expenses, as well as improved service quality.
+    
+Committing now to sweeping operational transformations could help states mitigate cuts in government services and economically devastating hits to their public-sector workforce, while improving their ability to address long-term liabilities such as debt and pensions. At times, states will have to accept doing less, with less—but there is real opportunity to spur positive, lasting change through large-scale transformation.

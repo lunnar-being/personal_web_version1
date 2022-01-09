@@ -1,0 +1,60 @@
+
+        
+        
+        
+     in research and development (R&D) is staggering. In 2019 alone, organizations around the world spent $2.3 trillion on R&D—the equivalent of roughly 2 percent of global GDP—about half of which came from industry and the remainder from governments and academic institutions. What’s more, that annual investment has been growing at approximately 4 percent per year over the past decade.
+
+
+While the pharmaceutical sector garners much attention due to its high R&D spending as a percentage of revenues, a comparison based on industry profits shows that several industries, ranging from high tech to automotive to consumer, are putting more than 20 percent of earnings before interest, taxes, depreciation, and amortization (EBITDA) back into innovation research (Exhibit 1).
+    
+
+	
+What do organizations expect to get in return? At the core, they hope their R&D investments yield the critical technology from which they can develop new products, services, and business models. But for R&D to deliver genuine value, its role must be woven centrally into the organization’s mission. R&D should help to both deliver and shape corporate strategy, so that it develops differentiated offerings for the company’s priority markets and reveals strategic options, highlighting promising ways to reposition the business through new platforms and disruptive breakthroughs.Yet many enterprises lack an R&D strategy that has the necessary clarity, agility, and conviction to realize the organization’s aspirations. Instead of serving as the company’s innovation engine, R&D ends up isolated from corporate priorities, disconnected from market developments, and out of sync with the speed of business. Amid a  between those that innovate successfully and those that do not, companies wishing to get ahead and stay ahead of competitors need a robust R&D strategy that makes the most of their innovation investments. Building such a strategy takes three steps: understanding the challenges that often work as barriers to R&D success, choosing the right ingredients for your strategy, and then pressure testing it before enacting it.Overcoming the barriers to successful R&DThe first step to building an R&D strategy is to understand the four main challenges that modern R&D organizations face:
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+		
+	
+Choosing the ingredients of a winning R&D strategyGiven R&D’s role as the innovation driver that advances the corporate agenda, its guiding strategy needs to link board-level priorities with the technologies that are the organization’s focus (Exhibit 2). The R&D strategy must provide clarity and commitment to three central elements: what we want to deliver, what we need to deliver it, and how we will deliver it.
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+Testing your R&D strategyDeveloping a strategy for the R&D organization entails some unique challenges that other functions do not face. For one, scientists and engineers have to weigh considerations beyond their core expertise, such as customer, market, and economic factors. Stakeholders outside R&D labs, meanwhile, need to understand complex technologies and development processes and think along much longer time horizons than those to which they are accustomed.For an R&D strategy to be robust and comprehensive enough to serve as a blueprint to guide the organization, it needs to involve stakeholders both inside and outside the
+R&D group, from leading scientists to chief commercial officers. What’s more, its definition of capabilities, technologies, talent, and assets should become progressively more granular as the strategy is brought to life at deeper levels of the R&D organization.
+So how can an organization tell if its new strategy passes muster? In our experience,  apply just as well to R&D strategy as to corporate and business-unit strategies. The following two tests are the most important in the R&D context:
+     Too often, R&D organizations conflate technical necessity (what is needed to develop a solution) with strategic importance (distinctive capabilities that allow an organization to develop a meaningfully better solution than those of their competitors). It is also vital for organizations to regularly review their answers to this question, as capabilities that once provided differentiation can become commoditized and no longer serve as sources of advantage.
+     R&D strategies may have relatively long time horizons but that does not mean they should be insulated from changes in the outside world and never revisited. Companies should establish technical, regulatory, or other milestones that serve as clear decision points for shifting resources to or away from certain research areas. Such milestones can also help mark progress and gauge whether strategy execution is on track.
+Additionally, the R&D strategy should be simply and clearly communicated to other functions within the company and to external stakeholders. To boost its clarity, organizations might try this exercise: distill the strategy into a set of fill-in-the-blank components that define, first, how the world will evolve and how the company plans to refocus accordingly (for example, industry trends that may lead the organization to pursue new target markets or segments); next, the choices the R&D function will make in order to support the company’s new focus (which capabilities will be prioritized and which de-emphasized); and finally, how the R&D team will execute the strategy in terms of concrete actions and milestones. If a company cannot fit the exercise on a single page, it has not sufficiently synthesized the strategy—as the famed physicist Richard Feynman observed, the ultimate test of comprehension is the ability to convey something to others in a simple manner.Cascading the strategy down through the R&D organization will further reinforce its impact. For example, asking managers to communicate the strategy to their subordinates will deepen their own understanding. A useful corollary is that those hearing the strategy for the first time are introduced to it by their immediate supervisors rather than more distant R&D leaders. One R&D group demonstrated the broad benefits of this communication model: involving employees in developing and communicating the R&D strategy helped it double its  strategic clarity score, which measures one of the four  highly connected to organizational performance.R&D represents a massive innovation investment, but as companies confront globalized competition, rapidly changing customer needs, and technological shifts coming from an ever-wider range of fields, they are struggling to deliver on R&D’s full potential. A clearly articulated R&D strategy that supports and informs the corporate strategy is necessary to maximize the innovation investment and long-term company value.

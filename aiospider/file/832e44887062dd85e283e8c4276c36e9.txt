@@ -1,0 +1,125 @@
+
+        
+        
+        
+     is causing significant strain on American lives and livelihoods. Before COVID-19, approximately one in four Americans had a mental illness or substance use disorder.
+
+
+ Taking into consideration the traumatic nature of COVID-19, the related economic constriction, and prolonged social isolation experienced by many Americans, the pandemic’s impact could—without intervention—increase the prevalence of behavioral health conditions by as much as 50 percent.
+
+
+In our publication, “,” we highlighted four potential actions healthcare leaders can consider to address related behavioral health challenges. Now, we examine how those actions could be coupled with efforts to promote access to care, improve patient outcomes and experience, increase affordability, and drive net savings in healthcare costs through whole person care.Addressing systemic challenges through whole person careIndividuals with behavioral health conditions often face difficulty accessing treatment,
+
+
+
+
+
+ high out-of-pocket costs,
+
+
+ non-guideline-based care,
+
+
+ and multiple forms of discrimination,
+
+
+
+
+
+ leading to meaningful disparities in healthcare outcomes and affordability. In addition, in both government and commercially insured populations, around 60 percent of healthcare spend is attributable to the roughly 23 percent of the population diagnosed with behavioral health conditions.
+
+
+
+        
+
+
+    
+    
+    
+    
+        
+All stakeholders—including public, private, and social sectors—can play a role in addressing these disparities. Establishing the groundwork for whole person care will require addressing supply-demand inequities in behavioral health services, expanding equitable access to evidence-based models of care, and investing in behavioral health at parity with other health conditions.1. Expand equitable access to evidence-based behavioral health services
+	
+More than 60 percent of the US population lives in counties with an insufficient supply of psychiatrists, with only 40 percent of all psychiatrists accepting any form of insurance
+
+
+ and 20 percent not accepting new patients,
+
+
+ according to our . As such, commercially insured consumers are between five times and six times more likely to use out-of-network providers for their behavioral health needs than for physical healthcare.
+
+
+ This disparity leads to higher out-of-pocket costs and significant barriers to care for patients with mental health and substance use disorders. This is compounded by the fact that payers are struggling to expand their networks of behavioral health professionals.
+
+
+Potential strategies to address the overall lack of access to behavioral health services include the following:
+    In rural areas, where the shortage is starkest, telehealth services could provide behavioral health access to the underserved. Between January and October 2020, there was an increase of 59 percentage points nationally in the proportion of psychotherapy services delivered via telehealth.
+
+
+
+
+
+
+    Expanding the capabilities of non-specialists to practice at the top of their license
+
+
+ and deliver care to patients with more complex needs (for example, models such as Project ECHO)
+
+
+ may decrease wait times for specialty behavioral healthcare and increase in-network accessibility.
+    The expansion of community-based crisis services can offer services that may currently be available only in emergency departments and correctional facilities and potentially deliver better outcomes. Deploying mental health co-responder models instead of, or in partnership with, law enforcement can help route patients to community-based services and reduce overreliance on emergency sites of care.
+
+
+
+    Increased access to evidence-based treatments, such as the use of cognitive behavioral therapy, could reduce healthcare spend while providing higher quality of care and a better experience for individuals with depression.
+
+		
+	
+2. Invest in behavioral health at parity with other health conditionsTo adequately support behavioral health consumers, a major element is addressing the long-term supply-demand imbalance—where the demand for behavioral health services far outstrips the availability of timely, affordable, and high-quality care. Strategies to help achieve this balance by expanding the supply of behavioral health services may include reexamination of reimbursement rates, investing in workforce development initiatives, supporting new care delivery models, and strengthening provider networks.The United States is facing a significant behavioral health workforce shortage. For example, as of 2018, 192 million Americans lived in counties with an insufficient
+
+
+ supply of psychiatrists.
+
+
+ Data also suggest that nationwide, approximately half of all psychiatrists do not accept any insurance, including Commercial, Medicare, and Medicaid.
+
+
+Although behavioral health has been a top bipartisan policy issue for more than a decade, behavioral health providers are often reimbursed at lower rates than non-behavioral health providers: compared with Medicare-allowed amounts, average 2017 in-network physician reimbursement rates for behavioral health office visits were lower than for primary care office visits and medical/surgical specialist office visits.
+
+
+ These disparities in reimbursement rate between behavioral health and primary care grew from 20.8 percent in 2015 to 23.8 percent in 2017.At the same time, the rate of out-of-network care utilization increased from 15 percent to 17 percent of adult behavioral health office visits (versus roughly 3 percent of primary care visits). For children, the rate of out-of-network utilization is 10 times higher for behavioral health than for primary care. Addressing reimbursement disparities could help expand networks in the short term and attract more professionals to the behavioral healthcare field in the long term, thereby supporting overall access to behavioral health services.In addition to reimbursement at parity, further investments in treatment, prevention, and early intervention services, such as the Collaborative Care Model (CoCM) or Screening, Brief Intervention, and Referral to Treatment (SBIRT),
+
+
+
+
+
+ could help mitigate exacerbations of latent mental health conditions and substance use disorders. These and other investments in behavioral healthcare could support an acceleration of advancement, quality, and access to improved whole person care.Additional actions to build a holistic approach to healthcareAs highlighted in “,” the following four actions may be integral to implementing whole person care, in addition to the two foundational actions described above.3. Strengthen community preventionFocusing on prevention, early intervention, and reducing stigma across communities could help alleviate the steady growth of preventable events, such as suicides. Workplace programs such as wellness seminars and personalized feedback could help educate employees on the signs of psychological distress and available treatment options. In schools, a holistic mental well-being and substance use education could offer children a framework to understand their behavioral health, and could help with early identification while reducing stigma associated with mental illnesses and substance use disorders.
+		
+	
+4. Integrate behavioral and physical healthLow integration of physical and behavioral healthcare may lead to delayed diagnosis of behavioral health conditions and prevent the delivery of whole person care.
+
+
+ Embedding mental healthcare managers into primary care clinics could help support a patient’s regular primary care clinician while improving behavioral health screening and treatment in conjunction with the management of their physical health conditions.5. Leverage data and analyticsDeveloping proper data and analytics infrastructures to deploy value-based contracting could help reduce overall healthcare spend and provide a better behavioral healthcare experience, including for those already in treatment. Additionally, predictive analytics could help identify individuals who might benefit the most from the use of evidence-based treatment like cognitive behavioral therapy.6. Address unmet health-related basic needs
+
+
+Individuals with poor mental health are 1.9 times as likely to report not receiving the healthcare they need, and 2.5 times as likely to report having multiple unmet social needs.
+
+
+ By activating home- and community-based services, wraparound approaches can help address the various needs faced by children with behavioral health conditions.
+    
+Potential impact of whole person careIf taken together, these six actions could improve the quality of care and experience for the millions of individuals with behavioral health conditions. As illustrated in Exhibit 1, these actions could also reduce total US healthcare spending annually by $185 billion. This figure represents around 6 percent of total healthcare spend in the United States.
+    
+As part of this overall savings, an estimated increase of $60 billion in behavioral health outpatient spend (for example, through increased reimbursement rates, additional visits) is necessary to effectively implement the various interventions. However, we found that this increase is far outweighed by the potential for spend reduction of $35 billion in behavioral sites of care and $210 billion in physical sites of care, leading to $185 billion in net savings opportunity. Capturing this opportunity may require an additional $65 billion in incremental operating expenses, but could possibly lead to an estimated return of $3 for every $1 invested.The savings impact of these interventions varies across the behavioral and physical health needs spectrum. For example, when considering the impact of integrating physical and behavioral healthcare, we see a difference in savings across different member cohorts. For those with high behavioral health needs,
+
+
+ savings due to this intervention are estimated to be 12 percent of baseline spend, while members with mild or moderate needs might only see estimated savings of 8 percent. These disparities result from differences in spend among behavioral and physical sites of care for each cohort, as well as different estimates for savings rates across sites of care for each cohort (Exhibit 2).
+    
+While it may seem intuitive to focus on the cohorts with the highest potential for savings (for example, individuals with high behavioral health needs and complex physical health conditions), year-­to-year movement of individuals between cohorts means that enhancements should likely occur across all segments. In a claims analysis of employer-sponsored members,
+
+
+ we found that 50 percent of behavioral health high-needs members were in a lower behavioral health-needs cohort, with 25 percent having no previous behavioral health diagnosis the previous year. Instead of waiting until people reach the point of crisis, we can take a holistic approach across all populations from screening and preventative care to more intensive services for patients with serious mental illnesses and substance use disorders.The need for action
+        
+
+
+    
+    COVID-19 has exacerbated the behavioral health crisis facing people across the world, as stressors such as high rates of infection, grief and loss, social isolation, and unemployment have grown. Stresses experienced by frontline healthcare workers have further brought to light the salience of these challenges. We now have the chance to reexamine whole person care by addressing social determinants of health, integrating physical and behavioral healthcare, and meeting people where they are. Efforts to boost this concept could send far-reaching ripple effects into society. These effects could include improved quality of life and reduce premature mortality due to chronic disease, suicide, and overdose for individuals. Additionally, employers could see benefits in the form of improved employee engagement and reduced absenteeism, workplace injury, and disability. Finally, society as a whole stands to benefit the most through improved life expectancy, educational achievement, workforce participation, and community engagement, along with reduced criminal justice involvement and homelessness.Healthcare leaders have a chance to help scale evidence-based solutions, advancing innovation and investing in whole person care. Taking these actions can create meaningful change to save lives, advance economic prosperity, and prioritize health for future generations.

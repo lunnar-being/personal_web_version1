@@ -1,0 +1,43 @@
+
+    
+    
+
+        
+        
+        
+     in volume, require shorter turnaround times, and become more complex, clinical drug supply has become a critical factor for success. Elevating clinical drug supply to best-in-class standards can forestall the possibility of it being a bottleneck to successful drug delivery. However, it can also deliver enormous benefits, including better investigator and patient experiences, one to two years shorter drug launches , and cost savings in clinical drug supply of 15 to 20 percent.The rapid growth in clinical trials has accelerated R&D spending in the pharmaceutical industry, reaching $190 billion in 2019, 30 percent more than in 2015.
+
+
+ Meanwhile, the number of industry-funded interventional clinical trials has continued to grow, with more than 6,100 starting in 2019.
+
+
+ The rapid development of COVID-19 vaccines has raised expectations of shorter timelines, while the pandemic accelerated the shift to decentralized trials.
+
+
+ Other complexities that clinical drug supply must accommodate include new patient-centric modalities and increasingly adaptive, global, and complex trials.Opportunities for improvement and innovationTo quantify the opportunity for excellence in clinical drug supply, we benchmarked the performance of ten pharmaceutical and biotech companies across several performance parameters, including service, quality, and waste (Exhibit 1).
+    
+We found that on-time delivery generally is not a problem. On-time, in-full (OTIF) fulfillment levels are 97 percent. Clinical drug supply professionals corroborated these findings, as they focus primarily on not missing doses. Regarding quality, 19 percent of the packaged and labeled kits had deviations, and 7 percent gave rise to complaints, showing room for improvement, while temperature excursions in the distribution chain were not a significant problem, with a median of just 1 percent deviations. On the other hand, the median waste level for investigational medicinal product (IMP) kits was a troubling 50 percent, primarily due to poor forecasting and planning, representing a significant opportunity to capture value. For instance, a pharmaceutical company spending $10 billion a year on R&D could reap annual savings of more than $100 million by improving its waste performance to best in class.In addition to pursuing operational excellence, clinical supply organizations have an increasingly important role in providing better patient and investigator experiences in decentralized trials, building flexibility for increasingly complex trials, and establishing new capabilities for personalized medicines. Cell and gene therapies are expected to grow from 16 percent of product launches in 2021 to 36 percent in 2025.
+
+
+ In a recent survey of 23 senior clinical drug supply leaders, we found that fewer than half are confident in their ability to supply clinical trials for cell and gene therapies (Exhibit 2).
+    
+
+    
+Realizing the valueTo capture the potential benefits, companies can reconfigure their clinical drug supply models in any or all of six ways:
+	
+
+     As the industry accelerates its shift to decentralized trials, clinical drug supply functions will become more central to the investigator and patient experience. Essential elements will include packaging design, last-mile delivery and returns, patient-device support services, trial-data management, and user interfaces for investigators. For example, one leading pharmaceutical company is exploring the seamless integration of IoT-based temperature loggers into its web and interactive voice-response systems. They are also reviewing telehealth for decentralized trials to improve the patient and investigator experience.
+     As trial needs change, especially for adaptive trials, leading pharmaceutical companies are exploring new ways to achieve supply-chain flexibility in sourcing, manufacturing, packaging, labeling, and distribution. One essential goal will be to respond quickly to changes in dosing levels, formulations, and trial arms. This increased flexibility may require a differentiated comparator sourcing strategy and a network of internal and external facilities. Companies making these changes may also need to consider future pipeline scenarios, including the scale and mix of modalities. For instance, one global pharmaceutical company with multiple modalities in its clinical pipeline rewrote its end-to-end clinical supply strategy to support accelerated timelines and more diverse trials. Another large pharmaceutical company achieved a 10 percent reduction in clinical drug supply costs by adopting tailored comparator sourcing strategies for each program and insourcing its packaging and labeling operations.
+     Orchestrating an end-to-end clinical supply chain requires responsive forecasting and planning. Two essential tools can help drive greater flexibility: advanced analytics for patient forecasting and interactive response technology (IRT) to support site and patient forecasting and supply planning. One leading biotech has begun its journey to integrate IRT, RapidResponse, and enterprise resource planning systems while building an automated exchange mechanism with logistics service providers. This initiative is delivering greater flexibility, lower costs, and better investigator and patient experiences through improved decision-making and insight generation.
+     Companies that improve their manufacturing and distribution quality can also reduce complaints and deviations, realizing greater efficiencies. One example is the Global Lighthouse Network, a community of organizations that use digital and analytics tools along the value chain to improve quality performance while driving growth, productivity, resilience, and environmental sustainability.
+
+
+ Other pharmaceutical companies have already used digital analytics to realize benefits that include reducing deviations and cost of quality in commercial manufacturing. Now they can extend these same practices to clinical drug supply operations.
+     To realize opportunities in supply flexibility, trial timeline reduction, patient experience, and cost performance, companies need complete visibility of their performance. However, the pharmaceutical companies we surveyed admit that performance management and governance are areas for improvement. Their ability to regularly monitor and act on major performance metrics—including lead times, waste, service levels, and cost—is not consistently strong. While most clinical drug supply leaders agree on the importance of end-to-end performance transparency, many find it elusive.
+     Many clinical drug supply organizations struggle to keep pace with innovations like cell and gene therapy and decentralized trials. These innovations require new supply capabilities—including viral-vector manufacturing, patient-device management, and in-home services—that clinical drug supply functions cannot develop independently, efficiently, or quickly. Leading clinical drug supply leaders are instead looking outward, developing external partnerships with contract research organizations (CROs), technology providers, niche service providers, and other strategic partners.
+Despite the importance of these shifts, our surveys reveal that most industry members are still in the early stages of adopting them, and only a few have been able to achieve gains from most of them.How to get startedTo capture the untapped value and accommodate future demands, clinical supply organizations may need to make changes ranging from focused improvements to wide-ranging transformations.A rapid assessment can help R&D and clinical supply leaders identify the opportunities by:
+    
+    
+    
+    
+The clinical trial and development space is changing rapidly, and there are significant opportunities to capture increased value. Is your clinical drug supply function seizing these opportunities?

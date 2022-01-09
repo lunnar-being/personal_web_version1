@@ -1,0 +1,916 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Export controls: dual-use items, software and technology, goods for torture and radioactive sources
+  
+
+  
+  
+  
+      
+  Guide to licensing procedure and other restrictions for export of controlled dual-use items, software and technology, goods for torture and radioactive sources.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Export Control Joint Unit and Department for International Trade
+
+      
+      Published
+      24 September 2019
+      Last updated
+      
+        13 October 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Overview
+
+        
+        
+          Dual-use items, software and technology
+
+        
+        
+          Check if your goods are controlled
+
+        
+        
+          Other items requiring additional permissions
+
+        
+        
+          Military End-Use Controls
+
+        
+        
+          Other items requiring additional permissions
+
+        
+        
+          Nuclear exports
+
+        
+        
+          Chemicals
+
+        
+        
+          Weapons of mass destruction end-use controls and military end-use controls
+
+        
+        
+          Goods which could be used for torture
+
+        
+        
+          Radioactive sources
+
+        
+        
+          Temporary exports for events, maintenance and repair
+
+        
+        
+          Get an export or trade licence
+
+        
+        
+          Sanctions, embargoes and other restrictions
+
+        
+        
+          Overlap between sanctions and strategic export controls
+
+        
+        
+          Breaches of export control legislation
+
+        
+        
+          Contact the ECJU
+
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Overview
+
+Licensing requirements for the export of certain items from Great Britain (GB) to the EU have changed.
+
+Existing EU export control legislation was retained in UK law and applies to GB. Controlled items that currently move licence-free to the EU, such as dual-use items will require licences to move between GB and the EU.
+
+The provisions of the Northern Ireland Protocol mean that existing EU export control legislation and current licensing requirements continue to apply in Northern Ireland.
+
+An export licence is needed to export controlled dual-use items from Northern Ireland to another country outside the EU.
+
+There are no licensing requirements to move dual-use items from Northern Ireland to Great Britain.
+
+Sanctions regulations under the Sanctions and Anti-Money Laundering Act 2018 may also apply to activities involving dual-use items. These regulations apply to the whole of the UK (including Northern Ireland).
+
+Dual-use items (including software and technology) are items which can be used for both civil and military purposes. The term also includes all goods which have non-explosive uses or assist in any way with the manufacture of nuclear weapons or other nuclear explosive devices.
+
+You can assess your goods, software and technology against the UK Strategic Export Control Lists to determine whether or not they are controlled.
+
+The OGEL and Goods Checker Tools can be used to:
+
+
+  check if the items are controlled
+  identify the appropriate control entry
+
+
+If your items are not listed on the UK Strategic Export Control Lists, you may still need a licence under End-Use Controls or trade sanctions and embargoes.
+
+
+You can use SPIRE, the online export licensing system to apply for all types of export licences.
+
+
+Exporting controlled items without the correct export license is a criminal offence.
+
+Penalties vary depending on the nature of the offence but they range from:
+
+
+  your licence being revoked
+  goods being seized
+  a fine and/or imprisonment for up to 10 years
+
+
+Dual-use items, software and technology
+
+Dual-use items include physical goods, software and technology and are set out in these broad categories:
+
+
+  
+    
+      Control categories
+      items
+    
+  
+  
+    
+      0
+      nuclear materials
+    
+    
+      1
+      materials, chemicals, micro-organisms and toxins
+    
+    
+      2
+      materials processing
+    
+    
+      3
+      electronics
+    
+    
+      4
+      computers
+    
+    
+      5
+      telecommunications and information security
+    
+    
+      6
+      sensors and lasers
+    
+    
+      7
+      navigation and avionics
+    
+    
+      8
+      marine
+    
+    
+      9
+      aerospace and propulsion
+    
+  
+
+
+Each category is then divided again from A to E:
+
+
+  A: systems equipment and components
+  B: test, inspection and production equipment
+  C: materials
+  D: software
+  E: technology
+
+
+These items are listed in the Council Regulation (EC) 428/2009, as retained under the EU (Withdrawal) Act 2018 for Great Britain.
+
+Council Regulation (EC) No 428/2009 has direct application in Northern Ireland.
+
+Dual-use licenses
+
+You need a licence to:
+
+
+  export controlled dual-use items from Great Britain
+  export controlled dual-use items from Northern Ireland to outside the EU
+
+
+
+You do not need a licence to export controlled dual-use items from Northern Ireland to the EU.
+
+Open general export licence (export of dual-use items to EU Member States) allows the export of dual-use items (with both a civilian and military application) from Great Britain to EU Member States and the Channel Islands.
+
+You need a new licence, issued by an EU Member State for exporting dual-use items from the EU to Great Britain.
+
+The EU has added the UK as a permitted destination to their General Export Authorisation (GEA) EU001 to minimise any additional licensing burden for those exporting dual-use items from EU to the UK.
+
+Check if your goods are controlled
+
+Use the consolidated list of strategic military and dual use items including UK national controls to find out whether your goods are controlled.
+
+Use the OGEL and Goods Checker Tools to check if your items are controlled.
+
+You can also check the Control List Classification Service on SPIRE.
+
+Other items requiring additional permissions
+
+In a small number of cases, dual use items or information may have a classification of ‘official-sensitive’ or above.
+
+The Ministry of Defence (MOD) has set a mandatory requirement for the control of the release by industry of equipment or information with a classification of ‘official-sensitive’ or above, including in their marketing campaigns to foreign end-users. This includes UK material classified ‘restricted’ or above, graded prior to April 2014, and internationally security classified material. Control of release is therefore conducted through the MOD Form 680 application process.
+
+Find out more about the MOD Form 680.
+
+You can apply for MOD Form 680 approval on SPIRE.
+
+Military End-Use Controls
+
+The Military End-Use Control is a catch-all control in the EU Dual Use Regulation 428/2009, as retained under the EU (Withdrawal) Act 2018 for Great Britain. This means that even if the items which you intend to export are not listed on the consolidated list of strategic military and dual-use items, you might still require an export licence under this control.
+
+An exporter is usually informed by the Department for International Trade (DIT), via the Export Control Joint Unit (ECJU) that an export licence is required for one of two reasons:
+
+1) Exporting non-controlled items that are, or may be, intended for use with military equipment in an embargoed destination. This can include otherwise non-controlled goods if they are intended for incorporation into military equipment. The control also exists for the development, production or maintenance of such equipment, or for use in a plant for production of such equipment in an embargoed destination.
+
+2) Exporting non-controlled items that are intended for use as parts or components of military goods ‘illegally obtained’ from the UK, irrespective of destination.
+
+References above to military equipment or military goods mean any items controlled in the consolidated list.
+
+If you are aware that the proposed export is or may be intended for the above end uses, you must inform the ECJU. The ECJU will decide whether you will need to apply for a licence.
+
+If you have any concerns about your end user, you can get advice through SPIRE.
+
+The control applies to risks associated:
+
+
+  with any exports involving an entity located in an arms embargoed destination including purchasers, consignees and end users
+or
+  when the embargoed destination is the ultimate destination of the equipment to be put to a military end use, not just the immediate destination of the item
+
+
+Considering information you provide or any other information available, ECJU will consider whether a licence will be granted. A licence is likely to be refused, after detailed assessment, based on the two risks outlined above.
+
+Other items requiring additional permissions
+
+In a small number of cases, dual use items or information may have a classification of ‘official-sensitive’ or above.
+
+The Ministry of Defence (MOD) has set a mandatory requirement for the control of the release by industry of equipment or information with a classification of ‘official-sensitive’ or above, including in their marketing campaigns to foreign end-users. This includes UK material classified ‘restricted’ or above, graded prior to April 2014, and internationally security classified material. Control of release is therefore conducted through the MOD Form 680 application process.
+
+Read guidance on the MOD Form 680.
+
+You can apply for MOD Form 680 approval on SPIRE.
+
+Nuclear exports
+
+International nuclear exports depend upon recipient countries meeting certain security standards and safeguards, as well as what is called pre-notification or assurance of a proposed export. This is the case in particular for nuclear items, equipment, material or technology which are listed on the NSG Trigger List.
+
+Find out what you need to do if you are exporting NSG Trigger List items for civil nuclear purposes.
+
+Chemicals
+
+A supporting document is required to export chemicals listed in Schedule 3 of the Chemical Weapons Convention (CWC) to countries that have not ratified the convention.
+
+Check which additional documents you need to export Chemicals listed in Schedule 3 to these countries.
+
+Weapons of mass destruction end-use controls and military end-use controls
+
+If your items are not listed on the UK Strategic Export Control Lists, you may still need a licence under the weapons of mass destruction (WMD) end-use controls.
+
+You must not export any items if you suspect, or have been informed, that the items might be used to make chemical, biological or nuclear weapons of mass destruction.
+
+There are also controls on the
+
+
+  brokering of controlled dual use items intended for WMD purposes
+  transfer of software or technology for a WMD purpose, within the UK, out of the UK or from outside of the UK to another country
+  the provision of technical assistance for a WMD purpose, out of the UK or from outside of the UK to another country
+
+
+Transfer of technology concerns both the electronic and non-electronic transfer of controlled goods.
+
+Examples of transfers include:
+
+
+  electronic methods: email, fax, computer file transfer, telephone or video conferencing
+  non-electronic methods: face-to-face communications
+
+
+The provision of technical assistance broadly means providing any type of technical support such as assembly, maintenance or repair to controlled goods.
+
+Read guidance about the supplementary Weapons of Mass Destruction End-Use controls.
+
+Even if the items which you intend to export are not listed on the strategic export control lists you might still require an export licence under this control if the items are going into military goods in a country subject to an arms embargo.
+
+Read guidance about current trade sanctions, including arms embargoes and other restrictions.
+
+If your items aren’t controlled on a list, but you’re concerned your items or services may be used for WMD or military end-use purposes, you can get advice through SPIRE.
+
+Goods which could be used for torture
+
+You will need an export licence in order to export goods which could be used for capital punishment, torture or other cruel, inhuman or degrading treatment or punishment from the UK to another country. Some of these items are prohibited for export.
+
+Read guidance about export controls on torture goods.
+
+Radioactive sources
+
+You will need an export licence for exporting certain radioactive sources from the UK to another country. The Export of Radioactive Sources (Control) Order 2006 controls the export of certain high-activity radioactive sources as defined under the International Atomic Energy Agency (IAEA) Code of Conduct on the Safety and Security of Radioactive Sources.
+
+Read guidance about controls on radioactive sources.
+
+Temporary exports for events, maintenance and repair
+
+If your goods are controlled, you must get an export licence if you’re taking them temporarily out of the UK. This includes taking goods and services out of the UK for:
+
+
+  events, exhibitions and trade shows
+  maintenance and repair
+  exporting after exhibition
+  samples
+
+
+Check if your items are controlled through the control list classification advisory service on SPIRE.
+
+Get an export or trade licence
+
+You can use the OGEL and Goods Checker Tools to check if you can use an Open General Export Licence (OGEL) or one of the EU General Export Authorisations.
+
+If you are registered to use open licences, you will be audited at intervals by the ECJU Compliance team.
+
+Read guidance about compliance visits on exporters.
+
+Apply for an export licence through SPIRE (login required).
+
+Always check the import rules of the country you’re exporting to. Ask your importer or get help from your freight forwarder.
+
+Sanctions, embargoes and other restrictions
+
+Some destinations are subject to sanctions, embargoes or other restrictions. The extent of these depends on the destination and the measured imposed. If you are exporting destinations subject to sanctions, embargoes or restrictions you should ensure you understand what is controlled.
+
+Sanctioned and embargoed destinations often have restrictions on brokering and services beyond those set out in the UK Strategic Export Control Lists.
+
+Find out more about countries subject to current trade sanctions, including arms embargoes and other restrictions
+.
+
+Overlap between sanctions and strategic export controls
+
+The export of and other trade in dual-use goods and technology is controlled under sanctions regulations under:
+
+
+  the Sanctions and Anti-Money Laundering Act 2018
+  the retained dual-use regulation
+  the EU dual-use regulation (in respect of Northern Ireland)
+
+
+You may therefore need a licence which is valid under several pieces of legislation. This means that all sanctions licence applications relating to dual-use goods and technology will need to be considered against the sanctions licensing purposes, and the strategic export licensing criteria. A licence under sanctions regulations is unlikely to be granted if a licence is refused for the same activity under the retained dual-use regulation or the EU dual-use regulation.
+
+The way this will work in practice is that we will consider an application for a licence which relates to activities that are licensable under the sanctions regulations, the retained dual-use regulation and the EU dual-use regulation (in respect of Northern Ireland) as an application under all of the relevant pieces of legislation. This means that only a single licence application is required.
+
+The application will be considered against the relevant licensing criteria. If a licence is granted it will be valid under each of the relevant pieces of legislation.
+
+Breaches of export control legislation
+
+As an exporter, you may discover that you have exported goods or transferred controlled technology without an appropriate export licence in place. It is also possible that a compliance inspector from the Export Control Joint Unit will identify an irregularity during a compliance audit.
+
+If this happens, it is very important to report the irregularity to HMRC (sometimes known as ‘voluntary disclosure’) as soon as possible, as they are responsible for the enforcement of strategic export controls. If the irregularity was found on an ECJU compliance audit, the compliance inspector will have informed HMRC and you are strongly advised to do the same.
+
+Please post or courier hard copies of the voluntary declaration to:
+
+
+
+Enforcement of Strategic Exports, Sanctions and Intellectual Property Rights 
+Customs Debt, Enforcement and Law 
+Customs and Border Design  
+HMRC 
+14 Westfield Avenue 
+Stratford
+London E20 1HZ
+
+
+
+
+Email declarations should be sent to michael.halstead@hmrc.gov.uk
+
+
+You must provide:
+
+
+  details of the export, including dates
+  any relevant documents, such as export documentation and commercial invoices
+  details of how the breach was discovered, why it occurred and what steps you have put in place to ensure it does not happen again
+
+
+HMRC will consider the matter and contact you directly, either for more information or to let you know of their decision.
+
+If you wish to confidentially report export control breaches HMRC have a hotline or alternatively you can use an online reporting tool. Report fraud to HMRC.
+
+Contact the ECJU
+
+
+
+    Helpline
+
+    
+      Export Control Joint UnitDepartment for International Trade
+Old Admiralty Building
+Admiralty PlaceLondonSW1A 2DY
+    
+
+    
+        
+          Email exportcontrol.help@trade.gov.uk
+        
+
+
+        
+          Telephone 020 7215 4594
+        
+    
+
+    Contact for general queries about strategic export licensing.
+
+
+
+Notices to exporters
+
+Notices to exporters from the ECJU contain important information about:
+
+
+  amendments to open general export licences
+  changes to the list of controlled goods
+  updates on legislation and sanctions
+
+
+Sign up to receive email alerts to notices to exporters.
+
+Training and seminars
+
+ECJU provides a comprehensive programme of scheduled and bespoke seminars on different aspects of UK export controls.
+
+Find out more about the export control training bulletin.
+
+
+
+
+
+      
+        
+    Published 24 September 2019
+    Last updated 13 October 2021
+      + show all updates
+      
+        
+            
+              13 October 2021
+              New address and email added for breaches of export control legislation.
+            
+            
+              3 March 2021
+              Updated to clarify that "You need a new licence, issued by an EU Member State for exporting dual-use items from the EU to Great Britain" and that The EU has added the UK as a permitted destination to their General Export Authorisation (GEA) EU001.
+            
+            
+              31 December 2020
+              Added new information for Great Britain and Northern Ireland: retained EU export control legislation for GB and Northern Ireland Protocol provisions.
+            
+            
+              16 April 2020
+              Added email address for use during COVID-19 period.
+            
+            
+              24 September 2019
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+      
+    
+      Part of
+          
+            Export goods from the UK: step by step
+          
+        
+  
+
+
+      
+    
+        
+          
+            
+              
+                
+                  
+                      Step 1:
+                  
+                
+              
+
+              
+                Check if you need to follow this process
+              
+          
+
+          
+              Follow these steps if you're moving goods permanently from: 
+
+              
+England, Wales or Scotland (Great Britain) to a country outside the UK
+Northern Ireland to a country outside the UK and the EU
+
+
+              What you need to do is different if you are:
+
+              
+moving goods between Great Britain and Northern Ireland or Northern Ireland and the EU 
+sending goods through the post 
+taking a small amount of goods personally to sell abroad 
+taking goods temporarily out of the UK 
+
+
+              Learn about exporting, including making export plans, on great.gov.uk 
+
+          
+
+        
+        
+          
+            
+              
+                
+                  
+                      Step 2:
+                  
+                
+              
+
+              
+                Check the rules for exporting your goods
+              
+          
+
+          
+              Check duties, rules and restrictions for your goods in the destination country 
+
+          
+
+        
+        
+          
+            
+              
+                
+                  
+                      and
+                  
+                
+              
+
+              
+                Apply for any licences you need to export your goods
+              
+          
+
+          
+              There are special rules and you may need to get licences or certificates if you are exporting any of the following:
+
+              
+animals and animal products 
+plants and plant products 
+drugs and medicines 
+medical devices 
+chemicals 
+ozone-depleting substances and F-gases 
+radioactive substances 
+diamonds 
+art works, antiques and culturally significant goods 
+waste 
+goods that could be used for torture or capital punishment 
+firearms, ammunition and related equipment 
+military goods, services and technology 
+You are currently viewing: items that can have both civil and military uses 
+
+
+          
+
+        
+        
+          
+            
+              
+                
+                  
+                      Step 3:
+                  
+                
+              
+
+              
+                Get your business ready to export
+              
+          
+
+          
+              You need an EORI number that starts with GB to export goods from England, Wales or Scotland.
+
+              If you move goods to or from Northern Ireland you may need one that starts with XI.
+
+              Get an EORI number 
+
+              Check if you need to register for VAT 
+
+              There are processes that can make clearing customs quicker and easier to manage if you export goods regularly.
+
+              
+Find out about using simplified declaration procedures 
+Check if you can use Common Transit to move your goods 
+Check if Authorised Economic Operator status is right for you 
+
+
+          
+
+        
+        
+          
+            
+              
+                
+                  
+                      and
+                  
+                
+              
+
+              
+                Check whoever's receiving the goods can import them
+              
+          
+
+          
+              The business or person receiving the goods to may need:
+
+              
+to make an import declaration in their country
+licences or certificates to receive goods from the UK
+
+
+              Check whoever you are sending the goods to is able to import them into their country.
+
+          
+
+        
+        
+          
+            
+              
+                
+                  
+                      Step 4:
+                  
+                
+              
+
+              
+                Decide who will make export declarations and transport the goods
+              
+          
+
+          
+              You can hire someone to deal with customs and transport the goods for you, or you can do it yourself. 
+
+              
+Find out how to hire someone to deal with customs for you 
+Find out how to make export declarations yourself 
+Find out how to transport goods out of the UK by road 
+
+
+          
+
+        
+        
+          
+            
+              
+                
+                  
+                      Step 5:
+                  
+                
+              
+
+              
+                Classify your goods
+              
+          
+
+          
+              You must find the right commodity code to classify the goods you're exporting.
+
+              Your customs agent or transporter might be able to help you with this.
+
+              Find the right commodity code for your goods 
+
+          
+
+        
+        
+          
+            
+              
+                
+                  
+                      Step 6:
+                  
+                
+              
+
+              
+                Prepare the invoice and other documentation for your goods
+              
+          
+
+          
+              The completed invoice and any licences or certificates must travel with the goods.
+
+              When filling in the value of your goods on the invoice, use the price you’re selling them for. If you're not selling the goods, use the market value of the goods. List any freight or export insurance you included in the price separately.
+
+              You may need proof of origin if exporting to a country where your goods have a reduced or zero rate of duty.
+
+              Get proof of origin for your goods 
+
+              You might be able to zero rate the goods for VAT. This means you can charge your customers VAT at 0%.
+
+              Check if you can zero rate the goods for VAT 
+
+          
+
+        
+        
+          
+            
+              
+                
+                  
+                      Step 7:
+                  
+                
+              
+
+              
+                Get your goods through customs
+              
+          
+
+          
+              If you've appointed someone to deal with UK customs for you, they'll make the declaration and get your goods through the UK border.
+
+              Make an export declaration and get your goods cleared by UK customs 
+
+              You may need other documentation to get your goods into the destination country. Ask the person or business buying your goods what information you need to provide.
+
+              Check how to bring goods back into the UK if they were rejected for import at another country’s border 
+
+          
+
+        
+        
+          
+            
+              
+                
+                  
+                      Step 8:
+                  
+                
+              
+
+              
+                Keep invoices and records
+              
+          
+
+          
+              You must keep commercial invoices and any customs paperwork. 
+
+              If you're VAT registered, record the goods in your VAT accounts even if they are zero-rated.
+
+              Find out how to record the goods in your VAT accounts 
+
+              If you exported controlled goods, for example firearms, keep the paperwork that shows who owns the goods.
+
+          
+
+        
+    
+  
+
+
+
+
+
+
+
+
+
+
+
+    

@@ -1,0 +1,20 @@
+
+        
+        
+        
+    made up more than 40 percent of the automotive industry’s share of global transportation equipment demand in 2019 (exhibit). Given the significance of this segment, McKinsey & Company collaborated with the Entrepreneurship Research Institute of the Technical University of Munich to explore the impact of electrification on automotive powertrain machine tool manufacturers.
+        
+
+
+    
+    For more than 100 years, the automotive industry was dominated by internal combustion engine (ICE) powertrains. Today, there is a shift toward alternative powertrains because of regulatory pushes across regions and shifting customer demand. Electrification is transforming mobility industries globally across multiple levels. In addition to having a positive impact on climate change, electrification has implications for the types of engines used and fuel demand. It also has implications for underlying automotive production technologies and required vehicle components. These changes will ripple back to affect the machine tool industry.
+    
+Drawing on extensive proprietary research and analyses, our report aims to provide a perspective on three key questions that are top-of-mind for all industry players and in particular, for machine tool manufacturing players:
+    Why, to what extent, where, and by when are significant changes in the powertrain machine tool market to be expected?
+    Which machine tool technologies are likely to be most affected?
+    How can players along the value chain in general, and machine tool manufacturers in particular, successfully respond to and prepare for the challenges they face?
+By assessing the shifts in the powertrain machinery market, we arrived at four key messages:
+    The electrification of powertrains leads to shifting demand for components and, consequently, a change in the machine tools required during manufacturing. The transmission is the part of the powertrain most affected by these changes. Global new-car , mainly battery electric vehicles (BEVs) and plug-in hybrid electric vehicles (PHEVs), are expected to increase their share of global passenger vehicle sales from 3.5 percent, as of the second quarter of 2020, to 39 percent in 2030 because of regulatory pressures and changing customer demand.
+    The number of key components will significantly decline with the shift from ICE towards BEV powertrains. Since PHEVs and mild hybrid EVs have both ICE and , there will still be a need for ICE components, but on a much smaller scale. The number of key components will decrease from around 30 in an ICE powertrain to around 9 in a BEV powertrain.
+    Machinery capex per vehicle is expected to decrease significantly over the next 10 years. Total machinery capex is expected to decrease by around 25 percent, from $6.8 billion in 2020 to $5.1 billion in 2030.
+     Players along the value chain, predominantly machine tool manufacturers, need to rethink how they will cope with the changing market environment resulting from the shift towards e-mobility. To navigate the powertrain transition, machine tool manufacturers must take a three-step approach that can guide them regardless of their starting points, current portfolio, or strategic aspirations. As some shifts are already occurring in the industry, such as the move from specialized to holistic automotive machine tool suppliers, players should actively think about how to react.

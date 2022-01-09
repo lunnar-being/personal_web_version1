@@ -1,0 +1,96 @@
+    
+
+
+
+ from shifts in consumer preferences to technology-enabled productivity improvements to turmoil in domestic and international markets. We have identified four trends that could greatly influence the direction of the agriculture sector in the coming years, for better and for worse:
+    Developing markets are catching up to the protein-consumption levels of developed ones, and both are battling obesity. Should this trend accelerate, it could lead to increased demand for protein-rich foods and .
+     New regions of food production—notably sub-Saharan Africa,
+
+
+
+
+
+ and East Asia
+
+
+—could emerge, spurred by lower energy costs and climate-related challenges in traditional agriculture geographies.
+    Advances in agricultural technology will increase transparency and traceability across the value chain. This will likely result in increased efficiency, reduced waste, and shrinking profit margins.
+     Government intervention and subsidies could reshape market dynamics and have long-term effects on global commerce.
+Taken together, or in any combination, these trends will have ripple effects extending to every corner of the agriculture sector (see sidebar, “Commodities and the four trends”). It’s imperative for stakeholders to factor the trends—and potential disruption—into their strategic decisions to ensure a more resilient future. In the following article, we elaborate on the four trends, including a discussion of scenarios that might affect how the trends play out.
+        
+
+
+    
+    We will eat differentlyMost people around the world eat more calories than they need (Exhibit 1). This is particularly true in developed countries in Europe and North America, although even some developing economies in Asia and South America see average individual caloric consumption above recommended levels. According to the World Health Organization (WHO), the combination of increased caloric intake and decreased physical activity has caused worldwide obesity to nearly triple since 1975, and the majority of the world’s population lives in countries where noncommunicable diseases linked to overconsumption, such as cardiovascular disease, diabetes, and cancer, kill more people than hunger.
+
+
+
+    
+Meanwhile, as developing markets mature and gain wealth, their populations’ diets shift toward higher meat consumption. Indeed, our analysis shows how meat consumption stabilizes at higher levels of income compared with less costly food products that are based on sugar (Exhibit 2). China’s booming middle class and rapid urbanization have thus been accompanied by a remarkable rise in meat consumption in recent years. According to McKinsey analysis, half of the increase in global meat consumption over the past decade can be attributed to China.
+
+
+
+    
+We have developed two scenarios related to what we eat that could affect the industry in the coming years.What if attacking obesity becomes a global priority?According to Euromonitor, sugar has moved to front and center in the healthy-eating debate.
+
+
+ A report from the EAT-Lancet Commission
+
+
+ argues  that to fight obesity, global consumption of fruits, vegetables, nuts, and legumes will have to double, and consumption of foods such as red meat and sugar will have to be reduced by more than 50 percent. In the United States, per-capita consumption of high-fructose corn syrup fell 40 percent from its peak, from 2000 to 2018.
+
+
+Both push and pull factors played a role in its decline. Among the push factors are that many subnational US governments have implemented or are discussing regulations and taxes on soft drinks, including California, Illinois, and New York. As for pull factors, the boom in new juices, smoothies, and sports drinks provides consumers with alternatives to traditional carbonated beverages, which are high in high-fructose corn syrup in the United States.
+Should this movement continue, and obesity be seen as the major 21st-century threat to health, the international sugar market could be affected, potentially hitting exporting countries such as Australia, Brazil, India, and Thailand. It could also have an impact on biofuel markets, given the production relation between sugar and ethanol. If less sugar is consumed, more of it could be used for ethanol, increasing supply of the fuel and depressing its prices in the short run.
+    
+What if ‘meat 2.0’ goes mainstream?The main reason for the rise of soybean production over the past two decades was an increase in meat consumption globally, particularly in China. To meet this growing demand, soybean production for use as animal feed grew, especially in North and South America. Total soybean exports nearly doubled in these geographies from 2008 to 2018, from 73 million tons to 143 million tons.
+
+
+This growth may level out as the rise in incomes slows in China and thus meat-consumption growth decelerates. Other effects include people turning toward healthier diets, growing intolerance to how animals are treated, and increased public awareness of the negative effect of livestock on climate change.
+
+
+ Indeed, mainstream consumers of meat are expected to remain the most relevant part of the market, but the definition of meat is expanding to include a variety of meat-replacement and alternative products dubbed “meat 2.0.” These products include, for example, “cultured meats”
+
+
+—the price of which dropped 99 percent from 2013 to 2017 and which have less of an effect on the climate than standard meat production.
+
+
+
+		
+	
+But before cultured meats hit the market, an even more significant piece of the meat-consumption market is quickly growing:  made of, for example, soybean protein, potatoes, sunflower oil, and pea protein. Surveys suggest
+
+
+
+
+
+ that the majority of the population would be inclined to try meat-replacement products, or vegetal meat. This fast-growing segment is attracting funding from venture capital as well as established companies, and initial public offerings of alternative-meat companies have begun.
+
+
+ According to one of these alternative-meat start-ups, 93 percent of its customers also buy animal meat. Increased production of artificial meat could be a factor in increasing the overall size of the global meat-protein market. In response, food and agriculture companies should consider whether, how, and to what extent to enter the alternative-meat market.We will source from different placesThe global landscape of food-producing regions will change. This could be a result of the  (for example, drought and higher temperatures in some places) or reduced costs (for example, energy). Lower energy costs (Exhibit 3) can help make arable some areas that are now unfit for agriculture by cutting the cost of sourcing or desalinizing water and pumping it to land deprived of it.
+    
+We have developed two scenarios related to where we source food from that could affect the industry in the coming years.What if China doubles its soybean production or imports more from neighboring countries?China has grown into the world’s largest soybean importer. The main bottleneck to expansion of its internal agricultural production is water. However, if energy costs decrease enough to make desalinization economically feasible, then unused arable land could be made available through irrigation. This could significantly affect global trade: in 2018,  imported 91 million tons of soybeans. In a business-as-usual scenario, this amount would rise to 108 million tons by 2028.
+
+
+ However, technological developments in energy and desalinization might enable new producers in China, its neighboring countries, and Africa to supply a significant portion of China’s growing demand, therefore displacing some of the current Western exports to eastern Asia. If China’s Western imports stay on par with 2018 levels, that would result in a 10 percent reduction in global trade volume.
+
+
+What if Africa emerges as a major agricultural producer?Meanwhile, changes in other parts of the world could make places such as Africa more viable for increased agriculture production. The continent is  in the agriculture industry. The potential is huge, but the continent faces significant challenges—including access to energy and irrigation, as well as the need for basic infrastructure—that put its ascendance in question. Asian investors’ participation in infrastructure may become a deciding factor in accelerating the continent’s rise toward self-sufficiency rather than remaining a net importer, especially for sugar and corn. This would affect exporters into Africa, such as France, Russia, and the United States.We will produce food and we will trade differentlyDigital technologies are increasingly prevalent across the agricultural value chain, reducing information asymmetries, driving transparency, and boosting production yields to new highs. To date, farming technologies
+
+
+
+
+
+ have advanced the industry in four “eras” and continue to define the maturity of producing countries. For example, when it comes to maize productivity, Africa and India remain in the first stage, dubbed the green revolution, which is defined by the use of fertilizers and pesticides. Argentina, Brazil, and China are in the modern-agriculture phase, which involves new generations of crop-protection products and new methods of cultivation, for example, mechanization. The European Union and the United States have advanced to 21st-century agriculture, characterized —for example, using advanced analytics to apply nutrients and crop-protection products at variable rates. In the coming years, only the producers that have mastered precision agriculture will be ready to take advantage of the fourth era, next-generation agriculture technologies. Though far-off, this era will feature the proliferation of biotechnologies, gene editing (such as CRISPR), and automation, including agricultural robots that will monitor fields and harvest crops.
+		
+
+
+		
+What if digitization of the value chain eliminates information asymmetry?We see a future in which digital platforms enable full transparency and traceability across the food value chain—creating an environment in which actors in the value chain can more easily buy and sell to each other, compare prices, and review and rate suppliers. One current online agribusiness marketplace brings together those looking to buy and sell farm equipment, insurance, farmland, tools, and vehicles. This environment could lead to the emergence of online-trading platforms for agricultural products—relying on virtual currency and financial-technology companies to foster the buying and selling of agricultural inputs.This transparency could also decrease margins for intermediaries such as distributors and traders. In other industries, such as transportation, the surplus created by more value-chain transparency was transferred to end consumers. Indeed, trading margins of agriculture commodities have been shrinking, dropping from 15 percent in 1998 to 9 percent in 2018 (Exhibit 4).
+
+
+ Lower returns make the ability to be cost competitive—which today is largely achieved through technology adoption—even more relevant.
+    
+We will trade with different rulesSubsidies and  can change market dynamics and shift the competitive position of countries across the globe. Indeed, any manipulation of market dynamics can stack distortions on top of one another. For example, while export tariffs may give governments in certain regions extra funds in the short term, they also alter the cost competitiveness of producers in the cost curve and impact profit pools (Exhibit 5).
+    
+We have developed one scenario related to how we trade that could affect the industry in the coming years.What if we create a world of subsidies or a reverse in trade growth causes lower economic growth?The consequences of subsidies, export tariffs, and trade-growth reductions are felt hardest by exporters; as subsidies go to certain producers regardless of efficiency or productivity, already flat commodity cost curves get even flatter. Profit pools could be affected by 50 percent in some cases (Exhibit 5). The effect of these government actions could have a long-term impact on markets. Similarly, trade-restriction measures, if they continue to mount, could reduce overall economic growth, causing the rise in globally traded volumes of commodities to stall. As a result, the acceleration of protein consumption we discussed previously could slow down.Developments in climate change, trade wars, new technologies, and consumer choices could lead to a revolution in the way we eat, produce, source, and trade food. These potential disruptions to the food value chain pose risks to stakeholders in the agriculture sector, from growers, input providers, and traders to consumer-goods companies, investors, and policy makers. It’s essential that the stakeholders take account of these trends in their strategies. Those that do will increase the chances of creating value, even in the face of disruption.

@@ -1,0 +1,25 @@
+
+Speaking virtually to the opening of the Defense Department's Artificial Intelligence Symposium and Tech Exchange, Hicks said DOD's operators must come to trust the outputs of AI systems; its commanders must come to trust the legal, ethical and moral foundations of explainable AI; and the American people must come to trust the values DOD has integrated into each of its applications.
+
+
+
+
+
+
+
+"A key part of an AI-ready department is a strong data foundation," Hicks said. "Data enables the creation of algorithmic models, and, with the right data, we are able to take concepts and ideas and turn them into reality."The deputy secretary said she recently set forth a series of data decrees for DOD that will help the U.S. achieve the AI superiority it needs."We will ensure that DOD data is visible, accessible, understandable, linked, trustworthy, interoperable and secure. To do so, I have directed key initial steps to ensure the department treats data as a strategic asset," she said, adding these steps set DOD on a solid foundation — both ethically and organizationally.
+
+
+
+
+"Today, I am proud to announce the DOD AI and Data Acceleration initiative, or ADA initiative. Its goal is to rapidly advance data and AI dependent concepts, like joint all-domain command and control, to the ADA initiative [to] generate foundational capabilities through a series of implementation experiments or exercises, each one purposefully building understanding through successive and incremental learning."Hicks said each exercise pushes the boundaries of the one before, building on the knowledge gained. She said this represents a software engineering approach that will iteratively gain and expand capabilities to different lines of effort:"Importantly, these events will be conducted in alignment with the busy combatant command experimentation and exercise cycle," Hicks said. "Through successive experiments, we seek to understand the obstacles and challenges that impair our current ability to rapidly scale AI across the department and the Joint Force."
+
+
+
+
+As DOD completes these episodic exercises and experiments, it intends to leave behind capability, Hicks said. "True to our software engineering mindset, we aim to interactively gain capability and rapidly scale to other combatant command environments with similar challenges. This will ultimately produce data and operational platforms designed for real-time sensor data fusion, automated command-and-control tasking and autonomous system integration. It will allow data to flow across both geographic and functional commands." Hicks said DOD's fourth line of effort will set the stage for advanced data management platforms consistent with the data decrees. These platforms will enable open data standard architecture and the production of scalable, testable and repeatable data workflows. This will facilitate cross-domain and cross-component experimentation and development. By generating centralized and scalable data, DOD will be accelerating the gains from leveraging AI, she explained.
+
+
+
+
+The ADA initiative recognizes the challenges that DOD is facing and provides a systematized method to harness data and AI. It also creates a path forward for a mission space that has often appeared to be more rhetoric than action, Hicks said."You represent the department and its many partners who are rising to the competitive challenge of our future. [Secretary of Defense Lloyd J. Austin III] and I need your help to harness our innovation, build trust, modernize our processes, and serve our great nation," Hicks said, thanking the group for its efforts."

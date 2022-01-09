@@ -1,0 +1,339 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Security architect
+  
+
+  
+  
+  
+      
+  Find out what a security architect does and the skills you need to do the job.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      7 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of security architect
+
+        
+        
+          Security architect
+
+        
+        
+          Lead security architect
+
+        
+        
+          Principal security architect
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This describes the role of a security architect and the skills required, including:
+
+
+  an introduction to the role, telling you what you would do in this role and the full list of skills
+  a description of the levels in this role, from security architect to principal security architect, specifying the skills you need for each level and the corresponding skill level (awareness, working, practitioner, expert)
+
+
+This role is part of the Digital, Data and Technology Profession in the Civil Service.
+
+Introduction to the role of security architect
+
+A security architect designs and builds secure solutions.
+
+Skills required to be a security architect
+
+You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.
+
+
+  
+Analysis. You can visualise, articulate and solve complex problems and concepts, by interrogating and using data or intelligence to formulate and influence plans. You can interpret complex business and technical issues and identify and recognise a viable solution or control. You can understand and link complex and diverse sets of information to inform the response and approach: for example, identifying vulnerabilities and their impact.
+  
+Communication skills (security architect). You understand security concepts deeply enough to engage with security technologists and communicate in a language that is appropriate to your audience. You can respond to challenge.
+  
+Design secure systems. You can design secure system architectures through the application of patterns and principles, to meet user needs while managing risks. You can identify security issues in system architectures.
+  
+Enabling and informing risk-based decisions. You can make and guide effective decisions on risk, explaining clearly how the decision has been reached. You can make decisions proportionate to the level of technical complexity and risk.
+  
+Research and innovation. You can understand and apply a range of user research methods correctly. You can choose appropriate methods for different phases of a product life cycle and situations.
+  
+Specific security technology and understanding. You know about system architectures. You can understand the risk impact of vulnerabilities on existing and future designs and systems, and identify how easy or difficult it will be to exploit these vulnerabilities.
+  
+Understanding security implications of transformation. You can work with business and technology stakeholders to understand the security implications of business change. You can interpret and apply an understanding of policy and process, business architecture, and legal and political implications to assist in the development of technical solutions or controls.
+
+
+Security architect
+
+A security architect creates and designs security for a system or service, maintains security documentation and develops architecture patterns and security approaches to new technologies. At this level, you will:
+
+
+  recommend security controls and identify solutions that support a business objective
+  provide specialist advice and recommend approaches across teams and various stakeholders
+  communicate widely with other stakeholders
+  advise on important security-related technologies and assess the risk associated with proposed changes
+  inspire and influence others to execute security principles
+  help review other people’s work
+
+
+Skills needed for this role
+
+
+  
+Analysis. You can apply the approach to real problems and consider all relevant information. You can apply appropriate rigour to ensure a full solution is designed and achieves the business outcome. (Relevant skill level: working)
+  
+Communication skills (security architect). You have a deep understanding and can apply security concepts to a technical level. You can effectively translate and accurately communicate security and risk implications across technical and non-technical stakeholders, and able to respond to challenge. You can manage stakeholders’ expectations and be flexible, adapting to stakeholders’ reactions to reach consensus. (Relevant skill level: practitioner)
+  
+Design secure systems. You can design and review system architectures through the application of patterns and principles. (Relevant skill level: working)
+  
+Enabling and informing risk-based decisions. You work with risk owners to advise and give feedback. You can advise on risk impact and whether this is within risk tolerance. You can describe different risk methodologies and how these are applied, as well as the proportionality of risk. (Relevant skill level: working)
+  
+Research and innovation. You can advise on developments on security properties in technology. You can identify new technologies and design the use of these in the business context. (Relevant skill level: working)
+  
+Specific security technology and understanding. You have knowledge of system architectures. You can understand and articulate the impact of vulnerabilities on existing and future designs and systems, and can articulate a response. You have broad knowledge of a range of systems but may specialise in one. (Relevant skill level: working)
+  
+Understanding security implications of transformation. You can interpret and apply understanding of policy and process, business architecture, and legal and political implications in order to assist the development of technical solutions or controls. (Relevant skill level: working)
+
+
+Lead security architect
+
+A lead security architect undertakes complex work of a high risk level, often working on several projects. In this role, you will:
+
+
+  interact with senior stakeholders across departments
+  reach and influence a wide range of people across larger teams and communities
+  research and apply innovative security architecture solutions to new or existing problems and be able to justify and communicate design decisions
+  develop vision, principles and strategy for security architects for one project or technology
+  work out subtle security needs
+  understand the impact of decisions, balancing requirements and deciding between approaches
+  produce particular patterns and support quality assurance
+  be the point of escalation for architects in lower-grade roles
+  lead the technical design of systems and services
+
+
+Skills needed for this role
+
+
+  
+Analysis. You can monitor the analysis of a technical solution and ensure analysis is re-used for similar problem sets. You can review solutions and identify areas for change. You can drive the collection of information that is used and analysed. You can feed back on policy and requirements. (Relevant skill level: practitioner)
+  
+Communication skills (security architect). You have a deep understanding and can apply security concepts to a technical level. You can effectively translate and accurately communicate security and risk implications across technical and non-technical stakeholders. You can respond to challenge. You can manage stakeholders’ expectations and be flexible, adapting to stakeholders’ reactions to reach consensus. (Relevant skill level: practitioner)
+  
+Design secure systems. You can design and review system architectures through the development of patterns and principles. (Relevant skill level: practitioner)
+  
+Enabling and informing risk-based decisions. You can work with higher impact or more complex risks. You can advise on the impact of these and whether this is within risk tolerance. You can apply different risk methodologies in proportion to the risk in question. (Relevant skill level: practitioner)
+  
+Research and innovation. You can contribute to and inform developments on security properties in technology. You can identify new technologies and design the use of these in the business context across the organisation. You can engage with the broader security community. (Relevant skill level: practitioner)
+  
+Specific security technology and understanding. You have strong knowledge of system architectures. You can understand and articulate the impact of vulnerabilities on existing and future designs, systems and how easy or difficult it will be to exploit these vulnerabilities. You are recognised as an expert by peers in the broader security industry. (Relevant skill level: expert)
+  
+Understanding security implications of transformation. You can interpret and apply understanding across a complex area. You have the ability to start influencing policy and process, business architecture, and legal and political implications. (Relevant skill level: practitioner)
+
+
+Principal security architect
+
+A principal security architect works on services of high complexity and risk, making decisions to enable the business to achieve its needs. At this level, you will:
+
+
+  work on projects with high strategic impact, setting a strategy that can be used in the long term and across the breadth of the organisation
+  communicate with a broad range of senior stakeholders and be responsible for defining the vision, principles and strategy for security architects
+  recommend security design across several projects or technologies, up to an organisational or inter-organisational level
+  have a deep and evolving level of technical expertise, so you can act as an exemplar
+  make and influence important business and architectural decisions
+  research, identify, validate and adopt new technologies and methodologies
+  be a recognised expert and demonstrate this expertise by solving unprecedented issues and problems
+  further the profession, demonstrating and sharing best practice within and outside the organisation
+
+
+Skills needed for this role
+
+
+  
+    Analysis. You can provide direction and lead on change with regards to factors that feed into analysis. You can monitor changes in the technical environment and assess whether risks are still at acceptable levels or whether previous decisions need to be revisited. You can direct and influence others on best practice and policy. (Relevant skill level: expert)
+  
+  
+Communication skills (security architect). You have an expert understanding and can apply security concepts to a technical level, at the highest levels of risk complexity. You can effectively translate and accurately communicate security and risk implications at the most senior levels across technical and non-technical stakeholders. You can respond to challenge. You can manage stakeholders’ expectations across high-risk and complexity or under constrained timescales. (Relevant skill level: expert)
+  
+    Design secure systems. You can lead design and review solutions to complex problems with system architectures by defining and challenging patterns and principles. You can create precedents and set direction. (Relevant skill level: expert)
+  
+  
+    Enabling and informing risk-based decisions. You can act as a point of escalation. You will be trusted by senior risk owners as an expert in security. You can apply risk methodologies at the most complex levels of risk. (Relevant skill level: expert)
+  
+  
+Specific security technology and understanding. You have strong knowledge of system architectures. You can understand and articulate the impact of vulnerabilities on existing and future designs, systems and how easy or difficult it will be to exploit these vulnerabilities. You are recognised as an expert by peers in the broader security industry. (Relevant skill level: expert)
+  
+Research and innovation. You can contribute to and inform developments on security properties in technology. You can identify new technologies and design the use of these in the business context across the organisation. You can engage with the broader security community. (Relevant skill level: practitioner)
+  
+Understanding security implications of transformation. You can challenge and lead changes to policy and processes to support business outcomes, business architecture, and legal and political implications. (Relevant skill level: expert)
+
+
+Read more
+
+
+  Civil Service Jobs
+
+
+
+
+
+      
+        
+    Published 7 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Network architect
+        Test manager
+        IT service manager
+        Infrastructure engineer
+        Quality Assurance Testing (QAT) analyst
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

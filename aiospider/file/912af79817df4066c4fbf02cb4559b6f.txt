@@ -1,0 +1,405 @@
+
+								
+
+
+
+Over the last three decades, American families have experienced a rise in the costs of many necessities that has made it difficult for them to attain economic security. Researchers estimate, for example, that 
+80 percent of families
+ saw the share of budgets dedicated to spending on needs such as housing and health care increase by more than 7 percentage points between 1984 and 2014, potentially crowding out spending on other categories like leisure, longer-term investments in education, and saving for retirement.
+[1]
+  Further, a 
+2019 Pew survey
+ found that 35 percent of middle-income families frequently worry about paying their bills; similarly, 37 percent worry about the cost of health care for themselves and their families.
+
+
+
+
+
+This issue brief examines some of the longer-run dynamics around the costs that U.S. families face. While prices of some services and goods have fallen substantially, especially when bearing in mind increases in their quality, others—particularly prescription drugs, childcare, and education—have risen substantially, and in many cases, faster than incomes over the last several decades.
+
+
+
+
+
+Although aggregate price indices track overall changes in the cost of living, some families spend a larger share of their budgets on necessities, depending on their income and needs. As a result, these families are more exposed to cost increases for necessities than others. This is especially true for those in the bottom and middle of the income distribution for whom incomes have risen more slowly than for those at the top. For example, 
+Census estimates
+ indicate that household incomes adjusted for the cost of living at the 95th percentile grew about 25 percent faster than incomes at the 20th and 50th percentiles between 1990 and 2019.
+[2]
+
+
+
+
+
+This brief concludes by highlighting proposals in the Biden Administration’s Build Back Better plan that aim to address these costs for families.
+
+
+
+
+
+How to think about family budgets
+
+
+
+
+
+The share of a family’s budget spent on any particular category of goods or services reflects a combination of factors that are both within and outside its control. These factors include family needs, preferences, and choices; income; and prices. For example, the share a family spends on childcare could increase because the price charged by their childcare provider increases, because a family has a second child needing care, or because a family member loses their job and must accept a lower-paying job after displacement.
+
+
+
+
+
+Preferences, needs, and choices are fundamental to how markets work; they also interact with prices. As preferences or needs change, a family adjusts its spending on all sorts categories in order to maximize its well-being.
+[3]
+ Because families face budget constraints and typically have no control over prices, important questions to consider as we think about costs are whether people are able to afford options that meet their needs, and what kind of trade-offs they may make in order to do so.
+
+
+
+
+
+In addition, our thinking about what constitutes a need can change over time. For example, indoor plumbing was not always considered a necessity in a city apartment, whereas today it is the norm.
+[4]
+ More recently, high-speed Internet access became a necessity for school-age children when COVID-19 forced schools to shift to remote instruction. One can also argue that cellular phones have become a necessity for participating in modern society.
+
+
+
+
+
+Different categories of expenditures will be more relevant for different types of families. Those with young children will likely spend more on housing and childcare than those without, and elderly families will likely spend more on home health care and prescription drugs than will younger families. In some of the worst-case scenarios, parents may go hungry in order to feed their children, and an elderly individual may delay filling a prescription in order to afford their monthly rental payment. Importantly, public policy can play a role in helping families afford the goods and services necessary to meet their basic needs by reducing family exposure to cost increases in areas like health care (through Medicare, Medicaid, and the Affordable Care Act), childcare (through the Child Tax Credit and subsidized preschool), and food prices (through the Supplemental Nutrition Assistance Program).
+
+
+
+
+
+Family spending patterns
+
+
+
+
+
+In this section, we use data from the Consumer Expenditure Survey to explore more specifically how spending in different categories varies by family income and demographics.
+[5]
+ We look at spending patterns across the income distribution and then focus on four types of families: (1) a married couple with young children, (2) a married couple whose oldest child is at least 18 years of age, (3) a single parent with at least one child under 18 years of age, and (4) a family whose reference person (i.e., the person being interviewed on behalf of the consumer unit) is at least 65 years of age.
+
+
+
+
+
+Figure 1 shows expenditure shares for each category of necessity by income quintile, with 1 representing the bottom income quintile and 5 representing the top income quintile. 
+[6]
+ The first pattern to note is that, on average, lower- and middle-income families spend a higher share of their budgets on basic necessities—which we define here as food, clothing, housing, transportation, health, education, and child and elder care—and this has been true for decades. Families in the bottom 60 percent of the income distribution spent on average about 75 to 80 percent of their budgets on these necessities, leaving them more exposed to price increases in these categories.
+
+
+
+
+
+At the other end of the spectrum, in 2019, families in the top fifth of the income distribution devoted about 65 percent of their budgets to these basic needs, leaving about 35 percent of their budgets for other, more discretionary items. Moreover, the results for upper-income families reflect that in many cases, they have already “traded up” to more-expensive versions of basic needs—better housing, for example, or higher-quality groceries. Faced with higher prices over time, these families in many cases have the flexibility to trade back down as a way to manage costs, whereas lower- and middle-income families have far less flexibility to substitute.
+
+
+
+
+
+
+
+
+
+
+We also see differences in expenditure shares across family types, as shown in figure 2. Elderly families spend larger shares of their budgets on health expenses than families with young children and thus are more exposed to price increases in medical services and prescription drugs. Meanwhile, families with young children are more exposed to childcare costs; this can have a double-hit on family budgets, since rising costs can also alter the choice of whether second earners—predominantly women—choose to stay in the labor force, a choice that can have profound effects on lifetime earnings and has been brought into stark relief by the loss of childcare options during the COVID-19 pandemic. Families with older children are less exposed to childcare costs but become more exposed to other educational expenses, especially college tuition.
+
+
+
+
+
+While the differences in budget shares across family type are smaller than across income quintiles, there are large differences in the total budget available to the average family of each type. For example, the average single-parent family has a budget of about $49,000 a year, which is roughly half the budget of the average married family with children.
+
+
+
+
+
+
+
+
+
+
+How prices affect family budgets
+
+
+
+
+
+As noted above, a family’s budget and expenditures are affected by many factors, such as its needs, preferences, choices, and income; they are also affected by the cost of living—that is, the prices the family faces for goods and services.
+
+
+
+
+
+To assess changes in the cost of living, economists study changes in the prices of an aggregate basket of goods and services (see box 1). Between 1990 and 2019, the overall cost of living rose by 74 percent based on the Personal Consumption Expenditures Price Index and by 90 percent based on the Consumer Price Index retroactive series (see box 1 for more on the differences between the PCE and the CPI indices).
+[7]
+
+
+
+
+
+A key way to measure the impact of these changes on workers and families is to assess how they compare with growth in a typical family’s income over the same time period. More precisely, economists adjust nominal income by changes in the cost of an aggregate basket of goods and services using indices such as those described in box 1. Adjusting for changes in the cost of living, growth in real income is encouraging because a family can enjoy a higher standard of living. 
+
+
+
+
+
+Over the past three decades, the typical family’s income has risen.
+[8]
+  In 1990, for example, median family income not adjusted for the cost of living was $35,353 (
+Census, Table F-7
+). By 2019, median family income was $86,011, an increase of 143 percent in nominal terms (see the first bar of figure 1).
+[9]
+ Over this same period, the overall cost of living rose by roughly 74 percent based on the 
+Personal Consumption Expenditures, Chain Price Index
+ (see the horizontal line of figure 1). Thus, adjusted for changes in the cost of living, median family income rose by 40 percent. By this measure, the typical family in America today enjoys a higher standard of living than a typical American family three decades ago. However, this aggregate measure masks differences across families’ experiences; prices for some categories of expenditures have risen noticeably faster, suggesting that the costs of living have also risen for many families.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Average price indices are important tools for measuring overall changes in prices in the economy and in broad well-being. Importantly, however, few families have monthly expenditures that are precisely in line with national aggregates. Instead, different families vary—sometimes dramatically—in their needs, tastes, and choices. So what is true for costs on average may not reflect the experience of any particular family.
+
+
+
+
+
+Dynamics of price changes
+
+
+
+
+
+To understand the dynamics of prices and how they affect families differently, it is useful to think separately about the production of goods and services. Due to technological change, certain goods have fallen in price markedly over the last three decades—for example, television sets. A 
+Radio Shack ad from 1990
+ shows a 20-inch CRT color TV retailing for $500. Today, a TV with a similar screen size has a sticker price that is less than half of that. Moreover, today’s TVs have much better image quality and weigh far less than their 1990 counterparts. These improvements reflect technological changes and productivity improvements, as well as other factors. So, when accounting for not just list price but also quality and features changes (called 
+hedonic 
+adjustments, which official price measures make), the measured, quality-adjusted prices of TVs have plummeted by 98 percent. Many other electronics, like computers and tablets, have seen similar decreases (see figure 3).
+
+
+
+
+
+While prices for numerous goods have fallen even as quality has improved, these dynamics play out differently for many services—particularly those for which the major cost is paying for workers. As shown in figure 3, from 1990 to 2019, childcare prices rose 210 percent—faster than the overall price index (74 percent) and faster than median family income (143 percent).
+[10]
+ While productivity and technology substantially lowered the quality-adjusted prices of manufactured goods like electronics, human services like childcare are often more limited in their potential to see enhanced productivity (caregivers cannot watch children any “faster” over the same number of set hours per day). While childcare productivity could hypothetically increase if each caregiver took on more children, in reality, one person cannot safely monitor an ever-larger group of children—let alone provide a high-quality experience for each child. So large increases in the ratio of children to care providers do not lead to an equivalent increase in productivity in childcare once changes in quality are considered.
+
+
+
+
+
+Further, changes in the price of a service are not solely determined by the productivity of the service provider. For example, childcare wages need to rise some amount over time to stay competitive with other industries that are experiencing large gains in labor productivity (although childcare is still generally a low-wage industry). As a result, households needing childcare or other similar services are more likely to have needed to increase the share of their budget spent on these necessities.
+
+
+
+
+
+Indeed, research suggests that lower-income families have been experiencing these cost pressures more than higher-income families. A recent 
+study
+ using granular price and expenditure data finds that the cost of living became more expensive for low- and middle-income families relative to higher-income families between 2004 and 2015. This also means that basic goods and services—including health care, education and childcare—cut into family budgets more today than in the past.
+
+
+
+
+
+Build Back Better policies help lower costs for families
+
+
+
+
+
+As part of the Build Back Better plan, the Biden Administration has proposed several policies to address these long-standing cost pressures. Families with young children will tend to benefit most from the proposed expansion of the Child Tax Credit (CTC), universal preschool, and improvements in the quality of childcare and a reduction in associated out-of-pocket costs. Proposals to lower prescription drug cost through Medicare-negotiated prices, add dental and vision benefits to Medicare, and expand access to home- and community-based care through Medicaid are likely to be more beneficial to households with elderly members.
+
+
+
+
+
+Here, we present two illustrative families as benchmarks for how pieces of Build Back Better aim to help different types of families meet their needs. Specific numbers will vary depending on factors like age, state of residence, and number of children, but these examples try to convey the breadth of the different family policies included in the Administration’s plans.
+
+
+
+
+
+The first example is a family of four with two young children age 4 and 6 living in Indiana. The parents are both 28 years old, have full-time jobs, and together earn $65,000 per year. While the parents are at work, they send the younger child to a high-quality Indiana preschool that costs $9,000 annually.
+[11]
+
+
+
+
+
+Build Back Better would dramatically reduce costs for this Indiana family example. Under Build Back Better’s CTC expansion, the family would receive an extra $2,600 in tax credits.
+[12]
+ Universal preschool would erase the $9,000 they currently spend. All told, Build Back Better would help the Indiana family make ends meet with $11,600 in family cost reductions.
+
+
+
+
+
+The second illustrative family lives in Arizona, with two parents who together earn $85,000 per year and an adult child who lives with them and attends a community college. The family also cares for an elderly parent who needs arthritis medicine, which costs $5,500 per year out-of-pocket, and an eye exam to get a new pair of glasses.
+
+
+
+
+
+Build Back Better would help this Arizona family by making education and health care more affordable. The community college student would be eligible for two years of free community college education, saving the family $2,400 per year.
+[13]
+ Prescription drug reform would cap out-of-pocket costs for the elderly parent’s prescription drugs, saving the family another $2,400 per year.
+[14]
+ Finally, new vision benefits under Medicare would pay for the elderly parent’s eye exam and new glasses and lenses, saving $450.
+[15]
+ All told, Build Back Better policies would save this Arizona family $5,250 in annual costs.
+
+
+
+
+
+Conclusion
+
+
+
+
+
+Over the last three decades, some goods have fallen precipitously in price. But basic needs like health care and caregiving have become more expensive. Despite rising incomes for typical families, many have been exposed to these rising costs—especially low-and middle-income families and those families that are especially sensitive to certain high-cost needs (e.g., elderly families to medical costs, and families with young children to childcare). As part of Build Back Better, the Biden Administration has proposed a range of policies to better protect different families from the risk of future cost increases for necessities and help Americans share in broad prosperity.
+
+
+
+
+
+
+
+
+
+
+[1]
+ Based on unpublished numbers that underlie figure 3 in the linked Hamilton Project Report.
+
+
+
+
+
+[2]
+ CEA calculations based on Census Table A4. The 95th/20th household income ratio grew by 27 percent between 1990 and 2019, and the 95th/50th household income ratio grew by 24 percent over the same period.
+
+
+
+
+
+[3]
+ Specifically, when thinking about the effect of changes in prices on consumption, economists analyze how a family adjusts its spending by considering two types of changes—
+income
+ and 
+substitution
+ effects. When the price of something falls—say, apples—a family may buy more of it because it is cheaper (substitution effect); but the family may also spend some of its savings on other goods—say, oranges—because it has more room in its budget (the income effect). If income falls, a family may reduce consumption on everything, which is also an income effect.
+
+
+
+
+
+[4]
+ Only 
+0.4 percent
+ of occupied housing units in the United States lack complete plumbing facilities 
+(defined by the Census as having each of the following: hot and cold running water, a flush toilet, and a bathtub or shower), 
+although the share can be significantly higher in some more rural areas.
+
+
+
+
+
+[5]
+ For the Consumer Expenditure Survey, a surveyed family is referred to as a “consumer unit,” which, according to BLS, is defined as “(1) all members of a particular household who are related by blood, marriage, adoption, or other legal arrangements; (2) a person living alone or sharing a household with others or living as a roomer in a private home, lodging house, or permanent living quarters in a hotel or motel, but who is financially independent; or (3) two or more persons living together who use their income to make joint expenditure decisions.”
+
+
+
+
+
+[6]
+ Our definition of necessities includes seven categories. “Housing” includes expenses on owned and rented dwellings, maintenance, fuel, public services, furnishings, rent, and mortgage principal and interest. “Transportation” includes vehicle purchases and rentals, gas and motor oil, maintenance and repairs, insurance, and public transportation costs. “Food” includes food purchased at grocery stores and food prepared on vacations. “Health” includes insurance, medical services and procedures, prescription drugs, and medical supplies. “Child and elder care” includes babysitting and childcare; care for elderly people, invalids, and handicapped people; adult day care centers, and day care centers, nurseries, and preschools. “Clothing” includes expenses on clothing, footwear, and accessories such as watches and jewelry, and related expenses such as dry cleaning. “Education” includes tuition, fees, supplies, and textbooks for nursery school through postsecondary education. Budget shares are calculated by dividing average annual expenditures in a category by total average annual expenditures. For more information, see the 
+Consumer Expenditure Survey Glossary
+.
+
+
+
+
+
+[7]
+ We use the CPI retroactive series for this calculation because it applies current methods to estimate historical values of the index back to 1978. This makes the index more comparable over time; see 
+R-CPI-U-RS Homepage: U.S. Bureau of Labor Statistics (bls.gov)
+.
+
+
+
+
+
+[8]
+ This brief focuses on family rather than household income. The U.S. Census Bureau 
+defines
+ families as “any two or more people (not necessarily including a householder) residing together, and related by birth, marriage, or adoption.” This distinguishes them from households, which “may be composed of one such group, more than one, or none at all.” We also use the Personal Consumption Expenditure Price Index (PCE) rather than Consumer Price Index (CPI) (see box 1).
+
+
+
+
+
+[9]
+ CEA calculations based on 
+Census Table F-7
+.
+
+
+
+
+
+[10]
+ Figure 1 includes percent changes in detailed PCE indices for selected goods and services. The category labeled “childcare” is based on the index “day care and nursery schools.” “Rent” is “rent of tenant occupied nonfarm housing.” “Health care” is “health care goods and services.” “Food and beverage” is “food and beverage purchased for off-premises consumption.” “Apparel” is “clothing, footwear, and related services.” “Computers” is “personal computers/tablets and peripheral equipment.”
+
+
+
+
+
+[11]
+ This is the Indiana state average for high-quality early childhood education for a preschooler in 2022 dollars, according to the 
+Indiana Early Learning Advisory Committee 2019 Annual Report
+.
+
+
+
+
+
+[12]
+ Under Build Back Better, each child under six is eligible for a $3,600 CTC, which is $1,600 more than under current law after 2021. Each child age 6–17 is eligible for a $3,000 CTC, which is $1,000 more than under current law starting in 2021.
+
+
+
+
+
+[13]
+ These are the average published tuition and fees for full-time, in-district students at public two-year colleges in Arizona in 2022 dollars, according to the 
+College Board 2020 Trends in College Pricing and Student Aid
+. Cost savings would be higher if the student is eligible for a Pell Grant, which depends on family circumstances such as income and assets; the Fiscal Year 2022 Budget proposes a $1,875 increase in the maximum Pell Grant.
+
+
+
+
+
+[14]
+ Recently introduced legislation on Medicare prescription drug reforms would establish an out-of-pocket maximum for Part D cost-sharing of no more than $3,100.
+
+
+
+
+
+[15]
+ This is the approximate cost based on national averages for an eye exam, new glasses, and new lenses.
+
+			

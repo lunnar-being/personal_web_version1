@@ -1,0 +1,602 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Applying to the Digital Outcomes and Specialists framework
+  
+
+  
+  
+  
+      
+  How to apply to sell digital outcomes, specialists and user research services to government on the Digital Outcomes and Specialists framework.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Government Digital Service and Crown Commercial Service
+
+      
+      Published
+      4 December 2015
+      Last updated
+      
+        17 November 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          When you can apply
+
+        
+        
+          Types of digital services you can sell
+
+        
+        
+          Eligibility
+
+        
+        
+          How to apply
+
+        
+        
+          Asking ‘clarification’ questions during the application process
+
+        
+        
+          Submitting your application
+
+        
+        
+          After you apply
+
+        
+        
+          If you’re successful
+
+        
+        
+          How to respond to buyers and apply for opportunities
+
+        
+        
+          Changing details after you’ve applied
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+The public sector uses the Digital Marketplace to buy digital services.
+
+You apply on the Digital Marketplace to sell digital services through the Digital Outcomes and Specialists framework.
+
+
+A framework is an agreement between suppliers and government - all suppliers agree to the same terms when they apply.
+
+
+The application process is different if you want to sell cloud services on the G-Cloud framework.
+
+Crown Commercial Service (CCS) manages the framework, for example the terms and conditions, supplier evaluations and compliance. Government Digital Service (GDS) manages the Digital Marketplace service.
+
+When you can apply
+
+You cannot currently apply to join the Digital Outcomes and Specialists framework. Applications are usually available every 9 to 18 months.
+
+Sign up for emails about when you can apply and for updates on frameworks.
+
+Types of digital services you can sell
+
+The services on the Digital Outcomes and Specialist framework are categorised into:
+
+
+  digital outcomes: you’ll provide teams to work on a digital service, for example a booking system or an accessibility audit
+  digital specialists: you’ll provide specialists, like a product manager or developer, to work on a  specific piece of work
+  user research studios: you’ll provide facilities to carry out interviews and usability tests
+  user research participants: you’ll find people to take part in research interviews and usability tests
+
+
+Eligibility
+
+The Digital Outcomes and Specialists framework is open to suppliers of all sizes. You do not need to be based in the UK.
+
+You can arrange for third parties to do some of the work (‘subcontracting’) or provide the service through a group of suppliers (‘consortia’). A buyer must agree to subcontracting or a consortium arrangement before they buy.
+
+The full legal rules and eligibility are published in documents called the ‘Call-Off Contract’ and ‘Framework Contract’. The most up-to-date documents will be available on your Digital Marketplace account when you apply.
+
+You’ll also need to agree to certain obligations as a CCS supplier, such as submitting management information (MI) returns.
+
+There are also different rules depending on what category (‘lots’) the services are in.
+
+Rules for digital outcomes services
+
+As a digital outcomes supplier, you must:
+
+
+  comply with the technology code of practice
+
+  work according to the government service design manual
+
+  understand what it means to work on different phases of agile delivery  (alpha, beta, live, retirement)
+
+
+You must provide services within at least one of the following capabilities:
+
+
+  performance analysis and data
+  security
+  service delivery
+  software development
+  support and operations
+  testing and auditing
+  user experience and design
+  user research
+
+
+Rules for digital specialists
+
+As a digital specialists supplier, you must:
+
+
+  offer evidence of competence in each role if requested by the buyer
+  ensure all roles support the government service design manual’s description of what you need to build a successful service
+
+  provide specialists who are employed or subcontracted by you; at the point you respond to a buyer opportunity, the proposed specialist is a member of your team (and has a contractual relationship with you, such that they cannot be offered as a resource by any other supplier)
+
+
+You must provide at least one of the following roles:
+
+
+  agile coach
+  business analyst
+  communications specialist
+  content designer or copywriter
+  cyber security specialist
+  data architect
+  data engineer
+  data scientist
+  delivery manager or project manager
+  designer
+  developer
+  performance analyst
+  portfolio manager
+  product manager
+  programme delivery manager
+  quality assurance analyst
+  service manager
+  technical architect
+  user researcher
+  web operations engineer
+
+
+Rules for user research studios
+
+As a user research studios supplier, you must provide:
+
+
+  user research studios hire in the right location on specific dates
+  a comfortable, private and safe environment for participants, researchers and observers to work in
+  space to conduct interviews, usability tests or focus groups
+  facilities where it’s possible to watch and record people as they engage with designs, prototypes and live public sector services
+
+
+Rules for user research participants
+
+As a user research participants supplier, you must be able to:
+
+
+  recruit participants with a range of experience, for example you should consider diversity, people who are digitally excluded, as well as those who have low literacy or digital skills, and those who need assisted digital support
+  recruit user research participants who best reflect the users of a service, for example a specific target user group such as victims, witnesses or jurors
+
+
+How to apply
+
+Follow these steps to apply.
+
+
+
+Create an account or log into your existing account. You’ll need a Data Universal Numbering System (DUNS number) if you’re creating an account.
+
+
+Click ‘Start application’ to begin the Digital Outcomes and Specialists application process.
+
+
+Make the supplier declaration.
+
+
+Provide information about your services.
+
+
+Each step in this process is mandatory.
+
+You can add extra contributors to your account to help you add services more quickly.
+
+Making the supplier declaration on the Digital Marketplace
+
+You must make the supplier declaration. If you don’t complete it you will not be able to provide services on the Digital Marketplace.
+
+The parts of the supplier declaration are:
+
+
+  providing suitable services
+  what it means to be on Digital Outcomes and Specialists 5
+  grounds for mandatory exclusion
+  grounds for discretionary exclusion
+  working with government
+  how you apply
+  application accuracy
+  how you’ll deliver your services
+  modern slavery
+  contact details
+
+
+You’ll need to agree to certain obligations on the framework, such as submitting monthly information (MI) management returns.
+
+Adding service information on the Digital Marketplace
+
+You need to provide your service details on the Digital Marketplace. 
+You’ll be asked to include information like where you can provide services and pricing details.
+
+Each service you want to include needs to fit into one of these categories (called ‘lots)’:
+
+
+  digital outcomes
+  digital specialists
+  user research studios
+  user research participants
+
+
+You can look at past and present opportunities to see the kind of services buyers need.
+
+You can apply to provide services in as many categories as you want. If you’re accepted on to the framework, you cannot supply services in a category you didn’t sign up for.
+
+Each service you add must be marked as ‘complete’ on the Digital Marketplace.
+
+Your application will be automatically submitted for Digital Outcomes and Specialists on the deadline day if you’ve also made your supplier declaration.
+
+Asking ‘clarification’ questions during the application process
+
+You can ask ‘clarification’ questions during the application process. All questions about this procurement must be submitted through the Digital Marketplace on the Digital Outcomes and Specialists updates page.
+
+You will not get an individual response to your question.
+
+All questions and answers will be posted regularly in a PDF on the Digital Outcomes and Specialists updates page. Anyone who has started an application will be notified when new clarification questions and answers are available.
+
+Contact Crown Commercial Service if you have any technical issues with the Digital Marketplace.
+
+
+Crown Commercial Service
+cloud_digital@crowncommercial.gov.uk
+
+
+Commercially sensitive clarification questions
+
+You may not want the answer to your question to be published. In this situation, you should explain when you submit the question why you believe that making the question and response public would put you at a disadvantage.
+
+If there is not sufficient justification for withholding the question and answer, you’ll be asked to decide if:
+
+
+  the question and the response should in fact be published
+  you want to withdraw the question
+
+
+Submitting your application
+
+Your application will be submitted automatically if you have completed your supplier declaration and details for at least one service. You do not need to manually submit your application.
+
+After you apply
+
+Once it’s submitted, CCS will evaluate the information you provide in your application against the criteria published in the Invitation to Tender (ITT), Call-Off Contract and Framework Agreement.
+
+These documents are provided in your Digital Marketplace account.
+
+It takes around 8 weeks.
+
+You’ll be told if you’re successful through your Digital Marketplace account.
+
+If you’re successful
+
+You’ll enter into an agreement with CCS. Your framework agreement will be available in your account on the Digital Marketplace. You’ll need to sign your framework agreement and upload it to your account within 10 working days of getting it.
+
+You will not be able to provide services on the framework if you do not sign and return the framework agreement.
+
+Your services will be made available on the Digital Marketplace as soon as the framework goes live.
+
+The maximum length of a contract is 2 years with an optional 25% extension. For example, a contract length of 1 year, could have a maximum extension of 3 months (25%).
+
+How to respond to buyers and apply for opportunities
+
+You’ll use the Digital Marketplace to find and respond to buyer requirements. Find out how to sell your services and apply for opportunities on the Digital Marketplace.
+
+Changing details after you’ve applied
+
+You can change some information, like your company’s details, on your Digital Marketplace account.
+
+You can change these service details:
+
+
+  team capabilities
+  locations where your team or specialist is available to work
+  specialist roles you offer
+  user research studio details
+  recruitment approach and participant location
+
+
+You cannot add services to new categories (‘lots’):
+
+
+  after applications close
+  when you’ve been accepted onto the framework
+
+
+Contact CCS to update these service details.
+
+
+Crown Commercial Service
+cloud_digital@crowncommercial.gov.uk
+
+
+Buyers can request evidence of any changes you make.
+
+
+
+
+
+      
+        
+    Published 4 December 2015
+    Last updated 17 November 2020
+      + show all updates
+      
+        
+            
+              17 November 2020
+              Updated: Applications for Digital Outcomes and Specialists 5 are now closed.
+            
+            
+              10 November 2020
+              Updated closing date to Tuesday 17 November 2020.
+            
+            
+              9 October 2020
+              Applications for Digital Outcomes and Specialists 5 are now open
+            
+            
+              28 September 2020
+              Removed 'design' from list of capabilities under Rules for digital outcomes services.
+            
+            
+              18 September 2020
+              The Digital Outcomes and Specialists 5 framework will open for applications on 9 October 2020.
+            
+            
+              21 August 2019
+              The Digital Marketplace support email address has changed to cloud_digital@crowncommercial.gov.uk.
+            
+            
+              15 August 2019
+              Applications to join the Digital Specialists and Outcomes 4 framework have now closed.
+            
+            
+              8 July 2019
+              The Digital Outcomes and Specialists 4 framework is now open for applications until 5pm on 15 August 2019.
+            
+            
+              27 June 2019
+              This guide has been restructured for clarity. The title has changed to 'Applying to the Digital Specialists and Outcomes framework'. The application opening date (8 July) has been added. The maximum length of a contract has been changed from '24 months' to '24 months with an optional 6 months extension'. 
+Added information about supplier responsibilities on the framework in the 'Eligibility' section. Removed information about service standards and applying for opportunities, how to find that information is under the  'How to respond to buyers and apply for opportunities' heading.
+            
+            
+              10 June 2019
+              The Digital Outcomes and Specialists 4 framework will open for applications on 8 July 2019.
+            
+            
+              1 October 2018
+              Updated to reflect new specialist roles available through Digital Outcomes and Specialists 3.
+            
+            
+              22 August 2018
+              The Digital Outcomes and Specialists 3 framework is closed for applications
+            
+            
+              18 July 2018
+              Digital Outcomes and Specialists 3 is open for applications until 5pm BST, 22 August 2018.
+            
+            
+              13 July 2018
+              Digital Outcomes and Specialists 3 opens for applications on 18 July
+            
+            
+              22 March 2018
+              Digital Outcomes and Specialists 3 open for applications in July 2018
+            
+            
+              18 December 2017
+              Revised Digital Outcomes and Specialists 3 opening date
+            
+            
+              14 December 2016
+              Updated to show that Digital Outcomes and Specialists is closed for applications.
+            
+            
+              1 June 2016
+              Added links to new suppliers' guides on applying to opportunities
+            
+            
+              20 April 2016
+              Added links to new Digital Outcomes and Specialists guides and new supplier logins
+            
+            
+              4 December 2015
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Responding to buyer requirements on the Digital Outcomes and Specialists framework
+        Applying to the G-Cloud framework
+        Buying services on the Digital Marketplace
+        How to hire user research studios on the Digital Marketplace
+        How Digital Marketplace suppliers have been evaluated
+
+  
+
+
+
+
+      
+
+    Detailed guidance
+
+  
+
+
+        Terms and conditions of Digital Marketplace frameworks
+        Responding to buyer requirements on the Digital Outcomes and Specialists framework
+        Digital Outcomes and Specialists 5 legal documents
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Government spending
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

@@ -34,11 +34,11 @@
 
 <!-- 顶部导航栏 -->
 {% macro header(url) %}
-  <header>
-    {% set linklist = [("./index.html","首页"),("./search.html","复杂检索"),("./news.html","新闻动态"),("./aip_monitor.html","AIP监测"),("./analysis_keywords.html","统计分析"),("./collect.html","内容管理")] %}
+  <header >
+    {% set linklist = [("./index.html","首页"),("./china_topic.html","涉华专题"),("./news.html","新闻动态"),("./aip_monitor.html","AIP监测"),("./search.html","复杂检索"),("./analysis.html","统计分析"),("./collect.html","内容管理")] %}
 {#    {% set linklist = [("./index.html","首页"),("./analysis.html","统计分析"),("./collect.html","内容管理")] %}#}
 
-      <nav class="navbar navbar-default" role="navigation">
+      <nav style="width:100%" class="navbar navbar-default" role="navigation">
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse"
@@ -55,13 +55,11 @@
             {% for link, caption in linklist %}
             <li {% if url in link %}class="active"{% endif %}><a href={{ link }}>{{ caption }}</a></li>
             {% endfor %}
-          </ul>
-          <ul class="nav navbar-nav navbar-right">
             <form class="navbar-form navbar-left" role="search" action="search.html">
-              <div class="form-group">
+              <div class="form-group" >
                 <input type="text" class="form-control" placeholder="搜索" name="query">
               </div>
-              <button type="submit" class="btn btn-default hidden">Submit</button>
+{#              <button type="submit" class="btn btn-default hidden">Submit</button>#}
             </form>
             {% if current_user.is_authenticated %}
             <li><a>{{ current_user.username }}</a></li>
@@ -70,6 +68,9 @@
             <li><a href="auth/login.html">登录</a></li>
             {% endif %}
           </ul>
+{#          <ul class="nav navbar-nav navbar-right">#}
+{##}
+{#          </ul>#}
         </div>
       </div>
     </nav>

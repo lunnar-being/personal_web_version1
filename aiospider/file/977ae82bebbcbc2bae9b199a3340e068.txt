@@ -1,0 +1,124 @@
+
+
+The RAND Blog
+Previous Blog PostCOVID-19 Gave Managers a Look at Our Home Lives. Will They Now Penalize Women?Next Blog PostCurb Climate Change After COVID-19? Fast-Growing India and Brazil Are Key
+
+COVID-19 Vaccination: Expect the Unexpected
+commentary
+(The RAND Blog)
+Health care workers rehearse the administration of the COVID-19 vaccine at Indiana University Health in Indianapolis, December 11, 2020Photo by Bryan Woolston/Reuters
+
+
+
+by Paul Brenner, Shoshana R. Shelton, Richard H. Donohue
+December 15, 2020
+
+
+With emergency use authorization for the first COVID-19 vaccine now in place, states and localities have turned their focus to the logistics of dispensing it as quickly as feasible. Still, uncertainties abound.
+Intense planning (PDF) cannot anticipate all problems. Instead, it is essential to build a process of learning into the plan.
+The cycle of uncertainty, learning, and adaptation has shaped the pandemic from the start. At first, the role of airborne transmission and the need for masks were not understood. The guidance about who should be tested has been updated continually. Months of experience in hospitals identified more effective therapeutics and treatment procedures.
+The vaccination campaign will similarly demand that health officials learn and adapt. For instance, while the United States has given emergency approval to the first vaccine, there are dozens more in development—each with different storage, handling, and dosage requirements. The vaccines may have different efficacy and side effects.
+Security measures will need to evolve, whether it be to counter theft, counterfeit vaccines, or cyberattack. The logistics infrastructure, already strained by the pandemic, will have to shift to complete deliveries. Public health messaging will have to be refined and targeted to ensure that enough Americans are vaccinated.
+Given all these moving pieces, how do we reduce the chance of things going wrong—and make sure there is quick course correction if they do?
+In a 1991 article called “Beating Murphy's Law,” three business management professors from Harvard and MIT prescribed a system of organizational learning to implement new technology. Their suggestions, rooted in how organizations learn, might be particularly apt right now in the vaccination effort:Learning from Early Adopters
+Experiences from this initial wave of vaccinations could be analyzed and fed back into state and local plans. Working with more than 3,000 U.S. counties is a diverse challenge but also an opportunity—each could be an experiment from which to learn what works and what needs improvement. The United States can also study other countries' experiences.Simulating, Prototyping, and Studying Similar Programs
+The military and emergency management communities use structured games and exercises to gain experience quickly and safely. Such tools could be developed and made available to jurisdictions so they could practice before doing. Logistics systems could be prototyped in regions if the best design is not clear. For example, different systems that use many small warehouses versus fewer, larger sites could be tested.Producing Results and Know-How in Parallel
+ Managers of the vaccination effort will have their hands full solving problems in real time. A separate group working in parallel could be analyzing results and finding improvement opportunities. A useful model can be found in the Federal Emergency Management Agency, which has a continuous improvement (PDF) group that monitors progress of the recovery assistance programs and suggests ongoing adjustments to processes and tools.Following Advice from Explorers
+The 1991 article explains how the Lewis and Clark expedition succeeded. Contingency plans could not anticipate the dangers ahead. Instead they took advantage of opportunities, experimented with different routes, and documented experiences. The vaccination program could look for opportunities from local problem-solvers that can be replicated elsewhere; experiment with competing logistics approaches; and track results at every step.
+The nation's public health system is highly decentralized across state and local governments, plus the private sector. But federal agencies could coordinate this essential learning and adaptation during the COVID-19 vaccination campaign. A central group could be an analysis cell and clearinghouse for what is working and what is not, which could help states and localities expect the unexpected and adapt accordingly.
+
+Paul Brenner is a senior management scientist at the nonprofit, nonpartisan RAND Corporation. He focuses on government's management of science and technology, including best practices for technology development, acquisition programs, R&D portfolio management, and risk management. Shoshana R. Shelton is a senior policy analyst at RAND. Her research focuses on performance measure development, program evaluation, public health systems, violence prevention, infectious disease control and mitigation, and national health security. Richard Donohue is an associate policy researcher at RAND who focuses on qualitative and quantitative research on law enforcement issues.
+Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Paul Brenner
+Senior Management Scientist
+
+
+
+Shoshana R. Shelton
+Senior Policy Analyst; Professor, Pardee RAND Graduate School
+
+
+Richard H. Donohue
+Policy Researcher
+
+
+
+
+
+
+Topics
+ Coronavirus Disease 2019 (COVID-19)
+Logistics Management
+United States
+Vaccination
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Commentary
+Once a COVID-19 Vaccine Is Ready, Getting People to Take It May Be a Bigger Challenge
+
+Jun 9, 2020
+Alina I. Palimaru, Marcus Dillistone, et al.
+
+
+
+
+
+
+
+
+
+
+Research Brief
+The global economic cost of COVID-19 vaccine nationalism
+
+Nov 5, 2020
+Marco Hafner, Erez Yerushalmi, et al.
+
+
+
+
+
+
+
+
+
+
+Multimedia
+How Can We Achieve Herd Immunity?
+
+Aug 5, 2020
+
+
+
+
+
+
+
+

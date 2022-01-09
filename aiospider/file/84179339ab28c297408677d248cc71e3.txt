@@ -1,0 +1,113 @@
+
+
+
+
+
+
+
+
+Russia's Cyber Limitations in Personnel Recruitment and Innovation, Their Potential Impact on Future Operations and How NATO and Its Members Can Respond
+Published in: Cyber Threats and NATO 2030: Horizon Scanning and Analysis, Chapter 2, pages 31–59 (2020) Posted on RAND.org on December 23, 2020
+by Joe Cheravitch, Bilyana Lilly
+Related Topics: Cyber Warfare, North Atlantic Treaty Organization, Russia
+View related products
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+Read More
+Access further information on this document at ccdcoe.orgThis article was published outside of RAND. The full text of the article can be found at the link above.
+
+
+
+
+
+
+
+
+While Moscow's willingness to launch cyber operations depends in no small part on how the Russian leadership interprets geopolitics, resources and personnel determine the ability to conduct them. Russia has demonstrated a capacity to craft sophisticated malware to support operations that range from espionage to disrupting critical infrastructure, to interfering instates' internal affairs through cyber-enabled influence campaigns, but the government still faces difficulties recruiting and retaining the needed technological talent to keep pace with its rivals. While some of the factors inhibiting the growth of Moscow's cyber programme are internal to the organisations tasked with executing them, such as a culture-clash between specialist recruits and the bureaucracy, the most significant impediments are exogenous to them and include brain-drain and the health of Russia's economy. Moscow's litany of perceived adversaries in cyberspace ensures continuous efforts by the state to prevent the emigration of computer science and IT specialists and expand the ranks of those serving Russia's offensive and defensive cyber capabilities. As evolving technologies like artificial intelligence and quantum computing carry implications for future cyber operations, Moscow's ability to marshal its resources to remain competitive in a furtive digital arms race similarly depends on many of these factors.
+This chapter aims to address key questions arising from the probable gap that separates Russian cyber personnel and capabilities, especially technological innovation, from its ambitions and what effect this disparity might have on future state-backed cyber campaigns. It starts by accounting for different factors that affect the ability of Russia's military and security services to successfully expand recruiting and support technological innovation related to cyber operations. This is followed by an examination of various initiatives and strategies that Russian agencies have introduced to address Russia's cyber limitations and cultivate technological innovation. Finally, it discusses how Russia's current official policies and informal practices are likely to affect the nature of its cyber operations in the future and to what extent NATO and its members can leverage these limitations to achieve desired effects in the Alliance's cyber security efforts.
+
+Access further information on this document at ccdcoe.orgThis article was published outside of RAND. The full text of the article can be found at the link above.
+
+
+ Related Products 
+
+
+
+
+
+
+
+
+
+Journal Article
+The Impact of New and Emerging Technologies on the Cyber Threat Landscape and Their Implications for NATO
+
+Jan 12, 2021
+Jacopo Bellasio, Erik Silfversten
+
+
+
+
+
+
+
+
+
+
+Journal Article
+Cyber Threats to NATO from a Multi-Domain Perspective
+
+Jan 12, 2021
+James Black, Alice Lynch
+
+
+
+
+
+
+
+Research conducted by
+
+RAND International
+Pardee RAND Graduate School
+
+
+
+This report is part of the RAND Corporation External publication series. Many RAND studies are published in peer-reviewed scholarly journals, as chapters in commercial books, or as documents published by other organizations.Our mission to help improve policy and decisionmaking through research and analysis is enabled through our core values of quality and objectivity and our unwavering commitment to the highest level of integrity and ethical behavior. To help ensure our research and analysis are rigorous, objective, and nonpartisan, we subject our research publications to a robust and exacting quality-assurance process; avoid both the appearance and reality of financial and other conflicts of interest through staff training, project screening, and a policy of mandatory disclosure; and pursue transparency in our research engagements through our commitment to the open publication of our research findings and recommendations, disclosure of the source of funding of published research, and policies to ensure intellectual independence. For more information, visit www.rand.org/about/principles.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: NATO CCDCOE PublicationsPublisher: Cooperative Cyber Defence Centre of Excellence
+Availability: Non-RAND
+ Pages: 29
+Document Number: EP-68400
+Year: 2020
+Series: External Publications
+
+
+
+Explore
+Related Topics
+
+Cyber WarfareNorth Atlantic Treaty OrganizationRussia
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+

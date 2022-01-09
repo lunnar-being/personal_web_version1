@@ -1,0 +1,369 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Public sector website and mobile application accessibility monitoring
+  
+
+  
+  
+  
+      
+  Learn how CDDO is monitoring accessibility under the Public Sector Bodies (Websites and Mobile Applications) (No.2) Accessibility Regulations 2018.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      20 August 2020
+      Last updated
+      
+        6 December 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          How we sample
+
+        
+        
+          Technical standard for digital accessibility
+
+        
+        
+          How we test
+
+        
+        
+          Disproportionate burden claims and assessment
+
+        
+        
+          Third party content
+
+        
+        
+          Independent review
+
+        
+        
+          Receiving complaints
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Website and mobile accessibility regulations came into force on 23 September 2018. This means that public sector bodies have a legal obligation to meet accessibility requirements for their websites.
+
+To check how well public sector bodies are meeting the requirements, the Central Digital and Data Office (CDDO), part of the Cabinet Office, is monitoring a sample of public sector websites and mobile apps.
+
+How we sample
+
+The first monitoring period runs from 1 January 2020 to 22 December 2021.
+
+Only public sector websites and mobile apps that are in scope of the accessibility regulations will be audited.
+
+The next monitoring period in 2022 will include retests of some websites previously audited.
+
+Organisation lists
+In 2020 and 2021 the aim is to monitor a sample of all organisation and website types and sizes, including those with exemptions, to learn about any differences needed in the monitoring process.
+
+Sampling will be taken from 2 lists:
+
+
+  public sector organisations
+  domain names registered on public sector top-level domains, such as .gov.uk, .ac.uk and .nhs.uk
+
+
+Sampling within each organisation type or domain list will be random.
+
+If a certain organisation type, size, location or purpose is dominating the sample we will review and rebalance to ensure wider coverage.
+
+Technical standard for digital accessibility
+The technical standard for websites and mobile apps is EN 301 549 v2.1.2.
+
+This closely follows level AA of the Web Content Accessibility Guidelines (WCAG) version 2.1.
+
+The following WCAG 2.1 success criteria do not apply to mobile apps:
+
+
+  2.4.1 Bypass Blocks
+  2.4.2 Page Titled
+  2.4.5 Multiple Ways
+  3.1.2 Language of Parts
+  3.2.3 Consistent Navigation
+  3.2.4 Consistent Identification
+  4.1.3 Status Messages
+
+
+If you are using advanced or mobile-specific features in your app, like biometrics or video conferencing, there are extra accessibility criteria to meet. See EN 301 549 for more information.
+
+How we test
+Testing covers the accessibility of a site against the Web Content Accessibility Guidelines version 2.1 (WCAG 2.1) up to level AA. We also review the accessibility statement that is required by the accessibility regulations.
+
+Simplified testing
+For a simplified test we choose some core pages, like the home page, alongside a sample of other pages chosen from across the site. The number will vary depending on the size of the website.
+
+We test pages using an automated accessibility tool called Axe. We will review the testing tools and method as technologies advance.
+
+Automated testing does not find all accessibility issues. We also do manual tests. These include:
+
+
+  tabbing through each page without a mouse
+  viewing the page at different zoom settings
+  simulating viewing the page on a small device like a mobile phone
+
+
+Manual tests can find issues with keyboard functionality, visibility of keyboard focus and reflow. These are common barriers to users with accessibility needs and are unlikely to be found using automated testing.
+
+Simplified tests do not show every accessibility error and only a sample of pages is tested.
+
+Detailed auditing
+Detailed audits take a more in-depth look at a website or mobile app. They will test against the full range of WCAG 2.1 success criteria up to level AA. Assistive technology will be used to check compliance as well as the automated and manual methods used in simplified testing.
+
+The priority order of detailed auditing will be based on social impact (for example size of population covered, or site or service usage) and complaints received.
+
+What happens after a test
+A report detailing accessibility issues found is sent to the public sector body that runs the website.
+
+If you have received an accessibility report from CDDO, you must:
+
+
+  email us within 7 days to tell us you have received the report
+  send us any disproportionate burden assessment evidence within 7 days if this applies
+  do an accessibility audit to find what needs to be fixed, if you have not had an audit recently
+  fix accessibility issues within 12 weeks
+  publish an accessibility statement in the correct format on your website
+
+
+After 12 weeks we will ask for details of:
+
+
+  issues that have been fixed
+  issues that cannot be fixed
+  a timeline for fixing unresolved issues
+
+
+We then retest your website to check that accessibility issues listed in the report have been fixed.
+
+If we find issues from the report that have still not been fixed, we will ask you when you can fix these. Any issues that have not been fixed should be included in your accessibility statement.
+
+The report and information on remaining issues and progress will be passed to the Equality and Human Rights Commission (EHRC) in England, Scotland and Wales or ECNI in Northern Ireland, who are responsible for enforcement of equality and non-discrimination laws.
+
+Periodically CDDO will publish information about what we have found from our monitoring. CDDO will also, on behalf of the Minister for the Cabinet Office, publish a list of websites with non-compliant accessibility statements.
+
+Disproportionate burden claims and assessment
+Organisations may claim disproportionate burden where the impact of fully meeting the requirements is too much for them. If a public sector body claims disproportionate burden they are legally required to carry out an assessment of the extent to which meeting the accessibility requirement imposes a disproportionate burden.
+
+We cannot offer individual advice on disproportionate burden assessments and organisations may want to seek legal advice.
+
+The assessment is a financial cost/benefit exercise and should consider things like:
+
+
+  how much the issue will cost to fix
+  the allocated spend on websites and mobile apps annually
+  how extra costs would impact the organisation’s budget
+  how many users the issue impacts if not fixed
+  benefits fixing issues would bring to users
+  how long this disproportionate burden will apply
+  if the site or service is procured or outsourced, how long the third party supplier is contracted for, and how much it would cost to re-tender or renegotiate the contract to fix accessibility issues
+
+
+Third party content
+If you have funded, developed or are in control of third party content, it is your responsibility to make sure that it is accessible.
+
+We understand that third party content may be harder to change. You should make sure your accessibility statement is updated to include any issues users may experience when using third party content on your website.
+
+Independent review
+An independent group will work with CDDO to ensure website users’ and their advocates’ views are heard.
+
+The group will include members from organisations who represent the interests of users with a wide range of access needs. They will review the outcome of the monitoring and feedback on aspects including sampling criteria.
+
+More information on the independent group will be available soon.
+
+Receiving complaints
+Complaints received through the Equality Advisory Support Service (EASS) for public sector bodies in England, Scotland and Wales, and the Equality Commission for Northern Ireland (ECNI) will be investigated by CDDO. If there are major accessibility issues with the website, it will be included within the monitoring sample.
+
+
+
+
+
+      
+        
+    Published 20 August 2020
+    Last updated 6 December 2021
+      + show all updates
+      
+        
+            
+              6 December 2021
+              We have provided more information about our sampling and assessment process to explain this better.
+            
+            
+              21 October 2021
+              This is an update for 2021 to remove content that is no longer needed.
+            
+            
+              28 April 2021
+              Organisation change from the Government Digital Service (GDS) to the Central Digital and Data Office (CDDO) and addition of 'Technical standard for digital accessibility' section.
+            
+            
+              20 August 2020
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Memorandum of Understanding: monitoring and enforcement of public sector website accessibility
+        How to produce accessible documents for DfT
+        Whitehall publisher 'social media policy' format
+        Whitehall publisher 'high profile group' format
+        Support for government publishers
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Content and publishing
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

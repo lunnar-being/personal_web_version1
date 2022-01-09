@@ -1,0 +1,122 @@
+
+
+The RAND Blog
+Previous Blog PostThe Coronavirus Puts a Spotlight on a National Security Supply CrisisNext Blog PostThe Quad Is Poised to Become Openly Anti-China Soon
+
+What Do Teachers Want to See in Automated Writing Evaluation Systems?
+commentary
+(eSchool News)
+Photo by Wavebreakmedia/Getty Images
+
+
+
+by Lindsay Clare Matsumura, Elaine Lin Wang, Richard Correnti, Diane Litman
+July 28, 2020
+
+
+Revising in response to formative feedback is a cornerstone of effective writing instruction. Providing substantive comments on stacks of student essays, however, is highly time-consuming for busy teachers. As a result, teachers can be reluctant to assign many essays that require students to produce multiple drafts or provide extensive comments on early drafts of students' writing.
+Automated writing evaluation (AWE) systems offer a promising approach to relieving the burden of giving formative feedback to students on their writing. These systems employ natural language processing technologies to provide automated feedback messages to students to guide their revisions.
+Despite the potential of AWE systems to support writing instruction, they have not been widely adopted by schools or teachers. Computer scientists and literacy researchers have been the main architects of AWE systems. Teachers, however, are the experts on managing the daily tasks of instruction, and their voices have largely been left out of the development of AWE systems. What do teachers want to see in AWE systems so that such technology can be integrated in their teaching, rather than “one more thing” added to their classroom schedules?
+We asked teachers this question in our research developing an AWE system called eRevise. eRevise provides automated feedback to improve fifth and sixth grade students' use of text evidence in their argument writing essays.
+
+Automated writing evaluation systems offer a promising approach to relieving the burden of giving formative feedback to students on their writing.Share on TwitterIn eRevise, students write an essay in response to one of two informational texts: One focused on the United Nation's Millennium Villages Project (Based on the article, did the author provide a convincing argument that “winning the fight against poverty is achievable in our lifetime?”), or a text about funding the space program (Did the author provide a convincing argument that we should continue to invest in space exploration?). Depending on how students respond in their first draft, feedback messages prompt them to add more examples from across the article, provide more details on the examples they used, or explain how their evidence supports their claims.What Teachers Want in AWE Systems
+We piloted eRevise in 32 classrooms serving students from diverse economic backgrounds. Our goal was to understand teachers' perspectives on the system, in addition to studying how students understood and responded to the feedback messages in their revision. Here is what we learned from teachers about the seven ways AWE systems, such has eRevise, could best support their teaching:Provide Timely Feedback
+All of the teachers we spoke with reported that eRevise was a timesaver and allowed students to receive feedback much more quickly than would be the case when teachers provide feedback by hand. This is helpful to students because it allows them to revise their essay while it is still fresh in their mind. Because it was a timesaver, teachers also told us that having access to AWE systems generally would increase the number of assignments they gave to students that require writing across drafts. This is important because, as we mentioned earlier, writing and revising in response to substantive feedback is critical to developing students' writing skills.Allow an Active Role for Teachers
+While teachers appreciated the timesaving aspect of eRevise, they also told us that they would prefer to partner with AWE systems rather than fully off-load the task of commenting on students' essays. Teachers especially felt that the option to layer on comments in addition to the automated feedback would be helpful to those students who need assistance interpreting a feedback message. One teacher said, “It would be good if teachers could go back to essays and could give additional feedback to help them decipher the generic feedback they get.” Teachers also told us that the option to go into the system would help ensure that students were receiving appropriate feedback. As one teacher told us, “I could see using [the system] to give a three-paragraph essay, using eRevise to generate feedback, and then I could go in and see what eRevise gave each student so I know what I'm looking for. I could spot-check more quickly because eRevise has already gone through and told me what to look for.”Align with State and District Standards
+Teachers thought that it was very important that the content of the automated messages in AWE systems be explicitly aligned with the writing standards they are held accountable for teaching. This is important for reinforcing their instruction by providing students with consistent messages about what good writing “looks like.”Be Compatible with Multiple Source Texts
+Teachers also expressed that AWE systems would ideally include a wide variety of prompts and source texts. This would provide them with more choice and flexibility in their instruction and allow them to use the systems across their literacy curricula. A wider selection of texts also would align AWE systems more squarely with writing standards that emphasize student engagement with both narrative and informational texts, as well as responding to multiple texts in an essay (not just one as is the case with eRevise). These teachers noted that the ability to synthesize information across multiple texts also is emphasized in some standards and is an important skill to master.Point Students to the Parts of Their Essays That Need Revision
+Teachers also expressed that AWE systems should point students to particular places in their essays to apply an automated message. Teachers thought that eRevise would be improved, for example, if the system highlighted parts of students' essays where they should add text evidence or more details. Teachers felt that without providing more localized guidance some students especially would struggle with figuring out on their own where in their essay a piece of feedback would apply. Providing localized guidance to students also would more closely mirror how teachers comment on students' essays, for example, circling or underlining parts the sections of essays that need improvement or writing comments in the margins very close to where revision needs to occur.Mark Success
+Many teachers commented that feedback to students in AWE systems would ideally include comments acknowledging how a student had met writing goals, as well as provide suggestions for improvement. Teachers want to let students know, for example, when they have written a catchy opening, made an especially insightful point, or used especially vivid language to make a point. Marking students' success is important for building motivation and internalizing the skills needed to critically evaluate one's own writing and could be as important for developing writing and revision skills as comments that point out areas for growth.
+Provide Dashboard to Monitor Student Progress
+Finally, some teachers expressed that a “dashboard” linked to AWE systems, for example, the feedback messages a student was given and their responses, would be helpful because it would provide a way to monitor students' progress. One teacher suggested a graphical display showing trends: “Maybe if there was some sort of graph with a trend. I can go around and I can see this person needs to work on reasoning…If it were in a bar graph, with a child's number, or had them grouped, that would be very beneficial to see the trends in the class.” Teachers felt that dashboard information also would help them provide individual help to students. As one teacher suggested, “A teacher dashboard to monitor student progress would be exceptional because that would allow higher students to work at their own pace. [As for] lower [achieving] students…I would be able to see who I need to pull for what; it could be implemented in RTI, in small groups.” A dashboard then could help teachers identify students who might be especially struggling with particular revision skills (e.g., identifying pertinent information from a source text) and thus allow them to target their instruction more efficiently.
+The potential for supporting teachers' daily work should be the priority for the design of automated writing evaluation systems.Share on Twitter
+In sum, the potential for supporting teachers' daily work should be the priority for the design of AWE systems. To achieve this, it is essential to listen to teachers' voices. We heard that teachers neither expected nor wanted a system to perform the entire work of giving feedback to students for them. Rather, they envisioned a system that reinforced standards-based instruction, integrating the speed and convenience of AWE with the expertise and personalization that teachers are in the best position to provide.
+This work was supported by the Institute of Education Sciences, Award #R305A160245.
+
+Lindsay Clare Matsumura is a professor in the University of Pittsburgh's School of Education and senior scientist at the Learning Research and Development Center (LRDC). Elaine Lin Wang is a policy researcher at the RAND Corporation. Richard Correnti is an associate professor in the University of Pittsburgh's School of Education and research scientist at the LRDC. Diane Litman is a professor of computer science at the University of Pittsburgh and a senior scientist at the LRDC. 
+This commentary originally appeared on eSchool News on July 22, 2020. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Elaine Lin Wang
+Policy Researcher
+
+
+
+
+
+
+Topics
+ Educational Program Evaluation
+Educational Software
+Literacy
+Teachers and Teaching
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Journal Article
+Erevis(ing)
+
+Feb 26, 2020
+Elaine Lin Wang, Lindsay Clare Matsumura, et al.
+
+
+
+
+
+
+
+
+
+
+Journal Article
+Erevise
+
+Feb 26, 2020
+Haoran Zhang, Ahmed Magooda, et al.
+
+
+
+
+
+
+
+
+
+
+Journal Article
+Automated Scoring of Students' Use of Text Evidence in Writing
+
+Feb 26, 2020
+Richard Correnti, Lindsay Clare Matsumura, et al.
+
+
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+
+        
+        
+        
+     a derecho swept through Iowa, bringing severe winds and significant precipitation across many parts of the state. Nearly 12 million acres of cropland in total were affected in some way, representing about 50 percent of the 24.7 million acres planted in Iowa in 2020.Many sources have published estimates of total exposure but there has been less focus on an
+end-to-end assessment of the actual damage sustained to crops. There are challenges to doing so given the extensive acreage involved, but satellite-based analytics are offering new ways to rapidly unlock these insights. More specifically, changes in satellite-derived vegetation indices, such as the normalized difference vegetation index, can be employed to assess damage to crop health from the storm.Analyzing satellite imagery, we estimate that 3.1 million to 3.8 million acres sustained physical crop damage (Exhibits 1 and 2). Of these acres, corn was most adversely affected, making up 80 to 90 percent of the total damage. Damage intensity varies among fields; satellite analysis allows us to segment the fields into two categories:
+    In these fields, crops had some deleafing or were bent, but production is likely only partially lost. About 2.6 million to 3.4 million acres (or 85 to 90 percent of damaged acres) fall into this category.
+    In these fields, crops were completely stripped or broken by the storm. We estimate that about 0.3 to 0.6 million acres (or 10 to 15 percent of damaged acres) fall into this category.
+
+    
+The full impact on crop yield from the derecho  is difficult to predict and depends on several factors, including:
+    There are ways to harvest flattened corn but it can be tedious and tends to have higher bushel loss.
+     If breakage happened at the bottom of the stalk, then yield is likely fully lost. Breakage closer to the ear development area will have some impact on yield but not likely full loss.
+    The severity of crop stress will directly dictate how much of the damaged crop recovers or degenerates in the coming weeks.
+
+    
+Despite the many questions that will define yield impact, we have developed three potential scenarios (Exhibit 3) that vary by the extent of production loss on damaged fields: 25 percent, 50 percent, and 75 percent.
+    
+At the low end, scenario one could cost growers $600 million to $700 million in revenue loss at current corn and soybean commodity prices (not accounting for crop insurance). At the high end, scenario three could cost farmers $1.5 billion to $1.8 billion. While none of the scenarios spell total loss for Iowa, the derecho will clearly have a meaningful financial impact on farmers and  the economy.All estimates were generated in collaboration with Descartes Labs, a geospatial analytics platform provider, through analysis of satellite imagery
+(MODIS, Sentinel-2, and Sentinel-1) and tracking major drops in crop health indices. Results were validated by select field walk-throughs.

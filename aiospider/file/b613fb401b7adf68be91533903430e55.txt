@@ -1,0 +1,165 @@
+
+  
+    
+      Capital expenditure
+
+    
+
+      
+        
+  This sections provides information on capital expenditure for schools
+
+      
+        
+          
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+      
+        
+          
+            CE01: acquisition of land and existing buildings
+          
+        
+        
+
+    Includes:
+
+  cost of land acquisition including fees and charges related to the acquisition
+  cost of acquiring existing buildings, including fees and charges related to the acquisition
+
+Excludes:
+
+  construction of new buildings (see CE02)
+
+
+
+
+      
+        
+          
+            CE02: new construction, conversion and renovation
+          
+        
+        
+
+    Includes:
+
+  cost of new construction, including fees
+  cost of conversions and renovations 
+  costs of extension to existing premises
+
+Excludes:
+
+  cost of land and existing buildings (see CE01)
+  costs for conversion and renovation under the school’s de minimis threshold - this is revenue spending (see E12)
+
+Further information
+Expenditure from this heading can be benchmarked alongside E12 and E13 to provide an overall picture of expenditure on buildings and grounds at the school.
+
+
+
+      
+        
+          
+            CE03: vehicles, plant, equipment and machinery
+          
+        
+        
+
+    Includes:
+
+  any capitalised expenditure, including the acquisition, renewal or replacement of vehicles, equipment or machinery to be used at the school
+
+Excludes:
+
+  capital expenditure on ICT equipment (see CE04)
+  leasing costs – schools are not allowed to enter into finance leases, and all operating lease costs are revenue
+
+
+
+
+      
+        
+          
+            CE04: information and communication technology
+          
+        
+        
+
+    Includes:
+
+  purchase of computer hardware and software where these are to be capitalised
+
+Excludes:
+
+  where costs of ICT consultancy can be identified separately, they should be allocated under the specific revenue expenditure groups (see E27 to E28)
+  costs of training for staff in the use of ICT systems (see E09)
+  leasing costs – schools are not allowed to enter finance leases and all operating lease costs are revenue
+
+Further information
+Small purchases should not be capitalised. Your local authority should advise on an appropriate (de minimis) value, below which transactions should be charged to revenue.
+Illustrative example:
+
+  a local authority sets a de minimis level of £2000
+  a school buys one computer costing £500 – revenue expenditure
+  a school buys five computers costing £500 each, or £2,500 in total – capital expenditure
+
+
+
+
+
+        
+  

@@ -1,0 +1,1 @@
+To develop and demonstrate a reversible solid oxide cell (RSOC) based on a compact and low-cost stack architecture that incorporates high performance and fuel-flexible reversible cells.

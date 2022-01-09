@@ -1,0 +1,54 @@
+    
+
+
+
+ across the United States, colleges have been forced to adjust their plans almost daily. As of late August 2020, just one-fifth of colleges in the United States were planning to return to campus fully or primarily in-person,
+
+
+ with the balance either undecided or planning for hybrid, online, or other remote teaching models. Already, several colleges have had to rapidly shift to 100 percent remote instruction following local COVID-19 outbreaks.
+    
+    
+Last spring, as colleges were forced to move to remote models from one day to the next, the focus was on  to finish the academic year. As restrictions on in-person learning extended through the fall, the imperative shifted to building the capability to provide a robust remote offering for the longer term. This need for remote learning has expanded interest in developing or scaling proper online education, leveraging the best practices learned from a set of institutions that have successfully implemented this educational model.In this article, we briefly outline trends in online higher education over the past decade. Then, we review five critical lessons from leading online institutions that could help every university improve and scale their online offerings. The marketplace is moving quickly, so institutions of higher learning must act now.The shift to online: At first a trickle, and now a floodEven before the COVID-19 pandemic, online education was a driver of growth in higher education. As traditional enrollment in postsecondary institutions continues to decline, distance learning has increased by around 40 percent in five years, from 2.2 million students in 2012 to 3.1 million students in 2017. While some students studied online exclusively, more took a combination of online and in-person courses. Before the pandemic hit, roughly one-third of students had taken at least one online course.
+
+
+However, this growth was unevenly distributed. Big institutions such as Southern New Hampshire University (SNHU), Western Governors University (WGU), and Arizona State University (ASU) accounted for around 10 percent of the growth, building national brands for online higher education that set them apart from their peers (Exhibit 1).
+    
+A trend that was playing out over a decade was then compressed into a semester. While many students will likely return to in-person learning when it is safe, others may stay remote for the long term, raising the
+stakes on building sustainable offerings, not just stopgaps. Indeed, GSV Ventures, a venture-capital fund focusing on digital education, forecasts that “online-first pedagogy will become normalized for virtually every college student” and all growth in higher education until 2030 will happen online.
+
+
+ The imperative is clear: every university should build a robust online offering, and fast.Taking the plunge: Standing up online programsWe interviewed leading online universities to understand what it takes to plan and implement quality online programs in higher education. We identified five key success factors.Develop a student-centered approach“The secret sauce to our success is our student-advising operation,” says Paul LeBlanc, president of SNHU. Leading institutions agree with this statement and have developed online strategies with one main objective in mind: support students to successfully complete their programs. Institutions have put in place three types of student support mechanisms to achieve this goal:
+     ASU and SNHU use personal success coaches and academic advisers to help students navigate admissions, enrollment, degree selection, and course requirements. Counselors also employ predictive analytics to identify students at risk of struggling academically and provide the required interventions.
+     Part of student success relies on developing strong ties with faculty and peers. To ensure student engagement, Pennsylvania State University and SNHU have introduced personalized feedback sessions between faculty and students, enhanced peer-to-peer interactions through video calls, access to in-person networking events, and development of online
+    communities (for example, an honors society).
+     State University of New York and ASU installed a 24/7 IT concierge service that helps students with technical questions related to course access, course materials, and software.
+Invest heavily in marketingThe biggest players spend heavily on marketing (Exhibit 2). Institutions with the largest online enrollment have marketing budgets similar to fast-growth tech and digital-retail companies. We found a positive correlation between share of voice and market share; in other words, the more an institution spent on marketing, the higher its market share. This highlights the role of marketing in spurring enrollment.
+    
+Two-thirds of students complete their first application within four weeks of starting a search for online programs. Leading institutions recognize that online students move faster in their decision-making process than their peers in the in-person applicant pool and have seamlessly integrated their marketing efforts with enrollment departments. Students not only move faster during their application process but also expect to receive timely information on financial aid and transferring credits when finalizing enrollment. The Online College Students report shows that within two weeks of having applied, 71 percent of online students expect to find out how to transfer previously earned credits, while 66 percent expect to receive an estimate of their financial aid award.
+
+
+To enable a seamless application and enrollment process, SNHU established a team of 275 admissions representatives that follow up with interested students within two minutes of a query. It also uses a credit-transfer team that supports students tracking down the necessary transcripts for a small fee. The university recognizes that time-sensitive adult learners are the target of its programs and require a streamlined application and enrollment process. Involve faculty early and enable academic staff to launch successful programsHelping faculty develop successful online programs comprises two areas of support: 
+     In our interviews, faculty members cited fear of time commitment and lack of recognition for remote teaching when asked to develop an online offering. Universities have added monetary and nonmonetary incentives to address those issues. University of Central Florida provides faculty with stipends and time for instructors to pursue the training required to develop and launch quality online courses. Similarly, Pennsylvania State University gives faculty the same credit for developing and teaching remote courses that they would receive for teaching in-person programs. The latter is aimed at addressing the perception that online classes are inferior to in-person courses.
+     We identified a series of best practices that some universities have put in place to support faculty, from the assessment of the idea to quality assurance when launching an offering:
+    
+    
+Establish an online organization with clear accountabilityWhen defining the organizational structure required to carry out and grow an online program, institutions reported following three guiding principles (see sidebar, “Choosing an appropriate operationalization model”):
+        
+
+
+    
+    
+     with budget responsibility and decision-making power, that is responsible for executing the online program. 
+     to ensure that implementation meets student needs and provides the support faculty requires to develop quality programs. Most of the public institutions interviewed reported having the online organization under the provost as a mechanism to enable faculty to take a leadership role in shaping the organization’s value proposition. 
+     and ensure standardized practices are put in place to meet these targets. Examples of standardized practices include a vetting system to assess financial viability of new programs along with a clear resource-allocation framework for course development. 
+Adjust standard operating procedures to align with the needs of frequent online start options and shorter termsOnline programs that scale rapidly typically offer concentrated learning modules of six to eight weeks. They have multiple, staggered start options ranging from four to six in a given year (for example, January, March, May, June, August, and October) to provide several flexible entry points for target audiences. August and January are the most popular and have the highest enrollment of the start options. Most traditional university programs offer only fall, spring and, in some cases, summer admissions cycles. The multiple-starts approach has important implications for several teams involved with the operations and student life cycle, including:
+     Six application-processing cycles, with shorter turnaround times compared with schools that have three traditional cycles.
+     Digital and print advertising must be rapidly readjusted and relaunched for each of the six starts.
+     Turnaround and application-processing times ramp up with significant spikes in activity in the five days before the admissions deadline versus traditional admissions cycles, in which financial aid processing is typically completed several months before the deposit deadline.
+     Advisers and counselors must get accustomed to digital responses, broader availability, and proactive outreach to address motivation and persistence.
+Universities that operationalize online programs successfully also take into account these adjustments:
+    appointing people dedicated to directing online operations within their respective teams
+    instilling a strong customer-focused view in colleagues who support online operations
+    tweaking the school calendar to be flexible for the variations needed with multiple starts (for example, flexible work hours over the holiday break to ensure support for the January launch)
+    creating buffer capacity in their teams to address spikes in activity just before and after a new class start compared with traditional enrollment cycle activity
+The transition to any form of online education is a major effort. In the past, universities could choose whether to invest in a first-rate online offering. Now, they have little choice, and they need to act fast. The good news is that there is plenty of experience from which to draw and build. Universities that take these lessons to heart can create or scale an online offering that will not only carry them through the pandemic but also set them up for success in a post-COVID-19 higher-education world. 

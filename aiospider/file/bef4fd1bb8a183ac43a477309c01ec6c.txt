@@ -1,0 +1,142 @@
+    
+
+
+
+ on the imperative to decarbonize the global economy in order to mitigate the significant physical, economic, and societal risks from climate change.
+
+
+ Clarity is also emerging about the pace and possible pathways that would enable the world’s energy and land-use systems to become compatible with net-zero emissions by 2050.
+
+
+As a system-level problem, tackling climate change will require incentives, investment, ingenuity, and unprecedented levels of cooperation. For example, moving to hydrogen-based trucking would need to be a continent-wide decision, with coordinated timing of the necessary standards, regulations, fuelling infrastructure, operator training, and so on. Efforts from all stakeholders—international institutions, governments, businesses, non-governmental organizations, and individuals—are involved in delivering the global net-zero transformation. McKinsey’s recent report, “Net-Zero Europe: Decarbonization pathways and socioeconomic implications”, illustrates some of the actions that different stakeholders may need to take.
+
+
+This article offers a complementary perspective, considering a narrower question: what are the concrete opportunities for UK businesses arising from the transition to net zero, for whom, and where?
+
+
+ After all, while many businesses are leading on climate change for reasons of principle, and several will be compelled to change their business model to avoid the risks arising from climate change legislation, many others are likely to respond to market opportunities for more, or more profitable, sales of their goods and services.
+
+
+ This article seeks to quantify and illuminate those opportunities, focusing on UK businesses and the timeline from now to 2030—the so-called “decade of delivery.”
+
+
+
+        
+
+
+    
+    Many UK firms could use decarbonization as a spur to reduce their costs, increase their revenues, optimize their capital structure—or all three. (See sidebar, "Creating value from the net-zero transition: the fundamentals".) Based on this logic, we have analyzed the broad shape of the opportunities available to UK businesses, sector by sector. The analysis presented here is an overview; readers are invited to explore more specific and in-depth perspectives in McKinsey’s online collection, “Insights on Sustainability.”
+
+
+The rest of this document discusses the three main types of opportunities that emerge for businesses to create value from the climate transition (Exhibit 1):
+    
+    
+    
+
+    
+Reducing costs by reducing companies’ own emissionsOur analysis shows that a quarter to a third of the potential UK climate-change mitigation investments by businesses in the 2021-2030 timeframe are likely to have a positive net-present value (NPV), especially for transport-intensive firms.The opportunities from decarbonizing businesses’ own operations tend to be concentrated in a few sectors—namely agriculture, oil and gas production, mining, utilities, manufacturing, and transport. These sectors generated 84 percent of GHG emissions in the UK in 2019, even though they account for just 14 percent of UK companies, 18 percent of employment, and 19 percent of gross value added (Exhibit 2). We estimate that around 85 percent of all business emissions reductions, and two thirds of UK’s overall emissions reductions, will need to come from these sectors by 2030.
+
+
+
+    
+However, that doesn’t necessarily mean that these climate mitigation actions are profitable—or “in the money”—for the companies themselves. In fact, on a cost-optimal pathway to net zero, only around a quarter to a third of the climate mitigation actions required by 2030 currently have a positive standalone business case, absent subsidies.
+
+
+ Among these are energy-efficiency improvements in heavy industry, often enabled by modern technology. For example, one cement plant’s application of artificial intelligence in its autonomous mode resulted in throughput improvements—and corresponding emissions and energy cost reductions—of up to 10 percent.
+
+
+Across the whole economy, many of the investments with positive net-present value in the near term are related to zero-carbon mobility. In the European Union (EU), where our colleagues have modelled climate mitigation options in more detail, more than two thirds of the positive business cases are in transport-related activities.
+
+
+ The picture for the UK is likely to look similar, albeit with some nuanced variations due to the country’s slightly different decarbonization pathway. For example, the contribution of emissions reductions from transport might be even more important than in the EU, as heavy industry and agriculture make up a smaller proportion of the UK’s economy.However, the fact that the near-term opportunities are concentrated in transport does not mean that they apply only to businesses in that sector. For example, in 2019, Scope 1 (direct) transport emissions accounted for 70 percent of retail, 41 percent of wholesale, and 72 percent of the specialized construction sectors’ GHG emissions, respectively. Other businesses, too—notably in the oil and gas, waste collection, agriculture, and manufacturing sectors—are significant emitters of GHGs from their own transportation activities (Exhibit 3).
+    
+While carbonless solutions with positive business cases for trucks and lorries are still in the development phase, businesses could already generate cost savings by improving operational efficiency and switching to electric vans or car fleets.
+
+
+
+
+
+ For example, we estimate that the total cost of ownership for light electric vans in the UK in 2021 was already lower than for equivalent diesel vans in many use cases.Producing goods and services to feed the green capex revolutionA worldwide net-zero transition is likely to be capital-intensive. Consider energy systems—the source of around 60-70 percent of global emissions.
+
+
+ The International Energy Agency estimates that the total capital investment into low-carbon energy systems and industrial processes on a net-zero pathway could be approximately £25 trillion between 2020 and 2030.
+
+
+ On this pathway, total energy-sector investments would increase from around 2.5 percent to around 3.5 percent of global GDP.Overall, we estimate that the capital expenditure into low-carbon assets in the world’s broader energy, transport, food, and land-use systems could be around £40-50 trillion in the period 2021–2030.
+
+
+ The global market opportunity for UK companies producing the goods and services to feed this green capex revolution could be worth more than £1 trillion by 2030.
+
+
+ Manufacturing, construction, professional services, information and communication, and financial-services firms—mostly operating in the business-to-business (B2B) space—are among the likely beneficiaries, as long as they reconfigure their offerings to meet the requirements of the net-zero transition.An estimated 80–90 percent of the demand for green capital equipment, transport solutions, building works, and infrastructure is likely to emerge outside of the UK and the EU, including in the world’s largest economies such as China and the United States. On average, the UK’s starting point for providing the goods and services for this net-zero market is not very strong. British businesses’ share of global value added from selling capital equipment and services, such as machinery or electronics, is only 2.5 percent, compared to their share of world exports and global GDP of around 3 percent (at market exchange rates).However, there are some sectors where the UK punches above its weight. It is well known that the UK has a comparative advantage in exports of financial services, professional, scientific and technical services, information and communication services, pharmaceuticals, and aerospace equipment.
+
+
+ It turns out that many of these sectors are also prime providers of inputs into capital projects, such as building offshore windfarms, reinforcing grid infrastructure, designing more carbon-efficient buildings, or greening transport systems. Moreover, UK-based companies are well positioned in several of them (Exhibit 4).
+    
+Take professional and administrative services. Perhaps not the first thing one would think of when imagining the huge physical transformation anticipated on the net-zero pathway. Nevertheless, these sectors are significant suppliers to the world’s capital projects and exhibit an area of UK competitive strength: the UK’s share of the market, at around 4 percent, is well above its average share of 2.5 percent across all sectors. Scientists, engineers, architects, project managers, lawyers, accountants, contract negotiators, quality controllers, recruitment consultants, and many other professionals are involved in designing and installing green capex. For example, the UK-based firm PLP Architecture recently won a major competition to realize Parco Romana, an urban-scale redevelopment project in Milan centered on sustainability.
+
+
+Information technology, including computer software and related services, is another promising area of future growth for UK businesses seeking to win a share of the global market for green capex. Globally, this sector sold £1 trillion worth of capital services in 2020, and the UK has a higher-than-average market share of 4 percent. Creating the digital systems to monitor and operate tomorrow’s low-carbon infrastructure could generate revenues of £120 billion for UK-based businesses in the period up to 2030. For example, offshore windfarms will require a combination of sensors, mobile communications, advanced analytics, and artificial intelligence to optimize their operation and maintenance.In contrast to services sectors, British manufacturers have, on average, a more limited role at present in supplying goods into the global capital-formation process. This reflects the UK’s poorer productivity and cost competitiveness in more labour-intensive, lower-valued-added manufacturing sectors, as well as some weaknesses in domestic value chains.
+
+
+ Nevertheless, the future market for zero-carbon-compatible equipment is such that UK manufacturing businesses could capture sales of more than £200 billion in the period 2021 to 2030. Specifically, the CBI suggests that there are material opportunities for British companies in battery manufacturing, electric vehicles, electrolyzers, and components (such as cable systems) for offshore wind.
+
+
+Indeed, globally, manufacturing is the largest sector supplying capital goods and services; the worldwide value added accruing to manufacturing firms from capex investments in 2020 was around £5 trillion. Manufactured goods also tend to be relatively tradeable across borders, so superior products made anywhere can access a large international market. And the plant, equipment, vehicles, and other manufactured goods required in a net-zero economy are materially different from their current incarnations (Exhibit 5).
+    
+This means that manufacturing companies’ current market positions need not be decisive of their longer-term future. In fact, some of the emerging success stories are start-ups that did not exist five or ten years ago. Northvolt, the Swedish company founded in 2016, is already one of Europe’s largest battery manufacturers and is planning to expand its production to 150 GWh by 2030—a roughly threefold increase from its earlier target of 40-60 GWh.
+
+
+ It is not alone: in 2020, EU-based cleantech start-ups raised more than €5 billion in funding, a sevenfold increase since 2011.
+
+
+Finally, enabling the financing of all this capital expenditure is likely to create opportunities for the UK’s financial-services industry. From complex project financing, to clean-tech venture capital, to investment analytics, to green bond issuance, to carbon-offset trading and beyond, new markets are emerging to meet increased interest in green savings and investment products on the supply side, and debt and equity for decarbonizing organizations on the demand side. For example, we estimate that demand for carbon credits could increase by a factor of 15 or more by 2030, with the overall market worth upward of $50 billion in 2030.
+
+
+One area where UK financial services companies are expected to play a significant role is the growing market for green bonds. Despite the COVID-19 pandemic, global new issuances in 2020 were nearly $300 billion, with more than 600 issuers from more than 50 countries.
+
+
+ Governments and government-backed entities drove the majority of this volume, but the number of corporate bonds has also been increasing. In 2020, for example, a consortium of financial institutions worked with Cadent, the UK gas distribution firm, to create and issue a green “transition bond” to fund the upgrading of Cadent’s networks. The project will reduce methane leakage and enable the pipelines to be used for hydrogen and other green gases.
+
+
+Enabling others in the value chain to reduce the carbon-intensity of their production and consumptionThe opportunities outlined above are most material for B2B companies that are either carbon-intensive themselves or supply capital goods and services to the world’s energy, transport, and land-use systems. Where does this leave consumer-facing businesses? And what about decarbonization of the upstream supply chain? These are further areas where businesses are already creating value.The most notable example is the burgeoning number of new, sustainable brands in food, beverages, apparel, cosmetics, and household products, where innovation-led end-to-end decarbonization of the supply chain is allowing businesses to create distinctive and profitable value propositions. Granted, these brands are often about more than GHG emissions. Some services, such as car sharing, offer additional convenience; and many products, such as upcycled fashion, emphasize other sustainability criteria as well, such as water management, biodiversity, or air quality.While not every consumer is attracted to these offers, they make up a large and growing market. In US consumer-packaged goods, sustainability-marketed products accounted for 16 percent of sales in 2019 but grew seven times faster than other products in the period from 2015 to 2019.
+
+
+ Around 50 percent of US consumers say that they are willing to pay a premium for sustainable products.
+
+
+ And in a recent consumer survey, 60 percent of respondents said that they had gone out of their way to buy products in environmentally-sustainable packaging.
+
+
+These trends are starting to be reflected in financial markets, too. Impossible Foods, a plant-based meat company in the United States, took its total funding to nearly $1.5 billion by raising an additional $200 million in its latest financing round in 2020.
+
+
+ Oatly!, the plant-based dairy company that reported revenues of $420 million in 2020, and went public in 2021, had a market capitalization of around $9 billion at the beginning of October 2021.
+
+
+Companies marketing their products and services as sustainable are typically required (either by regulators or customers) to back up their brand promise with genuine improvements. Identifying new markets for green growth thus involves not just an understanding of customer preferences, but also the opportunities to eliminate waste, pollution, and emissions, up and down the value chain.The case of a home-goods producer illustrates the potential to reduce value-chain emissions to buttress sustainability credentials. This company analyzed all options for raw-material sourcing, modelled the prices, costs, and environmental impact for each solution, scrutinized business cases for the most promising options, created go-to-market strategies for each product, mobilized its R&D, procurement and marketing teams to drive implementation, and developed a supplier decarbonization playbook and program. As a result, it was able to shift from virgin feedstock to raw material derived from recycled plastics, CO and biowaste, and is on track to reduce its total carbon footprint by 1 MtCOe per year.These opportunities need not be confined to manufacturing. Several consumer-facing service businesses—ranging from retail and hospitality to finance and insurance—have downstream customer bases that may be attracted to sustainable value propositions and could certainly do with help in reducing their own direct emissions (Exhibit 6). The financial incentives or regulatory requirements for households to decarbonize in the UK have been fairly limited to date, due in part to relatively low post-tax fuel and carbon prices, but these are likely to increase when new policies are put in place to meet the UK’s net-zero commitments.
+    
+Some UK companies could also achieve significant progress in reducing upstream emissions (Exhibit 6). An example of a transformational approach comes from the plastics industry: one company assessed the full range of potential decarbonization initiatives across its entire value chain, and prioritized them based on impact, cost, and risk. That led to the realization that moving to a more circular business model—with a sixfold increase in recyclables as a share of its products—was by far the most effective way to meet its sustainability ambitions. In addition to greening its power use, the company is on track to deliver a 10-15 percent reduction in its Scope 1 emissions.Upstream opportunities are also likely to be relevant for construction, retail, hospitality, and financial-services businesses, all of which buy goods and services from GHG-intensive sectors. In the case of construction, this would mean reducing emissions in their energy, materials, and transport supply chains. For hospitality, the opportunities would likely be on farms and with food-and-beverage suppliers, while financial-services firms could, for example, reduce their carbon footprint by addressing their indirect transport emissions.Seizing the green value-creation opportunity
+        
+
+
+    
+    The analysis above provides a rough map of where to search for the most immediate opportunities, by type of business. With this knowledge, business leaders can take a number of steps to drill into more detail, weigh up options, make decisions, test out and implement strategies, and put in place the longer-term capability to thrive in a net-zero economy.We suggest three concrete actions that UK companies can take now to uncover, and seize, the priority opportunities to create value from decarbonization:1. Understand the implications of current and future GHG regulationThe policies that will ultimately incentivize all actors to move down a net-zero pathway are not yet in place. Most likely, they will vary by country and region, sector, application, and so on, and will be a mix of price instruments, subsidies (for example, for R&D), regulations, standards, coordination, and government procurement. Businesses that are serious about the economics of climate change for their own bottom line would do well to understand the implications of this complex regulatory environment, both now and in the future. In many cases, the Board and C-suite will need to invest in strengthening their understanding of the fundamentals of climate-change policy—as well as the consequences for their businesses.A powerful exercise that leaders can consider is a quantitative assessment of their company's current operating model against the assumption that the effective price of GHGs will be embedded into their cost structures—and that of their customers, competitors, and suppliers—in the future. It won’t be possible to know exactly what these effective prices will be, but it is possible to estimate a range and to test the sensitivity of the company’s profitability and investment decisions to a set of scenarios. For example, analysis suggests that a carbon price in the range of £40-100 per tCOe in the short term could be consistent with the UK’s net-zero commitments, with the required carbon price potentially rising to £100-£300 by 2050.
+
+
+
+
+
+Such an exercise will throw up threats—in the form of increased costs, sometimes in unexpected places—but also opportunities. For example, in markets where competition is primarily based on price, an increase in carbon prices will tend to raise the costs of the least efficient players the most. All other things equal, this means an increase in margins for more efficient operators. However, the second- and third-order dynamics in such situations are often complex (for example, if customers shift to alternative products or competitors go out of business). This further emphasizes the need to understand carefully the business implications of the coming green transition.2. Identify and implement abatement options that are “in the money”, for your business, your suppliers, and your customersJust like the home-products and plastics manufacturers described above, all businesses need a tailored map of where their profitable decarbonization opportunities are today, and where they might come from in the future. A key element in this map is an assessment how new technology could be used to reduce abatement costs. With the continued evolution of both technology solutions and the regulatory environment, such an exercise is not necessarily a one-off. Depending on the materiality of the issues, a company may need to invest in the capability to continually update their portfolio of actions to reduce GHGs and benefit from expanding green markets.One big lesson learned by companies that have already been on this journey for some time—often in power generation or heavy industry—is that meaningful GHG reductions typically involve the wider ecosystem of suppliers and customers. Businesses that are able to identify win-win opportunities will be in a prime position to shape the competitive landscape. Those opportunities might include providing technical assistance to SME suppliers or customers, or agreeing to new industry standards to shift to more green operations. Shaping the ecosystem will mean looking well beyond the boundaries of the company’s own emissions.An illuminating example comes from the retail sector. A global retailer achieved up to 20 percent cost savings for its suppliers, and a 20 MtCOe per year emissions reduction, through a concerted program to identify resource-efficiency opportunities across its supplier base. The program consisted of an overview analysis of improvement levers, a pilot program to create training materials and refine on-the-ground opportunities, the roll-out of a training program to more than 900 suppliers through waves and hands-on technical sessions, and tracking of implementation and results.3. Lean into the innovation opportunities for the futureSeveral studies have broadly identified the new technologies that will need to be developed, demonstrated, and scaled up to deliver a net-zero outcome for the globe.
+
+
+ The good news is that a large proportion of these technologies—such as electric cars, wind farms, and solar panels— already exist and are being deployed at scale. The rather more challenging news is that another large proportion—for example, biofuel-powered aircraft, carbon capture and storage, or low-emission steel substitutes—are still in the research, development, or demonstration phases. In Europe, some 40 percent of the abatement required by 2050 is to be delivered by technologies that are not yet ready for large-scale adoption.
+
+
+Governments around the world are acutely aware of this technology readiness gap and are offering various incentives and grants for businesses, scientists, and broader collaborations to keep pushing the boundaries of what is feasible physically, through engineering feats, and how net-zero solutions could be made more cost-effective. For businesses, proven ways of enhancing the likelihood of innovation success include partnering with universities; tapping into applied research centres; hiring science, technology, engineering, and mathematics graduates; and working with the company’s most innovative customers and suppliers.
+
+
+Businesses can also play an active part in visioning and shaping the full low-carbon ecosystem required and encouraging other stakeholders to take the actions needed to deliver it. In the UK, the Coalition for Negative Emissions is doing just that, by deploying the expertise of its diverse membership base to scale up the market for carbon removals—the business of removing greenhouse gases from the atmosphere. Solutions include nature-based projects such as reforestation, but also engineered removals like biomass energy with carbon capture and storage (BECCS) and the direct air capture of CO (DAC).
+
+
+The transition to a net-zero economy is happening. Businesses will play a vital role in helping deliver it. They should not just wait for change to be mandated by governments and regulators. Instead, they would be well placed to identify, shape, and invest in, the propositions that are already profitable and the growth opportunities emerging in the future.

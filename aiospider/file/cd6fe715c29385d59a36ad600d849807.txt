@@ -1,0 +1,449 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    NHS population screening programmes: digital information
+  
+
+  
+  
+  
+      
+  This provides details for screening providers on moving from printed leaflets to digital alternatives.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Public Health England
+
+      
+      Published
+      4 January 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+    
+      Applies to England
+
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction
+
+        
+        
+          Antenatal and newborn (ANNB) screening digital information
+
+        
+        
+          Abdominal aortic aneurysm (AAA) screening
+
+        
+        
+          Diabetic eye screening (DES)
+
+        
+        
+          Bowel cancer screening
+
+        
+        
+          Breast screening
+
+        
+        
+          Cervical screening
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Introduction
+
+Public Health England (PHE) is supporting the NHS to provide more screening information to the public digitally rather than using printed leaflets. This is because:
+
+
+  it is part of the government’s ‘digital by default’ commitment
+  we want to meet public expectations for digital information
+  digital information can be more engaging and better tailored to the individual
+  we can save money that could be better used elsewhere
+
+
+Digital information has also been particularly beneficial during the coronavirus (COVID-19) pandemic, when face-to-face contact between the public and health professionals has been greatly reduced.
+
+We have created digital alternatives for information on the NHS population screening programmes to help local providers reduce the amount they spend on printed leaflets. However, we remain committed to making sure people with no online access are not disadvantaged – by following our guidance, local providers can make sure these people still get the information they need.
+
+Our approach is supported by an independent digital equality impact assessment carried out by Citizens Online.
+
+We also publish regular blog articles with information about the move to digital screening information.
+
+Providers should manage leaflets effectively as they transition to digital information to avoid stockpiling or wasting stock.
+
+Benefits of HTML
+
+HTML is a digital-by-default alternative to other document formats, such as PDF and Word, and have many benefits. They are:
+
+
+  more accessible for people who need some extra help with the content
+  better for reading on smaller screens – the content automatically adjusts to the screen size
+  easier to find – all text is searchable from an internet search engine
+  easier to navigate within and between documents
+  more interactive – it can include other types of content, such as videos
+  easier to keep up to date
+
+
+Being more accessible means that HTML:
+
+
+  is much better for people who use assistive technologies, such as screen readers that speak the text
+  can easily be adjusted using browser settings to change text size or colours
+
+
+PHE Screening has more information on HTML publications, including how to print and save documents.
+
+Additional support
+
+For more information and advice on switching to digital information, contact the PHE Screening helpdesk.
+
+Antenatal and newborn (ANNB) screening digital information
+
+Following user research and a successful pilot, maternity services at many NHS trusts are now signposting women to the digital version of screening tests for you and your baby (STFYAYB) as business as usual.
+
+The digital version includes a 2-minute animation, providing an overview of screening that many midwives show women during booking discussions.
+
+Read a full report of the ANNB screening digital information pilot:
+
+
+  
+      
+  
+  
+    Antenatal and newborn screening digital information early adopter site evaluation report
+    
+        PDF, 1.96MB, 36 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+By 31 March 2021, all local ANNB screening providers should:
+
+
+  direct women to the digital version of STFYAYB, by default
+  only hand out printed copies of STFYAYB to people who are not online
+  
+print out any digital HTML leaflets (or sections of leaflets) locally, if required for people who cannot access digital information
+
+
+The digital version of STFYAYB is now available in English and 12 other languages.
+
+Resources are available to support providers moving from printed to digital information, including a:
+
+
+  20-second video, images and tips for social media
+  cascade training presentation for midwives
+  generic booking appointment letter template
+  standard website, booking email and SMS text
+
+
+We recommend providers review the screening information on their websites to make sure it links to the new digital information. As well as the standard website wording we provide, you can also embed the animation on your own website – local IT services should be able to help with this.
+
+Providers who use an external company to produce ‘booking packs’ of information for pregnant women should tell them printed copies of STFYAYB are not to be included.
+
+To ensure women who can’t access information online are not disadvantaged, a small number of printed copies of STFYAYB can be ordered from APS. Providers will not be able to order more than 10% of previous volumes.
+
+You can also order free posters and business cards from APS which contain QR codes and web links to the digital version of STFYAYB. These posters are ideal for antenatal waiting areas, delivery suites and postnatal wards. The business cards are ideal for face-to-face booking appointments where a woman does not have her phone and needs to access the digital information later on.
+
+All ANNB screening digital information is grouped together in 2 document collections on GOV.UK:
+
+
+  screening in pregnancy leaflets
+  newborn screening leaflets
+
+
+Guidance on how to print digital leaflets is also available.
+
+In future, all PHE national screening information leaflets will only be available in HTML format.
+
+Screening providers can continue to order printed copies of any leaflet from APS until stocks run out – but all providers should be transitioning to using the digital versions.
+
+Advice for screening coordinators
+
+If you’re a screening coordinator:
+
+
+  make sure your midwives are comfortable in signposting women to digital information
+  get regular feedback from your midwives to check how things are going and whether they need any additional support
+  work with your colleagues across newborn screening to share your approach so they can also signpost women to digital screening content
+  
+modify your leaflet standing orders so you do not end up with too much stock
+
+
+Please do not:
+
+
+  post hard copies of the STFYAYB leaflet to women unless they really need one – for example, due to lack of internet access or digital skills
+  make assumptions about women not wanting digital information – our evidence shows women overwhelming want digital content and are generally confident in accessing it
+  assume you need to make time-consuming local IT changes before you can start providing digital information – getting the links onto websites and local IT systems can come later
+
+
+Abdominal aortic aneurysm (AAA) screening
+
+Local AAA screening services should:
+
+
+  continue to send out printed leaflets with screening invitations to men in their 65th year
+  
+    direct men who are online to the digital versions of the screen-positive leaflets:
+
+    
+      your screening results: you have a small AAA
+      your screening results: you have a medium AAA
+      your screening results: you have a large AAA
+    
+  
+  give out locally-printed copies of the screen-positive leaflets to men who are not online and require them (guidance on how to print digital leaflets is available)
+
+
+An A4 poster is available to help local providers begin using the digital materials. The poster includes:
+
+
+  QR codes linking to the digital leaflets
+  details of how to save the digital leaflet to smartphone home screens
+
+
+The poster also links to the digital version of the AAA screening invitation leaflet for men who have mislaid their printed copy or prefer information in a digital format.
+
+A limited number of these laminated posters can be ordered from APS for display at screening clinics. Individual orders are limited to a maximum of 15 copies.
+
+Diabetic eye screening (DES)
+
+Local DES services should:
+
+
+  use the national invitation and result letter templates
+
+  continue to send a copy of the printed invitation leaflet with screening invitations to all people newly registered with diabetes
+  signpost to the digital invitation leaflet with every incident invitation
+  work with their IT supplier to make sure the above can happen
+
+
+Local DES services should routinely direct people as appropriate to digital versions of:
+
+
+  diabetic eye screening: slit lamp examination explained
+  your guide to diabetic retinopathy
+  closer monitoring and treatment of diabetic retinopathy
+
+
+An A4 poster is available to help local providers move to using the digital leaflets. The poster includes:
+
+
+  QR codes linking to the digital leaflets
+  details of how to save the digital leaflet to smartphone home screens
+
+
+A limited number of these laminated posters are available for local providers to order from national print provider APS Ltd for display at screening clinics. Individual orders are limited to a maximum of 15 copies.
+
+Bowel cancer screening
+
+The bowel cancer screening programme (BCSP) is currently redeveloping its IT system. These changes will include the ability to split screening invitations into prevalent and incident batches. In the meantime, local screening services should:
+
+
+  continue to send out printed information leaflets with all invitations (both prevalent and incident) – and with result letters referring people for a specialist screening practitioner (SSP) appointment/colonoscopy
+  be aware that the prevalent/incident split in invitations will be implemented alongside age extension
+  direct people seeking online information about bowel cancer screening to our HTML leaflets:
+    
+      bowel cancer screening: helping you decide
+      how to use the test kit
+      having a colonoscopy
+    
+  
+  provide paper copies of leaflets for people not online, which can be requested through the programme freephone helpline on 0800 707 60 60
+
+
+Breast screening
+
+The breast screening programme (BSP) is currently redeveloping its IT system. These changes will include the ability to split screening invitations into prevalent and incident batches. In the meantime, local screening services should:
+
+
+  continue to send out printed information leaflets with all invitations (both prevalent and incident)
+  work with current call/recall IT suppliers to make sure that the prevalent/incident split in screening invitations can be achieved in April 2021
+  direct people seeking online information about breast screening to our HTML leaflets:
+    
+      breast screening: helping you decide
+      information for women who have partial or incomplete mammography
+      breast implants and breast screening
+      breast screening for women with a higher risk of breast cancer
+    
+  
+
+
+Cervical screening
+
+The cervical screening programme (CSP) is currently redeveloping its IT system. The programme is working with NHS England and NHS Improvement (NHSEI) to determine how the requirement to split between call and recall invitations can be achieved. In the meantime, local screening services should:
+
+
+  continue to send out printed information leaflets with all invitations (both call and recall) – and with result letters referring people for a colposcopy
+  direct people seeking online information about cervical screening to our HTML leaflets:
+    
+      cervical screening: helping you decide
+      having a colposcopy
+      cervical screening for lesbian and bisexual women
+    
+  
+
+
+
+
+
+
+      
+        
+    Published 4 January 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Population screening: evidence and guidance
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

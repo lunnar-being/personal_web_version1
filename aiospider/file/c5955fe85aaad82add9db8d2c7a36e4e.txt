@@ -1,0 +1,60 @@
+
+        
+        
+        
+     in vitro diagnostics (IVD) has been a relatively high-margin industry, with molecular diag­nostics being one of its fastest-growing segments. In 2019, it was estimated that the North American molecular-diagnostic market would grow an average of 6.6 percent a year over the next five years.
+
+
+ But that was before the COVID-19 crisis.
+        
+
+
+    
+    As COVID-19 has spread, the demand for molecular testing, regarded as the gold standard for diag­nosing infectious disease, has exploded. In Europe and the United States alone, molecular-diagnostic demand rose 20-fold between March and October 2020 (Exhibit 1). While the disease remains uncontained, such demand is likely to keep growing. Meanwhile, the rush to meet it has already driven four main developments in the IVD industry that could prompt structural shifts that will have long-term implications for diagnostic-test manufacturers.
+    
+Broader adoption of diagnostics based on reverse-transcription polymerase chain reactionMolecular assays, particularly those involving reverse-transcription polymerase chain reaction (RT-PCR), are regarded as the optimal confirmatory tests for viral infections. However, in certain regions of the world, immunoassays have dominated because of a shortage of laboratory capacity for molecular assays. In India, for example, only one laboratory was performing molecular assays for COVID-19 in January 2020.
+
+
+The COVID-19 pandemic has shifted that balance. By May, some 600 Indian RT-PCR laboratories had been set up in an effort to help manage the pandemic, increasing testing capacity 1,000-fold. The additional capacity will likely remain in place as the pandemic subsides, leaving the RT-PCR assay as the dominant method for diagnosing most viral infections in India in the future. Similar developments are afoot elsewhere, suggesting a much broader adoption of RT-PCR globally as testing capacity and the installed-equipment base expand.More point-of-care molecular testingThe volume of point-of-care (POC) testing has risen during the COVID-19 pandemic in response to demand for faster on-site screening. The Rockefeller Foundation estimated that around 70 million POC tests a month would be conducted in the United States by October 2020, with the number increasing to perhaps as many as 200 million a month by the following January.
+
+
+Such tests can be conducted in physicians’ offices or outside of traditional healthcare settings. Drive-through centers were set up in Massachusetts, in the United States, for example, giving on-the-spot results.
+
+
+ Laboratory-based RT-PCR tests typically take at least 24 hours to show results once the samples reach the laboratory.
+
+	
+
+
+
+
+    
+    
+
+Accelerated development and adoption of new technologies
+	
+As the COVID-19 pandemic gathered force, demand grew for not only faster testing but also testing in much higher volumes. That demand was a struggle to meet when it came to RT-PCR testing, as a result of laboratories’ turnaround times and a shortage of reagents.The response to that struggle has been the acceler­ated development of new diagnostic technologies, such as next-generation sequencing (NGS) and CRISPR. Those technologies could come to chal­lenge the leading position of the current RT-PCR systems for viral COVID-19 tests, particularly if regulators further facilitate their fast introduction. As of November 2020, the US Food and Drug Administration had granted emergency approval for two CRISPR-based diagnostic tests for COVID-19 from early-stage companies Sherlock Biosciences and Mammoth Biosciences. Approval of the former company’s test represented the first time a CRISPR-based product had been authorized for use in healthcare.
+
+
+NGS has benefited from similar regulatory support. After decades of development in precision medicine, NGS could potentially become a platform for large-scale diagnostics, meaning that it would be suitable for testing entire communities or for conducting epidemiology studies. Authorities in China and the United States have already approved some NGS-based COVID-19 diagnostics for emergency use.
+
+
+ Others are in development, with throughput as high as 100,000 samples per run.
+
+
+ The companies pioneering such diagnostic techniques could well remain in the market in the future thanks to their technological expertise, manufacturing capabilities, and market acceptance established during the pandemic.
+    
+Manufacturing-capacity expansion in Asia and shift of supplyAs demand for components used in molecular assays has soared, leading manufacturers, particu­larly those in China, have hurried to increase capacity for them. As a result, China now accounts for between 70 and 90 percent of global capacity for major molecular-assay components (Exhibit 2). That could eventually make China the leading global supplier for the diagnostics, too.
+    
+To be clear, China’s capacity for manufacturing molec­ular assays was growing rapidly, in line with demand, before the COVID-19 pandemic. Between 2014 and 2019, its domestic market for the tests grew an average of 16 percent a year to reach $1.5 billion, with manufacturers large and small producing a wide range of related products, including equipment and reagents.
+
+
+ For example, the number of nucleic-acid-isolation manufacturers expanded tenfold (from around 30 to 330) in that six-year period (Exhibit 3). When the pandemic broke out in Wuhan, Chinese manufacturers expanded their capacity still further, quickly respond­ing to the government’s efforts to control the outbreak. The molecular-assay manufacturers received extensive financial, operational, and regulatory support from the Chinese authorities.
+
+
+
+    
+That expansion has allowed some Chinese companies to gain bigger footholds in major markets, such as the European Union and the United States—markets that have experienced a shortage of tests and testing components and that were previously domi­nated by Western companies. For example, Chinese company BGI, a major player in the IVD industry, has not only exported millions of tests but also supplied equipment and the operating model for more than 70 diagnostics laboratories globally, including in Europe and the United States. By November 2020, that amounted to a total estimated capacity of about 430,000 tests per day.
+
+
+In such a way, BGI and other Chinese companies have been able to build partnerships and alliances with new customers in new markets—facilitated, in some instances, by accelerated regulatory-approval processes. Regulations may well be tightened again once the pandemic abates. However, the new laboratory capacity, as well as the new customer relationships for players like BGI, will likely endure.Positioning for the futureDiagnostic-test manufacturers are playing a critical role in government efforts to respond to the COVID-19 pandemic. Yet their work to increase the IVD supply is also initiating changes in the industry that could lead not only to greater adoption but also to greater competition. Much more than the course of the pandemic is uncertain. What role will POC diagnostics play in the delivery of care? How will the supply landscape for reagents evolve? Will emerg­ing alternative and complementary technologies and platforms have a major impact on the testing landscape—and if so, when? How will regulators respond to the high demand for tests? Will they authorize at-home molecular tests?Those are some of the important questions that IVD-test manufacturers need to consider as they strategize to position themselves for long-term success. For although the precise nature of the future for the IVD industry is unclear, it is clear that change is afoot. Companies would be wise to prepare.

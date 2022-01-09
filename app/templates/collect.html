@@ -43,7 +43,34 @@
           <!-- 数据采集 -->
           <div class="panel panel-default">
             <div class="panel-heading">
-              <h4>数据采集</h4>
+
+                <ol class="breadcrumb">
+
+                <li><h4>数据采集</h4></li>
+
+                <li class="pull-right">
+
+                  <div class="sort">
+                    <form action="" class="form-inline">
+                      <div class="form-group pull-right">
+                      <label>统一采集时间：</label>
+                        <select name="sort" class="time-control">
+                          <option value="0" {% if time_select == 0 %}selected="selected"{% endif %}>0:00</option>
+                          <option value="1" {% if time_select == 1 %}selected="selected"{% endif %}>1:00</option>
+                            <option value="2" {% if time_select == 2 %}selected="selected"{% endif %}>2:00</option>
+                          <option value="3" {% if time_select == 3 %}selected="selected"{% endif %}>3:00</option>
+                        </select>
+                      <label>统一采集周期：</label>
+                        <select name="sort" class="day-control">
+                          <option value="1" {% if day_select == 1 %}selected="selected"{% endif %}>1天</option>
+                          <option value="3" {% if day_select == 3 %}selected="selected"{% endif %}>3天</option>
+                        <option value="7" {% if day_select == 7 %}selected="selected"{% endif %}>7天</option>
+                        </select>
+                      </div>
+                    </form>
+                  </div>
+                </li>
+              </ol>
             </div>
             <div class="panel-body">
               <table class="table table-hover">
@@ -54,21 +81,14 @@
                   <th width="18%">上次采集时间</th>
                   <th width="17%">新下载文档</th>
                 </tr>
-                {% for foo in [('英国政府网', 'https://www.gov.uk', 'govuk'),
-                ('美国能源局', 'https://www.energy.gov/', 'DOE'),
-                ('麦肯锡公司', 'https://www.mckinsey.com/', 'mckinsey'),
-                ('兰德公司', 'https://www.rand.org/', 'rand'),
-                ('哈佛大学贝尔福研究中心', 'https://www.belfercenter.org', 'bc'),
-                ('众议院军事委员会', 'https://armedservices.house.gov/', 'hasc'),
-                ('美国国防部', 'https://www.defense.gov/', 'DOD'),
-                ] %}
+                {% for foo in result %}
                   <tr>
                     <td>
                       <button class="btn btn-primary collect-btn" id="collect-btn-{{ foo[2] }}">采集</button>
                     </td>
                     <td>{{ foo[0] }}</td>
                     <td>{{ foo[1] }}</td>
-                    <td></td>
+                    <td>{{ foo[3] }}</td>
                     <td class="text-center">
                       <a class="detail-link" data-toggle="collapse" href="#clp-{{ foo[2] }}">
                         <span class="glyphicon glyphicon-chevron-down"></span>
@@ -78,15 +98,15 @@
 
                   <tr id="clp-{{ foo[2] }}" class="collapse">
                     <td colspan="10">
-                      暂无新增
+                      {{ foo[4] }}
                     </td>
                   </tr>
                 {% endfor %}
               </table>
-                <div class="form-check form-switch">
-              <span style="width:20px"></span><input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckChecked" checked>
-              <label class="form-check-label" for="flexSwitchCheckChecked">每日24:00自动采集</label>
-          </div>
+{#                <div class="form-check form-switch">#}
+{#              <span style="width:20px"></span><input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckChecked" checked>#}
+{#              <label class="form-check-label" for="flexSwitchCheckChecked">每日24:00自动采集</label>#}
+{#          </div>#}
             </div>
 
           </div>
@@ -106,9 +126,9 @@
         let site_name_in_id = $(this).attr("id");
         let re_group = site_name_in_id.match(site_name_re)
         let site_name = re_group[1]
-
+        console.log(site_name)
         $.ajax({
-            url: "/api/collect",
+            url: "/collect_web",
             type: "POST",
             data: {"site_name": site_name},
             success: function (data) {
@@ -120,6 +140,37 @@
             }
         });
     });
+    $(".day-control").change(function () {
+        var day = $(".day-control option:selected").val();
+      $.ajax({
+            url: "/select_day",
+            type: "POST",
+            data: {"day": day},
+            success: function (data) {
+                console.log(day);
+                {#alert(data);#}
+            },
+            error: function (e) {
+                alert("error");
+            }
+        });
+  });
+    $(".time-control").change(function () {
+        var time = $(".time-control option:selected").val();
+      $.ajax({
+            url: "/select_time",
+            type: "POST",
+            data: {"time": time},
+            success: function (data) {
+                console.log(time);
+                {#alert(data);#}
+            },
+            error: function (e) {
+                alert("error");
+            }
+        });
+  });
+
 </script>
 
 </html>

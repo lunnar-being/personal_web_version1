@@ -1,0 +1,758 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Government Functional Standard GovS 005: Digital, Data and Technology
+  
+
+  
+  
+  
+      
+  This standard forms part of a suite of operational standards that set expectations for management within government. The standard includes both mandatory and advisory elements.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      2 July 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          1. About this government functional standard
+
+        
+        
+          2. Principles
+
+        
+        
+          3. Digital, data and technology
+
+        
+        
+          4. Governance
+
+        
+        
+          5. Delivering digital services and technology
+
+        
+        
+          6. Managing live services and technology
+
+        
+        
+          7. People and skills
+
+        
+        
+          Contact information
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+The Digital, Data and Technology functional standard sets out how all digital, data and technology work and activities should be conducted across government. This will ensure that the public is presented with appropriate digital services, and departments have the correct tools and infrastructure to deliver their objectives.
+
+The standard sets expectations for the direction and management of portfolios, programmes, and projects in government. The standard uses the following conventions:
+
+
+  ‘shall’ to show a requirement
+  ‘should’ to show a recommendation
+  ‘may’ to show approval
+  ‘might’ to show a possibility
+  ‘can’ to show both capability and possibility
+  ‘is/are’ to show a description
+
+
+The standard contains 7 main elements:
+
+
+  
+    The purpose and scope of the standard.
+  
+  
+    Principles, covering the fundamental tenets of digital, data and technology including aligning with government policy, and meeting clearly identified user needs, delivery teams comprising multiple disciplinary teams, meeting security and privacy requirements and using open standard.
+  
+  
+    A definition of digital data and technology.
+  
+  
+    Governance which sets out governance structures and mechanisms for government, departments, teams, projects and programmes.
+  
+  
+    Delivering digital services and technology which outlines the stages of agile delivery, including design, implementation, maintenance and sets out in more detail how digital and technology interoperate.
+  
+  
+    Managing live services and technology which explains how you should look at the full life cycle of a service and/or technology, including iteration, transition and decommissioning.
+  
+  
+    People and skills which covers both DDaT professions and non-specialist staff.
+  
+
+
+The 7 elements of the standard are shown in figure 1. The Standard is published alongside the Digital, data and technology (DDAT) framework, which sets out the DDaT roles in government and the skills needed to do them.
+
+Figure 1:
+
+
+1. About this government functional standard
+
+1.1 Purpose of this government standard
+The purpose of this government functional standard is to set expectations for the management of DDAT (digital data and technology) activity in government organisations, ensuring:
+
+
+  the public is provided with appropriate digital services
+  those leading government organisations can provide strategic direction and governance that enable operational excellence
+  those working in government organisations can use and implement tools and infrastructure to meet their objectives
+
+
+This standard provides direction and guidance to:
+
+
+  permanent secretaries, directors general, chief executive officers of arm’s length bodies
+  chief information officers, chief technology officers, chief digital officers, chief data officers, chief architects of government organisations
+  members of the Technology and Digital Leaders Network (TDLN)
+  any manager with responsibility for sponsoring, building, buying or managing digital services, data or technology
+
+
+1.2 Scope of this government standard
+
+This standard applies to the use and provision of digital services and its component parts:
+
+
+  in all government departments and arm’s length bodies
+  whether internal or citizen-facing
+  regardless of whether the associated spending needs specific approval from HM Treasury or Cabinet Office
+
+
+1.3 Government standards references
+
+The following functional standards are necessary for the use of this standard:
+
+
+  Project Delivery (GovS 002)
+  Human Resources (GovS 003)
+  Finance (GovS 006)
+  Security (GovS 007)
+  Commercial (GovS 008)
+  Analysis (GovS 010)
+  Counter Fraud (GovS 013)
+
+
+2. Principles
+
+When creating or providing and using digital services, government organisations and individuals shall ensure:
+
+
+  Digital services align with government policy, and meet clearly identified user needs.
+  Management and governance are proportionate and appropriate to the work and risk profile of the organisation.
+  Business processes are evaluated as part of a technical or digital project or programme so that they meet the needs of the business and the end users.
+  Delivery teams comprise appropriately skilled people, with the expertise required to undertake their assigned work.
+  Digital services are designed as end to end services, from a citizen’s or user’s viewpoint.
+  Appropriate levels of security and privacy are designed as an integral part of the digital service.
+  Digital and technology components are designed using mandatory government open standards where needed; and are adaptable, interoperable and shareable.
+  Performance data and analytics are shared or published where possible to improve policy development and government transparency.
+  Data is collected, stored, used and deleted in the appropriate and ethical way.
+  Public service codes of conduct and ethics and those of associated professions are upheld.
+
+
+3. Digital, data and technology
+
+3.1 Government-wide approach
+
+Digital, data and technology activity in government is led by the Government Digital Service (GDS), which aims to enable consistency of building, buying and creating digital services across government organisations, whilst ensuring priorities align with cross-government policies.
+
+3.2 Digital services, data and technology
+
+Digital services provide outcomes for end users ( citizens, public employees and businesses) and facilitate citizens’ interactions with government, as well as making the provision of government services more efficient and reliable.
+
+As such, digital services enable government organisations to fulfil a business need in relation to their policies and strategic objectives.
+
+Digital services comprise technology components, which include software and code that runs on hardware and network infrastructure to collect, store, process, transmit and receive data.
+
+Government needs to make better use of data so that it can provide the right services to the right people in a legally compliant and personalised way which also retains their trust. To do this, organisations need to build good data practice into the design of services or technology projects from the outset, and at each stage continue to check that the data are relevant and contributing to the desired outcomes.
+
+3.3 Agile delivery approaches
+Agile is an approach to software development that can also be used in other contexts. It emphasises building quickly, testing and iterating work based on regular feedback. Commonly used agile methods include:
+
+
+  Scrum, a highly structured model with clearly defined roles and responsibilities for iterative and incremental software development
+  Kanban, used for improving current working practices so that work flows through a system quickly
+  Lean, a software development approach focussed on reducing waste, delivering quickly, learning and improving and using evidence and data to make decisions
+
+
+4. Governance
+
+4.1 Governance frameworks
+Governance comprises authorising, directing, empowering and overseeing management.
+
+A governance framework shall be established at cross-government and organisational levels, which complies with government and departmental policies and directives (as applicable) and with this functional standard.
+
+The governance framework should include the authority limits, multidisciplinary decision-making roles and rules, degree of autonomy, assurance needs, reporting structure, accountabilities and responsibilities together with the appropriate management frameworks for undertaking the practices defined in this standard.
+
+Categorisation of digital activities should be defined so that appropriate and proportionate multidisciplinary governance, management and assurance can be applied.
+
+4.1.1 Governance across government organisations
+There shall be a senior officer accountable for cross-government digital policy and direction.
+
+Digital policy, standards and guidance should be provided and maintained to enable a consistent and interconnected approach to digital activity across government and the sharing of knowledge, services, data and capabilities. Systems should use open standards to communicate with one another, and be documented in a machine-readable format.
+
+4.1.2 Governance within government organisations
+Each organisation shall have a senior officer accountable for its digital, technology and data activities.
+
+The governance of an organisation’s technology, digital services and its component parts should be an integrated part of the organisation’s overall governance.
+
+Each organisation should have a governance framework that complies with:
+
+
+  government and departmental policies
+  this functional standard
+  the Technology Code of Practice
+
+  the Government Service Standard
+
+  the Data Ethics Framework
+
+
+
+Organisations should maintain, together with those primary accountabilities:
+
+
+  a list of proposed, current and completed digital, data and technology activity
+  a service catalogue - ensuring all public-facing digital services and internal technologies are discoverable for use, and possible reuse, across the organisation and other government departments
+
+
+4.2 Decision making
+Decisions should be made by the appropriate person, as defined in the governance framework, in a timely manner so as not to impede delivery. If that person is unable to make a decision, they should obtain expert advice or refer it to a higher level authority.
+
+Decisions should take into account the technology and data required to support any necessary digital service in order to ensure work is integrated and delivered in an end-to-end, coherent manner.
+
+If required, subsequent approval for digital and technology spend shall be obtained in accordance with HM Treasury and Cabinet Office policy and spend controls.
+
+Decisions should be supported by analysis in accordance with the Analysis functional standard (GovS 010).
+
+4.3 Assurance
+
+Organisations should have a defined internal approach to assurance, and should establish authorities to bring strategic oversight and assurance to their digital and technology activity.
+
+The person responsible for assurance should make sure that digital and technology activities meet the criteria laid out in the Government Service Standard and the Technology Code of Practice.
+
+For digital and technology projects above a specified financial threshold, reviews should also be undertaken by the Government Digital Service, in line with the Finance functional standard (GovS 006)
+
+Assurance reviews should be scheduled to take place at appropriate intervals, usually related to a significant decision, during development and management of digital services or technology, such as prior to starting a new project.
+
+4.4 Development and management of digital services and technology
+Organisations may employ different development and management strategies and delivery methods, depending on whether their output relates to a digital service or technology. Such strategies and approaches should be defined:
+
+
+  for digital services, an agile approach shall be used, complying with Governance principles for agile service delivery and with the Government Service Standard
+
+  for technology and/or data, a methodology, appropriate to the work being undertaken, should be used
+
+
+Where the development or management of a digital service or technology is managed as, or as part of, a work package, project, programme or portfolio, the approach used shall comply with Project Delivery functional standard (GovS002).
+
+4.5 Roles and accountabilities
+
+Roles and accountabilities  contributing to operational or strategic digital activities shall be defined in the organisation’s governance and management framework and, where appropriate in the management frameworks for specific programmes, projects and other activities. This includes, but is not limited to, lines of accountability and the activities, outputs or outcomes they are responsible for.
+
+Roles may be allocated to more than one individual and be supported by a team of specialists as appropriate.
+
+4.5.1 Accounting officer
+The accounting officer is the senior executive in a central government organisation, accountable to Parliament and the public for the stewardship of public resources, ensuring they are used effectively and to high standards of probity.  The accounting officer has ultimate accountability for digital services, projects and practices in their organisation.
+
+
+Note:  The permanent head of a government department is its Principle Accounting Officer.  The Principle Accounting Officer will generally appoint the most senior executive in organisations under the department’s ambit as an Accounting Officer.
+
+
+4.5.2 The senior officer accountable for cross-government digital, data and technology policy and direction
+The senior officer accountable for cross-government digital, data and technology policy and direction is accountable to the Chief Operating Officer of the Civil Service for setting cross-government policy and direction for digital services, data and technology and should:
+
+
+  provide leadership and direction for improving digital, data technology practice across government
+  develop and communicate digital, data  and technology policy
+  provide assurance services for eligible digital activities
+  improve the management of digital services across government
+  strengthen digital, data  and technology capability across government
+
+
+4.5.3 Senior officer accountable for an organisation’s digital policy and direction
+The senior officer accountable for an organisation’s digital policy and direction is accountable to the accounting officer for the direction and governance of an organisation’s digital activity, and should:
+
+
+  provide leadership and direction for all digital activity within the organisation
+  ensure the implementation of digital policy and compliance to this standard
+  be accountable for the organisation’s digital policy, strategy and plan
+  be responsible for the organisation’s enterprise digital architecture
+  ensure the required benefits from digital activities are realised, at an acceptable level of risk and cost
+  provide advice, guidance and assurance to senior service and technology owners and their teams
+allocate appropriate resources to digital activity
+
+
+
+Note: the senior officer accountable for digital activity is a specialist role, often called a Chief Information Officer, Chief Technology Officer, or Chief Digital Officer.
+
+
+4.5.4 Senior business owner
+A senior business owner is accountable to a defined higher authority within the organisation for outcomes that are achieved through:
+
+
+  digital services
+  technologies
+  people
+  business processes
+  combinations of the above
+
+
+Senior business owners shall ensure services and technologies meet the needs of users. They should encourage and enable the adoption of digital services and technologies, as well as making appropriate provision for users who will not use digital channels.
+
+4.5.5 Officer accountable for managing a service or technology
+This officer is accountable to a defined higher authority within an organisation for their assigned service and/or technology (or group of services and/or technologies). In particular:
+
+
+  being accountable for all aspects of service/technology governance and management throughout its life cycle
+  promoting reuse, continuous improvement and replacement of technologies, as appropriate
+  ensuring digital and other specialists are involved throughout from the start of and throughout the service’s life cycle
+
+
+
+Note: in a programme or project context this role might be undertaken by a Senior Responsible Owner or other person assigned by them (see Project Delivery: GovS 002). In other contexts it might be a senior manager in the organisation.
+
+
+4.5.6 Other team roles
+Other team roles should be defined to suit the needs of the work required, and may depend on whether it is a digital, data or technology project. Examples of roles include:
+
+
+  delivery managers
+  product managers
+  user researchers
+  designers
+  performance analysts
+  data scientists
+  technical architects
+  developers
+  business analysts, quality assurers and test analysts
+  knowledge and information management professionals
+
+
+
+Note: the DDaT Profession Capability Framework describes the roles in the profession and provides details of the level of skills and civil service competencies expected.
+
+
+5. Delivering digital services and technology
+
+5.1 Policy development
+Where a digital service or technology relates to a new or existing policy, organisations should include technical considerations as early as possible in policy development. Organisations should ensure policymakers have access to:
+
+
+  relevant digital expertise throughout the policy life cycle
+  data outputs from services and programmes to inform future policy development.
+
+
+Organisations should also think about the data being gathered and generated through the lifecycle to be able to assess effectiveness and future policy development.
+
+5.2 Business cases
+Where necessary, business cases for digital and technology expenditure should be developed and evaluated in accordance with HM Treasury Green Book guidance. Where an agile delivery approach is being followed, business cases, and the corresponding assurance and approval processes, should be developed in accordance with HM Treasury’s supplementary guidance on the development of business cases for agile digital and IT projects.
+
+5.3 Delivery methodology
+The manager of a digital service or technology should define and use an appropriate methodology to deliver, implement, manage and decommission their digital services or technology.
+
+Such approaches should:
+
+
+  aim to deliver what users need, on time
+  include mechanisms to assure the quality of the work
+  adhere to relevant cross-government standards and guidelines
+
+
+Work should be continuously assessed so those responsible can monitor that value-for-money is being achieved.
+
+5.4 User needs
+
+5.4.1 User needs
+
+User needs shall be understood, articulated and used to set the objectives for the work required. Those accountable for development should, as appropriate:
+
+
+  ensure the service or technology provides the outcomes needed by the end user
+  select the tools which are suitable for the end users to use
+  choose the right data content to meet the needs of users, making sure it is proportionate to the need
+
+
+User needs should be used to derive other requirements for a service or technology, including those for security (see Delivery Methodology), responsiveness, availability, safety, portability, reliability, resilience, maintainability, interoperability and scalability.
+
+Digital services and technology shall meet the needs of users with a range of abilities and/or accessibility requirements.
+
+
+Note: users could be citizens, specific professionals, or anyone working within or for government.
+
+
+5.4.2 User research
+User research helps to ensure that services, technologies and organisational strategies adapt to meet the needs of users.
+
+User research should be conducted throughout a project or service life cycle to:
+
+
+  build a strategic understanding of the service and the needs of users
+  ensure organisations continue to receive actionable insights
+  enable informed day-to-day decisions
+
+
+User research shall also investigate accessibility needs as described in the EU accessibility law , the Accessibility standard EN 301 549 and the Web Content Accessibility Guidelines (WCAG) 2.0.
+
+
+Note: guidance on understanding user needs and what that means for your technology or programme can be found at point 1 of the Technology Code of Practice and in the Government Service Standard.
+
+
+5.5 Security and fraud
+
+Government organisations shall:
+
+
+  factor security and fraud prevention into the design, delivery, assurance and adoption of services and technologies
+  ensure users are trained in how to keep data secure
+  design and plan to prevent security breaches and loss of data, with comprehensive measures put in place to mitigate the risks and enable recovery (business continuity)
+  adhere to relevant standards, guidance and codes of practice when securing its digital services, technology and data
+
+
+Organisations shall comply with the Security (GovS 007) and Counter Fraud (GovS 013) functional standards.
+
+5.6 Solution selection
+Organisations should be aware of emerging technologies, how they enable innovation, and should observe how technologies affect or improve government projects, policy, regulation and laws.
+
+Solutions should be selected which meet both the users’ needs and other organisational requirements.
+
+Solution options should be fairly and objectively assessed to understand how they meet the needs of users and represent value-for-money across their life cycle. Selection shall take into account commercial, technology and contractual limitations.
+
+Solutions may be sourced by:
+
+
+  procuring a commercially available service that offers better value for money than developing one internally
+  re-using or adapting a solution from other government organisations at little or no cost (see Designing Solutions)
+  using a common platform or service available to all government organisations, which provides cost-effective solutions and a consistent user experience
+  designing, building and running a bespoke solution, internally or using a third party, when commercially or freely available solutions are not available
+
+
+Procurement shall be undertaken in accordance with the Commercial functional standard (GovS 008).
+
+5.7 Designing solutions
+When designing digital and technology solutions, organisations should use the Government’s design principles and the Service Manual and consider the management of:
+
+
+  demand - forecasting and planning the management of the demand for digital services and technology
+  capacity - managing network and processing capacity to match business needs and optimise the provision of digital services
+  availability - sustaining the availability of digital services at a reasonable cost
+  support - considering the support elements needed for the digital services and technology
+  continuity of service - ensuring that services have a mean time to recovery after an incident, which is acceptable to the users
+
+
+Government organisations should also consider how new technology:
+
+
+  integrates with existing infrastructure
+  allows future flexibility and adaptability
+  affects current and future end user needs
+
+
+Solutions should be designed to make data available to derive insights to improve services and policies.
+
+The Data Ethics Framework encourages working in the open to improve transparency and build trust. In addition to underpinning data protection legislation, organisations should follow  the Data Ethics Framework in respect of use of data, service design and policy development.
+
+
+Note: further work is in development on the use of data standards and standardisation of practice to enable data to be joined up.
+
+
+All elements of a design should be traceable to and from a user need or organisational requirement. All elements of a design should be version controlled and their configuration managed.
+
+5.8 Building and implementing solutions
+When building and implementing digital and technology solutions, organisations should consider the management of:
+
+
+  data - using, creating, capturing and managing information and how it can be shared across the organisation and other government departments (see Designing Solutions)
+  assets and configuration - ensuring that service/system components are planned and managed across every service in and external to an organisation’s infrastructure
+  legacy IT estate - adopting a strategy, or combination of strategies, appropriate to the organisation’s size and infrastructure complexity
+  release and deployment - having schedules, plans and controls for test releases and live environments
+  service validation and verification - ensuring that IT operations and other support groups are able to support a service and that the service is fit for its intended purpose
+
+
+Service verification should include:
+
+
+  component, sub-system and systems levels
+  functionality
+  vulnerability and penetration
+  accessibility
+  performance at front end and of infrastructure
+
+
+5.9 Sharing and re-using government data, digital services and technology
+
+Sharing and re-using digital data, services and technologies can deliver better services for users, and is more efficient and cost-effective for government.
+
+Government organisations should enable cross-government transformation by sharing data, services and technology with other government organisations and, where appropriate, the public. Refer to the Government Transformation Strategy for more information.
+
+The public cloud shall be considered as a first option where hosting technologies are required as part of the service.
+Organisations should only ask citizens for the minimum amount of data that they need to deliver a particular service. They should avoid duplicating data sets in order to maintain consistent, current records. Data should be made available to other organisations in appropriate quantities and using effective methods, within commercial, ethical and security constraints.
+
+Whenever appropriate, organisations should:
+
+
+  make its use of services and technologies transparent by adhering to the Open Standards Principles
+
+  follow the government’s API technical and data standards when building and documenting APIs so they can communicate in a consistent way
+  publish the source code of its services and technologies, making them available to other government bodies and those outside government
+  publish documentation about their digital products to improve interoperability and aid their re-use
+  aim to work in the open without compromising the security of systems or data
+  consider how their internal data, products or technologies might align with others across government and in different industries
+  consider how to integrate with other services in order to reduce duplication of work across government, standardise data and products, and meet the needs of end users
+
+
+6. Managing live services and technology
+
+6.1 Service management
+Government organisations should have defined processes in place for:
+
+
+  performance management: measuring and reporting performance of the service or technology and taking corrective or preventative action when needed
+  incident management: identifying, analysing and resolving incidents, including taking action to prevent reoccurrence or future incidents
+  access management: authorising (or removing) users of a service and preventing unauthorised access
+  operations management: ensuring the efficient delivery of digital services in line with defined service level agreements (or equivalent)
+  technical management: providing expert advice throughout the digital service life cycle
+  IT operations: providing the processes and people that deliver quality digital services and technology at the right costs
+
+
+6.2 Maintaining integrated and adaptable digital services
+
+Government organisations should plan for the whole-life cycle of a digital service or technology, including how it might need to scale up for a larger user base, how to plan for changes or upgrades and how to decommission it.
+
+Government organisations should manage digital services and technologies by:
+
+
+  having defined approaches and tools in place to manage the day-to-day running of their digital services and technology
+  using defined and maintained business and operational processes
+  maintaining up to date and accurate records of digital services and their architecture (see Maintaining Records)
+
+
+While managing live digital services or introducing new digital services or technologies, government organisations should use continuous improvement planning. This could include a strategy for iterating existing services, transitioning them to new providers or technology, or decommissioning them.
+
+
+Note: refer to the Managing Legacy Technology principles for information.
+
+
+6.3 Maintaining records
+Government organisations should maintain up to date records of their digital and technology services, their designs and architectures, and any dependencies or interconnections with other services. These should be held by the government organisation, even if the service is being supplied by a 3rd party. Responsibility for maintaining the records should be considered as part of any personnel changes.
+
+6.4 Iterating, transitioning and decommissioning digital services
+Government organisations should iterate their technology and digital services to meet the changing needs and expectations of their users. They should use continuous assessment and performance data to decide how to iterate their services.
+
+As part of continuous improvement planning, government organisations might need to transition services between providers, or across platforms. They should design or buy solutions that make it easy to transition between platforms and providers at the end of contracts and add these costs into their plan (see User needs and Security and Fraud).
+
+When decommissioning a service, government organisations should:
+
+
+  have a clear approval chain to decommission a service
+  re-design appropriate services
+  have an agreed plan for decommissioning
+  know what they need to carry out the work
+  assess the impacts on users and other technologies and services
+
+
+The project team decommissioning the digital service should work with the officer accountable for managing the service or technology to understand and document the interdependencies and the impacts of the change. This documentation should help to ensure that the transition to the new service or technology is coordinated across the government organisation(s) and that end users are not adversely affected.
+
+7. People and skills
+The use of people trained and competent to carry out their roles ensures government organisations can provide better outcomes for citizens using digital services and achieve their objectives.
+
+Specialists in data services and technology, whether employed by government or by third parties, should have the skills and experience for undertaking digital and technology work assigned to them. These specialists should work in multi-disciplinary teams, in a way that is open, user-centred, design-led, data-driven and focussed on the team’s objectives.
+
+
+Note: a typical multidisciplinary team can include a combination of technical, policy, and strategy skills.
+
+
+Organisations should make sure that:
+
+
+  their digital, data and technology specialists have the right skills and experience
+  their non-technical specialists have support
+  all employed specialists understand the potential of how new digital capabilities and technology can raise digital - - awareness and capability across government
+  all employees who manage and manipulate data understand their legal, ethical and contractual obligations
+
+
+The management of employees shall comply with Human Resources functional standard (GovS 003).
+
+Contact information
+You can contact CDDO about the DDaT Functional Standard by emailing:
+functional-standard@digital.cabinet-office.gov.uk
+
+
+
+
+      
+        
+    Published 2 July 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Government Functional Standard GovS 004: Property
+        Global HR Design
+        Functional Standards
+        Government Debt Management Function (GDMF)
+        Guide to functional standards
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Functional Standards
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Government spending
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

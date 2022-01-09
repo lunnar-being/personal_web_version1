@@ -1,0 +1,243 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Electric Vehicle Homecharge Scheme: minimum technical specification
+  
+
+  
+  
+
+  
+    
+  The minimum technical specification for manufacturers under the Electric Vehicle Homecharge Scheme.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Office for Zero Emission Vehicles
+
+      
+      Published
+      3 November 2016
+      Last updated
+      
+        20 October 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Electric Vehicle Homecharge Scheme: minimum technical specification
+    
+        HTML
+    
+
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+Manufacturers who wish to apply for authorisation for chargepoints under this scheme must ensure units comply with the technical specifications contained in this guidance.
+
+See also:
+
+
+  Electric Vehicle Homecharge Scheme: guidance for installers and manufacturers
+  Electric Vehicle Homecharge Scheme: guidance for customers
+  Electric Vehicle Homecharge Scheme: list of eligible vehicles
+
+
+
+
+        
+      
+
+      
+    Published 3 November 2016
+    Last updated 20 October 2020
+      + show all updates
+      
+        
+            
+              20 October 2020
+              Format of guidance improved.
+            
+            
+              20 March 2020
+              The guidance has been revised to reflect the latest changes to technical guidance, as well as a requirement for fast DC charging output to be greater than 3.5KW and not greater than 22 kW. The changes are effective from 1st April 2020.
+            
+            
+              21 January 2019
+              Updated chargepoint specification added for use after July 2019. The guidance has been altered to include smart functionality and cyber security requirements (part 7.0).
+            
+            
+              3 November 2016
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Electric Vehicle Homecharge Scheme approved chargepoint model list
+        Workplace Charging Scheme: guidance for installers
+        Apply for EVHS and WCS chargepoint model approval
+        Workplace Charging Scheme approved chargepoint list
+        Plug-in motorcycle grant: eligibility and applications
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Grant schemes for electric vehicle charging infrastructure
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Low emission and electric vehicles
+        Climate change and energy
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

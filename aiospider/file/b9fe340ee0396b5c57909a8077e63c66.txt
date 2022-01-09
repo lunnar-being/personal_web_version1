@@ -1,0 +1,1 @@
+The work will primarily focus on demonstrating the effectiveness of SG cellular embedded, cloud, and edge-computing based sensors specific to coal fired power plant needs.

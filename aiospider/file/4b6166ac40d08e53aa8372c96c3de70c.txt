@@ -1,0 +1,50 @@
+
+        
+        
+        
+    that it would join other automakers by selling only zero-emission vehicles (in its case, by 2035) was one of the most well-publicized examples of something that has become crystal clear over the past few years: the momentum behind cleaner, software-enabled forms of mobility is powerful and seemingly unstoppable.What does this mean for companies and consumers? In this article, we’ll look at four trends that illustrate the way this new form of transformation will develop: the increasing support of capital markets; the kinds of features these vehicles will have, as seen by the demands of Chinese consumers; the speed needed for this transition to contribute meaningfully to the slowing of climate change; and the impact this shift will have on labor markets.
+	
+
+	
+
+
+	
+by , , , Dennis Schwedhelm, and Over the past year and a half, the mobility industry has significantly outperformed top-performing industries, such as semiconductors and big tech, in capital markets. We think this reflects that new mobility start-ups are doing six key things right:
+	
+
+    
+    
+    
+    
+    
+    
+
+    
+Traditional auto companies will compete fiercely to capture a healthy portion of these new value pools. Hybrids and EVs have been part of their portfolios for a long time now, and they are rapidly accelerating their efforts to win subscription revenue and think software-first. Whether those efforts are enough for capital markets to reward them too remains an open question. is a partner in McKinsey’s Frankfurt office,  is a partner in the Cologne office,  is a senior partner in the Chicago office,  is a senior expert, and  is a senior partner in the Munich office.
+	
+
+
+	
+by , Florian Garms, , and If you’re a Chinese owner of an electric car, your experience is significantly different from that of most Western electric-car owners. In fact, your experience inside the car is in many ways just an extension of your experience outside the car.New Chinese automakers have tapped into advanced technologies to deliver a customer journey that is friendly and convenient, starting with online sales, which are the norm in China. But the experience is truly differentiated when you climb into the driver’s seat. Advanced facial-recognition systems using in-vehicle cameras kick in immediately, adjusting the seat, steering wheel, and interior lighting to your preferred settings. A customized avatar on the central dashboard screen greets you and even offers up restaurant recommendations if you say that you’re looking for someplace to eat. If you want to change the music during your drive, just say so. Chinese automakers have also improved on charging and parking: valet charging services will drive the car to a charging station during your work hours and return it to your parking spot before your commute home. And if you do have to charge the car yourself, you can pay for it from the infotainment screen, which has many of the features and apps that you get on your smartphone.
+    
+These developments may not seem as significant as, say, electrification itself. But they have the potential to be hugely significant. Chinese consumers are willing to pay twice as much as their Western peers for such features. Electrification may eventually become the expected norm, just as gasoline-powered engines did. But connected, consumer-friendly features have the potential to woo customers—in China, 56 percent of consumers say they’d be willing to change brands for better connectivity. OEMs around the world would be wise to pay attention to that statistic. It may well be that the differentiating feature in the car of the future will be its ability to mimic the conveniences we’ve come to expect from our smartphones. is a senior partner in McKinsey’s Hong Kong office,  is a consultant in the Berlin office,  is a partner in the Toronto office, and  is a senior partner in the Houston office.
+	
+
+
+	
+by Julian Conzade, , and Patrick SchaufussDespite 2020 being a tipping-point year for EV sales, automakers and consumers will need to accelerate their adoption if we hope to meaningfully limit climate change. Reducing carbon emissions from vehicles is critical—currently, road transport accounts for 13 percent of global carbon emissions.To understand the depth of the challenge, consider that the pace of technology development of mobility is already quite fast. The cost of EV batteries, for example, is now just $100 per kilowatt-hour, down from $1,200 in 2010. Investment in EV-related technologies and assets almost doubled in 2020. And yet these advancements still aren’t enough to ensure that we’ll hit the 1.5°C climate targets.The decade between 2025 and 2035 will determine whether the industry can keep cumulative CO emissions for passenger cars (through 2050) to under 45 gigatons, a “carbon budget” that would , according to McKinsey analysis. Mobility players, consumers, and governments face five challenges:
+    
+    
+    
+    
+    
+
+    
+None of this will be easy. Holding emissions under the 45 gigaton target will require a cross-industry effort among companies, industries, and government. For instance, the energy and transport sectors can work together to drive smart-charging technologies that would in turn accelerate the shift to EVs. Coalitions can be formed to develop clean supply chains for the creation of low-carbon battery solutions that reflect the full potential of a circular economy. Ultimately, regulators and policy makers may have to intercede, adopting an ecosystem perspective with cross-border goals and meaningful timelines for everything from number of charge points needed to the trajectory of carbon reduction. Without this kind of cooperation, it’s unlikely that the shift to EVs will realize its full potential for creating a sustainable battery value chain and for mitigating the impact of climate change. is a consultant in McKinsey’s Munich office, where  is a partner;  is a partner in the Detroit office.
+	
+
+
+	
+by , , and Kirsten WeerdaOver the next five to ten years, the skill sets of traditional automakers and suppliers will need to shift dramatically. Several factors will drive this change.The rising importance of in-vehicle software and connected and autonomous cars increases the need for digital talent, putting OEMs worldwide in direct competition with Silicon Valley and the Chinese digital giants. But the shift isn’t merely an issue of seeking out new kinds of engineers. Drawing from thousands of existing databases, we created a taxonomy of the future skills the industry will need. Based on that work, we believe that demand for workers with today’s standard skill sets will drop by up to 30 percent in the coming decade.A reduction of employees could occur across the entire automotive value chain. As consumers become increasingly comfortable buying everything online, existing dealer networks could shrink dramatically and shift their focus to maintenance. Manufacturing could take a similar hit, driven mostly by OEMs shifting to EVs with simpler assembly processes and very different parts. Both factory workers and current powertrain suppliers will be affected. Existing large-scale combustion-engineering departments will no longer be needed after 2030—EVs require engineers with more electrical skills and an understanding of battery chemistry. As with many other industries, up to 50 percent of some support-function tasks, such as accounting or order processing, are likely to be fully automated. And for those tasks that can’t be automated, we may see the creation of shared service centers in low-cost locations, now that companies are more skilled at using digital tools and more comfortable with remote work because of the pandemic.New skills will be needed, especially in software and data analytics, which will be critical for online sales and marketing channels. We believe automakers can close up to half of the skills gap organically, by way of reskilling, continuous education, and hiring. M&A and strategic partnerships, already a core aspect of the mobility ecosystem, will also play a big role. Every automaker needs a strategic workforce plan that identifies critical roles and skills at every level in the organization, and matches the right talent to the most value-creating roles. This would be a big shift from the traditional succession and talent management processes of OEMs, which have focused on the top tiers of the company.
+    
+This skills transformation will demand a culture transformation as well. Automakers will have to provide the kind of employee experience that top talent has come to expect at tech companies, which means approachable managers, speedy hiring and onboarding, agile-work and fast-decision processes using QBRs [quarterly business reviews] and OKRs [objectives and key results] methodologies, compensation and incentives tied to talent rather than hierarchy, and an acceptance of flexible and remote work. All in all, the changes to the automotive workforce are likely to be as extensive as the changes coming to the vehicles they manufacture. is a senior partner in McKinsey’s Cologne office,  is a senior partner in the Berlin office, and  is a partner in the Munich office.

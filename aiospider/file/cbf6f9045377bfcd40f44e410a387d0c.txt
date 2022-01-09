@@ -1,0 +1,111 @@
+
+
+The RAND Blog
+Previous Blog PostThe Informal Carers Who Help People with MS Need Support More Than EverNext Blog PostNew Thinking to Translate Infrastructure Dollars into Resilience
+
+Origin Story: How Did the Coronavirus Emerge?
+commentary
+(The National Interest)
+Photo by Stockcrafter/Getty Images
+
+
+
+by Daniel M. Gerstein
+June 2, 2021
+
+
+President Joe Biden has called for the U.S. intelligence community to “redouble efforts to determine the origins of the COVID-19” pandemic. This mandate is based on a new U.S. intelligence report that indicated several of the lab workers at China's Wuhan Institute of Virology became sick in autumn 2019 “with symptoms consistent with both COVID-19 and common seasonal illness.” Allegedly, the three were hospitalized in November 2019.
+The charge to the intelligence community was to determine whether “the virus emerged from human contact with an infected animal or from a laboratory accident.” In conducting this investigation, it might be useful to avoid only focusing on a binary choice. That is, either the virus escaped from the laboratory or from a spillover from an infected animal to a human.
+In this first scenario where the virus would have escaped from the laboratory, the implication is that research on this virus species was being conducted at the laboratory, perhaps even gain of function research, which involves changing a pathogen's genotype to cause a gain or loss in a desired function such as the ability to replicate efficiently. This information can be very useful in understanding the functionality of a pathogen and developing medical countermeasures. It could also have adverse consequences if not done in proper containment and the virus escapes from the lab.
+The second scenario would result from a spillover that occurs in nature. This occurs when humans and animal species come into close contact. Unfortunately, these spillovers are occurring with greater frequency. The 2003 severe acute respiratory syndrome and the Middle East respiratory syndrome are both coronaviruses related to COVID-19, which appeared to have resulted from just such spillovers.
+There are two alternative scenarios that could be considered as well. The first would be a spillover event where researchers from a laboratory—possibly China's Wuhan Institute of Virology that studies coronaviruses—were searching for isolates of bat coronaviruses in nearby caves. Perhaps they were either not wearing the proper personal protective equipment, did not properly decontaminate after leaving the cave, or inadequately secured and sealed their samples. The coronaviruses they collected need not have included COVID-19. Instead, it could have been near genomic neighbors that through replication, mutated and became COVID-19 variants.…
+The remainder of this commentary is available at nationalinterest.org.
+
+Daniel M. Gerstein, a senior policy researcher at the nonprofit, nonpartisan RAND Corporation, served as the undersecretary (acting) and deputy undersecretary in the Science and Technology Directorate of the Department of Homeland Security from 2011 to 2014.
+This commentary originally appeared on The National Interest on June 1, 2021. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Daniel M. Gerstein
+@Daniel_Gerstein
+Senior Policy Researcher
+
+
+
+
+
+
+Topics
+ Biology and Life Sciences
+Biosurveillance
+Coronavirus Disease 2019 (COVID-19)
+Pandemic
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Project
+Tracking the Spread of COVID-19 Through Air Travel
+
+Jun 5, 2020
+
+
+
+
+
+
+
+
+
+
+Commentary
+The Meta-Lessons from COVID-19
+
+Nov 2, 2020
+Luke J. Matthews
+
+
+
+
+
+
+
+
+
+
+Report
+Superspreaders of Malign and Subversive Information on COVID-19
+
+Apr 29, 2021
+Miriam Matthews, Katya Migacheva, et al.
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:Commentary","Content Types:Blog","Research Topics:Health, Health Care, and Aging/Infectious Diseases/Coronavirus Disease 2019 (COVID-19)","Research Topics:Science and Technology/Biology and Life Sciences","Research Topics:Health, Health Care, and Aging/Infectious Diseases/Epidemic/Pandemic","Research Topics:Health, Health Care, and Aging/Public Health/Public Health Preparedness/Biosurveillance"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Commentary","value":"content-types:commentary"},{"display":"Blog","value":"content-types:blog"},{"display":"Coronavirus Disease 2019 (COVID-19)","value":"research-topics:health-health-care-and-aging/infectious-diseases/coronavirus-disease-2019-COVID-19"},{"display":"Biology and Life Sciences","value":"research-topics:science-and-technology/biology-and-life-sciences"},{"display":"Pandemic","value":"research-topics:health-health-care-and-aging/infectious-diseases/epidemic/pandemic"},{"display":"Biosurveillance","value":"research-topics:health-health-care-and-aging/public-health/public-health-preparedness/biosurveillance"}];})();
+

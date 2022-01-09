@@ -1,0 +1,310 @@
+
+								
+
+
+
+Remarks as delivered:
+
+
+
+
+
+In his address to the Joint Session of Congress in April, President Biden argued that the question of our time is whether democracy rather than autocracy is best poised to deliver for its citizens and to meet the major challenges of our time. And President Biden believes deeply, fundamentally, that making technology deliver is critical to making sure that democracy delivers – making sure that technology delivers – for democratic value and for inclusive prosperity.
+
+
+
+
+
+And so as I see it, the choice today is whether we can muster the will, the energy, and the resources to alter the course of the digital revolution. And I’d like to start by putting that choice in historical context.
+
+
+
+
+
+The first wave of the digital revolution promised that new technologies would favor democracy and human rights. The second wave saw an authoritarian counterrevolution. And the question now is whether we can engineer a third wave of the digital revolution—a turn in which we forge a democratic technological ecosystem characterized by resilience, integrity, and openness with trust and security, that reinforces our democratic values and our democratic institutions.
+
+
+
+
+
+I don’t need to tell this audience about the optimism in the early internet era. When new technologies were hailed as liberalizing by their very nature. And to be fair, it was a moment when the tide of history was rolling in that direction: the Berlin Wall fell—aided by the radio and other forms of communication. The internet emerged and rapidly became the ultimate connector. How could it not also be a global democratizing force?
+
+
+
+
+
+We also took for granted the hard infrastructure advantages that underpinned America’s technological dominance. In 1990, we enjoyed more than 35 percent of global semiconductor manufacturing capacity. At the end of the 90s, the two largest and most innovative telecom equipment manufacturers were America’s Lucent and Canada’s Nortel.
+
+
+
+
+
+But we failed to see that the seeds of an authoritarian resurgence had already been planted. Recognizing—indeed, fearing—that the digital revolution would be a democratizing force or could be a democratizing force, China began an ambitious project to make the internet work for autocracy. Its Golden Shield Project gave rise to a sophisticated domestic censorship apparatus and an internet blocked from the rest of world by the Great Firewall.
+
+
+
+
+
+And that project was not just about the internet and software. In the mid-90s Huawei laid the groundwork for becoming a global player. In 1999, the Beijing Genomics Institute, now known as BGI, was formed. And in 2000 SMIC, China’s leading semiconductor firm, was founded.
+
+
+
+
+
+So in the second wave, the authoritarians struck back. Government control of the internet proliferated. In each year of the last decade, global internet freedom has declined. Internet shutdowns have become a routine tool to crush dissent as we just saw this past Sunday in Cuba. And digital surveillance exploded. Beijing’s mass video surveillance network – pointedly called “Skynet” – and other programs are combining hundreds of millions of cameras with high performance computing, facial and gait recognition technologies, and pilot social credit systems all in an attempt to implement algorithmic social control at a national scale.
+
+
+
+
+
+None of this operates seamlessly, but the AI applications that support these systems are advancing rapidly. And our advantages in the digital base layer – the hard infrastructure of chips and telecoms equipment – has also eroded. America’s share of semiconductor manufacturing capacity shrank by two-thirds, and we lost the ability to manufacture chips at the leading edge. The once dominant North American telecom companies withered, and Huawei’s growth and global reach surged.
+
+
+
+
+
+Meanwhile, the dramatic growth of China’s biotechnology sector shows Beijing’s interest in the convergence of advanced biotech and AI, of the revolutionary potential of programmable biology, and the foresight that this revolution will be driven by amassing genomic data.
+
+
+
+
+
+In the course of events, Beijing leveraged theft of IP and rule-shattering subsidies to advance its work. But China’s trajectory also was supported by an under-appreciation in the West and in the United States of the importance–-and the fragility–of our technological preeminence as well as by a reflexive and bipartisan allergy for many years, indeed for decades, of industrial policy of almost any stripe.
+
+
+
+
+
+We seemed to take for granted that our technological advantages were somehow permanent and invincible. We did not fully grasp that those advantages must be prized, preserved, and renewed. Democracies have also faced new challenges – disinformation, surveillance, cyber intrusions – from technologies that we thought would once almost inevitably favor democratic values.
+
+
+
+
+
+If democracies don’t turn back this tide, the second phase of the digital revolution will grow darker:
+
+
+
+
+
+·         With the global diffusion of networked surveillance systems designed to monitor, punish, and condition behavior at scale;
+
+
+
+
+
+·         With the proliferation of autonomous disinformation;
+
+
+
+
+
+·         With strategic competitors dominating critical technology supply chains, and leveraging that dominance coercively;
+
+
+
+
+
+·         With those same competitors expanding their access to sensitive data through the proliferation of their software, their hardware, and their communications infrastructure.
+
+
+
+
+
+When I hear our European partners refer to “systemic rivalry,” this is where the rubber hits the road. These are the stakes of systemic rivalry—and I’m not sure that they could be higher.
+
+
+
+
+
+So the question before us today is whether we have the will and determination to usher in that third wave of this digital revolution. Whether we can reboot and ensure that critical and emerging technologies work for, not against, our democracies and our security.
+
+
+
+
+
+I believe that third wave is within our reach, if, across party lines, across the public and private sectors, and across borders to allies and partners:
+
+
+
+
+
+·         We invest in our enduring advantages,
+
+
+
+
+
+·         We promote our shared values,
+
+
+
+
+
+·         We protect our technological ecosystem,
+
+
+
+
+
+·         And we mobilize and organize the rules of the road for the 21
+st
+ century with our partners and allies.
+
+
+
+
+
+First, let’s start with investing in our enduring advantages. With bipartisan support in Congress, we are poised to reinvest in a major way in science and technology research and development, particularly through the USICA – I guess is how we describe the U.S. Innovation and Competition Act. It rolls trippingly off the tongue. USICA.
+
+
+
+
+
+We have to get this done to reverse the decades-long decline in federal R&D in science and technology. If there’s anything that the first two waves of the digital revolution have taught us, it’s that long-term U.S. leadership in technology is not assured. Large-scale efforts that harness the public, private, and academic sectors can however measurably secure that leadership if we put the resources and wherewithal behind it, and that is what this piece of legislation sets the framework for doing.
+
+
+
+
+
+A major piece of USICA is focused on hardware. Semiconductors could not be more foundational to our modern economy and to our innovation base, and the CHIPS Act is crucial for re-establishing U.S. semiconductor leadership and supply chain security.
+
+
+
+
+
+We also have to keep working hard to secure our advantages in advanced biotechnology and biomanufacturing, to harness their potential from everything to delivering new vaccines and therapeutics, to addressing the climate crisis, to bolstering our fundamental supply chain security. And at the same time, we have to drive progress on 5G vendor diversity and security, and develop new work on digital identity.
+
+
+
+
+
+This brings me to a really important point where the convergence of economics and national security have really created new intersections in the Biden Administration. Just last week, the President signed an Executive Order on competition policy. Competition, openness, interoperability – they’re critical for ushering in the next wave of the digital revolution. And that is one of the reasons the President signed this Executive Order.
+
+
+
+
+
+It’s not just from a domestic policy perspective; it’s not just about economic fairness, as important as that is. But from a national security perspective, too, America needs vibrant competition and innovation, and this Executive Order and the thrust behind it will help bring that about. This means greater scrutiny of mergers, rules on surveillance and accumulation of data, and a fair shake for America’s small businesses. Because America’s technology leadership was—and again has to be—built on competition, not on concentration.
+
+
+
+
+
+And of course, as with all human endeavor, so much of the technology competition we are in boils down to talent. It’s something our technology firms know better than anyone, and the report goes into some detail about the need for us to be able to leverage and harness the talent not just of people in this country, but people around the world who want to come to this country to help build great things, great new innovations in the future. And in competition with China, the raw numbers are bracing. With a population of 1.4 billion people, China graduates four times as many STEM college majors as the United States. Still about 9 in 10 AI PhD students from overseas right now take a job in the United States after graduating. We have to keep it that way, and we need to build on that beyond the AI PhD field, to all the relevant adjacent fields of technology and innovation, so that it’s easier for America to be the destination of choice for the best and the brightest scientists and technologists from around the world.
+
+
+
+
+
+Second, promoting our values. Some of this is about investment in technologies, like privacy-preserving machine learning, or “PPML”, that promise to overcome data privacy challenges while still delivering the value of big data.
+
+
+
+
+
+Some of it is about getting back on the front foot when it comes to setting the technology standards of the future. Right now, the Biden Administration is working with allies and partners to shore up the integrity of international standards organizations—where the decisions on patents and technology development and integration are playing out as we speak—so that it’s democracies rather than the coercive or nationalistic efforts of autocracies in these bodies that get traction and drive outcomes.
+
+
+
+
+
+We are also pushing back on authoritarian abuses of digital tools within and across borders to surveil, censor, or harass human-rights defenders, civil society activists, journalists, and diaspora groups who are on the front lines in defense of democratic values.
+
+
+
+
+
+And it’s you know not just enough to stand up against abuses, we also have to have an affirmative laydown of a better way forward. So the Department of Defense, for example, and I know you’ll be hearing later from Secretary Austin, has demonstrated leadership in adopting strong AI Ethics Principles, requiring AI systems to be responsible, equitable, traceable, reliable and governable. Leave it to DoD to always have like five words like that – that kind of fit very nicely. We at the NSC could learn from that.
+
+
+
+
+
+The third big effort is of course protecting our technology ecosystem. Protecting the core of our innovation edge. This is why cybersecurity is a priority for the administration.
+
+
+
+
+
+In fact, just yesterday I swore in Chris Inglis as the first ever National Cyber Director. And from day one of the Biden Administration, we’ve had in place for the first time ever a Deputy National Security Advisor solely dedicated to Cybersecurity and Emerging Technology, because of how important this aspect of national security is, and how elevated it needs to be in every aspect of our national security decision making. In May, the President signed a broad Executive Order on improving the nation’s cybersecurity. He’s launched a major industrial controls system initiative to protect our critical infrastructure. Later this week, we’ll be announcing new actions on ransomware, followed next week by further announcements on steps we’re taking to improve our cyber resilience here in the United States.
+
+
+
+
+
+Then, on data security and privacy, our strategic competitors see big data as a strategic asset. And we have to see it the same way. But data security and privacy go to the heart of our national competitiveness, and the free flow of data with trust and security is critical for the third wave of the digital revolution. So under the Biden Administration, we have stood up a new data security review process under Executive Order 13873, and added additional criteria for software applications under yet a new Executive Order.
+
+
+
+
+
+And then of course we have to work closely and especially closely with our partners on our export control and investment screening regimes to make sure they are postured for intense technology competition. In this regard, we are also looking at the impact of outbound U.S. investment flows that could circumvent the spirit of export controls or otherwise enhance the technological capacity of our competitors in ways that harm our national security.
+
+
+
+
+
+Last but hardly least, we are working on all of the above with friends and allies around the world, because the foundation of the Biden Administration’s national security strategy is to work in concert with like-minded partners and allies, with the world’s fellow democracies, to organize and mobilize so that we are effectively gaining momentum and advantage in defining the terms of the competition to come and in meeting the great challenges that affect citizens of the United States and citizens everywhere. And friend and allies are not just other governments. They’re partners in private sector, in civil society, in academia. It’s a broad based coalition of actors who can come together to do more than just the United States government could ever do on its own.
+
+
+
+
+
+Now I know that the U.S. government can be challenging, frustrating, and sometimes difficult to work with. So we will try to do better, be marginally less annoying and frustrating at least. But you know we’re never going to be as nimble as industry. We’re never going to be as deep as academia.
+
+
+
+
+
+My hope, my plea is that our fellow citizens in industry and in the academy choose to partner with us because they see the stakes–and the risks–if they remain on the sidelines. There should be no neutrality when our core and most deeply held values are at risk as they are today.
+
+
+
+
+
+Over the last six months, we’ve put our shoulder into building technology alliances and partnerships that are fit for purpose and designed to deal with particular challenges within this broad frame of emerging technology we’ve been discussing today.
+
+
+
+
+
+With Europe, we can no longer let sibling rivalries turn into a larger family feud. That’s why we’re proud to partner with our European allies in a new U.S.-EU Trade and Technology Council, and with the UK in a new partnership on science and technology. We’ve launched new bilateral cooperative partnerships on critical and emerging technologies with both Japan and Korea, on issues ranging from semiconductors to genomics to quantum.
+
+
+
+
+
+At the first-ever Quad summit, we launched a Quad Critical and Emerging Technology Working Group that is already at work on supply chains, on 5G, on technology standards, and on horizon scanning for what’s coming next that we are going to have to contend with from a policy perspective. And President Biden has made clear that technology delivering for free societies and for human rights will be high on the agenda of his upcoming Summit for Democracy.
+
+
+
+
+
+There are also quieter initiatives, in a variety of configurations, on export controls and investment screening that will only pick up the pace in the months ahead.
+
+
+
+
+
+It’s true these efforts don’t play out in a single neat forum. We don’t have one initiative that packages them all up. But our experience—and the preference of many allies, by the way—is that this modular approach is more results-oriented, more flexible, more effective. And ultimately will ladder up into a set of results where the whole is greater than the sum of its parts.
+
+
+
+
+
+When you take all of these initiatives together, these four major elements of our strategy when it comes to emerging technologies, we are undertaking an enormous task, redesigning the field on which future technology competition will play out, breaking the second wave of the digital revolution and building momentum behind the third wave.
+
+
+
+
+
+As we do so, we must be open to both experimentation and to calculated risk. Whether we are talking about new investments in R&D or new regimes for data security, we are not going to be getting everything right the first time. Not every investment will pan out, not every threat will be captured in our first play. But we’ll adjust and self-correct—we’ll pick ourselves up and we’ll do better. Because that fundamentally is what America’s most unique advantage might be: our capacity for renewal, for regeneration, for honest appraisal, self-correction, and then improvement. The bipartisan support for investing in American innovation and infrastructure shows that America can rally as a country in the face of stiff competition, that we can do so across party lines, and that we can do so across every element, not just of our government, but our society to take on the stiff competition that we’re facing in the years and decades ahead.
+
+
+
+
+
+At the end of the day, an America united at home and with our friends can build a technological future that delivers for the United States and for our fellow democracies. If we do this, if we as a nation invest; if we nurture and welcome talent; if we protect our advantages; and if we hang together with friends and our allies, I believe a third wave is not only in our reach, but it will endure, and I thank you all for giving me the time to speak with you today.
+
+			

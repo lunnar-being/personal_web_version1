@@ -1,0 +1,45 @@
+
+        
+        
+        
+    have raised funds at substantial rates, attracting more and more high-profile investors. We reviewed the performance of recent SPACs—a mixed track record—and found a strategy that has produced success: SPACs that are led or co-led by operators rather than solely by investors tend to outperform throughout the deal cycle. One year after taking a target public, operator-led SPACs traded about 10 percent higher than their sector index and much better than other SPACs (a premium of about 40 percent). In this article, we review the changes that have placed SPACs at center stage, and we offer practical suggestions for sponsors that seek to deploy the operator’s edge.
+	
+Same SPACs, new tricksAfter some scandals in the 1990s and regulatory reforms in the 2000s, SPACs had a few moments of popularity. However, they generally remained small and developed a reputation as capital sources of last resort.In the past five years, however, SPACs have reemerged. In 2020, they have attracted unprecedented, market-shifting sums of capital:  as of August 2020, SPACs that were actively seeking business combinations held about $60 billion of capital (across more than 100 SPACs) and made up 81 out of 111 US IPOs.
+
+
+ In one month in 2020, SPACs raised more than they had in all of 2019. While private equity (PE) firms still hold vastly more capital, with an estimated $1.4 trillion in dry powder, many PE firms (or their alums) have also decided to raise SPACs.SPACs, at their core, have remained consistent throughout their history. They have a single objective: merge with a company and take it public (“de-SPAC”). SPAC sponsors file with the US Securities and Exchange Commission (SEC) just like any other IPO does, raise capital and place it in a trust, and publicly list their shares. The SPAC model affords sponsors great flexibility, with few constraints on the choice of target (thus SPACs are commonly called “blank check” companies). Sponsors also have relatively few responsibilities after the close: the SPAC sponsor typically takes a minority stake in the merged company (or combination) and may also take a board seat.So, what changed? Starting in 2015, SPACs appeared to become better-organized, more serious investment vehicles, with three notable differences from previous years:
+     More than 90 percent of recent SPACs have successfully consummated mergers (Exhibit 1). Prior to 2015, at least 20 percent of SPACs had to liquidate and return capital to investors.
+    The average trust size of SPACs has increased more than fivefold in the past decade, as the average leapt to more than $200 million in 2016 and $400 million in 2020.
+    SPACs entered the mainstream by increasing their number of high-profile investors and recruiting executives from high-profile companies.
+
+    
+Sponsors and investors have also begun seeing SPACs as compelling and perhaps even better alternatives to traditional IPOs. From our discussions with SPAC leaders, bankers, and lawyers, we discovered three consistent themes. First, SPACs offer a simpler IPO process that saves time and energy for all parties and gives sponsors more flexibility to set their targets’ narratives. Second, SPACs offer protections, such as the right of an investor to withdraw capital with interest at the time of a proposed business combination, which essentially creates a riskless “free option.” Third, SPACs offer their targets’ shareholders greater certainty on valuation. Those shareholders may leave less money on the table than they would in a traditional IPO, when underwriters may set an initial price below the market’s actual valuation.
+
+
+Outperformance matters—especially for sponsorsSPACs keep sponsors motivated mostly with carrots, not sticks. While sponsors may profit from mediocre deals, they can earn more if the combination modestly increases in value. In a typical $300 million SPAC, a 20 percent increase in stock price in the first year after combination can yield a double-digit multiple of up-front capital. Consider the following:
+     Typically, the sponsor  receives about 20 percent of the SPAC’s  value (inclusive) in equity in the combined company. Those shares will benefit from a rising stock price.
+    For most SPACs, the sponsor must hold the promote as equity in the combination for one year. Outperformance can end the lockup early, but in any case, the sponsor will need sustained outperformance for months after the combination.
+    The sponsor usually receives special warrants that convert to equity if the combination’s stock price exceeds certain thresholds. This structure has a powerful magnifying effect, as it can, in some cases, significantly increase the sponsor’s stake.
+    The sponsor may want to raise another SPAC and enjoy  an additional promote. More generally, established investors will want to guard their records for whatever fundraising may follow.  The sponsor will want to secure a good deal—one that outperforms—to build a record for future fundraising.
+     This term functions more like a stick: as with most merger transactions, SPACs’ investors must still vote to approve any deals. While rejections are rare, they can happen; sponsors are sensitive to the investors that choose to redeem their capital versus participate in mergers. Good deals secure sponsors’ promotes—and their reputations.
+
+		
+	
+Maximizing returns through the operator’s edgeDespite explosive growth, and the many incentives sponsors have to succeed, most SPACs have not outperformed. On average, SPACs since 2015 have substantially lagged behind their market indexes one year after the combination.
+
+
+Some SPACs have bucked the trend. We have observed a potential recipe for SPAC success: add the operating edge. We analyzed the 36 SPACs from 2015 to 2019 of at least $200 million with at least 12 months of publicly available trading data. One year after merging, operator-led SPACs outperformed both other SPACs (by about 40 percent) and their sectors (by about 10 percent) (Exhibit 2).
+
+
+ “Operator led” means a SPAC whose leadership (chair or CEO) has former C-suite operating experience (versus purely financial or investing experience). The findings, while not statistically significant, strongly suggest that operators make a meaningful difference.Operator-led SPACs behave differently from other SPACs in two ways: they specialize more effectively, and they take greater responsibility for the combination’s success.
+    
+Operator-led SPACs have a higher tendency to identify an industry focus in their initial SEC filings (Exhibit 3). Unsurprisingly, the operators generally focus on their areas of expertise. Such initial filings typically do not unduly constrain the SPAC; instead, they signal to investors that the SPAC’s leaders will focus their resources on the areas they know best. Resources are scarce, so the focus matters; SPACs only have 18 to 24 months to find a deal, with minimal working capital. A narrower, more informed search may yield more effective sourcing, higher-quality diligence, better value-creation plans, and ultimately, better-performing assets.
+    
+Second, operators have increasingly taken leadership roles on combinations’ boards. In almost two-thirds of combinations, operators take chair or vice-chair roles. Those roles allow the operators to put their industry experience to work for the longer term. The operators can provide more influential governance and see plans through to execution. As in PE, operators may prove better collaborators for management—or know when to find new management teams.In short, operators have helped drive outperformance starting from the SPAC’s IPO and continuing throughout the combination’s life cycle. An operator’s expertise may serve an important role in helping the SPAC narrow and vet its targets, then in exercising influence over the combination’s governance.Sharpening the operating edge: Practical adviceMcKinsey has long  the advantages of the “operating edge” in PE transactions. We can apply similar lessons to SPACs in three phases of their life cycle:
+    
+    
+    
+    
+    
+    
+As more SPACs raise funds and pursue deals, sponsors may find themselves under increasing pressure to differentiate their approaches and demonstrate returns. Having operators at the front, from the IPO to the combination and beyond, may offer SPACs a path toward better performance.

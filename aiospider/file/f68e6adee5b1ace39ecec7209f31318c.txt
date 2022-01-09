@@ -1,0 +1,109 @@
+
+        
+        
+        
+     with a preworkout breakfast of synthetic eggs and lab-grown bacon, a diet tailored to your own genetic requirements. You get dressed in a biosynthetic tracksuit made from fibers that can self-repair. You drive to the gym in a car that uses biofuels produced by microbes engineered using synthetic biology. After a workout, you apply an antiaging face cream tailored to your skin’s genetic predisposition. At work, you put on an audio headset that measures stress levels from your brain waves and suggests ways to alleviate them in real time.
+        
+
+
+    
+    This is a not-so-distant day in the life of the Bio Revolution now underway. Fueled by breakthroughs in biological science and the confluence of exponential advances in data, analytics, and digitization, what until recently might have read like a page out of a science fiction novel is becoming a reality. Moreover, biological innovations have been deployed to aid in the response to COVID-19, allowing for faster identification of the virus, more effective diagnostics, and new bioengineered treatments.
+
+
+ The wide-ranging implications for business executives should go well beyond the obvious and expected (see sidebar, “The Bio Revolution is not science as usual”).Indeed,  found that more than half of the potential direct economic impact from biological technologies—applied to nearly 400 use cases in multiple sectors—is outside of healthcare, notably in agriculture and food, materials and energy, and consumer products and services.
+
+
+ The likely disruption of the Bio Revolution is vast and poised to influence a wide range of industries. New crosscurrents are already emerging, with four rising to the top:
+	
+
+    the importance of biological capabilities as a source of competitive advantage
+    the growth of platform-based business models accelerating scientific discoveries
+    the opportunity for more personalization and precision products and services
+    the spread of new relationships driven by barbell-shaped ecosystems
+As new entrants prepare to take some markets by storm and incumbents in others invest aggressively to stay in the game and win, this is no time for inaction. That said, there’s considerable uncertainty around the speed of technology development, commercialization, and consumer adoption, as well as around the response of regulatory agencies to these new opportunities. The complexities of biological technologies raise many new risks, ethical issues, and, at times, fear, far beyond the current paradigm of regulating biotech products in pharmaceuticals and agriculture. Given the scope of change that lies ahead, working through those uncertainties and business shifts to the opportunities is a critical—and often-overlooked—priority for leaders today.
+	
+
+
+	
+To some extent, we have seen this movie before. The digital revolution unleashed a set of new, digitally native companies competing across sectors, driven by deep, cross-sectional data and analytics, forcing every company to consider how digital would affect its business. With investment surging in a new generation of biological technologies to the tune of more than $20 billion in 2018,
+
+
+ driven largely by “-omics” and molecular technologies, a wide range of companies are now looking to do the same in the Bio Revolution.
+
+
+ Their efforts are unleashing four critical, strategic crosscurrents.Biological capabilities as a source of competitive advantageThe Bio Revolution is bringing with it a new array of capabilities that will fundamentally transform how companies compete. Like the recent rise in data-science and software-engineering skills, new specialty skills in fields such as genomics, molecular biology, biochemistry, and neuroscience will be in increasingly high demand. Indeed, the merging of digital skills with biological skills is a potent combination. These new capabilities are driving faster and cheaper production methods, creating better-performing inputs with superior characteristics, and, ultimately, delivering added-value products and services to end customers. It’s no wonder we are seeing many players trying to gain first-mover advantage.
+            
+            
+                    
+     New, more scalable fermentation and bioengineering processes can replace traditionally expensive and resource-intensive production methods. For example, Amyris now produces squalane, a moisturizing oil used in many skin-care products, via the fermentation of sugars through genetically engineered yeast. Squalane traditionally has been obtained from processing deep-sea-shark liver oil, a costly and environmentally questionable source. Amyris’s new production method provides a pure, stable product in high volume at a low cost and from a renewable source. Developing a better understanding of the economic benefits of new biological technologies will become increasingly important for incumbents striving to maintain a competitive edge.
+    
+ New biological production methods can also radically improve the quality and characteristics of products. For example, US start-up Tandem Repeat produces self-repairing, biodegradable, and recyclable fabric using proteins encoded by squid genes.
+
+
+ Other bioengineering methods aim to develop novel materials to meet consumer trends. Biotech company Zymergen is creating renewable biomaterials for optical films used in displays; hard, scratch-proof coatings; and flexible electronics circuits.
+
+
+ These new, biologically enhanced inputs are set to propel a wave of innovation that may open new top-line opportunities.To compete, companies will need to master not only the science and ability to innovate but also the ability to scale to industrial levels. Converting scientifically feasible methods into scalable and profitable business capabilities will help separate winners from losers. As companies navigate the flood of biocapabilities entering the market, assessing the direct and indirect impact on their business will inform the decision to invest in or source out these new capabilities. Whichever proves to be the right choice, to identify, assess, and execute in this new marketplace, companies will need to build their knowledge associated with the Bio Revolution.Platform-based business models accelerating discoveries that allow them to seize cross-sector opportunities, reduce marginal costs, and mine large-scale data sources to drive combinatorial innovation. Now, companies with growing sources of biological data, like their digital predecessors, are integrating automation and machine learning to accelerate the pace and variety of scientific discoveries. These platform-based models enable businesses to deliver a diverse set of advantages that were unthinkable even a few years ago.
+            
+            
+                    
+    To understand the nature of biological platform opportunities, consider the state of play in agriculture. Providers of genetic services to animal-breeding and seed companies have developed proprietary platforms with genetic markers and computational capabilities that can accelerate animal breeding and seed selection by potentially predicting hundreds of traits. Other players use massive microbiome data sets to enable the creation of new, microbial solutions that could improve nutrition and health for plants and animals.
+
+
+ The rise of sophisticated and extensive computer modeling with genetic and microbiome insights can supplement traditionally slow, sequential experimentation and open the door for these new platforms to compete.
+    
+Beyond agriculture, platform players looking for speedier growth are expanding accessibility and usage of their platforms, allowing other companies—including potential competitors—to build products or services on top of their databases. For example, Ginkgo Bioworks recently announced the Ferment Consortium, giving spin-off companies full access to its genome-mining platform for cell programming.
+
+
+Gaining momentum and armed with “data flywheels,” in which each new piece of data makes collecting the next piece easier, platforms are becoming a growing source of competitive advantage in the Bio Revolution. Incumbents will need to understand how these platforms are evolving in order to identify where the most attractive opportunities lie. Moving forward, some incumbents might choose to take advantage of others’ platforms or consider creating their own platforms to experiment rapidly and learn at scale.Opportunity for more personalization and precision products and servicesAdvanced personalization and precision, powered by a growing amount of biological data—including genetic makeup and microbiome composition—is set to transform and, in many cases, deepen the relationships among customers, the products they use, and the companies that make the products. While most of the hype around
+the Bio Revolution is about new technologies such as CRISPR-Cas9, which is used to manipulate biological processes, our research shows that applying insights derived from analyzing biological data accounts for more than 50 percent of the economic potential over the next ten years. Businesses today are already planning on how to monetize the exabytes of genetic data collected each year (one exabyte = one billion gigabytes).
+            
+            
+                    
+     , products and services tailored to the biological makeup of individuals, such as food and skin sensitivities, will become the new normal. Some DNA- and microbiome-testing companies are using proprietary databases to launch personalized nutrition products and services as add-ons. Some new offerings include, for instance, subscription-based meal plans and dietary supplements that claim to be tailored to customers based on DNA- and microbiome-testing results. These new players, increasingly in competition with consumer-goods, services, and marketing companies, will provide unique experiences and points of differentiation.
+    
+Some incumbents have already spotted the opportunities and are increasingly interested in mining these data. Imagene Labs announced a deal with ONI Global in 2019 to offer its genetic test and resulting skin-care-product recommendations in General Nutrition Centers’ Malaysia, Philippines, Singapore, and Taiwan stores.
+
+
+ Dating service eHarmony believes that genetic analysis could streamline the matchmaking process as soon as 2040, with DNA data feeding into algorithms of online relationship sites.
+
+
+ Growing biological data banks are increasingly providing new opportunities for precision products and services in industries such as agriculture and medicine. With an emerging understanding of the role of the microbiome, precision agriculture is set to drive innovative farming solutions that improve operational efficiency and economic output. For example, Trace Genomics can interpret health and disease-risk indicators by profiling the soil microbiome. These insights can help growers choose tailored seeds, nutrients, and other inputs, adding to the tool kit for precision agriculture that also includes satellite imaging and geospatial analysis.Incumbents will be able to maintain or capture new value only if they look at the entire ecosystems of their products and services and begin to understand how to use biologically derived insights to outperform their competitors. This may come through personalized, seamless experiences—such as precision medicine delivering the right drug for the right therapy at the right time—or through precision products and services that advance operational efficiencies.
+		
+	
+Barbell-shaped ecosystems generating new relationshipsAn era of fluid, dynamic, and even agile partnerships has dawned, creating a range of new relationships between competitors and allies, large and small. This spur to collaborate is coming from the growth of barbell-shaped ecosystems: cross-sector networks balanced by the combination of many small, science-based companies on one side, often with entirely new digital and data capabilities, and a few large incumbents on the other, together driving the commercialization of new biological technologies. As Michael Jacobides, a professor at London Business School, has pointed out, “It is less and less likely that single firms can offer all the elements a customer needs—let alone afford to experiment with them. And so, ecosystems, especially designed ones, are on the rise.”
+
+
+ As technologies rapidly evolve, and biotech and artificial intelligence converge, both larger incumbents and smaller, science-based start-ups will struggle on their own to drive R&D and navigate commercialization.
+            
+            
+                    
+     Small, science-based start-ups currently at the forefront of innovation are pushing the boundaries of what is possible and what some incumbents might consider too risky to do themselves. This is leading to a growing range of collaborations between new players embracing the high-risk, high-rewards of science-based opportunities and incumbents ready to harness the unique biocapabilities of these newcomers. For example, to capture the cost effectiveness and higher precision of the new gene-editing technology CRISPR, established players in agriculture and pharma are among those setting up R&D collaborations with several CRISPR players, such as Caribou Biosciences, CRISPR Therapeutics, and Pairwise. Some incumbents, hedging their bets, are choosing to partner with multiple—and, at times, competing—start-ups.
+    
+ From full-blown acquisitions to more agile and short-term collaborations, large incumbents are testing different partnership approaches with smaller, science-based start-ups. In some cases, large incumbents with extensive customer networks are well positioned to test and launch the new products produced by smaller players that lack a customer base. Companies such as Novozymes and Inari have been striking partnerships with established seed producers that have longstanding relationships with farmers and growers to introduce -omics-driven innovations. In other cases, opportunities emerge for deeper collaboration and investment to leverage the larger partner’s commercial expertise and navigate regulation and commercial-approval processes better. In the area of brain-computer interfaces, Facebook spent between $500 million and $1 billion in 2019 to acquire CTRL-labs, a tech start-up that translates neural signals from muscles as inputs in software.
+
+
+ These varying relationships offer benefits for both players and are pivotal to the commercial success of many of the new biological technologies.As the boundaries of traditional biological industries and other sectors blur, understanding the growing role of barbell-shaped ecosystems in pushing R&D and commercial opportunities will become a greater source of competitive advantage for both incumbents and new science-based start-ups.
+	
+
+
+	
+The Bio Revolution is both rich with possibility and opportunity and fraught with risks and serious ethical considerations. Regulation and public opinion could propel or hold back the revolution, depending on how they play out. In this section, we describe some of the emerging risks and social and regulatory uncertainties that surround the Bio Revolution and may affect both its scale and pace in the coming decades.Emerging risksConcerns about personal privacy, embryo gene editing, bioweapons, and the accidental distribution of viral agents that could kill off entire species are just some of the rising fears we must contemplate when reviewing the risks of the Bio Revolution (exhibit).
+    
+In some ways, the risks associated with the Bio Revolution represent an expansion of existing digital concerns, including the rise of data-privacy and -security issues, as well as increasing accessibility to these new technologies. But there is also a larger, more expansive paradigm shift to consider. For instance, it is harder to control the boundaries of biology because of its self-replicating nature. We can unplug a computer, but biology, once unleashed, may not be switched off so easily, and we cannot necessarily opt out of its consequences. For example, the outcome from gene drives released into the wild or heritable alterations made to human germline DNA
+
+
+ could affect generations to come.
+    
+As companies explore opportunities, they will want to consider these risks and develop strong governance and organizational efforts to manage the moral issues at stake. Accountability for ensuring that biological technologies are responsibly and fairly deployed lies with a broad constellation of societal stakeholders—including businesses—which, in playing their crucial role, will find that making informed judgments involving the right set of stakeholders is an integral part of commercializing new products.Social and regulatory uncertaintiesThe rate at which biological opportunities enter the market will fluctuate sharply in response to regulatory pressures. Regional variations of regulation can have significant impact on the potential to scale and commercialize biological technologies. Companies will need to sharpen their capabilities for engaging with national and supranational agencies.Public opinion and perception can lead to regulation changes and are therefore vital factors in how the Bio Revolution proceeds. We have seen this pattern before, with the regulation of the first wave of genetically modified crops. The United States took a permissive regulatory stance, Europe put in place a near-total ban, and China recently came out somewhere in the middle by banning the farming of genetically modified crops but not the import of selected varieties of harvested genetically modified crops.
+		
+	
+Beyond general sentiment, trust is a critical factor. People must have a degree of trust in companies that propose to sequence and analyze a person’s genome, edit children’s genes, or connect to a brain–machine interface. Within consumer markets alone, as the mining of personal genetic data increases, businesses will need to understand the trade-offs between advancing commercial opportunities and protecting public and social welfare.
+
+
+ For example, the data-sharing practices of some direct-to-consumer genetic-testing companies with pharma companies and app developers have been called into question by consumers and media, revealing just how precious trust is—and how easy it is to damage it with just a few poorly handled mistakes.Where do we go next?As with most revolutions—imagine writing an article about the internet’s prospects in 1987—it is hard to imagine where we will be when the dust settles, if it settles at all. What we do know is that the next 30 years will see the introduction of a profusion of biological products across a wide range of industries that have the potential to disrupt business completely in unforeseen ways. Now is the time to start asking the following questions:
+    Where do I stand in relation to my peers in understanding and harnessing biological technologies? What, in other words, is my “biological quotient”?
+    How much of my resources should I allocate to investing in biological technologies and capabilities?
+    How should I integrate new biological-technology capabilities into my existing R&D processes? To what degree should I partner with science-based start-ups to drive innovation?
+    What are some of the risks associated with the Bio Revolution that might affect my company’s reputation in the market (or even industry at large) and the public’s trust?
+Business leaders, scientists, and regulators will need to work together to engage on public concerns and ensure that innovations do not cross ethical boundaries—even while giving science and businesses the room to explore exciting new directions.

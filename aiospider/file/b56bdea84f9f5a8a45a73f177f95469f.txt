@@ -1,0 +1,211 @@
+
+
+In Mosaic warfare, individual warfighting platforms are assembled like ceramic tiles to make a larger "mosaic," or force package. Noting that the immune system has evolved over 500 million years to exhibit mosaiclike properties — meaning that these properties have conferred some evolutionary advantage — the authors suggest that Mosaic warfare might have advantages, such as resilience and adaptability, over other approaches to defeating a threat.
+
+
+
+
+Read Online
+
+Distributed Kill Chains
+Drawing Insights for Mosaic Warfare from the Immune System and from the Navy
+by Nicholas A. O'Donoughue, Samantha McBirney, Brian Persons
+Related Topics: Biology and Life Sciences, Military Force Planning, Netcentric Warfare, United States Department of Defense, United States Navy, Wargaming
+CitationEmbedView related products
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+DownloadDownload eBook for Free
+
+FormatFile SizeNotes
+
+
+
+
+PDF file
+
+
+8.7 MB
+Use Adobe Acrobat Reader version 10 or higher for the best experience.
+
+
+
+
+Purchase
+Purchase Print Copy
+
+ FormatList Price
+Price
+
+
+Add to Cart
+Paperback104 pages
+$22.50
+$18.00 20% Web Discount
+
+
+
+
+
+
+
+
+
+
+Research Questions
+
+What are the advantages of Mosaic warfare?What are potential challenges in the transition to Mosaic warfare?What changes in the way that systems are procured, evaluated, and fielded might be required to cope with the expected traits of Mosaic warfare?
+
+
+
+In Mosaic warfare, individual warfighting platforms are assembled — like the ceramic tiles in mosaics — to make a larger picture or, in this case, a force package. The Defense Advanced Research Projects Agency (DARPA) is developing this novel warfighting construct to acquire, field, and employ forces. To reveal the value of Mosaic warfare and uncover potential challenges in the transition to this system, the authors of this report present a pair of case studies: (1) an analysis of the human immune system's response to pathogens and (2) an analysis of the U.S. Navy's Naval Integrated Fire Control — Counter Air (NIFC-CA) project.
+Noting that the human immune system has evolved over 500 million years to exhibit mosaiclike properties — meaning that these properties have conferred some evolutionary advantage — the authors suggest that Mosaic warfare might have similar advantages, such as resilience and adaptability, over other approaches to defeating a threat. They then discuss lessons and best practices from the NIFC-CA project, which largely owes its success to its unique approach to development and fielding. For example, NIFC-CA used preexisting testing infrastructure; approached testing in a scientific manner, in which failure was viewed as a learning opportunity rather than a setback; and had a lengthy development timeline. From these lessons, the authors derive a cohesive set of policy recommendations for DARPA.
+Key Findings
+
+The Mosaic warfare system has much in common with the immune systemBoth contain many functioning parts, are highly adaptable, and are resilient; there is no single point of failure.
+However, with this resiliency comes inefficiency because of possible duplication of effort.
+A Mosaic system might be relatively difficult to control; there is no central authority, and there is a large number of platforms to direct.
+Robust communication is required because of these systems' disaggregated nature.
+A rapid, tailored response to a wide array of possible threats is also necessary.
+The NIFC-CA project largely owes its success to its unique approach to development and fielding, which provides several lessons for Mosaic warfareStructuring NIFC-CA as a project with minimal funding rather than forming a separate program with significant funding resulted in a small increase in funding requirements on the underlying programs — but also allowed NIFC-CA to survive the turbulence of budget cycles and reviews.
+NIFC-CA began with three exemplar kill chains and identified a standard for data structures early, which allowed the early use of experiments and ensured that all component programs understood a common data format.
+NIFC-CA used the testing infrastructure of preexisting programs instead of creating its own.
+Testing was approached in a scientific manner; test failure was seen as a learning opportunity, not a setback.
+Like NIFC-CA, which had a lengthy development timeline, the initial Mosaic warfare vision might take some time to field.
+
+
+Recommendations
+
+Identify pathfinder programs and exemplar vignettes to use as a foil when developing the Mosaic warfare architecture.
+Structure acquisition of the Mosaic warfare architecture as a project with pillar programs rather than as a program of record.
+Develop algorithms for robust data sharing and distributed processing across large networks of mobile systems.
+Develop low-cost rapid manufacturing of platforms and payloads that will make up the Mosaic warfare system.
+Develop distributed manufacturing capabilities in order to build the platforms and payloads that will make up the Mosaic warfare system close to where they are needed.
+Develop distributed and automated command-and-control algorithms and processes that can translate high-level commands to individual platforms and adapt behavior to changing environments and threat behavior.
+Rely on pillar programs to provide early test opportunities, and approach each test event with a willingness to fail and a learning objective.
+Develop an approach to test adaptable systems (including artificial intelligence/machine learning algorithms).
+Test the resilience of the Mosaic warfare architecture to failure or compromise of component systems.
+
+
+
+ Related Products 
+
+
+
+
+
+
+
+
+
+Report
+Modeling Rapidly Composable, Heterogeneous, and Fractionated Forces
+
+Jan 5, 2021
+Timothy R. Gulden, Jonathan Lamb, et al.
+
+
+
+
+
+
+
+
+
+
+Report
+Findings on Mosaic Warfare from a Colonel Blotto Game
+
+Jan 5, 2021
+Justin Grana, Jonathan Lamb, et al.
+
+
+
+
+
+
+
+Table of Contents
+
+Chapter One
+Introduction
+
+Chapter Two
+Research Approach
+
+Chapter Three
+Lessons from the Immune System
+
+Chapter Four
+Lessons from the Navy
+
+Chapter Five
+Recommendations
+
+
+
+
+Research conducted by
+
+RAND National Security Research Division
+
+
+
+This research was sponsored by the Defense Advanced Research Projects Agency (DARPA) and conducted within the Acquisition and Technology Policy Center of the RAND National Security Research Division (NSRD).This report is part of the RAND Corporation Research report series. RAND reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND reports undergo rigorous peer review to ensure high standards for research quality and objectivity.Permission is given to duplicate this electronic document for personal use only, as long as it is unaltered and complete. Copies may not be duplicated for commercial purposes. Unauthorized posting of RAND PDFs to a non-RAND Web site is prohibited. RAND PDFs are protected under copyright law. For information on reprint and linking permissions, please visit the RAND Permissions page.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: RAND Corporation
+Availability: Available
+
+Print
+Format: Paperback
+Paperback Pages: 104
+List Price: $22.50
+Paperback Price:  $18.00
+Paperback ISBN/EAN: 9781977406132
+DOI: https://doi.org/10.7249/RRA573-1
+Document Number: RR-A573-1
+Year: 2021
+Series: Research Reports
+
+
+
+Explore
+Related Topics
+
+Biology and Life SciencesMilitary Force PlanningNetcentric WarfareUnited States Department of DefenseUnited States NavyWargaming
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+Citation
+Format:
+
+ Chicago Manual of Style
+ RAND Corporation Style Manual
+
+O'Donoughue, Nicholas A., Samantha McBirney, and Brian Persons, Distributed Kill Chains: Drawing Insights for Mosaic Warfare from the Immune System and from the Navy. Santa Monica, CA: RAND Corporation, 2021. https://www.rand.org/pubs/research_reports/RRA573-1.html. Also available in print form.
+O'Donoughue, Nicholas A., Samantha McBirney, and Brian Persons, Distributed Kill Chains: Drawing Insights for Mosaic Warfare from the Immune System and from the Navy, Santa Monica, Calif.: RAND Corporation, RR-A573-1, 2021. As of December 17, 2021: https://www.rand.org/pubs/research_reports/RRA573-1.html
+
+Download Citation (BibTeX)
+Download Citation (RIS)
+
+
+

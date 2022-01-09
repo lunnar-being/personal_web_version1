@@ -1,0 +1,36 @@
+
+	A robot from South Korea took first prize and two American robots took second and third prizes here yesterday in the two-day robotic challenge finals held by the Defense Advanced Research Projects Agency.
+	Twenty-three human-robot teams participating in the DARPA Robotics Challenge, or DRC, finals competed for $3.5 million in prizes, working to get through eight tasks in an hour, under their own onboard power and with severely degraded communications between robot and operator.
+	A dozen U.S. teams and 11 from Japan, Germany, Italy, South Korea and Hong Kong competed in the outdoor competition.
+	DARPA launched the DRC in response to the nuclear disaster at Fukushima, Japan, in 2011 and the need for help to save lives in the toxic environment there.
+	
+	The DRC’s goal was to accelerate progress in robotics so robots more quickly can gain the dexterity and robustness they need to enter areas too dangerous for people and mitigate disaster impacts.
+	Robot tasks were relevant to disaster response -- driving alone, walking through rubble, tripping circuit breakers, using a tool to cut a hole in a wall, turning valves and climbing stairs.
+	Each team had two tries at the course with the best performance and times used as official scores. All three winners each had final scores of eight points, so they were arrayed from first to third place according to least time on the course.
+	DARPA program manager and DRC organizer Gill Pratt congratulated the 23 participating teams and thanked them for helping open a new era of human-robot partnerships.
+	
+	The DRC was open to the public, and more than 10,000 people over two days watched from the Fairplex grandstand as each robot ran its course. The venue was formerly known as the Los Angeles County Fairgrounds.
+	"These robots are big and made of lots of metal, and you might assume people seeing them would be filled with fear and anxiety," Pratt said during a press briefing at the end of day 2.
+	"But we heard groans of sympathy when those robots fell, and what did people do every time a robot scored a point? They cheered!” he added.
+	Pratt said this could be one of the biggest lessons from DRC -- “the potential for robots not only to perform technical tasks for us but to help connect people to one another."
+	
+	Team Kaist from Daejeon, South Korea, and its robot DRC-Hubo took first place and the $2 million prize. Hubo comes from the words ‘humanoid robot.’
+	Team Kaist is from the Korea Advanced Institute of Science and Technology, which professor JunHo Oh of the Mechanical Engineering Department called “the MIT of Korea,” and he led Team Kaist to victory here.
+	In his remarks at the DARPA press conference, Oh noted that researchers from a university commercial spinoff called Rainbow Co., built the Hubo robot hardware.
+	The professor said his team’s first-place prize doesn’t make DRC-Hubo the best robot in the world, but he’s happy with the prize, which he said helps demonstrate Korea’s technological capabilities.
+	
+	Coming in second with a $1 million prize is Team IHMC Robotics of Pensacola, Florida -- the Institute of Human and Machine Cognition -- and its robot Running Man.
+	Jerry Pratt leads a research group at IHMC that works to understand and model human gait and its applications in robotics, human assistive devices and man-machine interfaces.
+	“Robots are really coming a long way,” Pratt said.
+	“Are you going to see a lot more of them? It's hard to say when you'll really see humanoid robots in the world,” he added. “But I think this is the century of the humanoid robot. The real question is what decade? And the DRC will make that decade come maybe one decade sooner.”
+	
+	In third place is Team Tartan Rescue of Pittsburgh, winning $500,000. The robot is CHIMP, which stands for CMU highly intelligent mobile platform. Team members are from Carnegie Mellon University and the National Robotics Engineering Center.
+	Tony Stentz, NREC director, led Team Tartan Rescue, and during the press conference called the challenge “quite an experience.”
+	That experience was best captured, he said, “with our run yesterday when we had trouble all through the course, all kinds of problems, things we never saw before.”
+	While that was happening, Stentz said, the team operating the robot from another location kept their cool.
+	
+	“They figured out what was wrong, they tapped their deep experience in practicing with the machine, they tapped the tools available at their fingertips, and they managed to get CHIMP through the entire course, doing all of the tasks in less than an hour,” he added.
+	“That says a lot about the technology and it says a lot about the people,” Stentz said, “and I think it means that there's great promise for this technology.”
+	All the winners said they would put most of the prize money into robotics research and share a portion with their team members.
+	After the day 2 competition, Arati Prabhakar, DARPA director, said this is the end of the 3-year-long DARPA Robotics Challenge but “the beginning of a future in which robots can work alongside people to reduce the toll of disasters."
+	(Follow Cheryl Pellerin on Twitter @PellerinDoDNews) 

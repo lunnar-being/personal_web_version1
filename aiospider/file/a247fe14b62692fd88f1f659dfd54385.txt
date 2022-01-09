@@ -1,0 +1,368 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Academies chart of accounts and automating the accounts return
+  
+
+  
+  
+
+  
+    
+  Financial data structure and guide for automating academy trust financial returns.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Education and Skills Funding Agency
+
+      
+      Published
+      14 May 2019
+      Last updated
+      
+        8 December 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+  
+    
+      Applies to England
+
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Quick start guide to automating the academies accounts return and financial statements
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Guide to automating the academies accounts return
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Guide to adopting the academies chart of accounts
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Academies chart of accounts
+    
+        MS Excel Spreadsheet, 466 KB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email ESFA.GOVUK-ENQUIRIES@education.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Academies chart of accounts: account code guidance
+    
+        MS Excel Spreadsheet, 5.37 MB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email ESFA.GOVUK-ENQUIRIES@education.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+A webinar is available below which introduces the academies chart of account and automation of the accounts return.
+
+Academies chart of account and automation webinar.
+
+Introduction to the chart of accounts
+
+The academies chart of accounts (CoA) is the Department for Education’s (DfE’s) standard for financial data that underpins the academies accounts return and budget forecast returns.
+
+For more information, please view the introductory video below.
+
+Chart of accounts introduction
+
+Introduction to automation
+
+Using the academies CoA, the department has developed automation technology to help reduce the burden of submitting your financial information. This technology enables you to electronically submit your trial balance data directly from your financial management software (FMS) to the department, where it will then be used to pre-populate up to 80% of your accounts return (AR).
+
+For more information on how automation can help in the completion of the academies accounts return and what steps you need to take to use automation, please view the video below.
+
+Automating your Academies Accounts Return
+
+This page includes:
+
+
+  a guide for academy trusts about adopting the academies chart of accounts, which includes a summary of updates since the previous version released in May 2020
+  a spreadsheet with the academies chart of accounts, please refer to the ‘information’ worksheet to find out more about the structure of the chart of accounts
+  a spreadsheet providing guidance for each income and expenditure account code within the academies chart of accounts
+  a quick start guide to automating the academies accounts return
+  a guide for automating the academies accounts return
+
+
+Introduction to the draft trust financial statements
+
+Trusts who send automated data to populate the accounts return, may also now use this data to produce draft financial statements for the trust. The report is in testing this year, with the aim to obtain feedback ahead of a wider release in autumn 2022.
+
+For more information, please click the following link to the Quick start guide to automating the accounts return and financial statements for more information.
+
+Further enquiries
+
+Chart of accounts enquiries
+If you have further questions about the chart of accounts, please contact the DfE using the online enquiry form. Please put “Academies chart of accounts” at the top of your enquiry.
+
+Automation enquiries
+If you have further questions about automation, please contact us using the online enquiry form. Please put “Automation/API” at the top of your enquiry.
+
+
+
+        
+      
+
+      
+    Published 14 May 2019
+    Last updated 8 December 2021
+      + show all updates
+      
+        
+            
+              8 December 2021
+              We have updated this page with additional guidance for downloading automated draft financial statements. This is included within the 'Quick start guide to automating the academies accounts return and financial statements'.
+            
+            
+              18 October 2021
+              We have updated the "Quick start guide to automation" and the "Guide to automating the academies accounts return" for the 2020/21 accounts return. We have also updated the "Guide to adopting the academies chart of accounts" to explain the accounting treatment for COVID-19 funding in the 2020/21 accounts return.
+            
+            
+              18 May 2021
+              We have updated the academies chart of accounts for financial year September 2021 to August 2022.
+            
+            
+              27 January 2021
+              We have updated this page adding a new information video about automating the academies accounts return.
+            
+            
+              17 December 2020
+              Sections 3.4 and 3.5 of the chart of accounts guidance has been expanded to include new guidance to help trusts with specific issues raised.
+            
+            
+              4 November 2020
+              We have updated this page to add the guide to automation for academies accounts return for 2019/20.
+            
+            
+              6 May 2020
+              We have updated the academies chart of accounts for the academic year 2020/21.
+            
+            
+              14 May 2019
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Academies accounts return: guide to using the online form
+        Academies budget forecast returns
+        Academies budget forecast return: guide to using the online form
+        Related party transactions: information for academy trusts
+        Academy trust financial management good practice guides
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Academies: compliance, funding and payments
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Academy and academy trust finance and reporting
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

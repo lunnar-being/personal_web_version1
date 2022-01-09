@@ -1,0 +1,369 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Service desk manager
+  
+
+  
+  
+  
+      
+  Find out what a service desk manager does and the skills you need to do the job.
+
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      7 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of service desk manager
+
+        
+        
+          Service desk analyst
+
+        
+        
+          Service desk manager
+
+        
+        
+          Senior service desk analyst
+
+        
+        
+          Head of service desk
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This describes the role of a service desk manager and the skills required, including:
+
+
+  an introduction to the role, telling you what you would do in this role and the full list of skills
+  a description of the levels in this role, from service desk analyst to head of service desk, specifying the skills you need for each level and the corresponding skill level (awareness, working, practitioner, expert)
+
+
+This role is part of the Digital, Data and Technology Profession in the Civil Service.
+
+Introduction to the role of service desk manager
+
+A service desk manager is responsible for managing the first- and second-line technical support for all departmental IT applications and services across sites, including end-user computing. This includes multi-function devices and specialised IT equipment.
+
+In this role, you will also be responsible for ensuring support for existing and emerging information and communications technology (ICT) services, including providing technical advice to project teams.
+
+Skills required to be a service desk manager
+
+You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.
+
+
+  
+Asset and configuration management. You know how to conduct life-cycle management for assets including hardware, software, intellectual property, licences and warranties. You know how to manage usage, disposal, compliance, inventory, sustainability, cost optimisation and protection of the asset portfolio. You can help to improve investment decisions and capitalise on opportunities. You know how to comply with international standards for asset management. You document information relating to assets including identification, classification and specification of all items, and information related to storage, access, versions, etc. You can apply status accounting and auditing in line with relevant criteria.
+  
+Continual service improvement. You can identify and explore opportunities for service and business improvement. You know how to drive analysis and identify, prioritise and implement improvements and efficiencies, ensuring that the organisation derives maximum value from services This includes recognising the potential for automation of processes, determining costs and benefits of new approaches and managing change or assisting implementation where needed.
+  
+Customer service management. You can manage customer service functions, including responding to issue reports, information requests, access. You can use the results of customer satisfaction measurements to improve services. You have a successful relationship with customers.
+  
+Ownership and initiative. You can take ownership of problems and proactively resolve technical problems, ensuring that technical solutions continue to meet business requirements. You know how to take full accountability for actions taken and decisions made.
+  
+Service focus. You can maintain focus on the whole life of service delivery: from designing to developing to delivering and operating. You know how to ensure that a set of IT products, suppliers and vendors come together to deliver an IT service.
+  
+Service reporting. You can take management information and consolidate agreed key performance indicators (KPIs) into product or service measures that underpin service management of a specific product or service.
+  
+Technical understanding. This knowledge underpins your ability to deliver the responsibilities and tasks for the role and ensures that you can apply the breadth and depth of technical knowledge you need. You stay abreast of industry developments to make cost-effective use of new and emerging tools and technologies.
+  
+User focus. You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs. You can engage in meaningful interactions and relationships with users.You put users first and can manage competing priorities.
+
+
+Service desk analyst
+
+A service desk analyst interacts with customers. At this level, you will perform tasks such as taking calls from customers and trying to resolve their queries, while knowing when to escalate issues to your manager.
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You can track, log and correct information to protect assets and components. (Relevant skill level: awareness)
+  
+Continual service improvement. You know about developing process efficiency and common ways in which processes are optimised. You can support specific activities to improve development processes. You can spot or identify obvious deficiencies. (Relevant skill level: awareness)
+  
+Customer service management. You can resolve user requests to a minimum of the agreed service level agreement. You know how to empathise with the end user. You can use customer-focused metrics to achieve a satisfying outcome. (Relevant skill level: working)
+  
+Ownership and initiative. You can own an issue until a new owner has been found or the problem has been mitigated or resolved. (Relevant skill level: working)
+  
+Service focus. You know about different products and services. (Relevant skill level: awareness)
+  
+Service reporting. You can produce relevant reports in a standard format in an agreed timeframe. You can work with important stakeholders to discuss any changes in the reporting processes. You can add a commentary that provides an interpretation for the data set. (Relevant skill level: working)
+  
+Technical understanding. You know about the subject matter and have an understanding of what it involves. (Relevant skill level: awareness)
+  
+User focus. You have an awareness or understanding of user experience analysis and its principles. You can see the purpose of user stories and focus on user needs. (Relevant skill level: awareness)
+
+
+Service desk manager
+
+A service desk manager identifies emerging issues and is a knowledge expert.
+
+They are responsible for the resourcing and development of the team, including the preparation and coordination of service transition activities.
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You can track, log and correct information to protect assets and components. (Relevant skill level: awareness)
+  
+Continual service improvement. You can identify process optimisation opportunities with guidance and contribute to the implementation of proposed solutions. (Relevant skill level: working)
+  
+Customer service management. You can translate ‘lessons learnt’ from complaint cycles into continual service improvement. You can take responsibility for the full range of customer service functions, including reviewing customer service satisfaction. You know how to investigate which processes can be automated and ways to do so. (Relevant skill level: expert)
+  
+Ownership and initiative. You can take accountability of issues that occur and be proactive in searching for potential problems. You know how to achieve excellent user outcomes. (Relevant skill level: practitioner)
+  
+Problem management. You can initiate and monitor actions to investigate patterns and trends to resolve problems, including consulting specialists where required. You can determine the appropriate remedy and assist with implementation of it as well as preventative measures. (Relevant skill level: working)
+  
+Service focus. You can take inputs and establish coherent frameworks that work. (Relevant skill level: working)
+  
+Service Management Framework knowledge. You have a Level 3 Service Management Framework qualification and knowledge of life-cycle and / or capability elements of ITIL (Information Technology Infrastructure Library). (Relevant skill level: working)
+  
+Service reporting. You know to leverage your data analytics skills to enhance business performance. (Relevant skill level: practitioner)
+  
+Technical understanding. You understand core technical concepts related to the role and can apply them with guidance. (Relevant skill level: working)
+  
+User focus. You know how to collaborate with user researchers and can represent users internally. You understand the difference between user needs and the desires of the user. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used. (Relevant skill level: practitioner)
+
+
+Senior service desk analyst
+
+A senior service desk analyst monitors inbound calls, supports operators in service resolution and intervenes in difficult calls. At this level, you will be expected to:
+
+
+  own and update the script for service desk analysts
+  manage availability, coach and develop one or more service desk analysts
+
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You can track, log and correct information to protect assets and components. (Relevant skill level: awareness)
+  
+Continual service improvement. You can identify process optimisation opportunities with guidance and contribute to the implementation of proposed solutions. (Relevant skill level: working)
+  
+Customer service management. You will maintain a high level of customer service and have the confidence to deal with complex complaints. You will know how to use empathy to satisfy customer demands. (Relevant skill level: practitioner)
+  
+Ownership and initiative. You can own an issue until a new owner has been found or the problem has been mitigated or resolved. (Relevant skill level: working)
+  
+Problem management. You can investigate problems in systems, processes and services, with an understanding of the level of a problem (for example, strategic, tactical, operational). You can contribute to the implementation of remedies and preventative measures. (Relevant skill level: awareness)
+  
+Service focus. You can take inputs and establish coherent frameworks that work. (Relevant skill level: working)
+  
+Service Management Framework knowledge. You have a Level 3 Service Management Framework qualification. (Relevant skill level: awareness)
+  
+Service reporting. You can produce relevant reports in a standard format in an agreed timeframe. You can work with important stakeholders to discuss any changes in the reporting processes. You can add a commentary that provides an interpretation for the data set. (Relevant skill level: working)
+  
+Technical understanding. You know about the subject matter and have an understanding of what it involves. (Relevant skill level: awareness)
+  
+User focus. You can identify needs and engage with users or stakeholders to collate user needs evidence. You understand and can define research that fits user needs. You can use quantitative and qualitative data about users to turn user focus into outcomes. (Relevant skill level: working)
+
+
+Head of service desk
+
+A head of service desk is responsible for managing a team who provides first- and second-line technical support. At this level, you will:
+
+
+  be responsible for ensuring support of existing and emerging information and communications technology (ICT) services, including providing technical advice to project teams
+  make sure that the support team undertakes development to make sure they can advise on future projects and current issues
+  manage and monitor service desk service level agreements (SLAs) and performance
+
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You can track, log and correct information to protect assets and components. (Relevant skill level: awareness)
+  
+Continual service improvement. You know how to analyse current processes, identify and implement opportunities to optimise processes, and lead and develop a team of experts to deliver service improvements. You help to evaluate and establish requirements for the implementation of changes by setting policy and standards. (Relevant skill level: practitioner)
+  
+Customer service management. Translates ‘lessons learnt’ from complaint cycles into continual service improvement. Takes responsibility for the full range of customer service functions including reviewing customer service satisfaction. Investigates which processes can be automated and ways to do so. (Relevant skill level: expert)
+  
+Ownership and initiative. You can take accountability of issues that occur and be proactive in searching for potential problems. You know how to achieve excellent user outcomes. (Relevant skill level: practitioner)
+  
+Problem management. You can ensure that the right actions are taken to investigate, resolve and anticipate problems. You can coordinate the team to investigate problems, implement solutions and take preventive measures. (Relevant skill level: practitioner)
+  
+Service focus. You know how to see the bigger picture and can investigate how to get the best of underlying services. (Relevant skill level: practitioner)
+  
+Service Management Framework knowledge. You have a Level 3 Service Management Framework qualification and knowledge of life-cycle and / or capability elements of ITIL (Information Technology Infrastructure Library). (Relevant skill level: working)
+  
+Service reporting. You can use prediction methodologies to derive and maintain a holistic view of important trends across multiple processes. (Relevant skill level: expert)
+  
+Technical understanding. You understand core technical concepts related to the role and can apply them with guidance. (Relevant skill level: working)
+  
+User focus. You know how to give direction on which tools or methods to use. You are experienced in meeting the needs of users across a variety of channels. You can bring insight and expertise in how user needs have changed over time to ensure these are met by the business. You know how to apply strategic thinking in how to provide the best service for the end user. (Relevant skill level: expert)
+
+
+Read more
+
+
+  Civil Service Jobs
+
+
+
+
+
+      
+        
+    Published 7 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        IT service manager
+        Test manager
+        Network architect
+        Test engineer
+        Security architect
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

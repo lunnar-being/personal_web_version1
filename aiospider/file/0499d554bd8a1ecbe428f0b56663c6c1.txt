@@ -1,0 +1,56 @@
+
+        
+        
+        
+    Cloud is an accelerator of transformation. It has a track record of helping disrupt and reshape modern economies. No industry is an exception here. Whether it’s retail with Allegro and Booksy, transportation with Uber and Bolt, music with Spotify and Deezer, food services with Glovo and Uber Eats, or banking with Revolut and N26, disruption can be seen everywhere. And the signs are clear that cloud will be a key enabler of further innovation.
+        
+
+
+    
+    Cloud is the next paradigm shift in computing technology, following the internet in the 1990s and smartphones in the 2000s. It has two complementary value propositions that should be considered: IT modernization and the acceleration of digital innovation and pioneering. The latter stems from what we call the three freedoms of cloud: the freedom to experiment, the freedom to fail, and the freedom to be agile. Together, these freedoms open up the space needed for innovation to thrive.Poland lags behind European leaders in both the level of cloud adoption and the rate at which adoption is progressing. The country’s current level of cloud adoption is 14 times lower than that of the group of countries we call European Frontrunners and 1.5 times lower than the average for Central and Eastern Europe (CEE). Adoption is progressing at an annual rate of 23 percent, below the 25 percent rate of the European Frontrunners and the 24 percent for Europe’s five largest economies.
+
+
+ Indeed, Polish policymakers and business leaders need to make a conscious effort to significantly accelerate cloud adoption if they don’t want to see Poland falling further behind its peers and its competitiveness erode.
+    
+Poland viewed the digital economy as the new engine of growth in the 2010s. In the 2020s, cloud technology could be a key enabler of Poland’s journey to being what we call a Digital Challenger, supporting its fast adaptation to a more digital, post-COVID-19, next normal. In fact, all seven key enablers to maximizing Poland’s productivity gains from digital transformation noted in this and previous McKinsey reports are connected to cloud technology. Four of those enablers, relating to soft infrastructure and innovation, directly benefit from cloud adoption, namely:
+    Increase the adoption of digital tools by Poland’s small, medium, and large enterprises
+    Increase the adoption of digital skills and take-up of internet services by Poland’s general population
+    Develop, implement, and promote e-government solutions in Poland’s public sector
+    Foster entrepreneurship in Poland to stimulate the start-up ecosystem
+The remaining three enablers are essential for increased cloud adoption:
+    Leverage and grow Poland’s information and communications technology (ICT) specialist labor pool
+    Increase the training Polish enterprises provide to develop or upgrade the digital skills of employees
+    Improve Poland’s ICT regulatory environment to attract investments
+
+    
+    
+        
+According to our analysis, the widespread adoption of cloud technology by Polish companies and public institutions could generate value that is equivalent to 4 percent of Poland’s annual GDP by 2030, or €27 billion. Of this, 82 percent is expected to come from new business and innovative digitization that cloud architecture has unlocked or accelerated. The remaining 18 percent is likely to come from direct gains in regular business, including IT cost reduction, less downtime, and business automation. Future pioneering technologies facilitated by cloud architecture represent an additional, unsized source of value.
+    
+The retail, consumer packaged goods (CPG), and transportation and logistics industries are likely to gain the most from the broad adoption of cloud computing in Poland. Together, they account for 28 percent of the total impact, with a further 15 percent coming from the construction industry and the automotive and assembly industry. In retail alone, €2.7 billion can be generated from dynamic pricing, smart promotions, and inventory optimization accelerated by cloud technology, while a further €2.5 billion can be generated in CPG from manufacturing automation and the optimization of yield, energy, and throughput.
+    
+Our analysis found that Poland has a strong foundation in terms of its scale, momentum, and digital starting point. These form a solid platform on which organizations can capture the potential of cloud technology. Thus, Poland’s GDP in 2019 was €500 billion, making it by far the largest economy in CEE, accounting for 36 percent of the region’s GDP. Orchestrated initiatives such as the creation of cloud-solution provider Operator Chmury Krajowej (OChK) are underway to facilitate the cloud migration of Polish companies. And Poland is a leading Digital Challenger, with a solid technological infrastructure to support cloud transformation and a growing digital economy that can directly benefit from it.
+		
+	
+To accelerate cloud adoption, Poland now needs to focus on resolving five key limiting factors: lack of awareness, regulatory ambiguity, security concerns, lack of required capabilities, and financial burden. First, companies admit to having insufficient knowledge about cloud solutions; some 42 percent still see cost reduction as the primary reason to migrate to cloud, and they are unfamiliar with the more advanced tools that could unlock the cloud’s full impact.
+
+
+ Second, around one-third of Polish companies are uncertain about the location of data storage. This is particularly important in highly regulated sectors, where companies may refrain from migrating due to complex legal requirements.
+
+
+ Third, one-third of Polish companies mention security concerns regarding cloud services,
+
+
+ and 63 percent of IT providers say that security policy prevents wider cloud adoption in Poland.
+
+
+ Fourth, skills gaps exist with regard to cloud, along with a more general scarcity of talent in the area of ICT: in 2019, 44 percent of Polish enterprises reported difficulties filling ICT vacancies,
+
+
+ a gap that could grow further unless action, such as investing in more on-the-job training, is taken. Finally, companies cite the up-front investment costs of migration to the cloud as the main reason for not pursuing this strategy. Too often, they carry out little analysis of the areas of greatest impact and instead “lift and shift” existing solutions, resulting in unoptimized transformation costs.
+    
+To accelerate cloud adoption in Poland, we recommend that policymakers, organizations, and individuals consider taking the following actions:
+    Policymakers can commit to cloud adoption. This is fundamental for unlocking countrywide transformation. In particular, policymakers can facilitate cloud adoption (for example, by offering financing and reviewing how legislation is interpreted) and lead by example in public-sector institutions.
+    Organizations cannot ignore the opportunity offered by cloud transformation. They need to understand how cloud can bring them value (for example, through faster innovation and cost optimization). In response, they need to prepare a cloud strategy (including building the right capabilities) and then consistently implement that strategy.
+    Individuals need to acquire cloud-native technical and business skills. Such abilities will be essential in the coming decade.
+The COVID-19 pandemic has shown that organizations—and, indeed, entire economies—need to be ready for unpredictable circumstances and adapt their ways of working accordingly. Cloud computing has been an important enabler of this transition, making the mass shift to remote working possible, for example. We hope that this report will raise awareness about the potential of accelerating cloud adoption for the Polish economy. With technological changes coming thick and fast, the time to act and realize the potential of cloud computing is now. We believe that our analyses can help stakeholders make the right decisions—and seize the opportunity while it is still available.

@@ -10,6 +10,11 @@
   <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
   <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
   <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/LANG.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/star-rating.min.js') }}"></script>
+    <link href="https://cdn.jsdelivr.net/gh/kartik-v/bootstrap-star-rating@4.1.2/css/star-rating.min.css" media="all" rel="stylesheet" type="text/css" />
+    <link href="https://cdn.jsdelivr.net/gh/kartik-v/bootstrap-star-rating@4.1.2/themes/krajee-svg/theme.css" media="all" rel="stylesheet" type="text/css" />
+    <script src="https://cdn.jsdelivr.net/gh/kartik-v/bootstrap-star-rating@4.1.2/themes/krajee-svg/theme.js"></script>
   <link rel="icon" href="{{ url_for('static', filename='images/istic.png') }}" type="image/gif"/>
   <title>科技政策数据库展示系统</title>
 </head>
@@ -25,21 +30,20 @@
     <div class="col-sm-2 class-div">
       <!-- 主题分类 -->
       <ul class="list-group" id="field-selection">
-        {% set fieldlist = ["All","医药健康科技","新材料科技","能源环境科技",
-        "食品农业科技","空天科技","国防安全","智能制造","新代信息通信科技","大数据与人工智能",
-        "现代交通科技"] %}
+        {% set fieldlist = ["All","重要人物讲话","白宫","国会","政府部门",
+        "智库","期刊杂志学会"] %}
         {% for field in fieldlist %}
         <li><a value="{{ field }}" style="cursor:pointer;" class="list-group-item {% if field == filter['field'] %}active{% endif %}">{{ field }} ({{ filed_count_dict[field] }})</a></li>
         {% endfor %}
       </ul>
     </div>
     <div class="col-sm-9 browse-list">
-{#      <ul class="tag-selection" id="file-type-selection">#}
-{#        {% set file_type_list = ["全部文档类型","研究报告","战略规划","技术治理","技术项目"] %}#}
-{#        {% for file_type in file_type_list %}#}
-{#        <li><a value="{{ file_type }}"><span class="tag {% if file_type == filter['file_type'] %}tag-checked{% endif %}">{{ file_type }}</span></li>#}
-{#        {% endfor %}#}
-{#      </ul>#}
+      <ul class="tag-selection" id="file-type-selection">
+        {% set file_type_list = ["全部文档类型","研究报告","战略规划","技术治理","技术项目"] %}
+        {% for file_type in file_type_list %}
+        <li><a value="{{ file_type }}"><span class="tag {% if file_type == filter['file_type'] %}tag-checked{% endif %}">{{ file_type }}</span></li>
+        {% endfor %}
+      </ul>
       <ul class="tag-selection" id="country-selection">
         {% for country in country_list %}
         <li><a value="{{ country }}"><span class="tag {% if country == filter['country'] %}tag-checked{% endif %}">{{ country }}</span></a></li>
@@ -58,6 +62,7 @@
                 <select name="sort" class="form-control">
                   <option value="time" {% if filter['order'] == 'time' %}selected="selected"{% endif %}>按时间排序</option>
                   <option value="rank" {% if filter['order'] == 'rank' %}selected="selected"{% endif %}>按相关性排序</option>
+                <option value="star" {% if filter['order'] == 'star' %}selected="selected"{% endif %}>按人工打分排序</option>
                 </select>
               </div>
             </form>
@@ -66,10 +71,23 @@
       </ol>
       <div class="result-list">
         {% for policy_text in policy_text_list %}
-          <div class="search-result {% if policy_text.recommend %}recommend{% endif %}">
-            <p class="title"><a href="article.html?id={{ policy_text.id }}"
-                                class="h4">{{ policy_text.title }}</a></p>
-            <p class="collapse-description">{{ policy_text.abstract }}</p>
+          <div class="search-result">
+{#          <div class="search-result {% if policy_text.recommend %}recommend{% endif %}">#}
+            <div style="height: 20px">
+                <p class="title">
+                    <div style="float: left">
+                    <a href="article.html?id={{ policy_text.id }}" class="h4">
+                        {{ policy_text.id2 }}.{{ policy_text.translated_title }}
+                    </a>
+                </div>
+                <div style="float:right"><span> <input id="rating-{{ policy_text.id }}" value="{{ policy_text.recommend }}" class="rating" data-size="sm"></span></div>
+                </p>
+            </div>
+              <div style="height: 20px;width:100%;"></div>
+            <div style="height: 100px">
+                <p>{% if policy_text.time %}<span style="color:#59a869">时间：</span>{{ policy_text.time  }}{% endif %}{% if policy_text.translated_institution %}<span style="color:#59a869">机构：</span>{{ policy_text.translated_institution  }}{% endif %}</p>
+                 <p class="collapse-description">{{ policy_text.translated_abstract }}</p>
+            </div>
           </div>
         {% endfor %}
       </div>
@@ -85,6 +103,46 @@
 {{ macros.footer() }}
 </body>
 <script>
+
+    {#$(document).ready(function() {#}
+    {#    $('#rateMe2').mdbRate();#}
+    {#    });#}
+    $(".rating").rating(
+
+        {step:1,
+            starCaptions: {
+            0.5: '0.5',
+            1: '1',
+            1.5: '1.5',
+            2: '2',
+            2.5: '2.5',
+            3: '3',
+            3.5: '3.5',
+            4: '4',
+            4.5: '4.5',
+            5: '5'
+        },
+        clearButtonTitle: '清空',
+        clearCaption: '0'
+        }
+    );
+    $(".rating").on("rating:change", function(event, value, caption) {
+        let rating_id = $(this).attr("id");
+        {#console.log(rating_id,value)#}
+        $.ajax({
+            url: "/rate_star",
+            type: "POST",
+            data: {"star": value, 'id': rating_id},
+            success: function (data) {
+                {#console.log(site_name);#}
+                {#alert(data);#}
+            },
+            error: function (e) {
+                alert("error");
+            }
+        });
+    });
+
   $("#field-selection a").click(function () {
     $("#field-selection a.active").removeClass("active");
     $(this).addClass("active");

@@ -1,0 +1,404 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Economic evaluation: health economic studies
+  
+
+  
+  
+  
+      
+  How to use an economic evaluation to evaluate your digital health product.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency
+
+      
+      Published
+      22 July 2020
+      Last updated
+      
+        19 May 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          What to use it for
+
+        
+        
+          Planning an economic evaluation
+
+        
+        
+          Measuring costs and effects
+
+        
+        
+          Incremental approach
+
+        
+        
+          Setting the boundaries of the evaluation
+
+        
+        
+          Types of economic evaluation
+
+        
+        
+          More information
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This guidance is part of a guide to evaluating digital health products.
+
+Economic evaluation typically involves assessing the costs and effects of a health intervention compared to alternatives. Like comparative studies, economic evaluation always involves a comparison, so you will need evidence on both your digital product and alternatives.
+
+What to use it for
+
+Economic evaluation can be used to inform decisions about the economic impact and relative value for money of digital health products. It can tell you whether differences in costs between your product and competing alternatives can be justified in terms of health and non-health benefits.
+
+Planning an economic evaluation
+
+There are some important methodological aspects that you should consider when undertaking an economic evaluation.
+
+Choosing a comparison
+
+Choosing what to compare your product to (the comparator) is important. You should consider:
+
+
+  what your product intends to displace or compete with
+  what evidence is available on costs and effects
+
+
+Relevant comparators could be:
+
+
+  an alternative way of implementing your product
+  a competing product
+  existing technology, before your product became available
+  not using your product (often known as ‘do nothing’)
+
+
+Deciding the study perspective
+
+The study perspective is the point of view you will take for the economic evaluation. This is important because it determines which costs and effects are relevant to your analysis and need to be captured. For example, the reduction of psychiatric hospital beds might seem cost-effective from the perspective of the NHS but less so from that of society as a whole, including patients’ or carers’ perspectives.
+
+A societal perspective helps detect cost shifting between different sectors, for example formal and informal care, or health and economy sectors.
+
+Typical viewpoints are those of:
+
+
+  the patient
+  the healthcare provider – for example, a hospital
+  the healthcare system
+  society
+
+
+In the UK, economic analyses often take the perspective of the NHS and personal and social services. The National Institute for Health and Care Excellence (NICE) recommends this approach for decisions taken at the national level. Economic evaluation using this perspective should include all costs to the health and social care system. In terms of health outcomes, this perspective only considers health-related benefits to patients.
+
+A societal perspective considers all relevant costs, whoever pays for them. This includes non-healthcare costs, such as productivity losses, informal care, and out-of-pocket expenses. This perspective also includes benefits beyond those to the patient, such as benefits to caregivers.
+
+You may need a broader societal perspective, for example if:
+
+
+  the costs associated with your digital product are borne by different parties, such as the NHS and the patient
+  your digital product is likely to provide important non-health benefits, such as productivity gains and social inclusion
+
+
+Measuring costs and effects
+
+Costs
+
+You can calculate costs by identifying, quantifying and valuing resource use associated with the interventions you’re comparing.
+
+To identify relevant resource use, consider how your digital product impacts on the patient, provider and healthcare system. This emphasises the importance of considering a broader study perspective that includes resource use beyond costs to the NHS. For example, your digital product might impact on patients’ productivity and travel costs.
+
+When identifying relevant resource use, also think about the implications of providing your product for general use. For example, consider whether:
+
+
+  to include resources related to product development (these would usually be excluded if, for example, your product was a modification of an existing one)
+  your product will be free or users will pay for it
+  there will be any resource implications to scaling up your product (for example, maintenance resources)
+
+
+After you have identified all resource use, you need to plan how to measure those resources consumed by the patient, healthcare system or other party as a result of using your digital product. This data should be based on physical measures, such as the time spent facilitating your product. You might be able to get this data from:
+
+
+  medical records (routinely collected data)
+  patient-completed diaries
+  prospective patient forms
+  data collected through websites or mobile applications – for example, they might record how many times patients or health professionals interacted with your product or the time they spent with it
+
+
+To work out costs from resource use data, apply appropriate unit costs. Unit costs are the cost per unit of an item of resource use, such as the hourly wage of a health professional that will be applied to the time spent interacting with your product.
+
+When valuing resource use, use national sources for unit costs (such as NHS Reference Costs and Unit Costs for Health and Social Care) if possible, even if decision-making is at the local level.
+
+Effects
+
+The measurement of effects should relate to the purpose of your digital product. You may want to use a broader study perspective, so that the economic study can include both health and non-health effects. Health-related effects might be:
+
+
+  disease-specific, for example lowering cholesterol levels
+  generic, such as improving health-related quality of life
+
+
+Non-health effects might include:
+
+
+  improvements to the way patients interact with the health system
+  improved patient empowerment
+  greater social inclusion
+
+
+Incremental approach
+
+An incremental approach involves estimating the incremental (or additional) cost and incremental effect of an intervention compared to alternative options. It can tell you the marginal cost of producing one additional unit of benefit of your product compared to alternative options. This is crucial when comparing alternative digital products competing for available resources. It allows the decision maker to efficiently allocate resources by providing digital products that have the lowest cost per unit of benefit gained.
+
+Example of an incremental approach
+
+You are launching an extension to an existing product, and the decision-maker needs to decide whether to adopt the new extended product.
+
+Your existing product detects 10 cases of type 2 diabetes. The extended product detects 12 cases but costs an extra £60,000. An average cost per case of the extended product would be £5,000, but using this information to inform resource allocation over-estimates value for money because it ignores that the existing product already detects 10 cases. It is the incremental change in costs and effects that matters, which would result in a cost per case detected of £30,000.
+
+Setting the boundaries of the evaluation
+
+You will need to decide the time horizon for your economic evaluation. This is the duration over which you will measure costs and effects. It should be long enough to capture all important differences in costs and effects between your product and alternative options, taking into account the limitations of the available evidence. As with comparative studies, the evaluation often involves analysing primary or secondary individual patient data over a follow-up period (for example, one year).
+
+Types of economic evaluation
+
+The type of economic evaluation you choose will depend on factors including:
+
+
+  how mature your digital product is
+  the type of commissioning decision
+  the level of the payer’s financial commitment
+  the quality of the evidence on the costs and effects
+
+
+Types of economic evaluation include:
+
+
+  
+    cost consequence analysis
+  
+  
+    cost effectiveness analysis
+  
+  
+    cost utility analysis
+  
+  
+    cost benefit analysis
+  
+
+
+More information
+
+NICE Evidence standards framework for digital health technologies provides a more detailed description of good levels of economic evidence for evaluating digital products.
+
+In 2016, McNamee and others published Designing and undertaking a health economics study of digital health intervention. This study discusses some key methodological issues about the design and analysis of economic studies of digital products.
+
+Database of Instruments for Resource Use Measurement is an open-access database of a wide range of resource use questionnaires for health economic evaluation.
+
+
+
+
+      
+        
+    Published 22 July 2020
+    Last updated 19 May 2021
+      + show all updates
+      
+        
+            
+              19 May 2021
+              Added links to other economic evaluation pages in the collection.
+            
+            
+              22 July 2020
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Cost effectiveness analysis: health economic studies
+        Cost consequence analysis: health economic studies
+        Cost utility analysis: health economic studies
+        NHS reference costs 2013 to 2014
+        NHS reference costs 2015 to 2016
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Evaluating digital health products
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Health improvement
+        Research, testing and standards
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

@@ -1,0 +1,445 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Submit a proposal
+  
+
+  
+  
+  
+      
+  How to submit a proposal to the Defence and Security Accelerator
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Defence and Security Accelerator and Defence Science and Technology Laboratory
+
+      
+      Published
+      8 December 2016
+      Last updated
+      
+        14 April 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Get started
+
+        
+        
+          DUNS number
+
+        
+        
+          Ensure your adherence to cyber resilience
+
+        
+        
+          Submitting a proposal
+
+        
+        
+          After you submit a proposal
+
+        
+        
+          Feedback
+
+        
+        
+          Resubmission
+
+        
+        
+          Multiple submissions
+
+        
+        
+          Communications
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Before submitting a proposal, you should ensure you have fully read and understood the relevant competition document.  You can access the competition document by clicking on the relevant competition on the Apply for funding page.
+
+We would also recommend you read all our other guidance material before submitting a proposal.
+
+Get started
+
+The only way to submit a research proposal to the Defence and Security Accelerator is online via the DASA Enterprise Collaboration Service. The proposal submission service is part of the overall DASA Enterprise Collaboration Service, and will be one of many services you can access via your user profile.
+
+We recommend you use a Google Chrome browser when accessing the service.
+
+Register for an Enterprise Collaboration Service account here.
+
+If you already have an Enterprise Collaboration Service account log in here.
+
+Once you have logged in, you will be taken to your supplier dashboard where you can begin new proposals as well as track the progress of your draft and submitted proposals.
+
+All submissions through our Enterprise Collaboration Service must be completed in accordance with our acceptable use policy.
+
+You must not submit any information classified above Official. If you wish to add supporting information which might be Official-Sensitive or Secret you should contact DASA in advance and we will discuss solutions with you.
+
+DUNS number
+
+To submit a DASA proposal you are asked to supply a DUNS number - a unique nine-digit identifier for businesses.
+
+Organisations based in the United Kingdom can obtain their DUNS number from Dun & Bradstreet.
+
+Organisations based outside the United Kingdom can access their DUNS number using this link.
+
+If you do not have a DUNS number
+
+Individuals who are not representing a registered entity, and therefore unable to obtain a DUNS number, can engage with their local DASA Innovation Partner via an enquiry form here.
+
+Ensure your adherence to cyber resilience
+
+When submitting a proposal, you may be required to prove adherence to cyber resilience. Check the competition document to see if this is a requirement.
+
+If it is requirement, you will need to complete a SAQ (Supplier Assurance Questionnaire). You can do this by registering and logging onto Octavian and completing the questionnaire, using the DASA Risk Assessment Reference (RAR) shown in the competition details.
+
+If your proposal is to be funded, your Supplier Assurance Questionnaire (SAQ) will be evaluated against the Cyber Risk Assessment (CRA) for the competition, and it will be put it into one of the following categories:
+
+
+  Compliant – no further action
+  Not compliant – you will be required to complete a Cyber Implementation Plan (CIP) before the contract is placed which will need to be reviewed and agreed with the relevant project manager or, a Cyber Essentials Certification (CEC) must be held before contract can be awarded.
+
+
+Further information and guidance on obtaining a CEC can be found here: https://www.ncsc.gov.uk/cyberessentials/overview
+
+Submitting a proposal
+
+From your supplier dashboard, click on ‘Start now’ and you will be taken to a page where you can begin your submission to the relevant competition.
+
+There are 5 overall stages to complete, as outlined below.  As you progress through the various stages, you will have the ability to save your work in order to return to it later.  In addition, once you have started a proposal you will receive email alerts notifying you of how much time remains before the competition close date.
+
+Stage 1 - Competition
+
+Firstly, you should select the competition type you are submitting to from the list.
+
+If you select Themed Competition, you will then be given the option to choose the specific Themed Competition you are entering.  Once you have selected your competition, some options will appear under the heading ‘Challenge’.  Select those challenges which are relevant to your proposal.  If there are no challenges then you should select the box which states ‘there are no specific challenges for this competition’.
+
+If you select Open Call for Innovation, you will be given the option under the ‘Challenge’ heading to identify which Open Call category you wish to submit to.  Choose one from Rapid Impact Innovations, Emerging Innovations. Further details on these can be found in the Open Call competition document.
+
+For both types of competition, you will be asked to confirm you have read and accepted the Defence and Security Accelerator terms and conditions.
+
+Stage 2 - Summary
+
+You will then progress to the summary page. A unique proposal identification code will be automatically generated for you.  Please use this code in any correspondence with DASA regarding your proposal.
+
+In this stage we require you to provide a brief abstract or summary of your proposal.  The information you provide here is used to help us identify suitable assessors to look at your proposal.  You will be asked to state whether the proposal is a new one or a resubmission of an earlier proposal.
+
+Finally, you will be asked to select the technology areas that are relevant to your proposal.  This is an additional tool to allow us to identify suitable assessors.
+
+Stage 3 - Innovation details
+
+In this stage, we ask for the detail about what you are proposing to do, how you propose to do it, and what the benefits are to our customers.
+
+You will be required to complete a series of text entry boxes.  Associated with each text box is some supporting guidance on what should be included in each.  The requirements may be specific to the competition you are entering, and full details will be available in the associated competition document.
+
+Associated with each text box, you will have the opportunity to upload image files in support.
+
+Stage 4 - Finance and delivery schedule
+
+This page is divided into finance and delivery schedule sections.
+
+In the finance section, you will need to provide a detailed breakdown of the project costs. You will be asked to identify any labour costs, capital costs, overheads and consumables, subcontractor costs and travel expenses, and provide details of each.
+
+In the delivery schedule section, you will be asked to describe your project deliverables, including the associated duration, delivery timelines and costs.  You can ask for up to 6 staged payments assigned to some or all of the deliverables.  You should note that the final payment on successful completion of the project should be at least 20% of the total.
+
+The website will automatically calculate the overall costs that you input into the finance section and compare it with those included in the delivery schedule section.  You must ensure that the total in both of these sections is the same or the system will prevent you from submitting.
+
+Finally, you will be asked to agree that DASA will keep the total cost and delivery schedule indefinitely, and that the total cost and names of deliverables will be released publicly if you are funded.
+
+Stage 5 - Review and submit
+
+In this final stage, you have the option to fully review your proposal before you submit.  All the details you have entered to this point will be visible to you.  Further, we will highlight to you those sections which are incomplete. You will not be able to submit your proposal until all sections are complete.
+
+At any point up until you finally submit, you can save your content and return to edit it at a later date.  However, you should note that this feature applies only within the competition or Open Call cycle you started drafting your proposal in.  Draft proposals will not be carried over automatically to subsequent competitions or cycles. 
+Once you submit your proposal, you will not be able to make any further changes.
+
+After you submit a proposal
+
+Once you submit a proposal, you will receive an email confirming receipt of your submission. We will then assign our expert assessors to look through it and decide if it will be funded.
+
+Find out about how we make our funding decisions and what our assessors look for.
+
+You can track the progress of your submission through the assessment process by viewing the proposal status on your supplier dashboard.
+
+Feedback
+If you are successful, our commercial team will be in touch shortly after the decision date to get contracting started. Once you are on contract, both DASA staff and a technical partner will support and advise you throughout the period of your project. Details of your proposal will be published on our website as part of our transparency data.
+
+If you are unsuccessful, you will receive brief written feedback within a few weeks of the applicable decision date. Feedback will be made available to you via email. Feedback is prepared by the proposal moderator, and is based on comments from all assessors, discussions at the decision conference and pitch panel, where applicable. The feedback will aim to give the main reasons why your proposal has been unsuccessful, and any potential areas of improvement. If DASA would like to see a resubmission of your proposal, this will be clearly stated in the feedback.
+
+Please note that every DASA competition has a finite financial limit which affects the number of bids we can fund. There may be occasions where additional funding subsequently becomes available, after a decision has been released. DASA reserves the right to keep fundable proposals in reserve. In the event that additional funding becomes available, DASA may ask whether you would still be prepared to undertake the work outlined in your proposal under the same terms. Your official DASA feedback will indicate if your proposal was deemed fundable, but not awarded funding at the time.
+
+Resubmission
+
+If your proposal was unsuccessful
+If you have previously submitted a proposal which was unsuccessful, please do not resubmit this proposal, unless your feedback specifically requests it.
+
+If you were asked to resubmit your proposal, please ensure you indicate how you have addressed ALL the feedback given.  Please also include your previous proposal number in your submission.
+
+If you were previously unsuccessful and would like to submit a new proposal, which is similar in any way to your previous proposals, please contact us at accelerator@dstl.gov.uk.
+
+If you have previously submitted this proposal to any other government funding body, please include details in your submission. If you were not funded, please attach the feedback with your proposal. If you were funded, please detail how our funding will offer value for money for government.
+
+If your proposal was successful
+If you have previously submitted a proposal and were successful, but did not agree to DASA contract terms and conditions, please do not resubmit this proposal. Should you wish to now accept the contract terms and conditions, please email accelerator@dstl.gov.uk.
+
+Multiple submissions
+
+There is no limit on the quantity of proposals you can submit to DASA at any one time. However, you must make DASA aware:
+
+
+  that you plan to create multiple submissions
+  of the maximum amount of projects you can feasibly undergo at any one time
+  if there is any duplication of work across proposals.
+
+
+You may not submit proposals that are interdependent.
+
+You must also make DASA aware should you plan to submit the same project to any other funding body.
+
+Communications
+
+Bidders must appoint a person who is responsible for all communications with DASA.
+
+After a contract has been awarded, all queries should be directed to either the technical or commercial points of contact detailed in the contract documentation.
+
+English is the official language for all communication between bidders, DASA and all other government departments.
+
+We’ll use the email address that you used to create your account and the telephone number in your profile to contact you.
+
+Contractors must provide details to us of any related public announcement for review prior to release.
+
+
+
+
+
+      
+        
+    Published 8 December 2016
+    Last updated 14 April 2021
+      + show all updates
+      
+        
+            
+              14 April 2021
+              Added a new requirement  - "Ensure your adherence to cyber resilience"
+            
+            
+              23 May 2019
+              Addition of guidance on: feedback, resubmission, multiple submissions, failure to exploit
+            
+            
+              22 August 2018
+              We have changed our guidance to reflect the move to a new online service for the submission of proposals.
+            
+            
+              23 November 2017
+              Our submission service is temporarily closed due to a technical issue. We are working to resolve this as quickly as possible. Please accept our apologies for any inconvenience caused.
+            
+            
+              23 November 2017
+              Our submission service is temporarily closed due to a technical issue. We are working to resolve this as quickly as possible. Please accept our apologies for any inconvenience caused.
+            
+            
+              8 December 2016
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Contact a DASA Innovation Partner
+        Apply For Funding
+        Assessment process and criteria
+
+  
+
+
+
+
+      
+
+    Detailed guidance
+
+  
+
+
+        DASA Standard Terms and Conditions
+        Assessment process and criteria
+        Submit a Defence and Security Accelerator proposal online: acceptable use
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Login or register for an account
+        Apply For Funding
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Scientific research and development
+        Government funding programmes
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

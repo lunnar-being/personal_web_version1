@@ -1,0 +1,109 @@
+
+
+The RAND Blog
+Previous Blog PostState of the Union 2020: Insights from RANDNext Blog PostOur Actions Determine What We Read and See Online. Algorithms Are Only a Part of That Process
+
+How to Actually Recruit Talent for the AI Challenge
+commentary
+(War on the Rocks)
+Senior Airman Ken McDougall shows Air Force Chief of Staff Gen. David L. Goldfein the results of code Goldfein wrote in Boston, Massachusetts, December 6, 2018Photo by Jerry Saslav/U.S. Air Force
+
+
+
+by James Ryseff
+February 5, 2020
+
+
+This article was submitted in response to a call for ideas issued by the co-chairs of the National Security Commission on Artificial Intelligence, Robert Work and Eric Schmidt. You can find all of RAND's submissions here.In the global race to dominate artificial intelligence (AI) technologies, talent is everything. Yet the U.S. government has proven unwilling or unable to do what it takes to hire and hold America's top talent.
+Russia and China have long mixed their public and private sector resources when it comes to cyber technologies. Russian organized criminal groups often lend their best hackers to work part-time for the Russian state, while the People's Liberation Army's concept of a “modern people's war” designates experts from major Chinese technology companies and academia as assets for improving national military power.…
+The remainder of this commentary is available at warontherocks.com.
+
+James Ryseff is a technical analyst with the nonprofit, nonpartisan RAND Corporation. He previously worked as a software engineer for 13 years at Microsoft, SAP, and Google, among others. He holds a bachelors' degree in computer science from the University of Illinois at Urbana-Champaign and a masters' in security studies from Georgetown University.
+This commentary originally appeared on War on the Rocks on February 5, 2020. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+James Ryseff
+Technical Analyst
+
+
+
+
+
+
+Topics
+ Artificial Intelligence
+Technical Professions
+United States
+United States Department of Defense
+Workforce Management
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+The Department of Defense Posture for Artificial Intelligence
+
+Dec 17, 2019
+Danielle C. Tarraf @daniellectarraf, William Shelton, et al.
+
+
+
+
+
+
+
+
+
+
+Commentary
+Our Future Lies in Making AI Robust and Verifiable
+
+Oct 22, 2019
+Danielle C. Tarraf @daniellectarraf
+
+
+
+
+
+
+
+
+
+
+Report
+Technology and Work Worth Doing (Not Jobs) Post-AlphaGo
+
+Jun 21, 2019
+Ann Pendleton-Jullian, Robert J. Lempert @RobertLempert
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:Commentary","Content Types:Blog","Research Topics:Workers and the Workplace/Workforce Management","Research Topics:Workers and the Workplace/Technical Professions","Research Topics:Geographic Areas/Americas/North America/United States","Research Topics:Science and Technology/Cyber and Data Sciences/Artificial Intelligence","Research Topics:National Security and Terrorism/National Security Organizations/United States Department of Defense"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Commentary","value":"content-types:commentary"},{"display":"Blog","value":"content-types:blog"},{"display":"Workforce Management","value":"research-topics:workers-and-the-workplace/workforce-management"},{"display":"Technical Professions","value":"research-topics:workers-and-the-workplace/technical-professions"},{"display":"United States","value":"research-topics:geographic-areas/Americas/North-America/United-States"},{"display":"Artificial Intelligence","value":"research-topics:science-and-technology/cyber-and-data-sciences/artificial-intelligence"},{"display":"United States Department of Defense","value":"research-topics:national-security-and-terrorism/national-security-organizations/united-states-department-of-defense"}];})();
+

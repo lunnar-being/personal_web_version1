@@ -1,0 +1,50 @@
+
+        
+        
+        
+     as initially expected. Almost every industrial company has a cloud initiative underway, but most have not established cloud-native capabilities or scaled business impact. Companies average 23 percent over budget on cloud spending and estimate that 30 percent of their outlays are wasted (Exhibit 1). The problem will only grow, since companies expect to increase cloud spending by 47 percent next year. To avoid a snowballing problem, industrial companies must quickly rebalance cloud programs and move away from a pure focus on infrastructure to address software engineering, data and analytics, and changes in business processes. Many organizations are already attempting to reset their cloud programs.
+    
+An intensified need for the cloud since COVID-19
+        
+
+
+    
+     as an enabler of increasingly critical e-commerce, remote sales, and flexible cost structures. During the lockdowns, ten years of e-commerce growth took place in three months. B2B remote selling is also here to stay, since 89 percent of buyers are satisfied with it and 42 percent actually prefer it.
+
+
+ Furthermore, the global health crisis is increasing economic uncertainty, making it more important than ever for businesses to have flexible operations and channels, as well as infinitely variable technology costs. The cloud helps in all these areas.
+    
+The challenges in making the cloud work
+	
+Many industrial companies face challenges from overly complex systems. For instance, one company undertook a journey to rationalize more than 30 enterprise-resource planning systems it had accumulated over a series of acquisitions. This complexity limited transparency and slowed processes for strategy, finance, pricing, and other functions. Data that could help the company improve the business existed only in spreadsheets and hard drives scattered throughout the organization. Scaling up any idea to create a real impact required a multiyear program.Using the cloud to solve such business challenges has not been easy. Many cloud migrations have failed because they did not first simplify the IT landscape and establish data governance. Further, extra costs have often threatened financial success:
+    Double-bubble costs result from complex applications and nervous businesses on cutover, which takes longer since both the cloud and data centers are running.
+    Hidden costs may arise when platforms, tooling, and services are not well understood and supply/demand is not managed actively.
+    System-integrator cost may continue into the third or fourth years after the switch to cloud, incentivized by a time-and-materials model.
+    Add-on services can be three or four times higher than necessary if applications are not configured well.
+    Financial-accounting rules and poor governance can exacerbate these costs, or create additional costs in writing down nondepreciated IT assets.
+These extra costs, and growing complexity in the legacy landscape, have led to an increasingly difficult business case for the cloud. In 2015, only 7 percent of executives had difficulty making a compelling business case for cloud adoption.
+
+
+ In 2019, that number more than tripled, to 23 percent. Many companies have stalled cloud programs whose benefits cannot offset spending commitments with cloud providers.Chief information officers (CIOs) see additional challenges too. Fifty-eight percent of the respondents to the McKinsey Cloud Survey indicated that since talent gaps make cloud projects more difficult, they are the top concern (Exhibit 2). As one respondent noted, “Cloud-savvy talents are required. Reskilling the IT department is often not enough.” Security and compliance issues were also a top concern.
+    
+Our survey also revealed that change management—the softer side of the migration to the cloud—was creating massive challenges. Companies cannot ignore such issues, since changing employees’ mindsets and habits is just as important as building the tech stack. One survey respondent noted, “Not only is top-down decision making required but also operational buy in; if not, you have the solution but no one will use it.” Another saw a need for “an overall shift in mindset on how the business works.”Show me the moneyCloud-marketing materials invariably contain buzzwords and attractive graphics, but the glossy brochures make it difficult to find the actual dollar signs and tangible examples of impact. Most companies fail to see that the cloud’s real value lies beyond IT. The cloud, digital channels, and data and analytics can improve everything industrial companies do, from running the business to developing, delivering, selling, and servicing products. Our experience with clients suggests that cloud-enabled operations can  for industrial companies—half from revenue growth and half from margin expansion.Put another way, making the cloud pay requires going beyond straightforward infrastructure replacement to capture IT benefits. It requires software engineering, operating-process improvement, and business innovation. This is the core of “bending the curve” toward a transformation that is profitable in the short term.Consider how Volkswagen, the world’s largest automaker, generates value beyond IT through a common cloud platform that includes 124 plants, 500 warehouses, and 1,500 suppliers. This platform consolidates real-time data from all Volkswagen machines and systems, while advanced-analytics tools track logistics and provide insights on shop-floor processes. The company has trained more than 200 specialists for its cloud-innovation center. Its industrial cloud will play an important role in helping it reach its goal of a 30 percent reduction in factory costs by 2025 and may also spark innovation within Volkswagen’s vibrant community of partners.
+		
+	
+The cloud can fundamentally improve processes for R&D, procurement, , manufacturing, marketing and sales, aftermarket, and business support. The increased efficiency it promotes can significantly improve margins and productivity. In procurement, for instance, the cloud can help companies clean up and integrate their data, which promotes the seamless and automated identification of opportunities (for instance, which suppliers to approach for cost concessions as a result of commodity fluctuations). The cloud also makes it possible to capture the impact of new procurement tools, such as those related to spend intelligence or electronic requests for information and quotes, more quickly and at scale. These procurement improvements turn good organizations into great ones and, in our experience, can yield 60 percent improvement in procurement savings. Exhibit 3 shows the cloud’s typical impact across other functions at industrial companies.
+    
+The cloud not only improves margins but also enables growth. It provides access to innovations, such as new artificial-intelligence and machine-learning engines, from cloud partners. Second, the cloud facilitates experimentation with new products and features, since the cost to set up a “sandbox” environment is nearly zero. It also links the business with new products and services, such as sales tools, from the partner ecosystem, which dramatically lowers barriers to collaboration.Finally, the cloud offers potential for IT efficiencies, although they may not overcome the cost of the cloud alone. Labor efficiencies come as cloud-standard instrumentation increases development productivity by enhancing software-engineering practices and driving automation in application development and maintenance, development-security ops, infrastructure, and tickets/support. Nonlabor efficiencies arise from the smaller number of on-premises data centers, lower spending on hardware, and the rationalization of applications when legacy ones are retired.Resetting your industrial cloud program for impactRather than increasing budgets for cloud initiatives, industrial companies can “bend the curve” to make the cloud pay over the short term. This requires four actions:
+    
+    
+    
+    
+
+		
+	
+Managing a cloud transformation requires strong governance. Critical activities include the following:
+    quantifying business benefits for each initiative of the transformation program
+    planning and executing an end-to-end transformation by business domain, rather than focusing on individual use cases
+    preparing the legacy application and data landscape ahead of the transformation; this includes the establishment of strong data governance
+    integrating application rationalization and retirement into the transformation governance
+    training the entire relevant organization by domain, not just IT
+    ensuring adoption of operational improvements by investing in change management from the very beginning, and getting commitment from the business functions, not just the IT department
+Now is a good time for industrial companies to review and reset their cloud programs, but they must first understand the current and future IT state and operating model, as well as any digitally enabled business opportunities. By matching cloud initiatives to this vision and adjusting sequencing, companies can rebalance spend across IT infrastructure and the business. This enables them to add value faster from business innovation and to modernize underlying IT infrastructure over time.

@@ -1,0 +1,62 @@
+
+
+Education Technology, Policy, Equity, and the Pandemic
+An Interview with Alum Richard Bowman, New Mexico ‘40 Under Forty’ Honoree
+
+Bowman in his office—before the pandemic
+Photo courtesy Richard Bowman
+May 22, 2020
+As chief information and strategy officer for Albuquerque Public Schools, alum Richard Bowman (cohort '06) is quite busy these days. But the recipient of a 2020 "New Mexico 40 Under Forty" award was happy to make some time for an interview.
+Despite a few tech snafus leading up to the interview — connecting to a Google videochat apparently isn't allowed while on the RAND network — Bowman joked, "In fact, RAND Information Security is an inspiration to me in my current job. They've given me the idea that 'it is possible.'" (He may have meant IT is possible.)
+Bowman acknowledged that technology at non-profits may not be as advanced as it is in Silicon Valley, but he says "the education sector is so much further behind."
+"My personal mission is to bring the educational field into the information age," he said. "I believe accountability starts with visibility. Information can tell you what's happening and allow leadership to fix it."
+Bowman directs the Office of Accountability and Reporting for New Mexico's largest school district, serving nearly 84,000 students in 143 schools scattered across nearly 1,200 square miles. His responsibilities include supervising his district's data analysis team, ensuring school accountability, managing traditional IT, promoting educational technology, and more. "I report to our superintendent, and my job is to make sure our schools and students have the data, information, technology, and support they need to be the best they can be."
+He said this involves "a heavy dose of policy analysis."Pardee RAND's Influence
+"Pardee RAND taught me how to analyze data and information, and form insights, and how they relate to practical policy and processes that leadership may want to implement," he said.
+“I learned people often don't have the money, data, or time to do gold standard models, but you can still do something useful with what you have, which is better than nothing.”
+
+
+"At Pardee RAND, I learned some crazy-awesome detailed econometric quasi-experimental models," he said. "But I also learned — and I owe a big 'thank you' to [fellow alum and professor] Jeffrey Wasserman and his Client-Oriented Policy Analysis class — two other important things.
+"First, I learned that, in the real world, people often don't have the money, data, or time to do gold standard models," he said, noting that the education sector is a prime example. "But second, I learned you can still do something useful with what you have, which is better than nothing.
+"I learned how to work when you don't have the best data, you need to understand limitations and get an answer that's better than just a coin flip and intuition. Basically, I learned how to use models in an ideal situation, and how to gracefully degrade them when addressing the real world."Being Honored
+So what exactly did he do to earn the 40 Under Forty nod? Did his superintendent nominate him?
+"Actually, I asked a few people to nominate me," he said sheepishly. "All of them replied 'Absolutely' and said they were surprised I hadn't been nominated — or asked them to nominate me — yet. My standard response was simply that I'd been too busy actually working to think about it!"
+By "working" Bowman means that he has represented the Albuquerque Public Schools superintendent with the region's business community and served as the district's liaison to the educational program of Kirtland Air Force Base. He is also on the boards of the Master of Public Policy Program at the University of New Mexico and the Association for Education Finance and Policy, where he's the treasurer elect. 
+He's been in New Mexico for nearly 10 years, first for two years as a Harvard Strategic Data Fellow in the Albuquerque Public Schools, and then for four years as the chief accountability and strategy officer for Santa Fe Public Schools before returning to APS four years ago.
+"I grew up in L.A. and got my undergraduate degree in engineering and applied science at Caltech before teaching in the Los Angeles Unified School District and then going to Pardee RAND," he said. "After I got my Ph.D. I went to Harvard for my fellowship, and they sent me to Albuquerque. With such strong L.A. roots, I'd thought I'd go back there, but here I am, ten years later!"
+Although he said his role in Santa Fe Public Schools, and then when he returned to Albuquerque, was that of "the turnaround guy," his role at APS has expanded as his team has matured. "As far as leadership goes, being the turnaround guy isn't enough. Maintaining something that's working well is a skill of its own."
+"I enjoy solving problems with data, looking at the big picture using data, and strategic thinking. My job lets me do all of those things," he said. "I also like to teach, which I don't get to do exactly, but I do mentor staff."E-sports and Equity
+Although he doesn't teach in a classroom, Bowman has been able to work with high school students for the last two years in a unique way: as his district's e-sports program champion and coordinator. 
+"When our state activities association authorized it as an activity, I took up the banner. Our district's athletics departments didn't understand it, but I thought a lot of kids would want it," he said, "so I offered to coordinate and make it happen. I asked for volunteers in the tech and data department and found school volunteers to host the clubs. This is the second year, and all of APS's 13 high schools are participating."
+Bowman with the e-sports team from Del Norte High School
+Photo courtesy Albuquerque Public Schools
+In the process, he has also championed inclusiveness and equity.
+"As with most sports, there's an equity issue," he said. "E-sports requires a computer and internet connection. It costs $125 for a child to participate on a team. As is true in many cities, for some schools this is fine, but for others it can be an insurmountable barrier." To make it more accessible, he also wrote a grant and received funding that covered 100 students' participation.
+Unfortunately, the current pandemic has derailed the e-sports season for this year — despite being computer games, e-sports still require staff support, which is limited due to more urgent academic needs. But Bowman is optimistic his athletes will be competing again soon.Education, Technology, and COVID-19
+Of course the conversation veered to COVID-19 and how he and his district are managing. After all, he's responsible for technology in a socioeconomically diverse district. 
+Bowman has frequently been quoted by local news outlets concerning Albuquerque's policies, plans, and purchases. "My role has been to ensure that all kids have devices and internet access, and that educators have the knowledge needed to provide remote learning," he said. 
+What has that involved? 
+"For devices, it meant knowing our existing numbers — how many kids have devices, and how many need them — and very rapidly acquiring additional technology and distributing it, all while adhering to strict social distancing rules," he said.
+"The order to stay at home came down before we could ask who needed a device, or send kids home with a device," he said. "But we had to find out quickly so we could resume instruction. It took some creativity. We conducted a remote robo-call survey of our families, so we knew where the need was."
+Once he had that information, his district placed an emergency order for 18,000 Chromebooks.
+"Then we needed to find PPE [personal protective equipment] for our tech people who have to interact with the public. We had to figure out how to have no-touch device hand-offs. For example, we needed the recipients to sign for the computers, so we had to give them disposable pens; we didn't want them back! The adult would sign the paper, fold it in half, and place it in a box. Then we'd leave the box out for a few weeks until we thought the risk of potential infection was gone."
+"Using data to identify and address needs has helped. We were able to move and relocate resources so we didn't run out of devices, and we made sure more than 97% of students had access to devices on day one of online instruction," he said. 
+"For connectivity, that was another big question. Thankfully, we'd included a question about internet access for the previous two years in our annual family survey, because that was a question of equity. So we knew where the problems were."
+His team contacted their telecom vendors and negotiated internet access arrangements for low-income residents. They also worked with the city to provide strategically placed "Wifi on Wheels" hotspots in areas where the district knew there was high need. Users can drive up to within 100 feet of the mobile units and stay in their cars while accessing the free WiFi connection.
+"As for knowledge," Bowman said, "we had to provide training to our teachers on how to use Google and other tools for videoconferencing.
+
+“Communication is tough when it's all online for the first time, establishing and reestablishing communication channels during a disruptive situation.”
+
+"The teachers are being really awesome and doing all they can, but it can be a challenge. I know they are struggling," he said. "Communication is tough when it's all online for the first time, establishing and reestablishing communication channels during a disruptive situation."
+On top of all that, Bowman and his team are still responsible for the district's student information system, and registration for next year's kindergarten classes began just after the stay-at-home orders were put in place. 
+"On the bright side," he said, "I had bought my team laptops and docking stations even before the pandemic, and they were prepared to work from home before the rest of APS. I had to get special approval, but on the first day the district accepted work from home plans, we were approved."
+Bowman compared his experience with that of Santa Fe Public Schools, where he had developed a digital learning plan and pushed for a "1:1 instruction program, where every student had an electronic device. Santa Fe students and teachers were ready when COVID-19 hit.
+"What I didn't expect," he said, "was that, when Santa Fe asked how many students have access to the internet, the rate was 96%." Santa Fe is smaller, but its demographics aren't much different from Albuquerque's. "I do wonder if the future-forward approach of 1:1 instruction convinced families to reprioritize their limited money to support connectivity," he said. "Here in Albuquerque only 88% have some form of internet access at home. It would make an interesting research study."
+He might suggest that to his wife, fellow alum Claudia Diaz Fuentes (cohort '06), director of the University of New Mexico's Evaluation Lab. Of course, they already have their hands full.
+"Like everyone else, the pandemic has been rough on my family," he said. "With a 7 and 2 year old, we've now added 'first grade teacher' and 'daycare provider' to our two full-time jobs."
+But he's thankful and optimistic that they'll pull through. And he offered this parting advice to current students and fellow alumni:
+"In terms of your career, know what you're good at and what you're happy doing. Evaluate your current opportunities and prospective opportunities with respect to your skills and interests. And don't be afraid of change if something better comes along.
+"But for now, stay home, be safe, and wash your hands."
+
+—Monica Hertzman
+

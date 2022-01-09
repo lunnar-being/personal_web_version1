@@ -1,0 +1,470 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    NHS Test and Trace statistics (England): methodology
+  
+
+  
+  
+
+  
+    
+  How the UK Health Security Agency (UKHSA) puts together the contact-tracing data in its weekly reports.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency
+
+      
+      Published
+      18 June 2020
+      Last updated
+      
+        18 November 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+  
+    
+      Applies to England
+
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    NHS Test and Trace statistics (England): methodology
+    
+        HTML
+    
+
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+UKHSA publishes weekly statistics on coronavirus (COVID-19) contact tracing dating from when the NHS Test and Trace service started on 28 May 2020.
+
+These statistics cover:
+
+
+  number of people tested for coronavirus in England
+  number of people who tested positive for coronavirus in England
+  time taken for test results to become available in England
+  distance to take a test in-person in England
+  number of people testing positive for coronavirus in England that were then transferred to the contact-tracing system, and the time taken for them to be reached
+  number of recent close contacts identified, and the time taken for them to be reached
+  number of people starting their quarantine at home or in a managed quarantine hotel
+  number of LFD and pillar 2 tests conducted in England
+
+
+This document sets out information on the data sources and methodology that are used to generate each of these  measures. It will keep being updated with further detail.
+
+
+
+
+        
+      
+
+      
+    Published 18 June 2020
+    Last updated 18 November 2021
+      + show all updates
+      
+        
+            
+              18 November 2021
+              Updated methodology.
+            
+            
+              16 September 2021
+              A small addition to 'Number of people starting their quarantine period', specifically private bookings of quarantine packages in Scotland. The 'Data sources' section has been updated along with 'Timings and revision' plus 'Other testing technologies'.
+            
+            
+              19 August 2021
+              Added section regarding 'Unregistered tests processed'.
+            
+            
+              29 July 2021
+              Added a paragraph to the 'Managed quarantine service' section, under 'People taking tests', in relation to the publication released on 29 July 2021, in which positive tests processed by international arrivals from red and amber-listed countries have been added to table 20 of the accompanying data tables.
+            
+            
+              15 July 2021
+              Updated the number of LFD tests conducted in workplace settings to include public sector testing.
+            
+            
+              8 July 2021
+              Added information on inclusion of orphan contact data and private testing data for the managed quarantine service (MQS).
+            
+            
+              1 July 2021
+              Updated to include information for care home visitors and testing of household bubbles and support bubbles. Also information on revisions to managed quarantine service statistics.
+            
+            
+              24 June 2021
+              Updated to include information on private test inclusion in managed quarantine service statistics and expanded information on identifying confirmatory PCRs.
+            
+            
+              17 June 2021
+              Updated with new figure 1 (flowchart showing how people move through NHS Test and Trace). Also updated to reflect changes to the Managed Quarantine Service, and that table 21 will now be updated every 3 weeks. Added section on 'Number of LFD test conducted in private sector workplace settings'.
+            
+            
+              27 May 2021
+              Update to reflect the renaming of ‘Primary schools, schools-based nurseries and maintained nursery schools' to 'Primary schools and nurseries'. Updated the higher education section under 'Rapid LFD testing by phase of education and role' and 'People tested and people testing positive' to reflect a change from 21 May 2021 on confirmatory PCR tests.
+            
+            
+              20 May 2021
+              Updated to include more detailed information on the managed quarantine service and the full back series of LFD tests reported by NHS staff.
+            
+            
+              14 May 2021
+              Updated to include more information on the managed quarantine service.
+            
+            
+              6 May 2021
+              Updated to include more information on orphan contacts.
+            
+            
+              29 April 2021
+              Updated to include more information on new testing technologies such as LAMP tests and orphan contacts.
+            
+            
+              22 April 2021
+              Added 2 new sections on confirmatory PCR testing and number of LFD tests reported by NHS staff.
+            
+            
+              15 April 2021
+              Updated to include information on the change to Northamptonshire LTLA and UTLA; improvement to the methodology for the number of PCR and LFD tests conducted.
+            
+            
+              8 April 2021
+              Updated to reflect the operational change implemented on 30 March 2021 for confirmatory PCR testing following a positive lateral flow test.
+            
+            
+              1 April 2021
+              Updated to include information on care home tests by staff, resident, visitors and visiting professionals.
+            
+            
+              25 March 2021
+              Updated to add in new methodology for the managed quarantine service data and further detail for rapid testing in schools.
+            
+            
+              18 March 2021
+              Updated to include information on tests conducted in care homes and additional information on testing in schools.
+            
+            
+              11 March 2021
+              Updated with information regarding the removal of the breakdown on cases and contacts reached by route from the weekly statistics.
+            
+            
+              4 March 2021
+              Updated to include information on lateral flow testing for households and bubbles of school staff and students. Information for contact tracing in areas where there are known variants of concern has also been included.
+            
+            
+              25 February 2021
+              Updated to include information on the number of lateral flow device (LFD) tests conducted in education settings.
+            
+            
+              18 February 2021
+              Updated to remove methodology information on the NHS Test and Trace app and UK testing as these statistics are no longer published as part of the NHS Test and Trace weekly publication.
+            
+            
+              11 February 2021
+              Updated to include information on additional contact tracing statistics for time taken to reach contacts from the case taking a test, and time taken to reach contacts from the case developing symptoms. Also included information on tests conducted as part of the rapid asymptomatic testing publication.
+            
+            
+              28 January 2021
+              Updated in line with new contact tracing policy.
+            
+            
+              21 January 2021
+              Updated the the section on 'number of recent close contacts identified' with information about counting of contacts identified by multiple people testing positive.
+            
+            
+              14 January 2021
+              Added information about how cases and contacts are reached.
+            
+            
+              7 January 2021
+              Updated to reflect changes in the reporting of positivity rates and lateral flow tests.
+            
+            
+              31 December 2020
+              Updated to add clarity on number of contacts who were reached by the phone or online.
+            
+            
+              17 December 2020
+              Updated to reflect that UK testing is no longer included in the publication.
+            
+            
+              10 December 2020
+              Updated to include additional information on new LFD and PCR test conducted breakdowns.
+            
+            
+              3 December 2020
+              Updated to include information on the operational change regarding household contacts under 18.
+            
+            
+              26 November 2020
+              Updated methodology for how contacts under 18 are reached and add further details on the different types of swab tests.
+            
+            
+              19 November 2020
+              Updated to include information on lateral flow device tests.
+            
+            
+              12 November 2020
+              Updated with additional detail for how testing capacity is calculated.
+            
+            
+              5 November 2020
+              Updated to better reflect the terminology for reaching cases and contacts, and to provide more information on some pillar 4 studies.
+            
+            
+              29 October 2020
+              Updated to include new terminology for cases managed or not managed by local health protection teams (previous known as complex and non-complex cases).
+            
+            
+              22 October 2020
+              Updated with more information on the NHS Test and Trace app.
+            
+            
+              15 October 2020
+              Updated with details on the new methodology for people tested and people testing positive. Added details about the NHS COVID-19 app.
+            
+            
+              8 October 2020
+              Updated to reflect the new breakdown on cases and contacts reached by phone or online.
+            
+            
+              1 October 2020
+              Updated to include methodology for additional local authority data published for pillar 2 tests processed.
+            
+            
+              24 September 2020
+              Update to reflect new information published on the following: distance to take a test in-person within pillar 2, UK tests processed and testing capacity split by swab tests and antibody tests, demographic breakdowns for people newly tested and people newly testing positive.
+            
+            
+              17 September 2020
+              Updated to reflect the new breakdown between regional and local test sites.
+            
+            
+              11 September 2020
+              Updated how testing capacity is defined and calculated.
+            
+            
+              10 September 2020
+              Added information about how cases and contacts are matched to an upper-tier local authority.
+            
+            
+              3 September 2020
+              Updated to include more detail about coronavirus (COVID-19) testing in the UK.
+            
+            
+              27 August 2020
+              Updated to reflect that: median turnaround times are now reported, the median number of contacts per case is now included, the way in which recent close contacts are identified for complex cases has changed since the beginning of NHS Test and Trace, and the number of non-complex close contacts identified and the number who were reached and asked to self-isolate is also provided for each upper-tier local authority.
+            
+            
+              20 August 2020
+              Updated to reflect that daily testing statistics will no longer be updated on GOV.UK, clarifying who gets transferred to contact tracing and updating pillar 2 turnaround methodology.
+            
+            
+              13 August 2020
+              The methodology has been updated to include new information on the geographical breakdowns for tracing data and to include information on Coronavirus testing data in the UK. The structure of this document has also been improved to add further clarity.
+            
+            
+              6 August 2020
+              Updated to correct an error in how the number of people tested relates to the number of positive cases and to add further details on which cases are transferred to NHS Test and Trace.
+            
+            
+              30 July 2020
+              The methodology has been updated to clarify what is meant by 'newly' tested as well as expanding detail on study samples excluded from turnaround times.
+            
+            
+              23 July 2020
+              The methodology has been updated to include details of the new breakdowns in this week’s release. These include pillar 1 turnaround times, the number of household close contacts, and the time taken for contacts to be reached from the time that the positive case that referred them is transferred to the contact-tracing system. Also included are more details about what a close contact is and how these figures can be used.
+            
+            
+              16 July 2020
+              Updated to include more information on how NHS Test and Trace classifies complex and non-complex cases and contacts, and how local test sites are included in turnaround statistics.
+            
+            
+              9 July 2020
+              The methodology document has been updated to reflect the changes in the methodology for calculating the time taken to receive a COVID-19 test result from time of test for home testing kits. More details about pillar 1 test turnaround times and the reasoning behind the percentage of people testing positive being removed from the publication has also been added.
+            
+            
+              2 July 2020
+              Updates have been made throughout the methodology document, including new sections added: 'People tested compared to tests' and 'Time taken to receive a COVID-19 test result'.
+            
+            
+              25 June 2020
+              Added new 2 new sections on testing, and new sections on 'Number of people providing details of one or more recent close contacts' and 'Notes on interpreting against other statistics'.
+            
+            
+              18 June 2020
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        DHSC testing and tracing statistics: information for users
+        Number of people tested for coronavirus (England): 30 January to 27 May 2020
+        NHS test and trace statistics (England): 28 May to 10 June 2020
+        NHS test and trace statistics (England): 28 May to 3 June 2020
+        NHS Test and Trace statistics (England): 25 June to 1 July 2020
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Weekly statistics for NHS Test and Trace (England)
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Testing for coronavirus (COVID-19)
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

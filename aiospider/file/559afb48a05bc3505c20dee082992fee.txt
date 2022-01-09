@@ -1,0 +1,89 @@
+
+								
+
+
+
+Task Force members will help develop a roadmap to democratize access to research tools that will promote AI innovation and fuel economic prosperity
+
+
+
+
+
+
+
+
+
+
+Today, the White House Office of Science and Technology Policy (OSTP) and the National Science Foundation (NSF) announced the newly formed National Artificial Intelligence (AI) Research Resource Task Force which will write the road map for expanding access to critical resources and educational tools that will spur AI innovation and economic prosperity nationwide.
+
+
+
+
+
+As directed by Congress in the National AI Initiative Act of 2020, the Task Force will serve as a Federal advisory committee to help create and implement a blueprint for the National AI Research Resource (NAIRR) — a shared research infrastructure providing AI researchers and students across all scientific disciplines with access to computational resources, high-quality data, educational tools, and user support.
+
+
+
+
+
+The Task Force will provide recommendations for establishing and sustaining the NAIRR, including technical capabilities, governance, administration, and assessment, as well as requirements for security, privacy, civil rights, and civil liberties. The Task Force will submit two reports to Congress that together will present a comprehensive strategy and implementation plan — an interim report in May 2022 and final report in November 2022.
+
+
+
+
+
+“America’s economic prosperity hinges on foundational investments in our technological leadership,” 
+said Science Advisor to the President and OSTP Director Eric Lander
+. “The National AI Research Resource will expand access to the resources and tools that fuel AI research and development, opening opportunities for bright minds from across America to pursue the next breakthroughs in science and technology.”
+
+
+
+
+
+“NSF is delighted to co-chair the National AI Research Resource Task Force, which has the essential role of envisioning the research infrastructure that will drive future innovations in AI,” 
+said NSF Director Sethuraman Panchanathan
+. “By bringing together the nation’s foremost experts from academia, industry, and government, we will be able to chart an exciting and compelling path forward, ensuring long-term U.S. competitiveness in all fields of science and engineering and all sectors of our economy.”
+
+
+
+
+
+Representing government, higher education, and private organizations, the following technical experts will serve on the Task Force:
+
+
+
+
+
+Lynne Parker, White House Office of Science and Technology Policy (Co-Chair)
+Erwin Gianchandani, National Science Foundation (Co-Chair)
+Daniela Braga, DefinedCrowd
+Mark Dean, retired (formerly IBM and University of Tennessee, Knoxville)
+Oren Etzioni, Allen Institute for AI
+Julia Lane, New York University
+Fei-Fei Li, Stanford University
+Andrew Moore, Google
+Michael Norman, University of California, San Diego
+Dan Stanzione, University of Texas, Austin
+Frederick Streitz, Department of Energy
+Elham Tabassi, National Institute of Standards and Technology
+
+
+
+
+
+Public input on the vision for and implementation of the NAIRR will be sought, including through a forthcoming request for information to be posted to the Federal Register. For more information about the National AI Initiative and the NAIRR, please visit 
+AI.gov.
+
+
+
+
+
+In addition, in the coming weeks, an AI advisory committee – the National AI Advisory Committee – will be established. It will provide recommendations and advice on a wide array of AI topics, including on the implications of AI on the future of learning and workers; research and development; economic competitiveness; societal, ethical, legal, safety, and security matters; commercial application; and opportunities for international engagement. A Federal Register notice will call for nominations of experts who will bring a broad range of perspectives in developing recommendations on these issues, including perspectives from labor, education, research, startup businesses and more.
+
+
+
+
+
+###
+
+			

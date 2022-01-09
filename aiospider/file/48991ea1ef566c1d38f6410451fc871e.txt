@@ -1,0 +1,2044 @@
+
+  
+    
+      Design and build your landfill site
+
+    
+
+      
+        
+  The design requirements that you need to meet in your environmental permit application and how to comply with your permit.
+
+      
+        
+          
+
+    As the site operator you must design and build your landfill to protect the environment. This guide explains the design requirements that you need to meet when you apply for an environmental permit.
+
+You need to carry out risk assessments when you apply for or change an environmental permit. You must submit your risk assessments to the Environment Agency as part of your permit application.
+
+Check what information to include in your hydrogeological risk assessment.
+
+Your risk assessments must show that you have designed your site to manage the environmental risks from your activity. This must include the:
+
+
+  stability of the lining and capping system, wastes and underlying geological strata
+  effectiveness of the leachate collection system – including the drainage layer, pipework, pumps and abstraction chambers
+  effectiveness of any groundwater control systems – including the drainage layers, pumps and abstraction points
+  ability to maintain operational and management control of the leachate and groundwater systems
+  ability to effectively collect landfill gas and prevent the migration of gas
+
+
+The Environment Agency will only issue a permit if it’s satisfied that your proposed engineering design meets the necessary requirements. Your permit will include conditions that you must meet when constructing your landfill site.
+
+Before you start constructing any new cell, development area or infrastructure you must submit your construction proposals to the Environment Agency. The Environment Agency will confirm whether it’s satisfied with your proposals.
+
+You should also read the guide for how the Environment Agency makes decisions on landfill engineering.
+
+You must have construction quality assurance (CQA) for the construction of all aspects of landfill engineering and infrastructure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+      
+        
+          
+            Engineering: design requirements
+          
+        
+        
+
+    Engineering proposals at all landfill sites must:
+
+  meet the design requirements set out in this guide
+  prevent unacceptable discharges to ground and surface water and emissions over the entire lifecycle of the landfill
+  be structurally and physically stable over the entire lifecycle of the landfill
+
+Demonstrate little or no additional benefit
+You may be able to demonstrate that a geological barrier or artificial sealing liner may not be needed if it would add little or nothing to protect soil and water. You must demonstrate this through a hydrogeological risk assessment.
+You must submit your risk assessment to the Environment Agency as part of your permit application.
+
+
+
+      
+        
+          
+            Design your landfill engineering and infrastructure
+          
+        
+        
+
+    You must follow design, construction and quality assurance procedures for each element of your landfill engineering and infrastructure. These are:
+
+  earthworks
+  geological barrier
+  leachate collection and sealing layer
+  geosynthetic materials
+  geosynthetic clay liners
+  geomembranes
+  geomembrane protection
+  dense asphaltic concrete (DAC) lining systems
+  leachate drainage and collection systems
+  leachate drainage pipework
+  separation geotextiles
+  leachate extraction and monitoring systems
+  leachate transfer and discharge pipework
+  landfill gas extraction and monitoring
+  landfill capping
+
+You must construct each element of your landfill engineering and infrastructure to recognised industry best practice.
+The Environment Agency encourages the development and use of new methods and materials where it results in improved or equivalent environmental protection. Find out more about how the Environment Agency makes decisions on landfill engineering.
+
+
+
+      
+        
+          
+            Earthworks
+          
+        
+        
+
+    For earthworks, the design and specification must follow the guidance for the specification for highway works. This guidance sets out the acceptability of materials, characterisation testing, layer thickness and compaction for general fill.
+You must also follow the guidance for earthworks in landfill engineering (LFE4) which explains the design and construction of earthworks at a landfill site.
+
+
+
+      
+        
+          
+            Geological barrier
+          
+        
+        
+
+    You must have a geological barrier that meets the standards in earthworks in landfill engineering (LFE4).
+Where the natural geology around your site does not provide enough protection for soil and water, you can artificially enhance the geological barrier. An artificially enhanced barrier must be at least 500mm thick. This prevents the sole use of a geosynthetic layer to enhance the geological barrier.
+The geological barrier must:
+
+  extend along the base and up the sides of the landfill
+  provide a barrier to contaminant emissions
+  prevent soil and groundwater pollution
+
+Your groundwater risk assessment must demonstrate that the proposed geological barrier will provide sufficient attenuation to prevent a potential risk to soil and groundwater. Attenuation means the reduction in the contamination concentration or flux through biological, chemical and physical processes.
+You may be able to show through a groundwater risk assessment that the geological barrier will provide little or no additional benefit.
+Check what information to include in your hydrogeological risk assessment.
+Geological barrier: design
+Where you need to construct a geological barrier you must follow the requirements of both the:
+
+  specification for highway works
+  earthworks in landfill engineering (LFE4)
+
+You must:
+
+  detail your proposed specification and methodology in your method statement and quality assurance and control procedures
+  provide a detailed specification for all mineral layers used for building or protecting engineering structures
+  assess chemical compatibility during the feasibility and trial liner stage, not as part of routine CQA testing
+  design permanent and temporary bunds, support slopes and ramps so they are stable in geotechnical terms and do not overstress, strain or puncture the lining system
+
+Your design specification must be the same as in your site-specific risk assessments.
+Your proposal must include a risk assessment by the design engineer. It must demonstrate that any temporary structures will not damage the permanent works.
+The Environment Agency will normally accept the use of natural clays or mudrocks for the construction of the geological barrier. You may need to process mudrocks before you incorporate them into the geological barrier. Your source evaluation report must confirm whether you need to process the material you will use to construct the geological barrier.
+You may also use bentonite enriched soil for this purpose. You must follow the guidance in using bentonite enriched soils in landfill engineering (LFE10).
+Geological barrier: construction quality assurance
+Your CQA plan must include the pass criteria for the proposed geological barrier.
+You must describe how you are going to construct the geological barrier to meet your design specification.
+
+
+
+      
+        
+          
+            Leachate collection and sealing system
+          
+        
+        
+
+    Landfills for hazardous and non-hazardous waste must have a leachate collection and sealing system unless collecting leachate is not necessary. Find out how to manage the leachate produced by the waste in your landfill.
+If you think you do not need to collect leachate you must demonstrate this to the Environment Agency. You must base this on a risk assessment that considers the location of the landfill and the waste types it will accept. The Environment Agency must confirm that it is satisfied that you do not need to collect leachate.
+The leachate collection and sealing system consists of:
+
+  an artificial sealing liner
+  a leachate drainage layer
+
+You do not need to collect leachate at landfills for inert waste.
+Artificial sealing liner
+Your landfill design must include an artificial sealing liner if you need to collect leachate. The artificial sealing liner should normally extend up the side walls.
+If you do not consider this necessary, you must justify this through a site-specific risk assessment. This risk assessment must consider landfill gas as well as potential leachate emissions.
+If you want to increase leachate levels in your site you must have adequate engineered containment up the side walls.
+Landfills below the water table do not need an artificial sealing liner if both of the following are met:
+
+  they are hydraulically contained
+  you can show in your risk assessment that the containment system will perform as well or better without a liner
+
+The design of the artificial sealing liner must be based on your risk assessment and must consider the overall landfill design. This must demonstrate that there is no likelihood of unacceptable discharges from the landfill over its entire lifecycle.
+The Environment Agency will only accept mineral artificial sealing liners where there is a substantial natural geological barrier. The requirement for an artificial sealing liner is most likely to be met by a geomembrane or a dense asphaltic concrete (DAC) liner.
+As well as being very low permeability, your artificial sealing liner must be stable, durable and resistant to chemical attack, puncture and rupture.
+Your stability risk assessment must consider the interactions between the multiple layers in the lining system.
+You must assess the chemical compatibility of the materials to be used to construct the artificial sealing liner with the probable waste, leachate and gas composition and temperature.
+You must consider the effect of potential weaknesses or imperfections in the materials to be used on the performance of the artificial sealing liner.
+Artificial sealing liner protection
+You must protect geomembranes with suitable materials against:
+
+  puncture
+  ultraviolet degradation
+  thermal and localised stress and stress concentrations that can lead to stress cracking
+
+Suitable materials include geotextiles and mineral materials.
+You must carry out a cylinder test to show that you will use suitable material to protect the geomembrane.
+Where you use a mineral (such as clay) as the artificial sealing liner, you must protect it against erosion, weathering, desiccation, vegetation and penetration. You must protect the liner with a suitable weather protection layer. You must place a geotextile separation layer between the upper surface of the mineral liner or weather protection layer and the leachate drainage layer.
+Where you use a mineral as the artificial sealing liner, you may provide protection by increasing its thickness.
+Where you use minerals to protect your geomembrane they must be:
+
+  fine grained
+  at least 300mm thick
+  covered by a separation geotextile and leachate collection drainage layer
+
+Where you use a geotextile protection layer you must follow the guidance for using non-woven protector geotextiles in landfill engineering (LFE7).
+You must make sure the placement of the protection layer does not damage or overstress the liner.
+Leachate collection and drainage system
+You must have an effective leachate collection and drainage system to manage the risk to groundwater and surface water.
+You must be able to:
+
+  abstract leachate from the drainage layer over the entire lifecycle of the landfill
+  collect and control leachate on the base and sides of the site
+  manage landfill gas emissions from any sidewall drainage layer to prevent, or where that is not practicable, minimise methane emissions and odours
+  prevent, or where that is not practicable, minimise air or surface water ingress into the waste from any sidewall drainage layer
+  monitor leachate on the base of the site
+
+Leak detection
+You must use geophysical leak detection on all cells where the artificial sealing liner is a geomembrane. This is to check for defects after the leachate drainage layer has been installed and before depositing waste.
+Read guidance for leak location surveys – geophysical testing of geomembranes used in landfills in the industry code of practice (LGG 113).
+You must include details of the geophysical leak detection survey you propose to use in your CQA plan.
+You must include the results of the geophysical leak detection survey in your CQA validation report. This must include:
+
+  the location, date and description of the works carried out, including any re-test
+  the name and experience of the personnel who carried out the survey
+  a description of the system used, including the accuracy of the test as determined on site
+  any limitations of the methodology used, including problems encountered on site
+  a copy of the specification provided to the survey team
+  details of the nature and extent of any defect
+  photographs of any defects, where visible, including the unique reference for the defect
+  confirmation that any defects were repaired and the date of any additional testing to confirm this
+
+You must include scaled plans of the survey area. Plans must be accurate to 100mm and include the:
+
+  site name, site operator, survey dates, scale and north arrow
+  site features such as roads, weighbridges, location of cell or phase being surveyed
+  12 figure national grid reference
+  survey grid
+  extent of the liner surveyed
+  location and electrical potential for every point surveyed
+  location of all defects with individual numbers
+  extent and results of the additional survey carried out after all the defects have been repaired
+
+Leak interception layer
+Your risk assessment may indicate that the lining system needs a leak interception layer. In this case, you must divide the system into compartments to help find significant leaks.
+You must monitor your leak interception system.
+
+
+
+      
+        
+          
+            Geosynthetic materials
+          
+        
+        
+
+    You must specify the geosynthetic products you intend to use.
+You must follow the guidance for the materials that you propose to use:
+
+  Using geomembranes in landfill engineering (LFE5)
+  Using non-woven protector geotextiles in landfill engineering (LFE7)
+  Using geosynthetic clay liners (GCL) in landfill engineering (LFE3)
+
+Your engineering design must assess the stability of the lining configuration for the design life of your site.
+Your design must specify the required tensile strength of any geosynthetic material you propose to use. You must verify this strength in accordance with your CQA plan.
+You must:
+
+  justify how your proposed material will withstand the physical, biological and chemical stresses it will be subjected to
+  specify how you will secure the geosynthetic material both during construction and for the full design life of your site
+  undertake site-specific shear strength testing for each soil to geosynthetic and geosynthetic to geosynthetic interface
+
+Read guidance on geosynthetic interface shear resistance testing in the industry code of practice (LGG 115).
+Geosynthetic materials: construction quality assurance
+You must describe how you are going to install the geosynthetic materials to meet your design specification. You must:
+
+  include procedures that make sure all material delivered to site meets the agreed specification
+  make sure the manufacturer’s quality control certificates for each roll you use are provided
+  specify your procedures for delivery, handling and storage
+  include a manufacturer’s declaration of conformity for the geosynthetic products in accordance with the British Standard (BS) EN 13492, EN 13493 and EN 13257
+  include a summary of the manufacturer’s quality control procedures and a list of the properties in the materials you will use
+  describe your procedure for sampling and testing the geosynthetic material that is to be used
+  specify the methods for approving the sub-grade prior to the placement of the geosynthetic material, including details of testing
+  provide details of how you will verify the experience or training of installation staff
+  specify what action you will take in the event of non-compliance with any part of the specified criteria
+  provide details of how the geosynthetic materials will be installed
+  describe your procedure for inspecting, testing and sampling welds and joints, including the details of the geosynthetic laboratory (that must have United Kingdom Accreditation Service (UKAS) accreditation for each test) for off-site testing
+  specify the rejection criteria of the laid geosynthetic material if test results indicate failure
+  provide details of what action will be taken in the event of a defective weld, including re-test procedures
+  include a procedure for repairing damage to the geosynthetic material
+  specify how you will protect the geosynthetic sheets following installation
+  make sure no plant machinery passes directly onto any exposed geosynthetic material
+
+Where you use plant machinery to place the soil protection layers or the leachate drainage and collection layer, your CQA plan must confirm that the method of placement will not damage the underlying geosynthetic material.
+Where you propose to use a geosynthetic material as a capping layer, your CQA plan must also:
+
+  specify how you will seal around existing structures
+  include a detailed settlement prediction for all capping materials where settlement is likely to occur and confirm that the design and monitoring is sufficient so that this will not impact its performance
+  confirm that your proposed method of capping will not have a detrimental impact on the management of landfill gas
+
+
+
+
+      
+        
+          
+            Geosynthetic clay liners
+          
+        
+        
+
+    A GCL may be used as part of an artificially enhanced geological barrier or to provide the sealing layer to a cap.
+You must meet the design requirements for:
+
+  geosynthetic materials
+  using geosynthetic clay liners in landfill engineering (LFE3)
+
+Needle punched (reinforced) GCLs must normally be used due to their internal shear strength. If you use unreinforced GCLs you must demonstrate their suitability.
+You must confirm the total permeability and flux for your design.
+The clay in a GCL must have an active sodium montmorillonite content of more than 70%.
+You must consider the performance of the product you are proposing in relation to free swell and shear strength.
+You must specify the:
+
+  dosage rate of clay required per square metre of GCL
+
+  ‘way-up’ for installation of the GCL
+
+
+Products must be tested in the factory to detect needle fragments. You must only use products where all needle fragments have been removed before they leave the factory. You must provide evidence from the manufacturer that needle detection has been carried out and all needle fragments have been removed.
+You must minimise the number of seams and the amount of patching. Seams must run down a slope or be on a flat base.
+Geosynthetic clay liners: construction quality assurance
+Your CQA plan must include the pass criteria for the proposed geomembrane material. The pass criteria must meet the requirements described in using geosynthetic clay liners in landfill engineering (LFE3).
+You must describe how you are going to install the GCL to meet your design specification.
+Your CQA plan must include the following GCL specific requirements:
+
+  the method of placement, test types and test frequencies for the confining layer
+  ‘way up’ criteria specification for GCL panels
+  how you will protect the placed GCL if it rains during installation
+  the procedure for saturation of the GCL, if necessary
+  how you will make sure the GCL is covered for adequate protection and confinement
+
+
+
+
+      
+        
+          
+            Geomembranes
+          
+        
+        
+
+    Geomembranes are flexible polymeric sheets that can be welded together.
+You may use a geomembrane to meet the requirement for an artificial sealing liner or the sealing layer to a cap.
+You must follow the design requirements for:
+
+  geosynthetic materials
+  using geomembranes in landfill engineering (LFE5)
+
+The liner you choose must be resistant to a wide range of chemicals over long periods of exposure.
+You must carry out tests to determine the effects of leachate chemistry on the physical properties of the proposed geomembrane material for chemicals where there is no manufacturer’s data.
+You must design leachate monitoring and extraction points so they spread the anticipated loads and do not overstress or puncture the geomembrane. Your design engineer must provide detailed design calculations and engineering drawings to show these structures will not damage the geomembrane throughout its design life.
+You must consider potential desiccation of mineral liners beneath geomembranes.
+Geomembrane: construction quality assurance
+Your CQA plan must include the pass criteria for the proposed geomembrane material. The pass criteria must meet the requirements described in using geomembranes in landfill engineering (LFE5).
+You must describe how you are going to install the geomembrane to meet your design specification.
+You must describe how you will determine the proposed panel layout for the geosynthetic materials before you install the geomembrane.
+Your CQA plan must state that only suitably qualified, trained and experienced staff install the geomembrane liner. This must include both of the following:
+
+  a lead technician and a foreman accredited to at least standard level (level 1) of the BGA/TWI/CSWIP welding standard (developed by the British Geomembrane Association (BGA), Thermal Welding Institute (TWI) and the Certification Scheme for Personnel (CSWIP))
+  all welders accredited to a minimum of entry level (level 2) of the BGA/TWI/CSWIP welding standard
+
+You must use a company that is accredited, or working towards being accredited, to the BGA accreditation scheme for geomembrane installers.
+You must minimise the number of welds and the amount of patching. Welds must run down a slope or be on a flat base.
+Before using the geomembrane and at the start of each shift, you must carry out trial seams. This is to confirm that the set-up of each piece of seaming equipment is suitable for the conditions in which the geomembrane will be installed.
+You must:
+
+  carry out both non-destructive and destructive conformance testing to determine the suitability of each seam
+  send samples of your production weld seams for destructive testing at a laboratory that has accreditation for each test
+  carry out conformance testing to determine the integrity and strength of as much of the complete length of all seams constructed on the site as possible
+  carry out a geophysical leak location test after the protection and leachate drainage and collection materials have been placed over the geomembrane
+
+
+
+
+      
+        
+          
+            Geomembrane protection
+          
+        
+        
+
+    For geomembranes, you must select a suitable material beneath the leachate drainage material to provide protection. A range of materials, including geotextiles and mineral materials, can provide appropriate protection.
+You must carry out a cylinder test to show the material you propose to use will protect the geomembrane.
+Where you use a mineral material, you must specify the method of placement together with the thickness and particle size of this material.
+Where you use a geotextile you must follow the design requirements for:
+
+  geosynthetic materials
+  using non-woven protector geotextiles in landfill engineering (LFE7)
+
+You must place the geotextile to the manufacturer’s recommendations.
+No plant machinery must pass directly onto the exposed geotextile.
+You must specify the minimum thickness of material that is required between any plant machinery that is placing the protection layer and the underlying geomembrane within your design.
+You must make sure the method you use to place the protection layer will not damage the geomembrane.
+Geomembrane protection: construction quality assurance
+Your CQA plan must include the pass criteria for the proposed geomembrane protection material. The pass criteria must meet the requirements described in using non-woven protector geotextiles in landfill engineering (LFE7).
+Geotextiles must be manufactured from non-woven polypropylene or polyethylene fibres. This guidance does not cover woven geotextiles as they are not commonly used as protectors.
+Where you propose to use a geotextile protection layer you must describe how you are going to install the geotextile to meet your design specification.
+You must not use geotextiles made from post-consumer or post-industrial recycled materials.
+Geotextile products must be tested in the factory to detect needle fragments. Needle fragments must be removed before the product leaves the factory. You must provide evidence from the manufacturer that needle detection has been carried out and all needle fragments have been removed.
+
+
+
+      
+        
+          
+            Dense asphaltic concrete (DAC) landfill lining systems
+          
+        
+        
+
+    You can meet the requirement for an artificial sealing liner by using a DAC liner system.
+When designing a DAC liner you must consider:
+
+  hydraulic conductivity
+  flexibility to cope with settlement and deformation
+  stability – particularly on steep slopes
+  bearing capacity
+  resistance to chemical attack
+
+You must produce a mix design report containing the source evaluation testing for the materials and specific mix design for a dense asphaltic lining.
+You must produce a field trial report when you have completed your trial and send it to the Environment Agency. Your report must confirm or refine the mix design and proposed method statement for the actual construction.
+
+DAC landfill lining systems: construction quality assurance
+Your CQA plan must include the pass criteria for the proposed DAC material.
+You must include details of how you will undertake a trial liner on site to verify your mix design. Before the trial you must specify the:
+
+  location for the trial area
+  
+CQA testing procedures
+  voids, vacuum permeability and core sampling
+  frequency of CQA testing
+
+You must describe your process for mixing and transporting the DAC layer and the asphaltic binder layer materials.
+You must describe how you are going to construct the DAC in accordance with your design specification, including:
+
+  method of construction and installation
+  adverse weather conditions
+  preparation of the subgrade and support layer
+  granular stabilising layer
+  asphaltic binder layer
+  
+DAC layer
+  mastic asphalt seal coat
+  joints in DAC
+
+  cold or end of day joints
+  hot joints
+
+You must specify the type and frequency of CQA for each of the following elements of the DAC liner:
+
+  raw materials
+  mixed materials
+  temperature
+  density
+  permeability
+
+
+
+
+      
+        
+          
+            Leachate drainage and collection systems: granular and tyre drainage layers
+          
+        
+        
+
+    Your permit will include a compliance limit for leachate levels to minimise the rate of leachate emission through the base of the site.
+To manage leachate you must:
+
+  design landfill cells with a minimum gradient on the base of each cell between 1% and 2% (1 vertical to 50 or 100 horizontal) towards the sump
+  drain leachate to collection sumps located at low points where you can remove it from the landfill for disposal or recirculation
+  design the drainage system for ease of access, minimum length pumping mains and future gravity removal where practical
+  monitor the level of leachate at the lowest point in each cell
+  monitor the level of leachate at a minimum of 2 points remote from the extraction point
+
+If you want to use an alternative method for monitoring the level of leachate you must justify this through a site-specific risk assessment. You must include details of how you will calibrate any assumptions you have made.
+The drainage system must cover the entire base of the cell. The perimeter side slope drainage system must transmit leachate to the base of the site. The side slope drainage system must be the subject of a risk-based design and may be different from the basal drainage system. The design of the side slope drainage system must consider both the management of leachate and landfill gas.
+The Environment Agency will accept a 300mm thick granular drainage layer combined with an engineered slotted or perforated pipework system if you meet the following minimum design and installation criteria:
+
+  The physical strength of the drainage material is measured by the ten per cent fines value (TFV) test BS 812: Part 111: 1990. Any drainage aggregate must have a minimum soaked TFV of 100kN (kilonewton).
+  The Environment Agency considers BS 13242:2002 20/40 aggregate to be the most suitable to use in a drainage layer. If you want to use a finer graded 10/20 aggregate combined with a filter geotextile on top of the leachate drainage layer, you will need to demonstrate a site-specific need.
+
+Such site-specific issues include:
+
+  the available aggregate having unsuitable physical properties
+  lack of an available source of coarser aggregate close to the site
+  lack of a suitable and affordable protection layer to the geomembrane
+
+The Environment Agency will accept carbonate minerals as part of leachate drainage blankets for non-hazardous waste sites. Carbonate minerals include limestone and dolomite derived aggregates.
+You must confirm the grading of the drainage material using particle size distribution testing on the material after placement. The amount of fines may increase with handling on site. Therefore, an additional allowance of 2% of material passing the smallest sieve is acceptable.
+Where the design uses a geomembrane, you must carry out a cylinder test to assess the actual performance of the proposed system.
+The Environment Agency will accept other types of drainage material but you must demonstrate they are suitable. To do this, you must assess them for:
+
+  chemical resistance and compatibility
+  strength and physical characteristics
+  long-term hydraulic performance
+  permeability
+  transmissivity
+  stability
+  redundancy
+  liner protection
+  fires – when you are using tyres
+  compacted thickness – when you are using tyres
+  ability to carry out a geophysical leak detection survey on any underlying geomembrane
+
+You must assess the stability of the drainage material on any slope together with the stability and integrity of both the sub-grade and the liner.
+Where you need to use a filter geotextile, it must achieve the standards set out in the following filter geotextile standards table.
+Filter geotextile standards table
+
+  
+    
+      Property
+      Test
+      Acceptance
+    
+  
+  
+    
+      #Polymer
+      -
+      Polypropylene
+    
+    
+      #Geotextile construction
+      -
+      Non-woven - mechanically bonded
+    
+    
+      #Marked
+      -
+      Appropriate mark for the GB market
+    
+    
+      #Tensile strength
+      EN ISO 10319
+      Within manufacturer’s published parameters
+    
+    
+      #Elongation at max load
+      EN ISO 10319
+      Within manufacturer’s published parameters
+    
+    
+      #Static puncture California Bearing Ratio
+      EN ISO 12236
+      3300N minimum (Newtons)
+    
+    
+      #Dynamic perforation resistance (cone drop)
+      EN ISO 918
+      Within manufacturer’s published parameters
+    
+    
+      #Characteristic opening size O90
+
+      EN ISO 12956
+      50 to 120µm (micrometres)
+    
+    
+      #Water permeability normal to plane
+      EN ISO 11058
+      More than 40 l/m2/s
+    
+    
+      #Durability
+      See annex B of EN13257
+      Appropriate mark for the GB market
+    
+  
+
+Your CQA plan must include details of the:
+
+  method of joining or overlapping adjacent rolls of geotextile
+  direction of rolls with respect to eventual placement of waste
+
+Where you place a geotextile well in advance of waste, you must provide test results to demonstrate adequate performance before the waste covers the geotextile. For example, if test results show it will be 6 months before the onset of ultraviolet degradation, you can leave the filter geotextile exposed for that period without further testing. If after 6 months it is still uncovered you will need to take further samples and retest to demonstrate compliance before you cover with waste.
+The geotextile is an important part of the drainage system. You must provide full time third party independent CQA supervision when you install it. This includes at the time of cell construction or in phases as waste is placed. This must be adequately addressed in the CQA plan.
+You must include the manufacturer’s quality assurance data in your validation report if you can match it to the specific rolls of geotextile used. If you cannot match it, you must carry out on site CQA testing and include it in your report.
+Leachate drainage and collection systems – granular drainage layer: construction quality assurance
+You must:
+
+  make sure the method you use to place the leachate collection and drainage layer will not damage the underlying protection layer and geomembrane
+  specify the minimum thickness of material that is required between any plant machinery that is placing the leachate drainage and collection layer and the underlying protection layer and geomembrane within your design
+  place material from the bottom of the slope upwards
+  survey the thickness of the leachate collection layer and confirm the accuracy of the survey by excavating trial pits
+  determine the suitability of the drainage aggregate by carrying out conformance testing both before and during the placement of the aggregate – these include permeability, grading and TFV tests
+
+If you use an alternative method to determine the suitability of the drainage aggregate, you must justify your method.
+Where a geomembrane liner forms part of the barrier system, you must carry out a geophysical leak location survey once you have placed the drainage and collection layers. This is to make sure you find any damage so you can repair it.
+Leachate drainage and collection systems – tyre drainage: design
+You can use used tyres as an alternative form of drainage materials. They can be loose tipped or baled whole and shredded used tyres.
+You can use whole or shredded used tyres known as ‘used tyre derived aggregate replacements’ (UTDAR) as an engineering material if you can show they are suitable for the required service life of the leachate drainage and collection system.
+The Environment Agency will not normally agree you can use UTDAR where your landfill site is in a sensitive groundwater setting.
+Sites in a sensitive groundwater setting include:
+
+  on or in principal aquifers
+  within source protection zones (SPZ) 2 and 3
+  below the water table – in any strata where the groundwater provides an important contribution to river flow or other sensitive surface waters
+
+Check the Magic map to find out if your site is in a sensitive groundwater setting.
+In these sensitive settings you will need to provide groundwater, stability and landfill gas risk assessments. These risk assessments need to confirm that the protection of the environment is not affected by the control of leachate levels within the waste.
+Your design will need to address:
+
+  chemical compatibility between tyre rubber and the leachate generated from the waste at landfill sites for hazardous waste
+  tyre compressibility
+  upward migration of tyres
+  fires – both before and after construction
+  installation
+  hydraulic conductivity
+  blocking the voids between the tyres by waste materials
+  condition of source materials for UTDAR
+
+  handling and storage of UTDAR
+
+  how you will protect the underlying lining system from damage during and after the placement of the UTDAR
+
+  whether it will be feasible to carry out a cylinder test
+
+You must use a final equivalent thickness of 500mm where UTDAR are to be used, either as the entire drainage blanket or as a constituent part of it. You must specify the required initial thickness of the whole or shredded tyres and this must take account of the long-term compression of the UTDAR.
+You must specify the design of the side slope drainage system. This must consider the management of both leachate and landfill gas.
+For all size reduced materials you must specify the:
+
+  category of the material product
+  material source
+  processing technology
+  particle size range – expressed as the upper and lower defined limits
+  chemical and physical properties characterising the material for the specific end use
+  requirements for shredded tyres
+
+The Environment Agency does not consider 300mm rough shred to be suitable for use as UTDAR. There is no current evidence to characterise its performance after it has been placed and covered with waste.
+The non-tyre elements of the drainage installation must meet the design and CQA requirements for a granular leachate drainage layer.
+Leachate drainage and collection systems – tyre drainage: storage
+You do not need to apply for a permit for the storage and subsequent use of whole or shredded used tyres if you include these details in your construction proposals in accordance with your permit’s ‘engineering’ condition.
+You can only store and use whole or shredded used tyres once the Environment Agency has approved your construction proposals in writing. You must provide details on:
+
+  the proposed engineering works that the UTDAR will be used for
+  who will be supplying the UTDAR
+
+  the volume or number of UTDAR required for the project
+  confirmation that the UTDAR conform to either publicly available standard (PAS) 107 or PAS 108
+
+  the estimated start date and duration of the storage and construction activities
+  the location and design of the proposed storage and construction areas
+  your CQA plan
+
+  who will supervise the storage and construction activities
+
+You can provide this information to the Environment Agency separately or within the overarching CQA plan for the containment system.
+A competent person must prepare the specification and CQA plan and supervise the storage and use of UTDAR.
+You must provide a written statement to prevent, detect, contain and mitigate fires. This must include:
+
+  the storage of whole tyres, tyre bales and tyre shreds in a secure location to prevent public access
+  ensuring sufficient access for fire and rescue service vehicles
+
+You must not store:
+
+  more tyre bales than you need to complete the project
+  more than 1,000 tyre bales in any single location at your site – the Environment Agency will consider multiple storage sites for major projects on a case-by-case basis
+  tyres for more than 3 months before the placement of the UTDAR
+
+
+Where you cannot comply with these requirements you will need to apply for an environmental permit, or apply to vary your landfill permit.
+Leachate drainage and collection systems – tyre drainage: construction quality assurance
+All whole used tyres received for use as UTDAR must have been removed from their wheels.
+All whole used tyres must be free from debris, inner tubes, foreign matter and contaminants.
+Used tyres must show no signs of partial consumption or charring by fire.
+All supplies must be accompanied by the material safety data sheet.
+Your CQA engineer must carry out:
+
+  source evaluation and approval, including assessment of samples and any proposed production facility and ensuring compliance with recovered rubber or baled-tyre production standards (PAS 107 or PAS 108)
+  initial sampling and testing of materials for laboratory analysis to check that any specified grading is achieved
+  observation that material stockpiling is in accordance with the specified requirements
+  visual inspection of materials to check for contamination upon delivery to site and before inclusion within the works
+  observation of placement of materials to make sure the underlying elements of the lining system are not damaged, including visual checks for projecting bead wire within the initial layer of placed material or strapping around tyre bales in direct contact with the geomembrane and protection geotextile
+  observation that placement is in accordance with the specification
+  measurement of the overall placed depth of the leachate collection and drainage layer to make sure the required thickness is in place
+
+Where a geomembrane is part of your design, you must be able to carry out a leak location survey. It’s unlikely that you will be able to carry out a leak location survey after you have placed the full thickness (more than 500mm) of the UTDAR drainage blanket.
+If you intend to carry out a walk-over geophysical survey, you may either:
+
+  do this after a ‘protection’ layer is placed – typically a starter layer of aggregate over a suitable geotextile protector
+  place the UTDAR drainage blanket in 2 lifts, carrying out the walk-over leak location survey after the first lift
+
+
+
+
+      
+        
+          
+            Leachate drainage pipework: design
+          
+        
+        
+
+    You must specify the material you propose to use for your leachate collection pipework.
+Your design must consider the:
+
+  height and density of waste above the pipework
+  maximum deflection requirement specified by the SDR (standard diameter ratio)
+  type, proctor density and e-modulus of the sub-grade
+  installation type
+  type of bedding and bedding angle if the pipe is to be fully slotted or perforated to make sure that fines do not pass through the slot or perforation
+  slot or perforation size to match the grades of aggregate deformation – you must use BS EN 1295 or ATV 127 to demonstrate that deformation is below 5% (bank rather than trench methodology of calculation)
+
+Pipework must be bedded on suitable pipe bedding material and covered with mineral drainage material to a minimum thickness of twice the external pipe diameter.
+The required open area in the drainage pipe is a balance between hydraulic conductivity and crush resistance. You must justify the range.
+To get a good filter around the pipe you need to retain approximately 85% of the gravel surround. D15 is the particle size above which 85% will be retained.
+The pipe can be slotted, perforated fully or perforated for two-thirds of its circumference. The maximum size of the slots or perforations must be chosen according to the D15 value.
+You must specify the method of joining the pipework.
+All sections of pipes must be firmly fixed together using butt fusion or electro-fusion welding techniques. You must not use simple push-fit couplings or hand welding techniques.
+Pipe diameter must be a minimum nominal internal diameter of:
+
+  120mm for branches
+  160mm for main runs
+
+You must specify the pipe spacing. It must be a maximum of 30 metres or calculated using the approach used within ‘Barrier systems for waste disposal facilities’ (2004) by Rowe, Quigley, Brachman and Booker (ISBN 9780419226307).
+Leachate drainage pipework: construction quality assurance
+You must provide the manufacturer’s quality control testing and all design calculations within the validation report for the works.
+The as-placed pipework must be surveyed to confirm it has been placed to the required gradient and minimum spacing.
+
+
+
+      
+        
+          
+            Separation geotextiles: design
+          
+        
+        
+
+    Where you use a separation geotextile as part of your design, you must specify the material you propose to use and show it will provide suitable separation.
+Where you use a geotextile you must, where applicable, follow the [design requirements for geosynthetic materials. You must refer to BS 8661 to demonstrate that your separation geotextile is suitable.
+You must only use a geotextile product that is manufactured under factory control guidelines set out in BS EN 13257.
+You must refer to the functional characteristics and relevant test methods.
+Separation geotextiles must be manufactured from polypropylene or polyethylene fibres. This can be woven, non-woven or a combination of both.
+Separation geotextiles: construction quality assurance
+You must define the pass criteria for the proposed separation geotextile.
+You must describe how you are going to install the separation geotextile to meet your design specification.
+
+
+
+      
+        
+          
+            Leachate extraction and monitoring systems: design
+          
+        
+        
+
+    You must remove leachate from the drainage collection system by:
+
+  vertical wells
+  side slope risers located on the site perimeter
+  gravity drains through an end bund of a valley site or in a land-raise site
+
+You must install a ‘target pad’ in preparation for retro-drilling to replace a failed extraction well or monitoring point. The design of the target pad will be site specific but must be present near to all leachate extraction and monitoring points.
+You must design leachate monitoring infrastructure to prevent ingress of perched leachate.
+You must design leachate extraction wells to ensure the abstraction of leachate for the design life of your site.
+Your leachate extraction wells must have:
+
+  an internal diameter of at least 600mm – so that in the event of failure, secondary pipework can be fitted within the annulus, or re-drilling undertaken within existing pipework at the same location
+  walls with slots for leachate ingress only within the permitted leachate level
+  an air-tight seal to the top of the well to avoid drawing oxygen from the atmosphere into the system when the gas extraction system is under suction
+  sealing between the well and waste for at least the top 2 metres
+  appropriate strength and protection to withstand deformation and buckling
+  provision for a pump to be temporarily or permanently installed
+  provision for access for CCTV and jetting of the leachate collection pipework
+  covers that are vandal-proof, lockable and gas-tight
+  been designed to accommodate settlement of the waste around the extraction well and any associated deflection
+  been designed to not damage the liner below
+  gas taps to allow gas monitoring
+
+You must be able to measure leachate levels with appropriate dip meters.
+The layout of your leachate collection and monitoring wells must allow access for monitoring and abstraction.
+Side slope risers must allow access for CCTV or jetting and for inspection. For this, and for pump access, your side slope risers must be at a continuous gradient over their length and must not follow any intermediate benches in the landfill side slope.
+You must assess the effects of the side slope riser on the stability of the adjacent liner system, together with the need for additional protection.
+You must seal side slope risers near the surface. This must be within the top 2 metres of the pipe length within the waste, to prevent air entering the landfill and landfill gas escaping.
+Your design must use permanent buried pipework, as soon as is practicable, to carry leachate from the removal manholes to the treatment or disposal facility.
+You must install foundations that adequately support the weight (including settlement pressure) of any built structure, to keep it vertical and to avoid damage to underlying materials.
+For structures sited directly on the site base, you must have a level, load-bearing foundation.
+For structures sited at higher levels within waste, less stringent engineering measures may be acceptable. It depends on the depth of waste below the structure and the final height of the structure.
+In all cases, you must provide engineering calculations to confirm the load-bearing capability of the structure and its long-term stability. Where you propose to install side slope risers, you must also meet the design requirements for leachate drainage pipework.
+Where you propose to progressively raise any leachate monitoring or extraction point at the same time as waste is landfilled, your design and installation method must ensure it stays vertical during and after construction.
+To keep pipework vertical you can:
+
+  use a secure coupling method to make sure successive sections of pipework are fixed vertically and will not slip laterally
+  use a means to measure and make sure newly installed sections remain vertical
+  install within a protective outer liner or aggregate layer to prevent disturbance by machinery
+  include design features that minimise shear and settlement
+
+Your design must consider:
+
+  preventing shear and settlement damage
+  lining materials
+  size and distribution of openings
+  lateral movement during and after waste placement
+
+Leachate extraction and monitoring systems: construction quality assurance
+You must adopt CQA procedures to document the design, construction and maintenance of the extraction or monitoring point.
+You must use suitably qualified, trained and experienced staff to install leachate extraction and monitoring pipework. At least one crew member must be accredited to the CSWIP standard level for pipe welding. All other welders must be accredited to the CSWIP entry level scheme for pipe welding or an alternative scheme where you can demonstrate its equivalency to the Thermal Welding Institute scheme.
+You must include the maintenance of the structure in the monitoring plan.
+Where you are only constructing the base of the leachate extraction or monitoring point, you must carry out CQA as part of the cell construction work.
+A third party CQA engineer must supervise the installation and drilling of retrofitted leachate extraction and monitoring wells.
+Where the leachate extraction or monitoring point is to be extended later, all work must be subject to CQA procedures. This will need to be validated as each section is completed.
+
+
+
+      
+        
+          
+            Leachate transfer and discharge pipework
+          
+        
+        
+
+    All leachate transfer pipework must be designed and installed to maintain the integrity of the pipework. This is the pipework that transfers leachate from each cell or phase of your site and to on site leachate storage tanks prior to off site removal.
+You must have third party CQA for the construction of the discharge pipework.
+You must carry out frequent inspections, monitoring and maintenance for all discharge pipework to make sure it remains fit for purpose. You must agree the frequency of inspections, monitoring and maintenance with the Environment Agency.
+
+
+
+      
+        
+          
+            Landfill gas extraction and monitoring: design
+          
+        
+        
+
+    You must develop landfill gas extraction and monitoring systems based on your site-specific risk assessment.
+You must:
+
+  consider the end use and site setting when designing each element of your gas control system
+  use drawings and specifications supported by calculations and method statements in your designs
+  design and operate your gas collection and extraction system to maximise the quantity of landfill gas you collect and prevent uncontrolled emissions of landfill gas
+
+When you design your gas control system you must consider the:
+
+  performance required to achieve the standards set in the risk assessment
+  context of the elements of the gas control system being considered – a temporary or permanent system
+  design life of the elements of the gas control system
+  purpose of the elements of the gas control system and the environment they are situated
+  selection of materials and products
+  compatibility of the installed elements of the control system in terms of the phased development of the site
+  operational and maintenance requirements
+  health and safety issues
+
+Your gas management plan must specify the layout of your gas collection system. It must include:
+
+  risk screening and the development of the conceptual model
+  positions of gas collection wells
+  preferred alignment of permanent connection pipework in relation to the pre- and post-settlement profiles, and temporary control pipework during operation of the site
+  the design and sealing of leachate collection and monitoring systems – particularly how they may affect the efficiency and safety of gas collection by providing routes for air ingress
+  consideration of the need to provide condensate drainage
+  the need to make provision for expansion and contraction of the collection pipework
+  proposed capping and restoration
+  phasing of site operations
+  facilities for routine maintenance and system disconnection
+
+You must:
+
+  specify the depth, diameter and spacing of collection wells
+  be able to control surface emissions and recover landfill gas from the lower parts of deep landfills
+  consider the location of collection wells in relation to the proximity of other engineered features and the requirements for placing and compacting waste in these areas
+
+You must demonstrate in your gas management plan how you will minimise point source emissions at the interfaces with the containment system around the perimeter of the site and at engineered features in the cap. This includes at gas monitoring and leachate collection wells. You must incorporate appropriate methods of monitoring and maintain the performance of these features after they are installed.
+Your landfill gas collection pipework and extraction system must adequately manage the predicted volume and flow-rate of landfill gas produced.
+You must lay your collection pipework at an appropriate fall. This will allow condensate to drain freely and prevent blockage or restriction of gas flow within the transmission pipework.
+Your design must allow the system to drain condensate back into the waste mass or leachate treatment system by gravity or a pumped system. You must not drain condensate across the restored surface of the landfill site. You must make sure migration control is not compromised by landfill gas utilisation.
+Your gas management plan must specify your well designs considering:
+
+  well function and your collection strategy
+  control valves to allow automated or manual adjustments to each well
+  base detail of collection wells, where the interface with the containment system can potentially cause damage
+  detail of the interface between the cap and well
+  recognised industry best practice
+
+Your layout design must allow for:
+
+  gas monitoring
+  clearing blockages and disruption – by water, leachate or condensates and waste movement
+  routine operations and maintenance tasks
+
+You must consider whether you require a gas collection layer beneath the cap. Where your design uses a gas collection layer, you must consider its compatibility with other elements of the gas control measures in relation to:
+
+  how gas will be collected and removed from the layer
+  the interface with the cap – protection and deterioration
+  the potential to draw air into the collection system
+  the interface and compatibility with other features of the landfill gas collection system
+  settlement of the waste
+  the potential drainage of perched leachate through the gas collection system
+  access for monitoring
+
+Your design must consider possible failure modes, for example:
+
+  maximising the effective length of the gas well by controlling leachate accumulation within the waste mass
+  providing contingency measures to maintain consistent operation (for example, built-in slip-joints or flexible connections at the well head) while allowing for the effects of site settlement on the gas well
+
+Landfill gas extraction and monitoring: temporary systems
+Where you need to use temporary measures to collect gas until you can install a permanent system, you must set out your temporary system design in your gas management plan.
+You may use methods such as sacrificial horizontal gas collection systems or sacrificial percussion (pin) wells when filling a waste cell.
+You must describe how you will collect gas generated while a cell is filling in your gas management plan.
+You must install temporary or sacrificial gas extraction:
+
+  as soon as your monitoring from operational areas shows that methane can be extracted and combusted
+  on cell surfaces including waste flanks – you must allow access to install and maintain gas extraction infrastructure
+  in all areas of the site that are temporarily capped – the temporary cap must minimise surface emissions
+  to minimise odour emissions
+
+You must review the effectiveness of temporary gas collection measures regularly. You must incorporate measures to protect these temporary arrangements from damage.
+You must provide access for monitoring, maintenance, adjustment and flow monitoring.
+Landfill gas collection and monitoring systems: construction quality assurance
+You must prepare a specification and CQA plan for all elements of the landfill gas collection and monitoring systems.
+You must use suitably qualified, trained and experienced staff to install landfill gas extraction and monitoring pipework where joints are required. At least one crew member must be accredited to the CSWIP standard level for pipe welding. All other welders must be accredited to the CSWIP entry level scheme for pipe welding or an alternative scheme where you can demonstrate its equivalency to the TWI scheme.
+A competent person must prepare the specification and CQA plan.
+Your specification must cover the:
+
+  specification of products and materials
+  handling and installation processes
+
+Your CQA plan must cover:
+
+  responsibilities
+  functional testing of the integrity of pipework (such as pressure testing) to an appropriate standard and in line with the function of the pipework as required by the design, to verify competence of the pipework and joints
+  supervising and recording the installation of collection wells in line with the design
+  surveying the location of pipework, collection wells and other installed control measures
+  establishing that collection pipework and wells have been constructed in accordance with the design, for example, verifying the correct pipe diameters and well size, well depth, pipe gradients and locations
+  visual inspection of pipework before covering
+  details of plant commissioning and trials
+  requirements for the validation process
+
+Your plan must confirm the proposed drill depths and length of the stand-off between the base of each borehole and the base and sidewalls of the site. Where you propose to drill above a sidewall you must consider any potential deflection of the borehole during the drilling works.
+Your site emergency plan must include a generic CQA plan for any works set out in your site emergency plan or carried out as emergency measures.
+If you are retro-drilling wells within the waste or installing wells where there is a significant level of risk of damaging the basal, sidewall or capping liner, you must have a contingency action plan to remediate any damage to the containment system. This work must be supervised by a suitably experienced third party CQA.
+You must:
+
+  describe your methods for connecting pipework joints and connections to wells or manifolds
+  seal all structures that penetrate the cap, such as leachate and gas wells, to prevent emissions of landfill gas
+  follow the guidance for Dangerous Substances and Explosive Atmospheres Regulations 2002 (DSEAR) and industry codes of practice on DSEAR
+
+
+A competent person, in consultation with the Environment Agency, must supervise the installation works.
+A third party CQA engineer or inspector must supervise the installation and drilling of permanent gas wells and sub-surface pipework. This is to make sure that you do not damage the landfill containment system.
+
+
+
+      
+        
+          
+            Landfill capping
+          
+        
+        
+
+    Landfills for hazardous and non-hazardous waste will normally need a permanent surface sealing layer. This is also known as a permanent or final cap.
+If you consider that a cap would add little or nothing to protect the environment, you must show this through a groundwater risk assessment and landfill gas risk assessment.
+Caps are built structures that prevent gas emissions from the waste, and rainwater infiltration into it.
+Read guidance on the design of capping systems in the industry code of practice (LGG 111).
+Temporary capping means any cap that is not a final cap (or intermediate cover) that will remain in place for more than 12 months.
+You must keep uncapped areas to a minimum. Capping must take place as soon as possible after the end of waste disposal in a phase or cell.
+You must have either a final or temporary cap where:
+
+  it’s necessary to manage leachate
+  there is active landfill gas management at the site
+  the waste needs to be separated from the environment – even where it is not necessary to manage leachate
+  you need to minimise odour or dust emissions
+
+Your final cap must:
+
+  include a sealing layer
+  include a surface water drainage system
+  cover soils to protect the sealing layer and drainage system (for more information see Restore your landfill site)
+
+You may need a regulating layer between the final layer of waste and the cap. If so, you must specify the thickness and nature of this layer.
+You must base the design of the final cap on your groundwater risk assessment and landfill gas risk assessment.
+Landfill capping: design
+Where you need either a final or temporary cap, you must design it to the following relevant requirements:
+
+  Using geosynthetic clay liners in landfill engineering (LFE3)
+  Earthworks in landfill engineering (LFE4)
+  Using geomembranes in landfill engineering (LFE5)
+  Using non-woven protector geotextiles in landfill engineering (LFE7)
+
+Your final or temporary cap must be designed to:
+
+  prevent the waste being disturbed
+  control water infiltration
+  control the emission of landfill gas, odour or dust
+  be stable to erosion
+  be resistant to attack by roots
+  be able to tolerate the long-term strains caused by differential settlement – for the final cap only
+
+You must consider interactions between all the elements of the capping system in your stability risk assessment.
+You must also consider:
+
+  drainage for gas and condensates below the cap
+  surface water run-off above the cap
+  stability of cover soils during construction and in the long term
+  seasonal timing of the works so grass can grow to help stabilisation
+  the DSEAR (HSE 2002)
+
+
+Where you include a drainage geocomposite, you must follow the guidance in the industry code of practice (LGG 114) – Using drainage geocomposites in landfill engineering.
+You will need to install a temporary cap where waste is no longer accepted in part of the site and you do not intend to return to that area for more than 6 months. A temporary cap must cover any exposed waste slopes including internal flanks.
+The Environment Agency will not accept that a site is ‘definitely closed’ until all final capping works on site are complete and you have submitted a validation report to them.
+Approach for temporary capping: without construction quality assurance
+You must normally install a temporary cap with an approved CQA plan.
+Where you install the temporary cap without an approved CQA plan and it is not controlling gas emissions or leachate levels, you must replace it as soon as is reasonably practicable.
+You must normally do one of the following:
+
+  submit a CQA validation report to the Environment Agency to confirm the standard the temporary cap was installed to
+  replace the cap within 2 years with a temporary or final cap that is subject to CQA
+
+
+Approach for temporary capping: with construction quality assurance
+In some cases you may have installed a temporary cap that does not meet the standards for a final cap or with less CQA compared to that required for a final cap. For example, with part-time supervision.
+The Environment Agency will normally ask you to follow one of these 3 approaches:
+1. Where you have permanently ceased accepting waste for disposal
+You must complete the replacement of any temporary cap with a final cap within 2 years. You must maintain access for inspection, monitoring and maintenance, and to assess and maintain stability of the temporary cap until you install the final cap.
+2. Where you have temporarily ceased accepting waste for disposal (known as mothballing)
+Providing the temporary cap has been designed to allow access for inspection, monitoring and maintenance, and is adequately controlling gas emissions and leachate levels, a final cap must be installed within 2 years. This is only when you have no definite plans to re-open the site, as this is similar to permanent cessation. You may maintain a temporary cap for up to 5 years where you have confirmed in writing to the Environment Agency that you plan to re-open the site. If you have not reopened the site after 4 years, you must install a final cap within the 5-year period.
+3. Where your site remains operational
+You may maintain a temporary cap providing it remains stable, you have designed it to allow access for inspection, monitoring and maintenance, and it is adequately controlling gas emissions and leachate levels.
+Approach for temporary capping: install a final cap
+In all 3 cases, you must install a final cap as soon as is reasonably practicable. This must be within 2 years of the end of waste disposal as a maximum where:
+
+  you monitor unacceptable gas emissions – such as an average flux above the limits specified in table 2.1 of LFTGN07
+
+  leachate levels are consistently above compliance limits for more than 12 months
+  there is evidence of air ingress or aerobic conditions underneath the temporary cap
+  there are uncontrolled odour or dust emissions
+
+
+
+
+      
+        
+          
+            Temporary and maintenance works
+          
+        
+        
+
+    You do not need third party CQA for:
+
+  routine site management
+  the installation of temporary pipework and extraction systems where there is a reasonable stand-off between the construction and the landfill engineering
+
+For temporary works, the installation must be subject to in-house management system control. The Environment Agency considers 10 metres to be a reasonable stand-off.
+For temporary systems, such as installing shallow probes and pin wells, you must describe your CQA measures in your CQA plan.
+You do not need to describe your CQA measures where your temporary works are associated with maintenance of systems, such as the temporary disconnection and re-connection of surface pipes.
+You must agree the nature and extent of any maintenance with the Environment Agency before you start work. This includes agreeing whether these works require third party CQA.
+
+
+
+      
+        
+          
+            Emergency works
+          
+        
+        
+
+    You do not need third party CQA for pipework and extraction systems where you must carry out emergency works. However, your site accident and incident management plan must provide a generic CQA plan for foreseeable emergency works and you must submit a CQA validation report for all emergency works as soon as practicable.
+
+
+
+      
+        
+          
+            Drilling into waste on landfill sites
+          
+        
+        
+
+    Where you propose to carry out drilling into waste on your landfill, you must consider:
+
+  the environmental risks of penetration of the base and sidewalls, including if a containment system is not present
+  the accuracy of construction records and survey data
+  drilling methods, level of control and accuracy
+  the heterogeneous and unpredictable nature of waste
+  the saturation by leachate towards the base of the cell
+  likely perched leachate levels
+  the contamination potential of wastes and leachate from the borehole
+  landfill gas and odour emissions
+  remedial actions in the event of damage to lining systems or other infrastructure
+
+You must provide your construction proposals and a CQA plan to the Environment Agency that outlines the work you propose to carry out. You must not begin construction until the Environment Agency has confirmed that it is satisfied with your construction proposals.
+You must:
+
+  specify the frequency, accuracy and method of surveying before and throughout the works
+  specify the person responsible for surveying in your CQA plan
+  use a zonal drilling approach for all holes drilled into the landfill
+  demonstrate you have considered changes in levels of the cell base, particularly when drilling to side slopes or over inter-cell bunds
+  describe your method of backfilling or grouting abandoned holes
+  describe how you will weld or seal the cap and carry out any restoration work
+
+A zonal drilling approach must normally include:
+
+  a low risk zone
+  an intermediate risk zone
+  a high risk zone
+
+The low risk zone is well above the predicted base of the waste. You can use standard drilling operations. Drilling can advance in 3 metre increments.
+The intermediate risk zone is within 2 metres of the predicted base of the waste. You must reduce drilling increments to 300mm. You must inspect the drill arisings for each increment.
+The high risk zone is within 1 metre of the predicted base of the waste. You must relate the drilling increment to the accuracy of the drilling method. It must be less than the target layer - for example if a 300mm layer of gravel is the target, increments must be 200mm.  As you approach the base, you must use 150mm or 100mm increments, dependent on risk. You must check the drill arisings carefully for signs of drainage material.
+You must include an action plan and remediation strategy in your CQA plan in case you penetrate the containment system or base or sidewalls of your site.
+Where you are replacing a structure such as a leachate extraction or monitoring point you must follow these design hierarchy steps:
+
+  where your landfill cell has target pads installed during the cell construction at the base of your site, you must base your design on drilling to these targets
+  where you do not have target pads installed, you must consider options using the existing chamber base
+  where it is not possible to use the existing extraction or monitoring point, you must consider drilling your replacement structure next to the failed structure
+
+You must use calculations to demonstrate how you have considered the following:
+
+  the anticipated stresses on the casing based on the nature, age and depth of waste
+  the effect of additional loading on the existing basal lining and drainage system
+  end-bearing and negative skin friction when in service
+  any specific loadings during construction such as potential damage to the lining system, for example by dropping the casing on the liner system during installation
+
+The design for each borehole must include the:
+
+  depths of any relevant drilling zones at each location
+  predicted length and diameter
+  casing specification
+  length of gravel pack and length of cement or bentonite seal to be installed and their approximate volumes
+
+You must review your landfill gas management plans and odour management plans for the site. You must include in your CQA plan:
+
+  a temporary management or action plan you will follow during the work
+  clearly defined areas where gas extraction is reduced or switched off during the work
+  a description of where you propose to use additional measures such as inert gas injection or odour suppression systems – you must consider the gas extraction system where the cap is temporarily cut
+
+You must:
+
+  use a competent contractor to carry out the installation works – they must have experience of working with the equipment and materials in your design
+  make sure the lead driller provides a CV demonstrating their qualifications and experience for landfill drilling
+  use competent, independent, third party CQA to ensure the materials and workmanship meets the standards specified in your permit and CQA plan
+  outline the roles and responsibilities of each member of the CQA team within your CQA plan for the works
+
+The CQA personnel must be experienced with rotary drilling techniques.
+The Environment Agency will not accept CQA inspectors with only basal lining and capping supervision experience.
+Your CQA inspector must:
+
+  check that the drilling schedule of depths and borehole locations are up to date
+  supervise all drilling work
+  check there has been a recent survey and, if required, make sure regular surveys are carried out
+  know the depth the drilling has reached at all times
+  regularly record the depth against survey data and compare to the target depth
+  measure all drilling tools, including bit and auger
+  count and record the number of drill rods and casing being installed
+  supervise the installation of borehole materials
+
+You must submit a validation report to the Environment Agency within 4 weeks of completing the works, or other time period agreed in writing with the Environment Agency.
+
+
+
+      
+        
+          
+            Using waste in engineered structures
+          
+        
+        
+
+    You may use waste in any engineered structure where it satisfies the minimum engineering standards. For example, using waste as an artificially established geological barrier for an inert waste landfill or in a landfill cap.
+Landfill permits do not normally include a recovery code (for example R5) to cover this activity as you can use suitable inert waste on the basis that the engineering is an integral part of the permitted disposal activity.
+Where you propose to use waste in an engineered structure and want to do this as a recovery activity (under an R code) you must follow the deposit for recovery guidance and apply to include that activity in your permit. You must complete a waste recovery assessment when you deposit waste that does not provide an engineering function. See the guidance for raising the base of a landfill.
+You do not need a separate waste recovery plan where the proposal relates directly to the landfill containment system. However, the Environment Agency must make sure you are recovering waste based on information that you include in your construction proposals and CQA plan. This includes assessing the suitability and quantity of waste proposed.
+To be a recovery activity, waste material must be replacing non-waste material that would otherwise be used. Factors that may indicate that non-waste would be used for the proposed works are outlined in the Waste recovery plans and deposit for recovery permits guidance.
+The Environment Agency will only approve the construction proposals if the material is suitable for its intended purpose.
+The Environment Agency will need to confirm that you are using the minimum amount of waste necessary to achieve the intended purpose.
+All engineering works must be covered by third party CQA and be completed to an appropriate, approved standard.
+For more guidance on waste recovery permits, plans and engineering, see the deposit for recovery operators guidance.
+
+
+
+      
+        
+          
+            Raising the base of a landfill
+          
+        
+        
+
+    Where you want to raise the base of a landfill before starting construction of any part of the landfill, such as an artificially enhanced geological barrier, the Environment Agency does not consider it is an integral part of the landfill operation.
+You can raise the base by constructing the sub-grade or sub-base layer with non-waste material or waste as a recovery operation. For the Environment Agency to accept that waste is being recovered before a subsequent disposal operation takes place, you must satisfy the recovery test outlined in the deposit for recovery operators guidance. You must include information to satisfy the recovery test in your construction proposals and CQA plan, or in a separate waste recovery plan.
+See guidance on raising the base of a site when you propose to deposit waste into water.
+
+
+
+
+        
+  

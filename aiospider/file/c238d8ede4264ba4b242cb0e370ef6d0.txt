@@ -1,0 +1,257 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Pathways: Analytical Awareness for Non-Analysts
+  
+
+  
+  
+  
+      
+  Government Analysis Function Learning Pathways, highlighting a route through learning for non-analysts.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Government Analysis Function
+
+      
+      Published
+      1 November 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Analysis Function Learning Pathways: Analytical Awareness for Non-Analysts
+
+        
+        
+          Persona
+
+        
+        
+          Summary
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+
+
+Analysis Function Learning Pathways: Analytical Awareness for Non-Analysts
+
+
+You can find learning to help you follow this pathway on the Learning Hub.  If you don’t already have an account, contact GSS.Capability@statistics.gov.uk to request log in details.
+
+
+Description
+
+Analytical skills are in demand within government, industry and academia, and are listed as a key requirement for many roles in these fields. The analytical awareness pathway will provide you with a basic understanding of issues surrounding modern data analysis, analytical coding practices, quality of analysis and the impact these have on wider data science practice.
+
+Learning Objectives
+
+
+  Understand the importance of data and analytical approaches for effective decision making.
+  Describe how quality of analytical evidence helps develop confidence for supporting recommendations.
+  Demonstrate knowledge around basic coding tools used in a generic analytical environment.
+  Explain how analytical awareness can help develop data science capability within an organisation.
+
+
+Length
+
+This pathway contains four courses. Note that some learning in this pathway is hosted on Civil Service Learning and incurs a cost.
+
+Persona
+
+To help decide if this is the pathway for you, personas have been designed to create a realistic representation of the intended learning audience.
+
+
+
+General Background
+
+Ash works in a non-technical role within Human Resources (HR) and is using data more frequently to make evidence-based decisions.
+
+Starting Point
+
+Ash manages a large amount of data such as application forms, produces reports and uses Excel frequently.
+
+Perceived Needs
+
+Ash would like to learn more about modern data analysis tools and is eager to find out more about the benefits of coding before signing up for a coding course.
+
+Special Considerations
+
+Ash would prefer some trainer-led courses, especially around coding as this is unfamiliar.
+
+Summary
+
+This pathway will provide you with a basic understanding of issues surrounding modern data analysis, analytical coding practices, quality of analysis and the impact these have on wider data science practice.
+
+
+You can find learning to help you follow this pathway on the Learning Hub.  If you don’t already have an account, contact GSS.Capability@statistics.gov.uk to request log in details.
+
+
+Back to Analytical Learning Pathways page.
+
+
+
+
+      
+        
+    Published 1 November 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Pathways: Communicating Insight
+        Pathways: Text Analysis
+        Pathways: Statistical Analysis
+        Pathways: Reproducible Analytical Pipelines
+        Pathways: Data Quality
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Corporate information
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="../static/css/main.css">
   <script src="../static/js/jquery.min.js"></script>
   <script src="../static/js/bootstrap.min.js"></script>
-  <script src="../static/js/echarts.min.js"></script>
+  <script src="../static/js/echarts.js"></script>
   <script src="../static/js/js2wordcloud.min.js"></script>
   <script src="../static/js/mycharts.js"></script>
   <link rel="icon" href="../static/images/istic.png" type="image/gif" />
@@ -29,17 +29,24 @@
           <!-- 左侧目录 -->
           <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
             <ul class="nav nav-pills nav-stack">
-              <li class="active">
-                <a id="chart-btn1" href="#chart1" data-toggle="pill" onclick="countryYear()">国家×时间</a>
+                 <li class="active">
+                <a id="chart-btn1" href="#chart1" data-toggle="pill" onclick="institutionNum()">涉华机构统计</a>
               </li>
               <li>
-                <a id="chart-btn2" href="#chart2" data-toggle="pill" onclick="fieldYear()">领域×时间</a>
+                <a id="chart-btn2" href="#chart2" data-toggle="pill" onclick="chinaField()">涉华政策领域的时间变化</a>
               </li>
               <li>
-                <a id="chart-btn3" href="#chart3" data-toggle="pill" onclick="countryField()">国家×领域</a>
+                <a id="chart-btn3" href="#chart3" data-toggle="pill" onclick="chinaNum()">涉华政策数量变化</a>
               </li>
+
               <li>
-                <a id="chart-btn5" href="#chart5" data-toggle="pill" onclick="keywordCloud()">关键词词云图</a>
+                <a id="chart-btn5" href="#chart5" data-toggle="pill" onclick="keywordCloud()">涉华关键词</a>
+              </li>
+                <li>
+                <a id="chart-btn6" href="#chart6" data-toggle="pill" onclick="keywordsTree()">涉华关键词时间演变</a>
+              </li>
+                <li>
+                <a id="chart-btn7" href="#chart7" data-toggle="pill" onclick="stateMessageTree()">国情咨文关键词演变</a>
               </li>
             </ul>
           </div>
@@ -48,10 +55,10 @@
             <div class="tab-pane chart-part active" id="chart1">
               <div class="panel panel-default">
                 <div class="panel-heading">
-                  <h4>几个主要国家发布政策数量年份图</h4>
+                  <h4>涉华机构</h4>
                 </div>
                 <div class="panel-body">
-                  <div id="country-year" class="chart-div">
+                  <div id="institution-num" class="chart-div">
                   </div>
                 </div>
               </div>
@@ -59,10 +66,10 @@
             <div class="tab-pane chart-part" id="chart2">
               <div class="panel panel-default">
                 <div class="panel-heading">
-                  <h4>领域维度×时间维度</h4>
+                  <h4>涉华政策相关领域的时间演变</h4>
                 </div>
                 <div class="panel-body">
-                  <div id="field-year" class="chart-div">
+                  <div id="field-month" class="chart-div">
                   </div>
                 </div>
               </div>
@@ -70,16 +77,16 @@
             <div class="tab-pane chart-part" id="chart3">
               <div class="panel panel-default">
                 <div class="panel-heading">
-                  <h4>国家维度×领域维度</h4>
+                  <h4>涉华政策数量演变</h4>
                 </div>
                 <div class="panel-body">
-                  <div id="country-field" class="chart-div">
+                  <div id="china-num" class="chart-div">
                   </div>
                 </div>
               </div>
             </div>
             <div class="tab-pane chart-part" id="chart5">
-              <div class="panel panel-default">
+              <div class="panel panel-default" >
                 <div class="panel-heading">
                   <h4>关键词词云图</h4>
                   显示词条数量：<input id="keyshownum" type="number" min="1" max="300" step="1" value="100">
@@ -88,6 +95,28 @@
                 </div>
                 <div class="panel-body">
                   <div id="key-word-cloud" class="chart-div"></div>
+                </div>
+              </div>
+            </div>
+              <div class="tab-pane chart-part" id="chart6">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4>涉华政策关键词演变</h4>
+                </div>
+                <div class="panel-body">
+                  <div id="keywords-tree" class="chart-div">
+                  </div>
+                </div>
+              </div>
+            </div>
+              <div class="tab-pane chart-part" id="chart7">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4>国情咨文关键词演变</h4>
+                </div>
+                <div class="panel-body">
+                  <div id="state-message" class="chart-div">
+                  </div>
                 </div>
               </div>
             </div>

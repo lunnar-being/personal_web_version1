@@ -1,0 +1,95 @@
+
+
+
+
+Previous News ReleaseCOVID-19 Testing in Schools Complex But Doable, Worth the EffortNext News ReleaseUse of Common Cancer Screenings Rebounded Quickly After Dropping at Start of the Pandemic
+
+
+Growth of Telehealth During Pandemic Occurred Mostly in More Affluent and in Metropolitan Areas
+
+
+
+For Release
+MondayMarch 15, 2021
+
+Increases in the use of telehealth during the coronavirus pandemic among people with private insurance has occurred mostly among those who are more affluent and those who live in metropolitan areas, according to a new RAND Corporation study.
+Researchers say the findings raise concerns that the pandemic may be worsening existing disparities in overall health care utilization.
+Overall, the study found there was a 20-fold increase in the rate of telemedicine utilization following the outset of the pandemic in March 2020. At the same time, the rate of office-based medical encounters declined by nearly 50% and was not fully offset by the increase in telemedicine.
+The findings are published online by the American Journal of Preventive Medicine.
+“This study expands our understanding about the growing use of telehealth as the pandemic progresses,” said Jonathan Cantor, lead author of the study and a policy researcher at RAND, a nonprofit research organization. “Given our findings, policymakers should consider increasing efforts to reach populations that are deferring in-office care and not replacing it with telehealth visits.”
+The study analyzed insurance claims from more than 6 million people who had employer-based health insurance in 2019 and 2020. The group represented about 200 employers across all 50 U.S. states.
+Researchers examined the number and types of medical care received by enrollees from January 2019 through July 2020.
+The increase in telemedicine was greatest among patients in counties with low poverty levels (about 48 visits per 10,000 people versus 15 per 10,000 people in high-poverty areas) and among patients in metropolitan areas (about 50 visits per 10,000 people versus about 31 visits per 10,000 people in rural areas).
+Adults were more likely to have a telehealth visit as compared to children aged 12 and younger (about 65 visits per 10,000 adults as compared to about 50 visits per 10,000 children).
+“More intensive training for parents and pediatricians about telehealth, as well as efforts to address barriers to children's access to telemedicine may be necessary,” Cantor said.
+Support for the study was provided by the National Institutes on Aging and the Robert Wood Johnson Foundation.
+Other authors of the study are Ryan K. McBain and Christopher Whaley of RAND, Megan F. Pera of Castlight Health, and Dena M. Bravata of Castlight Health and the Center for Primary Care and Outcomes Research at Stanford University.
+RAND Health Care promotes healthier societies by improving health care systems in the United States and other countries.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+About the RAND Corporation
+The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous.
+
+
+
+
+Media Resources
+RAND Office of Media Relations
+(703) 414-4795
+(310) 451-6913
+media@rand.org
+
+
+Researcher Spotlight
+
+
+
+Jonathan Cantor
+Policy Researcher
+
+
+Jonathan Cantor is an associate policy researcher at the RAND Corporation. His key research interests are in health policies related to obesity, substance use disorder, mental health, pharmaceutical use, and other health behaviors. He uses theoretical frameworks and research methods from health…
+
+Explore Our People »
+
+Explore
+All News Releases
+By Date
+Related Topics
+
+Coronavirus Disease 2019 (COVID-19)Health Care AccessHealth Care TechnologyPandemicTelemedicineUnited States
+
+Research Conducted By
+
+RAND Health Care
+
+Explore All Topics »
+
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+Journal Article
+Who Is (and Isn't) Receiving Telemedicine Care During the COVID-19 Pandemic
+
+Mar 18, 2021
+Jonathan Cantor, Ryan K. McBain, et al.
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Research Topics:Health, Health Care, and Aging/Infectious Diseases/Coronavirus Disease 2019 (COVID-19)","Content Types:News Release","Research Topics:Science and Technology/Health Care Technology","Research Topics:Cyber and Data Sciences/Health Information Technology/Telemedicine","Research Topics:Geographic Areas/Americas/North America/United States","Research Topics:Health, Health Care, and Aging/Health Care Access","Research Topics:Health, Health Care, and Aging/Infectious Diseases/Epidemic/Pandemic"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Coronavirus Disease 2019 (COVID-19)","value":"research-topics:health-health-care-and-aging/infectious-diseases/coronavirus-disease-2019-COVID-19"},{"display":"News Release","value":"content-types:news-release"},{"display":"Health Care Technology","value":"research-topics:science-and-technology/health-care-technology"},{"display":"Telemedicine","value":"research-topics:cyber-and-data-sciences/health-information-technology/telemedicine"},{"display":"United States","value":"research-topics:geographic-areas/Americas/North-America/United-States"},{"display":"Health Care Access","value":"research-topics:health-health-care-and-aging/health-care-access"},{"display":"Pandemic","value":"research-topics:health-health-care-and-aging/infectious-diseases/epidemic/pandemic"}];})();
+

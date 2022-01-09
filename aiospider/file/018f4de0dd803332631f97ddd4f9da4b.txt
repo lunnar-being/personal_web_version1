@@ -1,0 +1,4357 @@
+
+  
+    
+      Content types
+
+    
+
+      
+        
+  When and how to use the GOV.UK formats.
+
+      
+        
+          
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+      
+        
+          
+            Choosing the right format
+          
+        
+        
+
+    It’s important to choose the format that fits your content. Do not base your decision on how a format looks.
+This is because:
+
+  if your content is in the wrong format, users will not be able to find it
+  we’re working on grouping formats by purpose and user need to allow users to find content more easily
+  it could wrongly go into history mode
+
+
+
+
+
+      
+        
+          
+            Case study
+          
+        
+        
+
+    Use case studies for real examples that help users understand either:
+
+  a process that’s covered on GOV.UK (for example it shows someone’s experience of taking part in a particular government programme)
+  an important aspect of government policy that’s covered on GOV.UK (for example it shows someone’s personal experience of a policy problem the government is trying to solve)
+
+Do not create a case study if:
+
+  it’s just about promoting your organisation - this just creates ‘noise’ and makes it harder for users to find the practical information they need
+  it does not relate directly to guidance or policy content on GOV.UK, or add something really important to it
+  it’s not going to be permanently useful (situations with only a temporary interest are better dealt with in a news story or press release)
+  it’s similar to an existing case study - this just creates ‘noise’ and confuses users
+
+Remember, most users just want practical information. Case studies can be counter-productive as they’re just something else for the user to read, and can complicate search results. It’s often best to concentrate on getting the wording of the guidance right instead.
+Creating a new case study
+Find out how to create and update a case study in Whitehall publisher.
+Example
+View a good example of a case study.
+Writing and formatting case studies
+All content should follow the Government Digital Service (GDS) style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+There are some additional things you need to consider when writing a case study.
+Format
+A case study can be either a first-person account or a third-person account with quotes from the person it’s about.
+Case studies can be in video form.
+Title
+Summarise the point of the case study.
+Do not use the words ‘case study’ in the title: they appear on the page automatically.
+Good example: UK money helps to build new homes in Darfur
+Bad example: After the war
+Summary
+This should outline what happened, why and the result.
+Good example:
+‘The war in Darfur left many people without homes. The government gave the Sudanese government £x money and 500 builders to help build homes for 1,000 families.’
+Body copy
+Do include:
+
+  information about how the case study supports a particular policy (include links to relevant pages)
+  stats and facts: how many people this will help, how much money is going where etc
+  the human element: who is benefiting and how
+
+Do not include:
+
+  too much detail about the past
+  too many quotes (unless it’s a straight interview)
+
+Example:
+The 7-year war in Darfur (2003 to 2010) left x people homeless. Despite the ceasefire in 2010, the region is still unstable and work to rebuild homes is slow.
+The government sent [building company, builders etc] to Darfur in June 2011. In 6 months they built 50 homes, which will house 200 people including 130 children.
+George, husband and father of 4 children, said:
+“It has made such a difference to our lives. My wife was ill and our children were getting sick. We were crammed into a tiny house with 5 other families. The living conditions were awful. Now we have a clean house to ourselves. The children share a room but they love the space and get up to mischief.”
+
+
+
+      
+        
+          
+            Consultation
+          
+        
+        
+
+    Use for:
+
+  consultations (officially ‘documents requiring collective agreement across government’)
+  calls for evidence
+  requests for people’s views on a question
+
+Do not use for:
+
+  documents that should be added to an existing consultation (such as supporting or outcome documents)
+  informal ‘consultations’ like surveys
+
+Creating a new consultation
+Find out how to create and update a consultation in Whitehall publisher.
+Example
+View a good example of a consultation.
+Writing and formatting requirements for consultations
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+There are also some further points you need to think about when writing a consultation.
+Title
+Summarise the point of the consultation.
+Do not use the word ‘consultation’ in the title: it appears on the page automatically.
+Body copy
+Do:
+
+  give a short, succinct account of what you are asking people about
+  keep the body copy to under 100 words
+
+Do not:
+
+  include publication or response dates as they’re inserted automatically and say who the consultation is aimed at
+  include jargon, even if you think the intended audience will understand it
+
+Attachments
+When you upload an attachment, it will automatically show the front page of the consultation.
+Learn more about adding attachments.
+When a government response is available, upload relevant files to the consultation page so that the whole consultation is findable at the original URL.
+Public feedback (optional - can be added after consultation closes)
+Do use the summary or body copy to:
+
+  say how many responses were received
+  the type of responses received (for example from members of the public, small businesses, large businesses, local government organisations, trade unions etc).
+
+Do not:
+
+  try to summarise what the feedback says - just upload the actual feedback
+  include dates in the copy - the publication date is inserted automatically
+
+Final outcome (add once the government response is ready)
+Do:
+
+  use the summary or body copy to describe briefly what form the government response takes
+  add only documents that form part of the government’s initial response to the consultation (usually just the official response document plus a final impact assessment, if there is one)
+
+Do not:
+
+  describe what the response actually said - that information goes in the attachment
+  do not attach documents with a lifespan longer than the consultation, like implementation plans or new guidance - create a separate publication page instead
+  add more information or attachments to the page after the initial government response has been published
+
+
+
+
+      
+        
+          
+            Corporate information: about our services
+          
+        
+        
+
+    Use for:
+
+  service level agreements and service standards
+
+Do not use for:
+
+  your general approach to customer service
+  general information about your services
+
+If you create an ‘about our services’ page, a link to it will appear automatically under the ‘corporate information’ heading on your organisation and your ‘about us’ pages.
+It’s designed for specific information about your service level agreements. For general information about your services use the services and guidance links or ‘about us’ page.
+To explain your approach to customer service, use the complaints procedure instead.
+Creating a new ‘about our services’ page
+‘About our services’ is created as a corporate information page.
+Find out how to create and update ‘about our services’ in Whitehall publisher.
+Writing and formatting requirements for ‘about our services’ pages
+All content should follow the GDS style guide and Writing for GOV.UK guidelines.
+
+
+
+      
+        
+          
+            Corporate information: accessible documents policy
+          
+        
+        
+
+    Organisations who publish PDFs and other non-HTML documents on the main GOV.UK website must publish an accessible documents policy.
+The policy should cover:
+
+  what document types your organisation publishes
+  how accessible your documents are
+  how users can request accessible formats
+
+The policy should be owned and maintained by the person in charge of publishing in your organisation.
+If you create an accessible documents policy, a link to it will appear automatically under the ‘corporate information’ heading on your organisation and your ‘about us’ pages.
+Creating a new accessible documents policy
+Find out how to create and update an accessible documents policy in Whitehall publisher.
+Writing and formatting requirements for accessible document policies
+Use this sample accessible documents policy to help you write yours. It explains what you need to cover and which forms of wording are legally required.
+
+
+
+      
+        
+          
+            Corporate information: complaints procedure
+          
+        
+        
+
+    Use for explaining:
+
+  what people can do if they have a problem with how the organisation has treated them
+  how to take an existing complaint further
+
+Do not use complaints procedures to:
+
+  explain related background or procedures
+  describe internal procedures
+
+If you create a complaints procedure, a link to it will appear automatically under the ‘corporate information’ heading on your organisation page and your ‘about us’ pages.
+Creating a new complaints procedure
+Find out how to create and update corporate information in Whitehall publisher.
+Example
+View a good example of a complaints procedure.
+Writing and formatting requirements for complaints procedures
+All content should follow the GDS style guide and Writing for GOV.UK guidelines.
+Complaints procedures also use specific headings and a set structure.
+Types of complaints we can help with
+Explain:
+
+  what type of complaints the organisation will look at
+  what type of complaints the organisation will not look at (for example because they’re handled in a different way)
+
+Use bullet points where possible.
+How to complain
+Explain:
+
+  how to make a complaint - if there are different procedures for different types of complaint, consider creating separate subheadings for each
+  how to contact someone about the complaint
+
+Do not:
+
+  duplicate information already on GOV.UK (for example, if there’s a procedure for complaints about personal data which is covered on the ‘Personal information charter’ page, do not add it here too)
+
+What happens next (optional)
+Explain:
+
+  what happens when the organisation receives a complaint
+  when people can expect a response
+
+If you’re not satisfied (optional)
+Explain:
+
+  what to do if someone is not satisfied with how the organisation has handled a complaint (for example, ask their local MP to refer it to the relevant Parliamentary ombudsman)
+
+Service standards (optional)
+If the organisation has a formal service standards document, attach it here.
+
+
+
+      
+        
+          
+            Corporate information: equality and diversity
+          
+        
+        
+
+    Use for:
+
+  publishing equality information and documentation, as required by law for some public bodies - if you’re unsure about your obligations, talk to the relevant people in your organisation
+
+Typically, public bodies publish:
+
+  equality objectives
+  reports showing how the organisation is meeting its equality responsibilities
+
+Do not use for:
+
+  guidance or general information about equality and diversity
+
+If you create an ‘equality and diversity’ page, a link to it will appear automatically under the ‘corporate information’ heading on your organisation and your ‘about us’ pages.
+Creating a new equality and diversity page
+Find out how to create and update corporate information in Whitehall publisher.
+Example
+View a good example of an equality and diversity page.
+Writing and formatting requirements for equality and diversity pages
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+Equality and diversity pages also use specific headings and a set structure.
+Summary
+Use this text:
+As a public body, we publish regular information about what our equality objectives are and how we’re meeting them.
+Body copy
+Avoid jargon, vague aspirational statements (such as ‘we’re committed to’, ‘we’re proud of’), and general statements about how important it is to be inclusive.
+Do not provide information directed at staff (such as how to join support networks). Put that on your intranet.
+Equality objectives
+Say what you publish and how often you publish it.
+Good example:
+We publish:
+
+  equality objectives (every 4 years)
+  reports showing how we’re meeting our equality responsibilities (once a year)
+
+Then attach or link to the relevant publications.
+Publications that are produced specifically to meet equality objectives (usually the objectives publication and annual reports) should be attached to the page. Only attach the latest versions: older versions should be archived.
+If there are other publications you want to mention as part of how the organisation meets its equality objectives (such as a staff survey), add a link to it.
+Organisations we work with (optional)
+If other organisations are helping you to meet your equality objectives (for example, Business in the Community, Stonewall, Business Disability Forum), list them here.
+Equality contact (optional)
+If the organisation has a specific contact for questions or comments about its equality work, you can give their contact details here.
+Only include them if they are different from the organisation’s general contact details.
+
+
+
+      
+        
+          
+            Corporate information: our governance and memberships
+          
+        
+        
+
+    If your organisation is a department or agency, you can create a governance page to show who is ultimately responsible for making sure the organisation:
+
+  does what it’s supposed to do
+  meets its legal obligations
+  identifies and manages risks
+
+You should create a membership page instead if your organisation has a board of experts, committee or council.
+Stick to the most senior governance boards and committees. A typical page will cover:
+
+  the organisation’s most senior decision-making body (often known as the governing board)
+  the executive board and/or management board, if there is one (usually the governing board plus a few other senior officials, minus any non-executive directors)
+  the main body responsible for risk management and corporate governance within the organisation (often known as the audit and risk committee)
+  top-level governance groups of very senior officials put together to oversee the organisation’s top few projects (there should only be a handful of these, if any - the idea is to represent only very significant projects like major reorganisations of widely accessed public services)
+
+Do not use it for:
+
+  explaining decisions or processes
+  outlining strategies
+  describing how audits or risks are assessed
+
+If you create a governance or membership page, a link to it will appear automatically under the ‘corporate information’ heading on your organisation and your ‘about us’ pages.
+Creating a new governance or membership page
+Find out how to create and update a governance or membership page in Whitehall publisher.
+Examples
+View a good example of a governance page.
+View a good example of a membership page.
+Writing and formatting requirements for governance and membership pages
+All content should follow the GDS style guide and writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+There are also some additional considerations you need to think about when writing a governance or membership page.
+Body copy
+Use the first paragraph to expand on the summary and explain what your governance boards and committees do.
+Then, for each of the governance boards or committees you’re covering:
+
+  create a separate subheading
+  explain what it does (use bullet points if possible)
+  attach any terms of reference documents (use a callout attachment)
+  attach minutes from recent meetings (attach the most recent as a callout attachment and the others as inline style attachments)
+  link to the National Archives for minutes more than a year old (use this text for the link: ‘See the National Archives website for minutes from June 2013 and earlier’)
+  list the board or committee members (just names and job titles - use bullet points)
+
+
+
+
+      
+        
+          
+            Corporate information: energy use
+          
+        
+        
+
+    Only create an ‘Our energy use’ page if the organisation collects and publishes regular data about its energy use. If you create an energy use page, a link to it will automatically under the ‘corporate information’ heading on your organisation and your ‘about us’ pages.
+If it does, use it for:
+
+  information about the organisation’s energy use - nothing else
+
+Do not use for:
+
+  guidance on how to reduce energy consumption or general information about carbon emissions
+
+Creating a new energy use page
+Find out how to create and update corporate information in Whitehall publisher.
+Example
+View a good example of an energy use page.
+Writing and formatting requirements for energy use pages
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+Energy use pages also use specific headings and a set structure.
+Summary
+Adapt this text:
+Details of [organisation name]’s energy use at our headquarters building (or say which building(s) you’re providing information about).
+Energy use data
+Link to data on the organisation’s energy use. This might be:
+
+  live data hosted on an external website
+  data files hosted on www.data.gov.uk
+
+  data files attached to the page
+
+Do:
+
+  say which building(s) you’re providing data for
+
+Do not:
+
+  provide information on the size and space of rooms
+
+Display energy certificates (optional)
+If the organisation has a Display Energy Certificate, you can attach it directly to the page.
+What we’re doing to reduce our energy use (optional)
+Do:
+
+  use bullet points
+  give brief details of specific measures, not general aspirations
+  attach any documents setting out the organisation’s energy-saving commitments in detail (for example a ‘Greening government’ publication)
+
+
+
+
+      
+        
+          
+            Corporate information: media enquiries
+          
+        
+        
+
+    Use for:
+
+  telling journalists who they should contact with specific types of enquiry - only include people who act as the initial point of contact for journalists
+
+Do not create a media enquiries page if:
+
+  you only have one or 2 contact numbers for media enquiries - just add the contact details to the organisation page
+
+If you create a media enquiries page, a link to it will appear automatically under the ‘corporate information’ heading on your organisation and your ‘about us’ pages.
+Creating a media enquiries section
+Find out how to create and update media enquiries in Whitehall publisher.
+Example
+View a good example of a media enquiries page.
+Writing and formatting requirements for media enquiries
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+Media enquiries also use specific headings and a set structure.
+Summary
+Make it clear that the contact details on this page are for journalists only.
+Adapt this text: Contact our press team if you’re a journalist with a media enquiry or interview request.
+Body copy
+Group media contacts according to area of responsibility (using this format means that media contacts can be entered into Whitehall publisher correctly and reused across the site).
+For example, if the Ministry of Justice (MOJ) had 4 press officers working across 2 different areas, their ‘Media enquiries’ page would be organised like this:
+
+Criminal justice desk
+
+Contact the criminal justice desk with questions about government policy on criminal justice cases.
+
+Media officer name, job title
+
+Telephone:
+
+Media officer name, job title
+
+Telephone:
+
+Prisons desk
+
+Contact the prisons desk with questions about government policy on life in prison.
+
+Media officer name, job title
+
+Telephone:
+
+Media officer name, job title
+
+Telephone:
+
+Out of hours
+
+Contact the duty officer on [phone number].
+
+
+
+
+      
+        
+          
+            Corporate information: personal information charter
+          
+        
+        
+
+    Use to:
+
+  set out the organisation’s personal information charter (the principles it uses when collecting, holding and processing service users’ personal information, and how service users can help keep their details up to date)
+  explain the organisation’s data protection policy and tell people where to send subject access requests.
+
+Contact your organisation’s data protection officer if you’re not sure which parts of the page you should include.
+If you create a ‘personal information charter’ page, a link to it will appear automatically beneath the ‘jobs and contracts’ heading on your organisation and your ‘about us’ pages.
+Creating a new personal information charter
+Find out how to create and update a personal information charter in Whitehall publisher.
+Example
+View a good example of a personal information charter.
+Writing and formatting requirements for personal information charters
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+Personal information charters also use specific headings and a set structure.
+Summary
+Adapt this text:
+This charter sets out what you can expect from us when we ask for, or hold, your personal information. It also covers what we ask from you to help us keep your information up to date.
+Your privacy
+Explain:
+
+  the principles the organisation follows when handling service users’ personal data
+  what you ask service users to do to help you keep their personal information accurate and up to date
+
+Use bullet points where possible.
+Data protection policy (optional)
+Explain:
+
+  how the organisation meets its obligations under the Data Protection Act 1998
+
+Be concise and use bullet points where possible. If it’s a long policy, attach it instead.
+Data protection: find out what personal information we hold about you (optional)
+Use the phrase ‘subject access’ for search purposes and explain:
+
+  how to make a subject access request under the Data Protection Act 1998
+  any fees that may be charged
+  the time limit for responding to subject access requests, and what the organisation will do if it looks like it will take longer
+
+You should also:
+
+  attach the organisation’s subject access request form or standard letter (if it has one)
+  link to the organisation’s entry in the register of data controllers for people who want to find out more about how the organisation handles personal data
+
+
+
+
+      
+        
+          
+            Corporate information: procurement at [organisation name]
+          
+        
+        
+
+    Use for:
+
+  letting businesses know, as clearly and concisely as possible, how to start selling goods and services to your organisation
+  linking to concrete opportunities
+
+Do not create a procurement page for:
+
+  guidance on invoicing (suppliers can get these details from your purchasing orders)
+  anything about spending data (that’s covered elsewhere on GOV.UK)
+  providing lots of information about processes
+  general information about government procurement policy – for example, the obligation to publish details of central government contracts (that’s covered elsewhere on GOV.UK)
+
+Explain the process in neutral terms: do not attempt to ‘sell’ the organisation as a business partner.
+Include just enough to let potential suppliers take the initial step (do not provide any more detail than this – suppliers will be given more detailed information as they move through the procurement process).
+If you create a procurement page, a link to it will appear automatically under the ‘jobs and contracts’ heading on your organisation and your ‘about us’ pages.
+Creating a new procurement page
+Find out how to create and update a procurement page in Whitehall publisher.
+Example
+View a good example of a procurement page.
+Writing and formatting requirements for procurement pages
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+Procurement pages also use specific headings and a set structure.
+Summary
+Use this text for the summary:
+Supplying goods and services to [organisation name].
+Doing business with [organisation name] (mandatory)
+Tell people what to do if they want to become a supplier. Depending on the organisation, this might mean:
+
+  linking to the place where your contracts are advertised (for example, Contracts Finder)
+  explaining how to sign up to the organisation’s tendering system
+  providing an email address for procurement enquiries
+
+Standard supplier terms and conditions (optional)
+If the organisation uses standard supplier terms and conditions, you can attach this directly to the page and use Markdown to insert a link to it.
+[Organisation name] procurement policy (optional)
+If your organisation has an official procurement policy, attach it directly to the page and use Markdown to insert a link to it.
+Procurement complaints (optional)
+Tell people what to do if they have a complaint about how the organisation has dealt with them as a supplier. Only include this if it’s different from the organisation’s general complaints procedure.
+Final paragraph (optional)
+If the organisation publishes information on how it’s improving procurement practices (for example, sustainable procurement commitments or a small and medium-sized enterprise (SME) action plan you can link to it here.
+Link to this information rather than including it on the page: that way the procurement page stays focused on practical guidance for potential suppliers.
+
+
+
+      
+        
+          
+            Corporate information: publication scheme
+          
+        
+        
+
+    Use for:
+
+  listing the classes of information that the organisation makes available, as required by the Information Commissioner’s Office (ICO)
+
+If you create a ‘publication scheme’ page, a link to it will appear automatically beneath the ‘jobs and contracts’ heading on your organisation and your ‘about us’ pages.
+Creating a new publication scheme
+Find out how to create and update a publication scheme in Whitehall publisher.
+Example
+View a good example of a publication scheme.
+Writing and formatting requirements for a publication scheme
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+Publication scheme template
+Publication schemes follow a template set by the ICO.
+Throughout, replace the highlighted text with your department or organisation’s name or acronym, the relevant series link or filtered search link, or the appropriate external URL.
+You can make minor amendments to the text and add or delete links and categories where these apply to your organisation.
+This publication scheme specifies the categories of information that the department and its agencies regularly publish and explains how to get that information.
+You can find specific documents for this department using the publication search.
+If the information you want is not routinely published, you can make a request for it under the Freedom of Information Act.
+You can also search through previous responses to Freedom of Information requests (or amend this filtered search so it returns results for your organisation alone).
+Who we are and what we do
+This information covers our organisational details, structures, locations and contacts.
+This includes:
+
+  our organisational structure, roles and responsibilities
+
+  a department organisational chart
+
+  details of our ministers’ meetings with external organisations (create your own document series to collate these and link to it)
+  details of senior staff’s meetings with external organisations (create your own document series to collate these and link to it)
+  details of special advisers’ meetings with external organisations (create your own document series to collate these and link to it)
+  information about the organisations the department is responsible for, works in partnership with, or sponsors
+
+  legislation relevant to the DfE’s functions
+  
+our answers to Parliamentary Questions on the Parliament website
+  our location and contact details
+
+What we spend and how we spend it
+This is where we publish financial information about projected and actual income, expenditure, procurement, contracts and financial audits. This includes:
+
+  departmental financial statements, budgets and variance reports, published by HM Treasury
+  department spending for transactions over £25,000 (create your own document series to collate these and link to it)
+  any contracts and tenders worth over £10,000 (create your own document series to collate these and link to it)
+  any government procurement card spend over £500 (create your own document series to collate these and link to it)
+  our capital programme (create your own document series to collate these and link to it)
+  our spending reviews (create your own document series or filtered search to link to it)
+  the financial audit reports published by the National Audit Office
+
+  our ministers’ allowances and expenses (create your own document series to collate these and link to it)
+  our senior staff and board members’ allowances and expenses (create your own document series to collate these and link to it)
+  our senior staff pay and grading structures (link directly to these on GOV.UK, or to relevant data.gov information)
+  our junior staff pay and grading structures (link directly to these on GOV.UK, or to relevant data.gov information)
+  our senior advisers’ salaries and salary ranges (link directly to these on GOV.UK, or to relevant data.gov information)
+  our procurement procedures
+
+  our financial statements for projects and events (remove this if not applicable, or create a series to collate these and link to them)
+  internal financial regulations
+
+What our priorities are and how we’re doing
+This category covers departmental strategies and plans, performance indicators, audits, inspections and reviews, including:
+
+  our open data strategy
+
+  our strategic plans (link directly to the latest of these, or to a series collating them)
+  our current business plan
+
+  our annual report (link to your latest annual report, or your series collating your annual reports)
+  internal and external performance reviews (create one or more document series collating your performance reviews)
+  departmental performance reports to Parliament (create a document series to collate these and then link to it)
+  our inspection reports (create a series to collate these and then link to it)
+  the impact assessments we have made
+  the privacy impact assessments (create and link to a document series or a filtered search) we have made
+  our service standards (link to your service standards publication or series collating them)
+  
+statistics produced by the department
+
+How we make decisions
+This is where we publish details of our decision-making processes and records of our decisions. These include:
+
+  the department’s major policy proposals and decisions
+
+  our public consultations
+
+  the minutes of senior-level meetings
+
+Our policies and procedures
+This category covers our protocols, policies and procedures for providing services, and responsibilities, including:
+
+  how we conduct departmental business
+  delivering our services (possibly a single document, or create a document series to link to; this could be combined with ‘customer service standards’, below)
+  recruiting and employing staff
+  customer service standards (possibly a single publication; or create a series of these to link to)
+  records management and personal data policies
+  charging regimes and policies (include a link to this if details are not already covered within the detail on the publication scheme page itself)
+
+Lists and registers
+Publish details of the department’s public registers, asset registers and disclosure logs, including:
+
+  our public registers and registers held as public records
+
+  the department’s asset registers and information asset register
+
+  CCTV
+  the department’s disclosure logs listing all FOI requests received
+  the register of gifts (these could be multiple links to multiple series covering ministers, senior civil servants and special advisers separately)
+  a list of ministers’ interests in the department’s register of interests
+
+
+Responsibilities
+Lead with ‘We are responsible for’ and bullet a list of your responsibilities. Keep them active, clear and not too detailed – you can do that in your policies.
+Use a maximum of 7 bullets.
+Services we offer (optional)
+Information about the services the department provides including leaflets,
+guidance and newsletters:
+
+  regulatory responsibilities (probably single document with acronym)
+  services for public authorities (create document series with acronym)
+  services for industry (create document series with acronym)
+  services for other organisations (create document series with acronym)
+  services for the public (create document series with acronym)
+  fee-based services (create document series with acronym)
+  circulars (create document series with acronym, or named series which would not need an acronym)
+  leaflets, booklets and newsletters (wait, as new content types may be introduced for these)
+
+
+
+
+      
+        
+          
+            Corporate information: research at [organisation name]
+          
+        
+        
+
+    Use for:
+
+  providing information about what research you plan to publish and when (if the organisation publishes a lot of research)
+
+Do not create a research page:
+
+  if the organisation does not have a significant research programme
+  to provide style guides or information for authors producing research reports on behalf of your organisation (send them this information directly when you commission the report)
+  to gather customer feedback (do that at the end of the service)
+
+If you create a research page, a link to it will appear automatically under the ‘corporate information’ heading on your organisation and your ‘about us’ pages.
+Creating a new research page
+Find out how to create and update a research page in Whitehall publisher.
+Example
+View a good example of a research page.
+Writing and formatting requirements for research pages
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+Research pages also use specific headings and a set structure.
+Summary
+Adapt this text:
+Our research programme aims to help us develop policy that’s informed by evidence, and to help us understand the needs of service users.
+Research publications
+Link to where the organisation’s research publications are published on GOV.UK. Usually this means a linking to a search results page, filtered by department and ‘Research and analysis’ publication type.
+For example the Department for Work & Pensions (DWP) might link to their ‘Research and analysis’ publications using this url: https://www.gov.uk/government/publications?keywords=&publication_filter_option=research-and-analysis&topics%5B%5D=all&departments%5B%5D=department-for-work-pensions
+When you copy the url for your organisation from GOV.UK, do not forget to remove the end of the url (from ‘&publication’ onwards). Otherwise it will only show publications within a certain date range.
+You can also add a link to the organisation’s older research publications on the National Archives site.
+Forthcoming research publications
+List the major items of research you’re planning to publish for up to the next 12 months.
+Use a list format rather than a table. Order it so that the closest to publication is at the top - for example:
+
+  Mandatory work activity: evaluation (1 December 2020)
+  Measuring attitudes to age in Britain (10 April 2021)
+  Work Programme first phase: evaluation of qualitative research (25 June 2021)
+
+Once something has been published, remove it from the list.
+Our research programme (optional)
+Briefly explain what the organisation is trying to achieve through its research work in no more than a few sentences. You might want to cover:
+
+  the scope of the organisation’s research work
+  criteria for commissioning research
+  quality assurance or review procedures
+  standards and ethics
+
+If the organisation has a formal research commissioning policy or similar publication, you can attach it to the page here.
+Research contracts (optional)
+You can use this section to let people know how to become a supplier of research services to your organisation.
+Do not list individual opportunities: just let people know where contracts are listed (Contracts Finder for a lot of government organisations).
+Do not duplicate substantial amounts of content from your ‘Procurement at [organisation]’ page.
+
+
+
+      
+        
+          
+            Corporate information: statistics at [department]
+          
+        
+        
+
+    Use ‘Statistics at [department]’ if you want to list your statistics collections.
+You can also link to the list of statistics tagged to your department.
+If you create a statistics page, a link to it will appear automatically under the ‘corporate information’ heading on your organisation and your ‘about us’ pages.
+Example
+View a good example of a statistics page.
+
+
+
+      
+        
+          
+            Corporate information: terms of reference
+          
+        
+        
+
+    The terms of reference of an organisation or group describe its aims, structure and how it will work. They outline the objectives of the group, and the roles and responsibilities of those involved.
+Have a look at the Committee on Radioactive Waste Management as an example.
+If you create a terms of reference page, a link to it will appear automatically under the ‘corporate information’ heading on your organisation and your ‘about us’ pages.
+
+
+
+      
+        
+          
+            Corporate information: working for [department]
+          
+        
+        
+
+    Use for describing:
+
+  what sort of roles you might recruit for
+  benefits to working for your department – travel, holiday, pension
+  training and development opportunities
+  benefits of working for the civil service – sports etc
+  a link to civil service recruitment or other relevant recruitment websites
+
+If you create a ‘working for’ page, a link to it will appear automatically under the ‘jobs and contracts’ heading on your organisation and your ‘about us’ pages.
+Creating a new working for page
+Find out how to create and update a working for page
+Example
+View a good example of a working for page.
+Writing and formatting requirements working for pages
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+
+
+
+      
+        
+          
+            Corporate information: Welsh language scheme
+          
+        
+        
+
+    Use for:
+
+  explaining the organisation’s Welsh language scheme, if it has one
+
+If you create a Welsh language scheme page, a link about publishing in Welsh will appear automatically beneath the ‘jobs and contracts’ heading on your organisation and your ‘about us’ pages.
+Creating a new Welsh language scheme page
+Find out how to create and update a Welsh language scheme page in Whitehall publisher.
+Example
+View a good example of a Welsh language scheme page.
+Writing and formatting requirements for Welsh language scheme pages
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+Welsh language scheme pages also use specific headings and a set structure.
+Summary
+Use this text:
+We treat the English and Welsh languages equally when conducting public business in Wales.
+Body text
+Adapt this text:
+Our Welsh Language Scheme explains what [organisation name] does to make sure the English and Welsh languages are treated equally when we provide public services in Wales.
+Add the actual scheme as an attachment to the page (English version then Welsh version).
+Do not include any other information.
+
+
+
+      
+        
+          
+            Detailed guide
+          
+        
+        
+
+    Detailed guides tell users the steps they need to take to complete a clearly defined task. They are usually aimed at specialist or professional audiences.
+Use this format for content that is regularly updated, for example if the process to complete a task changes.
+A detailed guide should:
+
+  answer a specific, task-oriented user need
+  be factual guidance the government has a duty to provide, not advice
+
+Audience
+This content is aimed at practitioners, for example teachers or accountants.
+Content containing background information about why a user needs to complete a task or the history behind it should be in a policy paper.
+Consider if the content should be in mainstream guidance instead.
+Creating a new detailed guide
+Find out how to create and update detailed guides in Whitehall publisher.
+Example
+View a good example of a detailed guide.
+Writing and formatting requirements for detailed guides
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+When you are writing a detailed guide, there are also a few more things you need to think about.
+Title
+Do:
+
+  make titles active (for example, ‘Submit Statutory Declarations’ not ‘Using and submitting Statutory Declarations’
+  use a colon as a separator, if you need one (for example, ‘Controlled goods: licences, sanctions and embargoes’)
+
+If the guide does not involve a direct action and is information-led:
+
+  front-load the title with the most popular search terms
+  make sure the title provides a full context (use ‘guidance for potato growers’, not ‘potatoes’)
+
+If there are a number of guides with a repeated phrase in the title (for example, Manufactured goods: automotive, Manufactured goods: electronic), change it so the most important information or phrase comes first, like ‘Automotive sector: import and export regulations’ or ‘Chemical sector: import and export regulations’.
+Summary
+Use the summary to explain the point of the guide, what it will help users do or understand, and who it’s for. Remember:
+
+  you can use ‘An introduction to…’ if it’s an introduction (for example, the guide is short and links to other sources for the main information)
+  using ‘How to xxx’ and ‘Find out xxx’ etc is good
+
+Example:
+Title: Organic produce: how to become an importer
+Summary: Find out which organic products can be imported into the UK, how to register as an importer and how to get import authorisation.
+Structure
+Do:
+
+  make section titles active (so, ‘Apply for a licence’ not ‘Applying for a licence’)
+
+Do not use:
+
+  technical terms in section titles unless unavoidable - and then only if you’ve already explained them
+  ‘introduction’ as your first section – users do not want an introduction, they want the most important information
+  questions in section titles
+  FAQs - you will not need them if your content is concise, well structured and written in plain English
+  ‘we’ - users can arrive at your page from anywhere, so ‘we’ may not be clear to them
+
+
+
+
+      
+        
+          
+            Document collection
+          
+        
+        
+
+    Use a document collection for grouping related documents on a single page:
+
+  for a specific audience
+  around a specific theme
+
+A collection could be used to publish:
+
+  a set of forms
+  publications in the same series
+  a mix of document types related to the same task or event
+
+You can add a document to more than one collection.
+Do not create a collection:
+
+  for documents that users do not need, or would not expect, to find together
+  in place of a records management system
+  for a single document
+  for editions of the same publication (these should be multiple attachments on a single publication page)
+
+Creating a new document collection
+Find out how to create and update document collections in Whitehall publisher.
+Structuring a document collection
+To help users find specific content on your collection page, you can:
+
+  change the default headings to something more descriptive of the content you’re linking to, for example ‘Annual reports 2019 to 2020’
+  add a one-line introduction under a heading, for example ‘These reports give an account of activity and services for each year, including financial statements.’
+
+Example
+View a good example of a document collection.
+
+
+
+      
+        
+          
+            Events
+          
+        
+        
+
+    Use for:
+
+  future events that your organisation is holding
+  past events, when you need to update the event to include things like a presentation
+
+Do not use for:
+
+  events that staff from your organisation have attended or are going to attend
+
+Creating a new event
+Create each event using the news story content type. If your organisation has more than one event, add them to a document collection. The document collection can show all future and past events. Past events can also be taken down unless you want to keep them to add presentations and videos.
+As these are events, the style does not have to follow the standard guidance for news stories and document collections. For example, you can use the ‘Detail’ section on the document collection page for an overview of the events programme and details of how to book.
+Find out how to create and update an event page (news story content type) in Whitehall publisher.
+Find out how to create and update document collections in Whitehall publisher.
+
+
+
+      
+        
+          
+            Group
+          
+        
+        
+
+    The group format is used for policy advisory groups and other types of groups in government. You need to Contact GDS to get approval to set up a group page.
+Use group pages for:
+
+  explaining very briefly what the group does or is responsible for
+
+Do not use them to:
+
+  highlight a particular government scheme or project - if this is the purpose of the group, promote the relevant content pages rather than the group page
+  create an organisation homepage where everything about the group and the subject area it’s responsible for is collected in one place
+  explain the internal structure of government
+
+Creating a new group page
+Find out how to create and update a group in Whitehall publisher.
+Example
+View a good example of a group page.
+Writing and formatting requirements for groups pages
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+There are also some additional considerations you need to think about when writing a group page.
+Title
+Use the name of the group but do not include the acronym.
+Summary
+Do:
+
+  use a single sentence to describe what the group does
+  include who the group reports to, if it’s a policy advisory group (if there’s not enough space, add it to the ‘role’ section)
+
+Do not:
+
+  use technical terms or the group acronym unless there is solid analytics evidence that users search for these terms
+
+Body copy
+Do not use more than 6 H2 subheadings to the detail section unless you are writing about a policy advisory group
+You can create an inline link to the most important publication, detailed guide or document collection related to the group’s work - but only if the user has a call to action to follow. Do not attach the publication directly to the page (as you would for minutes) but link to the publication page.
+Role
+Do:
+
+  add as an H2 subheading if more detail is needed on the role of the group
+  use this section to explain why the public may need to contact the group (non-policy advisory groups only)
+  use this section to say who the group reports to if this has not been included in the summary (policy advisory groups only)
+
+Do not:
+
+  write more than 2 sentences
+  write more than 30 words in total
+
+Contact
+Add an email address to this field so that users can contact the group. The email address will appear below all the other sections.
+Other contact details
+If there are other contact details, add a single H2 subheading (for example, ‘Address and phone number’ or ‘Secretariat address’) at the end of the group page.
+Terms of reference (policy advisory groups only)
+Attach the group’s terms of reference to the page - use a callout attachment.
+Membership (policy advisory groups only)
+Do:
+
+  begin with ‘Current members are:’
+  list the chair of the group first, with ‘(Chair)’ in brackets after their name
+  follow this with a bullet point list of members
+  only include a member’s name, job title and the organisation they represent (if it’s not obvious)
+
+Do not:
+
+  include titles or honorifics
+
+Minutes (policy advisory groups only)
+Minutes should only be added by policy advisory groups. Other groups should only provide minutes if a genuine user need for them can be demonstrated.
+Do:
+
+  attach minutes directly to the page - do not publish them as publications and then link to them
+  attach the most recent minutes as a ‘callout’ style attachment
+
+  attach other minutes using inline style attachments
+
+  use this format for the link text: ‘19 January, 2020: minutes’
+  link to the National Archives for older minutes (use this format for the link text: ‘See the National Archives website for minutes from June 2013 and earlier’)
+
+Do not:
+
+  attach more than the previous 6 months of minutes
+
+Code of conduct (policy advisory groups only)
+If a policy advisory group has a formal code of conduct, you can attach it to the page here. This is optional and does not have to be included on the page.
+
+
+
+      
+        
+          
+            Manual
+          
+        
+        
+
+    Manuals are a browsable format that are generally created for specialist users who are familiar with a topic.
+They also have features which make them suited to long or complex legal documents with named or numbered chapters or clauses. They can be used instead of a lengthy PDF.
+Manuals have:
+
+  at least 2 layers of navigation
+  chapters with plain English summaries that appear in search results
+  the option to create and link to legislative lists (named clauses and sub-clauses)
+  a contents page listing the sections (or chapters) of the manual
+  section pages listing all sub-sections - these can be ‘opened’ individually or all at once
+  change notes for recording updates
+  the ability to add footnotes
+
+Use for:
+
+  content that requires at least 2 levels of hierarchy (ie it is broken down into sections and sub-sections)
+  complex content which includes named chapters, clauses or sub-sections that are referenced regularly by the intended audience (for example legislative documents, regulations)
+  content that is too long to be easily readable in an HTML publication or detailed guide
+
+  content users think of as a single body or document
+  legal or guidance documents which need to be browsable
+  content that has a valid user need
+
+Do not use for:
+
+  PDFs or documents that are published elsewhere on GOV.UK
+  internal guidance, unless there’s a legal requirement to do so (for example HMRC manuals)
+
+Creating a new manual
+You must contact GDS for permission to create a manual.
+Find out how to request a new manual.
+If a manual is agreed, you’ll be given access to Manuals Publisher (which is similar to Whitehall publisher). Any training requirements you have will also be determined.
+Example
+View a good example of a manual.
+Writing and formatting requirements for manuals
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+
+
+
+      
+        
+          
+            News article: government response
+          
+        
+        
+
+    Use for:
+
+  government statements produced in response to media coverage by the organisation’s press team (for example rebuttals, ‘myth busters’ etc)
+
+Do not use for:
+
+  statements issued to Parliament - use the speech format
+  speeches - use the speech format
+  press articles or letters to newspapers written by ministers - use the speech format
+
+Creating a new government response
+Find out how to create and update news articles in Whitehall publisher.
+Example
+View a good example of a government response.
+Writing and formatting requirements for government responses
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+There are also some additional considerations you need to think about when writing a government response.
+Title
+Do:
+
+  use the title to summarise the government’s position
+
+Do not:
+
+  start titles with ‘Statement on …’ or ‘Government response to …’ - it takes up space without saying anything useful and makes it difficult to tell statements apart
+  include the name of the person making the statement in the title - it will appear on the page automatically
+
+A good example:
+Syria: international community must act as deaths reach 100,000.
+Summary
+Do:
+
+  expand on what you’ve said in the title
+  indicate what you’re responding to
+
+Do not:
+
+  repeat the title
+
+Good example:
+News reports on the scale of the tragedy show the need for all sides to respect humanitarian efforts and work towards a political solution.
+Body copy
+Make it short and to the point. Government responses tend to be shorter than press releases. They’re usually just a quote from the organisation spokesperson, so there’s usually no need for subheadings.
+
+
+
+      
+        
+          
+            News article: news story
+          
+        
+        
+
+    Make sure your news story:
+
+  gives users information they can act on (for example a government grant scheme opening for applications)
+  gives information users would expect to get directly from the organisation rather than through the media (for example information about how changes to public services affect them as public sector employees)
+  includes information users need and cannot get from other sources
+  is genuine news content
+  adds something to existing content
+  is self-contained - it should be possible to delete it from the site without affecting anything else
+
+Do not publish a news story if:
+
+  it’s mostly about putting the organisation’s views on record (it should probably be a press release or a ‘Government response’)
+  it’s duplicating a press release
+  it’s duplicating another organisation’s news story
+  it’s actually a general purpose content page
+  you’re just promoting the publication of other content (for example, statistics)
+
+Creating a news story
+Find out how to create and update a news story in Whitehall publisher.
+Example
+View a good example of a news story.
+Writing and formatting requirements for news stories
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+There are also some additional considerations you need to think about when writing a news story.
+Deciding what to publish
+Most users will not look at news content - some news content gets as little as 2% of site traffic, and only a few get more than a third.
+Be selective when deciding what to publish. Think about what users need to know rather than what the organisation would like them to see. You should:
+Avoid duplicating other organisations’ news stories
+Any duplication is very obvious on GOV.UK, so stick to your remit.
+If there’s more than one organisation with an interest in a topical issue, think about producing a joint story – it’s likely to have more impact.
+But if 2 organisations are covering completely different angles and/or addressing different audiences, it’s okay to issue separate stories.
+Make sure it’s information that users can act on (or cannot get from other sources)
+For the most part, government is a source, not a provider, of news. That’s what media organisations do.
+Content that’s about providing comment or explaining the government’s position on a matter of policy is more suitable for a press release. Content explains the government’s position in response to a news item should be published as a ‘Government response’.
+News stories represent the organisation’s views at a particular moment in time: do not make changes after they’re published, unless it’s to correct an error.
+Do not publish guidance in news stories or press releases
+If you publish guidance in a news story or press release, it might confuse the user because it could:
+
+  conflict with guidance that’s already on GOV.UK
+  go out of date - this may cause users to act on something wrongly
+
+You should use news stories to announce changes and link to the relevant guidance if you’re referring to something a user can act on.
+Make sure it adds something to existing content
+Do not publish news items just to provide a link through to other GOV.UK content – it confuses user journeys and complicates search results, without adding any benefit for users.
+Article length
+There’s no lower limit, although the value of a story under 150 words should be questioned.
+News articles should be no longer than 750 words – with case-by-case exceptions (for example, some Budget pages).
+Titles
+What’s the story? Tell the story in a few words:
+
+  headlines: aim for 65 characters max
+  use a colon not a dash to separate: Google does not recognise dashes
+
+‘Minister visits factory’ is not a story. ‘Greg Clark tells factory workers about workplace law reforms’ gives the reader a sense of what the story is about.
+Avoid ‘teasing headlines’, puns or wordplay – these make your story hard for people to find. Use the words most people use for the situation. This helps your search ranking.
+Avoid print conventions/‘journalese’, such as ‘Minister in youth homelessness bid’ (‘bid’ is used in print where headline space is in short supply).
+Think about what happens in Little Red Riding Hood, then think what the headline should be:
+Good example: ‘Granny in near-death wolf escape’
+Bad example: ‘Girl goes into forest, encounters problems’
+Summary
+Get across the main point of the story, expanding on what you’ve said in the title. Use up to 160 characters including spaces: this is all people searching Google see in the page summary. The summary is also the first sentence of the story, so it should make sense when read continuously with the rest of the page. End with a full stop.
+Body copy
+Do not repeat the summary. Aim to tell the story in 1 or 2 sentences, for example who, what, where, when, why. Do not include more than 3 consecutive sentences of quotes.
+Break up long news stories with subheadings. But remember that subheadings add to the text, they’re not part of it: the text should still make sense with the subheadings removed.
+How to write effective body copy:
+
+  the first paragraph should lead on from the summary paragraph, not repeat the information
+  use the ‘inverted pyramid’ approach with the most important information at the top tapering down to lesser detail
+  paragraphs should have no more than 5 sentences each
+  ensure copy includes keywords to boost natural search rankings
+  use video and images
+
+
+
+
+      
+        
+          
+            News article: press release
+          
+        
+        
+
+    Use for:
+
+  unedited press releases as sent to the media
+  official statements by an organisation spokesperson or minister (unless it’s a Parliamentary statement – in which case use the speech: statement to Parliament format)
+
+Do not create a press release:
+
+  for statements to Parliament (use the speech format for those)
+  to promote the publication of other content (for example statistics)
+
+Creating a new press release
+Find out how to create and update a press release in Whitehall publisher.
+Example
+View a good example of a press release.
+Writing and formatting requirements for press releases
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+There are some additional considerations you need to think about when writing a press release.
+Title
+Summarise the main point of the story.
+Avoid starting titles with ‘Statement on …’ or something similar: it just takes up space without communicating anything useful to the user, and makes it more difficult to tell one press release from another.
+Do not put ‘press release’ or the name of the person making the statement in the title: this information will appear on the page automatically.
+A good example:
+Mums and dads to share parental leave
+Summary
+Summarise the main point of the story (in slightly longer form than in the title).
+The summary also acts as the first sentence of the story, so it should make sense when read continuously with the rest of the page.
+Good example:
+New arrangements for maternity leave and paternity leave mean that parents will be able to choose how they share care responsibilities.
+Body copy
+Do not repeat the summary
+Break up long press releases with subheadings. But remember that subheadings are an addition to the text, not part of it. The text should still make sense with the subheadings removed.
+If you need to add notes at the end, use the subheading ‘Background’, not ‘Notes to editors’ or similar.
+
+
+
+      
+        
+          
+            Organisation page
+          
+        
+        
+
+    Use to:
+
+  give an overview of your organisation’s work, responsibilities and priorities
+
+Creating a new organisation page
+Find out how to create and update an organisation page in Whitehall publisher.
+Writing and formatting requirements for organisation pages
+All content should follow the GDS style guide and Writing for GOV.UK guidelines.
+Organisation pages also use specific headings and a set structure.
+About us
+Lead with ‘We’ - it will be very obvious who the ‘we’ is on this page.
+Aim for no more than 30 words and give a broad overview of your department’s work. You may want to highlight areas that users might not assume are within your remit.
+The ‘what we do’ section of your organisation page is automatically pulled from the content in the ‘summary’ field of your About us page. Writing ‘what we do’ information again will give you 2 ‘what we do’ sections.
+Responsibilities
+Lead with ‘We are responsible for’ and then a short, bulleted list of your responsibilities. Keep them active, clear and not too detailed - you can cover more detail in the content on your policies.
+Use a maximum of 7 bullets.
+Priorities
+Lead with: ‘From 2021 to 2022, our priorities will be…’ Make sure you keep this information, and the years referred to, up to date.
+It’s best if you take your main priorities from your business plan - these are normally specific, clear and succinct.
+Use a maximum of 7 bullets.
+Who we are
+Include a few lines about the number of staff you employ and where they’re based.
+Corporate information
+The corporate information section of your About us page will automatically display all your published corporate information pages. This will include for example your:
+
+  governance page
+  complaints procedure
+  accessible documents policy
+  energy use
+
+Make sure it also includes your organisation chart (see for example the Cabinet Office’s chart on data.gov.uk). You can do this by adding a link to the relevant data.gov.uk page in the ‘Organisation chart url’ field on your ‘edit organisation’ page.
+‘Top tasks’ links
+These are the links at the top right of your organisation page. They’re to help users who’ve arrived at your page looking for a service that’s closely associated with your organisation, but is actually covered on the services and information part of GOV.UK.
+These links are optional: only keep them if there’s evidence that users are clicking on them. As a guide, each top task link should be followed by no fewer than 2% of total visitors to your homepage (measured in total unique pageviews).
+Links should point either to GOV.UK services and information (‘mainstream’) content, or information or tools on domains outside GOV.UK. The text of the link must be as specific and active as possible, and not overlap with titles used for ‘corporate’ content types.
+Do not include anything that’s already covered by a link on the organisation page (such as contact details, lists of announcements or publications, blogs or social media channels).
+Do not include microsites or campaign sites unless there’s evidence of significant user demand.
+Feature slots
+Do not feel that you have to use all the feature slots: the fewer content items you feature, the more they stand out. Remember that anything you feature needs to have an image.
+Our ministers and management
+Ministers tagged to your organisation will automatically appear on your organisation page, and should always have an up-to-date photo and biography.
+Your organisation page should also include photos of all management members featured on your page.
+Read more about adding a photo to people pages and what should be included in biographies.
+Contact details
+Include a point of contact for general enquiries and a point of contact for freedom of information (FOI) requests. Additional contact details are optional.
+
+
+
+      
+        
+          
+            People and roles
+          
+        
+        
+
+    Use to create profiles for:
+
+  ministers (always check with GDS before creating ministers)
+  the organisation’s most senior official (for example the permanent secretary or chief executive)
+  the organisation’s top tier of management (usually directors general)
+  senior officials with a public leadership role (for example Chief Scientist, Chief Medical Officer, military chiefs, ambassadors, high commissioners)
+
+Do not:
+
+  create people pages for anyone else
+
+Creating people and roles
+Find out how to create and update people and roles in Whitehall publisher.
+Examples
+View good examples of a:
+
+  person
+  role
+
+Writing and formatting requirements for people and roles
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+People and roles also use specific headings and a set structure.
+Biography
+Keep it short. One or 2 short paragraphs (one or 2 sentences each) or a single lead sentence with 5 bullets or fewer will do. If it’s a long career, just provide the highlights.
+The first paragraph should cover:
+
+  the person’s full name (without title and letters, as it will appear directly above the text)
+  their current job title, and when they were appointed
+
+In the second paragraph, provide a little information about the person’s background. You can either:
+
+  list up to 5 previous roles as bullet points, with the most recent at the top (if it’s long career, just provide the highlights)
+  say something more general about the types of role they’ve had in the past
+
+At first mention use the full name. After that, use the first name. So ‘Philip Rutnam’ at first mention, then ‘Philip’ after that.
+Do not include information about their personal life, for example marital status, children, hobbies etc.
+Do not use headings or subheadings.
+Management biographies
+Use a maximum of 3 sentences to explain what the manager is doing and 5 bullets on career highlights.
+Ministerial biographies
+Remember to:
+
+  keep it short: half a page is plenty for a biography
+  lead with: ‘[name] was appointed [title] in [date]. [He/she] was elected [name of party] MP for [constituency] on [date of election when the minister first became an MP]
+  first name terms: The Rt Hon Michael Gove MP at the top of the page, then use Michael Gove at first mention, then Michael
+  a Lord or Baroness will always use their title and surname, for example Baroness Warsi
+  education: avoid ‘read’, use ‘studied’
+  political career: a few sentences of career highlights in chronological order, if this is long, use bullet points, with an introductory sentence
+  career outside politics: if none, use ‘political career’
+  personal life: do not include children’s names; delete this section if you do not need it
+
+Note: when talking about ministers who have previously held a role, use their first name and surname.
+Writing copy to describe a role
+Get confirmation from the Cabinet Office/Number 10 digital team before making any change to a ministerial role title.
+Give a brief description of the role: no more than 5 bullet points.
+Do not use headings or subheadings.
+Be specific when listing responsibilities. For example, do not use:
+The minister is responsible for:
+
+  drugs
+  alcohol
+
+Instead, use:
+The minister is responsible for:
+
+  reducing drug misuse
+  reducing harmful drinking
+
+
+
+
+      
+        
+          
+            Publications
+          
+        
+        
+
+    Use for:
+
+  publishing standalone government documents - they are date-stamped and usually not updated once published
+  white papers, strategy documents and reports
+
+Do not create a publication:
+
+  when you should be adding an attachment to another content format; for example meeting minutes and agendas
+  for meeting minutes (these should be attached directly to the relevant policy advisory group or governance page)
+  for videos (these should be embedded directly in the content they relate to – usually a news story or press release)
+
+Creating a new publication
+Find out how to create and update a publication in Whitehall publisher.
+Writing and formatting requirements for publications
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+There are some additional considerations you need to think about when writing a publication.
+Publication pages should be short and straightforward. Their purpose is to help the user find the publication that matches their needs as quickly as possible.
+Users need to know whether they should open the document and if the information within meets their needs.
+Think about:
+
+  search and SEO (ie include relevant keywords and phrases that users are searching for)
+  providing clear, concise information about what a publication is (so users can tell at a glance whether it will tell them what they need to know)
+  context (government often publishes lots of documents which look superficially similar – how will you help the user to find the right one?)
+
+Do not:
+
+  summarise what the document says (you’re just repeating what’s in the document)
+  include general information about the topic covered by the publication (this is not the place for it)
+
+Publication types
+Look at the purpose of the document rather than the format. For example – classifying a publication as ‘guidance’ is generally more helpful to users than telling them that the guidance happens to be in the form of a letter.
+HTML
+You should publish in HTML wherever possible. HTML is the most accessible format on mobile devices and for assistive technology because:
+
+  text automatically fits the page width as a user zooms in (it ‘reflows’)
+  markdown ensures that elements are tagged correctly for screen readers
+  users can change the colours they use on GOV.UK
+
+If your document is designed to be read but not edited or interacted with (read only), publish in HTML.
+As well as static content you can use HTML for living, evolving documents that get updated. It is much easier to maintain one version of a publication in HTML than multiple versions in different formats.
+Your HTML publication will have a publication date and you can give it a reference number or ISBN number.
+Example of good HTML
+View a good example of an HTML publication.
+Other formats
+If you cannot publish in HTML, you must publish your documents in open formats.
+You must provide an email address in the details for users to request an alternative version of a document. You can do this by leaving the ‘Attachment is accessible’ box unticked for all documents you upload. Even if you publish accessible versions, some users will need formats like British Sign Language (BSL), audio or braille.
+If you publish a PDF or other non-HTML format, you must also publish an accessible version of your document. If you do not publish one, you may be breaking the law.
+Forms and editable documents
+If users need to provide information or edit an attachment, for example complete a form, you should:
+
+  create the document in Word, Excel or PowerPoint
+  convert to an OpenDocument
+  publish your OpenDocument
+
+Alongside your OpenDocument, publish the form in at least one other format. Whichever other format you choose, you must make it as accessible as possible.
+PDFs
+You must not publish PDFs on GOV.UK in most circumstances. There are some instances when you can publish a PDF. If these circumstances mean you do publish a PDF, you must publish an accessible version with it.
+PDFs are not as accessible as HTML or OpenDocuments. For example, they do not allow users to change the colour of the background to meet their needs.
+They are also more difficult to magnify because users will have to scroll horizontally and vertically. Text does not reflow to the width of the screen as it gets bigger like in HTML.
+If you need to publish a PDF, you must format it to meet both the:
+
+  WCAG 2.1 accessibility standard
+  PDF/A archiving standard
+
+Titles
+Titles do not have to reflect the official publication title. Keep them short and search- and user-friendly.
+Front-load all titles – get all the most important words at the front of the sentence.
+Good example: ‘Income Tax reform: impact assessment’
+Bad example: ‘An assessment of the impact of proposed reforms to Income Tax’
+You can mention the report title etc in the summary or page copy if you think users will search for that term.
+Good example: ‘Improving government online services’
+Bad example: ‘The Varney report’
+For transparency titles:
+‘DfT special advisers: gifts and hospitality received, 13 May to 31 July 2020’
+Note: use acronyms, colons and truncated dates.
+Summary
+Give a short summary (up to 160 characters) and end with a full stop.
+Body copy
+The body of a publication page provides a description of the publication in plain, neutral language, to reassure the user that it is (or is not) what they’re looking for. Include what the publication is about and its purpose. Publications often outlive governments so keep the language politically neutral.
+Include links to related publications but use collections to group them if more than a few.
+Good example:
+‘These reports describe the effect of government proposals to reduce the amount of money spent on legal aid. The aim of the reforms is to make sure legal aid is still available for support and representation in cases where it is justified.’
+Attachments
+Use the official title of the document.
+You should only add multiple attachments to a publication page if the attachments are:
+
+  forms and it’s a guidance page
+  chapters of one document
+  versions of the same document, for example an interim report and a final report
+
+Use the translations feature if you need to add a different language version of the same document.
+It’s fine to have multiple attachments on a consultation page.
+
+
+
+      
+        
+          
+            Publication: corporate report
+          
+        
+        
+
+    Use these for publications that are about what the organisation is as a corporate entity (for example annual reports, business plans, accounts, structural reform plans, performance and efficiency reviews).
+Do not use them for publications that are about what the organisation does (such as a strategy document showing how the organisation plans to meet its policy objectives would probably be a policy paper).
+Creating a new corporate report publication
+Find out how to create and update publications in Whitehall Publisher.
+Example
+View a good example of a corporate report.
+Writing and formatting requirements for corporate reports
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including corporate reports, must also follow the publications guidance.
+
+
+
+      
+        
+          
+            Publication: correspondence
+          
+        
+        
+
+    Use for:
+
+  ministerial or departmental responses (for example to campaign letters), announcements or statements
+  regularly issued circulars or bulletins (for example fire service circulars), official correspondence to professionals (for example, “Dear chief planning officer” letters)
+  letters to individuals or organisations that are published in order to share with a wider audience
+  online versions of e-bulletins or newsletters
+
+Do not use for:
+
+  minutes, agendas or other meeting papers (attach them to relevant policy detail, organisation or our governance pages instead)
+  formal decision letters from tribunals, regulators or adjudicators - use the decision format
+
+
+Creating a new correspondence publication
+Find out how to create and update correspondence publications in Whitehall publisher.
+Example
+View a good example of a correspondence letter.
+Writing and formatting requirements for correspondence publications
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including correspondence, should also follow the publications guidance.
+
+
+
+      
+        
+          
+            Publication: decision
+          
+        
+        
+
+    Use for:
+
+  formal decisions made by tribunals, regulators or adjudicators (including courts and the Secretary of State) that need to be published for legal reasons or because they relate to locally or nationally significant issues
+
+Decisions outlined in letters or other correspondence should use this format - do not use the ‘correspondence’ format.
+Do not use for:
+
+  consultations
+  government responses
+  press releases
+  news stories
+
+Creating a new decision publication
+Find out how to create and update decisions in Whitehall publisher.
+Writing and formatting decisions
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including decisions, should also follow the publications guidance.
+
+
+
+      
+        
+          
+            Publication: form
+          
+        
+        
+
+    Use for:
+
+  forms or pro forma documents that need to be completed by the user (either online or in hard copy)
+
+The page can include guidance on how to fill in forms, so there is no need to create a separate guidance publication for form instructions.
+Creating a new form publication
+Find out how to create and update publications in Whitehall Publisher.
+Example
+View a good example of a form.
+Writing and formatting requirements for form publications
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including forms, should also follow the publications guidance.
+To help you simplify your forms and make them as accessible as possible, find out how to create a simple open document form.
+
+
+
+      
+        
+          
+            Publication: Freedom of Information (FOI) release
+          
+        
+        
+
+    Use for:
+
+  responses to FOI requests
+
+Make sure the title describes specifically what the request is about.
+Creating a new FOI release
+Find out how to create and update a Freedom of Information release in Whitehall Publisher.
+Example
+View a good example of an FOI release.
+Writing and formatting requirements for FOI publications
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including Freedom of Information releases, should also follow the publications guidance.
+
+
+
+      
+        
+          
+            Publication: guidance
+          
+        
+        
+
+    Use for:
+
+  non-statutory guidance publications like manuals, handbooks and other documents that offer advice
+  guidance material that has been produced as a standalone hard-copy publication rather than web-original content
+
+Do not use for:
+
+  statutory guidance (use the statutory guidance publication type) or guidance about completing a form (attach to the same publication as the form itself)
+
+Creating a new guidance publication
+Find out how to create and update a guidance publication in Whitehall Publisher.
+Example
+View a good example of a guidance publication.
+Writing and formatting requirements for guidance publications
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including guidance, should also follow the publications guidance.
+
+
+
+      
+        
+          
+            Publication: impact assessment
+          
+        
+        
+
+    Use for:
+
+  documents that assess the impact of new initiatives or changes to legislation (for example impact assessments, equality impact assessments and equality impact analyses)
+
+Do not:
+
+  create a new page for them, if possible add them as a supporting document to the ‘parent’ publication, where there is one
+
+Creating a new impact assessment publication
+Find out how to create and update a publication in Whitehall Publisher.
+Example
+View a good example of an impact assessment.
+Writing and formatting requirements for impact assessments
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including impact assessments, should also follow the publications guidance.
+
+
+
+      
+        
+          
+            Publication: independent report
+          
+        
+        
+
+    Use for:
+
+  reports commissioned by government but written by non-government organisations, including independent enquiries, investigations and reviews
+
+Creating a new independent report publication
+Find out how to create and update an independent report in Whitehall Publisher.
+Example
+View a good example of an independent report.
+Writing and formatting requirements for publications
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including independent reports, should also follow the publications guidance.
+
+
+
+      
+        
+          
+            Publication: notice
+          
+        
+        
+
+    Use for:
+
+  permit and licence applications that have to be published temporarily in a public space so people can view, comment or lodge an objection
+
+Do not use for:
+
+  correspondence
+  consultations
+  government responses
+
+Creating a new notice
+Find out how to create and update notices in Whitehall publisher.
+Example
+View a good example of a notice.
+Writing and formatting requirements for notices
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including notices, should also follow the publications guidance.
+
+
+
+      
+        
+          
+            Publication: official documents
+          
+        
+        
+
+    Official documents are types of papers that are laid before (presented to) Parliament. These include:
+
+  command papers
+  House of Commons papers
+  unnumbered act papers
+
+Official documents should be published as attachments to the publication type you’re using, for example a policy paper. Publish them as HTML publications alongside the PDF versions.
+Creating a new official document
+Find out how to create official documents in Whitehall Publisher.
+Writing and formatting requirements
+The HTML and PDF versions of all official documents must contain the:
+
+  title
+  description of how the document was presented to Parliament
+  the date it was ordered to be printed (House of Commons and unnumbered act papers), or the date it was laid (command papers)
+  the Command Paper number (CP) or House of Commons number (HC XXXX)
+  copyright owner (HTML versions are Crown copyright unless you state otherwise, for example: ‘© Financial Conduct Authority’)
+  ISBN reference
+
+Command papers
+Include the statement that explains how the command paper is presented to Parliament, such as: ‘Presented to Parliament by the Secretary of State for Transport by Command of Her Majesty’.
+You also need to include the month and year the command paper was laid before Parliament.
+House of Commons and unnumbered act papers
+Include the statement that explains how your House of Commons or unnumbered act paper is presented to Parliament, such as: ‘Presented to the House of Commons pursuant to section 7 of the Government Resources and Accounts Act 2000’.
+You also need to include the date it was ordered to be printed, for example: ‘Ordered by the House of Commons to be printed on 12 October 2018’.
+
+
+
+      
+        
+          
+            Publication: policy paper
+          
+        
+        
+
+    A policy paper explains the government’s position on something. It does not include instructions on how to carry out a task, only the policy itself and how it’ll be implemented.
+Publications about government policy include:
+
+  white papers
+  strategies (for example, DVSA strategy 2017 to 2022)
+  operational plans
+  action plans
+  implementation plans
+
+Audiences
+When writing a policy paper, remember they are aimed at:
+
+  high-level specialists (such as head teachers or someone who runs a service)
+  people who hold government to account
+
+If the content contains guidance for a user to act on, this should be in the guidance format.
+Policy documents are usually tagged to a particular government, for example the 2005 to 2010 Labour government.
+Creating a new policy paper
+Find out how to create and update a policy paper in Whitehall Publisher.
+Example
+View a good example of a policy paper.
+Writing and formatting requirements for policy papers
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including policy papers, should also follow the publications guidance.
+
+
+
+      
+        
+          
+            Publication: promotional material
+          
+        
+        
+
+    Use for:
+
+  leaflets, posters, fact sheets and marketing collateral
+
+Creating a new promotional material page
+Find out how to create and update a promotional material page in Whitehall Publisher.
+Example
+View a good example of promotional material.
+Writing and formatting requirements for promotional material pages
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including promotional material, should also follow the publications guidance.
+
+
+
+      
+        
+          
+            Publication: regulations
+          
+        
+        
+
+    Use for:
+
+  regulations imposed by an independent regulatory authority (for example Military Aviation Authority, Medicines and Healthcare products Regulatory Agency, Ofsted)
+
+Do not use for:
+
+  statutory guidance describing requirements that are mandatory by law - use the statutory guidance format
+  non-statutory guidance like manuals, handbooks and other documents that offer advice
+
+Creating a new regulations publication
+Find out how to create and update regulations in Whitehall Publisher.
+Example
+View a good example of a regulation.
+Writing and formatting regulations
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including regulations, should also follow the publications guidance.
+
+
+
+      
+        
+          
+            Publication: research and analysis
+          
+        
+        
+
+    Use for:
+
+  research reports
+  surveys
+  analyses
+  evaluations
+
+They can be conducted by government, commissioned by government or independent of government.
+Creating a new research and analysis page
+Find out how to create and update a research and analysis page in Whitehall publisher.
+Example
+View a good example of a research and analysis page.
+Writing and formatting requirements for research and analysis pages
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including research and analysis, should also follow the publications guidance.
+
+
+
+      
+        
+          
+            Publication: statistics
+          
+        
+        
+
+    National statistics
+Use for official statistics that have been awarded the national statistics quality mark.
+Do not use for:
+
+  official statistics that have not been assessed by the UK Statistics Authority
+  experimental statistics
+  statistical dataset
+
+Creating a new national statistics publication
+Find out how to create and update a national statistics publication in Whitehall Publisher.
+Example
+View a good example of a national statistics publication.
+Official statistics
+Use for:
+
+  official statistics that have not been checked by the UK Statistics Authority
+  experimental statistics - make sure this is written in the title or summary
+
+Do not use for:
+
+  national statistics that have been awarded the quality mark
+  statistical datasets
+
+Creating a new statistics publication
+Find out how to create and update a statistics publication in Whitehall publisher
+Example
+View a good example of an official statistics publication.
+Writing and formatting requirements for national statistics
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+Where possible, files should be attached as .csv files or an open format (eg .ods, .odt). Avoid proprietary formats (for example Excel or Word).
+
+
+
+      
+        
+          
+            Publication: statutory guidance
+          
+        
+        
+
+    Use for:
+
+  guidance that relevant users are legally obliged to follow
+
+Do not use for:
+
+  non-statutory guidance, use the guidance publication type
+
+Creating a new statutory guidance page
+Find out how to create and update a statutory guidance page in Whitehall publisher.
+Example
+View a good example of a statutory guidance publication.
+Writing and formatting requirements for statutory guidance pages
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+All publications, including statutory guidance, should also follow the publications guidance.
+
+
+
+      
+        
+          
+            Publication: transparency data
+          
+        
+        
+
+    Use for:
+
+  data that organisations are routinely required to make available to the public
+
+Do not use for:
+
+  
+FOI enquiries
+  information that is not going to be published on a regular and ongoing basis
+
+Creating a new transparency publication
+Find out how to create and update transparency publications in Whitehall publisher.
+Example
+View a good example of transparency data.
+Writing and formatting requirements for transparency publications
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Where possible, attachments should be saved as .csv files or an open format (for example .ods, .odt). Proprietary formats (for example Excel, Word) should be avoided.
+If you are publishing Corporate Commitments, you must use the Whitehall Corporate Commitments transparency template.
+Do cut and paste the text from the template to fill in the following fields:
+
+  publication titles
+  publication summaries
+  publication detail
+  document (attachment) titles
+
+Do not:
+
+  change or edit the the text in any way - it has been agreed with Cabinet Office Transparency Team
+  create your own departmental collections, add your publications to the relevant collection listed on the template
+
+If you have questions about reporting obligations, contact your departmental transparency team or the Cabinet Office Transparency Team.
+If your question is about ministers, special advisers or senior officials, contact the Cabinet Office Propriety and Ethics Team.
+The Corporate Commitments include:
+
+  ministerial gifts, hospitality, travel and meetings
+  special advisers’ gifts, hospitality and meetings
+  senior officials’ business expenses, hospitality and meetings
+  government procurement card spending
+  departmental spending over £25,000
+  departmental exceptions to spending controls
+  departmental roles and salaries
+  departmental workforce management information
+
+The Corporate Commitments template can be used as the basis for other transparency publications.
+
+
+
+      
+        
+          
+            Speech
+          
+        
+        
+
+    You can publish different types of speech on GOV.UK, including:
+
+  transcript (for verbatim reports of exactly what the speaker said – also known as ‘checked against delivery’)
+  draft text (for reports of what the speaker was supposed to say – also known as ‘check against delivery’)
+  speaking notes (if it’s not a complete speech – for example it’s a summary of topics covered)
+  written statement to Parliament
+  oral statement to Parliament
+  authored article
+
+Use for:
+
+  public speeches by ministers or other named spokespeople, ministerial statements to Parliament and bylined articles
+
+Do not create a speech:
+
+  unless you expect a high level of public interest in everything that what was said, not just the main messages (otherwise, it’s better to publish a press release or government response quoting selected highlights, along with some commentary and analysis)
+  just to publish a statement to Parliament as a matter of record (that’s what Hansard is for)
+  unless it’s necessary context for understanding how a policy is progressing
+  for statements made to the media (use press release or government response)
+
+Creating a new speech
+Find out how to create and update a speech in Whitehall publisher.
+Examples
+See good examples of:
+
+  speaking notes
+  written statement to parliament
+  oral statement to parliament
+
+Writing and formatting requirements for speeches
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+There are some additional considerations you need to think about when publishing a speech.
+Title
+Summarise the main point of the speech in the title. Go for something like the titles used for newspaper comment pieces.
+Do not include the word ‘speech’ in the title (it’s added to the page automatically).
+Also do not use the words ‘statement’ or Parliament’ in the title (the words ‘Oral statement to Parliament’ or ‘Written statement to Parliament’ will appear on the page automatically).
+Do not include anything about the speaker, date, venue or audience in the title (the date and speaker appear on the page automatically: if it’s needed, put information about the venue or audience in the summary).
+Good example:
+National security and civil liberties: getting the balance right.
+Summary
+Give details of the occasion for the speech (including any terms that people are likely to be searching for).
+There’s no need to specify whether it’s a written or oral statement in the summary (this information appears on the page anyway), and no need to say that the statement was given to Parliament (that’s self-evident).
+Good example:
+Statement on Action Fraud reports not processed correctly due to a fault in the IT system.
+
+
+
+      
+        
+          
+            Statistical dataset
+          
+        
+        
+
+    Use a statistical data set for data that you publish monthly or more often without analysis (ie raw data).
+For data sets that you publish less frequently or with analysis, use a statistics publication.
+Create a statistical data set
+Find out how to create a new statistical data set document in Whitehall publisher.
+Writing and formatting requirements for statistical data sets
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+Where possible, data sets should be attached as .csv files or an open format (for example .ods, .odt). Avoid proprietary formats (for example Excel or Word).
+
+
+
+      
+        
+          
+            Statistics announcements
+          
+        
+        
+
+    You must announce your statistics using the statistics release calendar to comply with the
+Code of Practice for Official Statistics.
+Use for:
+
+  announcing when national and official statistics will be released
+  explaining any changes to confirmed release dates
+  announcing changes to the way statistics are collected and classified
+
+Do not use for:
+
+  announcing supporting documents (such as quality reports or methodology)
+  announcing the release of statistical datasets
+
+National and official statistics must be announced 12 months before the release date. If you do not know about the statistics 12 months in advance, announce them as soon as possible.
+Give a 1 or 2 month period when the statistics will be released.
+You must give an exact date at least 4 weeks before your statistics are due to be released, or 6 months if it’s market sensitive.
+Creating a new statistics announcement
+Find out how to create and update a statistics announcement in Whitehall publisher.
+Example
+View a good example of a statistical announcement.
+Writing and formatting requirements for statistics announcements
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title and summary.
+
+
+
+      
+        
+          
+            Topical event pages
+          
+        
+        
+
+    Topical event pages are used to communicate government activity about high-profile events or in response to a major crisis. You must get approval from GDS before creating one.
+Use for an event or crisis that is:
+
+  high profile
+  current or relevant only for a short time (for example Ebola virus: UK government response)
+  of significance to the majority of GOV.UK’s users (ie the event is receiving extensive coverage by major news media such as the Today programme)
+  the responsibility of central government
+  linked to more than one government department or agency
+  likely to generate a high volume of content (ie not just one or two news stories)
+
+Do not use for:
+
+  issues on which the government position can be covered by topic or policy pages, and/or document collections (for example changes to the healthcare system)
+  issuing emergency guidance - consider how to reach your intended audience quickly, for example social media, press releases etc
+  events which can be reasonably covered by a lead news story on a departmental homepage (although news stories may develop into topical event pages following additional content generation or increased public interest)
+  influencing behaviour change - this is the role of campaign sites
+
+Creating a new topical events page
+Find out how to create and update topical event pages in Whitehall Publisher.
+Writing and formatting topical event pages
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body text.
+There are also some additional considerations you need to think about when creating a topical event page.
+Name
+Use the name of the event and the year (for example D5 London 2014) and state if it’s a government response to a crisis or event (for example Ebola virus: UK government response).
+Description
+Keep the description short and use it to briefly explain:
+
+  what the event is
+  the government’s involvement
+  what the page is about
+
+About
+Use the ‘about’ page to give more detailed information on what the government is doing about the event. The title of the topical event page will appear automatically at the top of the ‘about’ page, so do not duplicate this.
+Feature slots
+You can feature up to 5 documents that are tagged to the topical event page. You’ll need to have an image for each of these.
+
+
+
+      
+        
+          
+            World news story
+          
+        
+        
+
+    Use for:
+
+  announcements specific to one or more world location
+
+Do not duplicate news published by another department.
+Creating a new world news story
+Find out how to create and update a world news story in Whitehall publisher.
+Writing and formatting requirements for world news story
+All content should follow the GDS style guide and Writing for GOV.UK guidelines. Read these to find out how to write your title, summary and body copy.
+
+
+
+      
+        
+          
+            Worldwide priority
+          
+        
+        
+
+    This content type is no longer available.
+
+
+
+
+        
+  

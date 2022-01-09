@@ -1,0 +1,187 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Synthetic Data
+  
+
+  
+  
+
+  
+    
+  Review techniques to create synthetic datasets that mimic the characteristics of a real dataset but remove or obscure any private or sensitive information
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Defence Science and Technology Laboratory
+
+      
+      Published
+      12 August 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Synthetic Data
+    
+        
+          Ref: ASC, 0259 D3 V1.1
+        
+        PDF, 4.49MB, 115 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email centralenquiries@dstl.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+BAE Systems AI Labs was commissioned by the Defence Science and Technology Laboratory (Dstl) to review the state of the art techniques in generating privacy-preserving synthetic data. Driven primarily by the need for sharing sensitive data for research and development purposes, synthetically generated data should preserve the characteristics of real data while protecting the personal or sensitive information present in the original data.
+
+
+
+
+        
+      
+
+      
+    Published 12 August 2020
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Military equipment, logistics and technology
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

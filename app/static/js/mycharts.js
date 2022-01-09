@@ -4,6 +4,562 @@ function reset(divid){
   $(".chart-div").outerWidth($(".panel-body").width());
   $(divid).removeAttr("_echarts_instance_").empty();
 }
+
+
+//时间线可视化
+function  timeLine(source_data) {
+    reset('#timeline');
+    var myChart = echarts.init(document.getElementById('timeline'));
+    var option;
+
+    option = {
+  title: {
+    text: 'Basic Graph'
+  },
+  tooltip: {},
+  animationDurationUpdate: 1500,
+  animationEasingUpdate: 'quinticInOut',
+  series: [
+    {
+      type: 'graph',
+      layout: 'none',
+      symbolSize: 50,
+      roam: true,
+      label: {
+        show: true
+      },
+      edgeSymbol: ['circle', 'arrow'],
+      edgeSymbolSize: [4, 10],
+      edgeLabel: {
+        fontSize: 20
+      },
+      data: [
+        {
+          name: 'Node 1',
+          x: 300,
+          y: 300
+        },
+        {
+          name: 'Node 2',
+          x: 800,
+          y: 300
+        },
+        {
+          name: 'Node 3',
+          x: 550,
+          y: 100
+        },
+        {
+          name: 'Node 4',
+          x: 550,
+          y: 500
+        }
+      ],
+      // links: [],
+      links: [
+        {
+          source: 0,
+          target: 1,
+          symbolSize: [5, 20],
+          label: {
+            show: true
+          },
+          lineStyle: {
+            width: 5,
+            curveness: 0.2
+          }
+        },
+        {
+          source: 'Node 2',
+          target: 'Node 1',
+          label: {
+            show: true
+          },
+          lineStyle: {
+            curveness: 0.2
+          }
+        },
+        {
+          source: 'Node 1',
+          target: 'Node 3'
+        },
+        {
+          source: 'Node 2',
+          target: 'Node 3'
+        },
+        {
+          source: 'Node 2',
+          target: 'Node 4'
+        },
+        {
+          source: 'Node 1',
+          target: 'Node 4'
+        }
+      ],
+      lineStyle: {
+        opacity: 0.9,
+        width: 2,
+        curveness: 0
+      }
+    }
+  ]
+};
+
+    option && myChart.setOption(option);
+
+}
+
+
+//涉华专题1----时间X领域
+function chinaField(){
+  $.ajax({
+    url: "/analysis_data",
+    type: "POST",
+    data: {'chart': 'china-field'},
+    dataType: "json",
+    success: function(data){
+      chinaField2(data);
+    },
+    error: function(e){
+      alert("error");
+    }
+  });
+}
+function chinaField2(data) {
+  reset('#field-month');
+  var chartDom = document.getElementById('field-month');
+  var myChart = echarts.init(chartDom);
+  var option;
+
+  option = {
+    tooltip: {
+      trigger: 'axis',
+      axisPointer: {
+        type: 'shadow'
+      }
+    },
+    legend: {},
+    grid: {
+      left: '3%',
+      right: '4%',
+      bottom: '3%',
+      containLabel: true
+    },
+    xAxis: [
+      {
+        type: 'category',
+        data: ['2020第1季度','2020第2季度','2020第3季度','2020第4季度','2021第1季度','2021第2季度','2021第3季度','2021第4季度']
+      }
+    ],
+    yAxis: [
+      {
+        type: 'value'
+      }
+    ],
+    series: [
+      //   {
+      //   data: [820, 932, 901, 934, 1290, 1330, 1320],
+      //   type: 'line',
+      //   smooth: true
+      // },
+      // {
+      //   name: 'Direct',
+      //   type: 'bar',
+      //   emphasis: {
+      //     focus: 'series'
+      //   },
+      //   data: [320, 332, 301, 334, 390, 330, 320]
+      // },
+
+      {
+        name: '总数',
+        type: 'bar',
+        data: data[2],
+        emphasis: {
+          focus: 'series'
+        }
+        // markLine: {
+        //   lineStyle: {
+        //     type: 'dashed'
+        //   },
+        //   data: [[{ type: 'min' }, { type: 'max' }]]
+        // }
+      },
+      {
+        name: '现代交通科技',
+        type: 'bar',
+        barWidth: 5,
+        stack: '总数',
+        emphasis: {
+          focus: 'series'
+        },
+        data: data[1][0]
+      },
+      {
+        name: '新代信息通信科技',
+        type: 'bar',
+        stack: '总数',
+        emphasis: {
+          focus: 'series'
+        },
+        data: data[1][1]
+      },
+      {
+        name: '空天科技',
+        type: 'bar',
+        stack: '总数',
+        emphasis: {
+          focus: 'series'
+        },
+        data: data[1][2]
+      },
+      {
+        name: '国防安全',
+        type: 'bar',
+        stack: '总数',
+        emphasis: {
+          focus: 'series'
+        },
+        data: data[1][3]
+      },
+      {
+        name: '医药健康科技',
+        type: 'bar',
+        barWidth: 5,
+        stack: '总数',
+        emphasis: {
+          focus: 'series'
+        },
+        data: data[1][4]
+      },
+      {
+        name: '食品农业科技',
+        type: 'bar',
+        stack: '总数',
+        emphasis: {
+          focus: 'series'
+        },
+        data: data[1][5]
+      },
+      {
+        name: '能源环境科技',
+        type: 'bar',
+        stack: '总数',
+        emphasis: {
+          focus: 'series'
+        },
+        data: data[1][6]
+      },
+      {
+        name: '大数据与人工智能',
+        type: 'bar',
+        stack: '总数',
+        emphasis: {
+          focus: 'series'
+        },
+        data: data[1][7]
+      },
+      {
+        name: '智能制造',
+        type: 'bar',
+        stack: '总数',
+        emphasis: {
+          focus: 'series'
+        },
+        data: data[1][6]
+      },
+      {
+        name: '新材料科技',
+        type: 'bar',
+        stack: '总数',
+        emphasis: {
+          focus: 'series'
+        },
+        data: data[1][7]
+      }
+    ]
+  };
+
+option && myChart.setOption(option);
+
+}
+
+//涉华专题2----时间*数量--month为单位
+function chinaNum(){
+  $.ajax({
+    url: "/analysis_data",
+    type: "POST",
+    data: {'chart': 'china-num'},
+    dataType: "json",
+    success: function(data){
+      chinaNum2(data);
+    },
+    error: function(e){
+      alert("error");
+    }
+  });
+}
+function chinaNum2(data) {
+  reset('#china-num');
+  var chartDom = document.getElementById('china-num');
+  var myChart = echarts.init(chartDom);
+  var option;
+  let num = data[0];
+  let time = data[1]
+  option = {
+    tooltip: {
+    trigger: 'axis'
+  },
+  legend: {},
+  toolbox: {
+    show: true,
+    feature: {
+      dataZoom: {
+        yAxisIndex: 'none'
+      },
+      dataView: { readOnly: false },
+      magicType: { type: ['line', 'bar'] },
+      restore: {},
+      saveAsImage: {}
+    }
+  },
+    xAxis: {
+      type: 'category',
+      name:'时间',
+      data: time
+    },
+    yAxis: {
+      type: 'value'
+    },
+    series: [
+      {
+        name:"政策数量",
+        data: num,
+        type: 'line',
+        smooth: true
+      }
+    ]
+  };
+
+option && myChart.setOption(option);
+
+}
+
+//涉华专题3----时间*机构数量
+function institutionNum(){
+  $.ajax({
+    url: "/analysis_data",
+    type: "POST",
+    data: {'chart': 'institution-num'},
+    dataType: "json",
+    success: function(data){
+      institutionNum2(data);
+    },
+    error: function(e){
+      alert("error");
+    }
+  });
+}
+function institutionNum2(data) {
+  reset('#institution-num');
+  var chartDom = document.getElementById('institution-num');
+  var myChart = echarts.init(chartDom);
+  var option;
+
+  option = {
+    tooltip: {
+      trigger: 'axis',
+      axisPointer: {
+        // Use axis to trigger tooltip
+        type: 'shadow' // 'shadow' as default; can also be 'line' or 'shadow'
+      }
+    },
+    legend: {},
+    grid: {
+      left: '3%',
+      right: '4%',
+      bottom: '3%',
+      containLabel: true
+    },
+    xAxis: {
+      type: 'value'
+    },
+    yAxis: {
+      type: 'category',
+      data: ['5月', '6月', '7月', '8月', '9月', '10月', '11月','12月']
+    },
+    series: [
+      {
+        name: data[0][0],
+        type: 'bar',
+        stack: 'total',
+        label: {
+          show: true
+        },
+        emphasis: {
+          focus: 'series'
+        },
+        data: data[1][0]
+      },
+      {
+        name: data[0][1],
+        type: 'bar',
+        stack: 'total',
+        label: {
+          show: true
+        },
+        emphasis: {
+          focus: 'series'
+        },
+        data: data[1][1]
+      },
+      {
+        name: data[0][2],
+        type: 'bar',
+        stack: 'total',
+        label: {
+          show: true
+        },
+        emphasis: {
+          focus: 'series'
+        },
+        data: data[1][2]
+      }
+    ]
+  };
+
+  option && myChart.setOption(option);
+
+}
+
+//涉华专题4----时间*关键词
+function keywordsTree(){
+  $.ajax({
+    url: "/analysis_data",
+    type: "POST",
+    data: {'chart': 'china-keyword-tree'},
+    dataType: "json",
+    success: function(data){
+      keywordsTree2(data);
+    },
+    error: function(e){
+      alert("error");
+    }
+  });
+}
+function keywordsTree2(data) {
+  reset('#keywords-tree');
+
+var chartDom = document.getElementById('keywords-tree');
+var myChart = echarts.init(chartDom);
+var option;
+  // myChart.hideLoading();
+  myChart.setOption(
+    (option = {
+      tooltip: {
+        trigger: 'item',
+        triggerOn: 'mousemove'
+      },
+      series: [
+        {
+          type: 'tree',
+          data: [data],
+          top: '1%',
+          left: '7%',
+          bottom: '1%',
+          right: '20%',
+          symbolSize: 7,
+          label: {
+            position: 'left',
+            verticalAlign: 'middle',
+            align: 'right',
+            fontSize: 16
+          },
+          leaves: {
+            label: {
+              position: 'right',
+              verticalAlign: 'middle',
+              align: 'left'
+            }
+          },
+          emphasis: {
+            focus: 'descendant'
+          },
+          expandAndCollapse: true,
+          animationDuration: 550,
+          animationDurationUpdate: 750
+        }
+      ]
+    })
+  );
+
+option && myChart.setOption(option);
+
+}
+
+//国情咨文---时间*关键词
+function stateMessageTree(){
+  $.ajax({
+    url: "/analysis_data",
+    type: "POST",
+    data: {'chart': 'state-message-tree'},
+    dataType: "json",
+    success: function(data){
+      stateMessageTree2(data);
+    },
+    error: function(e){
+      alert("error");
+    }
+  });
+}
+
+function stateMessageTree2(data) {
+  reset('#state-message');
+var chartDom = document.getElementById('state-message');
+var myChart = echarts.init(chartDom);
+var option;
+  // myChart.hideLoading();
+  myChart.setOption(
+    (option = {
+      tooltip: {
+        trigger: 'item',
+        triggerOn: 'mousemove'
+      },
+      series: [
+        {
+          type: 'tree',
+          data: [data],
+          top: '1%',
+          left: '7%',
+          bottom: '1%',
+          right: '20%',
+          symbolSize: 7,
+          label: {
+            position: 'left',
+            verticalAlign: 'middle',
+            align: 'right',
+            fontSize: 16
+          },
+          leaves: {
+            label: {
+              position: 'right',
+              verticalAlign: 'middle',
+              align: 'left'
+            }
+          },
+          emphasis: {
+            focus: 'descendant'
+          },
+          expandAndCollapse: true,
+          animationDuration: 550,
+          animationDurationUpdate: 750
+        }
+      ]
+    })
+  );
+
+option && myChart.setOption(option);
+}
 // 国家×年份
 function countryYear(){
   $.ajax({
@@ -335,7 +891,7 @@ function keywordCloud(){
   $.ajax({
     url: "/analysis_data",
     type: "POST",
-    data: {'chart': 'key-word-cloud'},
+    data: {'chart': 'china-keyword-cloud'},
     dataType: "json",
     success: function (data){
       drawkeyCloud(data);
@@ -410,7 +966,7 @@ function drawkeyCloud(source_data) {
 
 
 $(document).ready(function () {
-  countryYear();
+  institutionNum();
 })
 
 

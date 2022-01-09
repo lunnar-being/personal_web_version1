@@ -1,0 +1,60 @@
+Earlier this month in Suffolk, Virginia, the Joint Staff's J-6 and members of the Defense Department's cyber community — along with military representatives from the U.K., Australia, Canada, Sweden, Germany and other partner nations — concluded an experiment to demonstrate the effectiveness of the department's mission-partner environment and SABRE software.
+
+
+
+
+
+Fagert said that while "partners" is typically understood to mean the militaries of foreign nations, it might also include other agencies of the U.S. federal government or even municipal law enforcement agencies, when needed.
+
+Over the past 20 years of conflict in Iraq and Afghanistan, the U.S. has partnered with a multitude of foreign militaries in countless operations. Command and control of those operations often involves an array of computer networks brought along by each participating nation. Facilitating the movement of information among those disparate networks as part of executing those combined and joint operations has been a challenge. Simplifying those operations is the goal of the MPE and SABRE."SABRE allows us to come together much quicker, much more flexibly," Maj. Gen. Thomas Copinger-Symes, the U.K. chief information officer and director for military digitization, said. "Critically, it takes the lessons from the last 20 years of campaigning where we were, frankly, too slow to be able to interoperate in fixed infrastructure. We've learned those lessons, and we're now embedding them into SABRE so that we can plug-and-play together in a much more rapid, much more agile fashion as crises emerge, to deal with those crises and get back to competition."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"When we think of this, this isn't about just one ally, one partner, one specific environment," Parker said. "The future has to be a persistent, connected, mission-partner environment, enabled by SABRE, that really allows us the flexibility necessary to respond to the knowns and unknowns that the future joint warfighting environment will present to us."
+
+On the ground in Suffolk, a pair of tents set up on a parking lot there mimicked — to a small scale — the kind of command and control element that might be present in any combined operation around the globe.
+
+Inside the tents, laptops were set up that could connect to SABRE. Military officers from multiple U.S. ally and partner nations were there to conduct simulated operations using SABRE and to provide feedback on how using it was different from how they've worked in the past as part of a coalition.
+
+Swedish Navy Col. Olle Mobergh, a liaison officer from the Swedish armed forces to the Joint Staff's J-6, was one of the officers who worked with SABRE and the MPE. He said in using the system he saw value in it immediately.
+
+"[It] gives us the benefit of each nation being able to use their national systems," Mobergh said. "You don't have to buy a specific gadget to interconnect. It's all done virtually in a computer system. We can plug in the Swedish system, having the right data format, and the right way of compiling information, and we can then share our information to whatever level we are entitled to [and] to whoever is supposed to receive it."
+
+Mobergh also pointed to an important feature of the MPE and SABRE — "data-centricity" versus network-centricity.
+
+"We should invest in the continuation of implementing this technology and also look into policies because that's where I think we need to do the most work ... writing our policies so that information is eligible to be shared on different levels," he said. "Because today, we write policies for specific systems for specific tasks — and that's not the future."
+
+On today's military networks, users are authenticated into a system. Their access and clearance is first verified, and then they are given access to an entire network in which to roam — and on which they can, with few exceptions, view all the data housed there. This is a network-centric approach. To let a visitor from another nation view a series of files that are housed on such a network, that user would need to be cleared for access to the entire network — and that can't always happen.
+
+
+
+
+
+
+
+
+
+
+"This will do two things with respect to any type of operation, but particularly combat operations," said Fegert. "It will shorten the time zone. And as we go against near-peer, high-end enemies, time, nanoseconds are going to be critical. And it will make it much easier for not just our sailors, soldier, airman, Marine and guardians, but our partners' sailors, soldiers, airmen, Marines and guardians to engage in a meaningful manner to deter, defend, and, if we have to, defeat so that the U.S. can retain its national sovereignty along with our partners. This is one of the things in 36 or 37 years, I'm actually proud to deliver — this is a game changer."

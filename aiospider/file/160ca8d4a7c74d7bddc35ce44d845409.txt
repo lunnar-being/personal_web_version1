@@ -1,0 +1,144 @@
+    
+
+
+
+ has seen limited growth in modal share over the past decade, with very few exceptions, and demand was put under further pressure during the COVID-19 crisis. But there is increasing investment in rail as a sustainable option. The EU has made funding available to support rail infrastructure projects, and countries have committed to projects that will improve and increase passenger rail services to relieve road traffic congestion, reduce emissions, and improve the sector’s digital connectivity.To ensure this commitment is effective, rail companies and governments may wish to make strategic decisions around where and how to invest, and focus spending on projects that support their desired outcomes. For instance, stakeholders could assess the impact of actions and investments against key drivers of modal share to ensure that capital is spent effectively. And they could leverage enabling factors to avoid costly budget overruns and project delays.This article explores the macrotrends affecting the sector and examines key drivers that countries and companies could leverage to increase modal share and to secure long-term growth. It also offers options to consider and highlights best practices that stakeholders can adopt to take action and define a strategy for sustained passenger-rail growth.Passenger rail is under pressure, but has significant potential for long-term growthRail growth has come under pressure from the impact of the COVID-19 crisis on users. The Community of European Railway and Infrastructure Companies (CER) reported that total revenue for the EU rail sector fell by around €26 billion between 2019 and 2020, and passenger operators accounted for €24 billion of this figure.
+
+
+ Over the same period, many European countries reported a marked decline in passenger kilometers. In Germany, France, Italy, and Spain, passenger kilometers dropped by between 40 and 60 percent.
+
+
+ Revenue losses are likely to continue in the short term as demand is only expected to recover between 2023 and 2025—and costs do not scale back if revenue falls.
+
+
+Furthermore, some passenger segments such as commuting and business travel may not fully recover, as demand could be permanently affected by increased remote working. For instance, it is estimated that between 20 and 25 percent of the workforce in advanced economies could work from home between three and five days a week.
+
+
+ This represents four to five times more remote work than before the pandemic. McKinsey’s Travel, Logistics & Infrastructure practice estimates that about 20 percent of business travel may not return.Despite this outlook, several macrotrends such as sustainability, urbanization and population growth position passenger rail as part of the solution for tackling mobility and sustainability issues, and indicate that the sector could achieve long-term growth.Sustainability is a key transportation factor as Europe seeks to realize its net-zero goals. Rail generates approximately 4 to 6 times less CO2 emissions than travel by car (with an internal combustion engine), depending on the length of the journey.
+
+
+ Even compared to electric vehicles, rail has a lower carbon footprint per passenger kilometer, at 6 to 41 grams compared to 46 to 77 grams for electric vehicles.
+
+
+ Compared to air travel, rail is the also greener option, generating about 10 to 15 times less CO emissions per passenger.Increasing urbanization and population growth lead to more congestion in cities; rail can help relieve road traffic congestion and reduce air pollution. Urbanization has been steadily increasing in Europe, from approximately 64 percent to 75 percent over the past 50 years.
+
+
+ Even though the EU’s population is expected to peak by 2025, several countries, including Sweden, Switzerland, France, Spain, and the Netherlands, are showing positive population growth.
+
+
+As a result of these macrotrends, rail is seen as one of the safest, most innovative, and sustainable modes of transport. This EU-wide support is illustrated by several initiatives: 2021 has been designated as the European Year of Rail, for example, and rail is a central element of Europe’s Sustainable and Smart Mobility Strategy.But even with this positive sentiment, passenger modal share has shown limited growth over the past decade, levelling off at around 8 percent since 2013.
+
+
+ Modal share, however, varies by country (Exhibit 1). Switzerland has the highest modal share of roughly 20 percent. The country increased its modal share by 2.4 percentage points over the past 10 years by investing heavily in the rail network, integrating its ticketing system, and increasing user satisfaction. There’s much other countries can learn from Switzerland’s experiences.
+    
+Given the macrotrends, and strong European support, this is a good time for all rail stakeholders to reflect on their growth ambitions for the future.Rail growth is supported on a European and national levelThe European Union has defined various programs, and made funding available, to support rail as the backbone of the European economy and position it as an important component of the European Green Deal. The Green Deal aims to transform the EU into a resource-efficient and competitive economy and has set a target of net-zero emissions by 2050. Providing more public transport is a key factor for reducing emissions.
+
+
+The European Commission defined 2021 as the European Year of Rail to help shift passenger and freight transport from road to rail, and to highlight rail as a sustainable, smart and safe means of transport. It also launched the Sustainable and Smart Mobility Strategy which lays the foundation for how the EU transport system can achieve its green and digital transformation and become more resilient to future crises. The strategy includes ambitious targets for rail, such as doubling highspeed rail traffic by 2030 and tripling it by 2050.
+
+
+The EU has provided funding to support the Green Deal and COVID-19 recovery plans. For instance, the Next Generation EU facility and the Multiannual Financial Framework (MFF) which includes National Recovery and Resilience Plans (NRRPs), together now provide a total budget of €2 trillion. An estimated €86 billion of this funding could be used for rail projects over the next six years (Exhibit 2).
+
+
+ To illustrate the potential impact of this amount, €86 billion could cover the construction costs for 3,200km of high-speed rail, or the costs of purchasing about 8,000 intercity trains.
+
+
+ It is worth noting that not all of this funding would go to rail and infrastructure operators, but would include a variety of stakeholders.
+    
+
+		
+	
+Beyond European funding through the MFF and NRRPs, some countries have already committed to funding at a national level. The Netherlands, for instance, has committed approximately €2.5 billion of its national growth fund to two important projects that will reinforce and expand key transit corridors to relieve congestion and increase rail capacity. The country plans to expand the “Noord-Zuid” metro line in Amsterdam, and expand and modernize the “Oude Lijn” heavy-rail route between The Hague and Rotterdam.
+
+
+For some countries, an increase in NRRP funding will have limited impact, while for others it may constitute a significant leap in available funding. For example, in Italy the CAPEX budget of the state-owned rail network, Ferrovie dello Stato Italiane, was €8.1 billion in 2019.
+
+
+ An extra €31.4 billion will be made available for infrastructure for sustainable mobility in Italy through the NRRP between 2021 and 2027.
+
+
+ In theory, this could constitute a potential yearly increase in the rail network’s CAPEX budget of around 55 percent, providing opportunities for investments to transfer traffic from road to rail, reduce passenger travel times, improve connections, and enhance the digital transformation of the rail system.Available funding for the rail sector highlights the importance of decision makers allocating funds to the right projects, and managing projects effectively, to ensure that the sector benefits from an increase in modal share. Stakeholders taking up opportunities to invest would benefit from thinking through their approach to execution and whether enablers of success are in place to limit their risks and avoid budget overruns and inefficient spending.What could rail and infrastructure companies that want to act now to increase modal share consider?As a first step, companies could map the impact of actions and investments to modal share drivers to ensure that capital is spent effectively and that projects yield the intended benefits. Various successful initiatives have been implemented in Europe that offer guidance on ways to influence rail’s modal share. These range from operational measures, such as real-time monitoring and predictive maintenance, to more commercial measures such as alternative pricing schemes, including budget trains and flat-fee subscriptions.McKinsey analysis has identified the following five potential broad drivers that companies can leverage to provide better services for passengers and increase modal share:
+     The Netherlands provides a good example of providing time-efficient rail travel options that lead to an increase in passenger numbers. The country built a successful regional rail network, “Randstadrail”, by connecting a set of old train tracks and existing tram/metro tracks to create a light rail line between The Hague and Rotterdam. This successfully reduced road traffic and increased the number of rail passengers from 29,000 a day in 2007 to 125,000 a day in 2018.
+
+
+ Another approach could be to apply takt-based scheduling to increase efficiency and provide consistent passenger schedules. The Swiss network has centered operations around a takt-based timetable, where trains come together on the hour, and the half-hour, at core stations. Pulse timetabling—where trains come together or “pulse” at 15, 30, or 60-minute intervals—is also used extensively in intercity and regional rail systems in Germany and the Netherlands.
+     Simplifying ticketing, so that passengers can use one ticket across different modes of transport, can facilitate ease of use and attract customers. The Dutch transport system, for example, introduced multimodal synchronized ticketing with its OV-chipkaart (chip card), that gives passengers convenient access to trains, buses, trams, and even bicycles with just one card. Another example is the Spanish rail operator, Renfe, that recently approved the tender for the development of its proprietary Mobility-as-a-Service (MaaS) platform called “Renfe-as-a-Service,” which is expected to launch by the end of 2021. This app will allow passengers to purchase tickets for a variety of modes of transport.
+     Advances in technology and digitization are enabling solutions and innovative ways to attract customers by improving rail reliability. Siemens, for example, leveraged real-time monitoring and predictive maintenance to push the high-speed line between Barcelona and Madrid to a 99.9 percent on-time score, while reducing operational costs.
+
+
+ In Italy, Gruppo Ferrovie dello Stato has been leveraging an innovative monitoring tool that collects real-time information, allowing for effective and timely management of specific events related to railway traffic.
+
+
+ In addition to digitization, the quality and maintenance of the rolling stock and adjacent systems are key underlying levers for improving the predictability of traffic.
+     Rail is already one of the most sustainable modes of transport, with more than 90 percent of passenger kilometers in many European countries being provided on electrified tracks.
+
+
+ That said, there is further room for improvement through hydrogen or catenary electrification for diesel lines, as only 54 percent of the rail tracks in Europe had been electrified by 2016.
+
+
+ More importantly, companies are switching to green energy. For example, in 2017 the Dutch railway network, NS, became the first in the world to run trains completely on wind energy.
+
+
+ Hydrogen rail projects have been gaining traction, and many European countries are piloting hydrogen projects or plan to do so. For example, Alstom and Snam have teamed up to develop hydrogen trains in Italy.
+
+
+ Beyond decarbonizing their own emissions, rail companies could also cooperate with suppliers to decarbonize their entire supply chain.
+     Price is a major consideration for passengers.
+
+
+ Ouigo, a French low-cost high-speed train service, introduced a budget high-speed train that competes with airlines on price. This SNCF subsidiary has shown steep growth since inception, targeting 25 million passengers in 2020, prior to COVID-19.
+
+
+ In other examples, the City of Vienna introduced a €365 flat fee for a full year of unlimited public transport, leading to a 2 percent modal share increase. And in Germany, VAT on rail travel was reduced from 19 to 7 percent, effectively reducing consumer costs with some fares of 50km or over coming down by around 10 percent.
+
+
+
+Though all drivers are important, they may not all have the same impact, and this could vary by region.In addition to the role that individual companies could play, national and European regulatory policies could also help grow rail’s modal share. As a McKinsey article “” shows, market liberalization can have a positive impact on passenger demand, pricing, and the offerings available. In Italy, for example, the introduction of Italo NTV in 2012—as part of the commercialization of the long-distance market—led to a 69 percent increase in passenger kilometers between 2011 and 2018. The increase was driven by higher frequency, more connections, and shorter travel times.
+
+
+ It was also underpinned by the combined impact of a modal shift from other forms of transport—such as the reduction of 1 billion passenger kilometers on the Milan-Rome plane route—and the unleashing of strong and previously hidden demand. The French government also introduced various policies that favor train travel instead of air to reduce carbon emissions. For instance, French MPs recently voted to suspend internal flights if the trip could be completed by train within two and a half hours.
+
+
+ Regulatory policies such as these could play a key role in incentivizing customers and shaping a modal share increase.Other operators and authorities can learn from Switzerland’s experience as the country with the overall highest modal share in Europe. The country applied rigorous commitment, drove execution, focused on alignment, and invested approximately CHF50 billion to achieve a 20 percent modal share.
+
+
+ On a per-capita basis, it becomes even more apparent that this contributed to Switzerland’s high modal share. By comparison, Switzerland invested €440 per person in rail infrastructure in 2020, whereas other advanced European economies typically invested between €40 and €250 per capita (e.g., Germany invested €88 per capita).
+
+
+ Switzerland’s high investment and commitment resulted in increased ridership and satisfaction (Exhibit 3).
+    
+What can companies and countries do now to concretely position themselves for growth in modal share? Investment is only one half of the equation. Stakeholders can make sure that three potential enablers are in place to ensure that investments lead to increased modal share.
+		
+	
+Three potential enablers to improve investment successThere are three potential enablers that companies and countries may want to leverage to ensure that investments are successful and ultimately increase modal share: applying CAPEX excellence, enhancing digitization and analytics, and improving governance and incentives.Applying CAPEX excellenceSome rail infrastructure projects may incur budget overruns or encounter delays, and this phenomenon is a Europe-wide issue. Overruns and delays are often caused by five challenges: financial complexity, planning difficulties, a complex stakeholder environment, procurement risks, and internal project-management challenges. Applying CAPEX excellence can mitigate these challenges. For instance, stakeholders can ensure that there is a structured process for value creation from origination to commission, by applying several techniques such as lean construction and integrated planning. They can also implement the right governance and monitoring systems to track the production pipeline, profitability, resource utilization, and physical progress.Leveraging tools such as digital twins and five-dimensional building information modeling (5D BIM) can also help to optimize processes. 5D BIM is a digital representation of the physical and functional characteristics of a project. It allows users to create models that demonstrate how changes to materials, layout, square footage, and other design elements not only affect the appearance of a facility, but also the cost and schedule of construction.These tools help to detect project deviation in construction accurately and timeously. They also offer features such as agile engineering, field virtualization, and advanced operations including incorporation of advanced analytics, big data, and automation.Typically, CAPEX-excellence programs can realize savings that could be reinvested to increase modal share through other projects.Enhancing digitization and analyticsEven though countries and companies understand the value of digitization and analytics, not all have actually put it at the forefront of their strategies. McKinsey’s Global Institute’s Industry Digitization Index provides evidence that the transportation and logistics industry shows relatively low levels of digitization.
+
+
+Rail companies could leverage digitization and analytics to improve performance in the following five areas:
+     For instance, real-time fleet management and predictive maintenance can drastically improve efficiency and reliability. Companies have already started leveraging advanced analytics for predictive maintenance and construction planning. One European rail infrastructure provider reduced the number of trains affected by construction work by 10 percent through analytics-driven closure allocation.
+     Digital performance management can create transparency around performance, and ultimately drive customer satisfaction. Companies can also use automated planning systems, for example to allocate shifts and tasks for maintenance workers, to increase predictability.
+     Companies can leverage advanced analytics and scenario modeling to create a holistic network design that can unlock economic potential and maximize timetable efficiency.
+     Companies can improve user experience through providing improved facilities, such as high-speed WiFi, or partnering with MaaS suppliers to provide door-to-door trip-manager apps that increase ease of use.
+     Companies can use analytics to effectively target customers through the right pricing schemes, and enable a seamless journey from a payment perspective. Rail companies can learn from their airline counterparts, particularly regarding how to target customers more effectively, increase user satisfaction, and reduce churn.
+Improving governance and incentivesGovernance for rail-infrastructure projects may sometimes be characterized by low effectiveness in project steering and limited incentives to save costs, or inaccurate estimates, all leading to delays and cost overruns. Some issues could also center around under-resourcing, a limited focus on continuous improvement, a lack of transparency on progress and bottlenecks, and complex stakeholder management.The following example illustrates the factors involved in setting incentives. In 2014, the modernization of the EU public procurement framework strengthened the concept of the Most Economically Advantageous Tender (MEAT) criteria when awarding contracts.
+
+
+ MEAT takes into consideration aspects other than the lowest price, whereas price or cost criteria remain key factors that influence contract choice.
+
+
+ Contracts could therefore consider quality-price ratios, in addition to costs, to ensure best value for money.Good governance will involve a crisp definition of overall organization and project scope, detailed role descriptions and a precise team structure for each type of project, clear processes for how different units should work, explicit interaction and decision-making processes, as well as investment in capability building to sustain new, more agile ways of working. In addition to a strong governance setup, projects can benefit from rigorous control of financial metrics, and to make sure that transparent KPIs are in place.Optimizing modal share could benefit from international collaborationThe European rail industry is well placed to deliver smart and green transportation. Funding is available for projects that will increase modal share and sustainability. However, improvements on a country-by-country basis could lead to suboptimal results. International collaboration can help achieve optimal results across the three dimensions of CAPEX excellence, digitization and analytics, and governance and incentives.
+     In the late 1990s, the construction of a key European freight corridor ran over time and over budget. Delays in construction, particularly of critical connections, led to decreased capacity, with fewer trains running than originally planned. In this instance, greater collaboration across countries could have led to increased project and investment efficiency.
+    
+    Pooling funds internationally and aligning planning between operators and authorities across countries can help support faster growth and greater cost and time efficiencies. The automobile industry provides a private-sector example of such an approach. In 2017, several automotive manufacturers created the joint venture IONITY to rapidly develop a high-power charging network for electric vehicles in Europe and enable growth in electric vehicle sales. IONITY also provides compatibility across vehicles, and an intuitive and consistent experience for customers.
+
+
+
+     As noted in McKinsey’s “,” stakeholders may need to change the way the industry operates to accelerate the digitization of Europe’s railways. The pace of overall digital progress across Europe is slow, in ERMTS for example.
+
+
+ Furthermore, multiple rules regarding traffic operation still co-exist, and on the manufacturing front, original equipment manufacturers (OEMs) use different technology platforms. In other industries, players across the value chain combine their digitization efforts. For example, multiple premium-car OEMs use HERE Technologies, that provides mapping and location data, to combine their work on autonomous vehicles.
+    
+    The railway industry could choose to set itself a truly European ambition for example, a single digital infrastructure for Europe by 2050. This might help companies and countries reap the full benefits of digitization and analytics.
+     Companies and countries are sometimes incentivized on a national level, which may lead to regional inefficiencies, thereby increasing the costs of the system as a whole and negatively impacting the price of transit. For example, national standards are sometimes enforced on certification of rolling stock, leading to high costs and slow adoption. This raises the question of whether a train manufactured in France still requires an extensive certification process in Germany. In an optimal pan-European setting, regulation for certification (and other processes) that was set at a European level with sufficient trust and standardization among countries could help reduce such duplication of efforts.
+    
+    Greater international collaboration could help set the industry on a path of transformation, and ensure that each country’s investments yield optimal results.
+The European railway industry has potential to significantly improve passenger rail’s modal share, but decision, action and cooperation are needed to make this a reality. There is clear momentum across countries to invest in rail as a sustainable, smart and safe means of transport, and there are examples of success for decision makers to learn from. Companies and national authorities could benefit from taking action now to evaluate the impact of their actions on modal share, collaborate across borders, and define a strategy towards a path of sustained rail growth.
