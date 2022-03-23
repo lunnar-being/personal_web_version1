@@ -171,24 +171,24 @@ function chinaField2(data) {
       //   data: [320, 332, 301, 334, 390, 330, 320]
       // },
 
-      {
-        name: '总数',
-        type: 'bar',
-        data: data[2],
-        emphasis: {
-          focus: 'series'
-        }
-        // markLine: {
-        //   lineStyle: {
-        //     type: 'dashed'
-        //   },
-        //   data: [[{ type: 'min' }, { type: 'max' }]]
-        // }
-      },
+      // {
+      //   name: '总数',
+      //   type: 'bar',
+      //   data: data[2],
+      //   emphasis: {
+      //     focus: 'series'
+      //   }
+      //   // markLine: {
+      //   //   lineStyle: {
+      //   //     type: 'dashed'
+      //   //   },
+      //   //   data: [[{ type: 'min' }, { type: 'max' }]]
+      //   // }
+      // },
       {
         name: '现代交通科技',
         type: 'bar',
-        barWidth: 5,
+        barWidth: 20,
         stack: '总数',
         emphasis: {
           focus: 'series'
@@ -432,6 +432,99 @@ function institutionNum2(data) {
 
 }
 
+
+//关键词饼图
+function keywordsPie() {
+  $.ajax({
+    url: "/analysis_data",
+    type: "POST",
+    data: {'chart': 'china-keyword-pie'},
+    dataType: "json",
+    success: function(data){
+      keywordsPie2(data);
+    },
+    error: function(e){
+      alert("error");
+    }
+  });
+}
+
+function keywordsPie2(data) {
+  reset('#keywords-tree');
+  var chartDom = document.getElementById('keywords-tree');
+var myChart = echarts.init(chartDom);
+var option;
+
+option = {
+  title: {
+    text: '涉华政策关键词演变图',
+    subtext: '',
+    left: 'center'
+  },
+  tooltip: {
+    trigger: 'item',
+    formatter: '{a} <br/>{b} : {c} ({d}%)'
+  },
+  legend: {
+    left: 'center',
+    top: 'bottom',
+    data: [
+      'rose1',
+      'rose2',
+      'rose3',
+      'rose4',
+      'rose5',
+      'rose6',
+      'rose7',
+      'rose8'
+    ]
+  },
+  toolbox: {
+    show: true,
+    feature: {
+      mark: { show: true },
+      dataView: { show: true, readOnly: false },
+      restore: { show: true },
+      saveAsImage: { show: true }
+    }
+  },
+  series: [
+    {
+      name: '涉华关键词2020',
+      type: 'pie',
+      radius: [20, 140],
+      center: ['25%', '50%'],
+      roseType: 'radius',
+      itemStyle: {
+        borderRadius: 5
+      },
+      label: {
+        show: true
+      },
+      emphasis: {
+        label: {
+          show: true
+        }
+      },
+      data: data[0]
+    },
+    {
+      name: '涉华关键词2021',
+      type: 'pie',
+      radius: [20, 140],
+      center: ['75%', '50%'],
+      roseType: 'area',
+      itemStyle: {
+        borderRadius: 5
+      },
+      data: data[1]
+    }
+  ]
+};
+
+option && myChart.setOption(option);
+
+}
 //涉华专题4----时间*关键词
 function keywordsTree(){
   $.ajax({
@@ -884,7 +977,87 @@ function drawCloud(source_data) {
 }
 
 
+//涉华关键词词云图
+function chinaCloud() {
+  $.ajax({
+    url: "/analysis_data",
+    type: "POST",
+    data: {'chart': 'china-cloud'},
+    dataType: "json",
+    success: function(data){
+      chinaCloud2(data);
+    },
+    error: function(e){
+      alert("error");
+    }
+  });
+}
 
+function chinaCloud2(source_data) {
+  reset('#keywords-tree');
+
+  var myChart = echarts.init(document.getElementById('keywords-tree'));
+  // var shownum = $("#keyshownum").val();
+  var keylist = [];
+  for (let item of source_data) {
+    keylist = keylist.concat(item[0].split(', '));
+  }
+  var keycount = {};
+  for (let key of keylist) {
+    if (key) {
+      if (key in keycount) {
+        keycount[key] += 1;
+      } else {
+        keycount[key] = 1;
+      }
+    }
+  }
+  var series = [];
+  for (let key in keycount) {
+    series.push([key, keycount[key]]);
+  }
+  series = series.sort(function (a, b) {
+    return b[1] - a[1]
+  });
+  if (series.length > shownum) {
+    series = series.slice(0, shownum);
+  }
+  var option = {
+    tooltip: {
+      show: true,
+      formatter: function (item) {
+        return item[0] + ' 出现 ' + item[1] + ' 次'
+      }
+    },
+    list: series,
+    color: 'random-dark',
+    shape: 'circle',
+    ellipticity: 1,
+    noDataLoadingOption: {          // 无数据提示
+      backgroundColor: '#eee',
+      text: '暂无数据',
+      textStyle: {
+        color: '#888',
+        fontSize: 14
+      }
+    }
+  }
+  var keywc = new Js2WordCloud(document.getElementById('keywords-tree'))
+  keywc.showLoading({
+    backgroundColor: '#fff',
+    text: '正在加载词云图',
+    effect: 'spin'
+  })
+
+  setTimeout(function () {
+    keywc.setOption(option);
+  }, 1000);
+
+  window.onresize = function () {
+    keywc.resize();
+  }
+
+}
 
 // 关键词词云图
 function keywordCloud(){

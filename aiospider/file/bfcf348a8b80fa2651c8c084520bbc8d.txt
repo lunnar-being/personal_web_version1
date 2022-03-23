@@ -1,0 +1,517 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    COVID-19: guidance for sampling and for diagnostic laboratories
+  
+
+  
+  
+
+  
+    
+  Information for clinical diagnostic laboratories regarding safety, sampling and packaging specimens associated with COVID-19.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Public Health England
+
+      
+      Published
+      15 January 2020
+      Last updated
+      
+        29 March 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    COVID-19: laboratory investigations and sample requirements for diagnosis
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    COVID-19: guidance on alternative swab types and transport media
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    COVID-19: how hospital-based healthcare workers can arrange laboratory testing for patients
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    COVID-19: which samples should be taken (poster)
+    
+        
+          Ref: PHE publications gateway number 2019247, 16/04/2020
+        
+        PDF, 586KB, 1 page
+    
+
+
+  
+
+  
+      
+  
+  
+    COVID-19: which samples should be taken (text version of poster)
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    COVID-19: packaging requirements for samples
+    
+        
+          Ref: PHE publications gateway number 2019276
+        
+        PDF, 587KB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    COVID-19: sampling and packaging poster
+    
+        
+          Ref: PHE gateway number 2019248, 16/04/2020
+        
+        PDF, 447KB, 1 page
+    
+
+
+  
+
+  
+      
+  
+  
+    COVID-19: packaging diagnostic samples containing Hazard Group 3 (HG3) pathogens (video)
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    COVID-19: safe handling and processing for samples in laboratories 
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    COVID-19: Specimen Result Contact Form
+    
+        MS Excel Spreadsheet, 10.9KB
+    
+
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+These documents provide guidance to clinical diagnostic laboratories on the handling and processing of specimens for the diagnosis of coronavirus (COVID-19), and covers safety, laboratory investigations as well as sample requirements.
+
+There may be further information specific to each country in the United Kingdom, as this guidance was written by Public Health England (PHE) primarily for an English health professional audience. To see if country specific information is available, please refer to Health Protection Scotland, Public Health Wales, or Public Health Agency in Northern Ireland.
+
+
+
+        
+      
+
+      
+    Published 15 January 2020
+    Last updated 29 March 2021
+      + show all updates
+      
+        
+            
+              29 March 2021
+              Updated samples required for initial diagnostic testing (section 3).
+            
+            
+              16 July 2020
+              Updated section 2 and 3 of 'laboratory investigations and sample requirements for diagnosis'.
+            
+            
+              7 July 2020
+              Updated section 3 of 'laboratory investigations and sample requirements for diagnosis'.
+            
+            
+              2 June 2020
+              Updated link to video on packaging diagnostic samples containing Hazard group 3 (HG3) pathogens.
+Addition of link to reinstated E28 primary testing form.
+            
+            
+              29 May 2020
+              Updated 'COVID-19: sampling and packaging poster'.
+            
+            
+              26 May 2020
+              Update on sample submission to 'laboratory investigations and sample requirements for diagnosis' page.
+            
+            
+              14 May 2020
+              Updated 'COVID-19: safe handling and processing for samples in laboratories'.
+            
+            
+              11 May 2020
+              Note on urine testing added to the 'safe handling and processing for samples' page.
+            
+            
+              1 May 2020
+              Updated with latest information on the infectivity of human specimens with SARS-CoV-2 virus (section 2) with key references.
+            
+            
+              25 April 2020
+              Added clarification that this guidance refers to how hospital-based healthcare workers can arrange laboratory testing for patients and inclusion of a link to essential workers testing guidance.
+            
+            
+              17 April 2020
+              New version of the diagnostic sample video added.
+            
+            
+              16 April 2020
+              Updated upper respiratory tract sample options; added 'guidance on alternative swab types and transport media'; replaced posters for samples to take and packaging instructions.
+            
+            
+              6 April 2020
+              Updated information on local testing.
+            
+            
+              6 April 2020
+              Updated information on how to arrange local laboratory testing.
+            
+            
+              3 April 2020
+              Additional guidance on processing samples regarding near patient testing.
+            
+            
+              28 March 2020
+              Updated information on samples and testing.
+            
+            
+              27 March 2020
+              'Priority for testing' moved to 'investigation and initial clinical management of possible cases'.
+            
+            
+              26 March 2020
+              Added links to 'Packaging and transport requirements for patient samples – UN3373'.
+            
+            
+              26 March 2020
+              Added 'Packaging requirements for COVID-19 samples', and updated the sample packaging poster.
+            
+            
+              20 March 2020
+              Clarification on work to be conducted at CL3.
+            
+            
+              12 March 2020
+              Added Priority of SARS-CoV-2 (COVID-19) testing during periods of significant demand.
+            
+            
+              9 March 2020
+              Updated guidance 'COVID-19: safe handling and processing for samples in laboratories'.
+            
+            
+              2 March 2020
+              Added reference to MERS testing in the laboratory investigation page, and updated the 'how to arrange testing' page.
+            
+            
+              17 February 2020
+              Update to list of laboratories in the 'how to arrange laboratory testing' document.
+            
+            
+              17 February 2020
+              Updated list of laboratories in the 'how to arrange laboratory testing' document.
+            
+            
+              15 February 2020
+              Update to designated laboratories.
+            
+            
+              14 February 2020
+              Revisions to safe handling and processing for laboratories, and added video describing sample packaging.
+            
+            
+              11 February 2020
+              Updated guidance for laboratory investigations and sample requirements.
+            
+            
+              11 February 2020
+              Update to guidance on how to arrange testing.
+            
+            
+              9 February 2020
+              Updated information on packaging and transport of samples.
+            
+            
+              7 February 2020
+              Updated posters and text editions.
+            
+            
+              6 February 2020
+              Updated information on process for sending samples to PHE.
+            
+            
+              6 February 2020
+              Clarification to 'who to call to request testing'.
+            
+            
+              5 February 2020
+              Added clarification of sampling and packaging, with new and revised posters.
+            
+            
+              2 February 2020
+              Added information about biosafety levels.
+            
+            
+              2 February 2020
+              Update to risk assessment and point of care tests.
+            
+            
+              31 January 2020
+              Added laboratory specimen and packing requirements and poster.
+            
+            
+              27 January 2020
+              Added who to call to request laboratory testing document.
+            
+            
+              17 January 2020
+              Added 'Laboratory investigations and sample requirements' document and algorithm.
+            
+            
+              15 January 2020
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        V30 SARS-CoV-2 confirmatory testing sample referral form
+        COVID-19 (SARS-CoV-2): E53 sequencing request form
+        COVID-19 (SARS-CoV-2): E28 laboratory testing request form
+        COVID-19: guidance for taking swab samples
+        Respiratory virus unit (RVU): diagnostic services
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        COVID-19: guidance for health professionals
+        Coronavirus (COVID-19): guidance
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Infectious diseases
+        Testing for coronavirus (COVID-19)
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

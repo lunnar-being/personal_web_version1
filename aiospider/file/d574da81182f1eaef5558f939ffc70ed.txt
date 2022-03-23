@@ -1,0 +1,119 @@
+
+
+The RAND Blog
+Previous Blog PostCapitol Rioters Face FBI Arrests and Prosecution. How Not to Make Them Martyrs in the ProcessNext Blog PostHow America Can Help Re-Shape the Post-Soviet Countries
+
+Vaccine Patents Debate Risks Becoming a Sideshow in the Global Battle Against COVID-19
+commentary
+(The Hill)
+Photo by Dado Ruvic/Reuters
+
+
+
+by Krishna B. Kumar
+May 17, 2021
+
+
+As COVID-19 cases continue to surge around the world—in India, Brazil, Egypt, Turkey, Pakistan, and elsewhere—the debate is raging over whether patents on existing vaccines should be waived. India and South Africa filed a request (PDF) last October with the World Trade Organization (WTO) to temporarily suspend intellectual property rights related to COVID-19 vaccines, medicines, and technologies, and renewed their push earlier this month.
+Their request has been supported by more than 100 WTO member states. The U.S. administration has come out in support of the waiver, as have Pope Francis and the chief of the World Health Organization. European Union countries—most notably Germany and France, which led efforts last year to ensure global availability of vaccines—have argued against the waiver. So has the pharmaceutical industry. The WTO has waded into the debate cautiously, suggesting licensing agreements and partial sharing of knowledge.
+With battle lines drawn, both sides seem to overstate some of their arguments. Drug patents, including for vaccines, are awarded to pharmaceutical companies for a fixed period of time to allow them to earn monopoly profits in return for taking risks to invest in drug discovery. Those arguing in favor of patent waivers typically are doing so on the grounds of humanitarianism, equitable access, and the mutual benefits arising from widespread vaccination. But they also point out that profits have already accrued to pharmaceutical companies through government subsidies.
+
+Waiving patents is no panacea, nor is it apparent that patents are the major hurdle in getting the world vaccinated.Share on TwitterWaiving patents is no panacea, nor is it apparent that patents are the major hurdle in getting the world vaccinated. For instance, the Serum Institute of India is the world's largest vaccine-producing company and has a license to produce the AstraZeneca vaccine. But it says it can't ramp up production targets because India's export controls mean it's not making enough money to do so. The United States' export restrictions on critical parts, such as bags and filters, are another problem. Even where vaccines are available, distribution, scheduling, and dispensing have been anything but smooth.
+With or without patents, there does not seem to be enough vaccine-production capacity in the developing world. Even as China and Russia have rushed in to fill the gap, rich countries will have to step up production to share with the world.
+The opposing argument that patent waivers will undermine the entire system of drug innovation also seems overstated. Any waiver during the extraordinary time of a pandemic is unlikely to become the norm. Moreover, the risks to undertaking drug-discovery work were mitigated by large government subsidies (over $12 billion by the U.S. government alone), a guaranteed world market for years to come, and production in anticipation of success.
+Resolving the patent debate could be messy and time-consuming: The Boeing-Airbus WTO saga, in which the United States and the European Union are also on opposite sides, has dragged on for 16 years. But the need for vaccines is urgent. Existing and new variants can run rampant in an unvaccinated world, placing the recovery of even developed countries in danger. Unless the patent issue comes to a quick resolution, lobbying by vested interests and the lack of a clear path forward could result in nothing but political hand-wringing and government inaction.
+Instead, the global community could view patent waivers as just one of many available tools for speeding up vaccine delivery worldwide. For instance, buyouts of patents could be explored—something like an after-the-fact vaccine prize that might incentivize pharmaceutical companies to develop drugs to treat diseases such as malaria that mainly plague poor countries.
+The global community could view patent waivers as just one of many available tools for speeding up vaccine delivery worldwide.Share on TwitterFor now, afflicted countries have plenty on their plate. They can focus on enforcing public health measures, shoring up their health infrastructure, aiding hospitals, ramping up vaccine production under existing patenting laws, and effectively dispensing the vaccines available. Richer countries that are on the mend could explore increasing their own production and distribution of vaccines, donate unused vaccines, and provide technical and material assistance on issues such as appointment scheduling and logistics.
+Perhaps the patent debate will be resolved soon. Or a pharmaceutical company might step forward to sell its patent for costs incurred and earn brand recognition, customer loyalty, and the gratitude of humanity. But the world need not hold its collective breath. There is much to be done to improve supply chains, production, and distribution in the ongoing battle to defeat COVID-19.
+
+Krishna B. Kumar directs international research for the nonprofit, nonpartisan RAND Corporation, and the Pardee Initiative for Global Human progress at the Pardee RAND Graduate School. He has researched the effect of U.S. federal life sciences research funding on R&D funding by universities and their formation of alliances with biopharmaceutical firms.
+This commentary originally appeared on The Hill on May 16, 2021. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Krishna B. Kumar
+@kbkumar_
+Director, RAND International Research; Distinguished Chair in International Economic Policy; Senior Economist; Director, Initiative for Global Human Progress, Pardee RAND Graduate School
+
+
+
+
+
+
+Topics
+ Coronavirus Disease 2019 (COVID-19)
+Global Health
+Health Care Access
+Intellectual Property
+Pandemic
+Vaccination
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Commentary
+Needed: A Blueprint for a Post-Vaccine World
+
+May 11, 2020
+Krishna B. Kumar @kbkumar_, Mahshid Abir, et al.
+
+
+
+
+
+
+
+
+
+
+Commentary
+America Could Do More to Get the World Vaccinated
+
+May 4, 2021
+Krishna B. Kumar @kbkumar_
+
+
+
+
+
+
+
+
+
+
+Report
+COVID-19 and the cost of vaccine nationalism
+
+Oct 28, 2020
+Marco Hafner, Erez Yerushalmi, et al.
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:Commentary","Content Types:Blog","Research Topics:Health, Health Care, and Aging/Infectious Diseases/Coronavirus Disease 2019 (COVID-19)","Research Topics:International Affairs/Global Health","Research Topics:Law and Business/Law/Intellectual Property","Research Topics:Health, Health Care, and Aging/Health Care Access","Research Topics:Health, Health Care, and Aging/Preventive Health Care/Vaccination","Research Topics:Health, Health Care, and Aging/Infectious Diseases/Epidemic/Pandemic"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Commentary","value":"content-types:commentary"},{"display":"Blog","value":"content-types:blog"},{"display":"Coronavirus Disease 2019 (COVID-19)","value":"research-topics:health-health-care-and-aging/infectious-diseases/coronavirus-disease-2019-COVID-19"},{"display":"Global Health","value":"research-topics:international-affairs/global-health"},{"display":"Intellectual Property","value":"research-topics:law-and-business/law/intellectual-property"},{"display":"Health Care Access","value":"research-topics:health-health-care-and-aging/health-care-access"},{"display":"Vaccination","value":"research-topics:health-health-care-and-aging/preventive-health-care/vaccination"},{"display":"Pandemic","value":"research-topics:health-health-care-and-aging/infectious-diseases/epidemic/pandemic"}];})();
+

@@ -1,0 +1,363 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    The technology code of practice
+  
+
+  
+  
+  
+      
+  The technology code of practice is a set of criteria to help government design, build and buy technology.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      14 July 2021
+      Last updated
+      
+        10 November 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Spend controls
+
+        
+        
+          1. Define user needs
+
+        
+        
+          2. Make things accessible and inclusive
+
+        
+        
+          3. Be open and use open source
+
+        
+        
+          4. Make use of open standards
+
+        
+        
+          5. Use cloud first
+
+        
+        
+          6. Make things secure
+
+        
+        
+          7. Make privacy integral
+
+        
+        
+          8. Share, reuse and collaborate
+
+        
+        
+          9. Integrate and adapt technology
+
+        
+        
+          10. Make better use of data
+
+        
+        
+          11. Define your purchasing strategy
+
+        
+        
+          12. Make your technology sustainable
+
+        
+        
+          13. Meet the Service Standard
+
+        
+        
+          Contacts
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+The technology code of practice (TCoP) is a cross-government agreed standard used for the  Cabinet Office spend control process and the Local Digital Declaration.
+
+
+The Central Digital and Data Office (CDDO) is currently collecting feedback on the Technology Code of Practice. The aim is to improve the content and make sure it meets user needs. If you want to add your feedback, please complete this short survey.
+
+
+You should use the TCoP for all of your technology projects or programmes. Consider each point, align your project or programme with the mandatory points, and follow as many of the remaining points as is practical. You’ll get the most benefit by aligning your organisation’s technology and business strategies to the Technology Code of Practice.
+
+Each point contains guidance and links to case studies to help you migrate from legacy infrastructure and manage the full lifecycle of your technology.
+
+Spend controls
+
+Use the TCoP during the spend controls process
+
+You must consider all points of the TCoP as part of the Cabinet Office spend control process. If your project or programme needs spend control approval you should contact the Standards Assurance team at  gdsapprovals@digital.cabinet-office.gov.uk  for guidance with the approvals process.
+
+Where legacy technology limits your ability to adhere to the TCoP, you must explain this to the Standards Assurance team.
+
+1. Define user needs
+
+Understand your users and their needs. Develop knowledge of your users and what that means for your technology project or programme.
+
+Read more about TCoP point 1 - Define user needs.
+
+2. Make things accessible and inclusive
+
+Make sure your technology, infrastructure and systems are accessible and inclusive for all users.
+
+Read more about TCoP point 2 - Make things accessible.
+
+3. Be open and use open source
+
+Publish your code and use open source software to improve transparency, flexibility and accountability.
+
+Read more about TCoP point 3 - Be open and use open source.
+
+4. Make use of open standards
+
+Build technology that uses open standards to ensure your technology works and communicates with other technology, and can easily be upgraded and expanded.
+
+Read more about TCoP point 4 - Make use of open standards.
+
+5. Use cloud first
+
+Consider using public cloud solutions first as stated in the Cloud First policy.
+
+Read more about TCoP point 5 - Use cloud first.
+
+6. Make things secure
+
+Keep systems and data safe with the appropriate level of security.
+
+Read more about TCoP point 6 - Make things secure.
+
+7. Make privacy integral
+
+Make sure users rights are protected by integrating privacy as an essential part of your system.
+
+Read more about TCoP point 7 - Make privacy integral.
+
+8. Share, reuse and collaborate
+
+Avoid duplicating effort and unnecessary costs by collaborating across government and sharing and reusing technology, data, and services.
+
+Read more about TCoP point 8 - Share, reuse and collaborate.
+
+9. Integrate and adapt technology
+
+Your technology should work with existing technologies, processes and infrastructure in your organisation, and adapt to future demands.
+
+Read more about TCoP point 9 - Integrate and adapt technology.
+
+10. Make better use of data
+
+Use data more effectively by improving your technology, infrastructure and processes.
+
+Read more about TCoP point 10 - Make better use of data.
+
+11. Define your purchasing strategy
+
+Your purchasing strategy must show you’ve considered commercial and technology aspects, and contractual limitations.
+
+Read more about TCoP point 11 - Define your purchasing strategy.
+
+12. Make your technology sustainable
+
+Increase sustainability throughout the lifecycle of your technology.
+
+Read more about TCoP point 12 - Make your technology sustainable.
+
+13. Meet the Service Standard
+
+If you’re building a service as part of your technology project or programme you will also need to meet the  Service Standard
+
+Contacts
+
+Who to contact for help
+
+Standards Assurance team
+
+gdsapprovals@digital.cabinet-office.gov.uk
+
+You can email for help with:
+
+
+  implementing the Technology Code of Practice
+  designing an appropriate strategy for breaking up large systems and services
+  evaluating the maturity of the technology market you want to buy from
+  identifying opportunities to use common government platforms and components
+
+
+Crown Commercial Service
+
+info@crowncommercial.gov.uk
+
+You can email for help with buying commodity services through procurement frameworks.
+
+Technology Policy Team
+
+You can give feedback to the Technology Policy team or ask questions about the Technology Code of Practice at  technology-policy@digital.cabinet-office.gov.uk
+
+
+
+
+      
+        
+    Published 14 July 2021
+    Last updated 10 November 2021
+      + show all updates
+      
+        
+            
+              10 November 2021
+              Addition of a new point 12 - 'Make your technology sustainable'. Moved 'Meet the Service Standard' to point 13.
+            
+            
+              14 July 2021
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Government technology standards and guidance
+        How Hackney Council built an API Platform
+        Define user needs
+        Make things accessible and inclusive
+        Make better use of data
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

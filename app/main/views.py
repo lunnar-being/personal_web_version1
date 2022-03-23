@@ -1,27 +1,30 @@
 # -*- coding: utf-8 -*-
 
 """
-@author: Jin.Fish
+@author: caf
 @file: views.py
 @version: 1.0
-@time: 2021/04/25 15:58:12
-@contact: jinxy@pku.edu.cn
+@time: 2021/1/31 15:58:12
+@contact: chaf@pku.edu.cn
 
 views
 """
 import json
 import time
+import re
 from collections import Counter
 from datetime import datetime, timedelta
 
 from flask import (render_template, redirect, request, send_file, url_for, flash)
 from flask_login import login_required, current_user
-from sqlalchemy import desc, text, func
+from sqlalchemy import desc, text, func, or_, and_
+import shutil
 from app import db, logging, Config
 from app.models import PolicyText, User, Permissions, News, Event, Statistic, Collect
 from app.decorators import permission_required
 from app.main import main
-from util import get_md5_str, FileName, get_file, export_excel, export_excel2
+from config import Config
+from util import get_md5_str, FileName, get_file, export_excel, export_excel2, advanced_trans, Stack
 # from utils import export_excel2
 import os
 
@@ -66,10 +69,10 @@ def index():
         filter_args.append(PolicyText.topic_classification == doc_type)
 
     # 国家
-    # country = request.args.get('country', '全部国家', str)
-    # logger.info(f'received country: {country}')
-    # if country != '全部国家':
-    #     filter_args.append(PolicyText.nation == country)
+    country = request.args.get('country', '全部国家', str)
+    logger.info(f'received country: {country}')
+    if country != '全部国家':
+        filter_args.append(PolicyText.nation == country)
 
     # 机构
     # institute = request.args.get('institute', 'all', type=str)
@@ -111,28 +114,122 @@ def index():
     # print(field_list)
     filed_count = dict(Counter(field_list))
     filed_count['All'] = sum(filed_count.values())
-
+    type_list = PolicyText.query.with_entities(PolicyText.topic_classification).filter(
+        PolicyText.topic_classification != None)
+    type_list = [f[0] for f in type_list]
+    # print(field_list)
+    type_count = dict(Counter(type_list))
+    type_count['全部文档类型'] = sum(type_count.values())
     # country_list = PolicyText.query.with_entities(PolicyText.nation).filter(PolicyText.use, PolicyText.correct_field != None)
     # country_list = [c[0] for c in country_list]
     # country_list = list(set(country_list))
     # print(policy_text_list)
+    username = current_user.username
+    user = User.query.filter_by(username=username).first()
+    #处理收藏显示
+    favors = user.favor
+    favor_list = list(map(int,favors.split(',')))
+    favor_policy = []
+    policy_favor_dict = dict()
+    policies = [i.id for i in policy_text_list]
+    for p in policies:
+        policy_favor_dict[p] = 0
+    for f in favor_list:
+        policy_favor_dict[f] = 1
+    def inherit(policy,favor_flag):
+        policy.favor = favor_flag
+        return policy
+        # class Policy(policy):
+        #     def __init__(self,favor):
+        #         self.favor = favor
+        # policy_class = Policy()
+        # return policy_class(favor_flag)
+    policy_text_list2 = []
+    for policy in policy_text_list:
+        item = inherit(policy, policy_favor_dict[policy.id])
+        # print(item.favor)
+        policy_text_list2.append(item)
     return render_template('index.html',
-                           policy_text_list=policy_text_list,
+                           policy_text_list = policy_text_list2,
+                           # policy_text_nofavor=policy_text_nofavor,
+                           # policy_text_favor = favor_policy,
                            pagination=policy_text_pagination,
                            filter={'order': order, 'field': field, 'file_type': doc_type},
                            filed_count_dict=filed_count,
+                           type_count_dict=type_count,
+                           country_list = ["全部国家",'美国','英国',"日本","加拿大"]
                            )
 
+
+# 我的收藏
+@main.route('/', methods=['GET', 'POST'])
+@main.route('/my_favor.html', methods=['GET', 'POST'])
+@login_required
+@permission_required(Permissions.READ)
+def my_favor():
+    PER_PAGE = 10
+    page = request.args.get('page', 1, int)
+
+    filter_args = []
+    username = current_user.username
+    user = User.query.filter_by(username=username).first()
+    # 处理收藏显示
+    favors = user.favor
+    favor_list = list(map(int, favors.split(',')))
+    filter_args.append(PolicyText.id.in_(favor_list))
+    policy_text_pagination = PolicyText.query.filter(*filter_args).paginate(page=page,
+                                                                                per_page=PER_PAGE)
+
+    policy_text_list = policy_text_pagination.items
+    i=page*10+1-10
+    for policy_text in policy_text_list:
+        policy_text.id2 = i
+        i+=1
+        if not policy_text.recommend:
+            policy_text.recommend="0"
+        else:
+            policy_text.recommend = str(policy_text.recommend)
+        if policy_text.time:
+            policy_text.time = str(policy_text.time)[:-8]
+        if not policy_text.abstract:
+            policy_text.translated_abstract = '该政策无摘要'
+    favor_policy = []
+    policy_favor_dict = dict()
+    policies = [i.id for i in policy_text_list]
+    for p in policies:
+        policy_favor_dict[p] = 0
+    for f in favor_list:
+        policy_favor_dict[f] = 1
+    def inherit(policy,favor_flag):
+        policy.favor = favor_flag
+        return policy
+        # class Policy(policy):
+        #     def __init__(self,favor):
+        #         self.favor = favor
+        # policy_class = Policy()
+        # return policy_class(favor_flag)
+    policy_text_list2 = []
+    for policy in policy_text_list:
+        item = inherit(policy, policy_favor_dict[policy.id])
+        if item.favor:
+            policy_text_list2.append(item)
+    return render_template('my_favor.html',
+                           policy_text_list = policy_text_list2,
+                           # policy_text_nofavor=policy_text_nofavor,
+                           # policy_text_favor = favor_policy,
+                           pagination=policy_text_pagination
+                           )
 
 # 文章详情页面
 @main.route('/article.html', methods=['GET', 'POST'])
 @login_required
 @permission_required(Permissions.READ)
 def article():
-    policy_text_id = int(request.args.get('id'))
+    policy_text_id = int(request.args.get('id', '', str))
     policy_text = PolicyText.query.get(policy_text_id)  # type: PolicyText
     # keywords = [', '.join(eval(i.keywords)) for i in policy_text]
-    policy_text.keywords = ', '.join(eval(policy_text.keywords))
+    if policy_text.keywords:
+        policy_text.keywords = ', '.join(eval(policy_text.keywords))
     original_file = PolicyText.query.get(policy_text.original_file)  # type: File
     format_file = PolicyText.query.get(policy_text.format_file)  # type: File
     trans_file = PolicyText.query.get(policy_text.translated_file) if policy_text.translated_file else None
@@ -146,18 +243,58 @@ def article():
 
 
 # 检索结果
-@main.route('/search.html', methods=['GET'])
+@main.route('/search.html', methods=['GET','POST'])
 @login_required
 @permission_required(Permissions.READ)
 def search():
+    i=0
+    query_list = []
+    type_list = []
+    bool_list = []
+    args = dict(request.args)
+    keys = args.keys()
+    for i in keys:
+        if i.startswith("query-type"):
+            type_list.append(args[i])
+        elif i.startswith("query-bool"):
+            bool_list.append(args[i])
+        elif i.startswith("query"):
+            query_list.append(args[i])
+    box_num = len(query_list)
+    print(query_list)
+    print(bool_list)
+    #获取所有的检索词和布尔逻辑符等
+    # while True:
+    #     if i>0:
+    #         try:
+    #             query = request.args.get('query-' + str(i))
+    #             if not query:
+    #                break
+    #             query_list.append(query)
+    #             type_list.append(request.args.get('query-type-' + str(i)))
+    #             bool_list.append(request.args.get('query-bool-' + str(i)))
+    #             i += 1
+    #         except:
+    #             break
+    #     else:
+    #         query_list.append(request.args.get('query'))
+    #         type_list.append(request.args.get('query-type'))
+    #         # bool_list.append(request.args.get('query-bool'))
+    #         i += 1
+    # box_num = i
     PER_PAGE = 10
     logger = logging.getLogger('search')
     page = request.args.get('page', 1, int)
-    filter_args = []
-
+    filter_args = [PolicyText.id==000]
+    policy_text_pagination = None
+    policy_text_pagination = PolicyText.query.filter(*filter_args).paginate(
+        page=page,
+        per_page=PER_PAGE)
+    filter_args=[]
     # 排序
     order = request.args.get('order', 'rank', str)
     logger.info(f'received order: {order}')
+
     if order == 'rank':  # handle order
         rank_entity = PolicyText.score
     elif order == 'star':
@@ -166,41 +303,115 @@ def search():
         rank_entity = PolicyText.time
 
     # 检索类型
-    query_type = request.args.get('query-type')
-    logger.info(f'received query type: {query_type}')
+
+    logger.info(f'received query type: {type_list}')
 
     # 检索词
-    query_word = request.args.get('query')
-    logger.info(f'received query word: {query_word}')
+    # query_word = request.args.get('query')
+    logger.info(f'received query word: {query_list}')
     # if query_type == 'abstract':
     #     filter_args.append(PolicyText.translated_abstract.match(query_word))
     # elif query_type == 'keyword':
     #     filter_args.append(PolicyText.translated_keywords.match(query_word))
     # else:
     #     filter_args.append(PolicyText.title.match(query_word))
-    if query_type == 'abstract':
-        filter_args.append(PolicyText.translated_abstract.like(f"%{query_word}%"))
-    elif query_type == 'keyword':
-        filter_args.append(PolicyText.translated_keywords.like(f"%{query_word}%"))
-    else:
-        filter_args.append(PolicyText.translated_title.like(f"%{query_word}%"))
-
     # 筛选
     # query_country = request.args.get('country', '全部国家', str)
     # logger.info(f'received query country: {query_country}')
     # if query_country != '全部国家':
     #     filter_args.append(PolicyText.nation == query_country)
-
+    #分类的筛选条件
     query_field = request.args.get('field', '全部分类', str)
     logger.info(f'received query field: {query_field}')
     if query_field != '全部分类':
         # filter_args.append(func.json_contains(PolicyText.norm_field, f'"{query_field}"') == 1)
         filter_args.append(PolicyText.field_main == query_field)
 
-    policy_text_pagination = PolicyText.query.filter(*filter_args).order_by(desc(rank_entity)).paginate(page=page,
-                                                                                                  per_page=PER_PAGE)
+    def construct_query(x, query_type):
+        filter_args_temp = filter_args.copy()
+        if query_type == '摘要':
+            filter_args_temp.append(PolicyText.translated_abstract.like(f"%{x}%"))
+            policy_text_filter = PolicyText.query.filter(*filter_args_temp)
+            items = policy_text_filter.all()
+            ids = [i.id for i in items]
+            return set(ids)
 
-    policy_text_list = policy_text_pagination.items
+        elif query_type == '关键词':
+            filter_args_temp.append(PolicyText.translated_keywords.like(f"%{x}%"))
+            policy_text_filter = PolicyText.query.filter(*filter_args_temp)
+            items = policy_text_filter.all()
+            ids = [i.id for i in items]
+            return set(ids)
+        else:
+            filter_args_temp.append(PolicyText.translated_title.like(f"%{x}%"))
+            policy_text_filter = PolicyText.query.filter(*filter_args_temp)
+            items = policy_text_filter.all()
+            ids = [i.id for i in items]
+            return set(ids)
+    # def polishcal(i):
+    #     ope = ['+', '-', '*']
+    #     s = advanced_trans(i).split()
+    #     stack = Stack()
+    #     for x in s:
+    #         if (x in ope) == False:
+    #             a = construct_query(x,query_type)
+    #             stack.push(a)
+    #         elif x == "+":
+    #             a = stack.pop()
+    #             b = stack.pop()
+    #             stack.push(a | b)
+    #         elif x == "-":
+    #             a = stack.pop()
+    #             b = stack.pop()
+    #             stack.push(b - a)
+    #         elif x == "*":
+    #             a = stack.pop()
+    #             b = stack.pop()
+    #             stack.push(a & b)
+    #
+    #     return list(stack.peek())
+    policy_text_list = []
+
+    if query_list:
+        # if 'NOT' in query_word or "AND" in query_word or "OR" in query_word:
+        if box_num>1:
+            filter_args = []
+            ids_list = []
+            for i in range(box_num):
+                # ids = polishcal(query_word)
+                ids = construct_query(query_list[i],query_type=type_list[i])
+                ids_list.append(ids)
+            ids_list_reverse = ids_list
+            i = 0 #循环bool检索逻辑符
+            while len(ids_list_reverse) > 1:
+                ids1 = ids_list_reverse.pop()
+                ids2 = ids_list_reverse.pop()
+                if bool_list[i] == 'AND':
+                    ids_list_reverse.append(ids1 & ids2)
+                elif bool_list[i] == 'OR':
+                    ids_list_reverse.append(ids1 | ids2)
+                elif bool_list[i] == 'NOT':
+                    ids_list_reverse.append(ids2 - ids1)
+            ids_final = ids_list_reverse[0]
+            ids = ids_final
+            policy_text_pagination = PolicyText.query.filter(PolicyText.id.in_(ids)).order_by(desc(rank_entity)).paginate(
+                page=page,
+                per_page=PER_PAGE)
+            policy_text_list = policy_text_pagination.items
+        elif box_num<=1:
+            query_word = query_list[0]
+            if type_list[0] == '摘要':
+                filter_args.append(PolicyText.translated_abstract.like(f"%{query_word}%"))
+            elif type_list[0] == '关键词':
+                filter_args.append(PolicyText.translated_keywords.like(f"%{query_word}%"))
+            else:
+                filter_args.append(PolicyText.translated_title.like(f"%{query_word}%"))
+            policy_text_pagination = PolicyText.query.filter(*filter_args).order_by(desc(rank_entity)).paginate(
+                page=page,
+                per_page=PER_PAGE)
+            policy_text_list = policy_text_pagination.items
+    # print(policy_text_list)
+
     i = page * 10 + 1 - 10
     for policy_text in policy_text_list:
         policy_text.id2 = i
@@ -217,16 +428,35 @@ def search():
     # country_list = PolicyText.query.with_entities().filter(PolicyText.field_main != None)
     # country_list = [c[0] for c in country_list]
     # country_list = ['全部国家'] + list(set(country_list))
+    filter = dict()
+    if query_list:
+        filter['query'] = query_list[0]
+        filter['query-type'] = type_list[0]
+    if box_num>1:
+        for i in range(1,box_num):
+            filter['query-'+str(i)] = query_list[i]
+            filter['query-type-'+str(i)] = type_list[i]
+            if i<=box_num-1:
+                filter['query-bool-'+str(i)] = bool_list[i-1]
+    # print(filter)
+    query_word = ""
 
+    if query_list:
+        query_word = query_list[0]
     return render_template('search.html',
                            query_word=query_word,
-                           query_type=query_type,
+                           query_type=type_list,
                            # query_country=query_country,
                            query_field=query_field,
                            order=order,
-                           filter={'query': query_word, 'query-type': query_type},
+                           filter=filter,
                            pagination=policy_text_pagination,
                            policy_text_list=policy_text_list,
+                           query_list = query_list,
+                           box_num = box_num,
+                           query_boolean = bool_list,
+                           query_types = type_list,
+                           query_length = [i+1 for i in range(box_num-1)]
                            )
 
 
@@ -272,7 +502,7 @@ def collect():
     record = Collect.query.filter_by(id=9).first()
     # print(record.name)
     # record = Collect.query.get(collect.name)
-    print(record.new_title)
+    # print(record.new_title)
     time_select, day_select = record.new_title.split()
 
     sql = 'SELECT * FROM collect WHERE id < 9;'
@@ -426,6 +656,24 @@ def events():
 
 
 # 新闻时间线
+import pymysql
+
+@main.route('/search_topic',methods = ['POST','GET'])
+@login_required
+@permission_required(Permissions.READ)
+def search_topic():
+    query = request.args.get('query', '', str)
+    logger.info(f'received query word: {query}')
+    # query = request.form['input_search_topic']
+    conn = pymysql.connect(host='81.70.102.186', user='root', password='YDH@henniu123', db='spider', charset='utf8')
+    cur = conn.cursor()
+    sql = "SELECT `id`,`object`, `trigger`, `subject`, `normal_time`,`organization`,`policy`,`translated_content`,`organization_class`,`policy_class` FROM news WHERE object LIKE '%" + query + "%' OR subject LIKE '%" + query + "%' OR translated_content LIKE '%" + query + "%' ORDER BY `normal_time` desc"
+    cur.execute(sql)
+    result = cur.fetchall()
+    conn.close()
+    return(render_template('timeline2.html',result = result))
+
+
 @main.route('/timeline.html', methods=['GET'])
 @login_required
 @permission_required(Permissions.READ)
@@ -437,27 +685,20 @@ def timeline():
     # 检索词
     query_word = request.args.get('query', '', str)
     logger.info(f'received query word: {query_word}')
-
-    if query_word:
-        news_pagination = News.query.filter(News.time != None, News.translated_title.like('%' + query_word + '%'))\
-                .order_by(desc('time')).paginate(page=page, per_page=PER_PAGE)
+    import pymysql
+    query = query_word
+    conn = pymysql.connect(host='81.70.102.186', user='root', password='YDH@henniu123', db='spider', charset='utf8')
+    cur = conn.cursor()
+    sql = "SELECT `id`,`object`, `trigger`, `subject`, `normal_time`,`organization`,`policy`,`translated_content`,`organization_class`,`policy_class` FROM news WHERE object LIKE '%" + query + "%' OR subject LIKE '%" + query + "%' OR translated_content LIKE '%" + query + "%' ORDER BY `normal_time` desc"
+    if query:
+        cur.execute(sql)
+        result = cur.fetchall()
+        conn.close()
     else:
-        news_pagination = News.query.filter_by(id=-1).paginate(page=page, per_page=PER_PAGE)
-
-
-    news_list2 = news_pagination.items
-    news_list_2 = [news.translated_title for news in news_list2]
-    dic = dict()
-    for new in news_list2:
-        dic[new.translated_title] = new.time
-    for news in dic.keys():
-        # news.time = news.time.strftime('%Y-%m-%d')
-        dic[news] = dic[news].strftime('%Y-%m-%d')
-    news_list = dic
-    return render_template('timeline.html',
+        result = []
+    return render_template('timeline2.html',
                            query_word=query_word,
-                           pagination=news_pagination,
-                           news_list=news_list,
+                           result = result,
                            filter={'query' : query_word})
 
 #默认的显示数量
@@ -585,8 +826,35 @@ def china_topic():
     # country_list = [c[0] for c in country_list]
     # country_list = list(set(country_list))
     # print(policy_text_list)
+    username = current_user.username
+    user = User.query.filter_by(username=username).first()
+    # 处理收藏显示
+    favors = user.favor
+    favor_list = list(map(int, favors.split(',')))
+    favor_policy = []
+    policy_favor_dict = dict()
+    policies = [i.id for i in policy_text_list]
+    for p in policies:
+        policy_favor_dict[p] = 0
+    for f in favor_list:
+        policy_favor_dict[f] = 1
+
+    def inherit(policy, favor_flag):
+        policy.favor = favor_flag
+        return policy
+        # class Policy(policy):
+        #     def __init__(self,favor):
+        #         self.favor = favor
+        # policy_class = Policy()
+        # return policy_class(favor_flag)
+
+    policy_text_list2 = []
+    for policy in policy_text_list:
+        item = inherit(policy, policy_favor_dict[policy.id])
+        # print(item.favor)
+        policy_text_list2.append(item)
     return render_template('china_topic.html',
-                           policy_text_list=policy_text_list,
+                           policy_text_list=policy_text_list2,
                            pagination=policy_text_pagination,
                            filter={'order': order, 'field': field},
                            filed_count_dict=filed_count,
@@ -607,6 +875,7 @@ def tech_keywords():
 
 # --------------------------------以下是api-------------------------------- #
 # todo 迁移到api的blueprint
+
 @main.route('/aip_monitor_entity', methods=['POST'])
 @login_required
 def get_AIPentity_num():
@@ -633,6 +902,7 @@ def get_AIPins_num():
         return json.dumps({'status':"ok"}), 200
     else:
         return "wrong number"
+
 
 @main.route('/aip_monitor_link', methods=['POST'])
 @login_required
@@ -746,7 +1016,41 @@ def select_time():
     db.session.commit()
     return 'ok'
 
+#收藏功能
+@main.route('/favor_operate', methods=['POST'])
+@login_required
+def favor_operate():
+    favor = request.form.get('favor')
+    id = request.form.get('id')
+    if id[0] == 'n':
+        id = id[15:]
+    elif id[0] == 'f':
+        id = id[11:]
+    else:
+        return "error"
+    # print(id)
+    username = current_user.username
+    user = User.query.filter_by(username=username).first()
+    # 处理收藏显示
+    favors = user.favor
+    favor_list = list(map(int, favors.split(',')))
+    favor_list = list(set(favor_list))
+    print(favor)
+    if favor=='1':
+        favor_list.append(id)
+    else:
+        # try:
+        index = favor_list.index(int(id))
+        # print(index)
+        favor_list.pop(index)
+        # except:
+        #     pass
+    user.favor = ",".join(map(str, favor_list))
+    db.session.commit()
+    return 'ok',200
 
+
+#打分功能
 @main.route('/rate_star', methods=['POST'])
 @login_required
 def rate_star():
@@ -809,7 +1113,7 @@ def get_analysis_data():
                         break
             res2.append(fields_num)
         total_num = [sum(i) for i in res2]
-        print(len(total_num))
+        # print(len(total_num))
         fields_res = [[i[j] for i in res2] for j in range(10)]
         result = [fields, fields_res, total_num]
 
@@ -817,9 +1121,9 @@ def get_analysis_data():
         sql = 'SELECT count(*),YEAR(time), MONTH(time) as m FROM t1 WHERE (`CHN` > 0 AND YEAR(time) > 2019 AND YEAR(time) < 2022) GROUP BY YEAR(time), MONTH(time)  ;'
         res = db.session.execute(sql)
         res = [list(row) for row in list(res)]
-        print(res)
+        # print(res)
         res.sort(key = lambda x:(x[1],x[2]))
-        print(res)
+        # print(res)
         num = [i[0] for i in res]
         time = ['.'.join([str(i[1]),str(i[2])]) for i in res]
         result = [num,time]
@@ -841,8 +1145,8 @@ def get_analysis_data():
             if sum(insti_num[i])>=3:
                 institutions_mt2.append(institutions[i])
                 institute_num_res.append(insti_num[i])
-        print(institutions_mt2)
-        print(institute_num_res)
+        # print(institutions_mt2)
+        # print(institute_num_res)
         result = [institutions_mt2, institute_num_res]
     elif chart == 'china-keyword-cloud':
         sql = 'SELECT translated_keywords FROM t1 WHERE `CHN` > 0;'
@@ -864,7 +1168,7 @@ def get_analysis_data():
             row = [keywords]
             result_processed.append(row)
         result = result_processed
-    elif chart == 'china-keyword-tree':
+    elif chart == 'china-keyword-pie':
         sql = 'SELECT keywords, YEAR(time) FROM t1 WHERE `CHN` > 0;'
         result = db.session.execute(sql)
         result = [list(row) for row in list(result) if row.keywords]
@@ -879,24 +1183,26 @@ def get_analysis_data():
             else:
                 years_num[1] += keywords
 
-        res2020 = keywords_number(years_num[0],6)
-        res2021 = keywords_number(years_num[1],6)
-
-        result = {
-            'name':'涉华政策关键词',
-            'children':
-                [
-                    {
-                        'name': '2020',
-                        'children': res2020
-                },
-                    {
-                        'name': '2021',
-                        'children': res2021
-                    }
-                ]
-
-        }
+        res2020 = keywords_number(years_num[0],10)
+        res2021 = keywords_number(years_num[1],10)
+        # res2020 = [i for i in result if i[0]==2020]
+        # res2021 = [i for i in result if i[0] == 2021]
+        result = [res2020,res2021]
+        # result = {
+        #     'name':'涉华政策关键词',
+        #     'children':
+        #         [
+        #             {
+        #                 'name': '2020',
+        #                 'children': res2020
+        #         },
+        #             {
+        #                 'name': '2021',
+        #                 'children': res2021
+        #             }
+        #         ]
+        #
+        # }
     elif chart == 'state-message-tree':
         with open(r"E:\research\technology\app\static\monitor\state_message.txt") as f:
             keywords = eval(f.read())
@@ -908,7 +1214,7 @@ def get_analysis_data():
             for j in i:
                 k.append({'name':j,'value':1})
             keywords2.append(k[:4])
-        print(keywords2)
+        # print(keywords2)
         result = {
             'name':'国情咨文关键词',
             'children':
@@ -1085,3 +1391,68 @@ def add_one_policy():
     db.session.add(p)
     db.session.commit()
     return '上传成功', 200
+
+import xlrd
+@main.route('/add_batch_policy', methods=['POST'])
+@login_required
+def add_batch_policy():
+    zip_path = Config.BASE_DIR
+    logger.info(f"add_batch_policy called")
+    logger.debug(f"received form: {request.form}")
+
+    # receive data (handle file)
+    print(request.files)
+    uploaded_file = request.files.get('excel_file')
+    zip_file = request.files.get("zip_file")
+    logger.debug(f"received file: {uploaded_file}")
+    # check file validation
+    if uploaded_file.mimetype == 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet':
+        extension = 'excel'
+    else:
+        return '错误的文件格式', 200
+
+    if zip_file.mimetype == 'application/x-zip-compressed':
+        extension2 = 'zip'
+    else:
+        return '错误的文件格式', 200
+    import zipfile
+    target_path_zip = os.path.join(zip_path, r'aiospider\file')
+    file_like_obj = zip_file.stream._file
+    zipfile_ob = zipfile.ZipFile(file_like_obj)
+    file_names = zipfile_ob.namelist()
+    for fname in file_names:
+        file_path = os.path.join(target_path_zip,fname)
+        print(file_path)
+        with open(file_path,'wb') as f2:
+            f2.write(zipfile_ob.open(fname).read())
+        f2.close()
+    f = uploaded_file.read()
+    data = xlrd.open_workbook(file_contents=f)
+    table = data.sheets()[0]
+    names = data.sheet_names()  # 返回book中所有工作表的名字
+    status = data.sheet_loaded(names[0])  # 检查sheet1是否导入完毕
+    nrows = table.nrows  # 获取该sheet中的有效行数
+    ncols = table.ncols  # 获取该sheet中的有效列数
+    s = table.col_values(0)
+    policy_list = []
+    for i in range(1,nrows):
+        columns = table.row_values(i)
+        p = {"title":columns[0],
+                       "translated_title":columns[1],
+                       "nation":columns[2],
+                       "source_url":columns[3],
+                       "field_main":columns[4],
+                       "topic_classification":columns[5],
+                       "institution":columns[6],
+                       "time":columns[7],
+                       "keywords":columns[8],
+                       "abstract":columns[9],
+                       "original_file":columns[10]}
+        policy_list.append(p)
+    db.session.execute(
+        PolicyText.__table__.insert(policy_list)
+    )
+    db.session.commit()
+    return '上传成功', 200
+
+

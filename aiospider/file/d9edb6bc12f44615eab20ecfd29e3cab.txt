@@ -1,0 +1,116 @@
+
+        
+        
+        
+    More than a decade ago, virtual health was celebrated as a game changer in the healthcare industry. But while the technology made virtual health possible, providers, payers, and consumers have been slower to adopt than was anticipated. As discussed in 
+
+
+ COVID-19 has pushed providers, patients, and payers
+
+
+ over the tipping point into widespread adoption beyond traditional applications.Our virtual health definitions are across three categories—telehealth, digital therapeutics, and care navigation (Exhibit 1).
+    
+
+        
+
+
+    
+    During the pandemic, adult primary care and behavioral health showed smaller declines in total visits than surgical/procedural specialties.
+
+
+ These smaller declines may reflect the fact that more primary care and behavioral health visits can be accomplished by evaluation and management only
+
+
+ than those in the surgical specialties. These differences in specialties suggest an opportunity to continue to open the aperture to other virtual health technologies, such as remote monitoring, which could allow both primary care and specialty care practices to expand their virtual patient interactions. Prior to COVID-19, a 2019 McKinsey survey
+
+
+ of health system leaders revealed that virtual health adoption was highly concentrated in synchronous telemedicine, with limited investment in the full suite of available virtual health technologies shown in Exhibit 2. Leaders cited remote monitoring as a key area for future investment.
+    
+Given the pace and magnitude of current disruptions to care delivery, forward-looking health systems could consider using the next six months to materially scale broader virtual health offerings to create real competitive advantage.Actions providers can consider to improve access and value through virtual healthOpportunity exists for health systems to enhance their value proposition for consumers in a way that creates new interactions or loyalty. Additionally, providers may build new capabilities that could lead to success in risk-based reimbursement models. Prior to the COVID-19 pandemic, one study found that health systems, under value-based care arrangements, demonstrated 17 percent savings when they provided virtual care with their existing healthcare professionals instead of using an outsourced provider.
+
+
+ On the acute care side, an opportunity may also exist to promote efficiency through models like tele-ICU and change-capacity use through “hospital at home” (HaH) models. How health systems think about these value drivers and strategies will likely depend on their market position, provider/specialty capacity, and growth objectives.
+		
+	
+A critical channel for health system volume and recoveryVirtual health may create both threats and opportunities for providers in their local markets, as new entrants offer additional virtual access for consumers, and providers look to quickly resume care as part of their clinical and financial COVID-19 recovery strategies. Virtual health adoption can create opportunities for a variety of providers to attract patients with new service offerings and connections to perceived higher-quality providers. Leaders in the industry have already made strategic investments based on this calculation, with some large providers offering virtual specialty care consults across geographies traditionally covered by other providers. Enabling virtual/cross-geography models of care could also become increasingly attractive to payers if it enables members to access lower-cost settings of care and/or lower-cost providers of equivalent quality.In other examples, providers are partnering to create new access, such as in rural markets, that benefits the local patients and local hospitals by extending services. Examples of health system strategic moves include:
+
+
+
+    A regional health system that provides virtual specialist visits and tele-ICU coverage in partnership with local rural health systems to extend access to services
+    A regional health system that partners with a third-party provider of virtual primary care to extend its primary care capacity and creates linkages to its specialty practices
+    An academic medical center (AMC) that provides virtual specialty care that consumers access directly from different geographies, with some consumers choosing to travel for care
+    A regional health system that provides primary and specialty care through physical and virtual applications, and partners with an AMC to access virtual sub-specialty care
+Answering the physician and capital productivity imperativeIncreasingly, care is being shifted to non-traditional care settings. As discussed in McKinsey’s perspective on ,
+
+
+ institutional investment in lower-cost, alternative settings of care (for example, ambulatory surgery centers) is expected to continue. Investment will likely focus on areas that can deliver more convenient, lower-cost services for an aging population (for example, orthopedics, gastroenterology, cardiovascular, oncology). Health systems also are moving to reimagine capital investments. In the 2019 McKinsey survey of more than 60 health system executives, one-third of respondents indicated they planned to decrease capital investments as a result of the shift to virtual health.
+
+
+ As the following analysis shows, an opportunity also exists to use the capacity that virtual care releases to address higher acuity needs, which could be particularly important for capacity-constrained systems.Virtually enabled models also have implications for acute care capacity. For example, the HaH model is ripe for virtual disruption—especially for elderly patients who are vulnerable to healthcare-associated infections and other complications of inpatient care. According to the Commonwealth Fund, HaH has been well-established in countries such as the United Kingdom, Canada, and Israel, where payment structures incentivize lower-cost settings of care. In Victoria, Australia, approximately 6 percent of all hospital days are provided in a HaH setting and 60 percent of all patients with deep vein thrombosis were treated at home.
+
+
+Several similar programs in the United States have demonstrated savings of 30 percent or more per admission by providing acute care at home through in-person provider visits.
+
+
+ There are indications that telemedicine-based care delivery can yield similar results. In one HaH study involving 50 patients in Illinois, replacing in-person physician visits with two-way biometrically enhanced televideo visits yielded similar experience, quality, and safety results.
+
+
+ While providers may continue to face HaH reimbursement challenges, a clear opportunity exists to potentially improve both capital and physician productivity with virtual health. It may be one lever to support physician adoption and engagement in the home setting, which can be another core barrier limiting broader scale.
+
+
+Virtual options can also allow physician groups and health systems to more optimally allocate provider time. For example, physician schedules can be adapted to utilize unfilled time for virtual coverage, and exam space can be freed up for procedures. Tele-ICU models also allow intensivist capacity to be leveraged over a larger patient population and/or set of facilities in a way that can also enhance outcomes.
+
+	
+
+
+
+
+    
+    
+
+Addressing the needs of older patients and those with chronic diseaseIn addition to serving the needs of a broader consumer base, virtual health can provide an opportunity to improve care and healthcare value for chronic disease patients in a way that could also position health systems to succeed in risk-based reimbursement models. In a February 2020 McKinsey consumer survey, 48 percent of respondents 50 years of age and older said they would be likely
+
+
+ to seek virtual channels of care in addition to or in place of physical visits.
+
+
+ They cited convenience of accessing healthcare from home (including the ability to avoid the commute and time away from work or family) and easier access to a doctor (including shorter wait times and the ability to access care during off hours) as their primary drivers.
+
+
+ Bringing care closer to the patient through the use of virtual health technologies may be critical to capturing growth opportunities as consumers demand more integrated and accessible care solutions.In addition, chronic care management (including mental health conditions) represents 90 percent of total healthcare spending in the United States and typically involves resource-intensive support along the continuum of care.
+
+
+ As described in McKinsey’s perspective on ,
+
+
+ providers may want to rethink how they care for this key patient segment. Virtual health could be one critical element to address the following projections:
+     About half of all US adults have at least one chronic disease, and prevalence is rising in the Commercially insured population.
+
+
+
+
+
+ Patients between ages 45 and 64 have 1.8 times the prevalence of chronic disease as do those ages 20 to 44.
+
+
+
+     Healthcare utilization is more than twice as high among chronic disease patients as among those without chronic disease; inpatient utilization is as much as four-fold higher.
+
+
+ Chronic conditions compound the stress on patients to attend frequent appointments, undergo regular diagnostics, and maintain complex medication regimens. In an observable study of a population of around 650 seniors, 38 percent of in-person acute care visits were considered amenable to a virtual care platform.
+
+
+
+     The National Center for Health Statistics Research reports that rural areas have a higher prevalence of chronic disease and related mortality.
+
+
+ Additionally, access to care is threatened by the closure of more than 100 rural hospitals over the last ten years.
+
+
+
+Preparing for the tipping pointAs pressure grows to push automation, boost quality of care, and decrease spending—especially in light of changing macroeconomic conditions—more healthcare stakeholders may push for virtual health platforms and find consistent success. As part of a broader strategic investment in virtual health, health systems could consider the following dimensions:Growth strategyConsider strategies and rationale to go beyond “telehealth”/clinic visit replacement to drive growth in new markets/populations, scale other applications (for example, tele-ICU, post-acute care integration).Revisit service distribution/configuration and capital planning to integrate changes in needs for physical sites of care.
+		
+	
+Innovation and cost structureSegment the patient populations (for example, specific chronic disease) and specialties whose remote interactions could be scaled with enabling home-based diagnostics and equipment.Reimagine more sites of care with a “virtual first” mind-set and accelerate sites of care experimentation (for example, HaH enabled by remote monitoring). This model of care can inform a new digitally driven capital plan and service delivery models that could achieve significant reductions to current cost structure.Embed virtual care settings within ambulatory and acute workflows (for example, scheduling, rounding, billing) to ensure a seamless experience for providers; drive scaling decisions based on quantified quality, experience, efficiency, and financial measures, as compared with baseline measures for a physical encounter.Consumer experience and outcomes
+	
+Accelerate development of an overall consumer-focused digital “front door” that provides patients with a seamless digital channel to access their providers, considering what the integrated product will cover beyond what currently exists (for example, finding a doctor, record access, scheduling in-person visits) and integrated with what may have been put in place in response to COVID-19 (for example, e-triage, scheduling virtual visits, virtual clinic visits).Measure the value of this “front door” by quantifying clinical outcomes; access improvement and patient/provider satisfaction to drive advocacy and contracting for continued expanded coverage.Physician alignmentBuild the capabilities and incentives of the provider workforce to support virtual care (for example, workflow design, continuing education and graduate medical education); align benefit structure to drive adoption in line with health system and/or physician practice economics.Technology infrastructureTake stock of virtual applications, interoperability with systems of engagement (for example, electronic health record, revenue cycle, digital front door) and supporting infrastructure. Define approach to move from COVID-19 rapid solutions to a sustainable, secure, integrated virtual health platform.The COVID-19 pandemic is pushing against many of the structural barriers that had previously slowed health system investment in integrated virtual health applications, including funding mechanisms, consumer adoption, and provider adoption. Healthcare stakeholders may want to create additional buy-in for virtual health platforms in an effort to boost the quality of care and increase efficiency. While providers are juggling a host of challenges around COVID-19 and a “return” to normal operations, virtual health may provide a useful framework for creating the next normal.

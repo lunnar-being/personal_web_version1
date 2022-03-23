@@ -1,0 +1,364 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Change and release manager
+  
+
+  
+  
+  
+      
+  Find out what a change and release manager does and the skills you need to do the job.
+
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      7 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of change and release manager
+
+        
+        
+          Configuration analyst
+
+        
+        
+          Change and release analyst
+
+        
+        
+          Change and release manager
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This describes the role of a change and release manager and the skills required, including:
+
+
+  an introduction to the role, telling you what you would do in this role and the full list of skills
+  a description of the levels in this role, from configuration analyst to change and release manager, specifying the skills you need for each level and the corresponding skill level (awareness, working, practitioner, expert)
+
+
+This role is part of the Digital, Data and Technology Profession in the Civil Service.
+
+Introduction to the role of change and release manager
+
+Change and release managers lead the change advisory board, ensuring adequate risk assessment and scheduling of technical changes and releases. In this role, you also own the configuration management database and the access, security, configuration of change activities and release procedures.
+
+Skills required to be a change and release manager
+
+You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.
+
+
+  
+Asset and configuration management. You know how to conduct life-cycle management for assets including hardware, software, intellectual property, licences and warranties. You know how to manage usage, disposal, compliance, inventory, sustainability, cost optimisation and protection of the asset portfolio. You can help to improve investment decisions and capitalise on opportunities. You know how to comply with international standards for asset management. You document information relating to assets including identification, classification and specification of all items, and information related to storage, access, versions, etc. You can apply status accounting and auditing in line with relevant criteria.
+  
+Availability and capacity management. You can define, analyse, plan, forecast, measure, maintain and improve all aspects of the availability of services, including power. You know how to control and manage service availability to meet the needs of the business in a cost-effective manner, including managing the capability, functionality and sustainability of service components (including hardware, software, network resources and software/infrastructure as a service).
+  
+Change management. You can manage changes to service, configuration items, organisational change, supplier change and associated documentation. You know how to request changes in response to incidents or problems that provide effective control and reduction of risk to the security performance and availability. You can ensure compliance of the business services impacted by the change. You understand policy, principles and approach. You can apply your understanding and knowledge in project or programme activities and can develop experience in the use of relevant change management tools and processes.
+  
+Community collaboration. You can contribute to the work of the community, building successful teams through understanding team styles and influencing as well as motivating team members. You know how to give and receive constructive feedback, facilitating the feedback loop. You can facilitate conflict resolution within teams, ensure the team is transparent and that the work is understood externally. You can help teams maintain a focus on delivery while being aware of the importance of professional development.
+  
+Continual service improvement. You can identify and explore opportunities for service and business improvement. You know how to drive analysis and identify, prioritise and implement improvements and efficiencies, ensuring that the organisation derives maximum value from services This includes recognising the potential for automation of processes, determining costs and benefits of new approaches and managing change or assisting implementation where needed.
+  
+Continuity management. You can provide service continuity planning and support. This includes identification of information, systems that support critical business processes, the assessment of risks to those systems’ availability, integrity and confidentiality and the coordination of planning, designing, testing and maintenance procedures and contingency plans to address exposures and maintain agreed levels of continuity.
+  
+Incident management. You can coordinate the response to incident reports, ensuring relevant prioritisation and detail to allow effective investigation. You can identify the correct procedures or channels for resolution and monitor resolution activity and progress updates to customers. You understand the relevant change management tools and processes.
+  
+Ownership and initiative. You can take ownership of problems and proactively resolve technical problems, ensuring that technical solutions continue to meet business requirements. You know how to take full accountability for actions taken and decisions made.
+  
+Problem management. You can understand and identify problems, analysing and helping to identify the appropriate solution. You can classify and prioritise problems, document their causes and implement remedies.
+  
+Service focus. You can maintain focus on the whole life of service delivery: from designing to developing to delivering and operating. You know how to ensure that a set of IT products, suppliers and vendors come together to deliver an IT service.
+  
+Service Management Framework knowledge. You have an in-depth understanding of Service Management Framework principles and processes and the ability to apply your technical knowledge in project or programme activities.
+  
+Technical understanding. This knowledge underpins your ability to deliver the responsibilities and tasks for the role and ensures that you can apply the breadth and depth of technical knowledge you need. You stay abreast of industry developments to make cost-effective use of new and emerging tools and technologies.
+  
+User focus. You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs and engage in meaningful interactions and relationships with users. You put users first and can manage competing priorities.
+
+
+Configuration analyst
+
+A configuration analyst provides administrative support to the change and release manager, helping maintaining the integrity of the configuration management database (CMDB) and independently solving smaller problems.
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You can maintain secure configuration and accurate information, controlling IT assets in one or more significant areas, and verifying location and state of assets. (Relevant skill level: working)
+  
+Availability and capacity management. You know about availability and capacity management processes. (Relevant skill level: awareness)
+  
+Change management. You can implement changes based on requests for change. You know how to apply change control procedures. (Relevant skill level: awareness)
+  
+Community collaboration. You can contribute to the work of others while having the ability to motivate and empower teams. You know how to create the right environment for teams to work in and can facilitate the best team make-up depending on the situation. You can recognise and deal with issues. (Relevant skill level: working)
+  
+Continual service improvement. You know about developing process efficiency and common ways in which processes are optimised. You can support specific activities to improve development processes. You can spot or identify obvious deficiencies. (Relevant skill level: awareness)
+  
+Continuity management. You know about the IT standard continuity management processes and procedures. (Relevant skill level: awareness)
+  
+Incident management. You can identify and register incidents, gathering the required information and allocating it to the appropriate channel. (Relevant skill level: awareness)
+  
+Ownership and initiative. You know about problem resolution processes and know to pass problems to your team. (Relevant skill level: awareness)
+  
+Problem management. You can investigate problems in systems, processes and services, with an understanding of the level of a problem (for example, strategic, tactical, operational). You can contribute to the implementation of remedies and preventative measures. (Relevant skill level: awareness)
+  
+Service focus. You know about different products and services. (Relevant skill level: awareness)
+  
+Service Management Framework knowledge. You have a Level 3 Service Management Framework qualification. (Relevant skill level: awareness)
+  
+Technical understanding. You know about the subject matter and have an understanding of what it involves. (Relevant skill level: awareness)
+  
+User focus. You know about user experience analysis and its principles. You can explain the purpose of user stories and focus on user needs. (Relevant skill level: awareness)
+
+
+Change and release analyst
+
+A change and release analyst plans and rolls out software, and designs and carries out procedures for the distribution and installation of changes to systems and services. At this level, you will be expected to:
+
+
+  undertake analysis after release and set the plan for upcoming changes
+  liaise with DevOps and service designers
+
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You can maintain secure configuration and accurate information, controlling IT assets in one or more significant areas, and verifying location and state of assets. (Relevant skill level: working)
+  
+Availability and capacity management. You know about availability and capacity management processes. (Relevant skill level: awareness)
+  
+Change management. You can analyse and assess impact, and develop and document change requests. You can implement changes based on requests for change. (Relevant skill level: working)
+  
+Community collaboration. You can contribute to the work of others while having the ability to motivate and empower teams. You know how to create the right environment for teams to work in and can facilitate the best team make-up depending on the situation. You can recognise and deal with issues. (Relevant skill level: working)
+  
+Continual service improvement. You know about developing process efficiency and common ways in which processes are optimised. You can support specific activities to improve development processes. You can spot or identify obvious deficiencies. (Relevant skill level: awareness)
+  
+Continuity management. You know about the IT standard continuity management processes and procedures. (Relevant skill level: awareness)
+  
+Incident management. You can identify and register incidents, gathering the required information and allocating it to the appropriate channel. (Relevant skill level: awareness)
+  
+Ownership and initiative. You know about problem resolution processes and know to pass problems to your team. (Relevant skill level: awareness)
+  
+Problem management. You can investigate problems in systems, processes and services, with an understanding of the level of a problem (for example, strategic, tactical, operational). You can contribute to the implementation of remedies and preventative measures. (Relevant skill level: awareness)
+  
+Service focus. You know about different products and services. (Relevant skill level: awareness)
+  
+Service Management Framework knowledge. You have a Level 3 Service Management Framework qualification. (Relevant skill level: awareness)
+  
+Technical understanding. You know about the subject matter and have an understanding of what it involves. (Relevant skill level: awareness)
+  
+User focus. You have an awareness or understanding of user experience analysis and its principles. You can see the purpose of user stories and focus on user needs. (Relevant skill level: awareness)
+
+
+Change and release manager
+
+A change and release manager makes sure that technical changes to IT services are adequately assessed for impact, prioritised, scheduled, authorised and implemented, in line with processes and using appropriate tools, including chairing the Change advisory Board (CAB). At this level, you will:
+
+
+  provide an escalation point
+  make decisions for all technical changes
+  coordinate releases and interdependencies
+
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You can manage configuration management for the organisation, ensuring value for the business and adherence to company policies. You know how to ensure that changes to assets are recorded and controlled appropriately. You can promote organisational commitment to asset control. (Relevant skill level: expert)
+  
+Availability and capacity management. You know how to manage service components to ensure they meet business needs and performance targets. (Relevant skill level: working)
+  
+Change management. You have broad industry experience in change management and can implement a successful change management process from zero to full maturity. You are a champion of change management, actively improving and optimising current processes. (Relevant skill level: expert)
+  
+Community collaboration. You know how to work collaboratively within a group, actively networking with others and varying feedback for the appropriate time to ensure the discussion sticks. You can use your initiative to identify problems or issues in the team dynamic and rectify them. You can pull out issues through agile health-checks with the team to provoke the right responses. (Relevant skill level: practitioner)
+  
+Continual service improvement. You can identify process optimisation opportunities with guidance and contribute to the implementation of proposed solutions. (Relevant skill level: working)
+  
+Continuity management. You know about IT standard continuity management processes and procedures. (Relevant skill level: awareness)
+  
+Incident management. You can diagnose and prioritise incidents, investigating their causes and finding resolutions. (Relevant skill level: working)
+  
+Ownership and initiative. You can own an issue until a new owner has been found or the problem has been mitigated or resolved. (Relevant skill level: working)
+  
+Problem management. You can initiate and monitor actions to investigate patterns and trends to resolve problems, including consulting specialists where required. You can determine the appropriate remedy and assist with implementation of it as well as preventative measures. (Relevant skill level: working)
+  
+Service focus. You can take inputs and establish coherent frameworks that work. (Relevant skill level: working)
+  
+Service Management Framework knowledge. You have a Level 3 Service Management Framework qualification. (Relevant skill level: awareness)
+  
+Technical understanding. You understand core technical concepts related to the role and can apply them with guidance. (Relevant skill level: working)
+  
+User focus. You can identify needs and engage with users or stakeholders to collate user needs evidence. You understand and can define research that fits user needs. You can use quantitative and qualitative data about users to turn user focus into outcomes. (Relevant skill level: working)
+
+
+Read more
+
+
+  Civil Service Jobs
+
+
+
+
+
+      
+        
+    Published 7 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Test manager
+        Application operations engineer
+        Service desk manager
+        IT service manager
+        Network architect
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

@@ -1,0 +1,360 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Understanding lateral flow testing for people without symptoms
+  
+
+  
+  
+  
+      
+  An explanation of the technology behind asymptomatic testing and the role these tests play in the national coronavirus (COVID-19) testing programme.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department of Health and Social Care
+
+      
+      Published
+      27 January 2021
+      Last updated
+      
+        16 August 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+    
+      Applies to England
+
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Lateral flow testing
+
+        
+        
+          Who can be tested
+
+        
+        
+          Effectiveness of lateral flow testing
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+NHS Test and Trace is making rapid lateral flow testing available alongside standard lab-based polymerase chain reaction (PCR) tests. These tests play a different, but crucial role in the fight against COVID-19.
+
+Around 1 in 3 individuals with COVID-19 do not display symptoms. Opening testing up to catch those showing no symptoms will help to find positive cases earlier and to break hidden chains of transmission.
+
+Lateral flow testing
+
+Lateral flow testing is a fast and simple way to test people who do not have symptoms of COVID-19, but who may still be spreading the virus. In some circumstances lateral flow tests can also be used for other diagnostic tasks.
+
+The tests are easy to use and give a quick result. Those who test positive must immediately self-isolate to avoid passing the virus on to others.
+
+Why lateral flow tests are being offered
+
+Around 1 in 3 people with COVID-19 do not have symptoms, so a test that rapidly detects these otherwise hidden cases is a very useful additional tool for tackling the virus.
+
+Lateral flow tests are practical, easy to interpret and can be used in a wide range of settings. This makes them ideal for widespread use in the community.
+
+Clinical evaluation by Public Health England (PHE) and Oxford University shows that the tests perform best when levels of virus are high. Thousands of positive COVID-19 cases have already been detected using these tests.
+
+Each positive case identified can help prevent many additional people becoming infected over time.
+
+How lateral flow testing works
+
+An introduction to lateral flow testing
+
+Lateral flow is an established technology, adapted to detect proteins (antigens) that are present when a person has COVID-19. The best-known example of a lateral flow test is the home pregnancy test kit.
+
+The test kit is a hand-held device with an absorbent pad at one end and a reading window at the other. Inside the device is a strip of test paper that changes colour in the presence of COVID-19 proteins (antigens).
+
+Test results
+
+Negative result: one line next to C shows the test is negative.
+
+Void: no lines, or one line next to T, means the test is void. You will need to re-take with a fresh test kit.
+
+Positive result: 2 lines, one next to C and one next to T, even faint lines, shows the test is positive. You or your test provider must report this test result to the NHS.
+
+Find out what your test result means and what to do on NHS.UK.
+
+How to take the test
+
+Taking a lateral flow test usually involves taking a sample from the back of the throat near the tonsils and the nose, or from the nose only, using a swab.
+
+The swab is dipped into an extraction solution. This is then dripped on to the device's paper pad, producing the reaction that gives the result.
+
+The tests give a quick result, as the sample does not need to be sent to a lab.
+
+Who can be tested
+
+You can get a free rapid lateral flow test twice a week. Find out about testing in Scotland, Wales or Northern Ireland.
+
+If you do not have symptoms, you can:
+
+
+  ask your employer or place of study if they provide tests
+  find where to collect test kits or get a test at a test site
+  order rapid lateral flow home test kits online
+
+
+Find out about regular rapid tests if you do not have symptoms on NHS.UK.
+
+
+If you have symptoms of COVID-19, do not visit a rapid lateral flow test site. Self-isolate straight away and get a PCR test.
+
+
+Effectiveness of lateral flow testing
+
+Lateral flow tests can help to drive down the spread of COVID-19.
+
+Rapid lateral flow tests give a quick result. They can find positive cases with high levels of virus that are easy to transmit to others, helping to intercept and reduce further infections.
+
+Lateral flow tests used by the UK government go through a rigorous evaluation by the country’s leading scientists. This means they are accurate, reliable and successfully identify those with COVID-19 who don’t show symptoms and could spread the virus without realising.
+
+Lateral flow tests are not being offered in isolation, but alongside a range of other measures to drive down cases and break chains of transmission. See more on this topic on the Public Health England blog.
+
+Sensitivity of the tests
+
+‘Sensitivity’ refers to the proportion of people with COVID-19 that have a positive test.
+
+When a person has low levels of virus in their system, lateral flow tests are less sensitive than some of the other tests we use, such as PCR tests which we mainly use for people with symptoms.
+
+When levels of virus are high and people are most likely to pass on the disease, lateral flow tests can detect the vast majority of cases.
+
+PCR and lateral flow have different roles to play in controlling the virus, so it isn’t helpful to directly compare them in terms of how sensitive they are:
+
+
+  
+    Lateral flow is useful for finding out if a person is infectious now, and able to transmit the virus to others. The level of sensitivity is high enough to detect the vast majority of these cases. Lateral flow testing is less likely to return a positive result outside the infectious window.
+  
+  
+    PCR is useful for confirming a suspected case of COVID-19, where the person is already self-isolating and is showing symptoms. Higher sensitivity of PCR means it can identify genetic material from COVID-19 even after the active infection has passed.
+  
+
+
+The different levels of sensitivity are therefore appropriate for the ways they are used.
+
+How lateral flow testing was trialled
+
+The tests underwent a rigorous validation process including evaluations from Public Health England and the University of Oxford. The Medicines and Healthcare products Regulatory Agency (MHRA) provides ongoing regulatory oversight.
+
+Trials were carried out on the tests in a wide range of environments.
+
+Large-scale pilots have also been carried out, including the whole city pilot in Liverpool in November 2020. As a result of the pilot, 897 positive individuals who would not otherwise have known they were infected, tested positive using lateral flow tests.
+
+Pilots and evaluations
+
+We have an ongoing programme of piloting and evaluating other potential uses of lateral flow tests in a number of institutions and workplaces, such as Jaguar Land Rover and John Lewis Partnership.
+
+This includes piloting the regular testing of contacts of people who tested positive for COVID-19 in order to find more COVID-19 cases and break the chains of transmission, as people who have had close contact with a confirmed positive case are at higher risk than normal of having the virus.
+
+A recent study suggests that daily testing of contacts of confirmed cases is an effective way to reduce transmission of COVID-19, and could potentially reduce the need for self-isolation for contacts of positive cases.
+
+
+
+
+      
+        
+    Published 27 January 2021
+    Last updated 16 August 2021
+      + show all updates
+      
+        
+            
+              16 August 2021
+              Updated information in 'Test results' to reflect changes to self-isolation guidance. Updated information on what to do if you have symptoms of COVID-19.
+            
+            
+              8 July 2021
+              Updated guidance on how to take a rapid lateral flow test. Updated information to say the tests give a quick result.
+            
+            
+              23 April 2021
+              Updated to merge 'find a pharmacy where you can collect rapid tests' and 'find a test site where you can collect rapid tests' to 'find where to collect test kits or get a test at a test site' in 'Who can be tested' section.
+            
+            
+              8 April 2021
+              Updated guidance on what to do following a positive rapid lateral flow test, including when to self-isolate. Updated guidance on how to get regular rapid tests if you do not have symptoms.
+            
+            
+              5 March 2021
+              Updated to add video 'Introduction to Rapid Lateral Flow testing'.
+            
+            
+              11 February 2021
+              Added a link to find out if your area offers rapid asymptomatic lateral flow testing.
+            
+            
+              1 February 2021
+              Added a new section on pilots and evaluations.
+            
+            
+              27 January 2021
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Coronavirus (COVID-19) testing: privacy information
+        COVID-19 rapid lateral flow test kit instructions: ACON Flowflex
+        COVID-19 rapid lateral flow test kit instructions: throat and nose test
+        Get coronavirus tests for your employees
+        Coronavirus (COVID-19) PCR home test kit instructions
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Testing for coronavirus (COVID-19)
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

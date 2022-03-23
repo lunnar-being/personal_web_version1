@@ -1,0 +1,143 @@
+
+
+The RAND Blog
+Previous Blog PostCan Anything Stop the Flow of Advanced Weapons into Libya?Next Blog PostThe Post's Afghanistan Series
+
+Setting Priorities for the Next DHS CIO
+commentary
+(Homeland Security Today)
+Photo by memoriesarecaptured/Getty Images
+
+
+
+by John Bordeaux and Ryan Consaul
+December 16, 2019
+
+
+In its latest leadership vacancy, the Department of Homeland Security (DHS) has lost its chief information officer (CIO) with last month's resignation of John Zangardi. This position carries with it important statutory powers, a sizable budget, and critical responsibilities to ensure the proper functioning of the department.
+Among these dueling priorities, enabling DHS' mission remains the most vital service that the CIO performs. Information technology can be a game-changer in how the homeland is secured. For example, efforts have been underway for years to modernize the way in which the United States grants immigration benefits by moving from paper-based to electronic processes. Effective IT systems make a significant economic impact through the efficient movement of travelers and goods across our borders. Ineffective IT systems can have devastating results on DHS' missions. Last month, the DHS Office of Inspector General reported that DHS lacked the IT capability to track separated migrant families resulting in “widespread errors” and an inability to count the number of families that DHS separated. These examples demonstrate the vast importance that IT, and consequently the CIO, have for DHS.
+The next DHS CIO will face unending crises and limited time and resources with which to address them. This endless “to-do list” presents significant challenges but also opportunities. The organizing principle for DHS was to instill a unity of purpose and unity of effort across disparate agencies engaged in defending the United States from hostile action both kinetic and cyber, responding to natural disasters, protecting critical infrastructure, and other threats to government assets. The lack of information-sharing prior to the 9/11 attacks was a motivating factor, and the response in retrospect might be considered an organizational solution to a cultural problem.
+
+Ineffective IT systems can have devastating results on DHS' missions.Share on TwitterFifteen years in, the department has experienced great successes, but still struggles with the foundational need to share information across disparate agencies, now components. The next CIO will step onto one of the larger and more important stages in federal service. To address the enduring cultural barriers and segmented agendas that inhibit America's homeland security, the next DHS CIO could opt to make the following areas priorities:
+
+Foster unity of effort through technology. Technology alone cannot force a unity of effort across DHS components, but it can be an impediment to this goal. A DHS enterprise approach to technology might include, among other elements:
+
+Establishing guiding principles that unify the department.
+Implementing a cohesive enterprise cloud strategy that encourages (or requires) component participation.
+Addressing consolidation potential for component data centers. While there are two data centers at the HQ level, there are over 20 used by various components. Economies of scale and opportunities for shared services are just two of the potential beneficial effects from consolidation.
+Fostering interoperability to support mission priorities.
+
+Establish ubiquitous access. Information that cannot be obtained in a timely manner will not aid quality decisions. The DHS workforce is distributed worldwide, operates on mobile devices and, for several components, operates in an information-denied or limited environment. FEMA personnel operate often in areas with degraded infrastructure, and the Coast Guard marine craft have limited bandwidth while underway. Addressing the need for these personnel to access enterprise information quickly, across these various use cases, should be a priority for the DHS CIO.
+
+Address over-classification with chief information security officer and components.
+Resolve information access in limited or denied environments.
+
+
+Advance information quality. This refers to the need to increase quality as defined in relevant literature, i.e., characteristics for information, including:
+
+Reliability—The information is accurate.
+Relevance—The use and purpose for this information has a nexus to the problem or question at hand.
+Availability—Beyond access, the sources for the underlying data are clear.
+Diagnosticity—Information provided matches the information need.
+
+Reinvigorate (and perhaps centralize) records management. Records management, done effectively, helps the department minimize risk (legal, financial, reputational, organizational).
+
+From FOIA to discovery, the department is at risk if records management is under-resourced and de-emphasized.
+
+
+These priorities would help the CIO enable the mission and further past efforts to mature the department. The next CIO may feel compelled to “hit the ground running” without a strategic vision. Such an approach could lead to ineffectiveness. DHS may be the most complex bureaucracy in the federal government. Without identified priorities, the CIO could become engulfed by the fire drill of the day and look back with years of service wondering what was accomplished.
+Any new CIO would inherit a full plate when taking the reins of a department challenged by critical missions. The United States faces natural disasters on an unprecedented scale and adaptive adversaries who probe American physical and cyber infrastructures every minute of every day. Returning to first principles may seem a luxury during the current pace of operations, but the new CIO has an opportunity—and a brief window of time—to continue the scaffolding necessary to forge a culture of unified purpose and unified effort for protecting the homeland.
+
+John Bordeaux is a senior management scientist and Ryan Consaul is a senior international/defense researcher at the nonprofit, nonpartisan RAND Corporation.
+This commentary originally appeared on Homeland Security Today on December 15, 2019. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+John Bordeaux
+Senior Management Scientist
+
+
+
+Ryan Consaul
+Senior International/Defense Researcher; Professor, Pardee RAND Graduate School
+
+
+
+
+
+
+Topics
+ Data Science
+Homeland Security
+National Security Organizations
+Organizational Leadership
+United States
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Commentary
+Homeland Security Should Consider Filling Vacancies at the Top Before Tackling Department Reform
+
+Jul 13, 2018
+Ryan Consaul
+
+
+
+
+
+
+
+
+
+
+Commentary
+Reauthorizing DHS: Contemplating Major DHS Organizational Realignments
+
+Oct 30, 2017
+Daniel M. Gerstein @Daniel_Gerstein
+
+
+
+
+
+
+
+
+
+
+Testimony
+Making DHS More Efficient
+
+Sep 18, 2015
+Daniel M. Gerstein @Daniel_Gerstein
+
+
+
+
+
+
+
+

@@ -1,0 +1,375 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Clinical audit: descriptive studies
+  
+
+  
+  
+  
+      
+  How to use a clinical audit to evaluate your digital health product.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency
+
+      
+      Published
+      20 May 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          What to use it for
+
+        
+        
+          Pros
+
+        
+        
+          Cons
+
+        
+        
+          How to carry out a clinical audit
+
+        
+        
+          Examples of audit
+
+        
+        
+          More information
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Clinical audit is used to support quality improvement in clinical settings – that is, where patients are treated or cared for. Audit involves systematically assessing everyday performance against criteria. It makes sure you are doing what you should be doing and asks if you could be doing it better. You can also use an audit to assess whether introducing a new technology could improve the standard of service.
+
+There is a wide range of audit methods used for evaluation. It is a broad term that overlaps with other descriptive evaluation methods.
+
+What to use it for
+
+Clinical audit is used to monitor the day-to-day performance of a service or product against a known standard. It can be used for existing or planned services.
+
+Audits can range from local projects to studies covering the whole country. They can be carried out by individual staff, or groups in single or multidisciplinary teams.  Clinical audit is central to clinical governance. Regular clinical audit is required by bodies like the General Medical Council, who oversee UK doctors, and the Nursing & Midwifery Council, who oversee UK nurses and midwives.
+
+Non-clinical services can also use audit methods. The same principles apply if you’re measuring performance against criteria with the aim of making improvements. In a digital context, you might want to evaluate:
+
+
+  a clinical service that uses digital tools
+  a digital product, to assess whether the product is working as it is expected to with users
+
+
+An audit may be led by clinical staff but non-clinical staff are often also involved and could lead the evaluation.
+Audit should be paired with good change management principles to make sure that recommendations from the audit lead to improved practice.
+
+Pros
+
+Benefits include:
+
+
+  it may help you to meet requirements. For example, all NHS organisations are required to carry out audits
+  it will not usually require new approvals. As it is part of normal practice, the evaluation generally falls under existing ethics and data governance practices
+
+
+Cons
+
+Drawbacks include:
+
+
+  it does not allow for a live comparison group, so provides limited evidence of cause and effect
+  it often relies on what data is available rather than collecting the most valid data
+
+
+How to carry out a clinical audit
+
+You need to create the right environment for an audit so that your team are receptive to any recommended changes. To do this, you need:
+
+
+  facilities like technical support and time
+  a culture that values creativity and openness
+  a willingness to report and investigate errors and failures without fear
+
+
+The stages of clinical audit are:
+
+
+  Preparation
+  Selecting criteria
+  Measuring performance
+  Making improvements
+  Sustaining improvements
+
+
+The choice of criteria depends on the audit, but criteria should preferably be:
+
+
+  explicit
+  related to important aspects of the outcome your service or product is trying to achieve (consult your product model)
+  measurable
+
+
+Criteria can be based on guidelines or evidence reviews. If that is not possible, criteria can be based on professional consensus.
+
+The audit may focus on:
+
+
+  structure (what you need)
+  processes (what you do)
+  outcomes (what you expect)
+
+
+For example, consider a video consultation service:
+
+
+  
+    structure criteria could cover whether healthcare professionals in a service have access to the technology they need, such as appropriate devices and internet connection speeds
+  
+  
+    process criteria could cover what practitioners have done. For example, have they completed a record of the consultation appropriately?
+  
+  
+    outcome criteria could cover a patient’s health status or satisfaction. For example, you could look at patient ratings of the consultations
+  
+
+
+Audit often involves benchmarking: comparing the service’s performance to similar services, particularly the most successful ones. When making comparisons across providers, it’s important to consider that one provider may have worse outcomes because they are working with users with greater problems rather than because they are providing a worse service. Audit will often use routinely collected data. You will need to consider your sampling strategy and relevant selection criteria, including the time frame. Data collection often uses clinical records, but you should recognise their limitations. Collecting data from multiple sources is recommended. You may need to develop and test a data extraction form if you use clinical records.
+
+Examples of audit
+
+Here are 2 audit examples. In example 1, the audit compared how the service performed in 2 periods. This is similar to a before-and-after study. In example 2, the audit compared how a proposed service might perform compared to the current situation without it. Example 2 is a type of descriptive study. The evaluators called it an audit because it involved assessment compared to an existing standard – the performance of the existing system.
+
+Example 1: teleophthalmology service
+
+O’Day and colleagues (2016), ‘Optometric use of a teleophthalmology service in rural Western Australia: comparison of 2 prospective audits’
+
+An evaluation of a teleophthalmology service for rural and remote communities in Western Australia. There was low use of the service by local optometrists and an initial audit found barriers to the service’s use, so they designed and carried out an intervention to increase use. A second audit showed improvements in usage.
+
+The service was provided by Lions Outback Vision. It connects patients to an ophthalmologist using real‐time video consultations facilitated by GPs, hospital doctors and optometrists.
+
+In April to August 2012, the team carried out a prospective audit (Johnson and colleagues (2015), ‘Real‐time teleophthalmology in rural Western Australia’) that identified several barriers to use of the service:
+
+
+  difficulties in arranging consultations as 3 people need to be involved: the patient, the remote ophthalmologist, and the local referrer
+  software and hardware sometimes malfunctioned
+  optometrists, the main referrers for the service, were not paid for their participation, while GPs and hospital doctors were. This was the most significant barrier observed.
+
+
+Changes were made to the service and then a follow-up audit (a kind of before-and-after study) was carried out over the same months in 2014, April to August (to control for any seasonal effects). This study was exempted from requiring ethics approval as it was a clinical audit.
+
+The changes made were:
+
+
+  introduce payment for optometrists
+  extra logistical and administrative support
+  a dedicated online appointment booking service
+  scheduling times that could be booked by the referrer
+  promoting the service by visits to local optometrists
+
+
+The main outcome measure was the number of consultations referred by optometrists. Data was also collected on patient characteristics, clinical details and the technology used. The ophthalmologist collected data on a log sheet after each consultation. This was checked against the patient’s electronic record.
+
+They observed an increase in consultations referred by an optometrist: from 60 consultations (of 49 patients) in the first period to 211 consultations (of 184 patients) in the second period. This is a three-and-a-half-fold increase. The proportion of non-urgent consultations increased in the second period, mainly for cataract and glaucoma assessment.
+
+Example 2: automated retinopathy screening
+
+Fleming and colleagues (2010), ‘Automated grading for diabetic retinopathy: a large-scale audit using arbitration by clinical experts’
+
+People with diabetes are at risk of retinopathy. A national screening programme involves taking regular images of individuals’ retinas and assessing them for signs of disease. If there are no signs, the patient is cleared and will return in 12 months’ time for their next screen.
+
+The images used to be examined manually by trained screeners. Software has now been developed to analyse the images. The software is not designed to replace all human grading; it is used as a first line of grading. If the software concludes there is no visible retinopathy, the patient is given a 12-month recall. If the software suspects any disease, the image is passed to a human grader. There is a cost saving in labour as some images do not need to be examined by a person. The software needs to be very sensitive, so that cases of pathology are caught, but does not have to be very specific, so many cases without any pathology are sent to a human grader.
+
+The Scottish National Diabetic Retinopathy Screening Collaborative wanted to know whether the software would perform well across the Scottish screening programme. Images on 33,535 patients were obtained from 2 screening centres. These had been graded by the manual approach usual at the time. The images were then run through the software.
+
+There are various forms of pathology that can be detected. The paper reports statistics for each of these. For example, in the sample, there were 193 cases of proliferative retinopathy. The software positively identified all 193 of these cases. With referable maculopathy, there were 387 cases, but the software detected 384 (99.2%). Most cases have no visible pathology and so require a 12-month recall: there were 21,503 of these. However, the software registered a positive result for 10,668 of these (49.6%).
+
+The software is good at correctly detecting positive cases, but poor at correctly grading negative cases. However, this means that about a third of patients could be cleared without human intervention, giving a large cost saving. The Scottish National Diabetic Retinopathy Screening Collaborative decided to adopt the software for use.
+
+More information
+
+Mackinnon and colleagues (2008), ‘Picture archiving and communication systems lead to sustained improvements in reporting times and productivity: results of a 5-year audit’
+
+Shanks and colleagues (2018), ‘Treatment outcomes in individuals diagnosed with chlamydia in SH:24, an online sexual health service: a retrospective audit’[abstract only; purchase required to access full article]
+
+
+
+
+      
+        
+    Published 20 May 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Case-control study: comparative studies
+        Micro-randomised trial
+        Focus group study: qualitative studies
+        Patient-reported outcomes and experiences study
+        Multiphase optimization strategy (MOST)
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Evaluating digital health products
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Health improvement
+        Research, testing and standards
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

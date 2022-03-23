@@ -1,0 +1,16 @@
+
+    
+    
+
+        
+        
+        
+    New, green technologies will increase the use of DRI accounts for 5 percent of the metallics used in the steelmaking process globally (Exhibit 1). It is currently used less commonly than pig iron or steel scrap. Traditionally, DRI is produced from the direct reduction of iron ore using natural gas, but emerging technology is enabling the production of DRI using hydrogen as well. Depending on the source of the hydrogen, this offers the potential for truly green steel. Hydrogen-based DRI is, therefore, expected to be a major decarbonization lever for steelmakers, particularly in Europe. A number of companies have already announced plans to introduce DRI, and strong growth is expected in the future. In fact, scenarios based on a carbon-neutral steel industry—a goal many major steelmakers have pledged—have DRI production tripling within the next 30 years.
+    
+Shortage of raw materials could limit DRI growthUnlike in the production of blast-furnace pig iron, iron ore remains solid throughout the DRI-production process, which makes it difficult to remove impurities (Exhibit 2). As a result, the quality of the DRI is closely related to the quality of iron ore inputs. DRI is, therefore, mostly made from very high-quality raw materials, which can be produced at only a limited number of mines (Exhibit 3.) A significant expansion of the DRI industry will likely lead to a shortage of raw materials within the next decade. The MineSpans database, which provides a comprehensive supply-side view of the iron ore industry, makes it clear that supply will be insufficient even if steelmakers both fully utilize existing mines and open new mines capable of producing the necessary inputs.
+    
+
+    
+Potential impactGiven the potential deficit of high-quality raw materials, growth in the DRI industry will have to be accompanied by a change in the manufacturing process. Increasingly, DRI will need to be made with lower-quality iron ore, which will then need to be upgraded—most likely using a smelting process—to make it more suitable for use in basic oxygen furnaces (Exhibit 4).
+    
+This has important implications for steelmakers’ wider plant configurations. Mini mills with electric arc furnaces must have long-term supply contracts to produce DRI suitable for the process. Plants looking to use DRI in basic oxygen furnaces will have to choose between securing high-quality raw materials and adding a smelting process. As a result, any sharp rise in DRI growth will likely drive a bifurcation in the market.To plan appropriately, market participants must base their business cases on the DRI of tomorrow, as opposed to the industry of today. In doing so, they will help ensure that the steel industry will be a leader, rather than a laggard, in the decarbonization of the heavy industry.

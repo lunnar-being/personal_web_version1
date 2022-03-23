@@ -1,0 +1,695 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Preparing for and responding to energy emergencies
+  
+
+  
+  
+  
+      
+  How BEIS has planned for emergencies potentially affecting oil, gas and electricity production and supply, and the civil nuclear establishment. 
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Business, Energy & Industrial Strategy and Health and Safety Executive
+
+      
+      Published
+      22 January 2013
+      Last updated
+      
+        23 February 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Overview
+
+        
+        
+          Departmental responsibilities
+
+        
+        
+          Downstream oil
+
+        
+        
+          Downstream gas and electricity
+
+        
+        
+          Upstream oil and gas
+
+        
+        
+          Civil nuclear
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Overview
+
+Over recent years the UK has had a strong, secure and resilient energy system, but this is no reason for complacency. The government accepts it can’t completely remove the possibility of disruption to energy supplies caused by, for example, weather-related hazards, accidents, malicious events or industrial action.
+
+This guide gives an outline of the plans and resources available to tackle emergencies which have the potential to affect oil, gas and electricity production and supply, and the civil nuclear establishment. The Department of Business, Energy and Industrial Strategy (BEIS) has a specific role and responsibilities in the event of an emergency - these are explained in detail.
+
+The guide also lists contact numbers for upstream incidents.
+
+Departmental responsibilities
+
+The government maintains capabilities to lead a national response to emergencies of all kinds, including those that affect energy. The Cabinet Office co-ordinates across government, and as appropriate with the devolved administrations, plans and responds to emergencies. Overarching policy and the main programmes for delivering and maintaining preparedness and mitigating risk are set out in the UK resilience section of the Cabinet Office website.
+
+BEIS works with industry, regulators, sector bodies and other stakeholders to maintain the resilience of the energy infrastructure, networks and assets and to reduce vulnerabilities. It also maintains emergency response arrangements to:
+
+
+  reduce the impact in the event of a disruption to gas, electricity or oil and fuel supplies
+  ensure recovery as soon as possible in the aftermath of any such incident or emergency
+
+
+Downstream oil
+
+Downstream oil refers to the supply of oil-based fuels from their production at refineries to their final consumption by end users. The downstream oil sector is involved in the refining, importing, distribution and marketing of petroleum products. In particular, petroleum-based fuels still provide the vast majority of the energy for transport vehicles.
+
+Managing a downstream oil emergency
+
+Technical incidents in the downstream oil sector occur sometimes without any discernible impact on supplies. These are managed and resolved by the companies involved.
+
+BEIS manages incidents that significantly disrupt oil supply or demand. BEIS’s priority is to maintain (as close as possible) normal fuel deliveries in the event of any disruption to the fuel supply chain, to get fuel to the people that really need it and to protect the UK economy.
+
+Where a risk of industrial action is identified, BEIS will invoke levels of contingency planning but prioritise encouraging the parties involved to solve the issue through negotiation.
+
+BEIS has numerous measures it can deploy during a supply disruption. These include:
+
+
+  working with industry to support their contingency measures, including increasing deliveries and forecourt stock levels where possible
+  activating the downstream oil protocol to improve information sharing if industry agree this is necessary
+
+
+The BEIS National Emergency Plan for Fuel (NEP-F) sets out the government’s overarching approach to responding to fuel supply disruptions. Depending on the circumstances, industry and government can use this plan to manage a downstream oil emergency. Where legislation is required to implement the response tools in the NEP-F, there are emergency powers under the Energy Act 1976.
+
+As part of its contingency planning, the government works with the downstream oil industry, including haulage companies, to maintain a capability within the Armed Forces to make fuel deliveries in the event of a serious disruption to normal deliveries. This plan ensures that military personnel could be efficiently and safely deployed. This activity is reviewed regularly.
+
+The people employed in the downstream oil sector, for example at refineries, distribution terminals and filling stations, provide an important technical knowledge base for the UK economy. Maintaining these skills also helps increase the sector’s resilience against disruption.
+
+In most circumstances the fuel industry is well positioned to respond to disruptions to the supply chain from whatever cause. BEIS regularly meets with industry through the Downstream Oil Industry Forum.
+
+Downstream gas and electricity
+
+Downstream gas refers to the natural gas supply network from reception terminal and storage site to consumer isolation valve in the UK.
+
+Electricity refers to the electricity supply network from generator to consumer meter in the UK.
+
+There are a number of actions we can take to minimise the impact in a gas and/or electricity supply emergency.
+
+Electricity Supply Emergency Code
+
+If a prolonged electricity shortage affects a specific region, or the whole country, rationing may be necessary. The Electricity Supply Emergency Code outlines the process for ensuring fair distribution while still protecting those who require special treatment. This is managed through a process known as ‘rota disconnections’.
+
+Emergency planning
+
+BEIS works closely with industry to understand and plan for emergencies, and regularly holds exercises to test the effectiveness of these plans. The National Emergency Plan for Downstream Gas and Electricity describes the national arrangements established between BEIS, the downstream gas and electricity industry, the Office of Gas and Electricity Markets (Ofgem) and the European Commission and other interested parties for the safe and effective management of both downstream gas and electricity supply emergencies.
+
+Maintaining the electricity supply
+
+BEIS has a duty to make sure electricity supplies are reliable and meet voltage and frequency standards. Major electricity failures are very rare in the UK but severe storms are the most common cause of widespread power loss. Analysis of such events shows how important it is to manage trees near overhead lines. BEIS has amended the guidance to reflect this:
+
+ESQCR 2002
+
+
+  
+      
+  
+  
+    ESQCR 2002: Guidance on the electricity safety, quality and continuity regulation 2002
+    
+        PDF, 712KB, 47 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@beis.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+ESQCAR 2006
+
+
+  
+      
+  
+  
+    ESQCAR 2006: Guidance on the electricity safety, quality and continuity (amendment) regulations 2006
+    
+        PDF, 51KB, 10 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@beis.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+Upstream oil and gas
+
+Upstream oil and gas refers to the exploration and production of crude oil and natural gas.
+
+Managing an upstream oil or gas emergency
+
+Operators must notify the Oil & Gas Authority (OGA) immediately in the event of:
+
+
+  emergency well operations (abandonments, sidetracks)
+  production shutdowns
+  events that may affect production
+
+
+During normal working hours, please notify the most relevant contact:
+
+
+  
+OGA for emergency operations and matters that affect production in North and Central North Sea
+  
+BEIS (London) for all exploration matters, emergency operations and matters that affect production in South North Sea, Irish Sea and onshore, and any other matters
+
+
+Outside normal working hours:
+
+
+  emergency phone number outside office hours: 0300 068 6900
+  outside normal working hours call the BEIS duty officer in London.
+
+
+Guidance
+
+You can read more detailed information on upstream emergency response plans in the following documents:
+
+
+  
+    Crisis management briefing pack (MS Word Document, 188KB)
+  
+  
+    Crisis Management Flowchart (MS Excel Spreadsheet, 49.1KB)
+  
+  
+    Table 2 – Roles, Responsibilities and Competencies  (MS Word Document, 36.9KB)
+  
+  
+    G.A.S. Report Quick Start: Terminal Operator Guidance: ANNEX A (MS Word Document, 94.5KB)
+  
+  
+    Guidance note to complete the Gas Availability Status (GAS) Report (MS Word Document, 16.4KB)
+  
+  
+    SITREP Quick Start: Terminal Operator Guidance: ANNEX B (MS Word Document, 16.7KB)
+  
+  
+    SITREP Quick Start: Terminal Group Leader (TGL) Guidance: ANNEX C (MS Word Document, 15.7KB)
+  
+  
+    Guidance for Terminal Operators: ANNEX I (MS Word Document, 50.5KB)
+  
+  
+    Production shutdown guidance [Word Document: 66kB]
+  
+  
+    Dealing with pandemic illness in the upstream energy sector [Word Document: 205kB]
+  
+
+
+You can also download PON-1: Petroleum Operations Notice for reporting release and permitted discharge.
+
+
+  Emergency oil stocking: international obligations
+
+
+Civil nuclear
+
+Although high safety standards and strict precautions in the UK mean nuclear emergencies are very rare, detailed emergency planning is required so that nuclear site operators and public authorities are properly prepared to respond to such events.
+
+BEIS is responsible for coordinating civil nuclear emergency planning in England, Scotland and Wales at a national level.
+
+BEIS works with a range of government departments and agencies who have a responsibility in nuclear emergency response planning.
+
+Government provides nuclear emergency planning guidance to help local planners, Whitehall departments, devolved administrations and agencies write effective plans.
+
+Emergency response
+
+BEIS would act as the lead government department in response to an emergency at a civil nuclear site in England, Scotland or Wales. The department would assemble up to date information on the emergency, including measures being taken to protect the public and make the site safe again. This is done by liaising closely with other government departments, the Welsh Government, agencies and organisations close to the affected site, such as police, fire service and local authority.
+
+As the lead government department, BEIS would:
+
+
+  ensure that information is available to the public and media
+  alert the International Atomic Energy Agency, the European Commission and various neighbouring countries of the accident
+  provide the Secretary of State for Business, Energy & Industrial Strategy, who is responsible to Parliament for civil nuclear safety matters, with briefing on the course of the accident and measures taken to protect the public.
+
+
+Radiation monitoring and reporting
+
+A network of 96 fixed and over 100 mobile gamma dose monitor stations across the UK, providing at least hourly updates to detect any elevated radiation levels.
+
+The INES scale is used for communicating the safety significance of radiological events to the public.
+
+Local level emergency planning
+
+Under the Radiation (Emergency Preparedness and Public Information) Regulations 2001 (REPPIR) Regulations, local authorities must prepare an off-site emergency plan if:
+
+
+  their area includes a nuclear site
+  the nuclear site operator has assessed that a radiation emergency in the area is reasonably foreseeable
+
+
+Off-site emergency plans are designed to restrict human exposure to ionising radiation. The Office for Nuclear Regulation (ONR) decides when off-site emergency plans are required for areas that pose a foreseeable risk.
+
+The plan must cover an emergency that might result from an act of terrorism. Emergency plans are kept under continual review and are regularly tested through regular off-site exercises at civil nuclear sites.
+
+Nuclear site operators are also required by REPPIR to have nuclear emergency plans based on their licence terms. This includes training staff and providing appropriate safety equipment.
+
+Nuclear emergency planning and response is regulated by the ONR.
+
+Local level response
+
+The strategic response to an emergency at the local level would be coordinated at the Strategic Co-ordination Centre (SCC). Decisions on mobilising emergency services during a nuclear emergency would be taken by the GOLD Commander leading the response at the local level. Central government authorisation would be necessary should further national capabilities be required to assist the response.
+
+Other response measures include provision of temporary housing. Reception centres can be opened by local authorities to house people who are displaced from their homes.
+
+Maintaining the security of nuclear sites
+
+Civil nuclear operators are required by law to have site security plans setting out the security arrangements for the protection of nuclear sites and nuclear material on such sites. These plans must gain the approval of the regulator and must thereafter be complied with.
+
+The arrangements cover, for example, physical protection features such as fencing and turnstile access, the roles of security guards and the Civil Nuclear Constabulary, the protection of proliferation-sensitive data and technologies, and the arrangements to ensure the trustworthiness of the individuals with access to sensitive nuclear information and material. Civil nuclear operators are financially and legally responsible for implementing and maintaining these security measures.
+
+Provision of specialist support services
+
+The Civil Nuclear Constabulary (CNC) is the specialist police force providing the dedicated armed response at civil licensed nuclear sites.
+
+All nuclear emergency responders receive specialist training and protective equipment to operate in hazardous environments and to rescue and treat any casualties. Both the Ambulance and Fire and Rescue Services are equipped to decontaminate sites.
+
+For further information on the government’s overall emergency preparedness measures, visit Cabinet Office resources on emergency preparedness.
+
+Decontamination and recovery programme
+
+Our National Response Strategy details how decontamination work is managed, including processes and responsibilities as part of the recovery phase. The Department for Environment, Food and Rural Affairs (Defra) is the lead government department responsible for this area.
+
+Nuclear third party liability compensation
+
+The UK is a contracting party to the Paris Convention on nuclear third party liability and Brussels Supplementary Convention.
+
+The Conventions aim to ensure adequate and fair compensation for victims who suffer damage as a result of a nuclear incident at a nuclear installation or during the transport of nuclear substances to and from that installation. At the same time, the regime is aimed at ensuring that responsibility for any failure rests with installation operators, as they are in the best position to ensure the safety of their installation. The Conventions also ensure compensation is available in the case of nuclear damage across borders.
+
+The Paris Convention imposes no fault liability on the operator of the nuclear installation that causes damage. It channels all liability to that operator so that victims can sue a readily identifiable person. Operators are required to take out insurance or make other provision to cover their potential liability. Victims in all countries that are contracting parties to the Convention have equal access to compensation. The Brussels Supplementary Convention provides additional public funds for compensation over and above that provided by the Paris Convention.
+
+The countries that have ratified the Paris Convention are Belgium, Denmark, Finland, France, Germany, Greece, Italy, the Netherlands, Norway, Portugal, Slovenia, Spain, Sweden, Switzerland, Turkey and the UK.  These countries (except Greece, Portugal and Turkey) have also ratified the Brussels Convention.
+
+The Conventions are implemented in the UK by the Nuclear Installations Act 1965.
+
+Revisions to the Paris and Brussels conventions
+
+Amendments to the Conventions were agreed by the contracting parties in 2004. They upgrade the existing regime and are intended to ensure that, in the event of a nuclear incident, an increased amount of compensation will be available to a larger number of victims in respect to a broader range of damage than is currently the case. The amendments extend the liability regime to operators of nuclear waste disposal sites. The amendments to the Conventions will come into force when they have been ratified by the contracting parties.
+
+Implementation of the changes in the UK
+
+The UK is committed to ratifying the amendments to the Conventions. We have amended UK law to enable immediate implementation on ratification. The Nuclear Installations (Liability for Damage) Order 2016 prospectively amends the Nuclear Installations Act 1965. The 2016 Order will not come into force until the amendments to the Conventions are ratified. An informal consolidation of the Nuclear Installations Act 1965 as amended by the Order is included for information (a version with changes marked and a ‘clean’ version).
+
+
+  
+      
+  
+  
+    NIA 65 clean version
+    
+        PDF, 461KB, 60 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@beis.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+      
+  
+  
+    NIA 65
+    
+        PDF, 535KB, 65 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@beis.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+Other legislation
+
+The Conventions are also implemented through a number of statutory instruments made under the 1965 Act.  These:
+
+
+  define the categories of sites to which a lower level of liability applies
+  specify the information nuclear operators must include in the insurance certificates they must provide for transport of nuclear matter overseas
+  define situations where the liability regime does not apply to nuclear matter being transported.
+
+
+We consulted on changes to these regulations in 2017. See the consultations and their responses:
+
+
+  
+    Consultation on defining nuclear prescribed sites and transport
+  
+  
+    Defining intermediate risk prescribed sites: further consultation
+  
+
+
+This completes the required UK legislative changes for implementation of the 2004 Protocols.
+
+Guidance on approval of operators’ financial security arrangements under the 1965 Act
+
+Updated guidance on the process for obtaining approval, under section 19 of the 1965 Act, of operators’ financial security arrangements for meeting their liabilities:
+
+
+  
+      
+  
+  
+    Operator financial security arrangements: guidance 2021
+    
+        PDF, 359KB, 16 pages
+    
+
+
+  
+
+
+This guidance:
+
+
+  sets out in broad terms some of the issues that operators should consider when bringing forward proposals for insurance or other financial security
+  lists some of the evidence operators should provide to demonstrate that they have satisfied the section 19 requirements.
+
+
+It is not intended to provide a definitive set of acceptance criteria or to replace operators’ own professional financial and legal advice on such matters.
+
+Laws and legislation
+
+Safety arrangements (including emergency planning) at all nuclear installations in the UK are governed by a range of laws and legislation for both on-site emergencies and local-level emergency planning. This includes:
+
+
+  
+Health and Safety at Work Act (HSWA) - places a general duty on all emergency responders to do all that is reasonably practicable to reduce risk
+  
+Ionising Radiations Regulations 1999 - contain specific requirements for the protection of employees and the public from radiation
+  
+Nuclear Industries Security Regulations 2003 – sets conditions for on-site security arrangements
+  
+Radioactive Substances Act 1993 - waste arising from a nuclear accident or incident
+  
+Civil Contingencies Act 2004 – establishes a clear set of roles and responsibilities for those involved in emergency preparation and response at the local level
+  
+Nuclear Installations Act 1965
+    
+      requires a Nuclear site licence to be issued prior to the operation of a nuclear facility
+      establishes the Nuclear Installations Inspectorate (NII)
+      puts absolute liability on the licensee
+    
+  
+  
+Radiation (Emergency Preparedness and Public Information) Regulations 2001 (REPPIR) - requires nuclear operators captured by the regulations and local authorities where those sites are based to prepare emergency response plans and to exercise the plan
+
+
+
+
+
+
+      
+        
+    Published 22 January 2013
+    Last updated 23 February 2021
+      + show all updates
+      
+        
+            
+              23 February 2021
+              Operator financial security arrangements guidance document: contact details updated.
+            
+            
+              9 January 2020
+              Downstream oil section - link added to updated National Emergency Plan for Fuel.
+            
+            
+              12 June 2018
+              Contact details updated, updated guidance on the process for obtaining approval for operators’ financial security arrangements for meeting their liabilities.
+            
+            
+              29 June 2016
+              Update progress on implementation of the changes to the liability regime with the approval of the Nuclear Installations (Liability for Damage) Order 2016.
+            
+            
+              8 February 2016
+              Updated Draft Nuclear Installations (Liability for Damage) Order (Working Draft: Feb 2016) and Nuclear Installations Act 1965 as amended (informal consolidation)
+            
+            
+              10 September 2015
+              Oil and Gas: Updated documents for G.A.S. Report Quick Start, Gas Availability Status,  Terminal Operator Guidance and Terminal Group Leader (TGL) Guidance.
+            
+            
+              5 March 2015
+              Revised draft Nuclear Installations Order.
+            
+            
+              19 August 2014
+              Oil and gas: Guidance note to complete the Gas Availability Status (GAS) Report Proforma - (added)
+            
+            
+              29 July 2013
+              Upstream Crisis Management Briefing Pack  - updated
+            
+            
+              31 May 2013
+              NEPLG Exercise Review: 2011-12 published
+            
+            
+              18 April 2013
+              Implementation of revisions to the Paris and Brussels conventions - draft new section added to the "Draft Statutory Instruments 2013: The Nuclear Installations (Liability for Damage) Order 2013"
+            
+            
+              22 January 2013
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        National emergency plan: gas and electricity
+        Energy emergency planning: priority fuel allocation
+        National Nuclear Emergency Planning and Response Guidance
+        Electricity Supply Emergency Code
+        Emergency oil stocking: international obligations
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Energy security
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

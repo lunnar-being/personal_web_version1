@@ -7,6 +7,7 @@
   <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}"/>
   <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}">
   <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/timeline50.css') }}">
   <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
   <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
   <script src="{{ url_for('static', filename='js/main.js') }}"></script>
@@ -56,15 +57,30 @@
             </div>
           </form>
           <div class="timeline-div">
-              {% for news in news_list.keys() %}
-                  <div class="search-result">
-                    <p class="title">{{ news }}&nbsp;{{ news_list[news]}}</p>
-                  </div>
+              {% for i in result%}
+                <li class='work'>
+                    <input class='radio' id={{i[0]}} name='works' type='radio' checked>
+                    <div class="relative">
+                        <label for={{i[0]}}>{{i[3]}}{{i[2]}}{{i[1]}}   </label>
+                        <label1 for={{i[0]}} style="color:#dd1c1c";>
+                            <p1 style="border-width:1px;background:#f8d1d1">{{i[8]}}</p1>
+                            <p1 style="">{{i[5]}}</p1>
+                            <p1 style="border-width:1px;background:#f8d1d1">{{i[9]}}</p1>
+                            <p1 style="">{{i[6]}}</p1>
+                        </label1>
+                        <span class='date'style="max-width:110px;overflow:hidden;white-space: nowrap;">{{i[4]}}</span>
+                        <span class='circle'></span>
+                    </div>
+                    <div class='content'>
+                    <p style="max-width:1000px;overflow:hidden;white-space: nowrap;text-overflow:ellipsis;">{{i[7]}}</p>
+
+                    </div>
+                </li>
                 {% endfor %}
           </div>
-          <div class="pagination">
-            {{ macros.pagination_widget(pagination, '.timeline', filter) }}
-          </div>
+{#          <div class="pagination">#}
+{#            {{ macros.pagination_widget(pagination, '.timeline', filter) }}#}
+{#          </div>#}
       </div>
     </div>
   </div>

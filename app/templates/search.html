@@ -12,6 +12,7 @@
   <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
   <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap-select.min.js') }}"></script>
     <script src="{{ url_for('static', filename='js/LANG.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/advanced_search.js') }}"></script>
     <script src="{{ url_for('static', filename='js/star-rating.min.js') }}"></script>
     <link href="https://cdn.jsdelivr.net/gh/kartik-v/bootstrap-star-rating@4.1.2/css/star-rating.min.css" media="all" rel="stylesheet" type="text/css" />
     <link href="https://cdn.jsdelivr.net/gh/kartik-v/bootstrap-star-rating@4.1.2/themes/krajee-svg/theme.css" media="all" rel="stylesheet" type="text/css" />
@@ -37,23 +38,70 @@
               <select name="query-type" class="selectpicker" id="query-type">
                 {% set typelist = ["标题","摘要","关键词"] %}
                 {% for type in typelist %}
-                  <option value="{{ type }}" {% if type == query_type %}selected="selected"{% endif %}>{{ type }}</option>
+                  <option value="{{ type }}" {% if type == query_type[0] %}selected="selected"{% endif %}>{{ type }}</option>
                 {% endfor %}
               </select>
             </div>
-            <div class="form-group input-group col-md-9" style="padding-left: 15px;">
+{#            <div class="form-group col-md-3">#}
+{#              <select name="query-type" class="selectpicker" id="query-type2">#}
+{#                {% set typelist = ["标题","摘要","关键词"] %}#}
+{#                {% for type in typelist %}#}
+{#                  <option value="{{ type }}" {% if type == query_type %}selected="selected"{% endif %}>{{ type }}</option>#}
+{#                {% endfor %}#}
+{#              </select>#}
+{#            </div>#}
+            <div class="form-group input-group col-md-4" style="padding-left: 15px;">
               <input type="text" class="form-control" id="query"
                      {% if query_word %}value="{{ query_word }}"{% endif %} name="query"
                      placeholder="搜索">
-              <span class="input-group-btn">
-                  <button class="btn btn-info btn-search" type="submit"
-                          style="background-color: #f26522; border-color:#f26522 ">
-                    <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
-                  </button>
-                </span>
+
             </div>
           </div>
+            {% for i in query_length %}
+                <div class="row" id="row-{{ i }}">
+                    <div class="form-group col-md-3">
+                      <select name="query-bool-{{ i }}" class="selectpicker" id="query-bool-{{ i }}">
+                        {% set boollist = ["AND","OR","NOT"] %}
+                        {% for bool in boollist %}
+                          <option value="{{ bool }}" {% if bool == query_boolean[i-1] %}selected="selected"{% endif %}>{{ bool }}</option>
+                        {% endfor %}
+                      </select>
+                    </div>
+                    <div class="form-group col-md-3">
+                      <select name="query-type-{{ i }}" class="selectpicker" id="query-type-{{ i }}">
+                        {% set typelist = ["标题","摘要","关键词"] %}
+                        {% for type in typelist %}
+                          <option value="{{ type }}" {% if type == query_types[i] %}selected="selected"{% endif %}>{{ type }}</option>
+                        {% endfor %}
+                      </select>
+                    </div>
+                    <div class="form-group input-group col-md-4" style="padding-left: 15px;">
+                      <input type="text" class="form-control" id="query-{{ i }}"
+                             {% if query_list %}value="{{ query_list[i] }}"{% endif %} name="query-{{ i }}"
+                             placeholder="搜索">
+                        <span class="input-group-btn">
+                          <button class="btn" id="del-button-{{ i }}" type="button"
+                                  style="background-color: #5bc0de;color: #ffffff " onclick="delBtn({{ i }})">
+                            <span class="glyphicon glyphicon-minus" aria-hidden="true"></span>
+                          </button>
+                        </span>
+                    </div>
+                </div>
+            {% endfor %}
+        <button class="btn btn-info" type="button" data-toggle="tooltip" title="新增" id="addBoxBtn"
+                onclick="addBox(this)"><span class="glyphicon glyphicon-plus"></span></button>
+        <button class="btn btn-info btn-search"
+                          style="background-color: #f26522; border-color:#f26522;display: inline-block;float: right;margin-right: 10%">
+                    <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                  </button>
+
         </div>
+{#      <div class="input-group" id="saltIpGroup">#}
+{#	    <label class="input-group-addon">salt配置:</label>#}
+{#	    <button class="btn btn-info" type="button" data-toggle="tooltip" title="新增" id="addSaltIpGrpBtn"#}
+{#                onclick="addBox(this)"><span class="glyphicon glyphicon-plus"></span></button>#}
+{##}
+{#        </div>#}
         <!-- 筛选和排序 -->
         <div class="filter" id="filter" style="display: inline-flex; flex-direction: row; align-items: flex-end; width: 101%;">
 {#          <div class="form-group col-lg-1 col-md-2 col-sm-2" style="margin-bottom: 21px; padding: 0;"><span>筛选：</span></div>#}
@@ -74,10 +122,19 @@
                 {% endfor %}
             </select>
           </div>
+{#        <div class="form-group col-lg-3 col-md-3" style="padding: 0;">#}
+{#            <select name="source" class="form-control" id="source" onchange="search()">#}
+{#              {% set sourcelist = ["All","重要人物讲话","白宫","国会","政府部门",#}
+{#        "智库","期刊杂志学会"] %}#}
+{#                {% for field in sourcelist %}#}
+{#                  <option value="{{ field }}" {% if field == query_field %}selected="selected"{% endif %}>{{ field }}</option>#}
+{#                {% endfor %}#}
+{#            </select>#}
+{#          </div>#}
           <div class="form-group col-lg-3 col-md-4 pull-right" style="margin-left: 520px; padding: 0;">
             <select name="order" class="form-control">
               <option value="time" {% if order == 'time' %}selected="selected"{% endif %}>按时间排序</option>
-              <option value="rank" {% if order == 'rank' %}selected="selected"{% endif %}>按相关性排序</option>
+              <option value="rank" {% if order == 'rank' %}selected="selected"{% endif %}>按重要性排序</option>
             <option value="star" {% if order == 'star' %}selected="selected"{% endif %}>按人工评分排序</option>
             </select>
           </div>
@@ -119,8 +176,12 @@
 {{ macros.footer() }}
 
 <script>
-    $(".rating").rating(
+    window.box_num = {{box_num}};
+    var query_list = [];
+    var query_bool = []
+    var query_type = []
 
+    $(".rating").rating(
         {step:1,
             starCaptions: {
             0.5: '0.5',
@@ -154,16 +215,69 @@
             }
         });
     });
-  window.onload = function () {
-    var query = $("#query").val().replace(/\s+/i, " ");
-    var query_words = query.split(" ");
-    var content = $("#result-list").html();
-    for (let word of query_words) {
-      var split_content = content.split(word);
-      content = split_content.join('<span style="color: #f26522;">' + word + '</span>');
+    function addBox(obj){
+        {#var i = box_num;#}
+        window.box_num = window.box_num+1;
+        let i = window.box_num;
+        console.log(i)
+	   html = '<div class="row" id="row-'+i+'">'+
+                    '<div class="form-group col-md-3">'+
+                      '<select name="query-bool-'+i+'" style="display: inline-block;height: 34px;width: 220px;" class="form-select" id="query-bool-'+i+'">\
+                          <option value="AND" selected>AND</option>\
+                          <option value="OR">OR</option>\
+                          <option value="NOT">NOT</option>\
+                      </select>\
+                    </div>\
+                    <div class="form-group col-md-3">'+
+                      '<select name="query-type-'+i+'" class="form-select" style="display: inline-block;height: 34px;width: 220px;" id="query-type-'+i+'">\
+                          <option value="标题" selected>标题</option>\
+                          <option value="摘要" >摘要</option>\
+                          <option value="关键词" >关键词</option>\
+                      </select>\
+                    </div>\
+                    <div class="form-group input-group col-md-4" style="padding-left: 15px;">\
+                      <input type="text" class="form-control" id="query-'+i+'"\
+                             value="" name="query-'+i+'"\
+                             placeholder="搜索">\
+                       <span class="input-group-btn">\
+                          <button class="btn" id="del-button-'+i+'" type="button"\
+                                  style="background-color: #5bc0de;color: #ffffff " onclick="delBtn('+i+')">\
+                            <span class="glyphicon glyphicon-minus" aria-hidden="true"></span>\
+                          </button>\
+                        </span>\
+                    </div>\
+                </div>'
+	obj.insertAdjacentHTML('beforebegin',html)
+}
+    var query_words = ["test"]
+    function submitQuery(){
+        var query_words = ["test"]
+        var bools = []
+        var types = []
+        var num = window.box_num;
+       for(let i=1;i<=num;i++) {
+           var query = $("#query-" + i).val().replace(/\s+/i, " ");
+           query_words.push(query);
+           var bool = $("#query-bool-" + i).val()
+           bools.push(bool)
+           var type = $("#query-type-" + i).val()
+           types.push(type)
+       }
+        window.location.href = 'search.html?query=' + query_words + "&bools=" + file_type + "&country=" + country + "&order=" + order;
+       console.log(query_words);
+       console.log(bools)
+        console.log(types)
+    };
+    function delBtn(i){
+        {#let btn_id = e.target.id#}
+        console.log("#row"+i);
+        $("#row-"+i).addClass("hidden");
+        $("#query-bool-"+i).attr("disabled","disabled");
+        $("#query-type-"+i).attr("disabled","disabled");
+        $("#query-"+i).attr("disabled","disabled");
+        window.box_num = window.box_num-1
+        return false
     }
-    $("#result-list").html(content);
-  };
 
   $("#filter .form-control").change(function (){
     $("#search-form").submit();

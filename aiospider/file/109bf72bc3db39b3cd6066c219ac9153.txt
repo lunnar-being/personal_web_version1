@@ -1,0 +1,279 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Building Blocks for AI and Autonomy: a Dstl biscuit book
+  
+
+  
+  
+
+  
+    
+  A simple guide and framework for thinking about artificial intelligence (AI) and autonomy from a systems perspective. 
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Defence Science and Technology Laboratory
+
+      
+      Published
+      23 October 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Introduction
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Core Elements of AI
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Critical factors for success
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Cross-cutting enablers
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Building Blocks for Artificial Intelligence  and Autonomy
+    
+        PDF, 1.72MB, 34 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email centralenquiries@dstl.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+This guide has been written by data science experts at the Dstl AI Lab, to help our customers think about AI and autonomous systems. It’s one of a series of biscuit books that are designed to be easy to read and dip into over a cup of tea.
+
+The building blocks are a framework we have developed to help break down this complex topic into more easily accessible chunks. Each building block represents something that needs to be considered or actions that need to be taken, to ensure the AI and autonomy is built correctly, does what it’s meant to and no more, and does so legally and ethically.
+
+The Defence Science and Technology Laboratory (Dstl) works with its partners and suppliers to deliver research on AI and autonomy. Dstl is at the heart of innovations in this area, working with other government departments, academia and institutions for the defence and security of the UK.
+
+Our research aims to understand how we can responsibly and safely apply these techniques to a wide range of defence and security challenges including military decision making, autonomous platforms, computer network defence, sensing, defence logistics, policing and security, streamlining back-office functions and a whole lot more.
+
+Dstl’s AI Lab works with suppliers and partners to establish a world-class capability in the application of AI-related technologies to Defence and Security challenges. If you’d like to understand more about Dstl’s work on AI and how to engage, email ai_lab@dstl.gov.uk
+
+
+
+
+        
+      
+
+      
+    Published 23 October 2020
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Crumbs! Understanding Data: a Dstl biscuit book
+        AI, Data Science and Machine Learning: a Dstl biscuit book
+        Assurance of AI and Autonomous Systems: a Dstl biscuit book
+        Dstl biscuit books
+        Machine learning with limited data
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Dstl biscuit books
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Scientific research and development
+        Military equipment, logistics and technology
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

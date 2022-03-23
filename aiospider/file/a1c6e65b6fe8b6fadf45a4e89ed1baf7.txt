@@ -1,0 +1,969 @@
+
+  
+    
+      Annex 3 – Eligible Items – specification and grant amount 
+
+    
+
+      
+        
+  This annex details the required Specification and Grant amount of eligible items.
+
+      
+        
+          
+
+    This annex details the required Specification and Grant amount of eligible items.  If you want to go to a specific category select it from the list below.
+
+Horticulture
+
+Forestry
+
+Resource Management
+
+Precision and Analysis
+
+Livestock Handling and weighing equipment
+
+Other Livestock equipment
+
+General
+
+Some items have a limit on the amount that you can apply for funding for.  These are:
+
+
+  
+    FETF 23 UV Water Treatment System
+  
+  
+    FETF87 Hand-held Automatic Teat Washing System
+  
+  
+    FETF88 Heat and Service Detector
+  
+  
+    FETF95, Additional Feed Station
+  
+  
+    FETF102, Auto Vaccination Gun for livestock
+  
+
+
+For items which are new and not previously available under the Countryside Productivity Small Grant Scheme, the Item Number is shown with an asterisk*.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+      
+        
+          
+            Horticulture Items
+          
+        
+        
+
+    
+  
+    
+      Item Number
+      Item Name
+      Item Specification
+      Grant Amount £      (based on a quantity of 1)
+    
+  
+  
+    
+      FETF1*
+      Electronic tray   filling machine
+      Electronic tray   filling machine to be eligible machine must be able to fill polystyrene   trays, plug trays and shuttle trays.  Machine must be able to fill 500   trays per hour.  Machine must be capable of varying filling density to   achieve optimal compaction for different seeding requirements.  Must be   capable of handling 600 mm x 400 mm trays.  While the machine can be   used as a standalone tray filler, to allow for future expansion the tray   filler must be capable of being used with a conveyor belt system to allow   incorporation into a fully automated seeding line or transplanting   line.
+      5,938
+    
+    
+      FETF2*
+      Electronic   row seeder
+      Electronic   row seeder capable of easily handling small sized batches of   trays.  To be eligible the seeder must include row bar   dibbling and seeding unit with vibrating covering unit.  Unit must be   able to process 2,000 rows of seed per hour.  Must be capable of   handling 600 mm x 400 mm trays.  To allow for future expansion the unit   must be capable of being used on a conveyor belt system to allow   incorporation into a fully automated seeding line.    Drum seeders are not eligible under this item.
+      10,470
+    
+    
+      FETF3*
+      Five   row seeder
+      Manual   push seeder which can sow a minimum of 5 rows.  It must have   soil openers at the front and roller(s) at the rear, and changeable seed   wheels/rollers for different crops and spacing.
+      670
+    
+    
+      FETF4*
+      Paper pot   transplanter
+      Double row, paper   pot transplanter.  Manually pulled, creates groove, plants transplant,   and firms into place in one pass.
+      542
+    
+    
+      FETF5*
+      In row weeders   1.8 m
+      A system using   precision camera guided hoes, to remove weeds from within horticultural crop   rows.  The system must be able to automatically distinguish the   difference between the crop and weeds.  Minimum working width   1.8 m.
+      24,139
+    
+    
+      FETF6*
+      Inter row hoe   3 m
+      A system using   precision camera guided hoes, to remove weeds from between crop rows.    Designed to be used at relatively high speed and to be able to automatically   distinguish the difference between the crop and weeds.  Minimum working   width 3 m.
+      15,286
+    
+    
+      FETF7*
+      Inter row hoe   6 m
+      A system using   precision camera guided hoes, to remove weeds from between crop rows.    Designed to be used at relatively high speed and to be able to automatically   distinguish the difference between the crop and weeds.  Minimum   working width 6 m.
+      20,949
+    
+    
+      FETF8*
+      Salad leaf   harvester
+      Manual push   harvester, 80cm minimum cutting width.
+      1,027
+    
+    
+      FETF9
+      Mobile Vertical   Frost Fans for vineyards and horticulture
+      Selective Inverted   Sink (SIS) fans for use in vineyards and on stone and soft fruit farms to   prevent frost damage.       The vertical axis   fans must be mobile.       Horizontal, tower   or permanently sited fans are not eligible.
+      4,776
+    
+    
+      FETF10
+      Fruit Ripeness   Spectrometers
+      Handheld device   for use in orchards to determine produce quality and harvest   timing.       Uses NIR (Near   Infra-Red) to determine and measure DM (Dry Matter), total soluble solids,   titratable acidity, and colour to determine ripeness.
+      3,061
+    
+  
+
+
+
+
+      
+        
+          
+            Forestry Items
+          
+        
+        
+
+    
+  
+    
+      Item Number
+      Item Name
+      Item   Specification
+      Grant   Amount £     (based   on a quantity of 1)
+    
+  
+  
+    
+      FETF11*
+      Scarifying to aid tree planting
+      Unit should be capable of being towed by an agricultural tractor   and/or forestry forwarder.     Unit should be capable of at least discontinuous vegetation removal   such as to allow direct planting into bare soil (i.e. no vegetation   competition) either by:     Scraping off the top layer of vegetation, leaving exposed topsoil   for a weed-free planting position (scarifier).     Turning over a sufficient volume of topsoil to create an inverted   mound with the vegetation buried at the bottom of the mound and the planting   position consisting of the inverted weed-free soil at the top of the mound   (mounder).           Unit should create discontinuous soil disturbance, for example,   there should be no continuous (greater than 1 m in length) runs of bare soil as in ploughing.
+      12,280
+    
+    
+      FETF12*
+      Smaller self - propelled forwarders
+      Purpose-built wheeled frame steered forwarder with full forestry   safety equipment fitted (Roll Over Protection, Operator Protection, and   Falling Object Protection).  Payload 2 to 6 tonnes.     Minimum crane reach 3.5 m      Minimum crane lift at 3.5 m = 300 kg of timber
+      24,467
+    
+    
+      FETF13*
+      Harvesting head
+      Harvesting heads specifically for felling and initial processing of   felled trees.      Equipment must be able to fell, de-limb, and cut to required   lengths.     Harvesting head must have a fell/cut diameter of at least 300 mm and a feed speed of at least 4 m/s.
+      16,079
+    
+    
+      FETF14*
+      Tree shears capacity to fell 300mm diameter trees
+      Grip and hold shear harvester head with 360° rotator specifically   for the cutting of small diameter trees, coppice, and brush. Must be able to cut trees up to 300 mm diameter.
+      3,219
+    
+    
+      FETF15*
+      Tree shears capacity to fell 650 mm diameter trees
+      Grip and hold shear harvester head with 360° rotator specifically   for the cutting of small diameter trees, coppice, and brush. Must be able to cut trees up to 650 mm diameter.
+      15,940
+    
+    
+      FETF16*
+      Forestry grab or grapple
+      The grab or grapple must be specifically designed for handling   felled trees and can safely pick up and hold large-felled trees. Must be at least 1,300 mm when fully opened.
+      939
+    
+    
+      FETF17*
+      Timber cranes
+      The crane can be either cab mounted mountable via three-point   linkage to a tractor or purchased to fit on a timber trailer.     Timber cranes specifically designed for extracting timber from   woodland to ensure minimal disturbance to the soil and to flora and fauna.     This item is to be fitted to existing tractors or forestry   trailers.  You should not apply for   this item if applying for a forwarder where the crane is included as part of the specification. The crane must have a reach of at least 7 m and a lift capacity at this reach of at least 500 kg of timber. The crane must include rotator grab and valve block. Other forms of cranes are not eligible under this item.
+      5,391
+    
+    
+      FETF18*
+      Forestry / timber trailers small
+      Forestry/timber trailers specifically designed for use in forests   and woodland for the extraction of felled timber which will cause minimal   disturbance to the soil and to flora and fauna.     To be eligible the trailer must have no floor or sides and be fitted   with permanent headboard and permanent bolsters. The vehicle must be fitted   with low ground pressure tyres or automatic inflation and deflation system   for the tyres. Must be fitted with lights etc. to be legal to use on public   roads.  The trailer must have a timber carrying capacity of at least 2,000 kg.
+      2,558
+    
+    
+      FETF19*
+      Forestry / timber trailers Large
+      Forestry/timber trailers specifically designed for use in forests   and woodland for the extraction of felled timber which will cause minimal   disturbance to the soil and to flora and fauna.     To be eligible the trailer must have no floor or sides and be fitted   with permanent headboard and permanent bolsters.  The vehicle must be fitted with low ground   pressure tyres or automatic inflation and deflation system for the tyres.   Must be fitted with lights etc. To be legal to use on public roads. The   trailer must have a timber carrying capacity of at least 9,000 kg.
+      3,642
+    
+    
+      FETF20*
+      Timber winches
+      These can be either tractor or forwarder mountable. To be eligible   for grant funding winches must have automatic safety braking and be   controllable remotely via an electric cable or radio control device. The winch must have a pulling force of 65 kN or above and be supplied with at least 9 m of wire rope.
+      3,400
+    
+  
+
+
+
+
+      
+        
+          
+            Resource Management Items
+          
+        
+        
+
+    
+  
+    
+      Item Number
+      Item Name
+      Item Specification
+      Grant Amount   £     (based   on a quantity of 1)
+    
+  
+  
+    
+      FETF21*
+      Rainwater harvesting minimum tank size 5000 litres
+      Rainwater harvesting system to collect water from roofs for use on   farm or nursery.  System purchased must   include water tank with minimum capacity 5,000 litres, two stage pre filter   for removing debris and soil from water before entering storage tank,   electric pump to distribute water to required use, and a UV filter capable of   treating at least 30 litres per minute @30 mJ/cm² or above. The UV filter   must include auto shut off in case of power or bulb failure, to prevent   untreated water from leaving the system.
+      939
+    
+    
+      FETF22*
+      Rainwater harvesting minimum tank size 50,000 litres
+      Rainwater harvesting system to collect water from roofs for use on   farm or nursery.  System purchased must   include above ground water tank with minimum capacity 50,000 litres, 2 stage   pre filter for removing debris and soil from water before entering storage   tank, electric pump to distribute water to required use and a UV filter   capable of treating at least 100 litres per minute @30mJ/cm² or above. The UV   filter must include auto shut off in case of power or bulb failure, to prevent   untreated water from leaving the system. Storage tank can be either plastic   or circular galvanised steel with a liner.
+      3,678
+    
+    
+      FETF23
+      UV Water Treatment System
+      For the treatment of water to be used in the feeding of livestock or   irrigation of horticultural crops. To be eligible each unit will consist of a   single bulb in-line UV filter and each unit must include auto shut off in   case of power or bulb failure, to prevent untreated water from leaving the   unit.  Each unit must be capable of   treating at least 30 litres per minute @30mJ/cm² or above (for example   55-Watt power consumption). System must be Water Regulations Advisory Scheme   (WRAS) approved. Maximum 10 units per application.
+      229
+    
+    
+      FETF24
+      Hydraulic Ram Pumps (water)
+      Pump working by hydraulic pressure to raise clean water.      Must include: the pump plus sediment chamber, pump chamber, drive   pipe, distribution pipe, 5,000 litres (minimum) header tank, and return pipe.        System assumes 20 litres/min flow, 3 m head with 10 - 20 m lift, 300 m delivery pipe and 2 spurs.
+      2,184
+    
+    
+      FETF25*
+      Irrigation sensor
+      Waterproof sensors with inbuilt battery that straps to hose reel or   other irrigation equipment.    Communicates with mobile phone, tablet and PC showing irrigation   status, trolley speed.  Alarm functions   showing water pressure drop, trolley stop.
+      478
+    
+    
+      FETF26
+      Robotic Slurry Pusher / Collector
+      Robotic system with intelligent software and sensors to allow the   robot to navigate independently throughout the passageways.      It must have built in sensors to avoid contact with the livestock.      Cost includes robot and charging station.
+      5,400
+    
+    
+      FETF27*
+      Slurry separators
+      Screw press slurry separator capable of processing a minimum of   10 m³/hr with the resulting solid fraction of at least 30% dry matter.  All other forms of slurry separation are   not eligible under this item.
+      7,613
+    
+    
+      FETF28
+      Flow Rate Monitoring of slurry
+      An electronic device to measure and record application of   slurry.  The system purchased must   include slurry flow rate meter and in-cab display/controller.  The system purchased must be able to be   linked to GPS to provide an accurate electronic record of slurry application   by volume to specific field areas.    Devices which do not link to GPS nor record and store data for later   electronic downloading are not eligible.
+      2,134
+    
+    
+      FETF29*
+      Real time inline nutrient analysis of slurry
+      Nutrient analysis of slurry in real time during application using   Near Infra-red (NIR) spectroscopy.    System will analyse and record the level of Nitrogen, Phosphate and   Potassium (N,P,K) during application.    System must have the capability with aid of GPS to provide accurate   application rates for each field application. System must be able to be   retrofitted to existing slurry application equipment.
+      12,226
+    
+    
+      FETF30*
+      Nurse Tank minimum capacity 50 m3
+      Mobile nurse tank for handling and application of slurry and   digestate. Minimum tank capacity 50 m3. Supplied complete with hydraulic   braking, road lights, four outlet points and sight level glass.
+      11,400
+    
+    
+      FETF31*
+      Nurse tank minimum capacity 100 m3
+      Mobile nurse tank for handling and application of slurry and   digestate. Minimum tank capacity 100 m3. Supplied complete with hydraulic   braking, road lights, 4 outlet points and sight level glass.
+      14,700
+    
+    
+      FETF32
+      Dribble Bar minimum working width 6 m
+      Dribble bar applicator, minimum 6m working width.      To fit to slurry tanker or attach to flexible pipe/umbilical system.   Includes macerator, stone traps and pipework to connect to tanker or   umbilical system.
+      4,000
+    
+    
+      FETF33*
+      Dribble Bar minimum working width 10 m
+      Dribble bar applicator, minimum 10m working width.  To fit to slurry tanker or attach to   flexible pipe/umbilical system. Includes macerator, stone traps and pipework   to connect to tanker or umbilical system.
+      8,354
+    
+    
+      FETF34
+      Shallow Injection Systems 3 m working width
+      Injection system to incorporate   slurry under the soil surface.  To fit   to slurry tanker or attach to flexible pipe/umbilical system.  Minimum working width 3 m. Includes   macerator, stone traps and pipework to connect to tanker or umbilical system
+      8,250
+    
+    
+      FETF35*
+      Shallow Injection Systems minimum 6 m working width
+      Injection system to incorporate   slurry under the soil surface.  To fit   to slurry tanker or attach to flexible pipe/umbilical system.  Minimum working width 6 m.  Includes macerator, stone traps and   pipework to connect to tanker or umbilical system
+      8,984
+    
+    
+      FETF36
+      Trailing Shoe Slurry System 6 m
+      Trailing shoe slurry applicator,   minimum 6 m working width.  To fit to   slurry tanker or attach to flexible pipe/umbilical system. Includes   macerator, stone traps and pipework to connect to tanker or umbilical system.
+      9,834
+    
+    
+      FETF37*
+      Trailing Shoe Slurry System over 8 m
+      Trailing shoe slurry applicator,   minimum 8 m working width.  To fit to   slurry tanker or attach to flexible pipe/umbilical system. Includes   macerator, stone traps and pipework to connect to tanker or umbilical system.
+      10,688
+    
+    
+      FETF38
+      Umbilical Hose Reeler for slurry application
+      Umbilical hose reeler for slurry application, random or   compartmentalised, trailed or mounted. Must include a minimum of 400 m of hose.
+      2,231
+    
+    
+      FETF39
+      Trailed Compartmented Reeler for slurry application
+      Trailed compartmented reeler for slurry application. Must include a   minimum hose length of 1600 m.
+      5,400
+    
+    
+      FETF40
+      Heat Recovery Unit to heat water
+      System to utilise the heat energy released by the milk refrigeration   system used for cooling milk before entering the bulk tank.       Energy recovered used to preheat water for existing hot water   system. Cost includes connection to existing refrigerant system, connection   to water supply, heat recovery tank with minimum 300 litre water capacity and   connection to existing hot water system.
+      2,942
+    
+    
+      FETF41
+      Plate Heat Exchanger for cooling milk (plate cooler)
+      Gasket plate heat exchangers to pre-cool milk before entering the   bulk tank using cold water.      Minimum continuous flow rate of milk 5,000 litres per hour.      Other types of heat exchangers are not eligible, for example tube   heat exchangers.
+      1,225
+    
+    
+      FETF42
+      Improving efficiency of existing Plate cooler
+      Control equipment to regulate cold water flow to match the flow of   warm milk through existing plate cooler.         To reduce water usage and maximise cooling efficiency of system,   saving both electricity and water.       The system installed under this item will include: flow sensor,   automatic control system, solenoid valve, and storage tank (minimum 300 litres capacity) of warmed water for use elsewhere on the farm. This item does not include the purchase of a plate cooler, you should apply under FETF41 for funding towards a plate cooler.
+      1,357
+    
+    
+      FETF43
+      Variable Speed Drive for pumps and electric motors
+      Funding is towards the purchase of a variable speed drive for use   with vacuum pumps, water pumps or other electrically driven systems where   continuous running is normally required. The installation of a variable speed drive will allow the pumps and motors to only perform work when required,   thereby saving energy over continuous running systems.
+      2,293
+    
+  
+
+
+
+
+      
+        
+          
+            Precision and Analysis Items
+          
+        
+        
+
+    
+  
+    
+      Item Number
+      Item Name
+      Item Specification
+      Grant Amount   £     (based   on a quantity of 1)
+    
+  
+  
+    
+      FETF44
+      Direct Drill 3 m
+      Direct drill for precision drilling of arable and cover crops, using   either tines or discs to produce the seeding slot. To be eligible the drill must have a minimum drilling width of 2.9 m, must have no cultivation or seed bed preparation equipment in front of the seeding slot mechanism and the seed must be placed in the seeding slot. The drill must be able to drill through a fully established growing cover crop of at least 15 cm in height. Purchase must include seed hoppers. The drill must be able to drill the full range of arable and cover crops including cereals. The following are not eligible: Cultivators with over-seeders or   broadcasters, minimum till drills, strip till drills, grassland over-seeders,   and grassland broadcasters.
+      12,054
+    
+    
+      FETF45*
+      Direct Drill 6 m
+      Direct drill for precision drilling of arable and cover crops, using   either tines or discs to produce the seeding slot. To be eligible the drill must have a minimum drilling width of 5.9 m, must have no cultivation or seed bed preparation equipment in front of the seeding slot mechanism and the seed must be placed in the seeding slot. The drill must be able to drill through a   fully established growing cover crop of at least 15 cm in height. Purchase   must include seed hoppers. The drill must be able to drill the full range of arable and cover crops including cereals. The following are not eligible: Cultivators with over-seeders or broadcasters, minimum till drills, strip till drills, grassland over-seeders,   and grassland broadcasters.
+      25,000
+    
+    
+      FETF46
+      GPS Light Bar
+      GPS guidance system using light bar to aid guidance.      Linked to smart phone or tablet to create, recognise, and load field boundary information.      Provide field boundary measurements. It must have a minimum capability of straight and curved guidance   modes. With minimum pass to pass accuracy of 20 cm.
+      480
+    
+    
+      FETF47
+      Assisted steer system (Retro-fitted) for older tractors
+      Assisted steering system linked to GPS to enable auto steering to be   used on older tractors.  For the system   to be eligible it must include electric, hands-free, assisted steering   system, with installation onto steering wheel or replacement of steering   wheel with assisted steering device. Applications for software or activation codes for existing / pre installed auto steering system only are not eligible.
+      1,051
+    
+    
+      FETF48*
+      Real time inline forage crop analysis.
+      Analysis of forage crops in real time during harvest using Near   Infra-red (NIR) spectroscopy. System will analyse and record the level of dry   matter, crude protein, starch, crude fibre, sugar and crude ash. The system   will also have the ability through analysis of dry matter content to   automatically control silage additive application rates. System must be able   to be retrofitted to existing forage harvesters.
+      12,250
+    
+    
+      FETF49
+      Measuring nitrogen levels in crops using light reflectance
+      Tractor mounted sensor to determine the nitrogen status of the crop   using light reflectance to enable real time variable rate Nitrogen fertiliser   application. The system must include sensors, mounting frame to the tractor   and linkage to the variable control on the fertiliser spreader to enable   automatic control of the application rate of nitrogen fertiliser while in   operation. To be eligible the system must be able to automatically control   application of fertiliser and record application rates.
+      11,250
+    
+    
+      FETF50
+      Variable Rate Controller for sprayers and fertiliser spreaders
+      An electronic device to connect to   an existing sprayer or fertiliser spreader for the purposes of changing the   rate of application automatically without operator input.      The regulation system will work   from either a pressure or a flow sensor and provide sectional control.      The system must be able to record   application rates applied and download to computer.  The system must include variable rate controller, in-cab display and software.  Applications involving only the   purchase of software or activation codes for existing control systems are not   eligible.      If you are not intending to purchase an in-cab display but use an existing display you should not include   this item in your application.      You cannot use a display included   in FETF51 ‘Yield Monitoring’ for this item.     You must purchase a variable rate   controller and in-cab display.
+      1,850
+    
+    
+      FETF51
+      Yield Monitoring
+      An electronic device to connect to a combine or forage harvester to   monitor crop yield during harvest.      It will provide information on harvesting rate, with total and   partial area (field) yield of crop.      Must include purchase of yield sensor for combine or forage   harvester, in-cab display and software for downloading to computer.      Applications involving only the purchase of software or activation   codes for existing sensors and displays are not eligible.       If you are not intending to purchase an in-cab display but use an   existing display you should not include this item in your application.        You cannot use a display included   in FETF50 ‘Variable Rate Controller for sprayers and fertiliser spreaders’   for this item.       You must purchase yield sensors and   in-cab display.
+      1,600
+    
+    
+      FETF52
+      Pasture Plate Meter (Hand-held)
+      A handheld device to assess grass cover by measuring total height   and the number of measurements taken.      The device must have the capability of storing measurements taken   from separate paddocks and for the data to be downloaded to a computer or   mobile device. Plate meters that are not able to store data electronically   for later electronic transfer are not eligible.
+      220
+    
+    
+      FETF53
+      Chlorophyll Meter
+      Handheld device to instantly measure and log chlorophyll content of   individual plant leaves to assist in detecting yield-limiting deficiencies or   costly over fertilising.
+      490
+    
+    
+      FETF54
+      Controls for continuous grain dryer
+      Continuous dryer control system designed to continuously monitor the   running of bulk grain. Dryer controls can be accessed by mobile phone.
+      2,789
+    
+    
+      FETF55
+      Grain Stirrers
+      Grain stirrers installed within a flat store which move across the   grain on a gantry.
+      7,358
+    
+  
+
+
+
+
+      
+        
+          
+            Livestock Handling and Weighing Items
+          
+        
+        
+
+    
+  
+    
+      Item Number
+      Item Name
+      Item   Specification
+      Grant   Amount £     (based   on a quantity of 1)
+    
+  
+  
+    
+      FETF56
+      Mobile Cattle Handling Systems
+      Mobile system consisting of race, crush (manual or squeeze crush)   and penning to provide a gathering pen and holding pen on an integrated   (built in) road legal trailer.       A minimum of ten gates/hurdles to be purchased as part of the mobile   system to create gathering, forcing and holding pens. The crush must have an anti-backing facility at the rear of the   crush operated from outside the race. This can either be a U shaped rotating   rump bar operated from a wheel outside of the crush or a sliding gate operated   from outside the crush.  Hydraulically   operated anti-backing gates are also eligible.       The crush must have a locking head yoke. The handling system must be of all metal construction. Wooden   elements, for example, floors to the race or crush, gates or hurdles are not   eligible under this item.      All ferrous metalwork to be either galvanised or powder coated.   Painted metalwork is not eligible.
+      4,456
+    
+    
+      FETF57
+      Fixed Cattle Handling Systems
+      A corral system which provides a safe and effective holding area and   race-way handling facility to attach to a cattle crush.       The handling system does not include the crush and is not expected   to be purchased as part of this item.       The system should be designed and erected to suit the requirements   of the individual site. To be eligible it must consist of: a minimum of two fixed metal   holding pens, one circular metal forcing pen between 2.4 and 5 m radius (internal measurement) with sides covered in a smooth material to prevent   cattle from seeing to the side, leading into a straight or a curved race between 3 and 5 m in length with the sides of the race covered. A sliding   closure gate is fitted at both ends of the race.  The race must lead to a crush. If the crush   being used with the race already has a sliding gate fitted, then only one   sliding gate needs to be purchased for the race.     The handling system will be of all metal construction.  Wooden elements, for example, floors to the   race or crush, gates or hurdles are not eligible under this item.       All ferrous metalwork to be either galvanised or powder coated.   Painted metalwork is not eligible.      To be eligible the system must be fixed to the ground. This should   be a long-term fixture such as concreting the supporting post into the ground   or by bolting into the existing concrete floor.
+      3,866
+    
+    
+      FETF58
+      Cattle Crush (automatic)
+      The crush must have an internal width of at least 720 mm.       The crush will have a fully automatic (self-closing) full length   head yoke with auto reset facility.       The sides of the crush must be able to be opened to give complete   access to both sides of the animal.      The crush must have an anti-backing facility at the rear of the crush operated from outside the race.    This can either be a U-shaped rotating rump bar operated from a wheel   outside of the crush or a sliding gate again operated from outside the crush. All ferrous metal parts of the crush must be fully galvanised, or powder coated.   Painted crushes are not eligible.       Crushes with wooden floors are not eligible.
+      895
+    
+    
+      FETF59
+      Cattle Crush (manual)
+      The crush must have an internal width of at least 720 mm.       The crush must have a manually operated full length head yoke. The   sides of the crush must be able to be opened to give complete access to both   sides of the animal.       The crush must have an anti-backing facility at the rear of the   crush operated from outside the race.    This can either be a U-shaped rotating rump bar operated from a wheel   outside of the crush or a sliding gate again operated from outside the   crush.  All ferrous metal parts of the   crush must be fully galvanised, or powder coated. Painted crushes are not   eligible.       Crushes with wooden floors are not eligible.
+      1,018
+    
+    
+      FETF60
+      Hydraulically or pneumatically operated Squeeze Crush
+      Hydraulically or pneumatically operated squeeze crush with full   length head yoke.  The crush must have   a sliding rear gate operated from outside of the crush and race to act as an   anti-backing device.     The sides of the crush must be able to open to give complete access   to both sides of the animal.       All ferrous metal parts of the crush must be fully galvanised, or   powder coated. Painted crushes are not eligible.       Crushes with wooden floors are not eligible.       Rotating/rollover foot trimming crushes are not eligible under this   item.       Pneumatically operated crushes are eligible under this item.       System must use a power driven hydraulic or pneumatic pump.   Hand/manually pumped hydraulic or pneumatic systems are not eligible under   this item.     Integrated head scoops which cannot   be purchased and retrofitted to an existing crush are not considered as a   separate item to the crush and should not be applied for under FETF62 ‘Head   Scoop for cattle crush’.
+      4,360
+    
+    
+      FETF61
+      Squeeze Crush (manually operated)
+      Manually operated squeeze crush with full length head yoke. The   sides of the crush must be able to open to give complete access to both sides   of the animal. The crush must have sliding rear gate to act as an anti-backing   device. The sliding gate must be operated from outside of the crush.  All ferrous metal parts of the crush must   be fully galvanised, or powder coated. Painted crushes are not eligible.       Crushes with wooden floors are not eligible.
+      1,678
+    
+    
+      FETF62
+      Head Scoop for cattle crush
+      Restricts the side-to-side movement of the animal’s head providing   increased safety for the animal and operator and helps prevent the animal   from collapsing.       All ferrous metal parts must be fully galvanised’ or powder coated.   Painted metalwork is not eligible.       Integrated head restraints supplied with a cattle crush as standard   which cannot be purchased separately and retrofitted are not eligible under   this item.
+      200
+    
+    
+      FETF63
+      Foot Trimming add-on to cattle Crushes
+      Hoof trimming attachment consisting of: belly harness/support, front   and rear leg winch with lifting strap and minimum of two hoof blocks.     This item is intended to be purchased to allow adaptation of   existing crush to be used for hoof trimming.
+      246
+    
+    
+      FETF64
+      Specialist Foot Trimming cattle Crush
+      The crush must be specially designed for foot trimming and not   intended for other animal management purposes.       With an internal width of at least 720 mm, the crush will have a   head yoke, rotating rump bar and with motorised winches.       Must include belly harness/support lifting straps and a minimum of   two hoof blocks.       Rotating/Rollover crushes are not eligible.  All ferrous metal parts of the crush will   be fully galvanised, or powder coated. Painted crushes are not eligible.       Crushes with wooden floors are not eligible.
+      1,918
+    
+    
+      FETF65
+      Calving Gate
+      A calving gate that incorporates a gate within the frame to swing   around to safely restrain a cow.      To include an adjustable full length head yoke, a locking chain to   stop backward movement, removable side rails or access panels within the   swinging gate to allow protected access for medical treatment, assisted   calving, suckling of calves or milking.
+      166
+    
+    
+      FETF66
+      Cattle Auto ID Shedding Gate (auto drafting)
+      Gate linked to computer control/EID system to draft cattle into two   or more groups automatically. Using either electronic tags, collars or ankle   transponders to identify the animal.       Must be able to operate automatically with digital weighing   system.       All ferrous metal parts must be fully galvanised, or powder coated.   Painted metalwork is not eligible.
+      2,974
+    
+    
+      FETF67
+      Auto Cattle Weighing Equipment
+      Standalone equipment which automatically weighs cattle without human   intervention, linked to EID.       Purchased as a whole working unit, not parts.       This comprises of a weigh platform (often with water trough), EID   reader and weigh head.
+      1,800
+    
+    
+      FETF68
+      EID Panel reader for cattle
+      Static race reader, with Antenna and Bluetooth connection.  Must be able to read HDX and FDX B   tags.  To be eligible under this item   the reader must be permanently fixed to the race or cattle crush.  Portable readers are not eligible under   this item.
+      620
+    
+    
+      FETF69
+      Mobile Sheep Handling Systems
+      Trailer mounted mobile sheep handling system capable of holding and   handling a minimum of 250 sheep with the aim to allow farmers to handle sheep   away from the main holding.       The system must include a minimum of 20 hurdles to create a   gathering pen, forcing pen and must include a minimum of two side pens.       The system must include drafting and dosing race with the ability to   fit a foot bath.       The trailer must be integrated into the handling system and form   part of the handling race. Trailers which are not integrated and could be   used for other purposes are not eligible under this item.  The integrated trailer must be road   legal.       The handling system must be of all metal construction.  Wooden elements, for example, floors to the   race or crush, gates or hurdles are not eligible under this item.     All ferrous metalwork must be either galvanised or powder coated.   Painted systems are not eligible.
+      3,100
+    
+    
+      FETF70
+      Fixed Sheep Handling Systems
+      Fixed sheep handling system that should be designed and erected to   suit the requirements of the individual site. The system must have a combined   capacity in the race, forcing pen, and gathering pen for holding a minimum of   100 adult sheep. To be eligible the system must consist of: a gathering pen,   forcing pen, drafting and dosing race, minimum of two side pens and the   ability to fit plastic footbath in the race.         The handling system must be of all metal construction.  Wooden elements, for example, floors to the   race, gates or hurdles are not eligible under this item.       All ferrous metal work to be either galvanised or powder   coated.  Painted systems are not eligible.        To be eligible the system must be fixed to the ground. This should   be a long term fixture such as concreting the supporting post into the ground   or by bolting into the existing concrete floor.
+      1,600
+    
+    
+      FETF71
+      Sheep Handler
+      Clamp style sheep handler for   efficiently dagging, dosing and sorting sheep.  If you are considering applying for funding   on this item please note it cannot also form part of FETF69 ‘Mobile Sheep Handling Systems’.
+      960
+    
+    
+      FETF72
+      Automatic Weighing and Drafting Crate for sheep
+      The system purchased must   automatically read EID tags and automatically draft out animals based on   current weight or any electronically saved data on the animal e.g. age, sex.      The system must include: auto   drafting crate, control system with fully automated entry and exit gates,   weigh bars, panel reader and weigh head.    Purchased as a whole working unit (single item), not parts. Refer to   FETF78 ‘Individual Electronic Weigh System (all species)’ and FETF79 ‘Weigh   bars and weigh platforms for weighing livestock’ for weighing system   components.
+      4,758
+    
+    
+      FETF73
+      Sheep Conveyor
+      Static twin belt conveyor designed for routine sheep work, 3 m   minimum length.
+      4,600
+    
+    
+      FETF74
+      EID Panel reader for sheep
+      Static/race reader, with Antenna and Bluetooth connection. Must be   able to read HDX and FDX B tags.      To be eligible under this item the reader must be permanently fixed   to the sheep handling system. Portable readers are not eligible under this   item.
+      531
+    
+    
+      FETF75
+      Electronic Weigh Crate for sheep
+      Weigh crate with electronic weigh system.       The weigh system will be a digital weighing device with the ability   to record individual animal weights and track the live weight gains.  If the reader relies on a mobile device to   input, access and record this information the mobile device must be purchased   as part of this item.      The system will be compatible for use with EID.       Must have the ability to download data to computer or mobile   device.       A weigh crate must be purchased   with this item.  If you wish to use an   existing crate or combine weighing with another item then you should not   include this item in your application.    Refer to FETF78 ‘Individual Electronic Weigh System (all species)’ and   FETF79 ‘Weigh bars and weigh platforms for weighing livestock’ for weighing   system components.
+      1,020
+    
+    
+      FETF76
+      Fixed Handling System for Pigs
+      Suitable for either indoor or outdoor production systems. Pig race   consisting of sheeted hurdles and gates. This must be a system which provides   a safe and effective race-way handling facility capable of being connected to   a weighing facility; either an individual crate or a weighing platform. The   system can be erected to suit the requirements of the individual site.  The system must consist of the following   minimum specification: 2 m x 1 m hurdles lined with a smooth sheeted material   capable of cleaning and disinfection (Qty:10), 2 m wide drafting gate in   frame 50 mm x 50 mm, also sheeted, race joiner, coupling pins (Qty:20).  All items should be constructed as a   minimum from galvanised steel but preferably in stainless steel, which is   lighter, significantly stronger and resistant to corrosive attack from acidic   disinfectants.       Wooden elements, for example, gates or hurdles are not eligible   under this item.       To be eligible the system must be fixed to the ground.  This should be a long-term fixture such as   concreting the supporting post into the ground or by bolting into the   existing concrete floor.
+      840
+    
+    
+      FETF77
+      Electronic Pig Weighing and Sorting Facility
+      To be used in conjunction with an integral Electronic Data   Management System.      Automatic electronic system for sorting pigs by weight using digital   weighing. With the ability to record live weights for individual pigs and   auto drafting to sort into specific weights or physical characteristics.   Suitable for use in both indoor and outdoor production systems.  The facility will have a computer or mobile   device interface to an integral electronic data management system. Capable of   weighing pigs from 7 kg to 250 kg.      System consists of a weigh crate, weigh platform and two auto segregation   gates.
+      1,160
+    
+    
+      FETF78
+      Individual Electronic Weigh System (all species)
+      Digital weighing device with the ability to record and display on   screen individual animals’ weights, track the live weight gains and access   recorded information on an individual animal, for example, breeding and   movements. If the electronic weighing system relies on a mobile device to   input, access and record this information the mobile device must be purchased   as part of this Item.       Must have the functionality to operate with EID readers and operate   auto drafting systems.  It must also   have the ability to be connected to a computer or mobile device to download   collected information.      Weigh bars are not included in this item they are a separate item -   see FETF79 ‘Weigh bars and weigh platforms for weighing livestock’ and FETF80   ‘Weigh bars or platform for animals less than 300 kg’.     Group and automatic average animal weighing systems are not eligible under this item.
+      348
+    
+    
+      FETF79
+      Weigh bars and weigh platforms for weighing livestock
+      Electronic load bars or electronic weigh platform to operate with digital   weigh heads/readers for use with cattle crushes, or batch weighing sheep or pigs.     Load bars must be heavy duty (HD) type load bars. The system must be   capable of weighing up to 2000 kg (to allow for crush or weigh pen).       Non electronic weighing systems are not eligible.       Digital weigh heads/readers are a   separate item see FETF78 ‘Individual Electronic Weigh System (all species)’.
+      440
+    
+    
+      FETF80*
+      Weigh bars or platform for animals less than 300 kg
+      Electronic load bars or electronic weigh platform to operate with   digital weigh heads/readers for use with, sheep races, sheep crates or pig   crates.      Load bars must be heavy duty (HD)type load bars.  The system must be capable of weighing up to   500 kg (to allow for weighing crate)     Non electronic weighing systems are not eligible.       Digital weigh heads/readers are a   separate item see FETF78 ‘Individual Electronic Weigh System (all species)’.
+      270
+    
+    
+      FETF81
+      EID Handheld Recorder Device
+      EID handheld device with RFID technology for individual reading and   recording of animals.      The reader must have the ability to record information on breeding,   births, weights, treatments and movements as a minimum. If the reader relies   on a mobile device to input, access and record this information the mobile   device must be purchased as part of this item. The reader must be capable of   exporting data to a computer based software package for the active monitoring   of livestock.
+      308
+    
+    
+      FETF82
+      EID Handheld Device (stick reader)
+      EID handheld device (stick reader) with RFID technology for   individual reading of animals.      Must be capable of scanning tags and storing tag data, with the   ability to connect wirelessly to mobile phones or other devices.      Must be able to read HDX and FDX B tags.
+      220
+    
+  
+
+
+
+
+      
+        
+          
+            Other Livestock Items
+          
+        
+        
+
+    
+  
+    
+      Item Number
+      Item Name
+      Item   Specification
+      Grant   Amount £     (based   on a quantity of 1)
+    
+  
+  
+    
+      FETF83*
+      Mobile Sheep Dip
+      2000 litre tank minimum, dripping pen area which drains into tank,   hydraulic system for unpacking/packing up, entry and exit ramps.  Tractor towed road legal.
+      5,616
+    
+    
+      FETF84*
+      Chemical free disinfection system for dairy farms
+      Low voltage electrical ozone-based disinfection systems. 250 litre   tank, suitable for dairy herds of 200 cattle minimum.
+      15,000
+    
+    
+      FETF85
+      Automated Footbaths for Cattle
+      A footbath for cattle that will automatically fill, dose, flush, and   replenish.
+      2,040
+    
+    
+      FETF86
+      Cluster Flush
+      System to back flush milking cluster to sanitise unit between cows.   Cost is per cluster unit.
+      360
+    
+    
+      FETF87
+      Hand-held Automatic Teat Washing System
+      Handheld automatic teat washing brush which can wash, disinfect,   stimulate, and dries all in one visit to the cow.       Maximum of 2 per application.
+      2,581
+    
+    
+      FETF88
+      Heat and Service Detector
+      Proximity based detection system using a collar detector worn by the   bull linked to RFID electronic ear tags on the cows.       System includes detection collar and a minimum of 50 ear tags.  Any additional tags to be purchased as   required but not eligible for funding.     The ear tag must have a life expectancy of at least five years and   not be used for animal identification in connection with cattle tracing   requirements of BCMS.       Maximum 2 systems per application.
+      438
+    
+    
+      FETF89
+      Calving Detectors
+      Detector system linked to mobile device to alert when cow begins calving.
+      84
+    
+    
+      FETF90
+      Heat Detection System - Base Unit
+      Automated system for the heat   detection in cows based on motion detection.      Using either electronic ear tags,   neck collars or ankle transponders to identify the animal - see FETF91 ‘Heat   Detection System - Ear Tag, Collar or Ankle Band’.
+      1,200
+    
+    
+      FETF91
+      Heat Detection System - Ear Tag, Collar or Ankle Band
+      Automated system for the heat detection in cows.  Ear tag, neck collars or ankle bands to   measure motion associated with oestrous behaviour. Cost is per neck   collar/ankle band or ear tag.       Note for ear tags to be eligible they must have a life expectancy of   at least five years and be reusable (transferable to another animal).  Tags used for Cattle Tracing System (CTS)   purposes are not eligible for funding.         Bolus type transponders are not eligible under this scheme.
+      34
+    
+    
+      FETF92
+      Real Time Milk Analysis
+      Milk sensors that produce data on conductivity and milk constituents   (including lactose and protein) per cow in real time.  Cost is per milking point.       Devices which only measure milk volume and/or milking time are not   eligible under this item.
+      560
+    
+    
+      FETF93
+      Mobile Calf Milk Pasteuriser and Dispenser
+      Mobile milk pasteuriser and dispenser with minimum 150 litres   capacity. With built in mixer, heater, temperature monitoring to aid   pasteurising and remaining volume indicator.    The system must be self-contained and fully mobile. With a   rechargeable battery system providing power to aid mobility, maintain   temperature during dispensing and aid milk dispensing.
+      3,053
+    
+    
+      FETF94
+      Auto Calf Feeder with Washing Facility
+      Programmable milk feeder for calves, capable of individually feeding   and monitoring calf intake. Able to alert if calf is not drinking or drinking   less than normal.  Must automatically   self-clean feeding tube and teat between each feeding.  Capable of feeding 30 calves individually.   Cost is for one programmable milk feeder and one feed station.
+      3,246
+    
+    
+      FETF95
+      Additional Feed Station
+      Purchase of an additional feed   station for programmable milk feeder (FETF94 ‘Auto Calf Feeder with Washing   Facility’) for calves.  Each feed   station should be capable of feeding 30 calves individually.  Maximum of 3 additional feed stations per   application.
+      734
+    
+    
+      FETF96
+      Badger Proof Feed Troughs
+      Cattle feed trough for in field use that includes rollers or other   mechanisms to reduce or eliminate the possibility of badgers making contact   with the feed. To ensure minimum contact by the badger with the food the   rollers or other mechanism must be at least 740 mm above surface of the   field.  Cost is per trough.
+      101
+    
+    
+      FETF97
+      Badger Proof Lick Holders
+      Cattle mineral/supplement holder, which by design will eliminate the   possibility of badgers making contact with the mineral/supplement.  To ensure minimum contact by the badgers   with the minerals/supplements the top edge of the holder must be at least 740   mm above surface of the field. Cost is per holder.
+      55
+    
+    
+      FETF98
+      Rotating Cow Brush
+      A purpose built swinging rotating cow brush with auto start stop.
+      514
+    
+    
+      FETF99
+      Swinging Brushes for goats and calves
+      A purpose built swinging rotating brush with auto stop start design specifically   for use by small animals including calves and goats.
+      386
+    
+    
+      FETF100
+      Cameras for monitoring livestock
+      IP (Internet Protocol) Camera for monitoring livestock, for example,   wired, Wi-Fi, fibre, or mobile data connections.      Outdoor rated IP66 with Pan Tilt and Zoom (PTZ), day and night   vision.     Infrared range of 50 m minimum, 18 x zoom minimum. 1080 pixels   minimum.      Must be compatible with online viewing app for smart phone or   tablet.
+      132
+    
+    
+      FETF101
+      Auto EID Drench Gun
+      A drenching gun that wirelessly communicates with a weigh head or   stock reader to automatically adjust the dosage of drench or pour on,   depending on the animal’s weight. Must include wireless technology to allow   the downloading of accurate medicine reports to a computer or mobile device.
+      340
+    
+    
+      FETF102
+      Auto Vaccination Gun for livestock
+      A vaccination or dosing gun that wirelessly communicates with a   weigh head or stock reader, automatically adjusting the dosage of vaccine or medicine   required based on the animal’s weight records.  Must include wireless technology to allow   downloading of accurate vaccination reports to computer or mobile   device.       Maximum 2 per application.
+      340
+    
+    
+      FETF103
+      Robotic Silage Pusher
+      Robotic system with intelligent software and programmable for the   intended feed passage.      The equipment must have the capability to detect the distance from   the feed barrier along with the amount of feed in the passage.
+      5,479
+    
+    
+      FETF104
+      Enclosed Piglet Creeps with Heat Pads
+      Made from GRP (Glass-Reinforced Plastic) with insulated side panels   and top, suitable for effective cleaning and disinfection.      Pads must be thermostatically controlled with the temperature sensor   either in the pad or creep area.      The power cable is protected from animal damage by a flexible   stainless-steel tube.     Each unit purchased must include a heat pad and creep.      Heat pads or creeps on their own are not eligible.
+      155
+    
+    
+      FETF105
+      Positive Pressure Tube Ventilation Systems
+      The system is aimed at improving natural ventilation pushing clean   fresh air into the building, using an internal horizontal inflatable   polythene (or similar type material) ventilation tube stretching the length   of the building, with holes cut to direct the air where needed. The cost must   include a wall mounted fan which draws fresh air into the building, a   controller and an internal inflatable tube (for example polythene), all   designed for agricultural use.
+      501
+    
+    
+      FETF106
+      Solar powered Electric Fencer Energiser
+      Solar powered electric fencing energiser with integrated solar panel   and battery. Energiser providing at least 0.15 joules output.     Purchased as a whole working unit (single item), not parts.
+      90
+    
+    
+      FETF107*
+      Electric fencing package
+      A package of electric fencing equipment to assist in delivering   mob/regenerative/rotational grazing on pasture, cover crops or temporary   leys. This must consist of the following:     Energizer – solar powered, 6 Joule output, minimum 9 Joule stored   energy with solar panels  x 1     Temporary fencing stakes – minimum 2 year guarantee minimum 100   purchased     Temporary End assemblies/reel holder posts minimum 8 purchased       Spools/reels for polywire – minimum 5 purchased     Pedestrian Geared Winder with stake storage or ATV or barrow-based   winding/storage system           To be eligible for funding under this item all of the above elements   must be purchased.
+      341
+    
+    
+      FETF108
+      Thermal Image Camera
+      Handheld colour thermal camera or tablet with an IR detector   generating images of at least 18,000 pixels to provide high degree of   resolution.  The device must display   temperature scale on screen with built in still and video recording   facilities. Device must include or come with viewing screen.       Images must be downloadable to computer or mobile device for storage   and further analysis. Cameras which do not have this ability to store images   or videos are not eligible.
+      263
+    
+  
+
+
+
+
+      
+        
+          
+            General Items
+          
+        
+        
+
+    
+  
+    
+      Item Number
+      Item Name
+      Item   Specification
+      Grant   Amount £     (based   on a quantity of 1)
+    
+  
+  
+    
+      FETF109*
+      Central tyre inflation system
+      The central tyre inflation system can regulate the tyre pressure of   all tyres on the vehicle.  Being able   to inflate or deflate tyres from the cab to suit ground conditions and in   emergency maintain air pressure in a tyre if there is a slow leak until the   vehicle can be moved to a safe place to attend to the leak.  The system purchased must include pneumatic   control unit, operator control panel, wheel valves and pressure switch. Only   systems fitted to agricultural vehicles are eligible under this item. The   system purchased must be able to be retro fitted to any tractor.  Systems for cars, 4x4s, vans and commercial   vehicles are not eligible under this item.
+      2,413
+    
+    
+      FETF110
+      Cover Crop Roller 3m
+      Front tractor mounted roller system to terminate and/or bruise cover   crops ahead of direct drill.      Minimum of 3 m width. To be eligible the roller should be   constructed to have an uneven or ridged surface to aid the crimping or   bruising of the cover crop to destroy it. To be eligible the roller must   completely crimp or bruise the crop across the full working width of the   roller. Flat rolls and Ring rolls are not eligible under this item.
+      1,952
+    
+    
+      FETF111
+      Cover Crop Roller 6 m
+      Front tractor mounted roller system to terminate and/or bruise cover   crops ahead of direct drill.      Minimum of 6 m width. To be eligible the roller should be   constructed to have an uneven or ridged surface to aid the crimping or bruising   of the cover crop to destroy it. To be eligible the roller must completely   crimp or bruise the crop across the full working width of the roller. Flat   rolls and Ring rolls are not eligible under this item.
+      3,313
+    
+    
+      FETF112
+      Grassland Sward Lifters
+      Minimum three legs with adjustable depth control (at least to 300 mm) via the legs or packing rollers.      Machine must have cutting disc in front of, and a packing roller   behind, each leg, shear bolt or mechanical reset on each leg.
+      2,804
+    
+    
+      FETF113*
+      Comb weeder
+      A fixed blade machine which exploits the physical differences   between flexible crops and thicker stemmed weeds, 6 m minimum working width.
+      2,656
+    
+    
+      FETF114*
+      Biological control applicator
+      Fan powered applicator. Should give an even distribution of up to 3 m or more.
+      906
+    
+    
+      FETF115
+      Wide Area Network equipment
+      Wireless network repeaters or wireless bridges to extend an existing   wireless network to enable devices to connect for agricultural use. Must   operate in the 5.1-5.8 GHz range. Must be IP 64 rated (water/dust).
+      74
+    
+    
+      FETF116
+      Fibre Optic Networking Equipment
+      Fibre optic networking cable (minimum 50 m lengths) plus minimum two   media convertors to enable devices to connect for agricultural use.
+      84
+    
+    
+      FETF117*
+      Crop storage sensors
+      Wireless sensors designed to transmit temperature, CO2 and relative   humidity info to mobile, tablet and PC.
+      3,980
+    
+    
+      FETF118
+      Digital Weather Station
+      A system/station that has the minimum functionality to record   barometric pressure, temperature, humidity, rainfall, wind speed and direction,   solar radiation, UV levels, soil moisture and soil temperature. The system   must be able to link wirelessly to a computer.  The cost includes the station, mounting   facilities and sensors for above functionality. Excludes installation costs,   service costs annual licence fee for software and calibration.
+      814
+    
+    
+      FETF119
+      Portable Carbon Dioxide Analyser
+      Portable gas analyser for use in checking and recording levels of   carbon dioxide in crop stores and livestock buildings.      Must include visual and audio alarms accuracy of plus or minus 40   ppm or less.      Must be able to store data for later download via Wi-Fi, or USB   connection to computer or tablet.
+      74
+    
+    
+      FETF120
+      Portable Ammonia Analyser
+      Portable gas analyser for use in checking and recording levels of ammonia in livestock buildings. Must include visual and audio alarms. Must be able to store data for later download via Wi-Fi, or USB connection to computer or tablet.
+      109
+    
+  
+
+
+
+
+
+        
+  

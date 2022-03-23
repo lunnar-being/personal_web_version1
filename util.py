@@ -213,6 +213,106 @@ def export_excel2(db, name, num):
     response.headers['Content-Disposition'] = 'attachment; filename=keywords.xlsx'  # 浏览器打开/保存的对话框，data.xlsx-设定的文件名
     return response
 
+
+# 判断检索类型：高级检索 或者 关键词检索
+# 高级检索模块：逆波兰转化
+def advanced_trans(query):
+    flag_common = 0 #判断是否是普通检索
+    for i in ['AND','OR','NOT']:
+        if i not in query:
+            flag_common +=1
+    if flag_common == 3:
+        return query
+    # 转换成数学式形式（分词）
+    query = query.replace('AND', '_*_')
+    query = query.replace('OR', '_+_')
+    query = query.replace('NOT', '_-_')
+    query = query.replace(' ', '')
+    query = query.replace('（', '_(_')
+    query = query.replace('）', '_)_')
+    query = query.replace('(', '_(_')  # 中英文括号都考虑
+    query = query.replace(')', '_)_')
+
+    query = re.split('_', query)
+
+    while '' in query:
+        query.remove('')
+
+    # 开始逆波兰
+    stack, result = [], []
+    priority = {"*": 1, "+": 2, "-": 2}
+
+    for i in query:
+        if i == "(":
+            stack.append(i)
+        elif i == ")":
+            while stack[-1] != "(":
+                result.append(stack.pop())
+            stack.pop()
+        elif i in "*+-":
+            while len(stack) >= 1 and stack[-1] != '(' and priority[stack[-1]] <= priority[i]:
+                result.append(stack.pop())
+            stack.append(i)
+        else:
+            result.append(i)
+
+    while stack != []:
+        result.append(stack.pop())
+
+    return " ".join(result)
+
+
+class Stack:
+
+    def __init__(self):
+        self.items = []
+
+    def isEmpty(self):
+        return self.items == []
+
+    def push(self, item):
+        self.items.append(item)
+
+    def pop(self):
+        return self.items.pop()
+
+    def peek(self):
+        return self.items[len(self.items) - 1]
+
+    def size(self):
+        return len(self.items)
+
+# def word2pla(i):#检索词i
+#     pla=set()#空集合，最终输出
+#
+#     pla.add(i)
+#     return pla
+#
+# def polishcal(i):
+#     ope = ['+', '-', '*']
+#     s = advanced_trans(i).split()
+#     print(s)
+#     stack = Stack()
+#     for x in s:
+#         if (x in ope) == False:
+#             stack.push(word2pla(x))
+#         elif x == "+":
+#             a = stack.pop()
+#             b = stack.pop()
+#             print(a)
+#             print(a | b)
+#             stack.push(a | b)
+#         elif x == "-":
+#             a = stack.pop()
+#             b = stack.pop()
+#             stack.push(b - a)
+#         elif x == "*":
+#             a = stack.pop()
+#             b = stack.pop()
+#             stack.push(a & b)
+#
+#     return list(stack.peek())
+
 if __name__ == '__main__':
     file = FileName(
         'https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/951739/Laptops_and_Tables_Data_as_of_12_January.pdf')

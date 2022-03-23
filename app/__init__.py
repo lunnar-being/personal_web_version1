@@ -5,7 +5,7 @@ from config import Config
 from flask_sqlalchemy import SQLAlchemy
 from flask_login import LoginManager, current_user
 
-db = SQLAlchemy()
+db = SQLAlchemy(session_options={"autoflush": False})
 login_manager = LoginManager()
 login_manager.login_view = 'auth.login'
 from util import logging

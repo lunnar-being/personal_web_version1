@@ -1,0 +1,76 @@
+    
+
+
+
+ have lifted stringent shelter-at-home measures and reopened their economies. But in the country as a whole, the number of COVID-19 cases continues to rise, with a seven-day average of 47,166 new cases as of August 20, 2020.
+
+
+ Several regions around the world have relied on scaled-up infrastructure for polymerase-chain-reaction (PCR) testing to serve as an essential part of early-monitoring systems for COVID-19. Those areas have principally tested across symptomatic individuals and also used other methods, such as real-time syndromic monitoring systems.Broad implementation of a range of COVID-19-monitoring methods, with a goal of creating an overarching monitoring infrastructure,
+
+
+ is likely critical, given both the contagious nature of COVID-19 and the high rate of asymptomatic presence of the disease. A COVID-19-monitoring infrastructure could increase the ability to anticipate potential outbreaks and uncontrolled spread in time to prevent them. There are several approaches to COVID-19 monitoring that can be used in conjunction with one another.The uptake of the different approaches would be variable by country and state, with significant opportunity to employ several approaches in the United States to help ease reopening. Scaling up a variety of approaches could help mitigate second waves of infection, which threaten the US healthcare system’s ability to manage patients adequately. Monitoring-methodology use could also be varied, leveraging best practices from across the United States and the world, including a mix of testing and digital monitoring, wastewater monitoring, and other monitoring approaches. In this article, we describe the current state of play of the various methodologies.Molecular testingMolecular testing, which includes PCR testing, has been the mainstay of COVID-19 monitoring to date in the United States, despite the fact that it largely focuses on symptomatic or exposed individuals. The United States is beginning to expand use cases to test higher-risk populations on an ongoing basis. While molecular testing is helpful and will likely aid in infection management, its success in early detection of an outbreak may be limited because of varying viral load over the course of the infection and sample collection methods. Recent research shows that, over the course of infection, low viral load in the early and late phases may result in only 67 to 80 percent of cases returning positive test results.
+
+
+ Individuals may have several contacts and exposures to others who are asymptomatic but still infected.As the number of positive cases increases, there has also been a surge in testing that is beginning to hit limitations on scale. Contributing factors include limitations on consumable supplies (for example, reagents) for both lab-based and rapid point-of-care molecular testing, the overall turnaround times for lab results, and capacity for lab-based molecular testing. Pooled testing has recently been given an Emergency Use Authorization from the US Food and Drug Administration as an option for improving capacity for lab-based molecular testing.
+
+
+ Dependence on such testing for proactive monitoring is likely limited. Expansion for rapid point-of-care molecular testing will likely prove to be fruitful for monitoring purposes.
+
+	
+
+
+
+
+    
+    
+
+Serology testingThere has been significant discussion around the applicability of serology testing in COVID-19-infection control. Today there are antibody tests in the market with arguably reliable performance.
+
+
+ However, existing research has not resulted in a conclusive picture in immunity after exposure (and at what level of antibody and for what duration). Additionally, the tests cannot detect an active infection early enough to direct self-isolation measures. Such tests would give a good view of historical exposure to COVID-19 and, hence, its prevalence in the US population.
+
+
+Digital monitoringContact-tracing applications have been widely used in some countries, including Singapore and South Korea, and have been credited with some of the success of those countries in controlling widespread COVID-19 outbreaks.
+
+
+ Contact-tracing apps can be helpful but rely on high adoption rates, controlled follow-up measures for quarantine and isolation,
+
+
+ and initial testing for efficacy. Adherence to privacy laws and regulations adds complexity, as governments must balance data privacy with disease tracking. Several contact-tracing apps are available in the United States, but limited adoption, lack of follow-up, and meager coordination among regions has resulted in their poor performance as effective infection-monitoring and -control solutions.Another methodology in digital monitoring includes utilization of mobility data, with analyses on geographic trends to understand the risk of infection on an individual basis. Such services and products may be further supplemented with app-enabled thermometers and other hardware to aid in syndromic monitoring.Digital monitoring of COVID-19 is one strategy to help reduce new infections. However, adoption of those measures may be controversial or require stringent privacy guards, especially in communities that are concerned about the release of private health or personal-identification data.Syndromic monitoringSyndromic-monitoring methods for detecting disease early and tracking clusters of cases for signs of potential outbreaks have been employed in the United States, including through the National Syndromic Surveillance Program, for COVID-19-like illnesses for which outpatient- and emergency-department-visit data are captured and monitored.
+
+
+ Other regions that have used such methods, covering the majority of their populations, including the Honghu Hybrid System that covered 95 percent of a population of around 900,000,
+
+
+ have seen success in early detection. More research is necessary to see if syndromic monitoring is sensitive enough for early detection of COVID-19 and containing outbreaks.Private businesses, academic institutions, and other population segments have begun using symptom tracking, in combination with stringent follow-up measures on isolation, as a way to prevent COVID-19 outbreaks.
+
+
+ A system that relies on self-reported symptoms will always be challenging, with difficult processes for validating results. In addition to a high capture rate on the population, early reporting, rapid detection, and quick operational intervention for quarantine would be needed for symptom tracking to be able to act as a preventative measure for COVID-19 outbreaks. Syndromic monitoring would be ineffective if there were incorrect, late, or low or partial population reporting and a lack of measures to limit potential exposure and contact.
+		
+	
+Wastewater monitoringTesting wastewater from drainage systems and sewage-treatment facilities for viruses has long been an early-warning tool in the monitoring of diseases and viruses (for example, influenza, polio, hepatitis A, Zika virus, and West Nile virus).
+
+
+ Wastewater testing for the early detection of COVID-19 has been used in Australia, the Netherlands, and Sweden, among other regions.
+
+
+Several US states and institutions are beginning to explore wastewater testing as a method for the early detection of potential COVID-19 spread and outbreak. As a noninvasive approach, it could limit the need for ongoing or asymptomatic individual-based testing. Furthermore, it could be used to determine potential hot spots based on the level of viral signal in samples. Testing wastewater would likely call for fewer number of tests than random PCR sampling does because of the lower volume of testing required. Wastewater testing could also provide helpful insights for adjusting preventative measures.To create a wastewater-monitoring program, the overall study design, including an understanding of the level of viral load and its implication on the overall case-positivity rate in the population, must be completed. That step is complicated by the dilution of viral RNA in sewage sludge, which means a quantitative test, as well as consistency in sample collection and preparation, would be necessary. Natural or other events (for example, rainwater, commuting, and tourism) that may affect the concentration of viral load in sludge in a specific location will also need to be considered when designing the program. Further challenges include the catchment area and the level of specificity (for example, at the county, zip-code, or block level), which should be measured.
+
+
+Other concerns for wastewater monitoring include privacy and the potential stigmatization of any population segments, with some believing that monitoring should capture populations of more than 10,000 to maintain enough anonymity.
+
+
+ Septic systems may also add additional challenges because of nuanced specimen-collection needs. Those considerations and perhaps other barriers have resulted in a relatively slow uptake of wastewater monitoring in the United States.
+		
+	
+Other monitoringIn addition to molecular testing, other testing types to consider for a comprehensive COVID-19-monitoring system include the following:
+    antigen and CRISPR testing
+    high-touch-surface sampling (studies have indicated that it can detect viral RNA on commonly used surfaces and objects
+
+
+)
+    genomic sequencing, which can help in understanding the lineage of COVID-19 infection and transmission
+
+
+
+Targeted testing approaches can also help with monitoring mechanisms. For example, conducting COVID-19 testing for all customers entering a large public or private business may help detect potential spread and hot spots. Coupled with test pooling, that could be an efficacious way to conduct targeted monitoring.To date, the United States has mostly relied on symptomatic molecular testing for monitoring COVID-19, creating a more retroactive (and limited, given current reagent and equipment shortages) approach to outbreak and infection management. While serology is being explored for monitoring purposes, that method mostly acts as a retrospective tool in understanding infection spread. The use of digital and syndromic monitoring faces barriers that dilute their power in accurate and early detection of COVID-19 hot spots and outbreaks.There is an urgent need to explore other solutions. These may include widespread use and adoption of syndromic, digital, and wastewater monitoring and other innovative methodologies. Use of asymptomatic molecular testing, especially rapid molecular testing, can also provide a better early-detection mechanism for monitoring COVID-19. Adoption of monitoring methodologies could significantly enhance the United States’ ability to detect and prevent outbreaks as the country continues on its path to a stable reopening.

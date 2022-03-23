@@ -1,0 +1,276 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Project Gigabit: UK subsidy advice
+  
+
+  
+  
+
+  
+    
+  Guidance covering plans to improve the UK's broadband network, with emphasis on making high-speed broadband available in rural areas.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Digital, Culture, Media & Sport
+
+      
+      Published
+      1 June 2021
+      Last updated
+      
+        23 November 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Detailed overview of the Gigabit Infrastructure Subsidy scheme
+    
+        PDF, 1.27 MB, 46 pages
+    
+
+
+  
+
+  
+      
+  
+  
+    OMR/PR - Subsidy Control Classification Guidance  
+    
+        PDF, 1.07 MB, 16 pages
+    
+
+
+  
+
+  
+      
+  
+  
+    Project Gigabit - Table of Ongoing BDUK Subsidy Procurements
+    
+        ODS, 160 KB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+  
+      
+  
+  
+    Gigabit Infrastructure Subsidy guidance: transparency (monitoring and reporting)
+    
+        HTML
+    
+
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+Commercial
+
+Details of the contracts and procurement process are available at the eTendering System for Gigabit Infrastructure Subsidy Contracts.
+
+Background
+
+The Future Telecoms Infrastructure Review (FTIR) was published in July 2018 and laid out a vision for a full fibre and 5G future for the UK highlighting the considerable potential benefits to the UK.
+
+The key findings of the FTIR were that, despite over 97% coverage of superfast broadband, largely based on copper user connections, the UK was in danger of falling behind on rolling out fibre and 5G connections. It proposed a more proactive approach than has been taken historically in the UK.
+
+The FTIR proposed, as part of a wider range of measures under the Project Gigabit, an “outside in” procurement approach, named the Gigabit Infrastructure Subsidy . In essence this procurement approach seeks to minimise market distortion by relying on industry to build where it makes commercial sense to do so. Rather than wait for this process to run its course, FTIR recommends that we identify the non-commercial areas, expected to be at the outside of the networks, and to build to these premises in parallel to commercial build , seeking to provide gigabit-capable connectivity across all areas of the UK at the same time, ensuring no areas are systematically left behind.
+
+Government subsidy rules
+
+Under the United Kingdom/European Union Withdrawal Agreement of October 2019, all awards made prior to the end of the Transition Period (31 December 2020) continue to fall under the State Aid regime for a period of four years and need to be managed in accordance with the rules in that period.
+
+This also applies for future procurements and awards made under the Superfast Broadband Programme. 
+We are developing the UK Gigabit Programme within the UK Subsidy Control Regime and have published detailed guidance on the approach.
+
+
+
+        
+      
+
+      
+    Published 1 June 2021
+    Last updated 23 November 2021
+      + show all updates
+      
+        
+            
+              23 November 2021
+              Subsidy tracker update
+            
+            
+              12 November 2021
+              Added Transparency (Monitoring & Reporting) guidance
+            
+            
+              19 October 2021
+              Addition of Subsidy OMR/PR guidance
+            
+            
+              1 June 2021
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Building Digital UK
+        UK Gigabit Programme: public reviews
+        Resources for communications network providers
+        Project Gigabit Delivery Plan - Summer Update
+        GigaHubs: key information
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Broadband investment
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

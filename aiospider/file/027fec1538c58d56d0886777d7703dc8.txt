@@ -1,0 +1,70 @@
+
+        
+        
+        
+     to rise above the ever-increasing urban-road congestion has gained significant momentum. With more than 250 businesses planning to build, operate, or manufacture urban-air-mobility (UAM) vehicles, all at different stages of development, a growing assortment of industry players is working across the value chain to make this dream a reality. Enabled by vertical-takeoff and -landing (VTOL) systems, electric propulsion, and advanced flight-control capabilities, these vehicles could eventually reach price points rivaling today’s taxi services.The resulting flying vehicles will be energy efficient, quiet, environmentally friendly, and . Although some may question the projected costs involved, their concerns might be misplaced. Adding new transportation capacity in most cities is extremely expensive, especially if it involves tunneling for subways or bypasses. The cost of building a subway in a city can exceed $500 million per mile, for instance.
+
+
+ UAM may thus represent a more cost-effective method, in some cases.For UAM to be truly successful, trip costs must fall around 80 percent from current helicopter levels for UAM to compete with ground travel (Exhibit 1). In addition to physical infrastructure—places that vehicles take off and land—success will require a variety of infrastructure to support unmanned air-traffic control, aircraft charging and/or refueling and connectivity.
+    
+Although the coronavirus pandemic will inevitably shift market dynamics and influence the adoption rate of UAM, the sector still offers many opportunities for innovators. This article explores how physical infrastructure for UAM could evolve and help shape the market. Our discussion focuses on intracity and metropolitan UAM travel with a distance of under 50 miles. While many other use cases exist for longer trips, they have different dynamics, economics, and infrastructure needs.Physical infrastructure provides industry liftTo offer sustainable service, flying vehicles need places to take off, land, receive maintenance, charge their batteries and/or refuel their tanks, and park. Complicating the picture, traffic flows are typically unevenly distributed and highly directional. Mornings and evenings see high demand for travel, while demand is low in the middle of the day and nights. In Seattle, for instance, most travel occurs between 7:00 a.m. and 9:00 a.m. (Exhibit 2). Consequently, infrastructure must support both peak flight needs and off-peak parking needs. That creates a dilemma: infrastructure networks will be larger than needed to support “average” utilization, or else operators must spend money to shuttle empty vehicles between parking and active sites.
+    
+The physical infrastructure will be an important determinant for the size of the addressable market, since the only trips possible are between VTOL ports. If only a few ports are available, flying-vehicle transport could follow a pattern similar to that seen in today’s helicopter market, where the number of potential destinations is limited. For instance, helicopter trips in cities such as London and New York can only occur between major airports and select locations in city centers—the only locations with available ports. If leaders want to scale the UAM market and not face the limits seen with today’s helicopter transport, they must establish many more ports, as well as more routes among them.
+	
+The location of the infrastructure will determine market-conversion levels. The closer a passenger is to a takeoff or landing spot, the greater the potential for time savings. If a landing spot is too far away from the origin or destination, the customer might not save enough time for a UAM trip to make sense.Envisioning an infrastructure networkThe specific design requirements for a UAM network will vary by city. We expect that concerns about COVID-19 will increase the importance of safety during travel, and UAM stakeholders will adapt essential infrastructure to meet those requirements. This section defines three potential UAM-infrastructure archetypes that could emerge (Exhibit 3). For each archetype, we estimate costs, and the calculations assume that the land is rented. The following are simply illustrative examples, and the section does not intend to describe all variations or provide a model of what a UAM network must include:
+     Vertihubs are the largest structures. Envisioned as stand-alone buildings constructed in central, high-traffic areas, they will have around ten active takeoff and landing areas, plus 20 additional spaces for parking or maintenance. Vertihubs could also include some level of retail and other services for passengers. We estimate they could cost $6 million to $7 million to build and $15 million to $17 million per year to operate.
+
+
+ Our operating-cost estimates do not include the cost of power for charging or refueling.
+
+
+
+     Vertibases are medium-size structures, either newly built or created by retrofitting existing structures such as parking garages and corporate-headquarters rooftops. Located in medium-traffic areas, such as suburbs, or at major work or retail locations, vertibases would have around three active takeoff and landing spaces, plus six additional spaces for parking or vehicle maintenance. We estimate they could cost $500,000 to $800,000 to build and $3 million to $5 million per year to operate.
+     Vertipads represent the smallest structures and would function as the spokes in the hub-and-spoke network. As with vertibases, they could be newly built or created by retrofitting existing structures. Typically located in suburban or rural locations (up to 50 miles from the rest of the network), they would have one takeoff and landing area, plus two spots for parking or vehicle maintenance. We estimate they could cost $200,000 to $400,000 to build and $600,000 to $900,000 per year to operate.
+
+    
+Every city will have these three structures, but the mix will likely differ. We believe that two types of networks could emerge—one for large, densely populated cities, such as London, New York, and Shanghai, and a second for medium-size, less densely populated cities with both urban and suburban neighborhoods, such as Dallas and Düsseldorf.
+    
+For large, densely populated cities, there could
+be roughly 85 to 100 takeoff and landing pads,
+including the following:
+    vertihubs located at one or two major airports, as well as two or three city locations around major commute corridors
+    ten to 15 vertibases around commuting-origin and -destination areas
+    five to ten vertipads at targeted areas of interest or for private use
+Building this infrastructure network would cost approximately $35 million to $45 million,
+
+
+ with annual operating costs of around $110 million to $130 million per year.
+
+
+In medium-size, less densely populated cities, there would be around 38 to 65 takeoff and landing pads, including the following:
+    vertihubs at one major airport and one or two city locations
+    five to ten vertibases to handle workplace commutes and retail districts
+    three to five vertipads near suburban commute stations
+Building this infrastructure network would cost between $15 million and $20 million,
+
+
+ and annual operating costs would range from $35 million to $50 million per year.Exhibit 4 summarizes the network structures, network costs, and annual operating costs for both types of cities.
+    
+Assessing the economics of flying-vehicle networksCost remains the critical element in assessing the viability of any proposed VTOL-port strategy. The following four selected insights on the economics of such infrastructure networks provide some clarity about the costs associated with a flying-taxi network.Insight 1: The infrastructure network can break even in a small, premium marketAssume that infrastructure charges are about $150 per trip—a figure that excludes charging or refueling costs, just as inner-city heliports do today when calculating their expenses. Under these circumstances,
+the following scenarios would allow UAM providers to break even on fixed costs
+
+
+:
+    Large, densely populated cities. The network would require approximately 2,200 trips per day (one trip every 60 minutes when averaged over 24 hours). During peak travel times, this would increase to one trip every 20 minutes.
+    Medium-size, less dense cities. The network would require 750 trips per day (one every 100 minutes when averaged over 24 hours). During peak travel times, this would increase to one trip per pad every 30 minutes.
+At this price level, the per-passenger charges would be in the $50 to $75 range, depending on the number of passengers per trip. While this is expensive, the charges are similar to those for other luxury-transport options, such as black-car and helicopter travel. Essentially, UAM in this type of small, premium market would work.Insight 2: To achieve very low trip costs for passengers, the network needs to accommodate very rapid turnaround timesTo get to per-passenger charges of $25 per trip–in line with mass-market travel today–the network must generate 10,000 trips per day in a large, dense, high-income city and approximately 3,500 trips per day in a medium-size, less dense city. These trip counts translate to more than one trip every five minutes per landing pad across the network, accounting for peak travel needs. This represents a significant challenge, given the logistics of flight. Landing, deplaning, boarding, transferring baggage, charging batteries or refueling tanks, and preparing for takeoff are likely to take more than five minutes. The increasing importance of ensuring safety in a post-COVID-19 world could also increase the time between flights because of the need for intensive aircraft cleaning and appropriate physical distancing among passengers. It will likely be a challenge for every port to complete all required tasks reliably and consistently in the short time frame available.Insight 3: Achieving a return on invested capital, excluding charging and refueling costs, could be feasibleWhile networks can cover operating costs through landing fees, UAM infrastructure will not be cheap to build. Construction at the sites to build the ports, tooling for maintenance activities, and other smaller expenses,
+
+
+ such as lighting and emergency preparedness, could cost between $15 million and $45 million. It also would take time to ramp up trip volume (Exhibit 5). Consider the following scenario: infrastructure gets built, and the desired number of trips ramps up over five years, which is likely a realistic time frame. In this case, the infrastructure owners would have to charge a 15 to 20 percent margin on landing fees to achieve a reasonable return on their capital investment. If passenger traffic continues to rise, network operations will increase in scale, resulting in further cost reductions and a larger addressable customer base.
+    
+Insight 4: The cost of charging or refueling, both initially and ongoing, is significant and will affect the business caseThe UAM industry is taking various approaches to vehicle propulsion, including electric batteries (necessitating fast charging or battery swapping), hybrid gas and electric, and hydrogen. The infrastructure required for superfast charging of UAM vehicles does not yet exist. To create it, networks would need to install the necessary physical hardware and then pay utilities for electricity drawn at very fast rates. In such cases, the cost of the charging infrastructure could be between 65 and 75 percent of the total initial capital expense, unlike the cost of fueling infrastructure today. Similarly, the cost of the electricity could be 30 to 35 percent of the estimated annual operating expenses.What will it take to make this work?Although infrastructure networks face significant economic and operational challenges, they can evolve to support the UAM market if the following enablers are present:
+     Infrastructure operators could leverage ancillary sources of revenue beyond landing fees. Airport operators follow this strategy today, obtaining about half of their revenue from nonairline-traffic sources, such as retail, personal-services, and integration fees.
+
+
+
+     Private companies or individuals could invest in ports at large corporate headquarters or personal estates to help support the initial market.
+     Cities and states could consider subsidizing network construction to enhance public welfare. In addition to reducing commute times, these efforts would bolster their public image and improve tourism. Cities and states that have undertaken other transport-infrastructure initiatives, such as the Shanghai magnetic rail, have often seen gains in these areas.
+     Rather than starting with large and expensive vertihubs, which must be newly built, stakeholders should initially focus on encouraging trips that use existing helipads or undertaking small-scale projects to retrofit pads and bases. They should also concentrate on routes that are likely to draw the most traffic and passengers with high willingness to pay. As the market takes root and demand starts to grow, stakeholders can invest in the larger new builds.
+     While this article focuses on the physical space required for the UAM market to take flight, the power/fuel infrastructure required to enable rapid battery swapping, hydrogen refueling, or extremely fast high-power charging—for instance, in a two- to three-minute time frame—is also critical. Infrastructure operators should work with utilities and/or fuel providers to streamline this part of the solution.
+     In addition to using existing helipads, the early market will benefit from “infrastructure in a box” solutions that can quickly convert the top of a parking garage or building into a functional vertipad or vertihub through a lease, subscription, or revenue-share model.

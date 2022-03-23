@@ -1,0 +1,526 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Open standards for government
+  
+
+  
+  
+
+  
+    
+  Information about the open standards chosen for use in government technology. 
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Cabinet Office and Central Digital and Data Office
+
+      
+      Published
+      27 September 2013
+      Last updated
+      
+        4 December 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+  
+    
+      Get emails about this page
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Identifying property and street information
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Exchanging Cyber Threat intelligence
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Publishing grant data
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Formatting dates and times in data
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Publishing contract data
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Publishing international development data
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Publishing job vacancies
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Share information between emergency services with MAIT
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Exchange of location point
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Use consistent country codes
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Tag content with international language codes
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Encoding characters
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Persistent resolvable identifiers
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Sharing or collaborating with government documents
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Publishing government documents
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Exchange of contact information
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Exchange of calendar events
+    
+        HTML
+    
+
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+The UK government selects open standards for use in government technology. The aim is to apply these consistently across government bodies, making our services more integrated and better for users.
+
+These profiles include the open standards chosen by peer review and public comment through the Open Standards for government process.
+
+The Open Standards Board endorsed the first set of open standards for government technology in September 2013.
+
+
+
+        
+      
+
+      
+    Published 27 September 2013
+    Last updated 4 December 2020
+      + show all updates
+      
+        
+            
+              4 December 2020
+              PDFs on GOV.UK must either become HTML, or have an HTML or other OpenDocument version to meet accessibility standards.
+            
+            
+              1 July 2020
+              Addition of new profile for 'Identifying property and street information'. Please note that the publication date for this profile will appear on all the profiles but there are no changes to any other profiles at this time.
+            
+            
+              19 June 2020
+              The open standards profile for 'Publishing contract data' has been rewritten into plain English. There are no changes to the content or the standard.
+Please note that the new publishing date will appear on all of the open standards profiles, but these have not been changed at this time.
+            
+            
+              19 June 2020
+              The open standards profile for 'Formatting date and times in data' has been rewritten into plain English. There are no changes to the content or the standard.
+Please note that the new publishing date will appear on all of the open standards profiles, but these have not been changed at this time.
+            
+            
+              9 June 2020
+              The open standards profiles for 'Encoding characters' has been rewritten into plain English. There are no changes to the content or the standard.
+Please note that the new publishing date will appear on all of the open standards profiles, but these have not been changed at this time.
+            
+            
+              5 May 2020
+              The open standards profiles for 'Exchange cyber threat intelligence', 'Publishing grant data' and 'Use consistent country codes'
+have been rewritten into plain English. There are no changes to the content or the standards.
+Please note that the new publishing date will appear on all of the open standards profiles, but these have not been changed at this time.
+            
+            
+              27 April 2020
+              The open standards profiles for 'Exchange of location point', 'Sharing or collaborating with government documents' and 'Tag content with international language codes'
+have been rewritten into plain English. There are no changes to the content or the standards.
+Please note that the new publishing date will appear on all of the open standards profiles, but these have not been changed at this time.
+            
+            
+              27 March 2020
+              The MAIT open standards profile has been rewritten into plain English. There is no change to the content or the standard.
+Please note that the new publishing date will appear on all of the open standards profiles, but these have not been changed at this time.
+            
+            
+              10 March 2020
+              Publishing job vacancies has been rewritten into plain English. There is no change to the content or the standard.
+Please note that the new publishing date will appear on all of the open standards profiles, but these have not changed at this time.
+            
+            
+              19 February 2020
+              Rewrite of Publishing international development data into plain English
+Rewrite of Publishing government documents into plain English with addition of information about PDF/A
+            
+            
+              18 October 2019
+              Re-write of the profile for exchange of contact information into plain English.
+            
+            
+              10 October 2019
+              Content for the Calendar Exchange profile rewritten for clarity.
+            
+            
+              27 March 2019
+              Addition of the profile for the open standards STIX 2 and TAXII 2. These standards are for analysing and sharing intelligence between government departments, industry and international partners.
+            
+            
+              27 February 2019
+              Addition of the open standard 'Data standard for grant making' recently approved for use in government by the Open Standards Board.
+            
+            
+              15 January 2019
+              Updated language for greater clarity.
+            
+            
+              16 August 2018
+              We now use Unicode 11 as the standard for character encoding.
+            
+            
+              7 August 2018
+              Updating the Unicode standard for cross platform character encoding
+            
+            
+              31 January 2018
+              Addition of the approved Time and Date standard for use by the government.
+            
+            
+              29 August 2017
+              This page was updated to reflect clarification recommendation that were suggested on [Alphagov open standards page](https://github.com/alphagov/open-standards/issues/48)
+            
+            
+              8 August 2017
+              Open contracting data standard changed from OCDS V 1.0 to OCDS V 1.1.
+            
+            
+              26 January 2017
+              Open contracting data standard added.
+            
+            
+              5 January 2017
+              Added open standards for international development data
+            
+            
+              20 May 2016
+              Added publishing vacancies online standards profile and multi agency incident transfer.
+            
+            
+              7 March 2016
+              Added standard: exchange of location point
+            
+            
+              6 August 2015
+              Added open standards for country codes and language tags
+            
+            
+              17 March 2015
+              Added open standards for sharing calendar events and contacts information.
+            
+            
+              22 July 2014
+              Added 2 new standards: Viewing government documents and Sharing or collaborating with government documents.
+            
+            
+              27 September 2013
+              First published.
+            
+        
+      
+
+
+
+      
+  
+    
+      Get emails about this page
+
+
+
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Open standards for government data and technology
+        Choosing open standards for government
+        Make use of open standards
+        Open standards principles
+        Recommended open standards for government
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Government efficiency, transparency and accountability
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

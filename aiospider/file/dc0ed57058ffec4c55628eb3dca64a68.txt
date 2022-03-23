@@ -1,0 +1,1 @@
+The objective of this project is to perform Engineering Design of a Linde-BASF Advanced Post-Combustion CO2 Capture Technology.

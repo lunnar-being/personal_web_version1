@@ -35,6 +35,7 @@ class User(UserMixin, db.Model):
     username = Column(TEXT, nullable=False)
     password_hash = Column(TEXT, nullable=False)
     role_id = Column(INTEGER, nullable=False)
+    favor = Column(TEXT)
 
     @property
     def password(self):
@@ -89,7 +90,7 @@ class PolicyText(db.Model):
     id = Column(INTEGER, primary_key=True)  # 政策文本id，主键
     source_url = Column(TEXT, nullable=False)  # 来源url
     # site = Column(VARCHAR(100))  # 站点（域名）
-    # nation = Column(VARCHAR(30), nullable=False)  # 国别
+    nation = Column(VARCHAR(30), nullable=False)  # 国别
     time = Column(DateTime, nullable=False)  # 发布时间
     institution = Column(TEXT)  # 发布机构
     translated_institution = Column(VARCHAR(255))  # 翻译后的发布机构

@@ -1,0 +1,94 @@
+
+								
+
+
+
+OMB and CISA are requesting public comment on key zero trust strategic and technical guidance to enhance enterprise security across the federal government
+
+
+
+
+
+Today, the Office of Management and Budget (OMB) released a 
+draft federal strategy
+ designed to move the U.S. government towards a zero trust architecture. The Cybersecurity and Infrastructure Security Agency (CISA) also released their Cloud Security Technical Reference Architecture and Zero Trust Maturity Model to guide and assist agencies in their implementation planning.
+
+
+
+
+
+OMB’s zero trust strategy release supports the Executive Order on Improving the Nation’s Cybersecurity (EO 14208) in adapting civilian agencies’ enterprise security architecture to be based on zero trust principles. The draft strategy clarifies zero trust priorities for federal civilian agencies over the next few years, by focusing agencies on several key security outcomes and setting baseline policy and technical requirements.
+
+
+
+
+
+Key areas of OMB’s zero trust strategy include consolidating agency identity systems, combatting phishing through strong multifactor authentication, treating internal networks as untrusted and encrypting traffic, moving protections closer to data by strengthening application security, and more. Moving to zero trust architectures will be a multi-year journey for federal agencies, and the government will learn and adjust along the way as new practices and technologies emerge.
+
+
+
+
+
+CISA’s release of the Cloud Security Technical Reference Architecture (TRA) and Zero Trust Maturity Model also supports the Executive Order on Improving the Nation’s Cybersecurity (EO 14208). The Cloud Security TRA was developed through a collaborative, multi-agency effort with contributions from the United States Digital Service (USDS), and the Federal Risk and Authorization Management Program (FedRAMP). The goal is to provide agencies with guidance on the shared risk model for cloud service adoption, how to build a cloud environment, and how to monitor such an environment through robust cloud security posture management.
+
+
+
+
+
+The Zero Trust Maturity Model complements OMB’s Zero Trust Strategy and will assist agencies in the development of their zero trust architectures. The maturity model is designed to provide agencies with a roadmap and resources to achieve an optimal zero trust environment. To this end, OMB and CISA are seeking collaborative feedback from the public at 
+zerotrust.cyber.gov
+ to improve upon the strategy to strengthen enterprise security across the federal government.
+
+
+
+
+
+“Never trust, always verify. With today’s zero trust announcement, we are clearly driving home the message to federal agencies that they should not automatically trust anything 
+inside
+ or 
+outside
+ of their perimeters. They must verify anything and everything trying to connect to their systems before granting access. This is an expectation in a modern technology environment and we look forward to this public comment process to make our strategy even stronger,”
+ 
+said 
+Clare Martorana
+, 
+Federal Chief Information Officer.
+
+
+
+
+
+“The federal government’s approach to cybersecurity must rapidly evolve to keep pace with our adversaries, and moving toward zero trust principles is the road we need to travel to get there. Today we’re releasing a draft federal zero trust strategy that will help agencies put these principles into practice. While we feel the urgency to begin implementing this plan, we know that input from the broader community of experts will help ensure it is the right plan. We welcome feedback on how we can refine this strategy to best advance federal cybersecurity,” said 
+Chris DeRusha, Federal Chief Information Security Officer.
+
+
+
+
+
+“The Zero Trust Maturity Model is one of the many ways CISA is helping federal agencies protect their systems, and we are excited to release this model to gain further insights from the public. Additionally, CISA teamed up with the United States Digital Service (USDS) and the Federal Risk and Authorization Management Program (FedRAMP) to co-author the Cloud Security Technical Reference Architecture, which will guide agencies’ secure cloud migration efforts. Through our strong partnerships and ongoing collaborative efforts, CISA will develop new and innovative ways to secure constantly changing network perimeters to enable critical federal IT modernization,” said 
+Jen Easterly, Director, Cybersecurity and Infrastructure Security Agency.
+
+
+
+
+
+ “Our adversaries are constantly adapting, and so must we. Zero trust principles are at the core of how our federal agencies must evolve to meet today’s cybersecurity demands. Our draft federal zero trust strategy will push agencies in the right direction, and help make a more coherent federal cybersecurity posture. We welcome comment from the public on how we can make our strategy as strong and effective as it can be,”said
+ Chris Inglis
+, 
+National Cyber Director.
+
+
+
+
+
+“
+Rapidly improving the cybersecurity of federal networks and leading by example in implementing innovative, effective technologies are core to the Biden Administration’s cybersecurity strategy. Today, we see the President’s Executive Order on Cybersecurity in action and welcome partnership with the private sector to work collaboratively towards modernizing our cyber defenses,” said 
+Anne Neuberger, Deputy National Security Advisor for Cyber and Emerging Technology.
+
+
+
+
+
+###
+
+			

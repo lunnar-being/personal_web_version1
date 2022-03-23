@@ -1,0 +1,21 @@
+
+        
+        
+        
+     executives fall prey to cognitive and organizational biases that get in the way of good decision making. In this series, we highlight some of them and offer a few effective ways to address them.Our topic this time?Don’t steer your strategy by the wrong starThe dilemmaAfter some success trading in natural gas and electricity, an energy company wanted to diversify. “What about entering the market for tele­communications broadband?” members of the strategy team proposed. Trading bandwidth is just like trading gas and electricity, right? With the same capital intensity, complicated monitoring and distribution systems, and real-time pricing and sales cycles? The team seized on the analogy, gained the board’s approval for the idea, and began to put funding and other resources against the opportunity. It came to realize, however, just how different the markets were: it was difficult to set standard contracts for bandwidth, they found, and more expensive than anticipated to deliver capacity the last mile to customers. The losses mounted, and within a matter of months, the energy company was looking for buyers for the broadband business.The research
+    
+Business leaders often use analogies to draw bold lines around problems and find new, creative solutions—especially in novel or complex situations.
+
+
+ They do this casually and . But, as leaders in the energy company learned, if an analogy is weak or similar to the issue at hand in only a superficial way, teams risk  to potentially ineffective solutions. A range of research bears this out. In one study, Stanford students of international conflict were asked to assume the role of a State Department official and determine how to respond to a hypothetical act of aggression. Instructors gave students different sets of information to use to support their decisions. Those who heard cues designed to make them think of events that preceded World War II were more likely to decide to use force, while those who heard cues that reminded them of the dynamics of the Vietnam War tended toward a hands-off policy. Neither war had any real similarity to the situation at hand. Analogous reasoning played a role in the students’ responses, even if none of them recognized it.
+
+
+
+		
+	
+The remedy
+	
+One way for business leaders to avoid using superficial or “false” analogies is to engage in similarity mapping.
+
+
+ This exercise, which should be conducted by  prompts business leaders to look at the source problem (the apparently similar problem from another context) and the target problem (the actual problem a company faces) and actively identify structural similarities between the two. Through this process, business leaders can determine the conditions that must be met for the analogy to make sense in a new context and can fine-tune the proposed solution accordingly.A classic example of similarity mapping comes from Charles Merrill. The cofounder of Merrill Lynch had a hunch (based on first-hand knowledge and experience) that Safeway’s business model could be translated into a “financial supermarket” model at E. A. Pierce & Company, the brokerage he was being asked to lead. Such an approach could help differentiate the brokerage from competitors, he thought. But rather than trust his gut, he tested the validity of his analogy. He identified two key structural traits of supermarkets: one, customers care deeply about pricing and product quality across a range of brands; and two, grocery stores boast economies of scale and scope. He and his colleagues conducted customer surveys, performed cost studies, and  to determine whether similar conditions existed for financial-services businesses. They formally tested the similarities rather than just talking about them. The mapping exercise confirmed Merrill’s hunch, although it also revealed that the economies of scale and scope would need to be structured differently in the financial-services business. Merrill made those adjustments, and the rest, as they say, is history.Had the executives at the energy company taken time to do the same, they may have identified the key differences between the broadband and energy markets sooner, thereby avoiding the biggest danger of analogical thinking: using a solution to a problem that is not deeply similar to the target problem.

@@ -1,0 +1,320 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Make things accessible and inclusive
+  
+
+  
+  
+  
+      
+  Make sure your technology, infrastructure and systems are accessible and inclusive for all users.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      6 November 2017
+      Last updated
+      
+        31 March 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          How making things accessible and inclusive will help your programme
+
+        
+        
+          How to build accessible technology
+
+        
+        
+          How to buy accessible technology
+
+        
+        
+          How to supply accessible technology
+
+        
+        
+          Related guides
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+To meet point 2 of the Technology Code of Practice (TCoP) your plans must show how you’re making technology inclusive.
+
+If you’re going through the spend control process you must explain how you’re meeting point 2.
+
+The Central Digital and Data Office is currently collecting feedback on the Technology Code of Practice. The aim is to improve the content and make sure it meets user needs. If you want to add your feedback, please complete this short survey.
+
+How making things accessible and inclusive will help your programme
+
+Your technology project or programme will benefit from:
+
+
+  making your technology work for as many users as possible
+  all staff members having easy access to the information and infrastructure they need to do their work, for example, your organisation’s network, authoring tools, project management software and HR suites
+  assurance that there is no barrier to employing people with specific access needs
+  avoiding potential legal challenges
+
+
+Legally, public sector websites and apps must meet accessibility standards. And all suppliers to government have a legal duty to make their technology and services accessible to all, especially people with disabilities.
+
+How to build accessible technology
+
+When building IT infrastructure and systems make sure you consider accessibility from the start of your project or programme. Do research with users who have a range of abilities and decide on your accessibility requirements. Doing this means you can make sure that:
+
+
+  government workers are not restricted
+  it is easier to build accessible services for citizens
+
+
+For example, you should consider:
+
+
+  the accessible space in your office environment or server rooms
+  which hardware you choose, how compatible it is with assistive technologies and what accessible functionality comes as standard
+  which software you choose, such as the authoring tools and software that operates as a user interface or as assistive technology
+
+
+If you’re also building or buying technology to provide a service over the web:
+
+
+  consider using the GOV.UK Design System to build your service
+  read the guidance on making your service accessible
+
+
+
+How to buy accessible technology
+
+When you’re buying a technology product you buy something that’s as accessible as possible.
+
+You can:
+
+
+  use the guidelines on procuring an accessible website or app
+
+  use the open standard - EN 301 549 for accessibility requirements
+  search for accessible technology using the Digital Marketplace and the G-cloud buyers guide
+
+
+
+If you have questions, you can get help from the government digital buying community.
+
+How to supply accessible technology
+
+If you’re supplying a technology product to the public sector, you might need to make a statement about how that product meets accessibility standards.
+
+EN 301 549 is a standard that covers procurement of web technologies and other types of technology, including hardware and non-web software.
+
+Web Content Accessibility Guidelines (WCAG 2.1) is a standard that covers websites and digital services. You meet WCAG 2.1 AA standard as a minimum.
+
+If your technology is a website or digital service which meets the WCAG 2.1 AA standard, you can assume it also meets the requirements of EN 301 549.
+
+Using the EN 301 549 standard in procurement frameworks
+
+Find out what sort of conformity assessment or attestation potential buyers are likely to want from you.
+
+For example, if you want to apply to be a supplier on the G-Cloud framework you’ll need to:
+
+
+  answer the question about accessibility in the supplier declaration so it’s easy for potential buyers to tell whether your product meets their accessibility requirements
+  provide some more detail on how your product meets the relevant standard in the service definition document
+
+
+When you’re providing more details the service definition document consider:
+
+
+  what evidence you have that your product meets the relevant standard
+  whether your product was tested with assistive technologies - and if so, which ones
+  how you’ll make sure that future updates to the product won’t have a negative impact on accessibility
+
+
+You must be accurate about how far your product meets accessibility standards. The buyer may ask for confirmation as part of the call off contract, either from you directly, or through a third party certification.
+
+Meeting the WCAG 2.1 standard for websites and digital services
+
+Read the guidance on the WCAG 2.1 AA standard.
+
+You might want to consider:
+
+
+  using GOV.UK Frontend to help your service meet WCAG 2.1
+  paying to get your product audited against WCAG 2.1 by an accessibility expert
+
+
+
+Next: Technology Code of Practice point 3 - Be open and use open source
+
+
+Related guides
+
+
+  Government technology standards and guidance
+  Understanding accessibility requirements for public sector bodies
+  Equality Act 2010
+
+
+
+
+
+      
+        
+    Published 6 November 2017
+    Last updated 31 March 2021
+      + show all updates
+      
+        
+            
+              31 March 2021
+              Addition of a temporary research survey to get user feedback on the Technology Code of Practice.
+            
+            
+              28 March 2019
+              Added more information about the listed accessibility standards and restructured the layout.
+            
+            
+              6 November 2017
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Government technology standards and guidance
+        Define user needs
+        Be open and use open source
+        The technology code of practice
+        How Hackney Council built an API Platform
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

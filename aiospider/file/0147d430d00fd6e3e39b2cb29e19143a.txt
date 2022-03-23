@@ -1,0 +1,36 @@
+
+        
+        
+        
+     from natural gas to wind and solar. As such, the country is well positioned to be a global energy leader. Despite the promise of its growing capacity, rising supplies have not translated into lower bills for consumers and businesses. The gap is particularly stark when comparing Brazil with other energy-rich economies. For example, in 2019, Brazil’s electric power rates for captive industrial consumers ran, on average, 65 percent higher than US prices and 35 percent over Canada’s, which boasts a similar reliance on hydropower.
+	
+This is the paradox of Brazil’s energy markets: if generation capacity is growing, why do its power prices remain stubbornly high? Diversifying and optimizing the energy systems, cutting grid losses, and investing in energy efficiency could help expand Brazil’s energy mix and potentially lower prices.Energy: Abundant yet costlyDecades of supportive public policies and investment have placed Brazil at the top of a mix of global markets for energy generation (exhibit). It boasts the world’s largest biomass industry and ranks second in hydropower capacity. Industry analysts see further potential in solar, wind, and natural gas.
+    
+In wind, Brazil’s installed onshore capacity totaled 16.5 gigawatts as of May 2020.
+
+
+ Yet experts say its potential could be 30 times greater, as much as 500 gigawatts. Solar energy also shows big promise. In 2019, about five terawatt-hours of power from the sun’s rays were injected into the national energy grid.
+
+
+ Studies suggest that by developing just its sunniest regions, Brazil’s output could hit 500 terawatt-hours a year, enough to meet 90 percent of its 2019 power demand. Finally, natural gas output is surging, too.In 2019, Brazil produced 122 million cubic meters a day, up 9.4 percent year over year.
+
+
+ Given its reserves, Brazil has potential to more than triple natural gas output to 380 million cubic meters by 2050.
+        
+
+
+    
+    Despite the abundance of energy assets, Brazilians still pay high prices for energy. Our review of Brazil’s market mechanisms and pricing structures identified three approaches that could help push down costs (see sidebar, “Analyzing challenges and opportunities in Brazilian energy”).Diversify and optimize the energy systemMcKinsey analysis shows that, given the steady decline in costs, wind farms already have the lowest levelized cost of energy, and solar will exceed that level in three to four years. But in boosting the share of renewables, grid operators must also invest in solutions that can better balance the volatility of renewable power combined with cyclicality of demand—in other words, when clouds or windless periods lower output.Providing energy security for Brazil includes the following stabilizing options:
+    peak thermal power plants, such as fast-switching turbines able to raise and lower their output to match the flux of renewable energy
+    international grid integration, such as drawing or sending power from or to wider regions reduces the risk of under- or overgeneration
+    demand-response management, such as giving customers incentives to cut back on power use
+    storage technologies, such as batteries or pumped-storage hydroelectricity, which can step in when the power is disrupted
+To be sure, no one solution fits all. Rather, grid planners must assess scenarios and plan with clarity.
+		
+	
+Reduce grid lossesBrazil loses about 18 percent of the power it generates within its transmission and distribution grids. That number is close to the regional average but considerably above the 8 percent losses in Europe and North America. The country should strive to achieve those international benchmarks in an effort to decrease end-customers’ tariffs, especially commercial ones, and to increase the competitiveness of Brazil’s companies.Invest in energy efficiencyCompanies that reduce energy waste and increase energy efficiency can also benefit society by helping the country consume fewer carbon-intensive, high-cost resources while generating employment through energy-efficiency initiatives. According to energy-efficiency index ODEX, Brazil’s residential sector improved its energy efficiency by 21 percent from 2005 to 2018, and the transport sector improved 18 percent, whereas the industrial sector increased only 7 percent. Initiatives to accelerate the industrial sector’s energy efficiency include improving recycling, expanding the use of energy management systems, and investing in professionals’ development to help them identify energy-efficiency opportunities.How lower prices could affect the economyThe economic effects of lower electricity prices will ricochet across the economy in potentially unexpected ways—including to areas beyond power markets:
+    Energy-intensive industries such as mining, chemicals, and steel could become more competitive.
+    Factories could fast-track the electrification of industrial processes.
+    Consumers could splurge on new air conditioners and other appliances.
+    The adoption of electric cars could accelerate.
+Therefore, it’s critical to understand and model the implications of these secondary effects.Companies should reflect on how cheaper power will affect their business plans. In addition, Brazil can build on its world-class position in low-carbon energy through hydropower generation by developing its other renewable assets, preparing for an era of sustainability. Electricity powers nearly every aspect of our lives, work, health, and wellness. In any scenario, a lower-cost grid could position Brazil to be more efficient, resilient, and competitive in the long run.

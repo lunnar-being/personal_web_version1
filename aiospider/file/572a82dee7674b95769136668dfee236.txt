@@ -1,0 +1,733 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Offshore Energy Strategic Environmental Assessment (SEA): An overview of the SEA process
+  
+
+  
+  
+  
+      
+  An explanation of the offshore SEA  process, including documentation of the most recent assessment and related consultation.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Business, Energy & Industrial Strategy and Offshore Petroleum Regulator for Environment and Decommissioning
+
+      
+      Published
+      16 May 2013
+      Last updated
+      
+        22 November 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Overview
+
+        
+        
+          The SEA process and legislative context
+
+        
+        
+          
+SEA Recommendations
+
+        
+        
+          Offshore Energy SEA: the current SEA
+
+
+        
+        
+          Offshore Energy SEA: research programme
+
+        
+        
+          Appropriate Assessment
+
+        
+        
+          How do you get involved?
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Overview
+
+Strategic Environmental Assessment (SEA) is the process of appraisal through which environmental protection and sustainable development may be considered, and factored into national and local decisions regarding Government (and other) plans and programmes – such as oil and gas licensing rounds and other offshore energy developments, including renewables and gas and carbon dioxide storage.
+
+The SEA process and legislative context
+The SEA process aims to help inform ministerial decisions through consideration of the environmental implications of the outcome of a proposed plan/programme. The Department for Business, Energy & Industrial Strategy (BEIS) formerly DTI, BERR and DECC (the department), as the principal environmental regulator of the offshore oil and gas industry, has taken a proactive stance on the use of SEA as a means of striking a balance between promoting economic development of the UK’s offshore energy resources and effective environmental protection. Although the European Strategic Environmental Assessment Directive (Directive 2001/42/EC) was not incorporated into UK law until 2004 (The Environmental Assessment of Plans and Programmes Regulations 2004, and equivalent Regulations of the devolved administrations), SEAs have been carried out since 1999 in accordance with its requirements.
+
+The SEA Directive sets out the information to be included in the environmental report of the Strategic Environmental Assessment, namely:
+
+
+  An outline of the contents, main objectives of the plan or programme and relationship with other relevant plans and programmes.
+  The relevant aspects of the current state of the environment and the likely evolution thereof without implementation of the plan or programme.
+  The environmental characteristics of areas likely to be significantly affected.
+  Any existing environmental problems which are relevant to the plan or programme including, in particular, those relating to any areas of a particular environmental importance, such as areas designated pursuant to Directives 2009/147/EC and 92/43/EEC (the Birds and Habitats Directives).
+  The environmental protection objectives, established at international, Community or member state level, which are relevant to the plan or programme and the way those objectives and any environmental considerations have been taken into account during its preparation.
+  The likely significant effects on the environment, including issues such as biodiversity, population, human health, fauna, flora, soil, water, air, climatic factors, material assets, cultural heritage including architectural and archaeological heritage, landscape and the inter-relationship between the above factors.
+  The measures envisaged to prevent, reduce and, as fully as possible, offset any significant adverse effects on the environment of implementing the plan or programme.
+  An outline of the reasons for selecting the alternatives dealt with and a description of how the assessment was undertaken, including any difficulties (such as technical deficiencies or lack of know-how) encountered in compiling the required information.
+  A description of the measures envisaged concerning monitoring.
+  A non-technical summary of the information provided under the above headings.
+
+
+These effects should include secondary, cumulative, synergistic, short, medium and long term, permanent and temporary, positive and negative effects.
+
+The department undertook a sequence of oil and gas SEAs considering various areas of the UKCS (SEA areas 1-8), in addition to an SEA for Round 2 wind leasing. The more recent offshore energy SEAs (OESEA, OESEA2 and OESEA3) incorporated the entire UKCS (with the exception of Northern Ireland and Scottish territorial waters for renewable energy, and Scottish territorial waters for carbon dioxide transport and storage), for technologies including oil and gas exploration and production, gas storage and offloading including carbon dioxide transport and storage, and renewable energy (including wind, wave and tidal power). A summary of the areas covered by previous DECC SEAs, when they were undertaken and for which sectors, and an overview of each of the technologies covered by the latest DECC offshore energy plan/programme is provided in the documents below.
+
+
+  
+    
+      SEA
+      Area
+      Sectors covered
+      Licensing/leasing round
+    
+  
+  
+    
+      SEA 1
+      The deep water area along the UK and Faroese boundary
+      Oil & Gas
+      19th Round (2001)
+    
+    
+      SEA 2
+      The central spine of the North Sea which contains the majority of existing UK oil and gas fields
+      Oil & Gas
+      20th Round (2002)
+    
+    
+      SEA 2 extension
+      Outer Moray Firth
+      Oil & Gas
+      20th Round (2002)
+    
+    
+      SEA 3
+      The remaining parts of the southern North Sea
+      Oil & Gas
+      21st Round (2003)
+    
+    
+      R2
+      Three strategic regions off the coasts of England and Wales in relation to a second round of offshore wind leasing
+      Offshore wind
+      Round 2 (2003)
+    
+    
+      SEA 4
+      The offshore areas to the north and west of Shetland and Orkney
+      Oil & Gas
+      22nd Round (2004)
+    
+    
+      SEA 5
+      Parts of the northern and central North Sea to the east of the Scottish mainland, Orkney and Shetland
+      Oil & Gas
+      23rd Round (2005)
+    
+    
+      SEA 6
+      Parts of the Irish Sea
+      Oil & Gas
+      24th Round (2006)
+    
+    
+      SEA 7
+      The offshore areas to the west of Scotland
+      Oil & Gas
+      25th Round (2008)
+    
+    
+      OESEA
+      UK offshore waters and territorial waters of England and Wales
+      Oil & Gas, Offshore wind
+      26th Round/Round 3 (2009)
+    
+    
+      OESEA2
+      UK offshore waters and territorial waters of England and Wales
+      Oil & Gas, Offshore wind, wave and tidal, gas and carbon dioxide storage
+      27th Round (2011) 28th Round (2014)
+    
+    
+      OESEA3
+      UK offshore waters and territorial waters of England and Wales
+      Oil & Gas, Offshore wind, wave and tidal, gas and carbon dioxide storage
+      29th Round (2016)  Supplementary Round (2016)  30th Round (2017) 31st Round (2018)31st Supplementary  Round (2019)32nd Round (2020)
+    
+  
+
+
+
+  
+      
+  
+  
+    Previous offshore SEAs
+    
+        PDF, 625KB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@beis.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+As these SEAs have been carried out, the process has evolved and been improved.  The evolution and refinement of the process will continue. A required part of SEA is consultation with the public, environmental authorities and other bodies, together with such neighbouring states as may be potentially affected.
+
+In conducting the SEA process, the Department is guided by the SEA Steering Group, composed of departmental representatives, conservation and other agencies, NGOs, industry representatives and independent experts. The diverse members’ role is to act as technical peers, guiding the selection of SEA methods and identifying the right information sources.
+
+Completed studies relating to earlier SEAs are located on the British Geological Survey (BGS) SEA archive.
+
+
+SEA Recommendations
+A series of recommendations have been made in the previous offshore energy SEA Environmental Reports on SEA processes and conclusions, the natural and wider environment, and regulatory and other controls.  A compilation of these recommendations and their current status (whether closed, in progress or still open) is available for download below.
+
+
+  
+      
+  
+  
+    Offshore Energy SEA Recommendations and their status
+    
+        PDF, 287KB, 16 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@beis.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+Offshore Energy SEA: the current SEA
+
+
+The Department conducted a Strategic Environmental Assessment (OESEA3) of a draft plan/programme to enable future renewable leasing for offshore wind, wave and tidal devices and licensing/leasing for seaward oil and gas rounds, hydrocarbon and carbon dioxide gas storage in relevant parts of UK waters - the plan/programme was adopted in July 2016. Since then, as with previous SEAs, BEIS has maintained an active SEA research programme; identifying information gaps (some of which were outlined in the last set of SEA Recommendations), commissioning new research where appropriate, and promoting its wider dissemination through a series of research seminars.  This has also involved continued engagement with the SEA Steering Group and review of the information base for the SEA, including the environmental baseline, other relevant plans and programmes, and policy and regulation (see the 2018 Review of the OESEA3 Environmental Report, below).
+
+
+  
+      
+  
+  
+    Review of the OESEA3 Environmental Report
+    
+        PDF, 2.37MB, 120 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@beis.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+BEIS are now undertaking a new SEA (OESEA4) with a view to publication of the Environmental Report in late 2021/early 2022.  The draft plan/programme to be covered by OESEA4 includes leasing/licensing for offshore renewables including for wind, wave and tidal energy, offshore oil and gas exploration and production, offshore hydrocarbon and carbon dioxide gas storage and offshore hydrogen production. The SEA will cover relevant parts of UK waters.
+
+A scoping document for OESEA4 was published for consultation on 29 March 2021; the document includes an overview of the draft plan/programme, its spatial coverage and legislative and policy context, an overview of the environmental baseline and approach to assessment.  The Government Response to the scoping feedback is available on the OESEA4 scoping consultation page.  Feedback from scoping will be addressed in the Environmental Report, where appropriate.
+
+The full consultation process for the SEA is described below
+
+Offshore Energy SEA: research programme
+The department has maintained an active SEA research programme; identifying information gaps (some of which are outlined in previous SEA Recommendations) and commissioning new research where appropriate. This has been part of the department’s offshore SEA programme since 1999.
+
+A summary of recent research and its status is provided in the document below, and final reports (where published) are available for download. Completed studies relating to earlier SEAs are located on the British Geological Survey (BGS) SEA archive or the research page for OESEA2.
+
+
+  
+      
+  
+  
+    Recent Offshore Energy SEA funded projects
+    
+        PDF, 773KB, 22 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@beis.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+The authors and researchers involved in SEA studies have been encouraged to submit papers for peer reviewed publication. A list of recent publications is given below.
+
+
+  
+      
+  
+  
+    Recent Papers from BEIS Offshore Energy SEA funded projects
+    
+        PDF, 276KB, 7 pages
+    
+
+
+  
+
+
+Appropriate Assessment
+
+Following announcement of a Seaward Licensing Round or following receipt of applications for licences made under each Seaward Licensing Round, a screening assessment is undertaken by the department to determine whether the award of any of the Blocks offered or applied for would be likely to lead to a significant effect on a relevant site, either individually or in combination with other plans or projects. Those sites and related Blocks for which a potential for likely significant effect is identified at the screening stage are subject to further assessment (Appropriate Assessment, (AA)) prior to the Oil & Gas Authority (OGA) making a decision on whether to grant licences. These assessments are undertaken to comply with obligations under the Offshore Petroleum Activities (Conservation of Habitats) Regulations 2001 (as amended).
+
+The 32nd Seaward Licensing Round closed for applications on 12th November 2019. Applications were received covering 234 whole or part Blocks and of those, 82 Blocks were identified as requiring further assessment (Appropriate Assessment, (AA)) prior to the Oil & Gas Authority (OGA) making a decision on whether to grant licences. The assessments covering these Blocks have been documented in three draft regional reports covering areas of the West of Shetland, Central North Sea, and Southern North Sea, and were subject to public consultation.
+
+The reports were revised as appropriate in light of comments received during the public consultation which ended on 7th April 2020.
+
+The reports listed below document the further assessment undertaken in relation to Blocks subject to AA in the previous ten Seaward Licensing Rounds.
+
+25th seaward oil and gas licensing Round Appropriate Assessment
+
+26th seaward oil and gas licensing Round Appropriate Assessment
+
+27th seaward oil and gas licensing Round Appropriate Assessment
+
+28th seaward oil and gas licensing Round Appropriate Assessment
+
+29th seaward oil and gas licensing Round Appropriate Assessment
+
+2016 Supplementary Licensing Round Appropriate Assessment
+
+30th seaward oil and gas licensing Round Appropriate Assessment
+
+31st seaward oil and gas licensing Round Appropriate Assessment
+
+31st supplementary oil and gas licensing Round HRA screening (pdf)
+
+32nd seaward oil and gas licensing Round Appropriate Assessment
+
+How do you get involved?
+
+Consultation
+
+The OESEA consultation process has been designed to be in keeping with the Cabinet Office guidance on Consultation Principles for engaging stakeholders when developing policy and legislation. The guidance does not have any statutory basis and therefore where there are mandatory consultation requirements set out in legislation, or other requirements which may affect a consultation such as confidentiality, these must be adhered to.
+
+The main elements of public and stakeholder consultation and input to the offshore energy SEA process are:
+
+
+  Publication through the Department’s offshore SEA webpages
+  Scoping
+  Stakeholder meetings and expert assessment workshops
+  A suitable public consultation period following publication of the Environmental Report
+  Post consultation report
+
+
+Scoping
+The objective of scoping is to identify the main issues of concern at an early stage so that they can be considered in appropriate detail in the SEA. Scoping also aids in the identification of information sources and data gaps that may need to be filled by studies or surveys to underpin the assessment. The SEA process includes a formal scoping step, the principal purposes of which are to:
+
+
+  Promote stakeholder awareness of the SEA initiative
+  Ensure access to all relevant environmental information
+  Identify opportunities for potential collaboration and the avoidance of duplication of effort
+  Identify information gaps so these could be evaluated and filled if necessary
+  Identify stakeholder issues and concerns which should be considered in the SEA
+
+
+
+Stakeholder and other workshops
+A number of workshops have been undertaken prior to each SEA. These have included expert assessment workshops, which bring together the expertise of the SEA Steering Group, the authors of underpinning technical reports, other users of the offshore area and the SEA team to bear on the assessment process for the particular SEA. Additionally, stakeholder workshops are held involving a wide variety of potential stakeholders, drawn from other government departments, local authorities, other industry bodies, academics and NGOs. The objectives of SEA stakeholder workshops are to provide stakeholders with updates on:
+
+
+  UK offshore energy supply context
+  The outcome of scoping
+  How issues raised in scoping are being addressed in the SEA process and consultation document
+  The outcomes of the assessment workshop
+  Initial conclusions of the overall assessment
+
+
+Stakeholder input and a summary of issues raised in the meeting is used to inform the SEA process, and is document and included in an appendix to the environmental report.
+
+Formal consultation
+The environmental report is published for formal public consultation. The publication of the environmental report is advertised in the popular press and specialist journals. Copies of the report are made available free of charge as electronic copies which can be requested via email or downloaded directly from gov.uk, and as paper versions provided by post, provided that it is reasonably practicable to do so.  Comments are invited by post or email.
+
+Post consultation report
+Following closure of the consultation period, the comments are given due consideration and a post consultation report is then produced. The post consultation report is published on the offshore SEA consultation webpage and made available as a download. Along with the post consultation report, a compilation of the consultation comments are published verbatim (according to the authors’ wishes).
+
+Adoption statement
+Following publication of the post consultation report, a ministerial statement is made to confirm the outcome of the SEA process (e.g. on adoption of the plan/programme, to proceed with further oil and gas licensing).
+
+Contacts
+
+Please direct queries to the Environmental Policy Unit:
+
+oep@beis.gov.uk 01224 254015
+
+
+
+
+
+      
+        
+    Published 16 May 2013
+    Last updated 22 November 2021
+      + show all updates
+      
+        
+            
+              22 November 2021
+              Reference and link to the OESEA4 Government Response added.
+            
+            
+              11 August 2021
+              Update of the recently completed research papers
+            
+            
+              29 March 2021
+              Addition of information relating to the scoping exercise for OESEA4
+            
+            
+              3 February 2021
+              Update to the list of OESEA research related publications
+            
+            
+              2 September 2020
+              Publication of the final 32nd seaward licensing Round appropriate assessments
+            
+            
+              25 February 2020
+              Information and link to the 32nd Round Appropriate Assessment consultation added.
+            
+            
+              17 January 2020
+              Publication of the 32nd Seaward Licensing Round HRA screening document
+            
+            
+              3 October 2019
+              Update to SEA research project and publication listings
+            
+            
+              13 June 2019
+              Publication of the HRA covering the 31st Supplementary Seaward Licensing Round
+            
+            
+              24 May 2019
+              Updated to reflect completion of the 31st Round HRA
+            
+            
+              7 February 2019
+              Information on the 31st Round Appropriate Assessment consultation added.
+            
+            
+              1 February 2019
+              Publication of the 31st Round Block and Site Screening document
+            
+            
+              21 November 2018
+              Publication of OESEA3 Environmental Report Review
+            
+            
+              22 May 2018
+              Updated list of recent papers from BEIS Offshore Energy SEA funded projects
+            
+            
+              10 May 2018
+              Link to the 30th Seaward Licensing Round Appropriate Assessment consultation outcome.
+            
+            
+              8 February 2018
+              Addition of 30th Seaward Round HRA screening document
+            
+            
+              2 November 2017
+              Addition of list of recently funded SEA projects
+            
+            
+              3 August 2017
+              Addition of SEA recommendations and their status
+            
+            
+              12 April 2017
+              Link to the draft 2016 Supplementary Seaward Licensing Round HRA added.
+            
+            
+              16 March 2017
+              Update to reflect publication of final 29th seaward round appropriate assessment
+            
+            
+              10 February 2017
+              Update to SEA research projects
+            
+            
+              15 November 2016
+              Publication of the HRA screening document for blocks offered in the 29th Seaward Licensing Round.
+            
+            
+              13 July 2016
+              Addition of OESEA3 post-consultation report.
+            
+            
+              13 June 2016
+              Addition of a list of SEA research programme peer-reviewed publications.
+            
+            
+              3 March 2016
+              Addition of link to OESEA3 public consultation page.
+            
+            
+              1 December 2015
+              Compilation of OESEA3 scoping responses published.
+            
+            
+              31 July 2015
+              Updated to incorporate the OESEA3 scoping document
+            
+            
+              14 July 2015
+              Link to the 28th Seaward Licensing Round Appropriate Assessment consultation outcome
+            
+            
+              24 March 2015
+              Updated to include a link to the 28th Round Appropriate Assessments.
+            
+            
+              21 October 2014
+              Publication of the 28th Seaward Licensing Round HRA Screening.
+            
+            
+              16 April 2014
+              Addition of SEA research project summaries.
+            
+            
+              16 May 2013
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Measures for introduction of E10 petrol: RPC Opinion
+        Space Industry Regulations 2021: RPC Opinion
+        2021 DfT RPC Opinions
+        The Electric Vehicles (Smart Charge Points) Regulations 2021: RPC Opinion
+        UK Offshore Energy Strategic Environmental Assessment: research projects
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Offshore Energy Strategic Environmental Assessments
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Oil and gas licensing
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

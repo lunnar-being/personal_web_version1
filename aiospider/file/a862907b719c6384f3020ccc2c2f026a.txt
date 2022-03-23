@@ -1,0 +1,39 @@
+
+        
+        
+        
+    
+        
+
+
+    
+     the German machinery industry nonetheless has a profitability problem (Exhibit 1). To understand what’s driving this trend, as well as the industry’s COVID-19 resilience level and possible steps for improvement, we analyzed 25 leading German machinery companies. (See the sidebar “McKinsey’s machinery benchmark database” for more information on our sample.)
+    
+Unprofitable growth in a rising market for the German machinery industryFrom 2016 to 2019, German  revenues climbed more than 5 percent a year, supported by one of the world economy’s strongest and longest-lasting economic upswings. Applying typical scale effects, we would expect operating-profit (EBIT)
+
+
+ margins to rise by 3.3 percentage points. Instead, the opposite happened: profits fell from 8.7 percent in 2016 to 6.0 percent in 2019.
+
+
+
+        
+
+
+    
+    Why? We see three major reasons (Exhibit 2). First, the cost of materials has increased because the industry failed to exploit scale effects from additional volume. Second, productivity gains were below the roughly 2 percent annual increase that other industries captured during the same period. Third, salaries rose, primarily in 2019. We found that only one in seven German machinery companies has effectively managed both personnel and materials costs. (We explain several other reasons for this falling profitability in the sidebar “Six additional reasons for the German machinery industry’s unprofitable growth.”)
+    
+Our research suggests that the industry is trying to repair its margins, but with varying degrees of success. For example, reversing a trend from previous years, two out of three machinery companies managed to reduce the cost of materials in 2019 by taking advantage of increased production volumes to gain scale effects and negotiate better materials prices. Yet some companies did not take advantage of their continued growth to capture better procurement terms.
+		
+	
+What’s more, three in four companies could not offset their rising salary levels by making their employees more productive—and that failure reduced their operating profit significantly. Even companies that achieved good productivity improvements were hard hit because their salary increases were even greater.Little resilience in the face of crisisThe  margin performance could decline even further because the resilience of companies in this sector, as measured by key performance indicators (KPIs), was declining even before the onset of the COVID-19 crisis. In fact, from 2016 to 2019 these companies lost ground on half of all resiliency KPIs (Exhibit 3). Cash ratios—a company’s total cash reserves and near-cash securities divided by its total current liabilities—fell by 29 percent
+
+
+; earnings before interest, taxes, depreciation, and amortization (EBITDA) by 12.7 percent; and productivity by 1.8 percent. One troubling finding was that 23 of  the 25 companies we studied suffered from two or more resilience issues. To be successful, industry players must actively manage all dimensions of resilience.
+    
+Our research also showed that machinery players are less resilient than companies in other industries. One major disparity involves the industry’s cash situation. Compared with Germany’s SDAX index, which measures 70 small-cap, medium-size companies, the machinery sector is behind on nearly every resilience KPI. The SDAX cash ratio, for example, is 59.7 percent, while the machinery industry’s is only 30.1 percent.
+
+
+ There are also sizable gaps in the KPIs for equity ratios and EBITDA.Given the current pandemic crisis, economists expect M&A activity to decline and divestitures to increase in many industries. So far, M&A has fallen slightly in Germany’s machinery industry,  and that should continue. Divestitures, however, have not increased. Companies in the industry could improve their cash position by divesting more.Digging out of the profitability holeWe believe that a turnaround is possible, even as the industry navigates its way through the downturn. Although the current crisis clearly differs from any of its recent predecessors, a key lesson of the last major economic downturn, in 2009, is that  emerged from the crisis much more quickly than less resilient ones. In fact, nonresilient companies did not reach their average 2007 EBITDA margin during the next four years, while resilient players easily surpassed it in the same period.
+		
+	
+One aspect of the machinery industry that needs to be considered when evaluating an individual company’s recovery chances is the sector’s high dynamism. For example, only half of the top-performing players in 2016 remained in the top quartile in 2019, while six of the seven companies in 2016’s bottom quartile had moved up by 2019.At the moment, the industry faces big challenges, including those arising from the COVID-19 pandemic, but has little time to address them. We suggest three avenues of attack. First, optimize performance within its current limits—for example, by continuing recent cost cuts for materials, working to increase productivity to keep staffing costs in check, and building capabilities to execute plans effectively. Second, build up your company’s resilience by optimizing liquidity and reducing debt, making divestitures to free up cash, and reducing working capital to shorten cash-conversion cycles. Third, make sure the organization can implement plans effectively by creating an initiative road map that allows transparent tracking. Companies should also foster agile ways of working and decision making to achieve the desired bottom-line impact.The German machinery industry has a global reputation for excellence. Yet complex products, low-cost competitors, and a succession of disruptions hamstrung many companies even before the huge disruption wrought by COVID-19. The challenge is formidable, but the industry’s strengths—its dynamism, brand strength, and premium, leading-edge positioning—could give it a leg up on the global competition.

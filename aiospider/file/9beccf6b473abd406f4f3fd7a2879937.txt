@@ -1,0 +1,85 @@
+
+        
+        
+        
+     of the coronavirus come into clearer focus, so too do the consequences for people’s well-being beyond the immediate imperative to safeguard lives. Taking care of our families and friends, our neighbors and communities, our employees and coworkers comes first. For that reason, companies across industries and geographies have scrambled to establish remote-working conditions—and continue to improve them as the health crisis continues. Those that can, including most banks and financial-services companies, have taken swift action to protect both their customers and their employees.The next focus of all the professionals involved with the transactions infrastructure must be the stability of systems, for both payments and securities. At this writing, despite the scale of the emergency measures underway, no major outages of core infrastructure have been reported. Payments systems have proved resilient and reliable, as they have in earlier crises. Payments systems and providers, which enable companies and their customers to transfer funds in return for goods and services, continue to enjoy a high level of trust from the general public.
+
+	
+
+
+
+
+    
+    
+
+At the same time, we all realize that the economic disruption will be profound and the short-term drop in activity for economies under lockdown will be severe. Quarterly GDP in the second quarter of 2020 could decline by as much as 35 to 40 percent—and the payments industry’s financial outlook reflects that uncertainty in the short term. But the industry’s stability will play an invaluable role in rebooting the global economy, and the potential for innovation can support functioning economies as a “new normal” emerges. Below, we observe how the payments industry can adapt now—and suggest ten fundamental changes to the payments ecosystem that will help all of us find a new normal.How will the coronavirus crisis affect payments economics?There is no definitive answer. Much depends on the complex interplay between economic activity, the interest-rate landscape and associated liquidity patterns, and the evolution of individual and collective behavior. Taking these factors into account, we expect revenue growth in global payments to turn negative. Instead of growing by 6 percent, as projected by our 2019 global payments report,
+
+
+  activity could drop by as much as 8 to 10 percent of total revenues, or a reduction of $165 billion to $210 billion—comparable to the 10 to 11 percent revenue reduction in the wake of the global financial crisis in 2008–09 (Exhibit 1). Expecting a decline in revenues, investors have already driven the share prices of payments companies into a steep decline, substantially beyond the actual profit impact expected.
+    
+Of course, any projection of industry performance rests on assumptions about overall economic activity. The  on the spread of the virus, the public-health response, and the effectiveness of the fiscal, monetary, and broader public response. A relatively optimistic scenario, taking into account these variables, assumes that the virus will be contained after an economic lockdown of two to three months in Europe and the United States.
+
+
+ Under this scenario, global GDP would decline in 2020 by 1.5 percent, which we estimate would result in, at most, a decline in payments revenues of around $165 billion, some 8 percent lower than they were in 2019—instead of the 6 percent increase against the base of $1.9 trillion we projected before the crisis (Exhibit 2). A second, more pessimistic, scenario
+
+
+ contemplates a muted recovery, with resurgence of the virus in China and continued spread in the United States and Europe, leading to a continued drop in global trade levels and a sustained contraction of major economies. Under this scenario, global GDP would contract by 4.7 percent in 2020, which could lead to a decline in global payments revenues in excess of $210 billion, around 10 to 12 percent of precrisis levels.
+    
+On closer examination, McKinsey’s  simulations suggest that the net interest-margin component, the source of about 60 percent of overall payments revenues, explains only about 20 percent of the decline. The transaction component, the source of around 40 percent of revenues and the driver of the growth of payments revenues over the past few years, would be responsible for about 80 percent of the decline. The experience of past crises, adjusted for the current mix in geographies and means of payments, suggests that an economic contraction of 1.5 percent would lead to a disproportionate 8 percent reduction in payments volumes. The more severe scenario could lead to a drop in transaction volumes of up to 12 percent.Although much data are still unavailable, and what we have is still noisy, such projections suggest different underlying realities for different segments of the payments arena (Exhibit 3).
+    
+
+    Cross-border  are likely to drop. One-quarter of the total decline in revenues in our analysis is driven by cross-border payments, led by a 25 to 30 percent decline in cross-border C2B transactions. This would be explained mostly by the disruption of travel and tourism, but also by increasingly localized commerce ecosystems, such as those promoted through buy-local campaigns. Examples of highly vulnerable markets would be Saudi Arabia, with 40 percent of online payments related to travel and entertainment, and Thailand, a major destination of international travelers. Major expat markets, such as the United Arab Emirates, could also see a substantial share of their revenues disappear.
+    Cross-border  have also been affected. Container freight is down since January, considerably lower than its level in the comparable period of 2019.
+
+
+ However, supply chains will be disrupted over the longer term because different geographies will emerge from the crisis at different times. Chinese manufacturers, for example, won’t be able to sell engine parts to US automakers until US car production resumes.
+    Payments related to  are at record highs, reflecting the market’s instability and volatility. This volatility is creating a higher degree of risk for international securities-clearing transactions.
+    Retail payments and merchant-services businesses will be severely affected. Classic point-of-sale (POS) payments volumes could drop by as much as 30 to 40 percent in the short term, though online sales will be less affected. Data for retail
+
+
+ show that as of March 18, foot traffic was down, compared with the same period in 2019, by around 20 percent in the United Kingdom and by more than 70 percent in Italy and the United States. Sales at restaurants
+
+
+ and hotels and for recreation, culture,
+
+
+and travel
+
+
+ have virtually collapsed. In 2018, these categories represented over 30 percent of EU household expenditures
+
+
+ and an even higher percentage of POS transactions.
+    The gig economy—and fintech wallets based on it—is also suffering. Our industry observations suggest that flows are down by 20 to 30 percent for some leading wallets in Asia, despite a growing number of users. Offline merchant payments and ride hailing are most affected, while online payments and food delivery are holding up.
+Some payment methods are also likely to suffer more than others. Despite attempts to sterilize cash (using ultraviolet rays, ozone, or heat treatments, for example), the use of cash and other paper payment methods is declining. We understand from most of our discussions that cash withdrawals at ATMs are down dramatically—by more than 50 percent—in many European countries. Contactless payments, on the other hand, are rising strongly, despite the overall contraction, as the perceived hygienic security is higher than it is for normal POS payments.Rebooting the global economyAs important as the management of the ongoing health crisis might be, getting economies up and running again as we emerge from lockdowns will help mitigate the long-term impact on people’s livelihoods. Payments operators can help business activity to resume in the shortest term while they realign their efforts to ensure an accelerated return to full activity. First and foremost, this means supporting customers. But a profound schism like this one will also require adjusting your portfolio of services, adapting your operating model, and even reviewing the industry structure with an eye to acquisitions and divestitures that would support a reshaped economy.
+    
+Supporting your customersTo ensure recovery in the most affected sectors, payments operators should reflect on how to help their customers—both to maintain essential liquidity through the crisis and to accelerate the restart of business.
+	
+
+    Chinese banks have quickly set up simple e-commerce platforms for their small-merchant client base to remain alive and to restart in a more remote-commerce environment. This approach combines easy-to-use payments options and website displays, possibly connected with delivery contracts. Banks have been launching similar initiatives in other countries in long lockdowns, such as Italy.
+    Italian entrepreneurs have leveraged their loyalty and couponing apps to order services—such as a dinner or a beauty treatment— at a discount today, to be provided after the COVID-19 lockdown ends. This will make it possible to secure business upon reopening while providing some (though limited) cash flows ahead of the lockdown’s end.
+    In corporate payments, companies are likely to continue replacing complex global supply chains with local alternatives. Local B2B players can help by deploying their merchant networks to create simplified local and regional trade mechanisms.
+    To provide some relief to vulnerable businesses, many transaction banks are temporarily waiving transaction fees and tenor-of-trade finance facilities. Similar measures for fees can be taken in retail payments as well. In Ghana, mobile money providers have been directed to waive fees on transactions below about $18. On the other hand, Ghana’s monetary body eased know-your-customer requirements and put restrictions on transactions to withdraw cash, to ensure growing access to digital payments.
+Money remitters can launch alternatives to traditional cash payouts for receiving funds, especially as remittance counters are likely to remain closed in the early stages of the economic reboot. This could, for example, entail a new use for the remitters’ increasingly underutilized ATM networks.Adjusting your portfolioCustomer needs and the volumes that go with economic intensity are not likely to shift rapidly. But customers with new priorities will probably desire payments companies to offer solutions as those new priorities emerge. Payments companies may, for example:
+    . Payments companies can help governments and aid organizations to reach citizens and enterprises, particularly small and midsize enterprises, with a wide variety of support payments (such as childcare vouchers, emergency relief, or loan support) by using various digital payments methods. Especially in traditionally unbanked customer segments—including, for example, more than 80 percent of Pakistan’s and about 70 percent of Egypt’s population—traditional account numbers may be unavailable. For these aid recipients, it may be necessary to use alternative unique identifiers, such as mobile-phone numbers, email addresses, or citizen identification numbers.
+    . Companies with the greatest online presence seem likely to suffer less from the anticipated downturn. It is no longer a real option only to provide merchants with POS offers. Players with a limited online offering may need to consider partnering with specialists, at least in the short term, to ensure an automatic online restart for customers.
+    . Such solutions can be used to monitor and guide usage, including enabling checkouts only for elderly customers at certain times, boosting tap-and-go checkout functions in supermarkets, or facilitating restricted shopping times to limit crowds. For retailers with the necessary setup, these wallets can also be a means of payment in stores, to avoid contact.
+    . Customers are increasingly skeptical of traditional paper currency as a result of the health risk it carries, and its use may not rebound when lockdowns end. With ATM use down significantly in many markets, providers can reconsider how machines are utilized instead of just discarding them. Underutilized ones might be repurposed for tasks (such as opening accounts, verifying identification, or delivering public documents) that would normally require face-to-face contact.
+    . An increased need for companies to share credit risk with suppliers will require a boost to products such as supply-chain financing (where  credit risk is assessed) relative to factoring or invoice discounting (where  credit risk is assessed). Payments companies could support the process by, for example, using sourcing platforms that bring dynamic discounting and factoring to a larger set of clients or by enabling the accelerated onboarding of smaller suppliers to large network supply-chain platforms.
+    . Access to liquidity is essential for the survival of companies large and small. Helping CFOs to get a clear picture at the global, regional, and local level of funding is essential for them in this context. Using payments data to give them an up-to-date and comprehensive sense of the money needed and available would help all.
+Adapting your operating models and habitsA rebooting economy may need to deal with social distancing, increased sensitivity to security, and accrued risk awareness for quite some time. Even after the end of enforced health-safety measures, companies will want to consider long-term adjustments to their operating models, such as the following:
+    Much of the economy will have learned to work effectively without physical meetings. Remote sales and virtual interactions will be the new normal, substantially reducing the importance of business travel, food, and beverages as a source of revenues and costs. Remote sales skills and channels will be paramount, as will digital solutions for things like document signing and notarization.
+    Widely distributed operating models and value chains will also be challenged. The asymmetric responses of governments and regulators, local shutdowns, workforce requisitions, and the lack of a coordinated regional or global political response will lead to the local relocation and reintegration of some or all critical functions.
+    With the increase of local operations, standard planning will shift from the short-term issues that threatened distributed operations for a period of days or weeks to long-term crisis-resistance scenarios. In particular, agile ways of working in remote or work-from-home setups will become standard. The increased use of digital tools will accelerate the adoption of future-of-work models.
+Finding the next normalAs the crisis plays out, we will get more clarity about the depth and duration of the pain. One thing is clear now: there will be no return to the norms of 2019; the impact on the behavior and expectations of customers and businesses—indeed the entire fabric of the economy—will be profound. So it is critical not only for the payments ecosystem but also for the economy as a whole to develop, today, the payments solutions that will allow economies to emerge from the current crisis efficiently and define the post-COVID-19 future.Here we highlight ten fundamental changes that require us all to be prepared. These are not only things we believe the industry should predict or anticipate but also things that we should all ensure will happen for the effective and lasting relaunch of our economies.
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+Managing the immediate threat to people’s health and well-being is currently the highest priority, so not all these reforms can be achieved immediately. But we do believe it is imperative to balance short-term crisis management today with thinking ahead to the restart of the economy and preparing for the new normal. Keeping one eye on the road ahead could allow us to exit the crisis with a more customer-focused, efficient, and resilient payments industry.

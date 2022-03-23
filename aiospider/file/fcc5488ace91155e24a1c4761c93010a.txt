@@ -1,0 +1,409 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Carry out your evaluation: evaluating digital health products
+  
+
+  
+  
+  
+      
+  Planning the practicalities and managing or conducting your evaluation.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency
+
+      
+      Published
+      30 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Decide who will do it
+
+        
+        
+          Write your plan or protocol
+
+        
+        
+          Approvals and ethics
+
+        
+        
+          Manage your evaluation
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This page is part of a guide to evaluating digital health products.
+
+Decide who will do it
+
+You will need to decide whether to conduct an evaluation in your team or commission external evaluators. This might depend on:
+
+
+  your budget
+  your resources – for example, staff numbers and available time
+  the skills in your team – for example, do you have an evaluation expert or a data analyst
+  the complexity of the evaluation
+  whether an independent evaluation is needed to make the process more objective or give it more credibility
+
+
+Whether you are conducting evaluation internally or externally, you will need one person to lead the evaluation process and you may want to set up a steering group.
+
+Carry out evaluation in your team
+
+Evaluation requires a range of different skills and knowledge, so benefits from having a multidisciplinary team. Someone who has no evaluation experience can still be involved in many evaluation activities, such as creating a model of how your product works.
+
+You should engage colleagues with relevant evaluation experience. They can provide support for your project and help fill skills gaps in your team. For example, if you want to use a qualitative method for your evaluation, seek support from someone who has experience of those methods.
+
+Involve specialists at an early stage in the evaluation planning process. Statisticians shouldn’t only become involved when it comes to analysing data. They should be involved in decisions about the evaluation question, sampling and data collection. Developers should also be involved as early as possible to make sure you can collect the data you need for your chosen evaluation method.
+
+Commission an external evaluation
+
+If an external team is conducting your evaluation, you will still need to:
+
+
+  find a suitable evaluation team – your organisation may have its own tendering processes
+  write a detailed brief
+  stay in touch while the evaluation is being carried out
+
+
+Combine approaches
+
+You may be able to combine approaches, carrying out some activities in your team and commissioning an external team for other activities. For example, your team might collect data and an external team could analyse it and report back. This could help to reduce the costs of using external evaluators, while reducing the need for particular skills and experience in your team.
+
+If you choose this approach, you should still involve the external team at an early stage in the process. For example, you need to make sure that data you collect can be analysed in the way you expect.
+
+Write your plan or protocol
+
+You should create a written plan for your evaluation. This will help you to communicate:
+
+
+  the purpose of your evaluation
+  how you will conduct your evaluation
+  how you plan to use your findings
+
+
+If you’re commissioning an external evaluator, your plan can be part of your brief to the external team.
+You may need to write a carefully-structured plan known as a protocol. These are required for certain permissions, such as formal approval from an ethics committee or trial registration.
+
+You might want to review your product model before you start writing. Common sections for a plan or protocol include:
+
+Background
+
+What is already known about the topic and what are the gaps your product is addressing? You might want to include information from the scientific literature about recent research.
+
+Rationale
+
+Why are you carrying out the evaluation? What are the questions you want to answer?
+
+Design
+
+How will your evaluation be carried out? What theory underpins your approach? What methods will you use and why? What hypothesis will you be testing?
+
+Sample
+
+What access do you have to participants? How large will your sample be and how will participants be selected?
+
+Procedures
+
+What data will you collect and how will you do this? What is your schedule? What is your costing?
+
+Outcome measures
+
+What will you measure? How will this answer your evaluation questions? What is your rationale for choosing these measures?
+
+Analysis plan
+
+How will you analyse your data? How will your data be presented?
+
+Ethics, governance and approvals
+
+Have you considered whether your evaluation requires ethical approval or other approval? How will you approach it? The best available advice and guidance is from the research ethics and governance services.
+
+Update your record
+
+An evaluation plan should be a living document. If anything changes during your evaluation, update it to explain what changed and why. Be transparent about this.
+
+A protocol is not a living document. It should be fixed before you start because approvals you obtain are based on what you said in your protocol. However, if anything changes during the evaluation, you will need to explain this.
+
+After you have conducted your evaluation, your plan or protocol will form a good basis for writing up your findings.
+
+Approvals and ethics
+
+You may need specific approvals to carry out some types of evaluation. All evaluations involving people should be carried out ethically and legally.
+
+Procedures to check whether your evaluation is appropriate vary depending on the context you’re working in. There are often 2 distinct sets of checks:
+
+
+  data governance, including General Data Protection Regulation (GDPR) compliance
+  research governance, including whether the study is ethical
+
+
+Research governance and ethics
+
+The main points in research ethics relate to safety, consent and confidentiality.
+
+An evaluation, like all research, should minimise the risk of harm. You should have designed your digital health product or service to minimise the risk of harm. Are there any changes to this because of the evaluation? For example, if you are evaluating a new version of an app that includes a dose calculator, you would need to make sure this had gone through appropriate checks. You should consider any safeguarding requirements.
+
+Individuals should consent to be part of research. How formal this is depends on the type of evaluation. You may want to mention evaluation in the terms and conditions for your digital product if you intend to use routine data in evaluations. If something new or different will happen as part of the evaluation, individuals need to know this and indicate their consent. The Health Research Authority website has example and template consent forms.
+
+Data from participants should be treated confidentially. Follow GDPR to make sure you are doing this. When writing up evaluation results, it’s usual to use either group statistics or anonymisation to protect the confidentiality of individuals. For example, in qualitative studies, you might use quotations from interviews, but anonymise them.
+
+Which governance procedures apply to you depends on what you are doing and in what context. Evaluations of existing products or services that do not involve doing anything different to participants are usually classed as audits or service evaluations. These require less oversight in the NHS and other regulatory frameworks. If you are doing something new to individuals as part of the evaluation or if you are randomising participants to receive different interventions, this may come under research ethics frameworks. Research within the NHS is governed by:
+
+
+  the NHS Health Research Authority (HRA) in England
+  
+NHS Research Scotland in Scotland
+  
+Health and Care Research Wales/Ymchwil Iechhyd a Gofal Cymru in Wales
+  the Office for Research Ethics Committees Northern Ireland (ORECNI) in Northern Ireland
+
+
+The HRA has tools to categorise your evaluation and say what approvals are needed.
+
+There is a specific Social Care Research Ethics Committee, which is run through the NHS but also covers social care research outside the NHS.
+
+Research involving a university will usually have to go through the university’s ethics committee, although they will defer to NHS ethics committees if applicable.
+
+In central government, departments will have their own governance processes. GOV.UK has guidance on the principles you should follow when conducting social research in government. There may be additional processes at a regional or local level.
+
+If you are carrying out research in the UK Health Security Agency (UKHSA), it may need to be reviewed by the UKHSA Research Ethics and Governance Group.
+
+Data governance
+
+Any evaluation will involve data, and the collection and processing of that data. You will need to make sure you comply with GDPR. Talk to your organisation’s data protection officer about this.
+
+Think about what consents you have from users and whether you will need new consents to carry out your evaluation. For example, do you have consent to contact them outside of the digital product (such as by phone or email) if you need to?
+
+There is information about how GDPR requirements relate to medical research on the Medical Research Council website.
+
+Manage your evaluation
+
+Carrying out an evaluation requires good project management to run smoothly. How much management is required depends on the scale of your evaluation.
+
+By this stage, you should have a written evaluation plan or protocol. You should know:
+
+
+  what question your evaluation is trying to answer
+  how you will answer your question
+  who is going to carry out the evaluation
+
+
+Feasibility checking and piloting
+
+Check the feasibility of each aspect of your evaluation.
+
+Is what you have planned possible to execute and appropriate to the participants? Testing your evaluation plan may save your resources in the long run. Conduct feasibility testing with a small number of people broadly representative of the participants in your evaluation.
+
+If you are using new technology, check that it works in the context in which it is being evaluated. For example, can users download and launch your app? You may want to check the proposed data collection methods, such as a questionnaire or interview guide. If you encounter problems, you will need to fix them before you carry on.
+
+A pilot study is a small-scale dry run of your evaluation as a whole, or of different elements of your evaluation, once you know that each element can work as intended. In some situations, you might want to carry out a larger-scale feasibility study.
+
+If piloting shows problems, you will need to revise your plans. If you make substantial changes, you may want to do a new pilot.
+
+Monitoring
+
+It’s important to monitor how an evaluation is proceeding. A common problem is recruiting enough participants. You should monitor recruitment whether you are running the evaluation yourselves or someone else is doing the work. If someone else is running the evaluation, you may be able to ask them for reports on data collection progress.
+
+Set targets for recruitment and check whether actual recruitment matches your expectations.
+If it doesn’t, you may have to:
+
+
+  adapt your expectations and accept a smaller number of participants
+  run the study for longer
+  broaden how you are recruiting participants
+
+
+Making changes
+
+In some research designs, you should keep to your plans for the whole study. With a randomised controlled trial, for example, the intervention (the digital product) is expected to stay the same over the course of the trial.
+Some evaluation methods allow iterative changes to how the evaluation is working. Some qualitative methods can be adaptable. For example, an interview schedule can evolve through the course of a study in reaction to findings.
+
+Before you begin your evaluation, decide what changes in your method will be allowed in what circumstances. You may want to plan a review point partway through the evaluation, when you will make decisions about continuing.
+
+Recording what happens
+Keep notes about what you are doing throughout the evaluation. If you make any changes to the technology or the methods, detail what these are and when they happened. This will be useful when you come to analysis.
+
+
+
+
+
+      
+        
+    Published 30 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Design your evaluation: evaluating digital health products
+        Randomised controlled trial: comparative studies
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Evaluating digital health products
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Health improvement
+        Research, testing and standards
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

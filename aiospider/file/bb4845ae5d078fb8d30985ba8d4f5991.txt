@@ -1,0 +1,39 @@
+    
+
+
+
+As COVID-19 deaths and hospitalizations begin to plateau and decline in hard-hit areas, our collective attention has turned to returning to work and regular activities. The economic devastation and potential negative health impacts of lockdown have been acutely felt everywhere. However, the phrase “when we have adequate testing” has become the siren song within many conversations around return, namely in reopening the economy.
+        
+
+
+    
+    Unfortunately, many of these conversations do not fully consider some critical issues around test availability, test characteristics, and—importantly—test strategy. These issues suggest a need to rapidly consider other methods of protecting the population during reentry that can be implemented to complement testing. Such protective methods could include physical barriers, universal masking (while acknowledging supply-chain issues with personal protective equipment), and physical distancing in public spaces.Experts agree that testing is necessary, but our research has indicated that testing should be tiered, targeted, and prioritized, given the limited number and types of accurate tests we are likely to have globally in the short term.
+		
+	
+Why consider protective measures in addition to testing?As of April 29, there is not enough testing capacity in the world to meet the stated testing targets, and such targets will skyrocket globally when scaled for broader testing during reopening. Even with major ramp-up efforts on the part of manufacturers and testing facilities, demand likely will exceed actual capacity (unless “step function” innovations come to market quickly).Scaling up the number of tests needed across the United States, based on the implied ratios from major states, means that manufacturers would have to supply—and testing facilities would have to collect and process—up to 4.5 million tests per week for the United States alone. This indicates that the announced targets set out by large US states will be a challenge to meet.Even if we assume that the goal is to only test the full population in the United States until we reach a rate of 10 percent test positivity,
+
+
+ that would require at least 2.2 million tests per week. Notably, based on our recent estimates,
+
+
+ the estimated global availability of full polymerase chain reaction (PCR) test kits (extraction and amplifications steps) is around 20 million kits per week.
+
+	
+
+
+
+
+    
+    
+
+The numbers above would imply that the United States alone could require a major portion of the global supply, in tandem with other countries facing similar challenges in supply. It is important to note that if we consider equipment—reagent compatibility, regulatory approvals, and other operational requirements such as collecting samples, having available platforms/staffing to run tests—actual global testing capacity would be lower than the reagent supply number. For context, the total number of tests performed last week globally was estimated to be between 7 and 9 million. In the United States, the total number of tests during the same period was around 1.6 million.
+
+
+Government, public health, and health system officials may need to set strategies for the different types of tests. PCR testing is used to detect active viral presence and shedding, while serological testing can detect antibodies and hence recent or previous exposure. A mix of testing will likely be required as society, on its road to reopening, progresses through different stages of disease in any given geography. When blunt targets are set across all “testing,” without the supporting strategy and test mix, these stated goals can obscure the required nuance needed in operational planning. This clarity should be considered in protecting existing essential workers as well as in planning adequately for reopening.Also, significant challenges exist with regards to how tests are applied in practice and how the test results are interpreted and used. Some of the reported issues with collection methodology include:
+     Unintentional variations in collection process, such as “air swabs,” would cause lack of sample (nucleic acid materials), which in turn produces errors in test results (false negatives).
+     Given the urgent public health situation, the FDA has allowed manufacturers of serology tests to distribute their products without prior review for a limited period of time. Accordingly, there is a need for manufacturers to rapidly gather data on sensitivity and specificity as their tests are potentially being used to inform decision making for patients, providers, and policy makers.
+     For example, patients may receive test results showing a “positive serology,” but there is currently not enough medical evidence to determine whether such test results mean they are protected from future illness, and, if so, for how long.
+Testing remains a mainstay of any epidemic response. Many are hopeful and excited about new technologies and approaches developed by academia and industry that may expand testing capacity and increase diagnostic technology and method options.
+		
+	
+The efforts by health authorities, diagnostics suppliers, testing facilities, academia, and others in increasing testing capacity have been remarkable. However, there remain significant challenges, and there is a risk in considering “widespread testing” the sole criterion for returning to work and regular activities. It is simply not possible. In order to protect our health systems from becoming overwhelmed, leaders across healthcare, the public sector, and industry can come together and harness ingenuity from other types of interventions to complement testing as a pillar of reentry, in addition to meaningful investments in expanding testing kit components, platforms, and operations. COVID-19 is very likely expected to be a part of our lives and our societies for at least the next 18 months, until a vaccine or therapeutic option is found. We should be prepared.

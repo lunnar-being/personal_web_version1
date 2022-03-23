@@ -1,0 +1,115 @@
+
+
+
+
+Previous News ReleaseTransforming U.S. Mental Health System Is Possible; Broad Changes Will Be Needed to Improve Access and QualityNext News ReleaseEven Among Those Most Affected by COVID-19, Many Don't See Racism as a Barrier to Good Health
+
+
+Use of Telehealth Jumped as Pandemic Shutdown Began; Use Is Highest for Mental Health Services
+
+
+
+For Release
+MondayJanuary 11, 2021
+
+Use of telehealth jumped sharply during the first months of the coronavirus pandemic shutdown, with the approach being used more often for behavioral health services than for medical care, according to a new RAND Corporation study.
+Between mid-March and early May 2020, telehealth was used by more than 40% of patients with a chronic physical health condition and by more than 50% of those with a behavioral health condition, according to findings published in the Journal of General Internal Medicine.
+Overall, almost half of the people who were undergoing treatment when the pandemic shutdown began reported using some form of telemedicine.
+Researchers found that the use of telehealth for behavioral health conditions was lower among women and among people over the age of 60. Use of telehealth also was lower among non-Hispanic whites relative to non-Hispanic Blacks, and was lower among those with less than a high school education relative to those with a college degree.
+ “While the increased use of telehealth was widespread, some groups of Americans reported using the services less often than others,” said Dr. Shira H. Fischer, the study's lead author and a physician researcher at RAND, a nonprofit research organization. “If telehealth use is going to remain high, we need to ensure equity of access, particularly for behavioral health care where education, age, and gender were all associated with levels of use.”
+In a finding with important implications for the future of telehealth, researchers also found that during the pandemic a large majority of telehealth users connected with their own doctor rather than a new or unfamiliar doctor.
+Prior to the pandemic, patients frequently were reluctant to use telehealth because it often meant seeing a provider other than their own physician. According to researchers, sustaining the ability to see one's own doctor through telehealth may be critical to making telehealth a permanent part of routine health care.
+Many reports have documented a spike in the use of telehealth services after the shutdown prompted by the coronavirus pandemic. The increase was made possible by emergency regulatory changes that were adopted to promote use of telehealth.
+RAND researchers examined the increase in telehealth by surveying 2,052 adults who are a part of the RAND American Life Panel, a nationally representative internet panel. The questions about use of telehealth were part of a larger survey about life during the pandemic that was fielded between May 1 and May 6.
+When the pandemic began, nearly 40% of the Americans surveyed were being treated for a chronic physical health condition, while 15% were being treated for a behavioral health condition. Since the pandemic started, 16% had considered seeking care for a new or recurrent condition.
+The study found that among patients who were receiving care when the pandemic began, 11% had used telehealth that included video conferencing from the middle of March to early May, a period of less than two months. In contrast, a survey conducted with the same panel in 2019 found that fewer than 4% had ever used video conferencing with a doctor.
+Among people who used telehealth services, researchers found that the use of video telehealth was less common for physical health care (14% of patients) than for behavioral health care (30% of patients).
+Lack of insurance was associated with lower telehealth use for new conditions, while use of telehealth was more common in the Northeast than other parts of the nation.
+“There is a wide expectation that telehealth will continue after the pandemic ends. Lessons from the use of telehealth during this period should inform policy for the post–COVID-19 era,” Fischer said.
+Other authors of the study are Lori Uscher-Pines, Elizabeth Roth, and Joshua Breslau. Funding for this research was provided by gifts from RAND supporters and income from operations.
+RAND Health Care promotes healthier societies by improving health care systems in the United States and other countries.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+About the RAND Corporation
+The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous.
+
+
+
+
+Media Resources
+RAND Office of Media Relations
+(703) 414-4795
+(310) 451-6913
+media@rand.org
+
+
+Researcher Spotlight
+
+
+
+Shira H. Fischer
+Physician Policy Researcher
+
+
+Shira Fischer is a physician policy researcher at the RAND Corporation. Her research focuses on health information technology research and policy. She recently published two papers on the uptake of telehealth in the wake of COVID-19. She has done work for HHS on entry-level workforce in health…
+
+Explore Our People »
+
+Explore
+All News Releases
+By Date
+Related Topics
+
+Coronavirus Disease 2019 (COVID-19)Health Care AccessHealth Care Delivery ApproachesPandemicTelemedicine
+
+Research Conducted By
+
+RAND Health Care
+
+Explore All Topics »
+
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Journal Article
+The Transition to Telehealth During the First Months of the COVID-19 Pandemic
+
+Jan 8, 2021
+Shira H. Fischer @ShiraFischer, Lori Uscher-Pines, et al.
+
+
+
+
+
+
+
+
+
+
+Commentary
+Patients Log On to See Their Own Doctors During the Pandemic
+
+Jan 7, 2021
+Shira H. Fischer @ShiraFischer, Joshua Breslau @JoshuaBreslau
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Research Topics:Health, Health Care, and Aging/Infectious Diseases/Coronavirus Disease 2019 (COVID-19)","Research Topics:Health, Health Care, and Aging/Health Care Organization and Administration/Health Care Delivery Approaches","Research Topics:Health, Health Care, and Aging/Health Care Access","Research Topics:Cyber and Data Sciences/Health Information Technology/Telemedicine","Research Topics:Health, Health Care, and Aging/Infectious Diseases/Epidemic/Pandemic","Web Tags:organizational/Locations/Americas/North America/United States"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Coronavirus Disease 2019 (COVID-19)","value":"research-topics:health-health-care-and-aging/infectious-diseases/coronavirus-disease-2019-COVID-19"},{"display":"Health Care Delivery Approaches","value":"research-topics:health-health-care-and-aging/health-care-organization-and-administration/health-care-delivery-approaches"},{"display":"Health Care Access","value":"research-topics:health-health-care-and-aging/health-care-access"},{"display":"Telemedicine","value":"research-topics:cyber-and-data-sciences/health-information-technology/telemedicine"},{"display":"Pandemic","value":"research-topics:health-health-care-and-aging/infectious-diseases/epidemic/pandemic"},{"display":"United States","value":"rand-topics:organizational/locations/Americas/North-America/United-States"}];})();
+

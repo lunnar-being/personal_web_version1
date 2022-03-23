@@ -1,0 +1,22 @@
+
+The most important element in the battlefield of the future won't be rockets, bullets or robots, but data and the ability to collect it from any point and send it where it needs to be, the experts said yesterday at a Defense One Tech Summit panel discussion titled ''Linking Land, Air, Sea, and Space to Dominate the Battlefield of Tomorrow.''
+
+
+
+
+Data shareability is at the heart of the military's next-generation, multidomain operations concept. It's a vision of the future in which every tool in the U.S. arsenal — on the land, air, sea, space and cyberspace — can communicate instantaneously at high bandwidth. The speakers included: Cynthia Bedell, director of computation and information sciences at the Army Research Laboratory; Preston Dunlap, the Air Force’s chief architect; Dr. Tim Grayson, director of the Strategic Technology Office at the Defense Advanced Research Projects Agency; and Lisa Sanders, director of science and technology for U.S. Special Operations Command.Artificial intelligence, or AI, could possibly be deployed on the battlefield in multidomain operations in five to 10 years, Grayson noted.
+
+
+
+
+''Mosaic warfare,'' a concept being developed by the Defense Advanced Research Projects Agency, would link warfighter platforms — missile batteries, tanks, planes, ships and so on — through a communications network powered by AI, he said.Layering a network with AI would enable the warfighter to better decide which asset is most effective in carrying out a specific mission. For example, if both Air Force and Navy aircraft are in an area to be targeted, AI could suggest which would be the better choice.In a mosaic warfare ground scenario, AI might suggest sending an unmanned aerial vehicle or ground robot ahead of the main, ground battle force. That unmanned system might spot an enemy tank and pass the coordinates back, which are then relayed to a non-line-of-sight strike system in the rear that, in turn, launches its munitions and takes out the target.
+
+
+
+
+Bedell said that while large platforms such as ships and aircraft can carry a lot of power and computing, soldiers on the ground usually can't. AI could be used to optimize communications in controlling how data and bandwidth are used most effectively, she explained.In another example, Bedell said AI algorithms could be refined as systems learn certain behaviors. An unmanned ground vehicle could learn a safer route to avoid detection, moving in the shadows instead of traveling in the middle of a road. Those lessons could be shared from machine to machine. The Army Research Laboratory plans to do some experiments along those lines this fall.
+
+
+
+
+Bedell said an important aspect of AI is learning how human behavior changes when working with autonomous partners and how autonomous partners interact with different humans.Grayson added that humans are better at making high-level decisions, while AI-powered machines can process complicated things at great speed. DARPA, in partnership with the Air Force, will be conducting experiments along these lines to better understand these interactions, he said.

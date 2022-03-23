@@ -1,0 +1,38 @@
+Introduction    
+ 
+
+has driven rapid adoption of digital channels across countries and industries, but digital’s growth has plateaued in the past six months and may begin to slip back once the pandemic eases—even as total digital adoption stays well above prepandemic levels. That’s one of the findings from a new McKinsey survey of global consumer sentiment conducted in April 2021. Companies can look to hold on to newly digital consumers by improving digital experiences, investing in “,”
+
+
+ and putting consumer trust at the heart of all they do. The survey suggests that industries across regions experienced an average of 20 percent growth in “fully digital”
+
+
+ users in the six months ending in April 2021, building on . During that same time period, it was primarily younger people joining the ranks of digital users. But, with consumers having reached high levels of digital penetration in most regions and industries, the acceleration into digital channels now seems to have leveled off in both Europe and the United States, with consumers in some industries saying that they will be using digital channels less frequently once the pandemic ends. As a result, even as total digital adoption remains above prepandemic levels, many industries and regions may see a modest negative net change in postpandemic digital use relative to 2020.
+		
+	
+The industries most vulnerable to the loss of digital consumers may be those that saw the biggest gains in digital adoption during the pandemic. New adopters had little choice during lockdowns but to embrace digital channels, and the channels they entered were more likely to have been newly built and with a less satisfying user experience than established ones. While differences arise between countries, regions, and industries, consumers tend to have similar expectations everywhere, according to our survey. Furthermore, consumers who had previously been limited (or at least accustomed) to more local, physical-world offerings before the pandemic (for instance, in education and healthcare) have learned to access those services digitally and, given digital’s borderless nature, to access them globally, too—even as their local providers made more of those services available digitally themselves. Once exposed to best-in-class experiences and offerings across industries and around the globe, ever more digitally savvy consumers may be reluctant to settle for less.
+		
+	
+Companies can respond by addressing the areas that matter most to digital consumers. According to our survey, these include improved user experiences, better offerings, heightened security and privacy, and phygital expertise, among other approaches. Innovations in digital services may hold the key to further penetrating digital channels, and to staying competitive in the ones that companies have already entered. Moreover, , in part through a virtuous circle that emerges: as more customers use digital channels, organizations learn from behavioral data to further improve digital offerings, which in turn draw more users. This opportunity might be particularly promising in industries most at risk of losing newly acquired digital users. The following charts examine the survey findings
+
+
+ and shed light on digital users as they emerge from the COVID-19 pandemic into a postpandemic “next normal.”
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+    About the researchMcKinsey used the following methodology for the online survey, which was conducted in April 2021 and which provides the data for this article.
+
+
+ About 29,000 respondents in 24 countries were surveyed in April 2021. Respondents were balanced by age and gender, with less than 2 percent variation relative to any given country’s demographics. Survey respondents were recruited
+
+
+ by open enrollment, by invitation, and through certified providers. All respondents were verified prior to taking the survey. The scope of the survey included: We surveyed respondents’ level of consumption of digital services by industry in the six months leading up to April 2021, as well as their forecast for how much they will consume in the six months after April 2021. We also surveyed respondents’ modes of digital consumption, including channels (such as fully digital versus digital with human assistance versus fully physical) and other customer-related dimensions, such as perceived innovation, satisfaction, trust, and so on.Industries surveyed included banking, education, general retail, government/public sector, healthcare, insurance, media and entertainment, retail grocery, telecommunications, travel, and utilities. Countries surveyed included Austria, Belgium, Brazil, China, the Czech Republic, Denmark, Finland, France, Germany, Greece, Hungary, India, Italy, Mexico, the Netherlands, Norway, Poland, Portugal, Romania, Spain, Sweden, Switzerland, the United Kingdom, and the United States.

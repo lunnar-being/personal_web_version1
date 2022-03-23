@@ -1,0 +1,18 @@
+
+Both the DLA Information Operations and the test center have already seen ways the 3D scanner can aid in the organization's 3D printing goals, as well as the center's coordination with contactors, vendors and customers. The idea started as a need, expressed by the DLA and the military community, to get the agency started on 3D printing, said Craig Gravitz, DLA's information operations technology accelerator team lead.
+
+
+
+
+"We did interviews with people inside DLA and in the military services, and the biggest need that we heard from the 3D printing community was the ability to [create and] share models," Gravitz said.The 3D scanning technology will be used in conjunction with the Joint Additive Manufacturing Model Exchange platform, or , created by the DLA for Defense Department users to share 3D models in a secure, web-based environment."Eventually, what we hope to do is kind of connect those two things," Gravitz said. "Prove that you can take a 3D scan, match it to a catalog model or something else, and figure out 'Hey, this is NSN so-and-so.'"
+
+
+
+
+Although he hopes the scanner will eventually be fully automated for anyone who needs to operate, the team realized that the best place to test the machine's capabilities was in the product test center, Gravitz said. While his team pursues the 3D scanning technology for agency-wide benefits, there are also direct benefits to center use."Even though this all came out of one big project of helping DLA lead the way on 3D printing, we realized that these scanners actually have a ton of [uses], and we think that there's a separate use case here for the test lab completely independent of anything 3D printing," Gravitz said.
+Jamie Hieber, the center's lab manager, said she's excited about the possibilities."I think the scanner opens up potential new testing for this lab to support DLA," Hieber said. "We've seen a lot of work go to third-party testing labs that potentially can be done here at our lab given the capability."Both Gravitz and Hieber recognized the potential of the scanner in improving communications between the lab and DLA Troop Support's contracting officers, vendors and customers when discussing product test results.
+
+
+
+
+"Being able to send a 3D-model embedded in a PDF that users can spin around…you can actually see it, and it's more meaningful to you rather than just a bunch of [technical] words on a page," Gravitz said.Hieber agreed and added other potential applications for the product test center."If we can couple this 3D analysis with a very clean, dimensional [computer-aided design] file, the only thing it can do is enhance the contracting ability so we can see some reverse engineering, and we can get good information on hard-to-manufacture parts," Hieber said. "We can even potentially help to work with additive manufacturing."

@@ -1,0 +1,523 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Frontend developer
+  
+
+  
+  
+  
+      
+  Find out what a frontend developer does and the skills you need to do the job.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      3 December 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of frontend developer
+
+        
+        
+          Apprentice frontend developer
+
+        
+        
+          Junior frontend developer
+
+        
+        
+          Frontend developer
+
+        
+        
+          Senior frontend developer
+
+        
+        
+          Lead frontend developer
+
+        
+        
+          Head of frontend development
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This describes the role of a frontend developer and the skills required including:
+
+
+  
+    an introduction to the role, telling you what you would do in this role and the full list of skills
+  
+  a description of the levels in this role, from associate frontend developer to principal frontend developer, specifying
+  the skills you need for each level and the corresponding skill level (awareness, working, practitioner, expert).
+
+
+This role is part of the  Digital, Data & Technology Profession  in the Civil Service.
+
+Introduction to the role of frontend developer
+
+A frontend developer designs, builds and improves website software that meets user needs. In this role, you will:
+
+
+  
+    be responsible for writing clean, accessible code following a progressive enhancement approach
+  
+  create code that is open by default and easy for others to reuse
+  design software which meets user needs and creates meaningful interactions and relationships with users
+  have an understanding of the three fundamental frontend technologies (HTML, CSS, and JavaScript)
+
+
+Skills required to be a frontend developer
+You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.
+
+
+  
+Programming and build. You can use agreed standards and specifications to design, create, test and document new software or make changes to existing software.
+  
+User focus. You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet user needs and engage in meaningful interactions and relationships with users. You put users first. You can manage competing priorities.
+  
+Systems design. You can design system components which meet business needs. You are good at solving problems and understanding technical and business complexity.
+  
+Systems integration. You can integrate and test user interfaces, systems and programme components.
+  
+Modern standards approach. You use a modern standards approach through development, automation and testing.
+  
+Prototyping. You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs. You understand parameters, restrictions and synergies.
+  
+Accessibility. You are able to create accessible user interfaces that put user needs first. You test components and pages against accessibility standards.
+  
+Communicating information. You are able to communicate effectively across organisational, technical and political boundaries. You know how to make complex and technical information and language simple and accessible for non-technical audiences. You collaborate effectively with others.
+  
+Leadership and guidance. You can interpret a vision to lead on decisions. You create a collaborative environment and maintain a good service. You can understand and resolve technical disputes across varying levels of complexity and risk. You can solve issues and unblock problems.
+  
+Web Performance Optimisation. You understand how web performance can impact users. You are able to solve problems to improve performance. You use different sources of data to monitor and identify performance issues.
+  
+Community collaboration. You contribute to the work of others while having the ability to build, motivate and empower teams. You create the right environment for teams to work in and are able to facilitate the best team makeup depending on the situation. You give and receive constructive feedback, facilitating the feedback loop. You recognise and deal with issues.
+  
+Strategic thinking. You have an overall perspective on business issues, events, activities and their wider implications and long-term impact. This could include determining patterns, standards, policies, roadmaps and vision statements. You focus on outcomes rather than solutions and activities.
+
+
+Apprentice frontend developer
+An apprentice frontend developer attends certified training and develops skills on the job. In this role, you will:
+
+
+  
+    spend a substantial portion of time shadowing others
+  
+  work with other developers to write code and tests
+  write code that follows web standards
+  build your understanding of accessibility
+  build your own knowledge
+  develop software which meets user need
+
+
+Skills needed for this role
+
+
+  
+Programming and build. You can design, code, test, correct and document simple user interfaces using the right standards and tools under the direction of others. (Relevant skill level: awareness)
+  
+User focus. You know about user experience analysis and its principles. You can explain the purpose of user stories and focus on user needs. (Relevant skill level: awareness)
+  
+Modern standards approach. You can explain the importance of adopting a modern standards approach. (Relevant skill level: awareness)
+  
+Prototyping. You can explain what prototyping is and why and when to use it. You have an understanding of how to work in an open and collaborative environment for example, by pair-working. (Relevant skill level: awareness)
+  
+Accessibility. You understand accessibility and that users have different accessibility needs. You are able to help fix accessibility issues under the direction of others. (Relevant skill level: awareness)
+  
+Leadership and guidance. You are able to follow agreed good practice for the team. You have an awareness of the importance of team dynamics and collaboration and understand the importance of feedback. (Relevant skill level: awareness)
+  
+Communicating information. You are able to listen to the needs of the design and business stakeholders and interpret information. You are able to take part in discussions within a multidisciplinary team. (Relevant skill level: awareness)
+  
+Community collaboration. You understand the work of others and the importance of team dynamics, collaboration and feedback. (Relevant skill level: awareness)
+  
+Web Performance Optimisation. You understand the basic principles of web performance, and why web performance is important. You are able to support activities to improve web performance under the guidance of others.  (Relevant skill level: awareness)
+
+
+Junior frontend developer
+
+A junior frontend developer learns on the job by delivering software components. At this level, you will:
+
+
+  work independently with guidance from more senior developers to identify user issues and needs
+  write clean code that follows web standards
+  build your understanding of accessibility
+  build your own knowledge
+  develop software which meets user needs
+
+
+Skills needed for this role
+
+  
+Programming and build.  You can collaborate with others to understand and review software requirements. You can design, code, test, correct and document user interfaces using the right standards and tools under the direction of others. (Relevant skill level: working)
+  
+User focus.  You know about user experience analysis and its principles. You can explain the purpose of user stories and the focus on user needs. (Relevant skill level: awareness)
+  
+Systems design. You can assist as part of a team on design of components of larger systems. (Relevant skill level: awareness)
+  
+Systems integration. You are aware of how to build static assets from source code. You know how browsers use and present static assets to the end users and how different versions of an interface can be delivered for different browsers and devices. (Relevant skills level: awareness)
+  
+Modern standards approach. You understand the central principles of a modern standards approach and how it applies to the work you are undertaking. You can apply it under guidance. (Relevant skill level: working)
+  
+Prototyping. You know when to use a specific prototyping technique or method (for example, sketch, code, Loc2). You can show the value of prototyping to your team. (Relevant skill level: working)
+  
+Accessibility. You understand users have different accessibility needs. You are able to build user interfaces that meet accessibility standards and fix accessibility issues under the direction of others. (Relevant skill level: working)
+  
+Communicating information.  You are able to listen to the needs of the design and business stakeholders and interpret information. You are able to take part in discussions within the multidisciplinary team. (Relevant skill level: working)
+  
+Leadership and guidance. You are able to follow agreed good practice for the team. You have an awareness of the importance of team dynamics and collaboration and understand the importance of feedback. (Relevant skills level: awareness).
+  
+Web Performance Optimisation. You understand the basic principles of web performance, and why web performance is important. You are able to support activities to improve web performance under the guidance of others. (Relevant skills level: awareness).
+  
+Community collaboration. You can contribute to the work of others while having the ability to motivate and empower teams. You know how to create the right environment for teams to work in and can facilitate the best team makeup depending on the situation. You can recognise and deal with issues. (Relevant skill level: working)
+  
+Strategic thinking. You are aware of the strategic context of your work and why it is important. You support strategic planning in an administrative capacity. (Relevant skills level: working)
+
+
+Frontend developer
+
+A frontend developer builds software components, primarily in the form of user interfaces. In this role, you will:
+
+
+  
+    collaborate and work closely with other disciplines to develop designs and working prototypes based on user needs and in support of organisational aims
+  
+  develop software components that form part of a product to meet user needs
+  write clean, well-tested code that follows web standards
+  coach and mentor more junior colleagues
+
+
+Skills needed for this role
+
+  
+Programming and build. You collaborate with others when necessary to review specifications and use these agreed specifications to design, code, test and document user interfaces of medium to high complexity, using the right standards and tools. (Relevant skill level: practitioner)
+  
+User focus. You know how to collaborate with user researchers and interaction designers to represent user needs internally. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. (Relevant skill level: working)
+  
+Systems design. You can translate agreed designs into working user interfaces following modern standards. You can manage and document technical complexity to make sure work is easily maintained and reusable. (Relevant skill level: working)
+  
+Systems integration. You can build static assets from source code and test the resulting user interface works as expected when delivered over the internet. You can work on integration tests and support configuration of the network part of the system as part of a wider team. (Relevant skill level: working)
+  
+Modern standards approach. You can competently use a modern standards approach and guide others to do so. (Relevant skill level: practitioner)
+  
+Prototyping. You see prototyping as a team activity, actively building prototypes and testing with others. You establish design patterns and iterate them. You know a variety of methods of prototyping and can choose the most appropriate ones. (Relevant skill level: practitioner)
+  
+Accessibility. You are able to build user interfaces that meet a predefined set of standards. You champion accessibility to internal stakeholders. You are able to offer design feedback to mitigate risk of failing accessibility testing. You can offer recommendations on the best tools and methods to be used when accessibility testing. (Relevant skill level: practitioner).
+  
+Communicating information. You can work collaboratively in a group and build relationships with others. You are able to identify issues through agile health-checks and work with others to address them. You are able to manage stakeholder expectations. You can be flexible and you are capable of proactive and reactive communication. You are willing to facilitate difficult discussions within the team or with senior stakeholders. (Relevant skill level: practitioner)
+  
+Leadership and guidance. You understand the impact of decisions and are able to make decisions characterised by different levels of risk and complexity. You are capable of resolving technical disputes between wider peers and indirect stakeholders, taking into account all views and opinions. (Relevant skill level: practitioner).
+  
+Web Performance Optimisation. You are aware of the principles of web performance and how poor performance can negatively affect user experience. You support activities to improve web performance. You are able to identify and help resolve issues. (Relevant skill level: working)
+  
+Community collaboration. You know how to work collaboratively within a group, actively networking with others and giving feedback at the appropriate time to make sure the discussion sticks. You can use your initiative to identify problems or issues in the team dynamic and rectify them. You can pull out issues through agile health-checks with the team to provoke the right responses. (Relevant skill level: practitioner)
+  
+Strategic thinking. You are able to work within a strategic context and communicate how activities meet strategic goals. You contribute to the development of strategy and policies. (Relevant skill level: working).
+
+
+Senior frontend developer
+
+A senior frontend developer is an experienced developer who works with minimal support and can influence and mentor others. In this role, you will:
+
+
+  
+    help set direction and embed good practice within teams
+  
+  make decisions based on research
+  plan and lead development on sets of related stories, working with other disciplines to understand what needs to be built
+  have an understanding of the whole system
+  be responsible for teaching and mentoring others
+
+
+Skills needed for this role
+
+  
+Programming and build. You can collaborate with others when necessary to review specifications. You can use specifications to build, test and document user interfaces of high complexity, using the right standards and tools. (Relevant skill level: practitioner)
+  
+User focus. You can collaborate with user researchers and interaction designers to represent user needs internally. You can explain the difference between user needs and the desires of the user. You champion user research to focus on all users. You know how to prioritise and define approaches to understand the user story, guiding others to do so. You can offer recommendations on the best tools and methods to be used. (Relevant skill level: practitioner)
+  
+Systems design. You can translate agreed designs into working user interfaces following modern standards. You can manage and document technical complexity to make sure work is easily maintained and reusable. You are able to work with well-understood technology and can identify appropriate patterns to make effective use of technologies’ best features. (Relevant skill level: practitioner)
+  
+Systems integration. You can define the static assets build. You are able to coordinate all aspects of the integration and take responsibility for the tests around the user interface. You can also configure the part of the system that uses the network and test that it works as expected. (Relevant skill level: practitioner)
+  
+Modern standards approach. You use a modern standards approach competently and guide others to do so. (Relevant skill level: practitioner)
+  
+Prototyping. You see prototyping as a team activity, actively building prototypes and test with others. You establish design patterns and iterate them. You know a variety of methods of prototyping and can choose the most appropriate ones. (Relevant skill level: practitioner)
+  
+Accessibility. You are able to build user interfaces that meet a predefined set of standards. You champion accessibility to internal stakeholders. You can offer design feedback to mitigate risk of failing accessibility testing. You are able to offer recommendations on the best tools and methods to be used when accessibility testing. (Relevant skill level: practitioner)
+  
+Communicating information. You can work collaboratively in a group and build relationships with others. You are able to identify issues through agile health-checks and work with others to address them. You are able to manage stakeholder expectations. You can be flexible and you are capable of proactive and reactive communication. You are willing to facilitate difficult discussions within the team or with senior stakeholders. (Relevant skill level: practitioner)
+  
+Leadership and guidance. You understand the impact of decisions and are able to make decisions characterised by different levels of risk and complexity. You are capable of resolving technical disputes between wider peers and indirect stakeholders, taking into account all views and opinions You are able to make decisions characterised by medium levels of risk and complexity and recommend decisions as risk and complexity increase. You contribute to best practice guidelines.  (Relevant skill level: practitioner).
+  
+Web Performance Optimisation.  You can identify and fix web performance issues. You are able to collect data from various tools to monitor and fix web performance issues. You understand that poor web performance has a negative effect on user experience. You can offer guidance on the best tools and methods to use. (Relevant skill level: practitioner).
+  
+Community collaboration. You know how to work collaboratively within a group, actively networking with others and giving feedback at the appropriate time to ensure the discussion sticks. You can use your initiative to identify problems or issues in the team dynamic and rectify them. You can pull out issues through agile health-checks with the team to provoke the right responses. (Relevant skill level: practitioner)
+  
+Strategic thinking. You are able to define strategies and policies, providing guidance to others. You can evaluate current strategies to make sure business requirements are being met. (Relevant skill level: practitioner).
+
+
+Lead frontend developer
+
+A lead frontend developer is an expert practitioner who influences and mentors others. At this level you will:
+
+
+  
+    set direction and assure the quality of development across teams
+  
+  lead multiple or highly complex services
+  contribute to the community, providing technical leadership, coaching and mentoring
+  promote knowledge sharing and adoption of good practice
+  be proficient in a wide range of technical systems and able to identify appropriate technology and approaches
+
+
+Skills needed for this role
+
+  
+Programming and build. You can advise on the right way to apply standards and methods, ensuring compliance. You provide technical advice to stakeholders and set team-based standards for programming tools and techniques. You collaborate with others when required to review specifications. You use specifications to build, test and document user interfaces of high complexity, using the appropriate standards and tools. (Relevant skill level: expert)
+  
+User focus. You can collaborate with user researchers and interaction designers to represent user needs internally. You can explain the difference between user needs and the desires of the user. You champion user research to focus on all users. You know how to prioritise and define approaches to understand the user story, guiding others to do so. You can offer recommendations on the best tools and methods to be used. (Relevant skill level: practitioner)
+  
+Systems design. You can translate agreed designs into working user interfaces following modern standards. You can manage and document technical complexity to make sure work is easily maintained and reusable. You are able to work with well-understood technology and can identify appropriate patterns to make effective use of technologies’ best features. (Relevant skill level: practitioner)
+  
+Systems integration. You can define the static assets build. You are able to coordinate all aspects of the integration and take responsibility for the part of the tests around the user interface. You can also configure part of the system that uses the network and test that it works as expected. (Relevant skill level: practitioner)
+  
+Modern standards approach. You have a strong understanding of the most appropriate modern standards and practices and how they are applied. You take responsibility for coaching and guiding others with these standards. (Relevant skill level: expert)
+  
+Prototyping. You see prototyping as a team activity. You actively build prototypes and test with others. You establish and iterate design patterns. You know a variety of methods of prototyping and can choose the most appropriate one. (Relevant skill level: practitioner)
+  
+Accessibility. You have a strong understanding of accessibility and advocate for users with accessibility needs. You are able to build user interfaces that meet a predefined set of standards. You champion accessibility to internal and external stakeholders. You can offer design solutions to mitigate risk of failing accessibility testing and recommendations on the best tools and methods to be used when accessibility testing. (Relevant skill level: expert)
+  
+Communicating information. You can mediate between people and mend relationships, communicating with stakeholders at all levels. You know how to manage stakeholders’ expectations and facilitate discussions across high risk and complexity or under constrained timescales. You can speak on behalf of and represent the community to large audiences inside and outside of government. (Relevant skill level: expert)
+  
+Leadership and guidance. You can change organisational structures to fixable and sustainable designs. You know how to lead on the strategy for the whole organisation, marrying business needs with innovative analysis. You can make and justify decisions characterised by high levels of risk, impact and complexity. You know how to build consensus between organisations (private or public) or highly independent stakeholders. You can solve and unblock issues between teams or departments at the highest level. You understand the psychology of a team and have strong mediation skills. You can coach the organisation on team dynamics and conflict resolution. (Relevant skill level: expert)
+  
+Web Performance Optimisation. You can identify and fix web performance issues. You are able to collect data from various tools to monitor and fix web performance issues. You understand that poor web performance has a negative effect on user experience. You can offer guidance on the best tools and methods to use. (Relevant skill level: practitioner).
+  
+Community collaboration. You know how to work collaboratively within a group, actively networking with others and giving feedback at the appropriate time to ensure the discussion sticks. You can use your initiative to identify problems or issues in the team dynamic and rectify them. You can pull out issues through agile health-checks with the team to provoke the right responses. (Relevant skill level: practitioner)
+  
+Strategic thinking. You can lead the design and implementation of strategy, directing the evaluation of strategies and policies to ensure business requirements are being met. (Relevant skill level: expert)
+
+
+Head of frontend development
+
+A Head of frontend development is an expert practitioner with broad industry experience. They are an expert in many technical areas or specialists with very deep knowledge in a particular technical area. At this level you will:
+
+
+  
+    define and assure best practice while influencing, leading and mentoring others
+  
+  influence and develop organisational strategy and priorities, collaborating with counterpart colleagues across government
+  ensure the right conditions and environment for frontend developers to work effectively
+  develop departmental capability by facilitating internal mobility, shaping career paths and recruiting talent
+
+
+Skills needed for this role
+
+  
+Programming and build. You advise on the right way to apply standards and methods to ensure compliance. You provide technical advice to stakeholders and set team-based standards for programming tools and techniques. You collaborate with others when required in reviewing specifications. You use specifications to build, test and document user interfaces of a high complexity, using the appropriate standards and tools. (Relevant skill level: expert)
+  
+User focus. You can collaborate with user researchers and interaction designers to represent user needs internally. You can explain the difference between user needs and the desires of the user. You champion user research to focus on all users. You know how to prioritise and define approaches to understand the user story, guiding others to do so. You can offer recommendations on the best tools and methods to be used. (Relevant skill level: practitioner)
+  
+Systems design. You can design systems characterised by high levels of risk and technical complexity. You can manage and document technical complexity to make sure work is easily maintained and reusable. You select the appropriate standards, methods and tools and make sure they are applied effectively. You make sure others follow relevant technical strategies, policies, standards, and practices. You are able to work with well-understood technology and can identify appropriate patterns to make effective use of technologies’ best features. (Relevant skill level: expert)
+  
+Systems integration. You can define the static assets build. You are able to coordinate all aspects of the integration and take responsibility for the part of the tests around the user interface. You can also configure part of the system that uses the network and test that it works as expected. (Relevant skill level: practitioner)
+  
+Modern standards approach. You have a strong understanding of the most appropriate modern standards and practices and how they are applied. You take responsibility for coaching and guiding others with these standards. (Relevant skill level: expert)
+  
+Prototyping. You have experience of using a variety of methods of prototyping. You know how to share best practice and can coach others. You look at strategic service design end to end. (Relevant skill level: expert)
+  
+Accessibility. You have a strong understanding of accessibility and advocate for users with accessibility needs. You are able to build user interfaces that meet a predefined set of standards. You champion accessibility to internal and external stakeholders. You can offer design solutions to mitigate risk of failing accessibility testing and recommendations on the best tools and methods to be used when accessibility testing. (Relevant skill level: expert)
+  
+Communicating information. You can mediate between people and mend relationships, communicating with stakeholders at all levels. You know how to manage stakeholders’ expectations and facilitate discussions across high risk and complexity or under constrained timescales. You can speak on behalf of and represent the community to large audiences inside and outside of government. (Relevant skill level: expert)
+  
+Leadership and guidance. You can change organisational structures to fixable and sustainable designs. You know how to lead on the strategy for the whole organisation, marrying business needs with innovative analysis. You can make and justify decisions characterised by high levels of risk, impact and complexity. You know how to build consensus between organisations (private or public) or highly independent stakeholders. You can solve and unblock issues between teams or departments at the highest level. You understand the psychology of a team and have strong mediation skills. You can coach the organisation on team dynamics and conflict resolution. (Relevant skill level: expert)
+  
+Web Performance Optimisation. You are able to act as a recognised expert and advocate for web performance optimisation best practices. You take responsibility for coaching and guiding others. You actively collect data from various tools to monitor and fix web performance issues. You understand that poor web performance has a negative effect on user experience. (Relevant skill level: expert)
+  
+Community collaboration. You know how to solve and unblock issues between teams or departments at the highest level. You can coach the organisation on team dynamics and conflict resolution while also building and growing the community. (Relevant skill level: expert)
+  
+Strategic thinking. You can lead the design and implementation of strategy, directing the evaluation of strategies and policies to make sure business requirements are being met. (Relevant skill level: expert)
+
+
+Read more
+
+Find current job openings in the Civil Service 
+Why you should hire a frontend Developer  
+Read blogs about technology in government 
+
+
+
+
+
+      
+        
+    Published 3 December 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        End user computing engineer
+        Test manager
+        Software developer
+        Test engineer
+        Infrastructure engineer
+
+      
+        
+          + 2 more
+        
+      
+
+      
+        
+          Software developer and Interaction designer
+        
+      
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

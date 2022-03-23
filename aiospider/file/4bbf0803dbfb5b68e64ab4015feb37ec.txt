@@ -1,0 +1,347 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Micro-randomised trial
+  
+
+  
+  
+  
+      
+  How to use a micro-randomised trial to evaluate your digital health product.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency
+
+      
+      Published
+      8 June 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          What to use it for
+
+        
+        
+          Pros
+
+        
+        
+          Cons
+
+        
+        
+          How to carry out a micro-randomised trial
+
+        
+        
+          More information and resources
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Digital technology allows you to design interventions that are responsive to user needs. These are called just-in-time adaptive interventions (JITAIs). They continuously collect information about individuals’ changing situations and tailor the intervention components based on this information, for example by delivering components at the right times and locations to support the individual.
+
+Components can be:
+
+
+  push interventions – the system initiates the interaction (reminders, suggestions, tips, motivational messages)
+  pull interventions – the user actively decides to access what they need (feedback based on charts and graphs, discussion board, educational materials)
+
+
+Micro-randomised trials (MRTs) are used to evaluate the push components by optimising the decisions that are used tailor the push interventions to the users in JITAIs.
+
+What to use it for
+
+You can use MRTs when you are developing a product or intervention, or if you have already developed one.
+Your product should include features that are delivered to the user based on time-varying, individually-specific variables. For example, your digital product to help people quit smoking sends a motivational message only when users report low mood. Self-report of mood is the tailoring variable.
+
+MRT is a suitable method to evaluate when, how, and how frequently to provide the motivational prompt so that it is optimal (balancing effectiveness and user burden).
+
+Pros
+Benefits of MRTs include:
+
+
+  they help you to develop interventions tailored to the individual
+  they can assess the effect of time on intervention effectiveness
+  you could use passively-collected mobile data to measure the outcomes unobtrusively
+
+
+Cons
+Drawbacks of MRTs include:
+
+
+  they are not designed to answer the question of whether the whole intervention package works. If you want to assess the whole intervention then look at other designs, such as randomised controlled trials.
+  if the intervention components are delivered too often, participants may disengage from the study. Balance between obtaining the data you need and user burden is the key.
+  if you choose a self-reported measure, this may become burdensome to participants, which can lead to reduced responsiveness. Gather data automatically (for example,  via sensors) when possible.
+
+
+How to carry out a micro-randomised trial
+
+In an MRT, the intervention components are switched on or off frequently (for example weekly, daily, or even many times a day) and participants could be randomised hundreds or thousands of times in the trial.
+
+Decisions about whether to deliver an intervention component, and, if so, what type of intervention to deliver, are determined by decision rules. These are used to push the intervention component based on the tailoring variables. Tailoring variables are the factors that decide when, where or how to intervene. They can be passively collected (for example, location, weather, heart rate) or actively collected (via prompted queries).
+
+MRT investigates different types of effect alongside each other:
+
+
+  the most immediate effects of delivering the intervention component (proximal outcomes). For example, the user increased their steps right after receiving a notification prompting them to go for a walk.
+  the goal of any evaluation (distal outcomes), for example change in behaviour and reaching weekly recommended physical activity levels
+
+
+What is randomised in an MRT? Depending on what you want to find out, you will randomise:
+
+
+  whether or not the component is delivered
+  what version of the component is delivered
+
+
+You can also use a combination of the two. For example, 50% of the participants do not get the intervention, and 25% get one version whilst other 25% get another version.
+
+In any MRT, you need to decide not only how each outcome will be measured, but when. It is important to select the timing of each measurement carefully because of the varying nature of the effect of time. For example, if you send a push notification to prompt a participant to schedule their running sessions for next week, it does not make sense to measure the effects of this scheduling in the 30 minutes immediately following the prompt. However, assessing a push notification to prompt users to move following a period of low activity (measured by a sensor) immediately after the prompt will make sense. This concept is known as availability.
+
+In the analysis of an MRT, the causal effect between each randomised intervention component and the proximal outcomes are measured. Because the intervention components are randomised repeatedly every day, MRT can also measure how the effects of the interventions change over time (for example, whether the effectiveness weakens over time).
+
+Example: Delivering suggestion to increase activity when they are most useful
+
+Klasnja and others (2019). ‘Efficacy of Contextually Tailored Suggestions for Physical Activity: A Micro-randomized Optimization Trial of HeartSteps’
+
+HeartSteps is a just-in-time intervention, delivered through an app, that provides physical activity suggestions tailored to the individual’s context. There are 2 types of suggestions:
+
+
+  to walk
+  to interrupt sitting by standing up, stretching and moving around
+
+
+The suggestions are tailored based on:
+
+
+  time of day
+  weekday versus weekend
+  location
+  weather
+
+
+Researchers conducted an MRT of the app that lasted 6 weeks. They recruited 44 inactive adults. They wanted to assess whether the activity suggestions had any effect on the  number of steps people took in the short term, and also to optimise the intervention, for example how best to augment decision rules about when to send and when not to send suggestions.
+
+The suggestions were delivered up to 5 times a day. The decision rules to deliver the push interventions were tailored to participants’ current activity level (measured with phone built-in activity recognition algorithm).
+At each of these points during the day, for each participant the app micro-randomised whether to provide a suggestion (yes or no), and if so, what kind of suggestion to provide (to walk or to interrupt sitting).
+
+Participants were not randomised if:
+
+
+  they were already active
+  they had just finished an activity in the previous 90 seconds
+  they were driving
+  they were offline
+
+
+Researchers assessed effectiveness using step count in the 30 minutes after the suggestion was sent, measured using a wearable device.
+
+The sample size of the MRT was 44 participants. Seven participants dropped out because of extensive travel and discomfort using the study phone.
+
+The remaining 37 participants produced 8,274 person-decision points throughout the duration of the study. Of these, 7,540 were included in the analysis.
+
+The researchers found that, on average, each suggestion resulted in an additional 35 steps, or about 100 additional steps a day for 3 suggestions. The analysis of the time trend of the push notification effect throughout the study duration showed that the suggestions were more effective at the start of the study (500 additional steps a day for 3 suggestions), and that the effectiveness diminished over time, which might suggest habituation.
+The results showed that walking was more effective than anti-sedentary suggestions, but also that the effect decreased over time.
+
+The use of the MRT helped researchers to optimise the notifications which were designed to be delivered when they were relevant to participants’ context, in this case, tailored to their current activity level.
+
+More information and resources
+
+Walton and others (2020) ‘The Micro-Randomized Trial for Developing Digital Interventions: Experimental Design Considerations’. An accessible guide to using MRTs.
+
+Video explaining MRTs and JITAIs by Dr Zhenke Wu from Michigan Institute of Data Science
+
+Overview of MRTs by the Methodology Centre at PennState
+
+Luers and colleagues (2019), ‘Standardized Effect Sizes for Preventive Mobile Health Interventions in Micro-randomized Trials’. The authors provide an approach to computing a standardised effect size for push intervention components in MRTs.
+
+Examples of MRTs in digital health
+
+Bidargaddi and others (2020), ‘Designing m-Health interventions for precision mental health support’. This study describes how MRTs can be used in mental health and illustrates it with a case study which aimed to encourage the practice of self-reflection exercise in office workers.
+
+NeCamp and others (2020),‘Assessing Real-Time Moderation for Developing Adaptive Mobile Health Interventions for Medical Interns: Micro-Randomized Trial’. In this study, 6-month MRTs were conducted to investigate when to deliver an intervention to improve mental health and behaviour. The tailoring variables included mood, step and sleep scores.
+
+
+
+
+
+      
+        
+    Published 8 June 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Clinical audit: descriptive studies
+        Case-control study: comparative studies
+        Multiphase optimization strategy (MOST)
+        Behaviour change techniques review: descriptive studies
+        Usability testing: qualitative studies
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Evaluating digital health products
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Health improvement
+        Research, testing and standards
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

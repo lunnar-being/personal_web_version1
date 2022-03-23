@@ -74,22 +74,22 @@
 <li>其他实体：{{ policy_text.entity_other }}</li></ul>
         </div>
       </div>
-      <div class="download panel panel-default">
-        <div class="panel-heading">
-          下载链接
-        </div>
-        <div class="panel-body">
-          <ul>
-            <p><a href="api/download?file_name={{ original_file.savename }}">原版</a></p>
-            <p><a href="{% if format_file is not none %}api/download?file_name={{ format_file.savename }}{% endif %}">格式化版</a>
-            </p>
-            {% if trans_file is not none %}
-              <p><a href="api/download?file_name={{ trans_file.savename }}">翻译版</a></p>{% endif %}
-            {% if checked_file is not none %}
-              <p><a href="api/download?file_name={{ checked_file.savename }}">审校版</a></p>{% endif %}
-          </ul>
-        </div>
-      </div>
+{#      <div class="download panel panel-default">#}
+{#        <div class="panel-heading">#}
+{#          下载链接#}
+{#        </div>#}
+{#        <div class="panel-body">#}
+{#          <ul>#}
+{#            <p><a href="api/download?file_name={{ original_file.savename }}">原版</a></p>#}
+{#            <p><a href="{% if format_file is not none %}api/download?file_name={{ format_file.savename }}{% endif %}">格式化版</a>#}
+{#            </p>#}
+{#            {% if trans_file is not none %}#}
+{#              <p><a href="api/download?file_name={{ trans_file.savename }}">翻译版</a></p>{% endif %}#}
+{#            {% if checked_file is not none %}#}
+{#              <p><a href="api/download?file_name={{ checked_file.savename }}">审校版</a></p>{% endif %}#}
+{#          </ul>#}
+{#        </div>#}
+{#      </div>#}
     </div>
   </div>
 </div>

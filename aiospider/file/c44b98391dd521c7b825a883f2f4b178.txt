@@ -1,0 +1,17 @@
+From the battlefield to the back office, artificial intelligence has the potential to transform how the Defense Department does business in areas like increasing the speed of decision making, making sense of complex data sets and improving efficiency in back-office operations. Ensuring that AI is developed, procured and used responsibly and ethically is a top priority for the department's top leader.
+
+
+
+
+"As the Department of Defense embraces artificial intelligence, it is imperative that we adopt responsible behavior, processes and outcomes in a manner that reflects the department's commitment to its core set of ethical principles," Deputy Secretary of Defense Dr. Kathleen Hicks wrote in a  released last week.As part of that commitment to responsible artificial intelligence, or RAI, the memorandum sets forth foundational tenets for implementation across the department including a governance structure and processes to provide oversight and accountability; warfighter trust to ensure fidelity in the AI capability and its use, a systems engineering and risk management approach to implementation in the AI product and acquisition lifecycle; a robust ecosystem to ensure collaboration across government, academia, industry, and allies and build an AI-ready workforce.
+
+
+
+
+The memorandum also spelled out how the Joint Artificial Intelligence Center will serve as the lead to coordinate the implementation and oversight of the department's RAI efforts.
+Hicks also reaffirmed the Defense Department's AI Ethical Principles adopted in February 2020. The DOD was the first military in the world to do so. That commitment involved the adoption of five principles for the ethical development of artificial intelligence capabilities.
+
+
+
+
+Those principles include: DOD personnel will exercise appropriate levels of judgment and care while remaining responsible for the development, deployment and use of AI capabilities. The department will take deliberate steps to minimize unintended bias in AI capabilities. The department's AI capabilities will be developed and deployed such that relevant personnel possess an appropriate understanding of the technology, development processes and operational methods applicable to AI capabilities, including transparent and auditable methodologies, data sources and design procedures and documentation. The department's AI capabilities will have explicit, well-defined uses, and the safety, security and effectiveness of such capabilities will be subject to testing and assurance within those defined uses across their entire life cycles. The department will design and engineer AI capabilities to fulfill their intended functions while possessing the ability to detect and avoid unintended consequences, and the ability to disengage or deactivate deployed systems that demonstrate unintended behavior."Achieving RAI for the department is a collective effort that requires strong leadership, robust governance, oversight and sustained engagement at all levels of our organization," Hicks wrote. "Applying RAI across a wide range of warfighting, enterprise support and business practices is essential to ensure military advantage, support our people and safeguard the nation."

@@ -1,0 +1,26 @@
+
+        
+        
+        
+     have one thing in common: they usually fail. But the minority who beat the odds and survive share a number of traits. From the outset, they work incredibly hard and move extraordinarily fast to attract early customers, great talent, and additional funding. Once they begin to scale, successful start-ups maintain their momentum, respond quickly to market changes, and remain focused on outcomes and delivering value to customers. Digital entrepreneur James Bilefield shares his start-up insights with McKinsey’s Philipp Hillenbrand.
+    
+ We always hear that start-ups need to operate at an incredible pace, that speed is everything, and if they slow down, they die. Is this just a cliché, simply a function of entrepreneurial impatience, or actually true?
+        
+
+
+    
+     The data show that the overwhelming majority of start-ups fail. Some fail fast, while some fail over a longer period of time in markets where funding is usually finite.To overcome those extraordinary odds, an unusual amount of speed, hard work, and agility is required by the founders and first employees to rapidly develop the business and achieve enough momentum to delight initial customers, attract great talent, and secure further funding. The impatience you highlight is more about ambition, competitive instincts, and, ultimately, survival.
+    
+ It’s much easier to get off to a running start when you’re small. How did you manage to sustain or even accelerate the velocity while Skype was expanding? At Skype, we were on a simple but extraordinary mission—to let the world talk for free and change the face of global communications. Initially, we hired a diverse set of mavericks who really shared our excitement and energy. As we scaled, we strove to ensure that our unique culture and values stayed strong. And thanks to our flat and nimble management style, we maintained a clear focus on outcomes and an obsession on delivering for customers.
+    
+ What else needs to be in place for an effective scale-up? Talent is critical. At the heart of every successful scale-up you need a great mix of skills, attitude, and resilience in the founding team, who make the time in their crazy schedules to attract, develop, and retain the very best talent.Successful scale-ups also need to listen carefully to what customers, staff, partners, and other stakeholders are telling them—through data or otherwise—and act quickly to adjust their model accordingly.Finally, a good dose of chutzpah and creativity is typically needed to achieve real cut-through in the market and the media. At Skype, we set a simple goal on that front: to become a verb.
+		
+	
+ What are some common recipes for disaster while scaling up? One is scaling too fast before achieving a proper product market fit. We’ve recently seen some dockless bike companies retreat from global markets for that reason. Also, a failure to maintain a clear focus on core values and principles during the scaling process can result in unacceptable behaviors and other harmful effects.
+    
+ How do you make sure talent retains an entrepreneurial mindset and doesn’t become merely execution driven? From day one, the top team needs to inculcate the fundamental importance of hiring, developing, and keeping the very best talent possible. Time and resources need to be properly allocated and protected from competing pressures, and diversity must be valued. It’s also really important that the top team sets an example of expected behaviors, such as authenticity, true passion for the company’s mission, and sometimes valuing potential over experience, as in the case of Skype. Furthermore, it is important that the entire recruitment and onboarding process is made as smooth, effective, and attractive as possible. What role does culture play, and how do you prevent its dilution while expanding into different geographies?
+    
+ A strong, positive culture is critical to enable a rapid and healthy scale-up. We made sure at Skype that we carried our unique culture with us around the world, though it evolved as we both grew up and entered new geographies and learned that what works in Tallinn may not necessarily work in Los Angeles. Yet some of the fundamental tenets of Skype’s culture, inculcated in all early employees by the Scandinavian founders and lead Estonian engineers, remained clear: global in mindset, revolutionary in ambition, distrustful of hierarchy, and customer obsessed. The culture of the business in the early years reflected a tech rather than a telco’s kind of agility and a scale of ambition that true market disruptors can harness. That unique culture evolved around the initial core over time as the business grew around the world, and especially following the initial sale of the company to eBay, a US public company.
+		
+	
+ What would be your one piece of advice on changes that are required in terms of culture, organization, and ways of working to ensure survival in today’s ever-changing environment? Fundamentally, the frame of reference needs to change. You need to think like a start-up about the market and how best to serve customers, free of legacy and other constraints. Questions such as “What would Google/Amazon/Alibaba/DeepMind do?” can also help.

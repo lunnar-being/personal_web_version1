@@ -1,0 +1,328 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Quality Assurance Testing (QAT) analyst
+  
+
+  
+  
+  
+      
+  Find out what a QAT analyst does and the skills you need to do the job.
+
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      7 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of QAT analyst
+
+        
+        
+          QAT analyst
+
+        
+        
+          Tester (QAT)
+
+        
+        
+          Senior QAT analyst
+
+        
+        
+          Lead QAT analyst
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This describes the role of a Quality Assurance Testing (QAT) analyst and the skills required, including:
+
+
+  an introduction to the role, telling you what you would do in this role and the full list of skills
+  a description of the levels in this role, from QAT analyst to lead QAT analyst, specifying the skills you need for each level and the corresponding skill level (awareness, working, practitioner, expert)
+
+
+This role is part of the Digital, Data and Technology Profession in the Civil Service.
+
+Introduction to the role of QAT analyst
+
+A QAT analyst designs and executes test plans and carries out exploratory testing as part of a broader risk-based approach.
+
+Skills required to be a QAT analyst
+
+You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.
+
+
+  
+Functional testing. You can analyse changes to the development of products and services and plan design. You know how to run and manage appropriate tests to ensure that requirements have been fully met. You understand and can identify the most effective techniques, data sets and tools to use. You can communicate defects or trends clearly to software developers, outlining how defects are identified and the possible causes. You can design, or provide assurance for, appropriate risk-based end-to-end system integration test models.
+  
+Non-functional testing. You know how to analyse changes to or the development of products and services. You can plan design in a non-functional environment. You know how to run and manage appropriate non-functional tests to ensure that requirements have been fully met. You understand and can identify the most effective techniques, data sets and non-functional testing tools. You can communicate defects or trends clearly to software developers, outlining how defects are identified and possible causes. You can design or provide assurance for appropriate risk-based end-to-end system integration test models.
+  
+Technical breadth. You know how to use a range of contemporary technologies including cloud platforms, open source and ‘aaS’ services to better enable and enhance the delivery of QAT services. You stay abreast of industry developments to make cost-effective use of new and emerging tools and technologies. You can use a breadth of knowledge from across the wider technology and digital professions, strengthening the effective delivery of services. You have relevant professional awareness, which may include architecture, continuous integration and deployment, coding or scripting languages.
+  
+Test analysis. You can visualise, articulate and solve complex problems and concepts, and make disciplined decisions based on available information. You can apply logical thinking, gather and analyse information using comprehensive tools and techniques, use data to formulate both short-term and long-term strategic plans, identify and analyse options, and assess feasibility and operational impact. You know how to ensure that the business solution aligns with the vision, mission, objectives, strategy and the business and user needs. You can identify and recognise a viable solution or control.
+
+
+QAT analyst
+
+A QAT analyst will undertake and execute appropriate test design and perform exploratory testing. At this level, you will:
+
+
+  collaborate with delivery teams and determine the testability of functional and non-functional requirements
+  have domain and business knowledge
+  take a business and operational view when analysing the system under test
+
+
+Skills needed for this role
+
+
+  
+Functional testing. You can design and execute test cases using standard testing techniques. You can come up with different business scenarios for a feature, working with others in the team. (Relevant skill level: working)
+  
+Non-functional testing. You know about non-functional testing techniques. You can execute non-functional test scenarios and identify defects. You can run non-functional tests others have written and know the processes to do so. You understand a range of standard non-functional testing techniques. (Relevant skill level: awareness)
+  
+Technical breadth. You know about a range of tools and techniques for test automation. You will probably have some demonstrable technical attributes. (Relevant skill level: awareness)
+  
+Test analysis. You can identify simple patterns and trends. You know how to investigate problems and opportunities in existing processes and can contribute to recommending solutions to these. You know how to work with stakeholders to identify objectives and potential benefits. (Relevant skill level: working)
+
+
+Tester (QAT)
+
+Testers work closely with test engineers and QAT analysts to learn the activities and techniques required to establish the basis of testing. At this level, you will:
+
+
+  have domain and business knowledge
+  develop test scripts under supervision
+  identify and manage defects
+
+
+Skills needed for this role
+
+
+  
+Functional testing. You know about functional testing techniques. You can execute test scenarios and identify defects, raising awareness of them. You know how to run tests others have written and know the processes to do so. You understand a range of standard testing techniques. (Relevant skill level: awareness)
+  
+Non-functional testing. You know about non-functional testing techniques. You can execute non-functional test scenarios and identify defects. You can run non-functional tests others have written and know the processes to do so. You understand a range of standard non-functional testing techniques. (Relevant skill level: awareness)
+  
+Technical breadth. You know about a range of tools and techniques for test automation. You will probably have some demonstrable technical attributes. (Relevant skill level: awareness)
+  
+Test analysis. You can contribute to improving delivery and understand the importance of evidence-based design and analysis. (Relevant skill level: awareness)
+
+
+Senior QAT analyst
+
+Senior QAT analysts have similar responsibilities to a QAT analyst but at a more complex level and on a greater scale. At this level, you will:
+
+
+  take a business and an operational view to finding solutions to complex problems
+  provide test coverage support for test engineers and software developers
+  come up with functional and non-functional testing procedures and requirements
+
+
+Skills needed for this role
+
+
+  
+Functional testing. You can design and execute a wide range of testing techniques and communicate test results to both technical and non-technical stakeholders. You know how to make decisions on the environment for testing and coach others. You can identify defects, alerting the business to them, and you can help prioritise them based on defect severity. (Relevant skill level: practitioner)
+  
+Non-functional testing. You can design and execute a wide range of non-functional testing techniques and communicate non-functional test results to both technical and non-technical stakeholders. You can make decisions on running types of non-functional testing. You know how to coach and mentor others. You can identify defects, alerting the business to them, and you help prioritise them based on defect severity. (Relevant skill level: practitioner)
+  
+Technical breadth. You have a good working knowledge of different tools and techniques and can train others. You can advise others on testing techniques and frameworks. You know how to research, plan and train others within the team. (Relevant skill level: practitioner)
+  
+Test analysis. You can think creatively, ask the right questions and critically evaluate and communicate findings to a larger team. You know how to lead investigative work into problems and opportunities in existing processes. You can drive the collection of information and creation of recommendations for improvements. You can absorb large amounts of conflicting information and use it to determine solutions. (Relevant skill level: practitioner)
+
+
+Lead QAT analyst
+
+A lead QAT analyst sets the strategy for test analysis, establishing standards and methods. They are accountable and responsible for activities at high risk. At this level, you will:
+
+
+  take both a business and an operational view
+  have management responsibilities - coaching and mentoring staff
+  lead the delivery practice, focusing on complex problem-solving and influencing senior team members
+  be a specialist in an area of testing and influence the QAT industry
+  have expert technical understanding and provide advice to project teams
+
+
+Skills needed for this role
+
+
+  
+Functional testing. You can advise on up-to-date functional testing techniques. You know how to assess and peer-review the work of others. You can coach and mentor others. You can write test approaches for major projects and provide guidance on risk approaches. You can devise new test techniques and provide recommendations. (Relevant skill level: expert)
+  
+Non-functional testing. You can design and execute non-functional test cases using standard testing techniques, in instructed environments. You can come up with different business scenarios for a feature, working with others in the team. (Relevant skill level: working)
+  
+Technical breadth. You have a good working knowledge of different tools and techniques and can train others. You can advise others on testing techniques and frameworks. You know how to research, plan and train others within the team. (Relevant skill level: practitioner)
+  
+Test analysis. You can analyse and collect information and evidence, identify problems and opportunities and ensure recommendations fit with strategic business objectives. You know how to communicate recommendations persuasively to important stakeholders and identify the simplest approach from a variety of approaches. You can solve complex problems applying logical reasoning. (Relevant skill level: expert)
+
+
+Read more
+
+
+  Civil Service Jobs
+
+
+
+
+
+      
+        
+    Published 7 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Data architect
+        Test engineer
+        Technical architect
+        End user computing engineer
+        Software developer
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

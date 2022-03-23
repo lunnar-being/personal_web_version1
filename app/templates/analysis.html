@@ -12,7 +12,9 @@
   <script src="../static/js/echarts.js"></script>
   <script src="../static/js/js2wordcloud.min.js"></script>
   <script src="../static/js/mycharts.js"></script>
-  <link rel="icon" href="../static/images/istic.png" type="image/gif" />
+    <script src="../static/js/echarts-wordcloud.js"></script>
+  <link rel="icon"
+        href="../static/images/istic.png" type="image/gif" />
   <title>科技政策数据库展示系统</title>
 </head>
 <body>
@@ -43,7 +45,7 @@
                 <a id="chart-btn5" href="#chart5" data-toggle="pill" onclick="keywordCloud()">涉华关键词</a>
               </li>
                 <li>
-                <a id="chart-btn6" href="#chart6" data-toggle="pill" onclick="keywordsTree()">涉华关键词时间演变</a>
+                <a id="chart-btn6" href="#chart6" data-toggle="pill" onclick="keywordsPie()">涉华关键词时间演变</a>
               </li>
                 <li>
                 <a id="chart-btn7" href="#chart7" data-toggle="pill" onclick="stateMessageTree()">国情咨文关键词演变</a>
@@ -98,17 +100,21 @@
                 </div>
               </div>
             </div>
-              <div class="tab-pane chart-part" id="chart6">
-              <div class="panel panel-default">
-                <div class="panel-heading">
-                  <h4>涉华政策关键词演变</h4>
-                </div>
-                <div class="panel-body">
-                  <div id="keywords-tree" class="chart-div">
-                  </div>
-                </div>
+          <div class="tab-pane chart-part" id="chart6">
+{#              <div class="panel-body">#}
+{#                  <div id="china-cloud" class="chart-div"></div>#}
+{#                </div>#}
+            <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4>涉华政策关键词演变</h4>
+            </div>
+            <div class="panel-body">
+              <div id="keywords-tree" class="chart-div">
               </div>
             </div>
+          </div>
+          </div>
+
               <div class="tab-pane chart-part" id="chart7">
               <div class="panel panel-default">
                 <div class="panel-heading">

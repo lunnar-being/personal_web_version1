@@ -1,0 +1,765 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Ready reckoners and transition matrices for key stage 4
+  
+
+  
+  
+
+  
+    
+  Ready reckoners to calculate progress scores for pupils and schools, and transition matrices of GCSE subject grades by prior attainment.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Education
+
+      
+      Published
+      30 January 2018
+      Last updated
+      
+        6 February 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+  
+    
+      Applies to England
+
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Progress 8 pupil ready reckoner 2019 (revised)
+    
+        MS Excel Spreadsheet, 177KB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Progress 8 school ready reckoner 2019 (revised)
+    
+        MS Excel Spreadsheet, 323KB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    EBacc pupil ready reckoner 2019 (revised)
+    
+        MS Excel Spreadsheet, 149KB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    EBacc school ready reckoner 2019 (revised)
+    
+        MS Excel Spreadsheet, 358KB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Key stage 2 to 4 transition matrices 2019 (revised)
+    
+        MS Excel Spreadsheet, 1.17MB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Key stage 2 to 4 transition matrices 2019 (revised) 
+    
+        ODS, 817KB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+  
+      
+  
+  
+    Progress 8 pupil ready reckoner 2018
+    
+        MS Excel Spreadsheet, 348KB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Progress 8 school ready reckoner 2018
+    
+        XLSM, 417KB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    EBacc pupil ready reckoner 2018
+    
+        XLSM, 152KB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    EBacc school ready reckoner 2018
+    
+        MS Excel Spreadsheet, 610KB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Key stage 2 to 4 transition matrices by gender 2018 (revised)
+    
+        MS Excel Spreadsheet, 1.25MB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Key stage 2 to 4 transition matrices by gender 2018 (revised)
+    
+        ODS, 657KB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Key stage 2 to 4 transition matrices by disadvantage 2018
+    
+        MS Excel Spreadsheet, 3.09MB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Key stage 2 to 4 transition matrices by disadvantage 2018 
+    
+        ODS, 1.48MB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Key stage 2 to 4 transition matrices by EAL 2018
+    
+        MS Excel Spreadsheet, 3.03MB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Key stage 2 to 4 transition matrices by EAL 2018
+    
+        ODS, 1.44MB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Key stage 2 to 4 transition matrices by SEN 2018
+    
+        MS Excel Spreadsheet, 3.04MB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Key stage 2 to 4 transition matrices by SEN 2018
+    
+        ODS, 1.44MB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email alternative.formats@education.gov.uk .
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+These ready reckoners and transition matrices apply to 2018 and 2019 key stage 4 revised data.
+
+Ready reckoners
+
+The pupil Progress 8 ready reckoner calculates the Progress 8 score for an individual pupil.
+
+The school Progress 8 ready reckoner shows how we calculate your school’s Progress 8 score from individual pupil Progress 8 scores.
+
+The English Baccalaureate (EBacc) pupil ready reckoner calculates value-added (VA) scores for EBacc subjects (science, humanities and languages) for an individual pupil.
+
+The EBacc school ready reckoner shows how we calculate your school’s VA scores for EBacc subjects from individual pupil VA scores.
+
+The Progress 8 measure is a secondary school accountability system that aims to encourage schools to teach a broad curriculum. It measures pupils’ progress across 8 subjects from age 11 to 16.
+
+Transition matrices
+
+The transition matrices explore the national distribution of GCSE grades in each subject, and attainment in headline indicators for all pupils with the same key stage 2 prior attainment.
+
+Results for pupils by gender, disadvantage, special educational needs (SEN) and English as an additional language (EAL) are all available in one file.
+
+
+
+
+        
+      
+
+      
+    Published 30 January 2018
+    Last updated 6 February 2020
+      + show all updates
+      
+        
+            
+              6 February 2020
+              Updated existing tools with the revised 2019 data.
+            
+            
+              8 November 2019
+              'Key stage 2 to 4 transition matrices 2019 (provisional)' updated with a change to the English as an additional language breakdowns.
+            
+            
+              30 October 2019
+              Added 2019 ready reckoners and transition matrices.
+            
+            
+              24 January 2019
+              Added 2018 ready reckoners, revised 2018 key stage 2 to 4 transition matrices by gender, and 2018 key stage 2 to 4 transition matrices by disadvantage, special educational needs (SEN) and English as an additional language (EAL).
+            
+            
+              12 December 2018
+              Replaced 'Key stage 2 to 4 transition matrices by gender 2017 (revised)' with an updated version.
+            
+            
+              30 January 2018
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Ready reckoners and transition matrices for key stage 2
+        16 to 18 English and maths progress measure qualifications
+        Completion and attainment ready reckoner for 16 to 18
+        School performance: key stage 4 similar schools
+        16 to 18 qualifications, discount codes and point scores
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        School and college performance measures
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        School performance measures
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

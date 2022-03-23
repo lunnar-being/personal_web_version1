@@ -1,0 +1,47 @@
+
+        
+        
+        
+     the global economy and supply chains. Global GDP is expected to shrink 5.2 percent in 2020.
+
+
+ Different logistics subsectors have recovered from previous crises within 12 months (Exhibit 1), but the shape and timing of this recovery, and which  will recover and when, remain uncertain. In our Global Manufacturing & Supply Chain Pulse Survey this year,
+
+
+ a third of companies reported facing material and other supply-chain shortages. Given the threat of disruption, 60 percent of our respondents in a recent budgeting and planning survey are building multiple (three or more) forecast scenarios for next year and 91 percent agree that their company’s monthly reviews need to look different (Exhibit 2).
+
+
+ 
+    
+
+    
+Given this uncertainty, forecasting errors are bound to occur, particularly with conventional models that are built only upon top-level macroeconomic indicators or based on prior-year performance. This year has shown us that logistics companies no longer have a reliable baseline for building their models. Indeed, model errors in forecasting are rising, and key business metrics (such as operating profit and credit ratings) are affected by unforeseen changes in underlying drivers such as foreign exchange rates, available cargo capacity, and commodity prices. A solution for 2021 could be creating real-time dashboards based on modeling of these underlying business drivers over multiple scenarios.Why good forecasts go bad
+	
+Many logistics companies have implemented relatively sophisticated forecasting processes and models. However, the pandemic has increased the margin of error of many of these models, and continuing to use them this year could lead to underutilization, lost revenue, or lost market share. We see three reasons why existing models are often unable to adjust to the next normal:
+    Many senior executives have developed a strong intuition that influences their planning.  The multiple dimensions that will facilitate the COVID-19 recovery are interrelated, and therefore the scenario planning that is required now may be too complex to rely on intuition. Companies could consider the high-low scenario approach to developing “uncertainty cubes”—tracking key financial market variables, quarter by quarter, across the nine macroeconomic  (Exhibit 3).
+     Reliance solely on internal historical data no longer works to forecast or even to create a reliable baseline. The crisis has also shown the interdependence of different segments in travel and logistics, and the extent to which external shocks can have an impact on businesses. Accounting for relevant external variables related to demand (such as e-commerce penetration) and supply (such as available belly capacity in air cargo) makes for more robust models.
+     Macroeconomic indicators may not accurately reflect how different micro markets—for instance, geographic subregions or customer segments—are behaving. This was true before the pandemic, but the current crisis has increased the number of variables that need to be accounted for. Models with higher granularity are likely to be more robust.
+
+    
+Better forecasting for 2021Fortunately, today’s data availability and analytics capacity can create forecasting models that meet the external, dimensional, and granular requirements for next year. Analytics may not yield perfect foresight, but they can help identify the underlying drivers—that is, the variables to track and build related insights around—that will most affect a business’s top line in 2021.The two principal changes we see are an expanding number of scenarios and models built on business drivers.  inform forecasts modeled using these scenarios and drivers (Exhibits 4 and 5). There are four advantages to this approach:
+    
+
+    
+
+    Multiple scenarios allow forecasting across a broader range of possible outcomes, preparing executives better for next year. This is especially important for liquidity planning and stress testing.
+    Drivers are often built on high-frequency data that are tracked faster than leads or sales. Driver-based dashboards can therefore forecast demand, highlighting changes in predicted models before they affect the top line.
+     Because the market has changed so much from the prepandemic status quo, using a company’s historical data to forecast a trendline won’t work. Developing an accurate forecast requires building a new baseline based on the external data that affects a company’s business. This approach allows companies to build models by combining proprietary historical and pipeline volumes with hundreds of external data points that can contribute to stronger forecasts in this time of uncertainty.
+    Driver-based planning gives structure and quantifies some of the leadership intuition that influences traditional forecasting (for instance, predicting that if e-commerce penetration grows, one business will grow but another business will have lower demand).
+
+		
+	
+These forecast models and scenarios can have several applications, as the following examples demonstrate.used machine-learning techniques to help predict near-term, lane-level demand at one-, two-, and four-week horizons. Better near-term forecasts allowed teams to adjust spot prices as demand recovered in certain trade lanes, switch capacity quickly among lanes, and adjust bid price settings a month in advance. Not only did yields rise 3 percent, but the operator also reduced error in demand prediction to 7 percent—a more than 50 percent improvement on previous models. modeled  alongside drivers to forecast possible ranges of trade flow outputs through its terminals. Within these ranges, the operator identified a set of trigger points—a sudden drop in one variable was found, for example, to be a good predictor of a near-term fall in volumes—that could guide leadership decision making. This model enabled leadership to justify injecting capital into planned equipment. financial planning and analysis team needed to understand how the pandemic and several underlying drivers might shape the organization’s volume and volume mix. Segmenting volumes, identifying drivers for each volume type, and generating a multiscenario recovery outlook created a single forecasting model looking six, 12, and 24 months ahead. This model was then used to shape the operator’s 2021 product mix and pricing strategy.
+    
+From forecasts to tangible plansBusiness plans typically assume a degree of certainty. Logistics companies calculate a baseline performance; modify it based on improvements, headwinds, and tailwinds; and create a new forecasting plan. Given that the variation this year makes using 2020 data unreliable, next year will be different. Forecasts will be built on drivers across many scenarios, and then need to be converted to a business plan. We find the following six steps to be important for driver-based planning and monitoring for the coming year:
+    
+    
+    
+    
+    
+    
+Planning and forecasting without a reliable baseline represents the new way of working for almost all logistics companies. Although the sector has rebounded from previous crises, the extent of uncertainty today means that forecasts for next year that are built on conventional models are no longer reliable. Driver-based forecasting is a more robust approach to modeling, has been beneficial in response to the COVID-19 crisis, and could lay the foundation of a new way of working. Combining this with leadership intuition and change management could be a way to plan for next year—and indeed the years after.

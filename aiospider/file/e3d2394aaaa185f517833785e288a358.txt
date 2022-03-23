@@ -1,0 +1,73 @@
+
+
+
+
+
+
+
+
+Overview of the Jack Rabbit II (JR II) Field Experiments and Summary of the Methods Used in the Dispersion Model Comparisons
+Published in: Atmospheric Environment, Volume 269 (January 2022). doi: 10.1016/j.atmosenv.2021.118783 Posted on RAND.org on November 23, 2021
+by Shannon Fox, Steven R. Hanna, Thomas Mazzola, Thomas Spicer, Joseph C. Chang, Simon Gant
+Related Topics: Chemical Weapons and Warfare, Environmental Science and Technology, Modeling and Simulation, Utah
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+Read More
+Access further information on this document at Atmospheric EnvironmentThis article was published outside of RAND. The full text of the article can be found at the link above.
+
+
+
+
+
+
+
+
+This paper serves as an introduction to the special Atmospheric Environment issue on comparisons of 17 widely-used dense-gas dispersion models using observations from the Jack Rabbit II (JR II) chlorine release experiments, which were led by the U.S. Department of Homeland Security Science & Technology (DHS S&T) Chemical Security Analysis Center (CSAC) and a collaborative team of interagency partners, and conducted at the U.S. Army Dugway Proving Ground in 2015 and 2016. Nine of the 17 models that were compared were from outside the U.S. Other papers in the Special Issue describe specific aspects (e.g., observations of emissions, meteorology, and concentrations) of the JR II field experiments, results of individual dispersion model simulations for the models and comparisons of model predictions with JR II observations and other models. This paper provides a general overview of the field experiments and a brief summary of the model comparison goals and methods.
+
+Access further information on this document at Atmospheric EnvironmentThis article was published outside of RAND. The full text of the article can be found at the link above.
+
+
+Research conducted by
+
+Homeland Security Research Division
+
+
+
+This report is part of the RAND Corporation External publication series. Many RAND studies are published in peer-reviewed scholarly journals, as chapters in commercial books, or as documents published by other organizations.Our mission to help improve policy and decisionmaking through research and analysis is enabled through our core values of quality and objectivity and our unwavering commitment to the highest level of integrity and ethical behavior. To help ensure our research and analysis are rigorous, objective, and nonpartisan, we subject our research publications to a robust and exacting quality-assurance process; avoid both the appearance and reality of financial and other conflicts of interest through staff training, project screening, and a policy of mandatory disclosure; and pursue transparency in our research engagements through our commitment to the open publication of our research findings and recommendations, disclosure of the source of funding of published research, and policies to ensure intellectual independence. For more information, visit www.rand.org/about/principles.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: Elsevier LtdPublisher: Science Direct
+Availability: Non-RAND
+ Pages: 13
+Document Number: EP-68774
+Year: 2022
+Series: External Publications
+
+
+
+Explore
+Related Topics
+
+Chemical Weapons and WarfareEnvironmental Science and TechnologyModeling and SimulationUtah
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+

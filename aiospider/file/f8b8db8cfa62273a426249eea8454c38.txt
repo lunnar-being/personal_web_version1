@@ -1,0 +1,598 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Spaceflight legislation and guidance
+  
+
+  
+  
+  
+      
+  Guidance and legislation for Spaceflight.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Space Agency
+
+      
+      Published
+      16 April 2014
+      Last updated
+      
+        29 July 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          International space law and the basis of space regulation
+
+        
+        
+          Overview of the Outer Space Act 1986 and the Space Industry Act 2018
+
+        
+        
+          Insurance requirements and liabilities for operations licensed under the Space Industry Act 2018 and Outer Space Act 1986
+
+        
+        
+          Satellite Licence Fees 
+
+        
+        
+          Public consultations
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+International space law and the basis of space regulation
+
+Space law has its origins in the treaties and principles established by the UN Committee on the Peaceful Uses of Outer Space (COPUOS), a committee set up following the Soviet Union’s 1957 launch of the world’s first ever satellite, ‘Sputnik’. As early as 1962, the first set of principles on outer space was agreed, adopted by the UN General Assembly as the “Declaration of Legal Principles” for space activities. These principles were elaborated upon in the UN Outer Space Treaty of 1967 and in subsequent UN treaties, resolutions, and principles. Currently, over one hundred states are party to the Outer Space Treaty.
+
+For regulators, the most salient points of the UN space treaties are:
+
+
+  the use of space must be exclusively for peaceful purposes
+  space must be accessible to all countries and used for the benefit of all countries
+  each state is internationally responsible and liable for its space activities, including activities carried out by non-governmental entities of that state
+  each state must authorise and continuously supervise the space activities of its non-governmental entities
+  each state must maintain a register of space objects it launches and furnish details regarding the orbital parameters and basic function of the space object to the UN
+  each state must, in conducting, authorising, or supervising its space activities, avoid harmful contamination of outer space
+
+
+States have often sought to secure compliance with their international obligations by introducing national legislation and regulations. Typically, national legislation confers licensing or authorisation powers on the state. The state then uses these powers to determine the requirements a licensee has to meet and to set out the obligations of each licensee.
+
+Overview of the Outer Space Act 1986 and the Space Industry Act 2018
+
+The Outer Space Act 1986
+
+Prior to the enactment of the Space Industry Act 2018, space activities carried out in the UK or by UK entities overseas were governed by the Outer Space Act 1986. This required entities who procured an overseas launch and/or operated a satellite in orbit to hold a licence. The UK has a well-established and globally respected licensing regime for these activities.
+
+Going forward, the Space Industry Act 2018 and Regulations and Rules made under that Act will regulate spaceflight and associated activities carried out in the UK.
+
+The Outer Space Act 1986 will continue to regulate activities carried out overseas by UK entities:
+
+
+  The procurement of the overseas launch of a space object;
+  The operation of a satellite in orbit from an overseas facility by a UK entity.
+
+
+The Space Industry Act 2018 and Associated Regulations
+
+The Space Industry Act 2018 created the high-level framework to enable launches to take place from the UK from the early 2020s. This piece of primary legislation sets out a high-level enabling framework for commercial spaceflight operations, and the Space Industry Regulations 2021, the Spaceflight Activities (Investigation of Spaceflight Accidents) Regulations 2021; the Space Industry (Appeals) Regulations 2021; and the associated guidance documents and Regulator’s Licensing Rules all provide the detailed provisions required to implement the Act.
+
+The Space Industry Act 2018 regulates activities carried out in the UK, including:
+
+
+  Launch (space or sub-orbital) and return;
+  The procurement of a UK launch (space or sub-orbital);
+  The operation of a satellite in orbit;
+  The operation of a spaceport;
+  The provision of range control services.
+
+
+If a ship has a British flag then the Space Industry Act 2018, rather than the Outer Space Act 1986, will regulate spaceflight activities such as launch from the ship irrespective of the nationality of the operator or the waters from which launch is to take place.
+
+The US-UK Technology Safeguards Agreement (TSA), which establishes the principles under which US spaceflight technology may be licensed for export by the US authorities to the UK for use in spaceflight activities, is also implemented through the Space Industry Regulations 2021. 
+
+Insurance requirements and liabilities for operations licensed under the Space Industry Act 2018 and Outer Space Act 1986
+
+Background
+
+The 1972 UN Convention on International Liability for Damage Caused by Space Objects (“the Liability Convention”), which the UK has ratified, is the foundation for space liability regimes worldwide. Under the Convention, a “Launching State” is internationally liable for damage arising out of its space activities to i) objects owned by nationals from another state, and ii) nationals of another state.
+
+A Launching State is defined in Art. I of the Convention as:
+
+
+  a State that launches or procures the launching of a space object
+  a State from whose territory or facility a space object is launched
+
+
+There can be, and often is, more than one Launching State.
+
+Damage caused on the surface of the Earth or to an aircraft in flight carries absolute liability. (Art. II)
+
+For damage caused elsewhere and to a space object, the Launching State is liable “only if the damage is due to its fault or the fault of persons for whom it is responsible” (Art. III).
+
+The Convention has significant implications for how states regulate space activities, and many states have sought to manage or offset some of their liability for non-governmental space activities. Typically, this is done by minimising the risk of a collision or third-party damage in the first place (through a state’s licensing and compliance procedures); by requiring an indemnity from licensees for claims presented to the state; and by requiring a minimum level of third-party liability insurance cover as a condition of the licence, to better protect both the operator and the Government of that state from such claims.
+
+The UK’s liability and indemnity regime for spaceflight activities
+
+Outer Space Act 1986
+
+Under section 10 of the Outer Space Act 1986 (OSA), operators must indemnify the UK Government for claims brought against the latter other than in circumstances set out in that section.
+
+All licences issued under the Outer Space Act 1986 must state a limit to the operator’s liability to indemnify UK Government for claims made against the latter. Further detail on how this is calculated is set out below.
+
+Space Industry Act 2018 and Space Industry Regulations 2021
+
+The Space Industry Act contains provisions on insurance (section 38) and an operator’s indemnification requirements (section 34 and section 36). There are also powers in the Act to limit operator liability under section 12(2) and through regulation making powers in section 34(5).
+
+Ministers have announced that all operator licences issued under the Space Industry Act 2018 will contain a limit of operator liability with respect to claims made under both section 34 and section 36 of the Act.
+
+Operators will therefore not be facing unlimited liability for actions carried out in compliance with the Space Industry Act and licence conditions. 
+
+Regulations 218, 219, 220 and 221 of the Space Industry Regulations 2021 cover the following on liabilities:
+
+
+  persons who do not have a strict liability right of claim under section 34(2);
+  that a limit on an operator’s liability to third parties under section 34(2) and any other third-party liability not covered by section 34(2) must be included in an operator’s licence;
+  cases in which limits of operator liability are disapplied.
+
+
+Further background on these provisions can be found in guidance.
+
+Third-party liability insurance requirements and limits of operator liability for activities licensed under the Outer Space Act 1986 and the Space Industry Act 2018
+
+This section sets out the third-party liability (TPL) insurance requirements and operators’ indemnification obligations for licences issued under each Act. The nature of the requirements is set out below with respect to both Acts.
+
+Orbital Operations
+
+Outer Space Act 1986
+
+Orbital operations outside of the UK have the following insurance and limit of operator liability:
+
+
+  €60m, Insurance requirement / indemnity limit for standard missions
+  This may be higher for higher risk missions;
+  The insurance requirement may be waived for low-risk missions (but the €60m indemnity obligation remains);
+  An ‘any one occurrence’ approach and ‘aggregate’ amounts to be determined by the regulator as appropriate
+
+
+Space industry Act 2018
+
+  Orbital operations will follow requirements set out by the Outer Space Act 1986
+
+
+Launch Operations
+
+Outer Space Act 1986
+
+
+  Procuring a launch outside the UK will be regulated by the OSA
+  €60m insurance will be required when procuring a launch outside of the UK.
+
+
+Space Industry Act 1986
+
+
+  Launch from the UK will be regulated by the SIA
+  Insurance requirements and limits of launch operator liability for launch from the UK (and the orbital operator for procuring a launch from the UK) will be calculated using the Modelled Insurance Requirement.
+
+
+Note: Insurance requirements for upper stages remaining in orbit, and for planned re-entry of satellites and upper stages is to be confirmed
+
+This section is also accessible via a table format in PDF or ODT.
+
+
+  
+      
+  
+  
+    Third-party Liabilities and Insurance table - PDF
+    
+        PDF, 98.4KB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@beis.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+      
+  
+  
+    Third-party Liabilities and Insurance table - ODT
+    
+        ODT, 811KB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@beis.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+More detailed guidance on the insurance requirements and indemnification arrangements under both Acts can be found at the Civil Aviation Authority’s website. This includes further background on how the Modelled Insurance Requirement is calculated for launch activities licensed under the Space Industry Act 2018.
+
+Further enquiries
+Any further enquiries on licensing under either the Space Industry Act 2018 or the Outer Space Act 1986 should be directed to commercialspaceflight@caa.co.uk.
+
+Liability and insurance review 
+
+Work is underway to assess the key points raised by respondents to the consultation on liability and insurance requirements. The review is considering: 
+
+
+  development of an alternative model to traditional insurance to address issues around current insurance provision for small satellites​
+  lowering the limit of operator liability for in-orbit operations ​
+  including a maximum limit of insurance for the launch MIR ​
+  use of alternatives to insurance as forms of security to meet an operator’s liability obligations (e.g. decommissioning bonds, escrow accounts, performance and surety bonds). ​
+
+
+The Government will engage further with the space sector as the review progresses and will report its review findings once the review is complete.
+
+Satellite Licence Fees 
+
+Background
+
+Licence fees under the Space Industry Act 2018
+
+The Civil Aviation Authority is responsible for the charging of fees for licences issued wholly under the Space Industry Act 2018. The current fee for a single orbital application under the Space Industry Act 2018 is £6,500. More information is available via the Civil Aviation Authority’s website.
+
+Licence fees under the Outer Space Act 1986
+The UK Space Agency is responsible for the charging of fees for licences issued wholly under the Outer Space Act 1986. The current fee for a single orbital licence application under the Outer Space Act 1986 is £6,500.
+
+Licence fees under the Outer Space 1986 and the Space Industry Act 2018
+The UK Space Agency is also responsible for the charging of fees for licences issued jointly under the Outer Space Act 1986 and the Space Industry Act 2018, referred to as a ‘bundled licence’. For example, where a UK company procures an overseas launch for a satellite which they intend to operate from the UK, a ‘bundled licence’ would be issued, referring to the OSA to authorise the procurement of an overseas launch by a UK national, and referring to the SIA to authorise the operation of the satellite from the UK. A single fee of £6,500 would apply to a ‘bundled licence’.
+
+Current fee exemption
+Recognised educational institutions carrying out activity for scientific research or teaching under the Outer Space Act 1986, or jointly under the Outer Space Act 1986 and Space Industry Act 2018, are currently exempt from the £6,500 fee (subject to meeting criteria).
+
+The Space industry regulations consultations set out the UK Space Agency’s plan to replace this fee exemption with general fee waivers, which will be applied on a case-by-case basis where appropriate. Further information will be provided in due course.
+
+Guidance on satellite fees for constellation operators
+
+The Guidance on Satellite Licence Fees sets out the refund scheme under the Outer Space Act 1986 and Space Industry Act 2018 that constellation operators may be eligible for, subject to meeting its criteria. The scheme took effect from 1 April 2021.
+
+
+  
+      
+  
+  
+    Guidance on Satellite Licence Fees - PDF
+    
+        PDF, 374KB, 6 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@beis.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+      
+  
+  
+    Guidance on Satellite Licence Fees - ODT
+    
+        ODT, 1.81MB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@beis.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+Public consultations
+
+In 2020, the Government ran two consultations to seek views on:
+
+
+  the operability and effectiveness of the draft Space Industry Regulations, Spaceflight Activities (Investigation of Spaceflight Accidents) Regulations; Space Industry (Appeals) Regulations and associated guidance and supporting documents (this consultation ran from 29 July 2020 to 21 October 2020)
+  the government’s approach to liabilities, insurance and charging (October 2020)
+  The Government published a single response to both these consultations in March 2021.
+
+
+Please visit the following page for further information: https://www.gov.uk/government/consultations/spaceport-and-spaceflight-activities-regulations-and-guidance
+
+In 2021, the Government ran another consultation seeking views on draft environmental objectives and guidance for the spaceflight regulator under the Space Industry Act 2018.
+
+Please visit the following page for further information: https://www.gov.uk/government/consultations/commercial-spaceflight-environmental-objectives-for-the-spaceflight-regulator
+
+
+
+
+
+      
+        
+    Published 16 April 2014
+    Last updated 29 July 2021
+      + show all updates
+      
+        
+            
+              29 July 2021
+              Updating information as UK Civil Aviation Authority become the UK’s space regulator.
+            
+            
+              30 March 2021
+              Update guidance for applicants
+            
+            
+              16 March 2021
+              Added guidance on satellite licence fees.
+            
+            
+              3 September 2019
+              We have updated the email address in 'Guidance for Applicants'
+            
+            
+              30 September 2018
+              We have updated this page to reflect new guidance for applicants.
+            
+            
+              17 July 2017
+              Example of an Outer Space Act License (where a liability cap applies) updated into a new document.
+            
+            
+              13 July 2017
+              June guidance updated to July guidance.
+            
+            
+              29 November 2016
+              Input no longer required
+            
+            
+              2 June 2015
+              Application form updated.
+            
+            
+              16 April 2014
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        How we are promoting spaceflight from the UK
+        Commercial spaceflight regulation: environmental objectives
+        Call for evidence: Space Industry Act 2018
+        Commercial spaceflight
+
+  
+
+
+
+
+      
+
+    Detailed guidance
+
+  
+
+
+        Apply for funding: space ideas, community and educational
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Transport
+        Space
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

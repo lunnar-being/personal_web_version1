@@ -1,0 +1,121 @@
+
+        
+        
+        
+    The proverbial light at the end of the dark tunnel of the COVID-19 pandemic is beginning to come into sight. The scientific community has made tremendous strides in getting vaccine candidates through clinical development at unprecedented speed to meet the urgent public health need. But vaccines are only useful if people take them. As discussed in the paper “,” our analysis suggests that a high level of vaccine adoption is required to achieve herd immunity, even accounting for some level of natural immunity. If we assume that only adults over the age of 18 receive the vaccine (consistent with the initial vaccine trials) and vaccines all have efficacy of 95 percent, . However, there is still significant uncertainty around the vaccine’s effectiveness in reducing transmission. If we assume on average that vaccines only reduce transmission at 75 percent or higher levels, for example, then from  (Exhibit 1).
+    
+
+	
+These desired adoption ranges far exceed those of more established adult vaccines, including flu and pneumococcal pneumonia. For example, only about 40 percent of adults aged 18 to 64 today receive the vaccines that are available and recommended for them.
+
+
+ Many reasons exist for this low adoption rate, including confidence in efficacy (15 percent), concern over side effects (23 percent), and lack of concern for the flu (13 percent).
+
+
+ Vaccine adoption among the elderly (over 65) tends to be much higher, in the range of 70 percent for flu and pneumococcal pneumonia. Conversely, vaccine adoption among minority groups is often lower—for example, in the 2019 through 2020 flu season, 53 percent of non-Hispanic Caucasian adults aged 18 and older got vaccinated, compared with 38 percent of Hispanics and 41 percent of non-Hispanic Black Americans in the same age group.
+
+
+ These inequities in adult vaccines adoption are particularly worrying given the disproportionate health impact of COVID-19 on minority populations.This stark contrast between where we are today with adult immunization and where we would want to be to rapidly and confidently end this pandemic suggests that neither the existing “adult immunization infrastructure,” nor the existing practices to engage consumers on adult vaccine adoption, may be sufficient. Different strategies may be needed for the COVID-19 vaccine to live up to its promise.COVID-19 vaccine consumer sentiment is more complex than “likely”/“unlikely”: more than 45 percent of adults want to wait and see.
+        
+
+
+    
+    Before we turn to what potential actions to consider, it is important to understand the nuances of consumer sentiments. McKinsey has been conducting regular surveys of a representative sample of American adults, the most recent of which was completed from November 30 through December 6, 2020 with 2,467 respondents, to understand consumer sentiment regarding potential COVID-19 vaccines and their related experiences through the pandemic. Our previous research suggests that consumers’ regard for the importance of vaccination in our path back to the “next normal” is important. Indeed, 88 percent of consumers that we surveyed believe that a vaccine is “very or somewhat important to return to normal activities.”
+
+
+
+		
+	
+Consumers fall into three COVID-19 vaccine adoption segments along a continuum of stated vaccine enthusiasm, and opportunity exists to better inform and engage consumers, especially the “cautious adopters.”Much of the prevailing market research on COVID-19 vaccination frames sentiment as “likely,” “unlikely,” or “neutral.” Our research is designed to uncover a more granular continuum of sentiments, and to account for the fact that many consumers may take a “wait and see” approach to their decision about vaccination. Our research has found that consumers’ attitudes towards receiving a COVID-19 vaccine fall into three primary segments. These three segments include (percentages indicate the percent of respondents within the given segment):
+
+
+
+     Thirty-seven percent of respondents say they are willing to participate in a trial, receive a vaccine after an EUA (emergency use authorization), or after clinical trials are completed. These are consumers who have relatively firm personal conviction in their decision to get vaccinated and may well be “first in line” when a vaccine is available to them—assuming continued positive safety and efficacy evidence.
+     Forty-five percent of respondents want to wait until the vaccine has been on the market for between three and 12 months or until they feel confident in it. The largest of any other segment, this group is less defined by their demographics (for example, 45 percent of those aged over 65) and more defined by their attitudes. In particular, they are much more focused on the health implications of the vaccine (for example, side effects, ingredients, speed of the vaccine development process)—they want to know it is safe and they want to see that others are safe after receiving the vaccine. Importantly, they want to receive information from trusted sources, namely physicians.
+     Eighteen percent of respondents say they are unlikely to receive the vaccine, regardless of timing. This segment could comprise people who are both disinterested in vaccination because they do not think they need it (for example, healthy young adults who may perceive low personal risks) or because they have developed negative sentiments about vaccination (for example, general distrust, beliefs about harmful effects).
+Understanding the different attitudes and experiences of each of these three segments provides insight into what could inform their decision to get a COVID-19 vaccine as well as what actions might have the most impact in supporting informed consumer decision making. For example, it is particularly important to understand the needs and concerns of vulnerable populations. As other research has suggested, the proportion of consumers in each segment varies by race/ethnicity. For example, our survey found that Black Americans surveyed are 1.6 times more likely to be in the “unlikely adopter” segment than Caucasian survey respondents.
+
+
+ Black Americans in the “unlikely adopter” segment share similarities (for example, in income and attitudes) with non-Black consumers in this category. Exhibit 2 highlights some of these core differences.
+    
+ As consumers’ understanding of potential COVID-19 vaccines has increased with new information, so have their attitudes and perceptions of a potential vaccine, including reduced skepticism about the benefits. For example, within the “cautious adopter” segment, some respondents have shifted from “waiting until they are confident that a vaccine has been proven to be safe” to “getting a vaccine once it has been on the market for 3–12 months.” This may be driven by respondents’ reduced skepticism for the benefits of a COVID-19 vaccine, such as a decrease in agreement with the statements such as: “I don’t think it would protect me” (18 percent to 12 percent) and “It’s an unproven vaccine” (31 percent to 19 percent).
+
+
+ Thus, while there are 45 percent cautious adopters today, people can move in and out of this group in either direction over time. When asked “whose advice is most important to you in the decision to get vaccinated?,” 44 percent of survey respondents said that they would rely on physician advice (the number-one response), while 6 percent would turn to social media.
+
+
+ However, when asked where they are getting their information on COVID-19 vaccines today, respondents cited the local news (45 percent) and social media (27 percent), while only 16 percent cited physicians.
+
+
+ Importantly, experience receiving information across these sources appears to connect with consumer perception of COVID-19 vaccines (Exhibit 3). For example, interested adopters were more likely to have received information from their physician (25 percent) compared with cautious (11 percent) and unlikely (8 percent) adopters, whereas the unlikely adopters were much more likely to have received information from social media (34 percent).
+
+
+
+    
+
+
+	
+
+
+
+
+    
+    
+
+When asked which information source has most influenced their perspectives on a COVID-19 vaccine, interested adopters were more likely to identify a physician (15 percent) compared with the other segments (6 percent each)
+
+
+ and the unlikely adopters were much more likely to identify the local news (24 percent) and twice as likely to have been most influenced by social media compared to the other segments.
+
+
+ When asked how the information received had changed their likelihood to get a vaccine, unlikely adopters were more than three times more likely to say “much less likely than before seeing or hearing this information” compared to the other segments.
+
+
+It is therefore no surprise that consumers may struggle to understand the facts on COVID-19 vaccine candidates. Many respondents in the survey were unable to name the leading COVID-19 vaccine manufacturers and had limited knowledge of the vaccine candidates’ key attributes. Other examples: referring to the two of the vaccines furthest in development, around 45 percent said they understood efficacy levels, 38 percent knew the required number of doses, around 40 percent believed that the vaccine would be available for some people by late December.
+
+
+ Our research found that around 18 percent of respondents have changed their minds about what vaccines to take
+
+
+ in their past. Similar to today’s concerns with a potential COVID-19 vaccine, these respondents were most concerned about side effects or believed that they did not need the vaccine. The data suggests that the cautious adopters are more likely to change their minds than the unlikely adopters by around seven percentage points,
+
+
+ highlighting that this population can be effectively engaged in their health. Both the cautious and unlikely adopters were most influenced to change their decision by understanding that the vaccine was necessary (33 percent did not initially think they needed the vaccine) or were concerned about pain or side effects (29 percent).
+
+
+ Physicians (28 percent), family/friends (18 percent), health insurers (17 percent), independent research (16 percent), nurses (14 percent), and pharmacists (11 percent), were most likely to engage with this decision to change health-seeking behaviors.
+
+
+ Recognizing that the safety and efficacy evidence on the COVID-19 vaccine candidates is limited and will continue to accumulate over time (for example, data on long-term safety, effectiveness in reducing transmission, duration of protection is still forthcoming), consumers are likely to engage with that emerging data as they make vaccination decisions. Consumers said that when a vaccine had a higher efficacy rate (defined as above 95 percent) they were more interested in receiving the vaccine. When it dropped to below 95 percent efficacy, consumer interest dropped by 30 percentage points.
+
+
+When asked to choose among the three candidates most likely to come to market, respondents similarly had greater interest when vaccine candidates had between 90 percent and 95 percent or more efficacy.
+
+
+ Furthermore, consumers across all segments most frequently cite side effects as the most important driver for being unlikely to get vaccinated for COVID-19.
+
+
+Three potential actions to better engage consumersHealthcare leaders in the United States are in the early stages of ramping up broad public messaging campaigns on COVID-19 vaccine, such as the CDC’s “Vaccinate with Confidence,”
+
+
+ and Biotechnology Innovation Organization’s (BIO) Stronger campaign.
+
+
+ These broad communications campaigns can be helpful; however, additional efforts could help make progress towards the levels of vaccine adoption necessary to potentially achieve herd immunity and bring the pandemic to an end. These “additional efforts” could deploy modern consumer engagement and communication capabilities, offering the potential to learn from industries such as media and consumer goods, that do this well. These capabilities could help encourage more dynamic, engaging, and personalized and data-driven consumer education. This may give consumers the information they need, when and how they need it, in order to make the most well-informed vaccination choices for themselves.In particular, we believe that healthcare leaders across public and private sectors can consider three actions to engage consumers effectively:1. Build a dynamic consumer engagement modelSentiment will continue to evolve as society gains experience with COVID-19 vaccination and we further accumulate evidence on the vaccines’ safety and effectiveness. There are, therefore, three imperatives here. First, consumer engagement approaches should be dynamic to reflect the emerging facts of the vaccines and be explicit and transparent on what evidence we know and do not know (and for the latter, when we expect to have that data). Second, consumer engagement should be responsive to the evolving consumer needs over time. Third, effective engagement approaches test, learn, and iterate in an agile way. Doing this successfully requires clear definition on the front end of how to measure engagement effectiveness—these measures can include metrics like message penetration (for example, the percent of people with target messages in personal feeds, percent of people re-tweeting target messages), sentiment (as expressed in consumer research), and behavioral outcomes data, including vaccination rates.
+		
+	
+2. Activate a coalition of vaccination leadersAn opportunity exists to mobilize a broad base of leaders who can share facts and experiences about COVID-19 vaccination as a means to cultivate broader transparency and trust. Specific priorities could include: As discussed in the previous section, physicians are being outpaced by social media in getting COVID-19 vaccine information to consumers.
+
+
+ Furthermore, of the more than 300 physicians we surveyed in September 2020, about 30 percent said that they were uncertain or unlikely to recommend COVID-19 vaccination to their patients,
+
+
+ citing concerns about the side effects, the “unproven” experience with the vaccine and a desire to see how it affects other people before recommending it themselves.
+
+
+ These rifts and concerns may be problematic. Physicians and other healthcare workers (including nurses and pharmacists) must be better engaged to serve as the leaders for factual vaccine information and credible counsel to patients. This effort requires a proactive, intensive, and coordinated engagement model to accomplish two concrete goals. The first goal is to ensure that all healthcare workers are well informed about vaccine performance and availability and, importantly to the consumer, the known information on COVID-19 vaccine safety and efficacy. The second goal is to support healthcare workers to become vaccination leaders. This effort could mean, for example, providing them with practical digital tools (such as fact sheets, web and text content) with which to engage patients and caregivers. The tools could be adapted to different needs and concerns (such as addressing cost for the uninsured) and available in different languages for minority populations. This information could include for example, the safety and efficacy of the vaccine, what to expect from the vaccination experience (during and after), and the practical aspects of getting vaccinated (for example, location of sites, hours). The scale and velocity of information on COVID-19 vaccine candidates and vaccination can be dizzying to even the most voracious health information consumers. It is therefore no surprise that many consumers struggle to grasp the basic facts about the COVID-19 vaccine candidates. An alternative approach to traditional broad campaigns is to use modern analytical capabilities (described below) to identify the less obvious influencers, especially for “underpenetrated” consumer segments. The #BeatTheVirus campaign, for example, applied advanced analytical techniques developed for media companies to identify influencers of “gamers” (video game players). By identifying and engaging one trusted influencer (in this case, a Japanese voiceover artist), to tweet about #BeatTheVirus, the campaign increased penetration in the gamers segment from 5 percent to 80 percent. Finding ways for early adopters to make their choice to vaccinate known could be powerful in demystifying the vaccination experience and creating broad transparency about the side effects—and thereby increase trust. Social media can serve as a catalyst and amplifier here—imagine a “#Ivaccinatebecause…” or “#Ivaccinated”—similar to the recent get-out-the-vote campaigns for the 2020 US presidential election. In addition, physical displays in the form of an “I was vaccinated” sticker or a symbolic pinned ribbon (akin to the red AIDS support ribbon) worn on outerwear, could make those who have been vaccinated visible in their community and engage others in following their example.3. Personalize consumer engagement using modern consumer data and analytical techniquesConsumer needs are diverse, and engagement needs to be personalized and grounded in an understanding of the consumer through advanced analytics. There are many industries that have innovated analytical models that go beyond traditional approaches and instead mine multisource data (for example, social media firehoses, talk radio, set-top boxes) and use machine learning-based models to predict how consumers will engage with certain information. Although such approaches are nascent in the public health domain, these advanced techniques enable, for example, microsegments to be defined based on the ways that audience members prefer to receive and engage with messages.
+        
+
+
+    
+    This new kind of segmentation can rapidly expose how individuals should receive COVID-19 information (which may vary across the target populations); identify unexpected influencers or “outsized voices” in specific under-penetrated microsegments; and generate insights into which communications formats and messages are more and less impactful. Ultimately, personalized communication and engagement, which includes micro-targeted communication pushed through a consumer’s preferred channel, can help trusted community messengers reach consumers while protecting their privacy.COVID-19 vaccination acceptance will play a meaningful role in the timing and confidence with which we return to a new normal. Consumer sentiment is dynamic and nuanced, not monolithic nor simple. Healthcare leaders have the opportunity to better inform and engage consumers in their role as educators and in providing access to care consumers need, leveraging a new approach to support adult vaccination for the betterment of our lives and livelihoods.

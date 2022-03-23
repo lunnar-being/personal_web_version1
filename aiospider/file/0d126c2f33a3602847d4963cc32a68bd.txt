@@ -1,0 +1,403 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Record and report F gas and equipment pre-charged with F gas
+  
+
+  
+  
+  
+      
+  When you must record and report fluorinated gas (F gas) you produce, import, export or destroy for the market in Great Britain (England, Scotland and Wales).
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Environment Agency and Department for Environment, Food & Rural Affairs
+
+      
+      Published
+      21 August 2019
+      Last updated
+      
+        13 December 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Record your F gas activities
+
+        
+        
+          When to report your F gas activities
+
+        
+        
+          When your report needs verifying
+
+        
+        
+          When you need to submit your reports
+
+        
+        
+          How to submit your F gas report
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+
+You are breaking the law if you do not submit your annual activity report by 31 March for the previous calendar year, or do not have the report verified by the relevant deadline. See the Environment Agency enforcement sanctions policy.
+
+
+Record your F gas activities
+
+You must record and report how much F gas you produce, import, export and destroy.
+
+You can use your own system to keep records.
+
+If you produce equipment containing F gas
+
+You need to keep records of the:
+
+
+  type of equipment that contains F gas if the F gas had not previously been placed on the GB market before charging
+  quantity of each F gas that is being phased down that the equipment contains
+  delivery notes and invoices from the F gas suppliers you have used
+
+
+If you import equipment pre-charged with F gas
+
+You need to keep records of the:
+
+
+  type of equipment pre-charged with F gas imported
+  number of units of each type of equipment pre-charged with F gas you placed on the GB market
+  quantity of each F gas that is being phased down that you imported within equipment pre-charged with F gas
+  declaration of conformity
+  customs documents
+
+
+If you import equipment pre-charged with F gas, and that F gas had already been placed on the market in Great Britain , exported and charged in the equipment outside GB, you must keep the:
+
+
+  delivery note or invoice from the organisation that placed the F gas on the market in GB
+  declaration that they have reported them as placed on the market
+
+
+If you destroy F gas
+
+You must keep records of:
+
+
+  how much of each F gas you destroy
+  the technologies used to destroy the F gases
+  the quantity of each of the F gases that you have in stock at the end of the year that are waiting to be destroyed
+
+
+If you use F gas as feedstock
+
+You must keep records of how much of each F gas you use.
+
+When to report your F gas activities
+
+You must report F gas activities if, in the previous calendar year, you:
+
+
+  produced, imported or exported 1 tonne of F gas, or F gas equivalent to 100 tonnes or more of carbon dioxide (CO2)
+  destroyed 1 tonne of F gas or F gas equivalent to 1,000 tonnes or more of CO2
+  placed F gas that you must report on equivalent to 500 tonnes or more of CO2 in pre-charged equipment on the GB market
+  placed pre-charged refrigeration, air conditioning and heat pump equipment on the GB market if hydrofluorocarbons (HFCs) contained in the equipment have not been placed on the GB market before
+
+
+If you used HFCs, perfluorocarbons or sulphur hexafluoride equivalent to 1,000 tonnes of CO2 as feedstock in the previous calendar year, you must submit an F gas report.
+
+Find out how to calculate the weight of an F gas in carbon dioxide equivalent.
+
+When your report needs verifying
+
+You must submit an independent audit report in addition to your F gas annual report, if you placed on the GB market:
+
+
+  F gases equivalent to 10,000 tonnes or more of CO2
+  
+F gas that you must report on equivalent to 100 tonnes or more of CO2 in pre-charged equipment
+  pre-charged refrigeration, air conditioning and heat pump equipment  if hydrofluorocarbons (HFCs) contained in the equipment have not been placed on the GB market before
+
+
+If you imported or produced F gases equivalent to or exceeding 10,000 tonnes of CO2
+
+If you report that you produced or imported bulk HFCs equivalent to 10,000 tonnes of CO2 in the previous calendar year, you must submit an independent audit report.
+
+If you import pre-charged equipment containing an equivalent to or exceeding 100 tonnes CO2 of HFCs, an independent auditor must verify:
+
+
+  the accuracy and consistency of your declaration of conformity and annual reports
+  that you had enough quota authorisations to import the HFCs in the equipment
+
+
+How to get your report verified
+
+You can use a:
+
+
+  verifier accredited to verify greenhouse gas emission reports or tonne-kilometre reports under the EU Emissions Trading System
+  verifier that is accredited to verify financial statements
+
+
+The verifier will check your data on:
+
+
+  substances you produced, imported and exported
+  main areas of application
+  quantities you placed on the GB market
+  exempt uses of the HFCs
+
+  quantities you recycled, reclaimed or destroyed
+  stocks
+  authorisations you granted to equipment manufacturers and importers
+
+
+If you report that you supplied any quantity of HFCs directly to an exporter in the previous calendar year, then you must get an independent verifier to verify this data.
+
+Keep your verification report for 5 years.
+
+You’ll need to be able to show it to your regulator.
+
+Submitting your verification report
+
+You must submit your verification report to the Environment Agency F gas support team.
+
+
+Email: f-gassupport@enviroment-agency.gov.uk
+
+
+When you need to submit your reports
+
+You must report your F gas activity by 31 March for the previous calendar year.
+
+You must submit verification reports by:
+
+
+  31 March (for the previous year) - if you imported pre-charged equipment containing HFCs equivalent to or in excess of 100 tonnes of CO2
+  30 June (for the previous year) - if you reported that you produced or imported bulk HFCs equivalent to or in excess of 10,000 tonnes of CO2
+
+
+
+Example 
+You have until 31 March 2022 to report your F gas activities during 2021.
+
+
+How to submit your F gas report
+
+
+
+If you don’t have an organisation ID from the GB F gas Registry, you need to first register for an account.
+
+
+Download, fill in and submit the annual report to the Environment Agency F gas support team.
+
+
+Submit an independent verified report, if required.
+
+
+
+
+
+
+      
+        
+    Published 21 August 2019
+    Last updated 13 December 2021
+      + show all updates
+      
+        
+            
+              13 December 2021
+              Link added to the annual reporting templates.
+            
+            
+              31 December 2020
+              Updated with guidance on reporting from 1 January 2021.
+            
+            
+              21 August 2019
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Uses of F gas (HFCs) exempt from the phase down
+        Transferring and authorising F gas quota to another business
+        Declaration of conformity template: F gas
+        Applying for quota to produce or import F gas
+        Qualifications to work with F gas
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Fluorinated gas (F gas): guidance for users, producers and traders
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Chemicals
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

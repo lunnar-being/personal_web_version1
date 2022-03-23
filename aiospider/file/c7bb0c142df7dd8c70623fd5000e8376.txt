@@ -1,0 +1,102 @@
+
+        
+        
+        
+    contra serviços de energia elétrica e gás na América Latina é significativo. De acordo com um artigo de 2016 sobre segurança, “na América Latina e no Caribe, os ataques cibernéticos a usinas de energia podem se tornar a ameaça mais grave a qualquer país, devido ao impacto sobre a população e à destruição física de estruturas em uma área extremamente ampla”. Além disso, as empresas de energia elétrica e gás da América Latina enfrentam um desafio descomunal devido ao controle misto entre entidades públicas e privadas para a geração, transmissão e distribuição de energia
+
+
+.
+
+
+
+    
+    
+Observamos três características que tornam o setor particularmente vulnerável a ameaças cibernéticas. Primeiramente, há um número cada vez maior de ameaças enfrentadas pelas concessionárias de serviços públicos: desde atores do tipo estado-nação em busca de causar desarranjos econômicos e de segurança até criminosos cibernéticos que entendem o valor econômico representado por esse setor. Em segundo lugar está a ampla e crescente pegada das concessionárias, decorrente da complexidade geográfica e organizacional, o que inclui a natureza descentralizada da liderança em segurança cibernética. Em terceiro lugar, as interdependências específicas do setor de energia elétrica e gás entre a infraestrutura física e a cibernética tornam as empresas vulneráveis à exploração, inclusive à destruição física.Os exemplos abaixo ilustram a ameaça de ataques cibernéticos a empresas de infraestrutura essencial na América Latina:
+    Em junho de 2020, uma empresa de energia elétrica sediada no Brasil foi alvo de  por parte de hackers. A empresa não revelou os detalhes do ataque, mas os invasores exigiram um resgate de $ 14 milhões
+
+
+.
+    No final de abril de 2020, uma empresa de energia elétrica brasileira foi atingida por um ataque cibernético que deixou muitos serviços offline por vários dias. Os clientes só conseguiam acessar os serviços de atendimento ao cliente por meio de um  e da plataforma WhatsApp. 
+    Em 2017, uma empresa de petróleo latino-americana teria sido afetada pelo ataque de  WannaCry. A empresa teria desconectado sistemas da Internet para evitar a disseminação de 
+
+
+.
+Para fazer frente a esses desafios, aplicamos nosso trabalho em setores ciberneticamente mais avançados (como bancos e segurança nacional) e nossa experiência prática internacional com concessionárias 
+     As empresas devem implementar uma abordagem de segurança com visão de futuro e que integre a função de segurança às decisões cruciais sobre a expansão corporativa e o correspondente aumento da complexidade infraestrutural e geográfica. 
+     Um aparato altamente funcional de segurança de concessionária deve ser alinhado para garantir que as melhores mentes da empresa – não apenas em segurança – estejam cientes das ameaças e tenham processos robustos para divulgar potenciais vulnerabilidades e incidentes emergentes. 
+     As parcerias setoriais, na qualidade de observadoras das tecnologias de ponta (e das respectivas vulnerabilidades), devem manter um diálogo ininterrupto sobre como proteger os delicados elos entre a infraestrutura física e a virtual, bem como entre as redes de TI e de tecnologia operacional (TO). Na América Latina, há muitos stakeholders que participam do setor de energia (por exemplo, organizações privadas, governos / órgãos reguladores) e que devem continuar a colaborar no campo da segurança cibernética. 
+As concessionárias devem cogitar as seguintes ações: 
+    Começar por uma avaliação holística para determinar a maturidade atual da segurança cibernética, fazer  de suas capacidades em relação às de seus pares do setor e identificar oportunidades para desenvolver capacidades adicionais. .
+    Mapear as principais funções empresariais em uma cadeia de valor, permitindo que as unidades de negócios priorizem e protejam os ativos e sistemas de informação mais essenciais que geram valor empresarial. 
+    Assegurar que o programa de segurança cibernética tenha um robusto modelo operacional subjacente, inclusive um catálogo de serviços de segurança cibernética e respectivos fluxos de processos, papéis principais e pontos de contato entre , além de mensurações do sucesso do programa. 
+Por que o setor é vulnerável? Diversas características do setor de energia aumentam o risco e o impacto das ameaças cibernéticas contra concessionárias (Quadro 1). 
+    
+Número crescente de ameaças e atores de ameaças Atores do tipo estado-nação e outros players sofisticados vêm demonstrando maior disposição para ter os provedores de infraestrutura como alvo dentro de suas campanhas mais amplas
+
+
+.Além disso, criminosos cibernéticos visam às concessionárias e outros players de infraestrutura essencial para obterem lucro. Um exemplo marcante ocorreu em Porto Rico. Ataques cibernéticos a medidores inteligentes pertencentes a uma empresa de energia elétrica porto-riquenha causaram a ela uma perda de receita de até $ 400 milhões
+
+
+. À medida que as empresas de energia da América Latina expandem sua implantação de medidores inteligentes, ameaças como essas precisam ser minimizadas. O foco desses ataques já não se limita apenas às redes de TI; um órgão governamental alertou recentemente sobre um caso de ransomware destinado a prejudicar a visibilidade das operações de gasodutos por uma empresa de gás, levando à perda de produtividade e receita até que o ransomware fosse removido
+
+
+.Os hacktivistas podem representar ameaças que tendem a ser menos sofisticadas, mas que, mesmo assim, têm potencial para causar disrupção nas operações de energia elétrica e gás, por meio, por exemplo, de ataques distribuídos de negação de serviço (DDoS, na sigla em inglês de “distributed denial-of-service”)
+
+
+.Embora a maioria das concessionárias esteja ciente dos riscos relacionados à segurança cibernética, ainda há incoerências nos investimentos em controles de segurança cibernética de TI e TO e no desenvolvimento de estratégias coordenadas. Na América Latina, a maioria dos países conta com leis e padrões de segurança cibernética, mas muitos estão nos estágios iniciais de maturidade
+
+
+.
+    
+Transformação digital aceleradaAs empresas de energia latino-americanas estão se digitalizando rapidamente para fazer frente à escala e à complexidade da demanda de energia proveniente de fontes mais distribuídas e menos previsíveis (eólica, solar). Embora esses novos sistemas permitam que as empresas de energia compatibilizem a oferta e a demanda de maneira mais eficiente e eficaz, eles também aumentam a exposição a diferentes tipos de ameaças cibernéticas. Abaixo há dois exemplos de transformações digitais de destaque em empresas de energia latino-americanas: 
+    Uma grande empresa global de geração de energia elétrica que opera no Chile tem a transformação digital no centro de sua estratégia. Os proprietários de veículos elétricos podem conectar suas baterias automotivas à rede de energia e atuar como fornecedores de energia
+
+
+.
+    Uma empresa latino-americana de petróleo e gás também colocou a transformação digital como pilar central de sua estratégia corporativa. A transformação busca capturar valor de uma ampla gama de tecnologias digitais, como automação, nuvem,  e 
+
+
+.
+Pegada amplaPor sua própria natureza, as concessionárias devem operar uma infraestrutura distribuída geograficamente por muitos locais. A título de exemplo, o Brasil possui a maior linha de transmissão de corrente contínua em alta tensão do mundo
+
+
+. Uma grande pegada geográfica dificulta manter a visibilidade necessária dos sistemas de TI e TO. Esse desafio é intensificado nas regiões em desenvolvimento do mundo e em locais de produção de pegada ampla e baixo retorno de energia, como parques solares, onde o custo de proteger fortemente o local pode exceder qualquer receita obtida com suas operações.Muitas concessionárias contam com diversas unidades de negócios para refinar, gerar, transmitir e distribuir energia e recursos. Por exemplo, alguns regimes de política de TO podem permitir o uso de tecnologia de Internet das Coisas não testada e até mesmo soluções técnicas improvisadas para monitorar as operações sem levar em conta vulnerabilidades cibernéticas em grande escala. Aliadas ao grande número de funcionários, prestadores de serviços e fornecedores que necessitam de acesso a locais e sistemas de concessionárias, essas restrições organizacionais tornam as políticas de segurança de TI, inclusive a gestão de identidade e acesso, particularmente difíceis.Convergência físico-cibernéticaAs interdependências específicas entre os sistemas virtuais e a infraestrutura física no setor de energia elétrica e gás criam grandes desafios para os responsáveis pela segurança. A disrupção de uma parte dessa interdependência pode muito bem afetar a outra. Por exemplo, um ataque cibernético direcionado à complexa rede de órgãos regionais responsáveis pela distribuição de eletricidade e pelo respectivo monitoramento nas linhas de transmissão pode levar rapidamente a danos físicos
+
+
+. Um invasor pode causar disrupção nos processos de monitoramento de rotina de modo que os órgãos de monitoramento não possam detectar os sistemas de transporte sobrecarregados.Um risco adicional acompanha a expansão das novas tecnologias, sobretudo aquelas associadas a fontes de energia verdes de grande pegada (por exemplo, parques eólicos e solares). Os painéis de acesso das turbinas eólicas às vezes são deixados sem proteção, permitindo que invasores tenham acesso físico aos controles internos do dispositivo e a um segmento da rede de TO mais ampla
+
+
+.Tecendo uma rede de proteçãoUma abordagem estruturada que aplique modelos organizacionais, de comunicação e de processo, juntamente com melhorias técnicas em algumas áreas, pode reduzir significativamente os riscos cibernéticos para as concessionárias.Informações estratégicas sobre ameaçasAs concessionárias devem continuar a ter uma visão proativa e preventiva do panorama avançado e variado de ameaças. As organizações devem empregar equipes de analytics capazes de apresentar uma visão holística e proativa ao monitorarem ameaças em todo o setor e região, o que inclui informações sobre vulnerabilidades técnicas e os vários fatores, como os geopolíticos, econômicos e legais, que definem o panorama de ameaças.É fundamental que essas informações estratégicas não apenas proporcionem conscientização, mas também fundamentem a tomada de decisões estratégicas e os planos de resposta. De fato, isso exige informações estratégicas escritas em um estilo franco e voltado aos resultados, que destaque o impacto potencial das ameaças à empresa, às suas operações e a seus clientes. Particularmente importante para uma função de informações estratégicas robusta – considerando-se o aumento das ameaças de atores avançados, como estados-nação –, é a capacidade de se preparar para ransomware emergente ou para um ataque multifásico coordenado.Abordagem integrada da segurançaPara abordar as enormes diferenças geográficas, organizacionais e técnicas em suas redes e visibilidade, as concessionárias devem continuar a adotar uma abordagem integrada da segurança (vide a coluna “Uma visão de segurança cibernética para uma empresa latino-americana de infraestrutura essencial”). Devido ao ritmo e à amplitude das ameaças atuais, é imprudente permitir que os compartimentos organizacionais reduzam a velocidade de detecção, reação e resposta.
+        
+
+
+    
+    As concessionárias devem continuar a pensar de maneira crítica, do ponto de vista tanto da organização como das pessoas, em como lidar com os silos organizacionais que podem, por motivos empresariais válidos, ter requisitos e indicadores muito diferentes. Isso inclui a definição de uma pauta e de padrões para o programa de segurança cibernética que possam ser utilizados e implementados até mesmo nas unidades de negócios mais díspares, evitando, assim, situações em que uma unidade de negócios implementa proteções de ponta enquanto outra permanece despreparada por falta de recursos ou de senso de urgência.No nível tático e operacional, descobrimos que o desenho organizacional funciona melhor quando as equipes da organização de segurança têm visibilidade – senão autoridade de decisão – com relação a todas as redes e arquitetura de TI e TO, permitindo-lhes detectar e comunicar tendências que podem ser indicativas de um ataque coordenado. Uma empresa latino-americana de petróleo e gás designou recentemente defensores da segurança em fábricas e instalações, com a missão de ficarem atentos aos riscos de segurança em ambientes de TI e TO. Do CEO aos escalões abaixo, os funcionários devem continuar a ouvir mensagens coerentes e alinhadas que enfatizem a ideia de que a segurança é responsabilidade de todos. Embora a designação de um defensor da segurança possa criar um ponto de responsabilidade pela segurança, as empresas devem deixar claro que se trata de uma responsabilidade compartilhada.
+    
+
+        
+
+
+    
+    Do ponto de vista técnico, não apoiamos o pensamento convencional que defende uma separação completa entre as redes de TI e TO. Elementos de infraestrutura essencial, como sistemas de controle de turbina e equipamentos de monitoramento em toda a rede, exigem conectividade com fornecedores e terceiros via Internet. Ademais, os sistemas de TO nunca estão realmente separados, já que têm caminhos não intencionais que resultam em conexões entre as redes, sistemas e dispositivos de TO e a rede de TI. Em vez disso, recomendamos que as concessionárias adotem uma visão voltada à segurança ao desenharem zonas de separação claras entre as redes de TI e de TO. Por exemplo, colocar os sistemas de manutenção e o acompanhamento de chamados para sistemas de TO – ambos os quais são funções de TI – em uma zona de segurança separada garantirá que essas funções essenciais tenham proteção extra em caso de comprometimento da rede de TI mais ampla (Quadro 2) (vide a coluna “Principais recomendações em segurança cibernética de concessionárias de serviços públicos”).
+    
+Uma abordagem das ameaças convergentes no âmbito de todo o setorSomente por meio de um diálogo conjunto sobre as tecnologias emergentes e sua integração com os sistemas existentes é que as concessionárias poderão enfrentar os desafios únicos apresentados pela convergência entre a infraestrutura cibernética e a física. Esse nível de colaboração é extremamente importante quando se levam em conta as redes de energia nacionais e regionais existentes em muitos países, em que a responsabilidade pela geração, transmissão e distribuição de energia é dividida por várias entidades públicas e privadas e regulada por governos. Dada a natureza interconectada da rede e dos sistemas de rede, o setor deve continuar a colaborar para proteger os dados que regem as redes de energia em nível nacional e aumentar a segurança de todos os players.Em nível global, acreditamos que as organizações multinacionais – e organizações com joint ventures internacionais – devem continuar a colaborar para além das fronteiras nacionais e regionais em busca de alinhamento quanto a padrões organizacionais e de governança abrangentes (por exemplo, NIST CSF ou C2M2) e padrões técnicos industriais mais aprofundados (por exemplo, IEC 62443). Controles adicionais específicos exigidos por regulamentos locais podem complementar esses padrões. Esse equilíbrio, seja adotado em nível corporativo, seja em uma extensão maior do setor, garantirá a melhoria contínua do programa de segurança cibernética e abordará os riscos operacionais apresentados por programas de segurança cibernética mais fragmentados, nos quais unidades de negócios em diferentes países costumam operar sob modelos muito diferentes.As concessionárias têm programas de segurança em andamento e estão tomando medidas ativas entre si, inclusive por meio de grupos de trabalho do setor, para proteger suas organizações. Um desses grupos é o Conselho de Coordenação do Subsetor de Eletricidade (ESCC, na sigla em inglês de Electricity Subsector Coordinating Council), organização que é liderada por um CEO e realiza a coordenação e cooperação entre o setor de eletricidade e organizações governamentais para se preparar, responder e se recuperar de ameaças à infraestrutura essencial.Outra organização é o Centro de Análise e Compartilhamento de Informações sobre Eletricidade (E-ISAC
+
+
+, na sigla em inglês de Electricity Information Sharing and Analysis Center), que é operado pela North American Electric Reliability Corporation (NERC) e foi criado a pedido do Departamento de Energia dos Estados Unidos em 1999
+
+
+. O E-ISAC, organizacionalmente separado dos processos de fiscalização da NERC, atua como organização colaborativa no Canadá, México e Estados Unidos para o compartilhamento de informações sobre ameaças de segurança cibernética, inclusive alertas de segurança cibernética e física. Existem também outras iniciativas de colaboração em todo o setor de energia e entre o setor privado e órgãos governamentais
+
+
+.Juntas, essas organizações são canais para o setor de serviços públicos e as organizações governamentais se coordenarem, se prepararem e responderem a ameaças, vulnerabilidades e incidentes de segurança cibernética
+
+
+.Guia rápido: como as concessionárias podem adotar uma abordagem de melhores práticasPara embasar uma abordagem integrada no que diz respeito à segurança e estabelecer uma abordagem no âmbito de todo o setor no que tange às ameaças convergentes, as concessionárias devem começar por uma avaliação holística da maturidade da segurança cibernética para avaliar a maturidade atual, fazer benchmarking das capacidades em relação a seus pares do setor e identificar oportunidades de desenvolver capacidades adicionais. Ademais, elas devem mapear as principais funções empresariais em uma cadeia de valor, permitindo que as unidades de negócios priorizem e protejam os ativos e sistemas de informação mais essenciais que geram valor empresarial. Ao examinarem as proteções para esses sistemas, as empresas podem garantir que o programa de segurança cibernética seja robusto e os sistemas estejam protegidos contra ameaças emergentes.A estrutura Cyber 360 da McKinsey (Quadro 3) integra essas abordagens em uma única estrutura abrangente.
+    
+As concessionárias que estejam em busca de desenvolver um programa estratégico de informações sobre ameaças devem executar as seguintes ações: 
+    Identificar oportunidades com base no programa de informações sobre ameaças existente da empresa, com o objetivo de aumentar a consciência situacional das equipes e identificar áreas em que o compartilhamento de informações pode ser aprimorado tanto interna quanto externamente, com outras concessionárias, fornecedores e prestadores de serviços. 
+    Definir um programa robusto de informações sobre ameaças, inclusive com identificação de tópicos, produtos e artefatos táticos, operacionais e estratégicos de informações sobre ameaças, e o correspondente cronograma para o lançamento de cada produto. 
+    Efetuar uma análise detalhada dos fatores que viabilizam o programa estratégico de informações sobre ameaças, inclusive o modelo operacional da equipe de informações sobre ameaças e as capacidades de compartilhamento de conhecimento. 
+    Oferecer aos principais  de informações sobre ameaças treinamento em desenvolvimento de produtos e em práticas recomendadas de compartilhamento de informações..
+Além disso, as melhores empresas da categoria asseguram que o programa de segurança cibernética tenha um forte modelo operacional subjacente. Fundamental para o sucesso é a criação de um catálogo de serviços de segurança cibernética com um modelo operacional e seus fluxos de processos associados, que identificam os papéis e pontos de contato principais entre os stakeholders e estabelecem mensurações do sucesso do programa.

@@ -1,0 +1,75 @@
+    
+
+
+
+ the demands on technology—for speed, flexibility, reliability, security, and value—have radically increased. For CIOs surveying how to transform their organizations, one tricky question is emerging: Where do I find the people to do all the work?Few executives would debate the importance of talent or the difficulty that many have in attracting and keeping top people. But companies nevertheless aren’t treating tech talent with the urgency it demands. Respondents to a recent McKinsey survey report more significant impact from talent transformations than from any other technology-based play. Yet talent transformations are relatively rare. Only 27 percent say their companies have pursued one in the past two years, and just 15 percent believe they will do so in the next two years.
+
+
+Amidst this reality, the increasing complexity of IT systems and the emergence of a broad range of new technologies, from cloud to artificial intelligence (AI) to machine learning, have increased the challenges. One European CEO and football fan explained it this way: if you gave him a big enough budget, he’d be confident he could put together a winning team. But a cricket team? He wouldn’t know where to start, since he doesn’t know anything about the game. He used the analogy to point out how hard it can be for leaders to know what talent they actually need.A few companies, however, have started to crack the code. Companies winning in this arena have identified at a granular level the tech skills they need to build value for the business, have developed a clear view of their present and future talent needs, and are intentional about finding both top talent and adaptable learners. Crucially, these leaders understand that it’s impossible to hire everyone you need; training and reskilling the existing workforce has to be a core part of the strategy to win the talent battle.  expect that reskilling and upskilling will be at least half of the solution to their persistent skill gaps.Seven emerging tech-talent battlegroundsTo better understand what tech talent will matter most in the next three to five years, we spoke with hundreds of global CIOs, analyzed talent developments over two years across three global markets, and reviewed more than 30 cross-cutting tech trends. We then mapped relevant skills and roles to the most significant emerging tech trends and business needs. For example, given the increasing importance of using data to make better and faster decisions, the ability to rapidly build infrastructure and architecture for data (data-engineer skills) is likely to become more of a bottleneck than the ability to generate insights (data-scientist skills).Through this analysis, we identified about 4,000 tech skills, which we broke down into seven battlegrounds, or clusters of need. (Note: while cultural and change-management aspects, including social and emotional skills, are also important, our research honed in on tech skills only).
+        
+        
+        
+        
+        
+        
+        
+        
+ Significant skills gaps in these seven areas already exist, and we expect them to become more severe over time. Executives expect skills mismatches in functions that have already started adopting automation and AI technologies, according to .
+
+The largest percentage of survey respondents (more than 30 percent) ranked data analytics, IT, mobile, and web design as the skills with the highest expectation of a mismatch over the next three years.In Germany, 700,000 additional tech specialists are needed by 2023 to meet the economy’s demand for them.
+
+
+ , demand will be four times greater than supply, and for big data talent, 50 to 60 percent greater. Globally, 3.5 million cybersecurity positions are projected to be unfilled in 2021.
+
+
+In addition to meeting the challenges of filling future roles, technology modernization requires knowledge of how to transition from existing systems, which are often written in outdated programming languages, such as LISP, ALGOL 58, or COBOL, and are understood mostly by an aging workforce.
+
+
+
+		
+	
+Closing the talent gap
+        
+
+
+    
+    To succeed in the seven tech-talent battlegrounds, companies will need to use a set of well-considered strategies: hiring, reskilling (training employees for new roles), upskilling (training within an existing role), reallocating, and sourcing. Which strategies to pursue depend on a company’s starting point and specific needs (see sidebar “Four archetypes for addressing talent gaps”). For this article, we focus on hiring, reskilling, and upskilling.The first step in closing the skills gap is rigorous discipline in identifying specific talent needs. In a , nearly twice as many respondents who report successful transformations say their companies set hiring goals based on specific skills needs, compared with respondents whose organizations don’t set those same kind of goals. They do so by evaluating relevant trends, identifying the corresponding skills needed over the next three to five years. Importantly, they identify skills at a level of precision necessary so they can target the right hires and build out relevant training programs.Hiring practices that workWe have found the following hiring practices to be most effective:
+ Given the scale of the need, organizations tend to focus on quantity. However, they should favor quality even more. A single expert or highly skilled engineer is as productive as eight novices. The most effective IT organizations are built around .
+Finding these anchor hires and being prepared to pay more for them is more cost-effective in the long run—and greatly helps in recruiting additional people who want to work with the best. Spotting quality talent is notoriously difficult, however, because companies are often unclear about how to evaluate their talent effectively. Top companies, however, identify top performance through a hierarchy of observable behaviors.
+ Tech talent has always been accustomed to lifelong learning as their fields change and new ones emerge. Technology skills evolve so quickly that focusing solely on credentials and specific skills when hiring is not enough. In addition to specialized talent, the best companies look for “strong talent,” which has the ability to learn and adapt. As one executive said, “We’re not looking for people with skills; we’re looking for people who can learn skills.”
+The flip side of this coin is nurturing an environment for learning. In a survey of IT experts, the majority of respondents said they regard employee training as a crucial driver of career success, even more important than IT certifications.
+
+
+ But beyond formal training, the best companies explicitly provide their people with time to learn, budgets to fund experimentation, and access to new technologies, as well as flexible career paths that provide additional learning opportunities.
+ To hire good tech talent, you need to involve your top talent in the recruiting process. The reality is that techies want to talk to techies rather than to HR people with limited tech knowledge.
+Acquiring top talent also requires the use of a broad set of recruiting channels, such as developer conferences and hackathons; an open mind about educational qualifications and an awareness that 85 percent of developers are at least partially self-taught; aspirational goals that inspire; and a demonstrated commitment to building  workforce.
+
+
+
+ Job seekers in the tech world are impatient. Applicants often have various offers and are used to rapid recruiting processes: 57 percent of job seekers are unhappy with the waiting time after an interview, while 23 percent are willing to wait only one week to hear back.
+
+
+
+
+		
+	
+Practical guide for reskilling and upskillingAccording to the World Economic Forum, around 54 percent of all employees will need reskilling and upskilling by 2022. Of these, 35 percent will require up to six months of training, 9 percent will need six to 12 months, and 10 percent more than a year.
+
+
+ The best programs will focus on the following practices.Use budget strategicallyReskilling is cheaper than hiring. While reskilling an internal employee may cost $20,000 or less, the cost of hiring often costs $30,000 for recruitment alone, in addition to onboarding training. And new hires are two to three times more likely to then leave.
+
+
+ Large tech players understand this and often opt to invest more significantly in reskilling their workforce.Effective reskilling and upskilling, however, don’t require large outlays. By using existing training budgets more strategically, companies can move away from broad learning programs to targeted learning journeys that focus on top-priority areas for the business. In addition, the courses can be short. Tech-learning providers offer introductory courses that take only a few hours or degree programs that can be completed within three to six months, with less than 15 hours of learning effort per week.
+
+
+Build learning journeysA learning journey is a set of connected learning experiences that drive sustained performance improvements (exhibit). Learning journeys have been highly effective in closing skills gaps, as they blend a variety of different training formats, such as digital, cohort-based, or on-the job learning.
+    
+. These dynamics not only make it possible to scale learning efforts more cost effectively but also offer greater personalization for learners.For example, a leading US insurer identified 15 to 20 critical talent pools among its more than 17,000-strong workforce, to determine the potential of displaced individuals to be reskilled and redeployed. The insurer designed learning journeys to upskill and reskill current roles to the roles of the future, such as the business translator. This learning-journey approach made it possible to reskill or redeploy 40 percent of the overall workforce.In another example, a European regional bank linked its learning journeys to concrete new career paths. In addition to learning-journey-based reskilling, almost all of the more than 30,000 employees used mobile-app digital learning courses to build skills identified as important for the company’s future.Learning needs to be a top management priorityThe CHRO and CIO need to take joint ownership of a business’s tech-training program. The most effective partnerships make sure that their , establish a governance model with shared ownership among business leaders, continuously assess skills gaps, design targeted learning journeys, and integrate them into HR processes.Don’t forget your nontech employeesNontech people need tech skills, too. With the continued importance , technology can no longer be relegated to being an “IT thing.” While people on the business side don’t need to know how to code, they do need to learn how to better use technology. The continued democratization of data can also allow for “laypeople” to use data to make better and faster decisions without relying on complex IT processes.
+        
+
+
+    
+    Furthermore, CIOs often assume that only IT people can be reskilled and typically underestimate the possibility of reskilling employees from nontech departments. But increasing evidence shows that reskilling nontech people for tech roles can be effective (see sidebar “Even people without ‘adjacent’ skills can be successfully reskilled”).
+
+
+Given the rapidly changing nature of business and technology, companies will always be facing technology-skills gaps. But organizations that are willing to dedicate the energy, focus, and resources to continually closing—or, in some cases, even leapfrogging—those gaps can win in the most important talent battlegrounds.
