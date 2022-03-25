@@ -1,0 +1,23 @@
+
+    
+    
+
+        
+        
+        
+     the pulp and paper industry has looked to digital to further optimize operations. This is driven, in part, by three market trends: continued price pressure on paper manufacturers as the market for traditional paper products declines, growing demand for paper packaging as a more sustainable alternative to plastic, and growing demand for tissue products globally.
+        
+
+
+    
+    Digital technologies—machine connectivity, intelligent automation, and advanced analytics—enable new levels of productivity in pulp and paper operations by leveraging large quantities of production data to deliver better insights and outcomes. Successful digital innovators are seeing throughput gains of 5 to 10 percent, yield gains of up to five percentage points, and significant savings on materials, chemicals, and energy. For the industry, this represents a $4 billion to $6 billion opportunity, and the value is achievable here and now. Over 25 unique use cases are already generating value across the full pulp and paper value chain (Exhibit 1).
+    
+In forestry and logistics, we see the benefit of applications that track real-time material flow from harvester to mill to help optimize delivery and planning. In pulp mills, companies are using advanced analytics to improve kappa control and boost fiber yield. In paper mills, energy optimization, AI-driven root-cause problem solving, and speed optimization boost profit per hour. And finally, in finishing, advanced analytics is driving improved quality.Companies that are maximizing their return on investment in digital do three things well:
+    
+    
+    
+Case example: Maximizing value from existing assets by leveraging advanced analytics
+	
+Despite significant investment in Lean and Six Sigma, a top-quartile, multi-asset pulp and paper company was still struggling to make a step change in profitability; it was experiencing significant variability in major KPIs, leading the company to explore opportunities in digital. The resulting advanced-analytics transformation increased throughput by 8 to 10 percent in the pulp mill, decreased costs by 15 to 20 percent across use cases, and enabled a sustained four- to five-percentage-point increase in earnings before interest, taxes, depreciation, and amortization (EBITDA) overall.Below is an overview of what the company did well to achieve those benefits, illustrating best practices.Putting the right technology enablers and road map in placeThe company developed an exciting and aspirational analytics transformation program with a clearly linked data strategy. It executed use cases in sequence to demonstrate value, build momentum, and develop capabilities. The vast quantity of data (20+ GB) available was stitched together from multiple repositories, cleaned, and analyzed through the deployment of over 50 analytics models across more than 20 use cases, with a focus on optimizing KPIs such as throughput, quality, and cost reduction throughout the operations.New capability buildingClose interaction between domain and advanced-analytics experts was key to unlocking the full potential of the assets. There was a focus on capability building within the organization rather than resorting to massive external recruitment. This included designing and setting up an academy within the organization that touched more than 20 percent of the workforce in the first year, ensuring skills were developed at all levels from senior management to line managers, while a set of high-performing people was identified to run the center of excellence, including data engineering, development, process optimization, and change management.Processes and change managementAdopting agile ways of working coupled with a rapid implementation mindset was crucial for driving change. The company put in place multidisciplinary teams including designers, technologists, operators, and process owners to implement the analytics solution with clearly defined improvement KPIs. Exhibit 2 shows how short sprints by these multidisciplinary teams led to a significant reduction in chemical use in as little as 20 days.
+    
+The gap between digital frontrunners and laggards is expected to grow over the coming years, and companies that get their digital transformations right will have a distinct competitive advantage. A no-regrets first step for pulp and paper companies that have not yet started this journey is to explore opportunities and align the senior team on a vision and ambition for digital, and to lay out a strategic road map that considers critical business KPIs, harnesses the strengths of the organization, and is aligned with business priorities.

@@ -1,0 +1,352 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    IT service manager
+  
+
+  
+  
+  
+      
+  Find out what an IT service manager does and the skills you need to do the job.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      7 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of IT service manager
+
+        
+        
+          IT service manager
+
+        
+        
+          Senior IT service manager
+
+        
+        
+          Head of IT service management
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This describes the role of an IT service manager and the skills required, including:
+
+
+  an introduction to the role, telling you what you would do in this role and the full list of skills
+  a description of the levels in this role, from IT service manager to Head of IT service management, specifying the skills you need for each level and the corresponding skill level (awareness, working, practitioner, expert)
+
+
+This role is part of the Digital, Data and Technology Profession in the Civil Service.
+
+Introduction to the role of IT service manager
+
+IT service managers are responsible for managing the service delivery of information and communications technology (ICT) services and working with teams from IT service operations.
+
+Skills required to be an IT service manager
+
+You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.
+
+
+  
+Asset and configuration management. You know how to conduct life-cycle management for assets including hardware, software, intellectual property, licences and warranties. You know how to manage usage, disposal, compliance, inventory, sustainability, cost optimisation and protection of the asset portfolio. You can help to improve investment decisions and capitalise on opportunities. You know how to comply with international standards for asset management. You document information relating to assets including identification, classification and specification of all items, and information related to storage, access, versions, etc. You can apply status accounting and auditing in line with relevant criteria.
+  
+Business analysis (IT operations). You can visualise and articulate problems and solutions, solve complex problems and concepts, and make disciplined decisions based on available information. You will need to show that you can: apply logical thinking; gather and analyse information using comprehensive tools and techniques; use data to formulate both short-term day-to-day and long-term strategic plans; identify and analyse options; and assess feasibility and operational impact. You can ensure that the business solution aligns with the vision, mission, objectives, strategy, business and user needs. You can identify and recognise a viable solution or control.
+  
+Continual service improvement. You can identify and explore opportunities for service and business improvement. You know how to drive analysis and identify, prioritise and implement improvements and efficiencies, ensuring that the organisation derives maximum value from services This includes recognising the potential for automation of processes, determining costs and benefits of new approaches and managing change or assisting implementation where needed.
+  
+Ownership and initiative. You can take ownership of problems and proactively resolve technical problems, ensuring that technical solutions continue to meet business requirements. You know how to take full accountability for actions taken and decisions made.
+  
+Relationship management. You can identify, analyse, manage and monitor relationships with and between stakeholders. You know how to clarify mutual needs and commitments through consultation and consideration of impacts. For example, you know how to coordinate all promotional activities for one or more customers to achieve satisfaction for the customer and an acceptable return for the supplier. By helping the customer, you can ensure that maximum benefit is gained from products and services.
+  
+Service focus. You can maintain focus on the whole life of service delivery: from designing to developing to delivering and operating. You know how to ensure that a set of IT products, suppliers and vendors come together to deliver an IT service.
+  
+Service Management Framework knowledge. You have an in-depth understanding of Service Management Framework principles and processes and the ability to apply your technical knowledge in project or programme activities.
+  
+Service reporting. You can take management information and consolidate agreed key performance indicators (KPIs) into product or service measures that underpin service management of a specific product or service.
+  
+Strategic thinking. You can take an overall perspective on business issues, events, activities and discuss their wider implications and long-term impact. This could include determining patterns, standards, policies, roadmaps and vision statements. You know how to focus on outcomes rather than solutions and activities.
+  
+Technical understanding. This knowledge underpins your ability to deliver the responsibilities and tasks for the role and ensures that you can apply the breadth and depth of technical knowledge you need. You stay abreast of industry developments to make cost-effective use of new and emerging tools and technologies.
+  
+User focus. You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs. You can engage in meaningful interactions and relationships with users.You put users first and can manage competing priorities.
+
+
+IT service manager
+
+An IT service manager is responsible for defining service level agreements (SLAs) and operational level agreements (OLAs) across all relevant business functions.
+
+At this level, you will manage a fully functioning multi-sourced service support team with a customer-centric support approach across multiple locations, focused on service availability and performance
+
+You will also ensure that:
+
+
+  all service and support functions remain responsive to customer needs
+  the service catalogue and wider IT service operations knowledge library is maintained
+  adequate reporting and service standards are met for their specific service
+  all technical change is communicated and managed, with appropriate governance
+  a programme of continual service improvement is put in place across the wider service delivery function
+
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You can maintain secure configuration and accurate information, controlling IT assets in one or more significant areas, and verifying location and state of assets. (Relevant skill level: working)
+  
+Business analysis (IT operations). You know how to investigate problems and opportunities in existing processes and contribute to recommending solutions to these. You can work with stakeholders to identify objectives and potential benefits. (Relevant skill level: working)
+  
+Continual service improvement. You can identify process optimisation opportunities with guidance and contribute to the implementation of proposed solutions. (Relevant skill level: working)
+  
+Ownership and initiative. You can own an issue until a new owner has been found or the problem has been mitigated or resolved. (Relevant skill level: working)
+  
+Relationship management. You can identify important stakeholders and relationships and work with teams to build these. You understand how to work with stakeholders and contribute to improving these relationships. (Relevant skill level: working)
+  
+Service focus. You know how to see the bigger picture and can investigate how to get the best of underlying services. (Relevant skill level: practitioner)
+  
+Service Management Framework knowledge. You have a Level 3 Service Management Framework qualification and knowledge of life-cycle and / or capability elements of ITIL (Information Technology Infrastructure Library). (Relevant skill level: working)
+  
+Service reporting. You can produce relevant reports in a standard format in an agreed timeframe. You can work with important stakeholders to discuss any changes in the reporting processes. You can add a commentary that provides an interpretation for the data set. (Relevant skill level: working)
+  
+Strategic thinking. You can work within a strategic context and communicate how activities meet strategic goals. You can contribute to the development of strategy and policies. (Relevant skill level: working)
+  
+Technical understanding. You understand core technical concepts related to the role and can apply them with guidance. (Relevant skill level: working)
+  
+User focus. You can identify needs and engage with users or stakeholders to collate user needs evidence. You understand and can define research that fits user needs. You can use quantitative and qualitative data about users to turn user focus into outcomes. (Relevant skill level: working)
+
+
+Senior IT service manager
+
+A senior IT service manager is responsible for service management across platforms, multiple channels and services to ensure service availability, performance and process maturity.
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You know how to manage configuration items, related information, service compliance and risks. (Relevant skill level: practitioner)
+  
+Business analysis (IT operations). You can lead investigative work into problems with and opportunities in existing processes, driving the collection of information and creation of recommendations for improvements. You know how to absorb large amounts of conflicting information and use it to produce solutions. (Relevant skill level: practitioner)
+  
+Continual service improvement. You know how to analyse current processes, identify and implement opportunities to optimise processes, and lead and develop a team of experts to deliver service improvements. You help to evaluate and establish requirements for the implementation of changes by setting policy and standards. (Relevant skill level: practitioner)
+  
+Ownership and initiative. You can take accountability of issues that occur and be proactive in searching for potential problems. You know how to achieve excellent user outcomes. (Relevant skill level: practitioner)
+  
+Relationship management. You know how to influence stakeholders and manage relationships effectively. You can build long-term strategic relationships. You know how to facilitate and deliver business outcomes. (Relevant skill level: practitioner)
+  
+Service focus. You know how to see the bigger picture and can investigate how to get the best of underlying services. (Relevant skill level: practitioner)
+  
+Service Management Framework knowledge. You have an expert Certificate in Service Management Framework qualification. (Relevant skill level: practitioner)
+  
+Service reporting. You know to leverage your data analytics skills to enhance business performance. (Relevant skill level: practitioner)
+  
+Strategic thinking. You can define strategies and policies, providing guidance to others on working in the strategic context. You know how to evaluate current strategies to ensure business requirements are being met and exceeded where possible. (Relevant skill level: practitioner)
+  
+Technical understanding. You understand core technical concepts related to the role and can apply them with guidance. (Relevant skill level: working)
+  
+User focus. You know how to collaborate with user researchers and can represent users internally. You understand the difference between user needs and the desires of the user. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used. (Relevant skill level: practitioner)
+
+
+Head of IT service management
+
+A head of IT service management is responsible for setting the vision and strategy for service management, ensuring processes are owned and maturing. At this level, you will:
+
+
+  lead a team, ensuring adequate resources and capacity
+  represent the IT service management function at a senior level
+  act as an escalation point for business stakeholders
+
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You can manage configuration management for the organisation, ensuring value for the business and adherence to company policies. Ensures changes to assets are recorded and controlled appropriately. Promotes organisational commitment to asset control. (Relevant skill level: expert)
+  
+Business analysis (IT operations). You can lead investigative work into problems with and opportunities in existing processes, driving the collection of information and creation of recommendations for improvements. You know how to absorb large amounts of conflicting information and use it to produce solutions. (Relevant skill level: practitioner)
+  
+Continual service improvement. You know how to analyse current processes, identify and implement opportunities to optimise processes, and lead and develop a team of experts to deliver service improvements. You help to evaluate and establish requirements for the implementation of changes by setting policy and standards. (Relevant skill level: practitioner)
+  
+Ownership and initiative. You can take accountability of issues that occur and be proactive in searching for potential problems. You know how to achieve excellent user outcomes. (Relevant skill level: practitioner)
+  
+Relationship management. You can determine strategic vision and direction. You know how to positively influence important senior stakeholders. You can provide an arbitration function. (Relevant skill level: expert)
+  
+Service Management Framework knowledge. You have an expert certificate in Service Management Framework qualification and an industry understanding of how to implement the framework into numerous environments. (Relevant skill level: expert)
+  
+Service reporting. You know to leverage your data analytics skills to enhance business performance. (Relevant skill level: practitioner)
+  
+Strategic thinking. You can lead the design and implementation of strategy, directing the evaluation of strategies and policies to ensure business requirements are being met. (Relevant skill level: expert)
+  
+Technical understanding. You thoroughly understand the technical concepts required for the role and can explain how these fit into the wider technical landscape. (Relevant skill level: practitioner)
+  
+User focus. You know how to give direction on which tools or methods to use. You are experienced in meeting the needs of users across a variety of channels. You can bring insight and expertise in how user needs have changed over time to ensure these are met by the business. You know how to apply strategic thinking in how to provide the best service for the end user. (Relevant skill level: expert)
+
+
+Read more
+
+
+  Civil Service Jobs
+
+
+
+
+
+      
+        
+    Published 7 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Service desk manager
+        Network architect
+        Test manager
+        Security architect
+        Performance analyst
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

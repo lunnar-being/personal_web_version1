@@ -1,0 +1,312 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Farming Equipment and Technology Fund: accessibility statement
+  
+
+  
+  
+  
+      
+  Accessibility statement for the Farming Equipment and Technology Fund information and service.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Rural Payments Agency
+
+      
+      Published
+      16 November 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+    
+      Applies to England
+
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Using this website
+
+        
+        
+          How accessible this website is
+
+        
+        
+          What to do if you cannot access parts of this portal
+
+        
+        
+          Reporting accessibility problems with this website
+
+        
+        
+          Enforcement procedure
+
+        
+        
+          Contacting us by phone or visiting us in person
+
+        
+        
+          Technical information about this website’s accessibility
+
+        
+        
+          How we tested this website
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Using this website
+
+The Farming Equipment and Technology Fund (FETF) provides support to businesses so that they can invest in equipment and technology to improve sustainable agricultural, horticultural and forestry productivity.
+
+The scheme uses an online application portal. We want as many people as possible to be able to use this portal to apply online for the scheme. For example, that means you should be able to:
+
+
+  change contrast levels and fonts
+  text spacing can be reasonably adjusted to 1.5x line height
+  zoom in up to 200% without the text spilling off the screen
+  navigate most of the website using just a keyboard
+  navigate most of the website using speech recognition software
+  listen to most of the website using a screen reader (including the most recent versions of JAWS, NVDA and VoiceOver)
+
+
+We have also made the website text as simple as possible to understand.
+
+AbilityNet has advice on making your device easier to use if you have a disability.
+
+How accessible this website is
+
+We know some parts of this website are not fully accessible:
+
+
+  whilst the website is designed to work on tablet devices, the website fails to respond on smaller mobile device screens
+  screen readers and other assistive technologies may not identify forms, headings, links, tables, logos and error messages correctly and consistently
+  the website requires Javascript in order to function correctly; it is not possible to navigate through the site in full with Javascript disabled
+  certain assistive technologies may not correctly identify the parts of the site that contain dynamically generated content
+  a user’s progress through the site is not saved at the end of each section.
+
+
+What to do if you cannot access parts of this portal
+
+If you need help completing the portal
+
+
+  email FETFenquiries@rpa.gov.uk
+
+  call 0300 020 0301 and follow the option for the FETF (Monday to Friday, 8.30am to 5pm)
+
+
+We will consider your request and get back to you within 10 days.
+
+Reporting accessibility problems with this website
+
+We are always looking to improve the accessibility of this website. If you find any problems that are not listed on this page or think we are not meeting the requirements of the accessibility regulations, contact:
+
+
+  email FETFenquiries@rpa.gov.uk
+
+  call 0300 020 0301 and follow the option for the FETF (Monday to Friday, 8.30am to 5pm)
+
+
+Enforcement procedure
+
+The Equality and Human Rights Commission (EHRC) is responsible for enforcing the accessibility regulations. If you are not happy with how we respond to your complaint, contact the Equality Advisory and Support Service (EASS).
+
+Contacting us by phone or visiting us in person
+
+We do not currently have a text relay service for people who are deaf, hearing impaired or have a speech impediment. You can contact us by:
+
+
+  email FETFenquiries@rpa.gov.uk
+
+  call 0300 0200 301 and follow the option for the FETF (Monday to Friday, 8.30am to 5pm)
+  Twitter https://twitter.com/Ruralpay
+
+  Facebook https://www.facebook.com/RuralPaymentsAgency/
+
+
+
+Currently due to COVID-19 we do not have the facilities for you to visit us in person.
+
+Technical information about this website’s accessibility
+
+The Rural Payments Agency is committed to making its website accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.
+
+This service is partially compliant with the Web Content Accessibility Guidelines version 2.1 AA standard, due to the non-compliances listed.
+
+How we tested this website
+
+The service has been tested and checked for compliance with WCAG 2.1 AA.
+
+It was tested by the Defra Digital, Data & Technology Services team, and the non-compliant elements will be included in the ongoing development work.
+
+This statement was prepared on 7 October 2021.
+
+
+
+
+
+      
+        
+    Published 16 November 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Farming Transformation Fund: How to fill in a Water Management grant Full Application
+        Small Grant scheme - livestock handling items in short supply
+        Farming Transformation Fund Water Management grant: check if you can apply
+        Farming Transformation Fund Water Management grant
+        Farming Transformation Fund    Water Management grant manual   
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Corporate information
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

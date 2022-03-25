@@ -1,0 +1,133 @@
+
+
+
+
+Previous News ReleaseCoordinated Efforts on Twitter to Interfere in the U.S. Presidential Election Are Likely ForeignNext News ReleaseFor Health IT to Reach Its Potential to Improve Patient Care, New Focused Efforts Are Needed
+
+
+Facebook Users May Spread Russian Propaganda Less Often When They Are Aware of Its Source
+
+
+
+For Release
+ThursdayOctober 15, 2020
+
+Russian propaganda is hitting its mark on social media—generating strong partisan reactions that may help intensify political divisions—but Facebook users are less apt to press the “like” button on content when they learn that it is part of a foreign propaganda campaign, according to a new RAND Corporation report.
+Researchers say that Russia is using political memes to polarize Americans, particularly those at the extreme ends of the political spectrum who typically like and share content that aligns with their political views at higher rates than others.
+But a unique RAND study that exposed these hyper-partisan news consumers to potential interventions suggests that most are open to reconsidering their initial response to a Russian meme after its source is revealed to them.
+“Left- and right-wing audiences are particular targets of Russian propaganda efforts, so they naturally have a big reaction because the propaganda speaks to them,” said Todd Helmus, the study's lead author and a senior behavioral scientist at RAND, a nonprofit, nonpartisan research group. “A big reaction also means a lot of room for improvement in terms of learning how to think critically about the source of a particular news item, and the consequences of passing it along to others.” 
+The RAND report is the third of a four-part series intended to help policymakers and the public understand—and mitigate—the threat of online foreign interference in national, state, and local elections.
+The latest study used a randomized controlled trial of more than 1,500 Facebook users to understand how people react emotionally to Russian propaganda—specifically, memes that Russia used in the 2016 U.S. election cycle—and whether media literacy content or labeling the source of a meme could help prevent the spread, and thus influence, of Russian propaganda on social media platforms.
+The study may be the first to test the impact of media literacy and labeling interventions on audience reactions to actual Russian propaganda memes.
+Researchers asked participants about their consumption of news and categorized them into five groups. They found that two of the groups react in the strongest and most partisan way to Russian memes.
+The first of those two groups is the “Partisan Left,” who lean left politically and most often received their news from the New York Times. They also are least likely to believe that COVID-19 is a conspiracy. The second is “Partisan Right,” who lean right politically and get their news from Fox News or politically far-right outlets. They are the group most likely to believe that COVID-19 is a conspiracy.
+People in these two groups also are the most likely to change their minds about liking a meme if the meme is revealed to be from a Russian source, according to the study.
+Among members of the Partisan Right group, exposure to a short media literacy video reduced the number of likes for pro-U.S. and politically right-leaning Russian content. The video also reduced likes of pro-U.S. themed Russian content among all study participants. The media literacy video had no significant effect on likes associated with left-leaning Russian content.
+While it is difficult to assess whether revealing the source of memes is a feasible mechanism for helping people recognize propaganda, researchers say there may be immense value in developing a third-party software plug-in that could unmask the source of state-sponsored content.
+RAND researchers recommend educating Americans about the presence of Russian propaganda and encouraging them to be highly suspicious of sources and their intent. An example of a Russian meme, with directions on how to refute it, could help inoculate Americans against propaganda.
+Additionally, researchers point to technological media literacy interventions as a promising way to reduce the impact of Russian propaganda.
+“Media literacy interventions that can be placed on phones or other devices have the potential to help people think through the way they interact with news or media content,” Helmus said.
+This research was sponsored by the California Governor's Office of Emergency Services.
+The first report in the RAND series concluded that the main goal of foreign interference is to paralyze the American political process by driving people to extreme positions that make it ever more difficult to reach consensus. The second report concluded that coordinated efforts on Twitter to interfere in the current U.S. presidential election may have worked in favor of President Trump, and against the candidacy of Vice President Biden.
+The report, “Russian Propaganda Hits Its Mark: Experimentally Testing the Impact of Russian Propaganda and Counter-Interventions,” is available at www.rand.org. Other authors of the study are James V. Marrone, Marek N. Posard, and Danielle Schlang.
+The RAND National Security Research Division conducts research and analysis on defense and national security topics for the U.S. and allied defense, foreign policy, homeland security, and intelligence communities and foundations and other non-governmental organizations that support defense and national security analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+About the RAND Corporation
+The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous.
+
+
+
+
+Media Resources
+RAND Office of Media Relations
+(703) 414-4795
+(310) 451-6913
+media@rand.org
+
+
+Researcher Spotlight
+
+
+
+Todd C. Helmus
+Senior Behavioral Scientist
+
+
+Todd C. Helmus is a senior behavioral scientist at the RAND Corporation and a member of the Pardee RAND Graduate School faculty. He specializes in strategic communications, disinformation, and terrorism. Helmus' latest research focuses on ways to counter Russian disinformation campaigns in the…
+
+Explore Our People »
+
+Explore
+All News Releases
+By Date
+Related Topics
+
+DemocracyInformation OperationsThe InternetPolitics and GovernmentRussiaSocial Media AnalysisUnited States
+
+Research Conducted By
+
+RAND National Security Research Division
+
+Explore All Topics »
+
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+Russian Propaganda Hits Its Mark
+
+Oct 15, 2020
+Todd C. Helmus @Helmus, James V. Marrone, et al.
+
+
+
+
+
+
+
+
+
+
+Report
+From Consensus to Conflict
+
+Oct 1, 2020
+Marek N. Posard @mnposard, Marta Kepe @martakepe, et al.
+
+
+
+
+
+
+
+
+
+
+Report
+Foreign Interference in the 2020 Election
+
+Oct 8, 2020
+William Marcellino, Christian Johnson, et al.
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:News Release","Research Topics:Law and Business/Law/Politics and Government/Democracy","Research Topics:Science and Technology/Communication Technology/The Internet","Research Topics:Geographic Areas/Americas/North America/United States","Research Topics:Methodology/Social Media Analysis","Research Topics:National Security and Terrorism/Military Affairs/Warfare and Military Operations/Information Operations","Research Topics:Law and Business/Law/Politics and Government","Research Topics:Geographic Areas/Europe/Russia"];top.window.RAND.authoring.page_content_tags_json=[{"display":"News Release","value":"content-types:news-release"},{"display":"Democracy","value":"research-topics:law-and-business/law/politics-and-government/democracy"},{"display":"The Internet","value":"research-topics:science-and-technology/communication-technology/the-internet"},{"display":"United States","value":"research-topics:geographic-areas/Americas/North-America/United-States"},{"display":"Social Media Analysis","value":"research-topics:methodology/social-media-analysis"},{"display":"Information Operations","value":"research-topics:national-security-and-terrorism/military-affairs/warfare-and-military-operations/information-operations"},{"display":"Politics and Government","value":"research-topics:law-and-business/law/politics-and-government"},{"display":"Russia","value":"research-topics:geographic-areas/Europe/russia"}];})();
+

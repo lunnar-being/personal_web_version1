@@ -1,0 +1,231 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Define user needs
+  
+
+  
+  
+  
+      
+  Understand your users and their needs. Develop knowledge of your users and what that means for your technology project or programme.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      6 November 2017
+      Last updated
+      
+        31 March 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          How user research will help your programme
+
+        
+        
+          Related guides
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+To meet point 1 of the Technology Code of Practice (TCoP) your plans must show you understand your users and their needs.
+
+If you’re going through the spend control process you must explain how you’re meeting point 1.
+
+
+The Central Digital and Data Office is currently collecting feedback on the Technology Code of Practice. The aim is to improve the content and make sure it meets user needs. If you want to add your feedback, please complete this short survey.
+
+
+How user research will help your programme
+
+Doing user research will help your technology project or programme by identifying:
+
+
+  any risks to introducing or changing the technology
+  the skills needed to deliver, use and manage the technology
+  the technologies that service support teams will need for their end users
+  the commercial and operational needs, for example, the need to decommission an obsolete mainframe in order to create a more resilient data and service tier
+
+
+User research can also:
+
+
+  make sure that services such as online office suites, network shares, project management software and HR suites really do meet your users’ needs
+  support internal agreement of what you want the technology to help you achieve
+
+
+
+Next: Technology Code of Practice point 2 - Make things accessible and inclusive
+
+
+Related guides
+
+
+  Government technology standards and guidance
+  user research training for central government workers
+  User research for government services: an introduction
+  Learning about users and their needs
+  user research
+  assisted digital support
+
+
+
+
+
+      
+        
+    Published 6 November 2017
+    Last updated 31 March 2021
+      + show all updates
+      
+        
+            
+              31 March 2021
+              Addition of a temporary research survey to get user feedback on the Technology Code of Practice.
+            
+            
+              6 November 2017
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Be open and use open source
+        How Hackney Council built an API Platform
+        Make privacy integral
+        Government technology standards and guidance
+        Integrate and adapt technology
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

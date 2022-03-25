@@ -1,0 +1,507 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Future RAN: Diversifying the 5G Supply Chain
+  
+
+  
+  
+  
+      
+  Future RAN is an open competition, run by DCMS, that will allocate up to £30 million of R&D funding to projects that support the goals of the government's 5G Supply Chain Diversification Strategy. The competition is aimed at helping to incentivise industry to create new products and services to unlock the full potential of Open RAN. 
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Digital, Culture, Media & Sport
+
+      
+      Published
+      2 July 2021
+      Last updated
+      
+        26 August 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Overview
+
+        
+        
+          Background
+
+        
+        
+          Objectives
+
+        
+        
+          Competition timeline and events
+
+        
+        
+          Who can apply?
+
+        
+        
+          How to apply
+
+        
+        
+          Funding
+
+        
+        
+          Required documents
+
+        
+        
+          Supporting documents
+
+        
+        
+          Contact us
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Overview
+
+What is Future RAN: Diversifying the 5G Supply Chain?
+
+Future RAN is an open competition, run by DCMS, that will allocate up to £30 million of R&D funding to projects that support the goals of the Government’s 5G Supply Chain Diversification Strategy. The competition is aimed at helping to incentivise industry to create new products and services to unlock the full potential of Open RAN.
+
+Defining Open RAN
+
+When referring to Open RAN, we mean this in its broader sense of disaggregated networks and open architectures. It is worth noting that we are also looking to support other forms of interoperability in the RAN, with a view to enabling multi-vendor architectures by default. Bidders should not feel discouraged from applying if their solution does not meet the specific definition of the Open RAN set of standards.
+
+Background
+
+The Diversification Strategy identified R&D as a barrier to entry for new suppliers. The Government is investing in the UK’s R&D ecosystem and capability in order to underpin the long-term success of the reforms and initiatives set out in the Diversification Strategy. This competition will support the UK’s infrastructure innovation ecosystem to play a leading role transforming the UK telecoms market, and encourage more private sector innovation to help unlock opportunities for UK businesses to play a role in the emerging global supply chain based on open standards.
+
+This competition is part of a wide-ranging government response to the challenge of diversifying the UK’s supply market for radio equipment set out in the Diversification Strategy. The Diversification Strategy calls for the establishment of a UK wide R&D ecosystem spanning a range of areas including: the development of physical hardware; software/virtualised solutions; testing with live networks; and accelerating and pulling forward the development of interoperable technologies. There is already an ecosystem taking shape through private sector funding. However, this competition will help to harness that momentum and promote collaboration and convene the strengths of the UK’s R&D sectors to pull in the same direction and towards the goals of the diverse supply chain the UK needs to ensure its national security and resilience. Ultimately, the projects funded through this competition should help develop products that resolve the top challenges posed by new, interoperable technologies, and develop initial UK capability in the Open RAN ecosystem.
+
+The government is already making investments to bolster this ecosystem in the form of the SmartRAN Open Network Interoperability Centre (SONIC) and the UK Telecoms Lab (UKTL). This competition will complement those initiatives by focusing more on providing support to companies developing technology rather than testbed infrastructure. Consortia are encouraged to make use of existing testbeds and other infrastructure, such as SONIC, other 5GTT funded facilities, and private sector labs and testbed infrastructure.
+
+Objectives
+
+
+  Accelerate the development of high-performance 5G Open RAN solutions that meet UK dense urban requirements by 2025.
+  Attract new 5G RAN suppliers to conduct R&D in the UK, and foster professional collaborations between potential new entrants into the UK’s public network.
+  Contribute to the delivery of the 5G Supply Chain Diversification Strategy’s objectives of disaggregated supply chains, open interfaces by default, and security being a priority in network deployment.
+
+
+Competition timeline and events
+
+There will be opportunities to learn more about the competition and discuss with potential partners at a series of direct engagement events run by UK5G in collaboration with DCMS:
+
+
+  
+    
+      Briefing Events
+      Date
+    
+  
+  
+    
+      Launch Event
+      13 July 2021
+    
+    
+      Matchmaking Event
+      27 July 2021
+    
+  
+
+
+For this competition the application window is open for 8 weeks and the expected timeline is:
+
+
+  
+    
+      Milestones
+      Date
+    
+  
+  
+    
+      Competition launch
+      2 July 2021
+    
+    
+      Applications deadline
+      27 August 2021
+    
+    
+      Shortlisted applicants notified
+      Mid-September 2021
+    
+    
+      Interviews with shortlisted applicants
+      Late September 2021
+    
+    
+      Successful applicants notified
+      Mid-October 2021
+    
+    
+      Project pre-grant set up and DCMS due diligence. Subject to completion, DCMS and the lead partner then sign a grant funding agreement.
+      November 2021 - January 2022
+    
+  
+
+
+Who can apply?
+
+This competition is open to applications from consortia with two or more members with funding available for activity taking place in the UK.
+
+How to apply
+
+Please read the Competition Guidance below, complete the Application Form and the Finance Forms provided and return to 5g-diversification-strategy@dcms.gov.uk by midday on the 27th August.
+
+Funding
+
+There is up to £30 million of funding available from the Department for Digital, Culture, Media & Sport in this competition. Grants ranging from £250,000 to £5 million will be made available to individual projects lasting up to 18 months.
+
+Required documents
+
+
+  
+      
+  
+  
+    Application form 
+    
+        MS Word Document, 44.4KB
+    
+
+
+  
+
+
+
+  
+      
+  
+  
+    Project finance form
+    
+        MS Excel Spreadsheet, 304KB
+    
+
+
+  
+
+
+
+  
+      
+  
+  
+    Future RAN Competition: participation agreement
+    
+        MS Word Document, 117KB
+    
+
+
+  
+
+
+Supporting documents
+
+
+  
+      
+  
+  
+    Future RAN Competition: application guidance
+    
+        PDF, 314KB, 26 pages
+    
+
+
+  
+
+
+
+  
+      
+  
+  
+    Future RAN Competition: Draft grant funding agreement 
+    
+        MS Word Document, 207KB
+    
+
+
+  
+
+
+
+  
+      
+  
+  
+    Future RAN Competition: General guidance for grant applications
+    
+        PDF, 188KB, 9 pages
+    
+
+
+  
+
+
+
+  
+      
+  
+  
+    Future RAN Competition: Eligible project costs guidance
+    
+        PDF, 126KB, 7 pages
+    
+
+
+  
+
+
+
+  
+      
+  
+  
+    Future RAN Competition: Guidance for academics applying via the Je-S system
+    
+        PDF, 431KB, 3 pages
+    
+
+
+  
+
+
+
+  
+      
+  
+  
+    Future RAN Competition: Potential monitoring indicators
+    
+        PDF, 140KB, 4 pages
+    
+
+
+  
+
+
+
+  
+      
+  
+  
+    Future RAN Competition - Q&A log
+    
+        ODS, 78KB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+Contact us
+
+If you have any questions or would like more clarification, please contact us on 5g-diversification-strategy@dcms.gov.uk. Your question and respective answer will be aggregated, anonymised and added to a public Q&A document unless commercially sensitive.
+
+
+
+
+
+      
+        
+    Published 2 July 2021
+    Last updated 26 August 2021
+      + show all updates
+      
+        
+            
+              26 August 2021
+              Updated Future RAN Competition - Q&A log.
+            
+            
+              17 August 2021
+              Updated Q&A log.
+            
+            
+              2 August 2021
+              Page update. Added Q&A.
+            
+            
+              2 July 2021
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        5G Testbeds and Trials Programme
+        UK G7 Presidency Statement: Digital and Tech
+        Future Tech Forum - Chairs Statement London
+        Future Tech Forum - Opening Keynote
+        Telecoms Diversification Taskforce: findings and report
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Communications and telecomms
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

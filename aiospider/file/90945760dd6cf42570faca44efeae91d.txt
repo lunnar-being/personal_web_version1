@@ -1,0 +1,91 @@
+    
+
+
+
+
+
+
+ yet are not seeing return on investment (ROI) from their care-management programs. Many payers have traditionally expressed more confidence in levers such as utilization management, payment integrity, or network to manage medical cost and boost revenue.The COVID-19 crisis, however, has created a need to reset the vision for payer care management to help payers respond to increased strain on member whole-person health, member concern about visiting common sites of care, and potential risk posed by COVID-19 in skilled nursing facilities. According to a recent , nearly 80 percent of respondents said that they have experienced distress related to COVID-19 and over 50 percent of respondents said that they have felt anxious or depressed over the past week, which may suggest a need for payers to better support whole-person health.
+
+
+ Additionally, while members are increasingly more comfortable returning to traditional sites of care, some are still not, which may require payers to support care at home for members who feel uncomfortable visiting facilities.
+
+
+ Furthermore, concern exists about the risk posed by COVID-19 for skilled nursing facility residents, which may create a need for payers to consider home health capabilities to support post-acute care or long-term care.Additionally, digital innovations, consumer insights, analytics capabilities, and new vendors have been creating new solutions in the care-management space. These new solutions may help some payers employ innovative strategies for care management.This paper will discuss next-generation actions that payers may consider to potentially improve the ROI of care management, while also ensuring a better, healthier experience for members. Although this paper is focused on payers, these actions can be relevant for other risk-bearing entities (for example, accountable care organizations and provider-led health plans).Next-generation care management
+        
+
+
+    
+    Many payers often think of care management as nurses connecting with members over the phone to manage a condition, such as diabetes, or to prevent an acute event, such as a readmission. We propose a more expansive definition of care management that involves any payer-driven efforts to engage with targeted members and their care ecosystems to encourage and enable high-value decisions (See Sidebar 1, “Definition of care management”). We offer four next-generation actions that payers may consider to potentially improve the ROI of their care-management programs, while also ensuring a better, healthier experience for members: (1) targeting multiple high-potential sources of value, (2) right-sizing care management, (3) engaging members in ways that consumer companies do, and (4) running care management with an operational mindset (Exhibit 1).
+
+
+ While some payers may be taking these actions and deploying next-generation care management, many others are not in our experience.
+
+
+
+    
+Based on our experience, through these actions, payers may be able to generate more than two-to-one (2:1+) ROI for care management, meaning that for every $1 invested there may be a $2 return, while also ensuring a better, healthier experience for members.
+
+
+ Payers may be able to do this by increasing the percent of medical cost targeted and the percent of members successfully engaged as well as operating more efficiently and reinvesting savings back into care management (Exhibit 2).
+    
+1. Target multiple high-potential sources of valuePayers can target sources of value that can be achieved while a member is still enrolled with their plan and broaden the sources of value that they target. They can also target the relevant sources of value for each member archetype.Exhibit 3, below, is a McKinsey framework that outlines comprehensive sources of value for payers across medical cost and revenue opportunities.
+    
+Payers work to obtain these sources of value with many levers, and the most successful payers potentially see two-to-five percent savings from care management.
+
+
+ In our experience, many payers capture less value than this range based on two major factors. First, many care-management programs do not target sources of value that can be achieved while a member is still enrolled with a plan. For example, many payers have wellness programs, which may result in value only by preventing a medical event many years after the member has left the plan. Other programs, especially complex case-management and transitions-of-care programs, may result in more immediate value. Second, payer care-management programs often have a narrow focus on preventing medical events. They fail to address other sources of value, such as helping members select the most clinically appropriate site of care or the highest-quality and most-efficient provider.
+		
+	
+Payer care-management programs can target several potential medical cost and revenue sources of value:
+Medical cost sources of value:
+
+Revenue sources of value:
+
+Exhibit 4, below, is a McKinsey framework that outlines example relevant sources of value for representative member archetypes (for example, members with specialty chronic conditions, members with primary care treatable conditions) enrolled in Medicare Advantage.
+    
+Certain sources of value may be more or less significant for different member archetypes and different lines of business (for example, Medicare Advantage, Commercial, Medicaid); even if certain sources are less significant, a payer might choose to pursue them, as these benefits can still be of value to the members. Payers often target the same source of value for all members identified for care management rather than target the specific needs of different member archetypes. For example, care management that may reduce preventable medical events can be helpful for members in Medicare Advantage who have had recent acute episodes. However, optimizing site of care, appropriate diagnosis, treatment, and management, and clinically appropriate and accurate coding, may be more relevant for members in Medicare Advantage with specialty chronic conditions. Payers may seek to evaluate their care-management portfolios against the relevant sources of value for different member archetypes. They may consider changing interventions that are not currently targeting sources of value for member archetypes and filling any gaps.
+    
+2. Potential to right-size care management to member need at a point in timeThe intensity of care management may be considered with the clinically inappropriate spend and needs of a targeted population. Payers can also consider ways to engage members when they are possibly more receptive to care management.Ideally, the intensity of care management (for example, the size and expertise of the care team, frequency of interaction, engagement modality, and duration of engagement) should be tailored to address clinically inappropriate spend and meet the needs of the targeted population. However, this focus is not what we see today. Instead, we see a focus on total spend rather than potentially clinically inappropriate spend. Moreover, the intensity of care-management interventions is generally not tailored to different levels of member needs.
+
+
+Having multiple care-management intensity options can help both higher- and lower-needs members receive adequate care. The highest-need members with higher clinically inappropriate medical spend (for example, members with multiple comorbidities and substantial clinically inappropriate inpatient/ED spend) may receive more intensive complex case management (for example, frequent interaction with a multidisciplinary care team, in-person and digital engagement, and six months or longer of engagement). Lower-needs members with lower clinically inappropriate medical spend (for example, a member with well-managed diabetes) may be candidates for lighter-touch digitally enabled condition management (for example, escalation to the member’s care team as needed and digitally enabled reminders and health coaching), while maintaining positive ROI.Importantly, this tailored approach can be deployed to address members’ needs while keeping potential or expected ROI in mind (Exhibit 5). For example, for each population, a payer can identify the total estimated clinically inappropriate spend and set a care-management budget to potentially deliver 2:1+ ROI.
+    
+
+		
+	
+Few payers engage members when they are most receptive to care management and when maximum cost-savings potential exists. For example, in Exhibit 5, members in the “highest risk” group may not be impactable at any time because they are asymptomatic or well managed and therefore unmotivated to engage in care management. To realize the full value of care management, payers may consider engaging members around “health inflection points,” such as a surgery or discharge from a hospital.3. Engage members as a consumer company doesPayers may better engage members by improving data sets to identify more potential members, enhance member contact information and leverage multiple channels to reach members, consider psychographic segmentation approaches to engage more members, and consider an “engagement first” approach to more successfully support member behavior change.Healthcare has been relatively slow to pick up consumer engagement trends, such as micro-targeting, personalization, and sticky engagement tactics, that are used in the technology and consumer sectors. As a result, and as we discussed in our article “,” payer care management can leave 90 percent or more of potential value “on the table” because payers are not able to engage the vast majority of members they identify for care management (Exhibit 6).
+
+
+ That said, boosting care-management performance is possible now more than ever with digital innovations, consumer insights, analytics capabilities, and vendors.
+    
+Payers often rely on historical claims data, which has a lag and does not fully represent member needs, for member identification. In one client example, a readmissions program relied on claims data and reached out to members several weeks after they had gone home from the hospital. At that point, the payer was likely no longer able to prevent a readmission by ensuring the member understood the discharge instructions, had the appropriate support at home, and had follow-up appointments scheduled. In our experience, some payers are starting to improve member identification for care management by using rich data sets, such as admissions, discharges, and transfers (ADT) feeds and utilization management prior authorization.
+
+
+Payers often have outdated contact information and rely on traditional methods of outreach, such as nurses trying to call members at home. In one example, we found a payer had 60 percent of member contact information missing or incorrect. One care manager at the payer recounted that she tried to call a member every day at the same time on his home phone number because that is the time his number would come up on her call list. Once she got his cell phone number and determined a good time to reach him, she started calling him at that time. To reach members successfully, payers may consider enhancing member contact information and leverage multiple channels (text, email, phone, in-person) to reach members based on their preferences.In our experience, payers typically see that around 50 percent of members who are contacted for care management opted not to enroll in the care-management program or left before completion of the program.
+
+
+ Segmenting members based on psychographic factors could help payers concentrate outreach on members who may be more receptive to care management and tailor communications to be more effective. Payers may have some of these capabilities in their marketing and sales organizations, which often segment customers by engagement level and purchasing behavior.
+        
+
+
+    
+    Changing behaviors first and foremost comes with keeping members engaged beyond the first conversation. Once the member is engaged, many payers shift immediately to behavior-change interventions (for example, quitting smoking, modifying diet) but do not incorporate incentives for the member to continue engaging. Payers may learn from other consumer-facing industries that take an “engagement first” approach by making sure the offering is both initially attractive and sticky to keep members coming back, at which point the behavior-change intervention can be delivered. Based on member interviews, some members are not clear what their care-management programs can do for them. Care managers can work to better understand unique member pain points (for example, understanding the condition, scheduling an appointment, finding transportation, coordinating across doctors), address them to earn the member’s engagement, and then provide coaching (Sidebar 2).
+    
+4. Run care management with an operational mindsetPayers may run care management with an operational mindset by setting clear operational metrics (for example, setting staffing ratios, case length expectations, and case graduation criteria; ensuring “top of license” practices; and digitizing and automating processes).Some payers, despite significant investment, are not certain about the ROI of their care management efforts. In our experience, a big range of ROI exists, even when the programs are delivering impact.
+
+
+ Most payers could consider a more disciplined approach to care-management investment and operations.In our experience, payers are often running care management without clear targets around operational metrics, such as clinically appropriate nurse staffing ratios, case lengths or expected reach, and engagement and graduation rates. Even with these standards in place, we often observe substantial variability in performance of those metrics among staff.
+
+
+ Payers can consider implementing appropriate performance-management approaches (for example, dashboards, performance dialogues) to help achieve operational standards.Payers often use clinical staff to perform all steps in the care-management process, including administrative tasks and member engagement duties that do not require a clinical license. As a result, a big portion of a clinical staff member’s time may be spent on non-member-facing tasks.Payers can consider non-clinical staff for tasks that do not require clinical licensure, such as initial outreach to members, health screens, and task coordination.
+        
+
+
+    
+    Payers often conduct many care-model processes manually (such as calling members, prioritizing cases, assigning cases to case managers, or filling out assessments with known data). They can make smart investments into digital technology and automation on appropriate tasks to minimize time spent by staff on manual tasks. For example, a payer can invest in robo-dialers to call members, automated algorithms to prioritize cases and assign them to case managers, and capabilities to automatically populate assessments with known data.
+        
+
+
+    
+    By creating a strategic plan that considers targeting multiple high-potential sources of value, right-sizing care management to member need at a point in time, engaging members the way a consumer company would, and running care management with an operational mindset, payers may improve the ROI on their care-management programs, while also ensuring a better, healthier experience for members (Sidebar 3). Realizing the potential of care management will be especially important as payers face financial headwinds and members face increased needs during and after the COVID-19 pandemic. The time for payers to act is now.

@@ -1,0 +1,27 @@
+
+	A self-proclaimed “map geek” is the first soldier to join the newest geospatial cell at an Illinois engineer command, and he wants to find more soldiers like him to join the team.
+	Army Master Sgt. Steve Lotz began his career 27 years ago as a field artilleryman, but he fits right in at the new geospatial cell established this year as part of a broader redesign and revalidation for the Army Reserve’s 416th Theater Engineer Command headquarters.
+	Lotz said he developed his appreciation for mapping through his father, a land surveyor who came to the United States from Germany in the 1950s. “So when I was a boy, I would actually go out on jobs with him and help him out with elevations and measuring,” he said.
+	
+	Even as a boy, Lotz said, he would collect highway maps given away at gas stations. And when his father died, he added, he inherited beautiful mountain-climbing maps made in the 1930s, all hand-drawn and incredibly detailed.
+	
+	“I was always fascinated by that -- looking at a map and knowing [where to go]. … When I was younger, I went to Europe. I could just look at a map and put it down, and I’d know where I’m going. I always wanted to know where I was going,” he said.
+	
+	Lotz, who lives in Arlington Heights, Illinois, holds a bachelor’s degree in geography from Northeastern Illinois University in Chicago and is working on a master’s degree in geographic information systems through Penn State Online.
+	Geospatial engineering today is an art and science that goes beyond two-dimensional maps, he said, explaining that it’s about more than physical terrain, land elevation or forest features. It takes into account every aspect of data that affects a piece of land, he said, no matter how big or small: population, culture, climate, flooding patterns, enemy presence, friendly force locations, safest routes for travel and much more.
+	“Now, we’re looking at a 3-D realm … on a screen,” Lotz said. “As geospatial analysts, we’re giving that commander a better view [of the battlefield],” he said.
+	The data for geospatial maps are gathered from a variety of sources, including open networks, military human intelligence, Defense Department systems and other security agencies.
+	
+	This not only helps the military fight the enemy, Lotz said, but also helps them decide where to set up bases and build infrastructure in the first place. It also comes in handy during peacekeeping operations or disaster relief missions. The theater engineer command comes into play under any of those scenarios, he added.
+	The two other main functions of an engineer command are “assured mobility” -- allowing movement to friendly forces while denying it to their enemies -- and “general engineering” -- the construction of everything in an operational theater, Lotz said. Geospatial engineering serves both of those functions by providing the intelligence needed to transform the military decision-making process into action, he explained.
+	“For us in the TEC, terrain analysis would be huge,” Lotz said. “You have to remember that the Earth changes -- terrain changes. To get that data up to date and get that analysis is very helpful to any commander, to any unit.”
+	Though the 416th TEC is part of the U.S. Army Reserve, it’s designed to operate as a joint task force headquarters, which allows it to command and control engineer assets and other services from every branch of the military in case of a deployment or mobilization.
+	“We are going to have the first eyes on everything,” Lotz said. “We are going to see it ahead of time what soldiers are going to have to face before they head in there. Nobody likes the unknown.”
+	
+	For such a big task, the geospatial cell is relatively small. Once it is fully operational, it will consist of just seven soldiers. Five of those slots are reserved for senior noncommissioned officers, and the other two are for warrant officers, but commissioned officers also are being considered.
+	Lotz shared some insight on who might best fill those roles.
+	“I’d look for a person who has a passion for it -- [who was], like me, a map geek growing up, and expresses some kind of interest and has a passion for it,” he said.
+	Other helpful tangibles are good attention to detail, a background in geography and mathematics, computer knowledge, and a good understanding of the military decision-making process, he said.
+	The military geospatial engineer course is 20 weeks long, and is taught at Fort Leonard Wood, Missouri. Most of that training takes place in the classroom, where soldiers learn basic knowledge of geographic information systems, geographic analysis and imagery interpretation.
+	Lotz is fully qualified because of his civilian education, but he’ll be going to the school soon to receive the military occupational specialty, which he said has grown over the years.
+	“When I started, it was throwing a map on the wall and overlays -- the acetate -- and putting post-it notes [and] pictures all over that map,” he said. “To see it escalate, to see where it is today, and the type of information you can grab and find out there, it’s pretty amazing.”

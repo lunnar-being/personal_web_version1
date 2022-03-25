@@ -1,0 +1,56 @@
+
+
+"Federal Service is Incredibly Fulfilling"
+Q&A with David Howell, HHS Biomedical Research Program Officer
+
+August 30, 2021
+Looking at the career of alum David Howell (cohort '03), it might seem like he was preparing for the SARS-CoV-2 pandemic since he graduated from Pardee RAND. In fact, because of the work he has done — first at the Department of Homeland Security and now at Health and Human Services — it is safe to say the United States is in a much better place than it might have been. 
+Dave is currently a program officer with the Biomedical Advanced Research and Development Authority (BARDA), a division of HHS under the Assistant Secretary for Preparedness and Response that provides an integrated, systematic approach to the development of the necessary vaccines, drugs, therapies, and diagnostic tools for public health medical emergencies. 
+Needless to say, he's been busy for the last year and a half.
+But, like so many Pardee RAND alumni, he's not too busy to speak with current students and fellow alumni to network and offer advice — he's even participating in a Career Services panel in October. Pardee RAND caught up with Dave recently to talk about his experience in the federal government, working on pandemic preparedness and response, and more. 
+You started your government career in 2009 as a Presidential Management Fellow at DHS and then transitioned to HHS when the fellowship ended. How did your Pardee RAND experience prepare you for these roles?
+
+
+“RAND and Pardee RAND gave me great experience in analysis for national security issues.”
+
+RAND and Pardee RAND gave me great experience in analysis for national security issues. It is critical for government agencies to make decisions and implement programs with a solid analytic basis. I had the opportunity to work closely with senior RAND researchers who formerly served as senior executives in the government. This gave me unique insights into how senior officials weighed strategic decisions. 
+What did you do (that you can tell us about!) during your two years as a Program Analyst/PMF at DHS?
+
+I joined DHS as a PMF in the Office of Program Analysis and Evaluation, conducting analysis to support resource allocation across the department. My focus areas were on science and technology and counterterrorism programs. I led an intradepartmental DHS team to assess terrorism risk assessments to seek ways to balance investments across several agencies in countering chemical, biological, radiological, and nuclear (CBRN) threats. 
+Sounds like that was good preparation for your next job, working for the Assistant Secretary for Preparedness and Response (ASPR) in the Office of Policy and Planning, Division of Medical Countermeasure Strategy and Requirements. Now, of course, everyone understands what you mean when you say you worked on "medical countermeasures for large scale public health emergencies." How did people react at the time?
+
+People often reacted like my job was to plan for things that, thankfully, don’t happen often. But they generally appreciated that we needed programs like ASPR and BARDA to protect against rare, high-consequence emergencies like CBRN terrorism and pandemics. 
+When I first joined ASPR, I worked with a team to establish an interagency process to determine how we should prioritize money to buy medical countermeasures for the Strategic National Stockpile. We developed a decision analysis tool that incorporated input from over 100 subject matter experts across HHS agencies and other departments.
+
+In a period of tight budgets, that sounds useful indeed! In 2015 you also coauthored the paper Assessing the Capacity of the US Health Care System to Use Additional Mechanical Ventilators During a Large-Scale Public Health Emergency. So... how have we done?
+
+As we’ve seen in COVID-19, our hospitals can quickly become overwhelmed. In that study we examined not just the medical countermeasures patients needed, but also all of the other things needed to effectively provide treatment — like hospital beds, doctors, nurses, ancillary medical supplies, etc. Hospital capacity and medical staff will continue to be a challenge during public health emergencies. However, we are developing medical countermeasure technologies that could be easier to use to prevent people from needing care in a hospital and reducing the burden on hospitals for the people they do need to care for. 
+In November 2019, you took a position in the program office of ASPR’s Biomedical Advanced Research and Development Authority (BARDA), which provides an integrated, systematic approach to the development of the necessary vaccines, drugs, therapies, and diagnostic tools for public health medical emergencies. That was, shall we say, timely. How has the job you’ve done compared to what you expected?
+
+
+“Despite working in this field for ten years, I never expected to be part of the response to an emergency of the scale of COVID-19.”
+
+Despite working in this field for ten years, I never expected to be part of the response to an emergency of the scale of COVID-19. Still, we understood what needed to be done to develop and field medical countermeasures to support the federal response. For example, BARDA recognized early in the response that we would need to expand manufacturing of needles and syringes, glass vials, and rubber stoppers to support a nationwide vaccine campaign. We worked with our industry partners to ensure those critical supplies didn’t pose a bottleneck in getting vaccines into arms. 
+The pace of activities throughout the response has been intense. 
+BARDA was already growing before the pandemic began, and it’s certainly grown a lot in the last 18 months. What are you doing now, and what do you hope to accomplish as the pandemic (knock on wood) recedes?
+
+Yes, in fact BARDA has had about a twentyfold increase in medical countermeasure development, manufacturing, and procurement investments.
+
+I’m currently leading development of our strategic plan and designing portfolio analysis processes for BARDA, both of which will guide how BARDA makes resource decisions. One of the key lessons from the COVID-19 pandemic is the importance of investing in a highly flexible portfolio. Since we can’t predict what the next public health emergency will be, we need to pursue technologies that can be rapidly adapted to address emerging threats. For example, BARDA established a partnership with ModernaTX, Inc. in 2016 to develop an mRNA-based vaccine against Zika virus. That set the stage for us to leverage that technology to develop an mRNA vaccine against COVID-19. 
+Before the pandemic, your focus at HHS was largely cost analysis for public health emergency preparedness. Of course, the fiscal floodgates opened with COVID-19 response, and cost analysis wasn’t exactly the top priority. How has your work changed in the last two years? And do you expect your focus to change again, or revert to “normal,” any time soon?
+
+We have received incredible support from Congress for funding to enable us to establish a robust COVID-19 medical countermeasure portfolio. Those resources meant, for example, we could pursue six COVID-19 vaccine candidates with the potential to provide at least 300 million doses of vaccine by last winter.
+
+
+“[Federal service] has given me the opportunity apply the analytic skills I built at RAND and Pardee to the operational edge of how the government implements programs.”
+
+As we come out of the pandemic, our focus will be finding additional ways to increase the speed at which we can develop medical countermeasures for unknown threats. In addition to having a portfolio of highly adaptable products, we will also be focused on ensuring manufacturing capabilities are ready to rapidly scale up production to meet needs during a large-scale public health emergency. 
+In general, how has the work you’ve done had an impact on America’s COVID-19 response? And how does it feel to know that you’ve played such an important role in protecting public health?
+
+As part of BARDA’s COVID-19 Incident Management Team, I led a team that managed resource allocation plans for supplemental funds. Since March 2020, BARDA has awarded over $40 billion in medical countermeasure development, manufacturing, and procurement. I’ve had to privilege to work with an amazing team of management, scientific, and technical staff within BARDA, across HHS and DoD. Many of BARDA’s key activities throughout the response are highlighted on our COVID-19 timeline. 
+What advice would you give students or alumni interested in entering government service or the field of public health preparedness?
+
+For Pardee RAND students interested in pursuing federal service, I would recommend considering programs like the Presidential Management Fellowship (PMF). The PMF program streamlines some of the cumbersome federal hiring processes and offers detail opportunities at other agencies.
+Federal service is incredibly fulfilling. You have a unique opportunity to drive programs that impact millions of people. Despite the frustrations that can come with serving in a large bureaucracy, you get to directly influence decisions. It has given me the opportunity apply the analytic skills I built at RAND and Pardee to the operational edge of how the government implements programs. 
+— Monica Hertzman
+

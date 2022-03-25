@@ -1,0 +1,349 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Ecological momentary assessment
+  
+
+  
+  
+  
+      
+  Using an ecological momentary assessment to evaluate your digital health product.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency
+
+      
+      Published
+      16 July 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          What to use it for
+
+        
+        
+          Pros
+
+        
+        
+          Cons
+
+        
+        
+          How to carry out ecological momentary assessment
+
+        
+        
+          Why might you use an EMA?
+
+        
+        
+          Example: exploring what factors increase engagement with an alcohol reduction app
+
+        
+        
+          More information and resources
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This guidance is part of a guide to evaluating digital health products.
+
+Digital technologies have made it possible to collect data in new ways. Ecological momentary assessments (EMAs) study people’s thoughts and behaviour in their daily lives by repeatedly collecting data in an individual’s normal environment, at or close to the time they carry out that behaviour.
+
+This can be done automatically by sensors or by notifications sent at prespecified intervals to prompt users to answer questions. This is often more accurate than older data collection methods that require people to recall their behaviour or feelings days, weeks or months later.
+
+EMAs are particularly useful for understanding changes in an individual (for example, changes in mood or alcohol consumption over time).
+
+EMAs can also bring together data from multiple participants to help you understand how individuals differ in their responses to a particular intervention (between-person processes). The use of EMA then provides a more in-depth understanding of the effect of your digital product or service.
+
+What to use it for
+
+You can use EMAs at any stage of the digital product or service development process to measure the outcomes of interest. For example, EMAs can be used:
+
+
+  during product development (formative or iterative evaluation)
+  once you have a product, to describe how well it works (summative evaluation)
+
+
+Whether EMAs are a suitable option will depend on:
+
+
+  what you want to find out (for example, do you expect the outcome you’re measuring to fluctuate over time)
+  how you want to measure it
+  how often you need to measure it
+  whether users are able to provide the data you need (for example, do they have access to a suitable device and are they available to complete surveys in response to multiple prompts)
+
+
+Read more information on deciding what outcomes to measure.
+
+Pros
+
+The benefits of an EMA include:
+
+
+  it reduces the problem of users having to remember how they felt or what they did (recall bias), because you are asking them in the moment – so data tend to be more accurate
+  it is usually an efficient and easy way for you to collect the data once it is set up
+  you often need fewer participants than you would in a traditional survey study, as each participant provides data several times
+
+
+Cons
+
+The drawbacks of an EMA include:
+
+
+  it can be annoying for participants if the EMA needs them to input substantial information frequently
+  you might end up with significant missing data
+  you need specific skills to analyse EMA data
+
+
+How to carry out ecological momentary assessment
+
+EMAs can collect data automatically (passive data collection) or using self-report by the user (active data collection).
+
+If you have a digital product that makes use of motion sensors, GPS or usage data, you are already collecting EMA data. For example, usage data, such as the number of logins, is a type of automatically-collected measure of user engagement, with multiple measurements over time in users’ daily lives. Read more about data collection through digital technology.
+
+Why might you use an EMA?
+
+For example, if you want to measure physical activity, you could ask your participants to fill in a weekly questionnaire of how much physical activity they have undertaken. People tend to overestimate their physical activity and underestimate their calorie intake, so the results will probably not be accurate. You can use EMAs instead.
+
+You could send prompts to the user’s mobile 3 times (or more) a day, asking them at each assessment how much physical activity they have completed since the last prompt. It is more likely that they will recall their activity levels more accurately.
+
+There are different ways of delivering EMAs (sampling methods):
+
+
+  event-contingent sampling – participants are asked to record information during or after a specific event, such as immediately after they used your app
+  interval-contingent sampling – participants are sent a prompt to complete a survey at specific times, for example, at 9am and 9pm every day for 30 days
+  signal-contingent sampling – participants are prompted to answer some questions at random times
+
+
+You could also use motion sensors to assess physical activity without any conscious input from the user. Automatically-collected data can reduce participant burden and tends to be more accurate, so it is important to consider this when designing your evaluation.
+
+As EMAs involve the collection of multiple data points over time for a single individual, data tend to be analysed using correlational, hierarchical, multilevel or time series analysis.
+
+Example: exploring what factors increase engagement with an alcohol reduction app
+
+Perski and colleagues (2019), ‘Do daily fluctuations in psychological and app-related variables predict engagement with an alcohol reduction app? A series of N-of-1 studies’.
+
+Researchers wanted to investigate what factors promote user engagement with an alcohol reduction app and if different factors are important for different individuals.
+
+They had previously conducted a randomised controlled trial, which found that some variables seemed to predict higher engagement with the app at the group level. They used EMAs to gain a more in-depth picture of the influences on user engagement.
+
+Passive and active data collection were used. The main outcome was daily behavioural engagement with the app, defined as the daily frequency of logins and time spent per login. Researchers also thought that the subjective experience of engagement (for example, attention, enjoyment, interest) was important, but had to balance the data collected with the burden on participants. They decided only to collect data on behavioural engagement as this could be measured automatically via the app.
+
+The predictors of higher engagement with the app, collected via brief text message surveys, were:
+
+
+  motivation to reduce alcohol consumption
+  perceived usefulness of the app
+  alcohol consumption
+  perceived lack of time
+
+
+Users could choose whether to receive a daily reminder to engage with the app. If they chose this, the timing of the reminder was also taken into account as a potential driver of momentary app engagement.
+
+The team conducted a power analysis and worked out how many EMAs were required (sampling frequency). It was estimated they needed at least 2 EMAs per day for each participant (morning and evening) over 28 days (56 data points per individual) to detect an effect of how useful someone perceives the app to be when they engage with it. Nine participants took part in the study.
+
+The results showed that, for some participants, perceived usefulness of the app or motivation to cut down on drinking was a key predictor of engagement. This means that, at times when participants rated the app’s usefulness or their motivation to cut down as greater than usual, they were more likely to engage with the app or spend more time on it.
+
+Similarities were found across participants, but some predictors were only important for specific individuals. For example, the reminder predicted engagement with the app for some, but not all, participants who had selected to receive reminders. The authors interpreted the findings as suggesting that different users are likely to benefit from different strategies to help promote engagement with the app.
+
+More information and resources
+
+‘Ecological momentary assessment’. An overview of EMA, including different designs and practical issues to consider.
+
+Dunton (2018), ‘Ecological momentary assessment in physical activity research’. This article explains the benefits of using EMA to assess the effects of an intervention. It focuses on physical activity but also applies to different outcomes.
+
+Shatte and Teague (2020), ‘Schema: an open-source, distributed mobile platform for deploying mhealth research tools and interventions’. This resource introduces an open-source, app-based platform that can be used to set up EMA.
+
+Examples of Ecological Momentary Assessment in digital health
+
+Wahl and others (2020), ‘Why we eat what we eat: assessing dispositional and in-the-moment eating motives by using ecological momentary assessment’. EMA was used to explore the motives for consuming food in-the-moment, which are not captured when assessed by traditional survey methods.
+
+Liu and Lou (2018), ‘Developing a smartphone-based ecological momentary assessment protocol to collect biopsychosocial data with community-dwelling late-middle-aged and older adults’. This study reports on the development and testing of phone-based EMA protocol assessing various measures: EEG, daily activities, emotions.
+
+Huckins and others (2020), ‘Mental health and behavior during the early phases of the COVID-19 pandemic: a longitudinal mobile smartphone and ecological momentary assessment study in college students’. The authors assessed mental health and behaviours during the COVID-19 pandemic using EMA, and compared them with data from a previous, pre-pandemic term.
+
+
+
+
+
+      
+        
+    Published 16 July 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Interrupted time series study
+        Factorial randomised controlled trial: comparative studies
+        Mixed methods study
+        Before-and-after study: comparative studies
+        Feasibility study
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Evaluating digital health products
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Health improvement
+        Research, testing and standards
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

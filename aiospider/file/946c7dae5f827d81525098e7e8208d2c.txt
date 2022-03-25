@@ -1,0 +1,92 @@
+
+    
+    
+
+        
+        
+        
+    is projected to reach ten billion by 2050.
+
+
+ This will require a 56 percent increase in food production from 2010 levels,
+
+
+ but studies have warned that agricultural production worldwide will have trouble meeting this additional demand for food.
+
+
+ Challenges include constraints on crop yields due to decreasing marginal productivity gains, soil degradation, extreme weather events, soil-nutrient deficiencies, and increased pestilence.
+
+
+
+        
+
+
+    
+    Despite increasing pressures on food supply, about one-third of the total food produced for human consumption is wasted.
+
+
+ More than 40 percent of this loss occurs throughout commodity supply chains at the postharvest level (between harvest and the consumer) in many developing economies, including those in Africa, Asia, and Latin America.
+
+
+ In response to these losses, some regions have set ambitious targets to reduce this waste. For example, member states of the African Union have pledged to halve postharvest food losses by 2025.
+
+
+Reducing postharvest grain loss could lead to a virtual land gain equivalent to three times the cropland area of France. In this article, we discuss the extent of postharvest losses around the world and propose steps stakeholders could take to reduce waste. Such measures could lead to cost savings for grain-trading companies, as well as to potential land gains for countries at a high risk of grain loss.Sizing the crop losses
+	
+While postharvest losses affect all major crops, including fruits, vegetables, and pulses, losses in rice, wheat, and other cereal grains—which account for 70 percent of all calories consumed
+
+
+—are particularly striking. For instance, one study estimated that up to 400 million metric tons of grain, or 20 percent of global grain production, were lost in 2018.
+
+
+In Malawi, 20 percent of maize grain was lost after harvest in 2015, equivalent to 550,000 tons of maize and worth $150 million.
+
+
+ For smallholder farmers in Asia, rice postproduction processes from harvesting to milling are estimated to incur losses of 20 to 30 percent of the rice grain produced.
+
+
+ In the Arab world, 30 percent of cereal production is lost between production and consumption, with one study estimating that 34 percent of the total wheat supply in Jordan is lost, costing the country more than $100 million per year.
+
+
+ In Brazil, postharvest grain losses are estimated to range from 5 to
+30 percent, mainly driven by poor storage conditions.
+
+
+ Globally, we estimate that the value of lost grain may be worth up to $60 billion.A key challenge in reducing grain losses is that the magnitude of postharvest grain loss varies significantly depending on factors such as geographic location, climate, and the prevalence of pests. Moreover, the severity of losses varies at different stages of the supply chain, complicating the adoption of a unified approach to the issue (Exhibit 1). In Peru, for instance, where postharvest losses are estimated to be between 15 and 27 percent, 90 percent of farmers dry their crops in the field, directly on the ground, which exposes them to rodents, birds, and insects.
+
+
+ Meanwhile, in Thailand, where an estimated 19 percent of cereal grain is lost, the largest fraction of wastage occurs during handling and storage.
+
+
+
+    
+Given the scale of global postharvest losses, reducing waste after harvest could simultaneously boost agricultural output and “save” land (given that eliminating waste means that less land would be required to produce the same amount of grain). Land savings may be especially important given that global arable land per capita has decreased by 48 percent between 1960 and 2020.
+
+
+ We find that reducing global postharvest grain losses (in wheat, rice, maize, barley, oats, rye, and millet) by 75 percent could result in gains equivalent to approximately three times the cropland area of France. Southeast Asia, western Africa, and southern Asia may see the largest potential land gains, saving 6.5 percent, 3.8 percent, and
+3.7 percent of the total cropland area of those regions, respectively (Exhibit 2).
+    
+How to tackle postharvest grain lossA number of approaches and technologies—both traditional and more advanced—could be deployed to capture this potential land gain. Each has pros and cons depending on the type of grain and the supply-chain context (Exhibit 3). For instance, at the grain-harvesting stage, technologies such as mechanical reapers may be more effective at reducing losses, while at the grain-drying stage, mechanical drying may have the highest impact.
+    
+The long-term adoption of these technologies in emerging markets may depend on a range of external social, economic, and institutional factors.
+
+
+ For instance, for hermetic grain-storage silos to reduce postharvest losses in the long run, a market-driven supply chain for metal silo components—including suppliers, manufacturers, retailers, and repair services—may be necessary for sustained adoption of the technology.Although there are many angles from which to address postharvest losses, grain losses attributable to temperature and humidity may be one of the key areas to tackle to reduce overall waste. One research team reviewed 300 studies of postharvest loss-reduction interventions in 57 countries between 1970 to 2019.
+
+
+ It found that research on storage-technology interventions accounted for 83 percent of the studies. Regulating temperature and moisture at the storage level may be especially important, since much of global grain spoilage occurs at this stage due to the influence of these factors on safe storage time (Exhibit 4).
+    
+One potential approach for reducing humidity-related grain loss is to implement a global “dry chain,” according to Dr. Kent J. Bradford, distinguished professor emeritus and former director of the Seed Biotechnology Center at the University of California, Davis.
+
+
+ The dry chain refers to the initial dehydration of grain to levels that prevent fungal growth, followed by storage in moisture-proof containers.
+
+
+ The concept is analogous to the cold chain, which maintains the quality of fresh produce through continuous refrigeration.Some of the practical, low-cost solutions that could be deployed across the dry chain, according to Bradford, include disposable paper swabs that allow farmers to instantly test grain humidity; oxygen-impermeable “dry bags” that store grain in zero-oxygen conditions to force fungi to consume the available oxygen and die, causing no further damage to the grain; and reusable aluminum silicate desiccant beads that, when placed in an enclosed container, remove water to maintain
+a low-humidity environment.In addition to low-tech solutions, the Internet of Things (IoT) and other sophisticated technologies are being used to tackle grain loss and quality issues. TeleSense, an IoT grain-monitoring start-up, recently secured $10 million in funding from a consortium of agriculture-technology investors. TeleSense’s IoT sensors and app work in tandem to continuously monitor grain and send automatic alerts to users, mitigating spoilage and insect infestation. According to Naeem Zafar, CEO of TeleSense, IoT-based monitoring can lead to significant cost savings from prevented grain spoilage across use cases involving storage monitoring, shipping, and grain-merchandising optimization based on real-time tracking of grain quality.
+
+
+Larger agriculture players including Ag Growth International (AGI) have also invested in solutions to monitor grain silos using the IoT. Tim Close, the CEO of AGI, emphasized that grain monitoring might help insurance companies simplify claims complications and eliminate the need for physical adjudication.
+
+
+ Moreover, the IoT may enable food-processing and brewing corporations to take greater control of their supply chains to guarantee that grain quality has been preserved via proper temperature and humidity conditions.The global food supply is facing increased pressure from rising populations, soil degradation, extreme weather events, and other factors. In parallel, large quantities of cereal grain are being lost across the supply chain between harvest and consumption, particularly during storage. These postharvest losses could be addressed through a combination of low-cost technologies such as desiccant beads and more sophisticated solutions involving the IoT, provided that the right conditions are in place for their sustained adoption.

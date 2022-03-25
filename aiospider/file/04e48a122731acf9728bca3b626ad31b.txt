@@ -1,0 +1,58 @@
+
+
+Initiative on System Transformation
+Illustration by gremlin / Getty Images
+
+The Initiative on System Transformation (IST) is focused on developing concepts, strategies, and practical tools for dealing with systemic problems of justice, health, education, international security and prosperity, the economy, and other complex social systems. It does this by identifying and raising key issues, exploring tools from a range of disciplines, and working with colleagues and collaborators to contribute toward a community of practice. 
+
+This initiative is co-sponsored by the Pardee Center, RAND Global Research Talent, Tech + Narrative Lab, and RAND Center to Advance Racial Equity Policy.
+
+See related RAND work in robust decision making, complex systems analysis, and transformational system change, below. Redesigning Systems for the Public Good
+
+Many of today’s most pressing policy challenges—from improving health and well-being, to more inclusive economic growth, responding to climate change, or effective national defense—require understanding, managing, and shaping complex adaptive systems (CAS).
+
+ Complexity is an increasingly salient feature in society. Failing to account for complexity can result in policy interventions that don’t work, or are counter-productive and harmful. Policy researchers now have expanding capabilities for recognizing and dealing with complexity, from how problems are structured to analytic tools and methodologies accounting for large amounts of data, interconnectedness, and systemic uncertainty.
+By combining these new tools with RAND's history in systems analysis, researchers are pushing beyond prior constraints to address critical problems by improving the design of complex systems. Transforming Systems Through Adaptive Approaches 
+Redesigning complex systems requires a multi-faceted, adaptive process that progresses incrementally toward a set of system objectives. The figure below outlines a collection of tools and methodological approaches that are reinforcing and complementary. Capabilities for System Transformation
+
+Vision and Broad Objectives
+These provide the direction for a systems progression. Research, design studios, or stakeholder engagement can be used to identify the vision for the future and the role a system might play. After beginning with broad objectives and identifying outcomes of interest and measures, additional objectives may be added as issues are better understood.
+
+Research and Synthesis
+
+These provide scientific support for the system change process. This begins with clarifying a vision for the system and identifying desired outcomes and measures to track progress. Research from a range of disciplines and modalities can enable insights into system behaviors and problems. As the system becomes better understood, stakeholders are engaged, interventions are designed and tested, and findings synthesized into the research process.
+
+Design
+
+Proposals for new system structures, and interventions to current systems, need to be designed. One tool, Pardee RAND Policy Design and Action Studios draws on the methods and practice of multi-disciplinary architecture studios integrated with the principles of complexity science and the practice of policy analysis and design. Design studios generate ideas and design mechanisms for steering change, and can lead to the prototyping of new tools or tactical interventions. Another tool, the Pardee RAND Tech and Narrative Lab (TNL), uses new and emerging technologies to study policy problems.
+
+Engaging Stakeholders and Immersion In a System
+
+Stakeholder-based approaches to learning, developing strategy, and modeling change enable broader understanding of the “systems” view among stakeholders. The process may include two-way learning, as data and information about a system and its context are provided to the participants, who provide their own local expertise.
+
+Adaptive Experiments
+
+An adaptive experiment is a portfolio of small to large interventions in a system, conducted in stages, engaging a variety of partners, and changing in response to feedback. Clear experimental designs should be based on the goal development process to ensure that experiments are pursuing, testing, supporting the right system objectives.
+
+
+Each of these areas are mutually connecting. Research provides inputs into the process of design, which generates ideas and focus for further research. The research and design processes benefit from immersion in a system and from stakeholder expertise. The design of experiments is informed by research, and can arise from studios. The process is ongoing, iterative, and evolves as the system adapts.
+
+RAND Research in System Transformation
+RAND has multiple projects in adaptive system change under way. 
+
+/content/rand/well-being/portfolios/system-transformation/jcr:content/par/teaserlist
+
+
+
+RAND Center to Advance Racial Equity PolicyHow can we change structures that lead to systemic racism? RAND's new research center dedicated to racial equity supports a portfolio of innovative, high-impact racial equity research and analysis, creates a clearinghouse to help coordinate related efforts, and collaborates with organizations dedicated to advancing racial equity. 
+
+
+Advancing Robust Climate StrategyHow can robust and flexible strategies help manage climate risks over a wide range of scenarios? Global strategy in response to a changing climate requires going beyond commonly used risk management tools and approaches. RAND’s work on climate adaptation and mitigation applies Robust Decision Making to issues of climate response.
+
+
+Transitioning to a System of HealthHow can the fragmented healthcare, public health, and social service systems be integrated to form a system that generates health, rather than focusing on treating people after they’ve gotten sick? RAND is employing design studios, analysis, and convening to identify the key components for, and design of, a system of health.
+
+
+Rooted in RAND's History
+Creative design and assessment of new systems has a long history at RAND, originally with systems analysis in the 1950s and 1960s, and then some aspects of what has come to be known as policy analysis. Policy design for complex systems requires a renewed sense of innovation in the field, and RAND is contributing to this through its work with sponsors and a redesign of graduate education. 
+

@@ -1,0 +1,127 @@
+
+        
+        
+        
+     human capital as wisely as financial capital.” This is the exhortation of the influential business book Talent Wins.
+
+
+ As the authors argue, talent is a critical business input—and companies should deploy analytical rigour to assess, segment, invest in and reallocate human capital, just as they would with financial capital.In this article, we present the findings of our analysis of talent in the United Kingdom, and show that there is a strong economic case for reskilling current employees or promising new hires. We define reskilling in a broad sense, including both upskilling—advancing workers’ current skills—and retraining, the provision of new skills to enable a change in role.
+	
+Our research shows that, for UK employers, reskilling would yield positive economic returns in about three-quarters of cases. Our analysis also reveals that, if workers are to realise the full benefits of reskilling over the next decade, more than 90 percent of the UK workforce will need to be trained. Yet reality currently falls short of potential: according to a UK government survey, 62 percent of workers received workplace training in 2017.
+
+
+ This figure includes training related to health and safety or the induction of new employees.Over recent years, trends such as digitisation have widened the skills gap—the distance between actual and required skills—in UK organisations. The COVID-19 crisis is extending this gap, making more urgent the question of how to bridge it. But pioneering companies are already pointing the way to solutions, adopting bold approaches to manage human capital more strategically. As we show in this article, there are clear practices that employers can adopt to drive effective reskilling. These include conducting strategic workforce planning to determine the skills gap in an organisation, improving training options for employees and fostering a culture of lifelong learning.How reskilling can create economic value for employersWe find that effective reskilling tends to bring a productivity uplift of 6 to 12 percent. Our analysis also suggests that virtually every UK worker needs reskilling: about 30.5 million UK workers (94 percent of today’s workforce) lack the full suite of skills they will require in 2030 to perform their jobs well. Among these workers, 25.5 million would benefit from upskilling, and a further five million require retraining. The good news is that about 75 percent of the reskilling cases make economic sense for UK employers.
+
+
+ As Exhibit 1 shows, 43 percent of all reskilling cases would yield payoffs from upskilling employees in large enterprises and, in a further 30 percent of reskilling cases, small and medium-sized enterprises would receive a net benefit from upskilling their workers.
+    
+In only about 25 percent of cases where reskilling is needed, employers would not profit from reskilling their workers. However, even in this minority of cases, employers can still enjoy benefits if reskilling costs are complemented by state support, driven by the social desirability of reskilling.
+
+
+Clearly, when employers require new or more advanced skills, and inaction would erode their competitive advantage, reskilling beats doing nothing. But why reskill long-standing or new workers rather than hiring or contracting people who already have the required skills? Reskilling offers powerful benefits over hiring for skills:
+     Employers entering the labour market for expert new hires are likely to be competing with other companies for scarce skills. Nine out of ten UK employers are struggling to recruit the skills they need, and sought-after skills tend to attract a premium; on average, external hires are paid about 20 percent more than reskilled workers.
+
+
+ In the , particularly, demand has long outstripped supply; for instance, requirements for agile skills are four times greater than the number of people available for these roles. Further competition in sought-after positions can be anticipated: McKinsey’s recent survey of UK executives finds that about 80 percent expect to hire more people in tech and automation roles such as digital customer experience, AI and robotics, cloud computing and cyber security. In the field of health and safety, about 96 percent of executives expect to increase hiring for roles including contact tracing and sanitising.
+
+
+
+     New employees require inculcation into the workplace. This process, ranging from regulatory compliance to familiarisation with workplace procedures and culture, consumes time and effort, and employees’ effectiveness can be limited for a long period: on average, new hires perform at a lower level for their first two years on the job.
+
+
+ By contrast, reskilling current employees avoids this issue, as they already have significant workplace knowledge and networks.
+     Employers aiming to increase workforce diversity for certain roles may feel that traditional routes are not producing enough suitable candidates, and that they can increase their options by fishing in new talent pools. This could involve reskilling their own employees who are currently in other roles, or taking on promising new employees who are ready to be upskilled, as the examples below illustrate.
+     Learning precious new skills is a powerful source of motivation for employees: skills training is the number-one choice of prospective employees when choosing what makes a great employer, and 94 percent of employees say they would stay at a company longer if it invested in their career development.
+
+
+ Such appreciation may be expressed in ways that bring benefits to employers, including high engagement and productivity in the new role, and contribution to workplace morale. These conditions help to promote a virtuous cycle: when a workplace values its talent, it attracts more talent. In addition, if employees’ skills have become obsolete, reskilling reduces the need for retrenchments, thus avoiding a fall in workplace morale.
+Some UK employers have met the challenge to redeploy and reskill creatively, instead of reducing the size of their workforce. A partnership between trade body Airlines UK and social-care company Cera includes a scheme to reskill 1,000 cabin crew in the sought-after role of carers. Though the roles are in different industries, their similarities permit reskilling to be as short as ten days.
+
+
+ London-based financial training firm Amplify has provided airline pilots with practical training in managing an investment portfolio, on the hypothesis that their “discipline, control, process and self-awareness” give them an edge.
+
+
+ And the supermarket chain Tesco met heightened demand for online sales by hiring and reskilling more than 45,000 workers, such as furloughed pub workers, over two weeks in March to April 2020.
+
+
+ In August, Tesco announced its intention to employ more than 16,000 of its extra workers permanently.
+
+
+Why employers hesitate as the skills gap growsEven prior to the COVID-19 crisis, it was clear that profound structural shifts lay ahead for the United Kingdom. The use of technology, including digitisation and automation, as well as other global megatrends such as ageing populations, are radically reshaping employers’ skills needs.  showed that the demand for occupations such as managers, technology specialists and health professionals could rise by nearly 20 percent by 2030, while the demand for administrative and manual roles could decline just as steeply. . In a recent McKinsey survey, more than 60 percent of UK firms reported that digitisation of customer channels had accelerated since the start of the COVID-19 outbreak, and about 80 percent of UK executives reported accelerated digitisation of employee interaction and collaboration.
+
+
+UK companies will need to respond to current trends by transitioning a large part of their workforce into new roles or skill levels over the next decade. Without concerted action by employers, , while more than ten million people could be underskilled in leadership, communication, and decision making.Skills already in shortage, such as those needed in e-commerce and supply-chain analytics, are likely to face higher demand not just in the crisis but over the long term. Moreover, many low-skilled jobs displaced in the crisis may never come back. McKinsey analysis shows that the pandemic has polarised the UK job market, pushing some occupations more deeply into oversupply (Exhibit 2).
+    
+On a societal level, the confluence of COVID-19 and long-term workforce trends could put the United Kingdom’s most vulnerable demographics at further risk. For example, part-time workers make up 24 percent of the United Kingdom’s workforce, but account for 35 percent of jobs at risk during the COVID-19 crisis. , and young women face the greatest jobs risk of all age and gender groups, partly because of their high representation in jobs such as sales and retail assistants, receptionists, and waiters.In addition, regional dominance and disadvantage are set to be consolidated: while regions with strong employment growth, such as London, are expected to continue to enjoy growth, those regions that have struggled economically, like Northern Ireland, may face further difficulty. Unless imaginative action is taken, many workers could face a vicious cycle involving loss of jobs or income and reduced access to skills-building; many of the occupations most likely to see shrinking demand have low rates of workforce training.Despite these forces pointing to acute skills shortages, the current UK reskilling landscape falls short of its high potential. According to the UK government, 62 percent of employees received training in 2017.
+
+
+ This amounts to about two-thirds of the potential for the period until 2030, according to our analysis. For 43 percent of workers in small to medium enterprises, there is no training at all.
+
+
+ And in the lowest socioeconomic group, 49 percent of people have received no training since graduating from high school.
+
+
+Given the scale of the challenge, what stands in the way of scaling up reskilling? Our discussions with employers across sectors of the UK economy point to several significant barriers.The first is lack of clarity about the skills gap. Employers may be uncertain about the gap between current capabilities and skills that the company requires. Such an understanding calls for a full grasp of employees’ skills, as well as detailed insight into the capacities required to meet challenges and opportunities in the enterprise, the industry and the economy. This can be difficult for small businesses, as the analysis may require more time and effort than they can easily spare. It may also be a challenge for large enterprises, because of the scale and scope of their operations and aspirations. Moreover, in some big organisations, the responsibility of reflecting on skills is devolved to smaller units, each lacking the resources to create a holistic view of current and required capabilities. In an interview with McKinsey, a senior official at one traditional UK institution noted that the individual administrative units are “miles off” from a mature skills analysis.A further barrier is concern about the costs of reskilling. Among the UK employers we surveyed, many managers said costs were a key reason why they were not investing in training. For small enterprises in particular, the costs can be considerable, including a salary for internal trainers or fees to external trainers, the opportunity cost of losing labour for the duration of training, and the expense of managing and administering training.Additional barriers include the following:
+     Faced with a potentially complex and non-transparent array of training offerings, employers may not know which training—or indeed, whether any training—will suit their needs.
+     Employers might regard learning as apt for an early stage of life, prior to entering a career, rather than embracing lifelong learning as a fruitful way to deal with a changing economy.
+How to translate reskilling into returns: Three steps for employersOur review of global best practice indicates that organisations enjoy successful reskilling by undertaking three steps: conducting strategic workforce planning; improving the training offer; and creating a strong learning environment, in both business processes and mindset.Step 1: Conduct strategic workforce planningStrategic workforce planning involves letting an organisation’s long-term needs drive its skills requirements, comparing these requirements to current skills and determining the best way to bridge the gap. To conduct strategic workforce planning, employers can follow this approach:
+     Reskilling is not isolated from long-term strategic considerations: strategy should drive skills requirements.
+     Here, employers formulate the talent plan that will deliver on the business plan. It needs to be granular and quantified, stating the different types of roles required and the skills needed from employees in each of those roles.
+     Once an employer has established the demand for skills, the next move is to determine supply by performing a skills audit. It is important to use capability-based assessments, which may deviate from formal qualifications. For instance, while 92 percent of talent professionals say that soft skills matter as much as or more than hard skills, 57 percent find it difficult to assess soft skills accurately.
+
+
+ Capability-based assessments can deal directly with this challenge. A skills audit can also include the capacity to learn at pace, which is important for reskilling to be successful.
+     Exhibit 3 depicts an example of such an analysis for a business unit in a consumer services company. Calculating the skills gap calls for close investigation of the specific bundle of skills required in a role. While jobs with similar-sounding titles may call for different skills, jobs that seem quite distinct might have deep similarities. For example, one former cabin-crew member trained by Cera remarked that she had entered her new position as a carer already accustomed to a customer-facing working day, and to identifying and assisting with medical emergencies.
+
+
+
+     How best to close the skills gap depends partially on how close current skills are to requirements, the “adjacency” between them. Exhibit 4 shows the various levers of action available to employers, based on the degree of adjacency.
+
+    
+
+    
+Step 2: Improve the training offerThere is much potential to improve reskilling: about 50 percent of HR and learning managers admit to not delivering the right training for employees to fulfil their potential in the role.
+
+
+ And, much of the time, reskilling ineffectiveness is due to poor upfront engagement and poor sustainment afterwards.To improve the training offer, employers can measure the impact of their training and rely on economy-wide insights, use reskilling that is tailored, on the job and modular, and partner with suitable skills providers and other organisations. Specific steps include the following:
+     Employers can prioritise impact measurement, tracking unit and individual metrics to measure the effect of training on performance, and ultimately the return on investment (ROI) of training. Many organisations do not monitor the ROI of training, which means that they do not know how effective their training is, or how to improve it.
+     Employers can use insights from economy-wide analysis performed by government or academia to understand demand and supply drivers in the labour market. This will provide employers with salient and reliable information to support their decisions on worker segments and their recommendations for transitions.
+     Employers may tailor the training to the type of skills, the kind of gap and the workforce segment. Organisations would do well to consider all aspects and modes of training, such as reinforcement, immersive experiences, social learning, and collaboration.
+     Given that the average employee has less than half an hour a week for formal learning, employers can benefit by incorporating on-demand learning and on-the-job training.
+
+
+
+     A powerful mode of learning is modular, bite-sized training. On average, this is almost 30 percent cheaper than learning delivered in a single aggregation of topics, fits more easily into employer schedules and delivers almost twice the ROI of the more traditional approach.
+
+
+
+     Employers may be able to enhance ROI by partnering with skills providers, other employers, non-profit organisations and the government.
+Bold approaches to reskilling: Lessons from pioneering employersSome organisations are leading the way in smart and far-sighted reskilling. Emilie Joubert, Vice President Human Resources Europe for the multinational personal-care-products company Beiersdorf, has noted in an interview with McKinsey that the company was already enhancing capabilities across the organisation before the COVID-19 crisis. Nowadays, she pointed out, “a cosmetics business is a digital business too”.Beiersdorf aims to be “digital with a human touch”, and identifies employees eager to take on special roles, such as “digital ninjas”, who serve as digital ambassadors for their teams. Given the magnitude of the transformation required, hiring the required number of specialists from outside is simply not a pragmatic option. Across its business, the company has uncovered “sleeping beauties”: people who may traditionally have been less energised by change, but who now relish the opportunity to discuss their ideas for digital innovations.Joubert remarked on the importance of bite-sized learning opportunities to account for different learning styles and needs. For instance, Beiersdorf’s programme “Europe goes Digital” offers a range of learning formats for digital skills—such as white papers, podcasts, webinars, video links, slides and events—from in-house or external experts.Nationwide Building Society has invested £1.3 billion into a Technology Development Programme, partnering with tech-skill training company QA Talent to reskill and deploy bright candidates who want to kickstart their careers in IT at Nationwide.
+
+
+ Trainees coming through the pipeline are a mixture of transfers from across the business and new hires.
+
+
+At Nationwide, reskilling follows a Recruit, Train, Deploy model. Candidates are recruited through face-to-face interviews, AI screenings and technical assessments.
+
+
+ They receive an initial intensive 12-week bootcamp, where they learn skills to make them work-ready for specific roles.
+
+
+ In one to two years, candidates graduate from the programme, and are deployed in roles across Nationwide.
+
+
+ This not only allows for seamless on-boarding, but also removes the risks of employment liabilities, as QA Talent employs these tech specialists during deployment.
+
+
+In the US state of Virginia, the Virginia Ready Initiative has responded to the COVID-19 crisis by working with companies in industries, which include manufacturing, healthcare and technology, mapping their demand for occupations, and partnering with community colleges across the state to design credentialled programmes that develop the necessary skills.  between businesses and community colleges, producing curricula that evolve dynamically to meet current needs. VA Ready aims to retrain 10,000 to 15,000 unemployed people in two years—and, within two weeks of its launch, 10,000 people had come to the website, and more than 1,000 had started the process.Step 3: Foster a culture of lifelong learningA skills transformation is a complex process, and employers can improve their chance of success by focusing on workers, managers and metrics as follows:
+     Many workers fear that admitting they have a training need will reveal performance issues. This means they may not opt in to training even if they know they need it. In consequence, it helps to make skills training the default, with the possibility to opt out if workers’ skills are sufficiently advanced.
+     Workers may be willing to train, but not know where to look, or be put off by long bureaucratic processes. Employers can ensure that options for training are easily accessible, and should work with providers to make the employees’ user journey compelling.
+     In addition, many workers will not buy into training unless they understand why there is a need for it, and to which specific goals it will contribute. It therefore makes sense for employers to show that reskilling is a business priority that will help their careers.
+     In order to motivate managers to drive effective reskilling, they may be evaluated not only on the performance of the business, but also on the performance of their people. Managers’ training can emphasise the importance of building team members’ skills and provide guidance on how best to deliver reskilling.
+     Workers often feel unsupported in training, and fear failure. Leaders and managers can serve as role models for learning, actively participating in training, and communicating personal challenges and failures along the way.  where leaders model the change themselves are more than four times more likely to succeed than transformations where they do not.
+
+
+
+     It is valuable for organisations to establish a disciplined management process for the reskilling transformation, including continuous measurement.
+Our analysis shows that reskilling the workforce, whether in the form of upskilling or retraining, can offer far greater payoffs to UK employers than they have unlocked to date. Over time, as the skills gap widens owing to the impact of workplace trends and COVID-19, this may become a threat. But, in the near future, the strong need for reskilling is best seen as an economic opportunity for UK organisations. They can capture the upside by performing strategic workforce planning, enhancing their training offerings, transforming their learning culture and following pioneering peers who are achieving global excellence by cultivating diverse talent from creative sources.

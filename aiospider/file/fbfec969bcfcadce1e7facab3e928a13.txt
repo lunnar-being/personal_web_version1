@@ -1,0 +1,358 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Quasi-experimental study: comparative studies
+  
+
+  
+  
+  
+      
+  How to use a quasi-experimental study to evaluate your digital health product.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency
+
+      
+      Published
+      8 September 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          What to use it for
+
+        
+        
+          Pros
+
+        
+        
+          Cons
+
+        
+        
+          How to carry out a quasi-experimental study
+
+        
+        
+          Examples of quasi-experimental methods
+
+        
+        
+          More information and resources
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Experimental and quasi-experimental studies can both be used to evaluate whether a digital health product achieves its aims. Randomised controlled trials are classed as experiments. They provide a high level of evidence for the relationship between cause (your digital product) and effect (the outcomes). There are particular things you must do to demonstrate cause and effect, such as randomising participants to groups. A quasi-experiment lacks at least one of these requirements; for example, you are unable to assign your participants to groups. However, quasi-experimental studies can still be used to evaluate how well your product is working.
+
+The phrase ‘quasi-experimental’ often refers to the approach taken rather than a specific method. There are several designs of quasi-experimental studies.
+
+What to use it for
+
+A quasi-experimental study can help you to find out whether your digital product or service achieves its aims, so it can be useful when you have developed your product (summative evaluation). Quasi-experimental methods are often used in economic studies. You could also use them during development (formative or iterative evaluation) to find out how you can improve your product.
+
+Pros
+
+Benefits of quasi-experiments include:
+
+
+  they can mimic an experiment and provide a high level of evidence without randomisation
+  there are several designs to choose from that you can adapt depending on your context
+  they can be used when there are practical or ethical reasons why participants can’t be randomised
+
+
+Cons
+
+Drawbacks of quasi-experiments include:
+
+
+  you cannot rule out that other factors out of your control caused the results of your evaluation, although you can minimise this risk
+  choosing an appropriate comparison group can be difficult
+
+
+How to carry out a quasi-experimental study
+
+There are 3 requirements for demonstrating cause and effect:
+
+
+  randomisation – participants are randomly allocated to groups to make sure the groups are as similar to each other as possible, allowing comparison
+  control – a control group is used to compare with the group receiving the product or intervention
+  manipulation – the researcher manipulates aspects of what happens, such as assigning participants to different groups
+
+
+These features make sure that your product has caused the outcomes you found. Otherwise, you cannot rule out that other influencing factors may have distorted your results and conclusions:
+
+Confounding variables
+
+Confounding variables are other variables that might influence the results. If participants in different groups systematically differ on these variables, the difference in outcomes between the groups may be because of the confounding variable rather than the experimental manipulation. The only way to get rid of all confounding variables is through randomisation because when we randomise, the variables will be present in equal numbers in both groups, even if we haven’t identified what these confounding variables are.
+
+Bias
+
+Bias means any process that produces systematic errors in the study, for example, errors in recruiting participants, collecting data or analysis, and drawing conclusions. This influences the results and conclusions of your study.
+
+When you carry out a quasi-experimental study you should minimise biases and confounders. If you cannot randomise, you can increase the strength of your research design by:
+
+
+  comparing your participants to an appropriate group that did not have access to your digital product
+  measuring your outcomes before and after your product was introduced
+  doing both
+
+
+Based on these 3 routes, here is an overview of different types of quasi-experimental designs.
+
+Quasi-experimental designs with a comparison
+
+One way to increase the strength of your results is by finding a comparison group that has similar attributes to your participants and then comparing the outcomes between the groups.
+
+Because you have not randomly assigned participants, pre-existing differences between the people who had access to your product and those who did not may exist. These are called selection differences. It is important to choose your comparison appropriately to reduce this.
+
+For example, if your digital product was introduced in one region, you could compare outcomes in another region. However, people in different regions may have different outcomes for other reasons (confounding variables). One region may be wealthier than another or have better access to alternative health services. The age profile may be different. You could consider what confounding variables might exist and pick a comparison region that has a similar profile.
+
+Quasi-experimental designs with a before-after assessment
+
+In this design, you assess outcomes for participants both before and after your product is introduced, and then compare. This is another way to minimise the effects of not randomly assigning participants.
+
+Potential differences between participants in your evaluation could still have an impact on the results, but assessing participants before they used your product helps to decrease the influence of confounders and biases.
+
+Be aware of additional issues associated with observing participants over time, for example:
+
+
+  testing effects – participants’ scores are influenced by them repeating the same tests
+  regression towards the mean – if you select participants on the basis that they have high or low scores on some measure, their scores may become more moderate over time because their initial extreme score was just random chance
+  background changes – for example, demand for a service may be increasing over time, putting stresses on the service and leading to poorer outcomes
+
+
+Time series designs
+These quasi-experiments involve repeating data collection at many points in time before and after treatment.
+
+There are a variety of designs that use time series:
+
+
+  basic time series – assesses outcomes multiple times before and after your digital product is introduced
+  control time series – introduces results from a comparison group
+  turning the intervention on and off throughout the study to compare the effects
+  interrupted time series – collects data before and after an interruption
+
+
+In the analysis, the patterns of change over time are compared.
+
+Digital technology is particularly suitable for time series design because digital devices allow you to collect data automatically and frequently. Ecological momentary assessment can be used to collect data.
+
+By including multiple before-and-after assessments, you may be able to minimise problems of the weaker designs, such as simple one group before/after designs described above. There are also different ways to increase the strength of your design, for example by introducing multiple baselines.
+
+Quasi-experimental designs with comparison and before-after assessment
+
+Both including a comparison group and conducting a before-after assessment of the outcomes increases the strength of your design. This gives you greater confidence that your results are caused by the digital product you introduced.
+
+Remember that not randomly assigning participants to the comparison groups and repeated measurements create some challenges with this design compared to a randomised experimental design.
+
+If you cannot use comparison or before-after assessment
+
+If there is no appropriate comparison group and you cannot compare participants before and after your digital product was introduced, drawing any conclusions around cause and effect of your digital product will be challenging.
+
+This type of quasi-experimental design is most susceptible to biases and confounders that may affect the results of your evaluation. Still, using a design with one group and only testing participants after they receive the intervention will give you some insights about how your product is performing and will give you valuable directions for designing a stronger evaluation plan.
+
+Causal methods
+
+Causal inference methods use statistical methods to try and infer causal relationships from data that does not come from an experiment. They rely on identifying any confounding variables and on data being available for individuals for these variables. Read  Pearl (2010), ‘An introduction to causal inference’ for more information.
+
+Examples of quasi-experimental methods
+
+Case-control study, interrupted time-series, N-of-1, before-and-after study and ecological momentary assessment can be seen as examples of quasi-experimental methods.
+
+More information and resources
+
+Sage research methods (2010), ‘Quasi-experimental design’. This explores the threats to the validity of quasi-experimental studies that you want to look out for when designing your study.
+
+Pearl (2010), ‘An introduction to causal inference’. Information about causal methods.
+
+Examples of quasi-experimental studies in digital health
+
+Faudjar and others (2020), ‘Field testing of a digital health information system for primary health care: A quasi-experimental study from India’. Researchers developed a comprehensive digital tool for primary care and used a quasi-experimental study to evaluate it by comparing 2 communities.
+
+Mitchel and others (2020), ‘Commercial app use linked with sustained physical activity in two Canadian provinces: a 12-month quasi-experimental study’. This study assessed one group before and after they gained access to an app that gives incentives for engaging in physical activity.
+
+Peyman and others (2018), ‘Digital Media-based Health Intervention on the promotion of Women’s physical activity: a quasi-experimental study’. Researchers wanted to evaluate the impact of digital health on promoting physical activity in women. Eight active health centres were randomly selected to the intervention and control.
+
+
+
+
+      
+        
+    Published 8 September 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Rapid evaluation of digital health products during the COVID-19 pandemic
+        Patient-reported outcomes and experiences study
+        Choose evaluation methods: evaluating digital health products
+        Focus group study: qualitative studies
+        Clinical audit: descriptive studies
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Evaluating digital health products
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Health improvement
+        Research, testing and standards
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

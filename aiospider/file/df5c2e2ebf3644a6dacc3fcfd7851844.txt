@@ -1,0 +1,701 @@
+
+  
+    
+      Chapter 7: Preliminary examination and reports
+
+    
+
+      
+        
+  Section (7.01 - 7.58 ) last updated: July 2020.
+
+      
+        
+          
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+      
+        
+          
+            Introduction
+          
+        
+        
+
+    7.01
+The basic fee for forms AF1/Form1, Form 9A and Form 10 are as follows:
+
+  
+    
+      Patents Fee/Form
+      E-filed
+      Paper
+    
+  
+  
+    
+      Application fee/AF1/Form 1
+      £60
+      £90 (paid on filing date)
+    
+    
+       
+      £75
+      £112.50 (paid after filing date
+    
+    
+      Search fee/Form 9A
+      £150
+      £180
+    
+    
+       
+      £120*
+      £150* *S89 applications
+    
+    
+      Exam fee/Form 10
+      £100
+      £130
+    
+  
+
+If more than 25 claims are present then an excess claims fee is required as part of the search fee (Form 9A).  If more than 35 pages of description are present then an excess pages fee is required as part of the examination fee (Form 10). See below for more details.
+The preliminary examination of a patent application is performed when the Application Fee has been paid. The fee may be paid with Form 1 when the application is filed, or later with Form 9A or it may be paid separately. A non-statutory Form AF1 exists for use in paying the fee but its use is not mandatory. The fee must be paid within 12 months of an application’s earliest date or within 2 months of its filing date whichever expires later.
+Payment of the application fee will trigger a preliminary examination under s.15A completed by a Formalities Examiner. The way in which the preliminary examination is conducted has changed to include the points below which details new checks that are necessary once a request for search (Form 9A) has been filed:
+
+  check if any excess claims have been filed, i.e. 26 or above, and that the correct fee has been paid, i.e. £20 per excess claim. Annotate the total number of claims filed against the Form 9 in the TOC on PDAX
+  if there are 25 or less, no fee is due
+  if 26 or more have been filed, check whether the correct fee has been paid on Form 9A, for example 28 claims = 3 excess claims = £20 x 3 = £60
+  if an overpayment has been made, the formalities examiner will generate a refund letter
+  if an underpayment has been made, use the new underpayment clause within the preliminary examination report or issue the new underpayment letter on Prose. A Form 52 and appropriate fee will be required to extend the period for filing Form 9A if the underpayment remains unpaid after the 12 month deadline. If this period is not extended the fee will be refunded and the application terminated for failure to file a Form 9A
+it is very important to note that any application with an underpayment on it will need to be set back using COPS to ‘AWAITING FORM 9’’. Once the underpayment is made the status can be set to ‘READY FOR SEARCH’’ and the Form 9A re-dated to the date the balance of fee is paid.
+
+If a Form 10 has been filed and a combined search and examination has been requested then the following checks also apply:
+
+  check if any excess pages of description have been filed, i.e. 36 or above, and that the correct fee has been paid, i.e. £10 per excess page of description. Annotate the total number of pages against the Form 10 in the TOC on PDAX
+  if there are 35 pages or less, no fee is due
+  if 36 or more have been filed, check whether the correct fee has been paid on Form 10, for example 40 pages = 5 extra pages = £10 x 5 = £50
+  if an overpayment has been made, the formalities examiner will generate a refund letter
+  if an underpayment has been made, use the new underpayment clause within the preliminary examination report or issue the new underpayment letter on Prose. The Form 10 should then be re-dated to the date on which the balance of fee is paid
+
+For S89 applications the number of claims and pages will usually be those published in the WIPO specification. However there are some exceptions:
+
+  if amendments are filed in the national phase, the number of excess claims/description pages will be based on those amendments, i.e. the latest version when the Form 9A or F10 is filed
+  if the international application is not in English then the translated specification will be counted for excess claims/description pages, not the published WIPO document
+  very early entry applications where the international application has not yet been published require the applicant to provide a copy of the application in order to enter the national phase at this point. The number of claims/description pages will therefore be calculated from the specification that the applicant files. If the application is submitted later than the forms, or the applicant chooses to wait until publication of the international application, the applicant may not have disclosed the number of claims/description pages on the relevant forms. If when the application is published/specification is received it transpires that excess claims/description pages/fees are due then an underpayment letter should be issued and the Forms 9A and 10 re-dated to the date on which the balance of fees is paid
+
+7.02
+All procedural and non-technical requirements of an application must be checked by the Formalities Examiner. A quality check of the images on PDAX should also be carried out (The detail relating to the individual aspects of the examination are outlined in Chapters 2 - 6)
+7.03
+If the application is found to be deficient in any way in respect of these requirements a report is prepared by the Formalities Examiner identifying the outstanding matters. This report is then sent to the applicant, or to their agent, where appropriate.
+
+
+
+      
+        
+          
+            Case identification
+          
+        
+        
+
+    7.04
+Before examination the Formalities Examiner must identify the type of case being dealt with. Different procedures need to be followed depending on the type of the case.  PCT applications should be examined in respect of Chapter 13.  Divisional applications should be examined in respect of Chapter 14. For all other cases chapters 2 – 6 should be used.
+7.05
+The results of the examination are recorded on the Formalities checklist. If necessary a Preliminary Examination Report is then produced using FL1 or LFEPA and a report. These are produced using PROSE.
+7.06
+The Formalities Examiner at this stage will need to identify if the application is for combined search and examination (CS&E).  A CSE label should be placed on both the dossier cover and COPS.  All cases that have a Form 9A and Form 10 filed with the initial application will be treated as requesting combined search and examination unless there is a specific request in the application that it should not take place.  See paragraphs 7.47 to 7.58 for processing CS&E cases.
+7.07
+The Formalities Examiner will also need to identify if the application has been filed by a Private Applicant.  A Private Applicant label should be on both the dossier cover and COPS. Any application that has no patent attorney named in Section 5 of the Form 1 should be treated as a Private Applicant case. See s.274 to 281 of MOPP.
+7.08
+For all applications the trigger for Preliminary Examination is payment of the Application Fee.  The fee may be paid with Form 1 or Form 9A or it may be filed without an associated form and in these cases an AF1 will be made up by Finance for somewhere to record the payment.  It is assumed for the rest of this chapter that the Application Fee has been paid.
+
+
+
+      
+        
+          
+            Preparation of the preliminary examination report
+          
+        
+        
+
+    7.09
+Once the outstanding requirements have been identified the Formalities Examiner should then prepare a preliminary examination report using PROSE. If no deficiencies are found in the application, no report needs to be issued except for Private Applicant cases when a ‘No Objection’ letter is issued
+7.10
+The Preliminary Examination Report category on PROSE provides three options, “FL1 for agents” or “LFEPA for private applicants” or “No Objections”. The option selected will depend on the type of case the user is dealing with. For cases where the address for service is identified as an agent the “FL1 for Agents” should be selected: where there is no agent appointed the “LFEPA for Private Applicants” should be selected. The production of the letter will then vary depending upon this selection.
+
+
+
+      
+        
+          
+            PER-AG (FL1 for Agents)
+          
+        
+        
+
+    7.11
+On selecting FL1 from the selection screen the PROSE Document Wizard will display the Agent’s name and address details and the name of the applicant taken directly from COPS. This should be checked with the details on file.
+7.12
+Once the name and address details are completed to the user’s satisfaction, the user should click ‘Next’. The agent’s reference and salutation will then be displayed. The user should click ‘Next’ to display the list of outstanding documents and select the relevant items. When all items have been selected the user should click ‘Next’ and then ‘Finish’ to complete the process.
+7.13
+WORD will then produce the required letter which can be edited if necessary.
+7.14
+The preliminary examination report will then need to be produced using the ‘Insert Clauses’ button.  This is described in 7.18-7.24 below.
+
+
+
+      
+        
+          
+            PER PA (LFEPA for private applicants)
+          
+        
+        
+
+    7.15
+On selecting the “LFEPA for Private Applicants” letter from the selection screen and after confirming the applicant and address details the user should identify the outstanding documents and select the relevant items. When all items have been selected the user should click ‘Next’ and then ‘Finish’ to complete the process.
+7.16
+WORD will then produce the required letter which can be edited if necessary.
+7.17
+The preliminary examination report will then need to be produced using the ‘Insert Clauses’ button.  This is described in 7.18-7.24 below.
+
+
+
+      
+        
+          
+            The preliminary examination report
+          
+        
+        
+
+    7.18
+Regardless of which covering letter has been produced (FL1 or LFEPA), once the correct clauses have been inserted on PROSE, the next stage is to produce the report part of the preliminary examination process.  With the covering letter (FL1 or LFEPA) on the screen, click the ‘Insert Clauses’ button at the right hand side of the screen. This will then produce the “Insert Standard Clauses” screen.  This screen itemises all the objections it is possible to include at this stage. If a plus sign appears at the left of the item it indicates that there are further menus within that category of objection.
+7.19
+Select all the objections which apply by clicking the box at the left.  Click again to deselect if you make a mistake.
+7.20
+Once all the objections have been made, the user should click OK and WORD will then compile the report.
+7.21
+The user should then check the report on screen to ensure it is correct. Any minor errors can now be corrected manually. For major alterations, start the procedure again. Care should be taken to ensure that all dates have been correctly calculated and have not expired.
+7.22
+If the report is satisfactory, it should be saved and printed. The document status should be changed to LOCKED and a file copy should be imported to PDAX.
+7.23
+A copy of the report is then issued to the address for service.
+7.24
+Once all actions have been completed the case should then be removed from the user’s PROSE work-list.
+
+
+
+      
+        
+          
+            Other reports
+          
+        
+        
+
+    7.25
+It may become necessary for an objection to be made to any of the matters covered in Chapters 2-6 after the initial preliminary examination is made. Where there is less than 1 month of a time period left, consult a Formalities Manager as other types of report may need to be issued.
+7.26
+While an objection to one of the requirements set out in Chapters 2-6 may be made by telephone. In these circumstances a telephone report should be prepared.  By selecting the category “Other Reports” on the left of the letter selection screen the “Telephone Conversation Report” can then be selected from the right of the screen. On selecting this letter you can input the name of the caller or person called, whether a copy has been sent to them and a response date if applicable.
+7.27
+The text of the report should be included below the details of who held the conversation and above the warning about accuracy. The warning about accuracy of the report is displayed near the bottom of the report and this should remain in the report.
+7.28
+The telephone report should reflect what was actually said. The nature of the objection(s) should be outlined and the response period(s) stated. In addition to the response period, warnings should be included that the application may be refused if there is no response. A suitable form of wording follows:You must either meet the requirements set out in this report or make observations on them by the date(s) given. If you do not the application may be refused.
+7.29
+Objections can also be made by Official Letter. Again they must state a suitable response period(s) and the relevant warning. A “Free Text” letter is available in the “Other Reports” category of the PROSE System. The content and issue of a complex free text letter should be approved by the Casework Lead.
+
+
+
+      
+        
+          
+            Completion of the formalities checklist
+          
+        
+        
+
+    7.30
+The formalities checklist is a quick reference aid which can help the Formalities Examiner to keep track of objections made to an application.  Once completed it is also reference tool to identify the progress of an application.
+7.31
+There are three types of formalities checklist, Pre-publication, Post-publication and S89. Guidance on completion of the S89 checklist can be found in Chapter 13.
+7.32
+This checklist is completed for every application that has a preliminary examination performed by Formalities.  The checklist confirms whether all documents referred to in the application have been filed. (For details see Chapter 5.)
+7.33
+If an objection is to be made the box remains unchecked. Any categories which are not relevant should be ticked and annotated “N/A.” If a Form10 has been filed and there is an objection to the F10, the Casework Lead should assess whether combined search and examination is now appropriate.
+7.34
+If there are no objections to the application, the “Formalities Complied EP” box should be ticked.
+7.35
+A message should then be sent to the ESO to be booked onto PAFS as a search or CSE before a message is sent to the Patent Examiner.
+
+
+
+      
+        
+          
+            COPS action
+          
+        
+        
+
+    7.36
+To record the AF1 (application fee) and F10 (examination fee) where filed, REC PRE should be used to record the form number and the date the form was received.ADD F1 updates COPS to the status “Ready for Search” and adds the AFS on the case. The user is asked to input the following:a) The filing date of the F9A;b) Whether each applicant is an inventor (check section 7 of Form 1);c) If the address for service (AFS) is that of the applicant (if not the user will be prompted to enter the ADP number).
+7.37
+REC F7 adds the inventor(s) details to COPS. The user is asked to input the filing date of the Form 7, and the inventor(s) ADP number(s) from Form 7.
+
+
+
+      
+        
+          
+            Requests for accelerated processing
+          
+        
+        
+
+    7.38
+When inspecting an application the Formalities Examiner must look out for any requests to accelerate or expedite the processing of the application. These can be found on any document which forms part of the application and the Formalities Examiner should be vigilant in order to identify them.
+Valid acceleration requests have a 2 month turnaround target. PCT cases may also contain requests for accelerated examination under the PCT Fast Track arrangements – see PFM 13.52.
+7.39
+The applicant/agent can request that all aspects of processing an application be expedited or just specific stages. Where it is unclear which aspect they want accelerating, clarification should be sought. Processes which can be accelerated are: search, publication (see 8.29), examination or grant, or any combination of these. It can be assumed if accelerated prosecution or accelerated grant is requested this should mean all stages of patent processing are to be expedited.
+Particular care should be taken never to accelerate publication unless it is certain that this is what the applicant wishes as unintended early publication has serious implications. If there is any doubt at all the position should be clarified with the agent/applicant and the dossier noted.
+7.40
+A request for accelerated processing (except for accelerated publication) should be accompanied by adequate reasons. Any such requests should be referred to the Examiner Assistant for consideration. Requests giving no reasons or inadequate reasons will in the first instance be refused by the Examiner Assistant. If a request for Accelerated Search/CS&E is refused then the request for accelerated publication should also be refused.
+
+
+
+      
+        
+          
+            Green Channel
+          
+        
+        
+
+    7.41
+Applicants are also able to request accelerated processing via the ‘Green Channel’ if their invention relates to a ‘green’ environmentally friendly technology. The applicant must provide an appropriate explanation of how their application relates to a “green” technology. The request should clearly state which parts of the process the applicant wishes to accelerate. If it does not the Formalities Examiner should check with the applicant or agent before proceeding.
+7.42
+Once the Formalities Examiner has identified what the request for accelerated processing entails, they should follow the procedure outlined below.a) A minute should be created to the examiner identifying what stages the applicant requires to be expedited;b) Green Channel cases should have the ‘Green Channel’ label applied in addition to the appropriate accelerated label(s).c) The Green Channel request must also be recorded on COPS using the function REC GRE and the date of the request should be entered. This records the number of requests we receive so that statistics can be published.
+7.43
+If the request is refused the examiner will send the message ‘REFUSED GREEN CHANNEL’ and the refusal should be recorded in REC GRE by Setting the ‘Accepted Indicator’ to ‘N’ and entering the date of the refusal.
+7.44
+Once this and the other aspects of preliminary examination have been completed the case should be sent to the Patent Examiner through the ESO (for example Accelerated Search - Green Channel). Accelerated labels should still remain on the dossier cover when the accelerated action has been completed. However, if accelerated treatment is refused then the accelerated labels must be removed from the front cover. Green Channel labels should always remain in place to record that a request was made.
+See also Patents fast grant
+
+
+
+      
+        
+          
+            Patent Prosecution Highway
+          
+        
+        
+
+    7.45
+The Patent Prosecution Highway (PPH) is an agreement between the Intellectual Property Office and other national intellectual property offices. If the claims of a patent application to a first intellectual property office have been found to be allowable at that office the PPH can be used to request accelerated examination of a corresponding application at another intellectual property office.
+7.46
+A request for accelerated examination (or CSE) under the PPH must be made in writing and accompanied by supporting documentation. The Formalities Examiner should add the PPH label to the dossier cover and send the message ‘EX** ACC SEARCH - PPH REQUEST’ to the ESO who will then send the message on to the PPH Mailbox. The PPH Administrator will deal with it from there.
+See Patents: accelerated processing and PDN 12/07
+
+
+
+      
+        
+          
+            Combined Search and Examination
+          
+        
+        
+
+    7.47
+When a F9A and F10 are filed together or when the F10 is filed shortly after, but before the search commences, the application will be subject to “Combined Search and Examination” (CS&E).
+7.48
+The applicant does not have to request CS&E as it is carried out automatically unless the applicant specifically states that they do not want CS&E. The Formalities Examiner should check the Form 10 and accompanying documents for any indication that CS&E is not required.
+7.49
+CS&E also applies to divisionals but not to s.89 PCT applications where a copy of the International Search Report is on file with the WIPO publication.
+
+
+
+      
+        
+          
+            Formalities procedures for CS&E
+          
+        
+        
+
+    7.50
+The Formalities Examiner should check that both Form 9A and Form 10 (and fees) are on file and that the applicant has not specifically given an instruction that CS&E is not required. If the forms have been logged on with the same filing date, the COPS flag for CS&E will have been set automatically to ‘YES’.
+7.51
+If the applicant has stated either on the F10 or in a separate letter that CS&E is not wanted, the Formalities Examiner should set the CS&E flag to ‘NO’ and minute the Patent Examiner. In the event of a F10 being filed after the Form 9A with a written request for CS&E, the Formalities Examiner should check whether the search report has issued.
+If it has already issued, the applicant should be informed that the request was received too late to allow CS&E and that substantive examination will occur in due course after publication. If the search report has not issued, the Formalities Examiner should set the Form10 to be actioned, inform the examiner and add the CS&E label to the cover so that the Patent Examiner is alerted as soon as possible to the need for CS&E. The CS&E COPS flag should then be set to ‘YES’.
+7.52
+Where a Search is turned into a CS&E, the Formalities Examiner should contact the examiner to confirm whether CS&E is acceptable. The ESO should then update PAFS and PDAX to reflect a CS&E.
+7.53
+Where CS&E is not applicable, that is, where Form 9A and Form10 are present but the applicant has specifically instructed that CS&E is not carried out, the Formalities Examiner should carry out the usual formalities examination. The Form10 should be annotated NOT CS&E and the case sent on for Search.
+
+
+
+      
+        
+          
+            Amendments filed before ‘A’ publication
+          
+        
+        
+
+    7.54
+Any amendment to the claims (including new claims) should be published in the ‘A’ Document in the normal manner, providing the case is not already in the ‘A’ publication cycle (The day before the PPC date is the final deadline for this).
+If it is in the publication cycle, then the amended pages can still be incorporated but Optics cannot be changed until after publication. Such amendments will not be published at “A” publication stage.
+7.55
+Any amendments filed before publication should be incorporated in the normal manner and a message sent via PDAX to the examiner where appropriate.
+
+
+
+      
+        
+          
+            Extension of reply period/third party observations
+          
+        
+        
+
+    7.56
+Any requests for extension of the reply period set in a CS&E report should be placed on filed and annotated with the new response date. Any third party observations submitted on a CS&E case should be sent directly to the THIRD PARTY OBS (S21) PDAX mailbox for the Examiner Assistants to process.
+
+
+
+      
+        
+          
+            Refunds
+          
+        
+        
+
+    7.57
+Normally, no refund of the search and substantive examination fees should be made if CS&E reports have issued. Any request for refund on a CS&E case booked out to the Patent Examiner should be immediately brought to their attention.
+
+
+
+      
+        
+          
+            Acceleration
+          
+        
+        
+
+    7.58
+Requests for accelerated search, publication and grant may be made on CS&E cases. Any such requests should be referred to the Examiner Assistant for consideration. If allowed, the Formalities Examiner should carry out the appropriate actions as for non CS&E cases.
+
+
+
+
+        
+  

@@ -1,0 +1,341 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Get an economic code to apply for inward processing
+  
+
+  
+  
+  
+      
+  Find the correct economic code to explain what you'll do with your goods under an inward processing authorisation.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          HM Revenue & Customs
+
+      
+      Published
+      20 August 2020
+      Last updated
+      
+        31 December 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+When applying for inward processing, you’ll need to insert one or more of the following codes to tells us what you’re going to do with the goods.
+
+The table below describes the actions you can take with your goods where the economic conditions are always considered to be met for inward processing. Choose the correct economic code according to the actions that you’ll take with your goods.
+
+
+  
+    
+      What you’ll do with your goods
+      Economic code to use
+    
+  
+  
+    
+      Process goods that are not sensitive
+
+      1
+    
+    
+      Import goods for repair
+      2
+    
+    
+      Process goods to the specifications of a person established outside the UK (normally, this will be against the payment of processing costs only)
+      3
+    
+    
+      Process durum wheat into pasta
+      4
+    
+    
+      Place goods under inward processing within the limits of the quantity determined on the basis of a balance in accordance with Article 18 of Council Regulation 510/2014
+
+      5
+    
+    
+      Process sensitive goods because UK goods of  the same 8-digit Combined Nomenclature code, the same commercial quality and technical characteristics are not available
+      6
+    
+    
+      Process sensitive goods provided there are differences in price between goods produced in the UK and those intended to be imported, where comparable goods cannot be used because their price would not make the proposed commercial operation economically viable
+      7
+    
+    
+      Process sensitive goods provided there are contractual obligations, where UK goods do not conform to the contractual requirements or where, in accordance with the contract, the processed products must be from non-UK goods to comply with the protection of industrial or commercial property rights
+      8
+    
+    
+      Process sensitive goods provided the total value of the goods to be placed under inward processing per applicant and calendar year for each eight-digit Combined Nomenclature code is no more than £135,000
+      9
+    
+    
+      Process goods to ensure their compliance with technical requirements for their release to free circulation
+      10
+    
+    
+      Process goods of a non-commercial nature
+      11
+    
+    
+      Process goods obtained by you from a previous inward processing authorisation, where the economic conditions of that authorisation were examined
+      12
+    
+    
+      Process solid and fluid fractions of palm oil, coconut oil, fluid fractions of coconut oil, palm kernel oil, fluid fractions of palm kernel oil, babassu oil or castor oil into products which are not for the food sector
+      13
+    
+    
+      Process goods into products to be incorporated in or used for civil aircraft for which an airworthiness certificate has been issued
+      14
+    
+    
+      Process goods into products benefiting from the autonomous suspension of import duty on certain weapons and military equipment, check commodity codes covered by economic code 15
+
+      15
+    
+    
+      Process goods into samples
+      16
+    
+    
+      Process any electronic type of component, part, assembly or any other materials into information technology products
+      17
+    
+    
+      Process goods falling within tariff heading 2707 or 2710 into products falling within codes 2707, 2710 or 2902
+      18
+    
+    
+      Reduce goods to waste and scrap, destroying goods, recovery of parts or components
+      19
+    
+    
+      Denature goods
+      20
+    
+    
+      Usual forms of handling
+      21
+    
+    
+      The total value of goods to be placed under inward processing per applicant and calendar year for each eight-digit Combined Nomenclature code does not exceed £135,000 with regard to sensitive goods and £270,000 for other goods, except where the goods intended to be placed under the inward-processing procedure would be subject to a provisional or definitive anti-dumping duty, a countervailing duty, a safeguard measure or an additional duty resulting from a suspension of concessions if they were declared for free circulation
+      22
+    
+  
+
+
+If you cannot find your economic code
+
+If the action you will take with your goods cannot be found in the table, they may require an economic test if you want to use inward processing.
+
+Economic code 15
+
+If any of the goods you’re intending to import under inward processing are to be made into goods falling under any of the following 4-digit commodity codes, you must apply for inward processing under economic code 15.
+
+Commodity codes
+
+2804; 2825;
+
+3601; 3602; 3603; 3604; 3606; 3701; 3702; 3703; 3705; 3707; 3824; 3926;
+
+4202; 4901; 4911;
+
+5608;
+
+6116; 6210; 6211; 6217; 6305; 6307; 6506;
+
+7308; 7311; 7314; 7326; 7610;
+
+8413; 8414; 8415; 8418; 8419; 8421; 8424; 8426; 8427; 8428; 8429; 8430;
+8470; 8471; 8472; 8479; 8502; 8516; 8517; 8518; 8521; 8524; 8525; 8526;
+8527; 8528; 8531; 8535; 8536; 8539; 8543; 8544; 8701; 8703; 8704; 8705;
+8709; 8710; 8711; 8716; 8801; 8802; 8804; 8805; 8901; 8903; 8906; 8907;
+
+9004; 9005; 9006; 9008; 9013; 9014; 9015; 9018; 9019; 9020; 9021; 9022;
+9025; 9026; 9027; 9030; 9031; 9301; 9302; 9303; 9304; 9306; 9307; 9404;
+9406;
+
+
+
+
+
+      
+        
+    Published 20 August 2020
+    Last updated 31 December 2020
+      + show all updates
+      
+        
+            
+              31 December 2020
+              The guidance has been updated due to UK transition, with amounts changed to pounds.
+            
+            
+              20 August 2020
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Check if your goods are sensitive when declaring to inward or outward processing
+        Request an economic test for an inward or outward processing authorisation
+        Declare your goods to authorised use and completing authorised use
+        Using similar goods to replace customs special procedure goods
+        Transferring your rights and obligations to someone else
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Pay less or no duty on goods you store, repair, process or temporarily use
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        VAT
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

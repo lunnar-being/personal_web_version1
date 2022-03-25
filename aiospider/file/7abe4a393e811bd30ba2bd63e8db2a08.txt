@@ -1,0 +1,1 @@
+Develop technology for an Energy Service Interface that enables utilities to recruit Electrical Grid of Things assets for crucial grid services.

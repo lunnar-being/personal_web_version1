@@ -1,0 +1,180 @@
+
+
+The Space Enterprise Vision (SEV) describes an integrated approach to building a force across space mission areas. Achieving this vision requires reducing acquisition time lines and improving integration of the space enterprise. The research team examined potential acquisition approaches to support SEV and identified several promising ones that merit in-depth examination: modular open system architectures, agile acquisition, rapid prototyping.
+
+
+
+
+Read Online
+
+Improving Acquisition to Support the Space Enterprise Vision
+by Yool Kim, Guy Weichenberg, Frank Camm, Brian Dougherty, Thomas C. Whitmore, Nicholas Martin, Badreddine Ahtchi
+Related Topics: Military Acquisition and Procurement, Military Budgets and Defense Spending, Military Technology, Space Science and Technology, Space Warfare, United States Air Force
+CitationEmbed
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+DownloadDownload eBook for FreeFull DocumentDoes not include Appendixes
+
+FormatFile SizeNotes
+
+
+
+
+PDF file
+
+
+1.1 MB
+Use Adobe Acrobat Reader version 10 or higher for the best experience.
+
+Supplemental Appendixes on Acquisition Concepts
+
+FormatFile SizeNotes
+
+
+
+
+PDF file
+
+
+1 MB
+Use Adobe Acrobat Reader version 10 or higher for the best experience.
+
+
+
+
+Purchase
+Purchase Print Copy
+
+ FormatList Price
+Price
+
+
+Add to Cart
+Paperback142 pages
+$26.00
+$20.80 20% Web Discount
+
+
+
+
+
+
+
+
+
+
+Research Questions
+
+What are promising alternative acquisition approaches to achieve responsiveness and enterprise synchronization?What characterizes the challenges to successfully implementing these acquisition approaches?What are the potential pathways to overcoming these implementation challenges?
+
+
+
+The Space Enterprise Vision (SEV), developed jointly by Air Force Space Command (AFSPC) and the National Reconnaissance Office in 2015, describes an integrated approach to building a force across all space mission areas, coupling the delivery of space capabilities with the ability to defend space capabilities. Achieving this vision requires reducing acquisition time lines and improving integration of the space enterprise. Given that the SEV requires a departure from the way space systems are currently acquired, AFSPC headquarters and Space and Missile Systems Center (SMC) asked RAND Project AIR FORCE (PAF) to assess key barriers to realizing the SEV and recommend ways to overcome those barriers to help achieve the SEV goals.
+The research team examined a range of potential approaches to support the goals of the SEV, based on a literature review and semistructured interviews with acquisition subject matter experts and sponsor guidance. PAF identified several promising alternative acquisition approaches that merit in-depth examination in this project: modular open system architectures (MOSA), agile acquisition, rapid prototyping.
+These concepts are not new, but implementing them in a Department of Defense (DoD) setting is challenging for a variety of reasons. Therefore, the examination focuses on likely challenges to implementation and recommendations to overcome them to improve the likelihood of success should these acquisition approaches have a role in the SEV. Each of these acquisition approaches can be implemented independently, but there are instances in which they may be used synergistically, as illustrated in the body of the report.
+Key Findings
+
+There are opportunities to apply MOSA, agile acquisition, and rapid prototyping in the SEV, but their application to the space segment faces limitationsOpportunities to apply these approaches for space hardware development may have been limited because of limited physical access to deployed space assets for in situ hardware upgrades, low-volume space market, infrequent satellite replenishment, or stove-piped architecture. However, as the future space architectures become fleshed out to potentially include shorter-life satellites and proliferated constellations, AFSPC and SMC should look for opportunities to apply these approaches.
+Implementing MOSAs in the SEV offers the potential to upgrade capabilities responsively and enable enterprise synchronization, but several key challenges to implementing in DoD remainKey challenges that acquisition officials faced included (1) aligning diverse stakeholders, (2) managing acquisition using incremental development, and (3) tailoring industry engagement to develop consensus on standards.
+Despite promising opportunities to employ agile acquisition, federal standards associated with requirements determination, acquisition rules, and budgeting systems often constrain the application of agile acquisition practices within a government settingCommon implementation challenges include (1) tailoring to specific circumstances and choosing the right hybrid of agile and traditional acquisition, (2) determining requirements to get the full benefit of agile methods, (3) ensuring that developers and managers have appropriate training and experience, and (4) maintaining committed user participation.
+Rapid prototypes often struggle to transition into operations or acquisition programs of record because of a chasm that develops between a military service's science and technology community and its acquisition and operational warfighting communitiesKey challenges include overcoming user skepticism and lack of commitment to transition, addressing operation and acquisition considerations in advance of transition, and securing necessary operations and support funding in a timely manner.
+
+
+Recommendations
+
+AFSPC and SMC should determine the scope and applicability of MOSA, agile acquisition, and rapid prototyping in the SEV considering the trade-offs associated with them and what is required to make them successful.
+To be successful in implementing MOSA, AFSPC and SMC need to establish an enterprise governance with a well-defined scope and goals, executive support, and formalized metric-based processes. With this governance in place, AFSPC and SMC should invest in upfront systems engineering and infrastructure to develop functionally partitioned design and select appropriate interface standards. This technical implementation should be accompanied by development of upfront life-cycle business and program plans.
+If AFSPC and SMC decide to use agile acquisition in support of the SEV, they should (1) build and sustain an experienced workforce for agile acquisition, (2) create an enabling environment for agile acquisition by working with the requirements, user, contracting, and test communities, and (3) build "agile" into their acquisition strategy by tailoring the request for proposals and oversight approach to agile acquisition.
+To overcome the challenges of operationalizing a rapid prototype, AFSPC should consider (1) institutionalizing a disciplined, repeatable, and measurable prototype development, evaluation, and transition process and (2) associating and integrating independently conducted rapid prototyping activities with an acquisition program of record as early as possible.
+These alternative acquisition concepts require different mind-set than traditional acquisition. Thus, there are overarching policy-level actions that senior leadership in AFSPC and SMC may need to take to better posture the space enterprise for successful implementation including changes in the space enterprise architectures, investments in human capital, and shifting the organizational culture.
+
+
+
+Table of Contents
+
+Chapter One
+Introduction
+
+Chapter Two
+Modular Open Systems Architecture
+
+Chapter Three
+Agile Acquisition
+
+Chapter Four
+Rapid Prototyping
+
+Chapter Five
+Case Study: Enterprise Space Battle Management Command and Control Program
+
+Chapter Six
+Concluding Thoughts
+
+
+
+
+Research conducted by
+
+RAND Project AIR FORCE
+
+
+
+This research was sponsored by the Director of Strategic Plans, Programs, Requirements and Analysis, Headquarters Air Force Space Command, and the Vice Commander, Space and Missile Systems Center, and was performed by the Resource Management Program within RAND Project AIR FORCE.This report is part of the RAND Corporation Research report series. RAND reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND reports undergo rigorous peer review to ensure high standards for research quality and objectivity.Permission is given to duplicate this electronic document for personal use only, as long as it is unaltered and complete. Copies may not be duplicated for commercial purposes. Unauthorized posting of RAND PDFs to a non-RAND Web site is prohibited. RAND PDFs are protected under copyright law. For information on reprint and linking permissions, please visit the RAND Permissions page.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: RAND Corporation
+Availability: Available
+
+Print
+Format: Paperback
+Paperback Pages: 142
+List Price: $26.00
+Paperback Price:  $20.80
+Paperback ISBN/EAN: 9781977405395
+DOI: https://doi.org/10.7249/RR2626
+Document Number: RR-2626-AF
+Year: 2020
+Series: Research Reports
+
+
+
+Explore
+Related Topics
+
+Military Acquisition and ProcurementMilitary Budgets and Defense SpendingMilitary TechnologySpace Science and TechnologySpace WarfareUnited States Air Force
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+Citation
+Format:
+
+ Chicago Manual of Style
+ RAND Corporation Style Manual
+
+Kim, Yool, Guy Weichenberg, Frank Camm, Brian Dougherty, Thomas C. Whitmore, Nicholas Martin, and Badreddine Ahtchi, Improving Acquisition to Support the Space Enterprise Vision. Santa Monica, CA: RAND Corporation, 2020. https://www.rand.org/pubs/research_reports/RR2626.html. Also available in print form.
+Kim, Yool, Guy Weichenberg, Frank Camm, Brian Dougherty, Thomas C. Whitmore, Nicholas Martin, and Badreddine Ahtchi, Improving Acquisition to Support the Space Enterprise Vision, Santa Monica, Calif.: RAND Corporation, RR-2626-AF, 2020. As of December 16, 2021: https://www.rand.org/pubs/research_reports/RR2626.html
+
+Download Citation (BibTeX)
+Download Citation (RIS)
+
+
+

@@ -1,0 +1,642 @@
+
+  
+    
+      3. Waste pre-acceptance, acceptance and tracking appropriate measures
+
+    
+
+      
+        
+  These are the appropriate measures for waste pre-acceptance, acceptance and tracking at regulated facilities with an environmental permit for treating or transferring chemical waste. They do not apply when waste will be received directly from a householder.
+
+      
+        
+          
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+      
+        
+          
+            3.1. Waste pre-acceptance
+          
+        
+        
+
+    1. You must implement waste pre-acceptance procedures so that you know enough about a waste (including its composition) before it arrives at your facility. You need to do this to assess and confirm the waste is technically and legally suitable for your facility. Your procedures must follow a risk-based approach, considering:
+
+  the source and nature of the waste
+  its hazardous properties
+  potential risks to process safety, occupational safety and the environment (for example, from odour and other emissions)
+  knowledge about the previous waste holder
+
+2. When you receive a customer query, and before the waste arrives at your facility, you must obtain the following in writing or in an electronic form:
+
+  details of the waste producer including their organisation name, address and contact details
+  the source of the waste (the producer’s business and the specific process that has created the waste)
+  where the holder of the waste is not the producer, details of the waste holder including their organisation name, address and contact details
+  information on the nature and variability of the waste production process and the waste
+
+You must also obtain (in writing or electronic form) details about the waste including:
+
+  a description
+  the List of Waste code (European Waste Classification (EWC) code)
+  its physical form
+  its composition (based on safety data sheets, where appropriate, or representative samples and robust laboratory analysis)
+  any hazardous properties
+  any persistent organic pollutants (POPs) present
+  the potential for self-heating, self-reactivity or reactivity to moisture or air
+  any odour
+  its age, that is when it first became waste
+  the type of packaging
+  an estimate of the quantity you expect to receive in each load and in a year
+
+You must also obtain confirmation that the waste does not contain a radioactive source. If there is a risk of radioactive contamination you must obtain confirmation that the waste is not radioactive, unless your facility is permitted to accept such waste.
+3. You must consider whether specific wastes, from among those you are permitted to receive, have properties that can pose unacceptable risks to the site or process, for example due to:
+
+  a risk of explosion (for example, if ammunition or aerosol canisters are present, or mixing processes that could lead to explosion)
+  corrosion caused by strong acids
+  a risk of uncontrolled reactions (for example, if peroxides or strong oxidants are present, or polymerising components such as certain isocyanates)
+  a risk of the evolution of gases (for example if cyanides, sulphides or dissolved gas are present)
+
+You should establish a list of such wastes.
+4. You can verify the pre-acceptance information by contacting or visiting the producer. Dealing with staff directly involved in waste production will help to fully characterise a waste.
+5. You must obtain and analyse a representative sample of a waste if:
+
+  the chemical composition or variability of the waste is unclear from the information supplied by the customer
+  there are doubts about whether the sample analysed is representative of the waste
+  you will treat the waste at your facility (this allows you to carry out tests to determine if the planned treatment will be safe and effective)
+
+Where you rely on a customer sample you must record that you have done this and the reason why the customer sample is acceptable.
+6. You may not need a representative sample where, for example, the waste is:
+
+  asbestos
+  a pure product chemical or aerosol where the chemical composition and hazardous properties are available in a REACH compliant safety data sheet
+  packaged cosmetics and pharmaceuticals
+  contaminated clothing, packaging or rags
+  an ‘article’, for example batteries, lighting tubes, waste electrical or electronic equipment, end-of-life vehicles or parts of vehicles, metal waste and scrap metal
+  solid non-hazardous waste (except for mirror entries    when the waste composition is unknown)
+  contaminated wood and roofing material
+  produced in an emergency – you must not treat or offload such wastes until you have completed a full characterisation
+
+6.1 You also may not need a representative sample if the waste is laboratory smalls in containers of less than 5 litres.
+Laboratory smalls generally contain pure chemical elements and compounds from laboratories or arise when laboratory stores are cleared.
+When drums are used for laboratory smalls, a list of the contents must be stored within the drum below the lid, or attached to the drum. Similarly for other types of packages containing laboratory smalls, a list of contents is appropriately stored within (or attached to) the packaging. Each packed drum (or other package) is then labelled with the hazard for carriage, for example under the International Carriage of Dangerous Goods by Road (ADR) treaty.
+You should provide packaging guidance to your customer or their intermediary if the person packing the laboratory smalls does not work for you.
+6.2 You also may not need a representative sample of waste oil for treatment. Pre acceptance sampling is not critical for a waste oil treatment plant, but it would be required if the waste will be treated at a mineral oil refinery. Typically waste oil comes from a large number of small volume sources, such as garages, but its composition is essentially fixed. Waste oil is any mineral-based or synthetic lubrication, or industrial oil which has become unfit for its original use. Waste oil includes:
+
+  used combustion engine oils
+  gearbox oils
+  mineral lubricating oils
+  oils for turbines
+  hydraulic oils
+
+Waste oil contaminated with more than 50 ppm of polychlorinated biphenyls (PCBs) is not included as a waste oil.
+6.3 You should obtain a representative sample of the following types of waste oil, from:
+
+  industrial sites that do not normally produce waste oil
+  other sources where chemicals and potential contaminants may be handled, for example from chemical manufacturing
+
+You should advise your customers that they must avoid contaminating waste oil. This is because during treatment low flashpoint solvents or petrol will cause handling difficulties, increase volatile organic compound (VOC) emissions and increase the risk of accidents.
+Contamination with PCBs can transfer those PCBs either to the:
+
+  product (which may cause dioxin formation if used in a subsequent combustion process)
+  tank bottom oil sludges
+  effluent
+
+If you suspect that waste oil has become contaminated, for example by solvents, petrol or PCBs, you must identify the contamination.
+6.4 If you do not take a pre-acceptance sample of any hazardous waste you must record the reason.
+6.5 If the customer has a number of containers holding the same waste, you can apply ‘the square root of (N) + 1’ rule to sampling those containers. Producing a composite sample of this waste may be appropriate. If the waste is variable you will need a sample from each container.
+7. After fully characterising a waste, you must technically assess the waste’s suitability for treatment or storage to make sure you can meet permit conditions. You must also do this to meet any Control of Major Accident Hazards (COMAH) requirements, because wastes, raw materials and end-of-waste materials all contribute to COMAH limits. You must make sure that the waste complies with the site’s treatment capabilities. In the case of water based liquid waste, you may perform laboratory scale tests to predict the treatment’s performance, for example on breaking of emulsion or biodegradability.
+8. You can use material flow analysis to help identify the flow and fate of the components in the waste. This analysis can be helpful in choosing the most appropriate forms of treatment for the waste, either directly at the site or at any subsequent treatment site.
+9. You must keep pre-acceptance records for at least 3 years (in a computerised waste tracking system) following receipt of the waste. If an enquiry from a waste producer does not lead to the receipt of waste, you do not need to keep records.
+10. You must reassess the information required at pre-acceptance if the:
+
+  waste changes
+  process giving rise to the waste changes
+  waste received does not conform to the pre-acceptance information
+
+In all cases, you must reassess the information required at pre-acceptance on an annual basis.
+11. You must apply odour criteria to decide whether to accept wastes that are already releasing, or have the potential to release:
+
+  mercaptans or other VOCs
+
+  low molecular weight amines
+  acrylates
+  other similarly highly odorous materials
+
+These substances are only suitable for acceptance under special handling requirements.
+12. You must keep the roles and responsibilities of sales staff and technical staff separate. If sales staff are involved in waste enquiries then technical staff must do a final technical check before approval. You must keep this final technical check independent of commercial considerations, to make sure you:
+
+  only accept wastes that are suitable for the site
+  avoid accumulating waste
+  have enough storage and treatment capacity
+
+13. Fully characterising the waste’s composition is an essential step in the pre-acceptance procedure because hazardous wastes can be very complex. You must be sure you know what is in the waste so that you can safely handle or treat it. You must select analytical tests based on knowing the process that generates the waste. You must characterise the waste’s composition at the pre-acceptance stage. You need to do this to make sure you comply with regulatory requirements and to work out the most appropriate waste storage, transfer or treatment route.
+14. For liquid waste, any or all of the following may be appropriate:
+
+  measure the density of the sample
+  measure the water content
+  measure the ash content after calcination at 550°C
+  test whether the stream might inhibit biological treatment
+  test for cyanide, and if present determine the free and complexed cyanide levels
+  test for POPs
+
+  check the content of volatile and semi volatile substances
+  check the mass balance of liquid waste
+
+You can also measure the pH, redox potential and electrical conductivity of liquid wastes. For pastes and oils, perform these measurements on a water extract of crude sample using a ratio of 10 l/kg of dry matter. You should mix the water with the sample in a closed container to limit exchanges with the atmosphere.
+You can also test for the 12 heavy metals (As, Ba, Cd, Cr, Cu, Hg, Mo, Ni, Pb, Sb, Se, Zn) and determine their levels individually and quantitatively. You may use any specific classical method of (partial) extraction of these metals. Where it is present, check specifically for chromium (VI). If the waste is saline (conductivity > 0.15 S/m), measure the chlorides and preferably all the halogens that are soluble in water to make sure you correctly speciate the metals.
+You can also test for other metal content and other elements (for example silicon, sulphur and phosphorous).
+15. If you suspect the analysis methods applied to a liquid sample will not extract and quantify the compounds present in any solid particles or in any separate phases, separate the sample into 2 fractions by a suitable method. For example, this could be by filtration, centrifugation or decantation. Then you can determine the mass of each fraction, and perform a comprehensive analysis of the separated liquid fraction and solid fraction, or of each phase.
+16. For solid waste, any or all of the following may be appropriate:
+
+  measure the bulk density of the sample, without pre-treatment of the sample
+  measure the water content
+  measure the ash content after calcination at 550°C
+  test for cyanide, and if present determine the free and complexed cyanide levels
+  test for POPs
+
+  check the content of volatile and semi volatile substances
+  check the mass balance of solid waste
+
+You can also measure the pH, redox potential and electrical conductivity on a water extract of crude sample using a ratio of 10 l/kg of dry matter.
+You can also test for the 12 heavy metals (As, Ba, Cd, Cr, Cu, Hg, Mo, Ni, Pb, Sb, Se, Zn) and determine their levels individually and quantitatively. You may use any specific classical method of (partial) extraction of these metals. Where it is present, check specifically for chromium (VI). If the waste is saline (conductivity > 0.15 S/m), measure the chlorides and preferably all the halogens to make sure you correctly speciate the metals.
+You can also test for other metal content and other elements (for example silicon, sulphur and phosphorous).
+17. When multiple immiscible phases or fractions are present in a waste, you can perform the analysis on each phase and combine them to provide the final result.
+18. Analyses must be carried out by laboratories that have robust quality assurance procedures and use recognised test methods. The EN ISO 17025 accreditation represents best practice.
+19. When you agree that you will accept waste from a customer, you should decide and record what parameters you will check at the acceptance stage. The checks could be visual (for example colour, phase, fuming), physical (for example pumpability, form), chemical (for example pH range, maximum acceptable metals content) or odour based parameters. You should define the acceptable tolerance for each acceptance test result and record which of these criteria could lead to further testing, non-conformance or rejection. The person checking the waste for acceptance can also decide on their own additional parameters.
+
+
+
+      
+        
+          
+            3.2. Waste acceptance
+          
+        
+        
+
+    1. You must follow waste acceptance procedures to check that the characteristics of the waste you receive match your pre-acceptance information. This is to confirm that the waste is as expected and you can accept it. If it is not, you must confirm that you can accept it as a non-conforming waste, or you must reject it.
+2. Your procedures should follow a risk-based approach, considering:
+
+  the source, nature and age of the waste
+  the waste’s hazardous properties
+  potential risks to process safety, occupational safety and the environment (for example, from odour and other emissions)
+  potential for self-heating, self-reactivity or reactivity to moisture or air
+  knowledge about the previous waste holder(s)
+
+3. Other than in an emergency (for example, taking waste from an emergency incident clean-up), you must only receive pre-booked wastes onto site that have been adequately pre-accepted and are consistent with the pre-acceptance information.
+4. All relevant storage areas (quarantine, reception and general) and treatment processes in your facility must have physical capacity for the waste you receive. You must not receive wastes if this capacity is not available. The amount of waste you receive must also comply with storage limits in your permit and the limits set under COMAH.
+5. You must visually check wastes or their packaging and verify them against pre-acceptance information and transfer documentation before you accept them on site. The extent of the initial visual check is determined by the waste type and how it is packaged.
+6. You must check and validate all transfer documentation and resolve discrepancies before you accept the waste. If you believe the incoming waste classification and description is incorrect or incomplete, then you must address this with the customer during waste acceptance. You must record any non-conformances. If you have assessed the waste as acceptable for on-site storage or treatment, you must document this.
+7. You must have clear criteria for non-conforming wastes including rejection of such waste. You must also have a written procedure for recording, reporting and tracking non-conforming wastes, including notifying the relevant customer or waste producer, and the regulator.
+8. You must weigh each load of waste on arrival to confirm the quantities against the accompanying paperwork, unless alternative reliable systems are available (for example, based upon density and volume). You must record the weight in the computerised waste tracking system.
+9. The person carrying out waste acceptance checks must be trained to effectively identify and manage any non-conformances in the loads received, complying with this guidance and your permit conditions.
+10. If there is a known risk of radioactive contamination, you must check the waste to determine that it does not include radioactive material, unless you are permitted to accept these materials.
+11. You must minimise the manual handling of waste. You should use mechanical unloading technologies where it is possible, safe and practicable to do so.
+12. Offloading, sampling, general storage, reception and quarantine areas must have an impermeable surface with self-contained drainage, to prevent any spillage entering the storage systems or escaping off site.
+13. The designated sampling point or reception area must be close to the laboratory or checking area and needs to be visible.
+Acceptance of containerised waste
+14. After you have completed the initial visual inspection and confirmatory checks, you must offload waste containers into a dedicated reception area to await detailed checks or sampling. Wastes that do not require further checking can go directly into the appropriate storage area. You must not unload wastes if you do not have enough space.
+15. All waste containers must be fit for purpose, and, where appropriate, be:
+
+  in sound condition
+  undamaged
+  not corroded, if metal
+  have well-fitting lids
+  suitable for the contents
+  with caps, valves and bungs in place and secure
+
+You must risk assess containers, particularly those made of plastic, if they have exceeded the manufacturer’s use by date.
+You must quarantine non-conforming containers and deal with them immediately and appropriately. You must record all non-conformances.
+16. You must check, and where appropriate sample and analyse, the contents of all containers in the reception area within one working day of receipt. You must then transfer compliant containers to the relevant appropriate storage area on site.
+17. You must move non-compliant containers to a dedicated quarantine area unless you can safely store the waste in a general storage area with other compatible wastes whilst you investigate the non-conformance. You must label non-compliant containers to identify that they are quarantined. You must record the non-conformance and where the waste is stored. If you use a dedicated quarantine area, you must segregate or isolate incompatible wastes. You must contain and abate wastes which are quarantined due to odour.
+18. Quarantine storage must be for a maximum of 5 working days. You must have written procedures for dealing with wastes you hold in quarantine, and a maximum storage volume. For some limited and specific cases (for example the detection of radioactivity), you can extend quarantine storage time if the Environment Agency agrees.
+19. Where containers hold laboratory smalls, you must open each container held in reception within one working day of receipt to check that the contents remain undamaged and that the inventory is as expected. All of the contents in each drum must be compatible. Once checked the container can be moved to the appropriate storage area. Laboratory smalls that need to be sorted must be moved to a dedicated repackaging area and repackaged immediately.
+20. You must make sure that all waste packages you receive are marked or labelled with:
+
+  a description of the waste that also gives its chemical identity and composition
+  a unique tracking system reference
+  the date of arrival on site
+  a hazard code or codes (using a product or transport symbol)
+
+The unique reference must allow you to track the waste and easily identify the producer of the waste.
+21. If waste containers are received shrink-wrapped on pallets, or you shrink-wrap containers, you can label the shrink wrap with all the relevant information. If a shrink wrapped load is split, you must make sure you mark or label each individual container with all the relevant information.
+22. Where bar code systems are used for labelling, the hazardous property of the waste and the date of receipt of the container must be directly visible.
+23. You should, wherever possible, keep wastes segregated in reception, to minimise the risk of incompatible materials reacting together.
+Acceptance of bulk wastes
+24. Bulk loads (liquid or solid) can only be offloaded after they have been fully verified as compliant. You must not accept a non-compliant bulk load for interim storage except in an emergency. Verification testing should include:
+
+  checking consistency with the pre-acceptance information
+  compatibility with the receiving vessel contents
+  where appropriate, checking treatability by using laboratory scale simulation
+
+25. Deliveries in a tanker must be accompanied by a ‘wash out’ certificate or a declaration of the previous load so that contamination by this route can be checked.
+26. Samples from tankers should wherever possible be taken representatively by taking a core sample from the top hatch and from a suitable gantry. You must sample from each compartment where the tanker is divided into multiple compartments. If you have to take a sample from the back valve, you must take precautions to avoid spillages.
+Acceptance sampling
+27. You must representatively sample all wastes, bulk or containerised (including from every container) at the acceptance stage, and carry out verification and compliance testing. You must not just rely on the written information supplied. The requirement to sample does not apply to some wastes, for example:
+
+  pure product chemicals
+  asbestos
+  contaminated clothing, packaging or rags
+  ‘articles’
+  laboratory smalls
+  packaged cosmetics and pharmaceuticals
+  solid non-hazardous waste (except for mirror entries when the waste composition is unknown)
+  contaminated wood and roofing material
+  waste received directly from a householder
+  green wastes and food wastes
+
+Where a sample is not required, you must still visually check the waste is as expected and that no contrary materials are present. You must record the reason why you did not sample the waste in your computerised waste tracking system.
+You must empty and repack containers of contaminated clothing, packaging or rags to check for items that should not be there.
+You must obtain a representative sample and analyse waste oil, from:
+
+  industrial sites that do not normally produce waste oil
+  other sources where chemicals and potential contaminants may be handled, for example from chemical manufacturing
+
+For other waste oil you must obtain a representative sample of the waste but you do not have to analyse it unless a problem is found at the treatment plant.
+28. A representative sample is one that takes account of the full variation and any partitioning of the load so you can account for worst case scenarios.
+29. You must take a sample from every container. You can make a composite sample if each of the containers making up the composite holds the same waste and the waste is known not to be variable. You must obtain a representative sample by taking a core sample down to the base of the container. You must make sure you replace lids, bungs and valves immediately after sampling.
+30. On-site sampling must take place under the supervision of the site’s qualified staff. Where a driver arrives at the site with a sample taken elsewhere, the sample:
+
+  must be verified as representative, reliable and obtained by a person technically competent to take it
+  is only acceptable if it was taken for specific health or safety purposes
+
+31. Sampling must not increase the risk of incompatible substances coming into contact with one another, for example within a sump serving the sampling point, or due to contaminated sampling equipment.
+32. You must have suitable absorbents and spill kit material available to deal with any spills.
+33. You must keep a record of the sampling regime, process and justification in your computerised waste tracking system.
+34. You should keep acceptance samples on site for at least 2 working days after you have:
+
+  treated a waste and removed its treatment residues from the facility
+  transferred a waste from your site
+
+Where you are transferring waste oil from your site you must keep acceptance samples for at least 2 working days after the waste has been treated off site. You must analyse the waste oil sample if a problem is found at the off-site treatment plant. You only need to keep samples that you did not analyse at acceptance.
+35. You must have a sampling and analysis procedure. You must design it based on the risk factors for the waste, for example:
+
+  the type of waste (for example hazardous or non-hazardous)
+  knowledge of the customer (for example waste producer)
+  the impact of potential mixing or blending and the possibilities for subsequent treatment
+
+36. You must check any relevant physico-chemical parameters using, for example, viscometry, infrared, chromatography and mass spectrometry.
+37. Sampling procedures must be customised for:
+
+  bulk liquid
+  bulk solids
+  large and small containers or vessels (the number of samples increases with the number of containers or vessels and the variability of the waste)
+  laboratory smalls
+
+38. You must determine and record the following information:
+
+  the sampling regime for each load, together with your justification for selecting each option
+  where and how the sample was taken
+  the capacity of the sampled vessel (for samples from drums, an additional parameter would be the total number of drums)
+  the number of samples and degree of consolidation
+  the operating conditions at the time of sampling
+
+39. Wherever possible you should sample waste in accordance with:
+
+  EN 14899 Characterization of waste. Sampling of waste materials. Framework for the preparation and application of a sampling plan
+  CEN/TR 15310-1 Characterization of waste. Sampling of waste materials. Guidance on the selection and application of criteria for sampling under various conditions
+  CEN/TR 15310-2 Characterization of waste. Sampling of waste materials. Guidance on sampling techniques
+  CEN/TR 15310-3  Characterization of waste. Sampling of waste materials. Guidance on procedures for sub-sampling in the field
+  CEN/TR 15310-4 Characterization of waste. Sampling of waste materials. Guidance on procedures for sample packaging, storage, preservation, transport and delivery
+  CEN/TR 15310-5 Characterization of waste. Sampling of waste materials. Guidance on the process of defining the sampling plan
+
+For more information see guidance on the classification and assessment of waste WM3.
+Testing and analysis
+40. You must test each waste for acceptance according to the parameters decided at pre-acceptance, plus any appropriate additional checks. You should record the results of the tests in the computerised waste tracking system. You should note and investigate any discrepancies.
+41. Analysis of waste must be carried out by a laboratory with suitably recognised test methods. Where the waste received is hazardous, the laboratory should be on site, or routinely available at another site capable of providing test results within one working day of receipt of the waste at your site.
+
+
+
+      
+        
+          
+            3.3. Waste tracking
+          
+        
+        
+
+    1. You must use a computerised tracking system to hold up-to-date information about the available capacity of the waste quarantine, reception, general and bulk storage areas of your facility, including treatment residues and end-of-waste product materials.
+2. Your waste tracking system must hold all the information generated during:
+
+  pre-acceptance
+  acceptance
+  non-conformance or rejection
+  storage
+  repackaging
+  treatment
+  removal off site
+
+This information must be easily accessible.
+3. You must create records and update them to reflect deliveries, on-site treatment and despatches. Your tracking system will also operate as a waste inventory and stock control system. It must include this information as a minimum:
+
+  the date the waste arrived on site
+  the original producer’s details
+  the previous holder
+  a unique reference number
+  waste pre-acceptance and acceptance information
+  any analysis results
+  the package type and size
+  the intended treatment or transfer route
+  accurate records of the nature and quantity of wastes held on site, including all hazards – and identifying the primary hazards
+  where the waste is located on site
+  where the waste is in the designated treatment or transfer route
+  the names of staff who have taken any decisions about accepting or rejecting waste streams and who have decided on recovery or disposal options
+  details that link each container accepted to its consignment or transfer note
+  details of any non-conformances and rejections
+
+4. The tracking system must be able to report:
+
+  the total quantity of waste present on site at any one time
+  a breakdown by type of the waste quantities you are storing pending treatment or transfer
+  a breakdown of the waste quantities by hazardous property
+  an indication of where a batch or consignment of waste is located on a site plan
+  the quantity of waste on site compared with the limits authorised by your permit
+  the length of time the waste has been on site
+  the quantity of end-of-waste product materials on site at any one time, where applicable
+
+5. You must store back-up copies of computer records off site. Records must be easily accessible in an emergency.
+6. You must hold acceptance records for a minimum of 2 years after you have treated the waste or removed it off site. You may have to keep some records for longer if they are required for other purposes, for example, hazardous waste consignment notes.
+
+
+
+
+        
+  

@@ -1,0 +1,663 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    COVID-19: infection prevention and control (IPC)
+  
+
+  
+  
+
+  
+    
+  Guidance on infection prevention and control for seasonal respiratory infections including SARS-CoV-2.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency, NHS England, Public Health Wales, and Public Health Agency (Northern Ireland)
+
+      
+      Published
+      10 January 2020
+      Last updated
+      
+        24 November 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Infection prevention and control for seasonal respiratory infections in health and care settings (including SARS-CoV-2) for winter 2021 to 2022
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    COVID-19: infection prevention and control dental appendix
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    COVID-19: infection prevention and control for mental health and learning disability settings appendix
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Appendix 1: Sample screening tool for COVID-19 for use in health and care settings (winter 2021 to 2022)
+    
+        PDF, 61.3KB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Appendix 2: Best practice hand wash
+    
+        PDF, 174KB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Appendix 2: Best practice hand rub
+    
+        PDF, 141KB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Appendix 2: Best practice management of blood and body fluid spills
+    
+        PDF, 158KB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Appendix 2: Facial hair and FFP3 respirators
+    
+        PDF, 255KB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Appendix 2: Routine decontamination of reusable equipment
+    
+        PDF, 93.6KB, 2 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    New recommendations for primary and community health care providers in England
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    New government recommendations for England NHS hospital trusts and private hospital providers
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    PHE statement regarding NERVTAG review and consensus on cardiopulmonary resuscitation as an aerosol generating procedure (AGP)
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    [WITHDRAWN] Considerations for acute personal protective equipment (PPE) shortages 
+    
+        HTML
+    
+
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+The IPC principles in this document apply to all health and care settings, including acute, diagnostics, independent sector, mental health and learning disabilities, primary care, care homes, care at home, maternity and paediatrics. This list is not exhaustive.
+
+Please note, this guidance does not apply to adult social care settings in England. Adult social care providers in England should refer to existing guidance. The Department of Health and Social Care (DHSC) and the UK Health Security Agency (UKHSA) will continuously review this guidance and update as needed.
+
+This IPC guidance will be updated in line with service need and as the evidence evolves. The administrative measures outlined in the guidance are consistent with World Health Organization (WHO) guidance.
+
+The guidance is issued jointly by DHSC, Public Health Wales (PHW), Public Health Agency (PHA) Northern Ireland, Health Protection Scotland (HPS), UKHSA and NHS England as official guidance.
+
+While this guidance seeks to ensure a consistent and resilient UK wide approach, some differences in operational details and organisational responsibilities may apply in Northern Ireland, England, Wales and Scotland.
+
+Refer to personal protective equipment use for aerosol generating procedures.
+
+Refer to personal protective equipment use for non-aerosol generating procedures.
+
+Please note that this guidance is of a general nature and that an employer should consider the specific conditions of each individual place of work and comply with all applicable legislation, including the Health and Safety at Work etc. Act 1974.
+
+The epidemiological definitions of outbreaks and clusters has been moved from this page.
+
+
+
+
+        
+      
+
+      
+    Published 10 January 2020
+    Last updated 24 November 2021
+      + show all updates
+      
+        
+            
+              24 November 2021
+              Dental appendix broadened to include seasonal respiratory infections; 3 COVID-19 specific pathways removed and replaced with respiratory and non-respiratory pathways.
+            
+            
+              23 November 2021
+              Updated to clarify text on aerosol generating procedures.
+            
+            
+              22 November 2021
+              Guidance broadened to include seasonal respiratory infections; 3 COVID-19 specific pathways removed; section on the hierarchy of controls added; physical distancing advice updated.
+            
+            
+              29 September 2021
+              Removed PDF format for main guidance and combined HTML documents into one.
+            
+            
+              2 September 2021
+              The standard isolation period advised for contacts of cases within inpatient settings is changed back from 10 to 14 days, in line with current healthcare guidance.
+            
+            
+              10 August 2021
+              Updated mental health and dental appendices in line with main IPC guidance of 1 June. Removed fallow time between household members from dental appendix.
+            
+            
+              1 June 2021
+              Updated to add requirements on local risk assessments and information around use of respiratory protective equipment and valved respirators. Clarified glove use in amber pathway.
+            
+            
+              15 April 2021
+              Removed IPC highlight quick reference guide.
+            
+            
+              21 January 2021
+              Addition of mental health appendix and title change for IPC guidance to 'Guidance for maintaining services within health and care settings.' Guidance amended to strengthen existing messaging and provide further clarity where needed, such as care pathways to recognise testing and exposure.
+            
+            
+              20 October 2020
+              Added COVID-19: infection prevention and control dental appendix.
+            
+            
+              16 October 2020
+              Re-arranged document order and moved ‘COVID-19: epidemiological definitions of outbreaks and clusters in particular settings’ from this page (see link in Details section).
+            
+            
+              16 September 2020
+              Added IPC highlights quick reference guide.
+            
+            
+              9 September 2020
+              Removed 'Considerations for acute personal protective equipment (PPE) shortages'.
+            
+            
+              21 August 2020
+              Added COVID-19 risk pathways to support returning services.
+            
+            
+              7 August 2020
+              Added 'Epidemiological definitions of outbreaks and clusters in particular settings'.
+            
+            
+              23 July 2020
+              Added recommendations for the use of face masks in primary care.
+            
+            
+              18 June 2020
+              Clarification of aerosol generating procedures in the complete guidance PDF and in the COVID-19 personal protective equipment (PPE) page.
+            
+            
+              12 June 2020
+              Addition of new operational guidance from NHS England.
+            
+            
+              21 May 2020
+              Amends to the PDF of complete guidance (added text in the appendix, and a corrected link to evidence review). Corrected link to evidence review also added to the PPE page.
+            
+            
+              20 May 2020
+              Added Appendix 2.
+            
+            
+              19 May 2020
+              Added new PDF version of complete guidance; updated 'Introduction and organisational preparedness', 'Transmission characteristics and principles of infection prevention and control', 'COVID-19 personal protective equipment (PPE)', 'Explanation of the updates to infection prevention and control guidance' ' Reducing the risk of  transmission of COVID-19 in the hospital setting'.
+            
+            
+              3 May 2020
+              Added HSE statement about use of FFP2 respirators to the 'Considerations for acute personal protective equipment (PPE) shortages' attachment.
+            
+            
+              27 April 2020
+              Added statement following NERVTAG review of cardiopulmonary resuscitation as an aerosol generating procedure, and added same statement into the PDF of the complete guidance.
+            
+            
+              24 April 2020
+              Added PDF version of the complete suite of guidance. Added  clarification that chest compression is not an aerosol generating procedure to the PPE page.
+            
+            
+              17 April 2020
+              Added Considerations for acute personal protective equipment (PPE) shortages.
+            
+            
+              12 April 2020
+              Added a statement to clarify that the UK is currently experiencing sustained community transmission of COVID-19.
+            
+            
+              10 April 2020
+              Updated guidance, new Tables 1,3 and 4, and added links.
+            
+            
+              7 April 2020
+              Removed reference to ‘first responders’ in PPE table 3 and guidance.
+            
+            
+              6 April 2020
+              List of guidance updates now included in 'Explanation of the updates to infection prevention and control guidance'.
+            
+            
+              5 April 2020
+              Added Frequently Asked Questions on wearing Personal Protective Equipment (PPE).
+            
+            
+              4 April 2020
+              Added explanation of the updates to the infection prevention and control guidance.
+            
+            
+              3 April 2020
+              Updated 'A visual guide to safe PPE' poster.
+            
+            
+              2 April 2020
+              New tables describing PPE use across different clinical scenarios and settings; advice on sessional PPE use and reusable PPE; change in close-contact distance; advice on washing forearms if exposed; advice on acceptable respirators; general formatting to improve usability.
+            
+            
+              27 March 2020
+              Revised sections on aerosol generating procedures and theatres.
+            
+            
+              23 March 2020
+              Moved guidance for personal protective equipment (PPE) for aerosol generating procedures and for non-aerosol generating procedures to new, separate pages.
+            
+            
+              21 March 2020
+              Added new guidance for putting on and taking off personal protective equipment (PPE) for non-aerosol generating procedures.
+            
+            
+              21 March 2020
+              Added new guidance on when to use a face mask or FFP3 respirator.
+            
+            
+              13 March 2020
+              Added 'Infection prevention and control guidance for pandemic coronavirus'.
+            
+            
+              6 March 2020
+              Changes to PPE and mask and respiratory recommendations for different situations; incorporated existing advice on safe use of point-of-care tests including blood gas machines and updated advice on IPC in operating theatres.
+            
+            
+              3 March 2020
+              Added quick guides and videos for donning and doffing of personal protective equipment (PPE).
+            
+            
+              19 February 2020
+              Added posters for donning and doffing Personal Protective Equipment (PPE).
+            
+            
+              14 February 2020
+              Revised guidance.
+            
+            
+              3 February 2020
+              Updated section on 'Waste' with new information.
+            
+            
+              31 January 2020
+              Updated waste categorisation and terminology for novel coronavirus (2019-nCoV).
+            
+            
+              15 January 2020
+              Updated document with new edition.
+            
+            
+              10 January 2020
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        COVID-19: how to work safely in care homes
+        COVID-19: personal protective equipment use for aerosol generating procedures
+        Personal Protective Equipment (PPE) illustrated guide for community and social care settings
+        COVID-19: personal protective equipment use for non-aerosol generating procedures
+        Coronavirus (COVID-19): personal protective equipment (PPE) hub
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Coronavirus (COVID-19): personal protective equipment (PPE) hub
+        COVID-19: guidance for health professionals
+        Coronavirus (COVID-19): guidance
+        Coronavirus (COVID-19): adult social care guidance
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Infectious diseases
+        Healthcare workers, carers and care settings during coronavirus 
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

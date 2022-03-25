@@ -1,0 +1,40 @@
+    
+
+
+
+ and casualties mount, meeting the humanitarian challenge is the number one priority for businesses. At the same time, it’s becoming clear that many countries are already facing a severe economic downturn. While CIOs currently are focusing on coping with the operational challenges of the crisis, their attentions are already squarely on prudent IT cost management. In reviewing their cost options, CIOs need to assess their business’s strategic context to understand where cuts and investment are needed. As the CIO of one energy company said, “We need to bring costs down quickly, but in a smart way.”In many cases, CIOs have already started to identify first reductions and make them. These cost-management efforts, however, have traditionally fallen far short of what’s possible—and what might be necessary in the near future. There are three things CIOs can do to identify and, if needed, release tens of millions of dollars in spend:
+     By understanding the full range of available measures, CIOs can proactively develop a clear point of view about which cuts (and potential associated risks) are possible and when to make them based on how the business situation unfolds.
+    As much as 30 percent of IT spend can be saved by taking measures that leverage the flexibility built into the cost base. These might include reducing demand volume and service levels, eliminating discretionary spend, delaying nonessential projects, or decommissioning applications with little usage.
+    The CIO needs to balance cost-reduction efforts with the need to invest in a changed business operations model for the new normal after the crisis.
+These measures can help the CIO work proactively with the CEO and C-suite to unlock savings that both ensure business continuity and can be redirected into investments to fit new business priorities. In this way, he or she can position IT as a function that leads the business through the downturn and beyond.Define your full arsenal of cost-reduction measuresMost, if not all, CIOs have defined cost targets in preparation for the downturn that is already upon us. Top CIOs go a step further by developing a holistic point of view about possible savings, how to prioritize them—based on their potential size, feasibility, speed of capture, and their effects on the business and its future readiness—and when to implement them, based on how the COVID-19 situation unfolds. Developing this complete arsenal of options proactively allows the CIO to be prepared to make decisions thoughtfully, strategically, and in close alignment with business leaders.
+
+	
+
+
+
+
+    
+    
+
+To develop a full arsenal of cost-reduction options and plan for how best to implement them, we recommend the following steps:
+    
+    
+    
+    
+    
+
+    
+To execute on these options effectively, based on how the business situation evolves, the CIO should set up a cross-functional IT “plan-ahead” team consisting of experts in IT control functions (such as risk), IT procurement, architecture development methods (ADM), and infrastructure. They will work closely with business units to coordinate cost-reduction waves based on performance measures.Once the planning phase is complete, good plan-ahead teams deploy their experts to help guide and drive various implementation measures. To be effective, however, they need adequate budget and resources, cross-business decision authority, and a fast escalation path to the C-suite to resolve issues. Throughout the whole effort, the plan-ahead team should have a tight grip on any new spending and should limit investments to high-value opportunities that help to prepare the business for the next normal.
+		
+	
+Take advantage of the flexibility built into ITWhile IT is usually perceived as a fixed cost, most IT budgets have plenty of flexibility built in to “breathe” with the business, adapting to changes in business cycles and demands. In a crisis, taking advantage of that flexibility and extending it is the fastest and most effective way to reduce costs. From past experience, we know that IT costs can be reduced by up to 30 percent by taking a “bare minimum” approach that allows IT to continue operating at planned volumes but not more. These cuts can therefore be made in line with business performance and with little effect on IT performance. Some of these cuts are easy to address immediately, while others require changes to contracts or the IT operating model.Flexibility-driven reductions range from the obvious—project-portfolio pruning, contractor furloughs, stopping new hardware purchases, going to lower service levels—to the more sophisticated, such as decommissioning systems with low usage, limiting capacity of development environments, or reducing the availability of on-site support.Many CIOs are already implementing some of these actions in their own area of responsibility. But the big unlock comes from working with the business to understand where there is reduced demand, and then dialing back the support of IT services and systems. One company recently reduced IT costs by 20 percent within six months simply by limiting day-to-day demand for services and applications such as maintenance and shifting from on-site to remote support, without even touching the project portfolio or renegotiating contracts.Some of these actions may not be possible immediately, such as negotiating new contracts or establishing new technology (Exhibit 2). But during a crisis, there are often plenty of opportunities to adapt contracts and make slight shifts in technology that will unlock value within six months. Some vendor contracts, for example, include contingencies that allow reductions in services quickly, often within three to six months. “As-a-service” technologies, such as infrastructure as a service (IaaS) or platform as a service (PaaS), can be established and effective within three to six months in selective areas.
+    
+If these measures aren’t sufficient to achieve cost-reduction targets, CIOs can cut into capabilities that support the business by decommissioning live systems, reducing infrastructure capacity, or completely resetting the project portfolio, which overall may add another 20 percent in savings. These measures can ensure survival, but they typically need to be reversed at some point because they are so drastic that they can deepen or prolong economic distress.Invest in business productivity and the next normalIn times of crisis, when companies need to make significant cost reductions, the CIO is always in an interesting spot. While IT must contribute to overall cost savings, it must also optimize the performance of the business. In the 2008–09 financial crisis, for example, as much as 30 percent of IT cost savings were reinvested into business performance. How well CIOs manage such investments can determine how effectively IT can drive business performance overall.By working closely with business units, the CIO can invest in capabilities that reduce costs for the business, such as process automation, or enhance its ability to drive revenue, such as building out digital channels. The CIO can also rationalize and modernize applications to sustain savings in IT or the business.
+		
+	
+There are four categories of investment that the CIO should prioritize:
+    
+    
+    
+    
+The CIO needs to reduce costs quickly and thoughtfully, while also positioning the organization to drive new growth and innovation for the next normal. He or she is the person who will have to balance the pain of cost-reduction measures with the potential value to the business of reinvested savings. In navigating these twin pressures well, the CIO can not only ensure business survival but also position the business to succeed in the next normal.

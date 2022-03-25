@@ -1,0 +1,17 @@
+
+"We're in the very early days of a very long history of continued very rapid development in the AI field," said William Scherlis, director of the Information Innovation Office at the Defense Advanced Research Projects Agency. He spoke yesterday at a virtual panel discussion at the Defense One Genius Machines 2021 summit.There are a lot of moving parts to AI that must come together to make it all work for the warfighter, he said.
+
+
+
+
+Components include, machine learning, symbolic reasoning, statistical learning, knowledge representation, search and planning, data, cloud infrastructure, algorithms and computing, he said."If you want to do strategy planning, then you're gonna have a mashup of machine learning with, maybe, game theory and a few other elements. So when we talk about AI, sometimes people are referring to just machine-learning algorithms and data and training. But in the systems engineering context, we're really talking about how to build systems that, that have elements of AI capability embedded within them," he said.Scherlis discussed the history of AI, back to the 1940s and noted that there were three waves of development.The first wave involved symbolic AI, which has explicit rules, such as if it's raining, then bring an umbrella, he said. Commercial income tax programs operate this way, using rules, logic and reasoning to reach a conclusion. 
+
+
+
+
+The second wave involved neural nets, which Scherlis refers to as statistical AI. Neural nets attempt to replicate higher-order human thinking skills, such as problem solving.All AI relies on having good data. But although data is certainly important, the real game-changer for AI will be the third wave where symbolic is meshed with statistical to get the best of both worlds, Scherlis predicted."This is a wide open research area, but there's a lot of good work in this area — and I think it's very promising," he said, referring to third wave research.This third wave will need to focus on how AI systems interact with humans in a productive and symbiotic way, he said. 
+
+
+
+
+Warriors will have to understand what it's like to have an AI as a trusted team member, he said.Currently, AI isn't yet ready for prime time, he said. It's still fragile, opaque, biased and not robust enough, which means it does not yet have trustworthiness."At DARPA, we have another number of programs that are, that are addressing these challenges," he added.

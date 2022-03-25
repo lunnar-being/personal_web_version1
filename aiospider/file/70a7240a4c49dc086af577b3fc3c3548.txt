@@ -1,0 +1,1 @@
+The Georgia Institute of Technology (GIT) proposes to investigate extension of use of non-destructive evaluation (NDE) techniques to coated accident tolerant fuel (ATF).

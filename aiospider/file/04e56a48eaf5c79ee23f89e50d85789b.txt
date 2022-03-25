@@ -1,0 +1,14 @@
+The Defense Innovation Unit released its initial "Responsible AI Guidelines" document Nov. 15, with intent to operationalize the Defense Department's ethical principles of artificial intelligence into its commercial prototyping and acquisition efforts.
+"DIU's RAI guidelines provide a step-by-step framework for AI companies, DOD stakeholders and program managers that can help to ensure that AI programs are built with the principles of fairness, accountability and transparency at each step in the development cycle of an AI system," Jared Dunnmon, PhD, technical director of the artificial intelligence/machine learning portfolio at DIU said.
+
+
+
+
+The DIU team has spent the last 18 months working with researchers at the Carnegie Mellon University Software Engineering Institute, and speaking with industry partners, the Joint Artificial Intelligence Center, academia and government officials, and testing these guidelines in order to solicit helpful feedback, Dunnmon said. They are intended specifically for use on DIU programs.The aim of the guidelines, he said is to:
+The guidelines provide examples of how responsible AI considerations can be put into practice in real-world programs, in an effort to create a user-friendly and more easily understood document that expedites the process, Dunnmon said.
+"Users want so they can trust and verify that their tools protect American interests without compromising our collective values," John Stockton, co-founder of Quantifind, a software technology company, that provided DIU feedback on the guidelines during their prototype project said. "These guidelines show promise for actually accelerating technology adoption, as it helps identify and get ahead of potentially show-stopping issues. We've found that leaning into this effort has also served us well outside of government, by strengthening internal controls and producing transparency and patterns of trust that can also be leveraged with all users, both public and private."
+
+
+
+
+To view the guidelines, visit: .

@@ -1,0 +1,123 @@
+
+
+The RAND Blog
+Previous Blog PostHow Could the United States React to Russia's Latest Posturing on Ukraine?Next Blog PostU.S. Support for European Strategic Autonomy Could Boost Transatlantic Solidarity and Security
+
+Reining in COVID-19 Disinformation from China, Russia, and Elsewhere
+commentary
+(The RAND Blog)
+Photo by LeoPatrizi/Getty Images
+
+
+
+by Christian Johnson and William Marcellino
+November 19, 2021
+
+
+During the pandemic, the rapid spread of information has been a powerful force for good: Doctors and researchers have shared their findings on the best ways to prevent and treat COVID-19, and governments have quickly issued critical public health recommendations.
+But this has also allowed misinformation and conspiracy theories to spread more virulently than ever before. This media environment is polluted by dis/misinformation, and the vast scale of the problem means scalable solutions like machine learning could be needed to rein in the bots, trolls, and conspiracy theories being spread by bad-faith actors for their own malign purposes.
+In a newly released RAND study, we looked to identify these kinds of malign operations by analyzing a vast collection of 240,000 COVID-19 English-language news articles published in 2020, from the United States, United Kingdom, Russia, and China.
+Analyzing a dataset this large to uncover subtle trends is quite difficult. Reading articles one at a time to uncover narrative threads gives a highly precise view of what is going on (as a companion piece to this one successfully showed). But it is extremely time-consuming and costly. Reading through nearly a quarter million news articles might take an individual analyst many years, and potentially be inaccurate due to human bias. That's why we decided to turn to machine learning, which allowed us to analyze the entire dataset in mere hours, and generate insights within days.
+Machine learning allowed us to analyze an entire dataset in mere hours, and generate insights within days.Share on TwitterWe started with a simple hypothesis: Russian and Chinese news sources are effectively under state control, but also report actual news. These news outlets have a mandate to push state propaganda, but Russian and Chinese sources often also report on the same topics as Western news sources. Articles about the U.S. economy under COVID-19 restrictions, for instance, were commonly written by both Russian and Chinese news outlets, as well by U.S./UK news outlets. Other topics, though unique to Russian or Chinese sources, were not necessarily propaganda or disinformation: Articles about South Korean politics, although common in Chinese news and uncommon in American news, could simply be reflective of the fact that China and South Korea are neighbors. We therefore decided to map out the topic space of news articles and use our knowledge of context to determine whether a narrative appeared to be propaganda.
+To compare the language of hundreds of thousands of documents, we used two standard machine learning techniques—latent Dirichlet allocation and OPTICS clustering (PDF)—that group news articles together based on their use of common words. We then cross-referenced which topics originated from each country and studied the results.
+Our most important finding was that both Russia and China promoted dangerous conspiracy theories about COVID-19 that likely had a negative impact on global public health, which in our judgment, constitutes serious wrongdoing. These conspiracy narratives included the idea that contact tracing was a sinister plot for governments to track their citizens and establish a totalitarian state; that unproven drugs like hydroxychloroquine and ivermectin were effective for treating COVID-19, but were being withheld from the public by a Big Pharma cabal; and that the danger of COVID-19 was being greatly exaggerated by the media and medical establishment.
+Never mind that these conspiracy theories are self-contradictory: COVID-19, if you were to simultaneously believe all these narratives, is no worse than a mild cold, but also a deadly U.S. government–developed bioweapon. Never mind that both Russia and China have themselves experienced significant death tolls and economic impacts from the virus that have been prolonged by distrust of their own citizens towards the medical establishment. Russia and China's governments have put their geopolitical interests ahead of the public health, safety, and lives of innocent civilians around the world.
+
+Powerful digital tools like machine learning enable us to detect propaganda themes quickly and inexpensively. Share on TwitterThe good news is that powerful digital tools like machine learning enable us to detect these propaganda themes quickly and inexpensively. RAND has an investment in scalable analytic methods, both new combinations of off-the-shelf technology (in this example) and developing new technology. These methods help us see the forest despite the trees—missing some of the finer details, but giving the big-picture view to see the broad contours of the information space.
+Monitoring for this kind of state-level misconduct by bad actors, such as Russia and China in this case, is feasible. And if we can quickly detect and publicly call out and attribute foreign propaganda, we may be better able to fight global problems like the pandemic with science, public health, and smart policy.
+
+Christian Johnson is a physicist and William Marcellino is a senior behavioral scientist at the nonprofit, nonpartisan RAND Corporation.
+Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Christian Johnson
+Associate Physical Scientist
+
+
+
+William Marcellino
+Senior Behavioral and Social Scientist; Professor, Pardee RAND Graduate School
+
+
+
+
+
+
+Topics
+ Big Data
+China
+Coronavirus Disease 2019 (COVID-19)
+Information Operations
+The Internet
+Machine Learning
+Pandemic
+Russia
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+Bad Actors in News Reporting
+
+Nov 15, 2021
+Christian Johnson, William Marcellino
+
+
+
+
+
+
+
+
+
+
+Report
+Superspreaders of Malign and Subversive Information on COVID-19
+
+Apr 29, 2021
+Miriam Matthews, Katya Migacheva, et al.
+
+
+
+
+
+
+
+
+
+
+Content
+Center for Scalable Computing and Analysis
+
+Aug 31, 2020
+
+
+
+
+
+
+
+

@@ -1,0 +1,1034 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Social media playbook
+  
+
+  
+  
+  
+      
+  This playbook explains how we use social media at GDS. In it, we share our best practice, what we've learned and what we're planning to do.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Government Digital Service
+
+      
+      Published
+      17 August 2018
+      Last updated
+      
+        1 September 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          The case for social media
+
+        
+        
+          Making the most of social media
+
+        
+        
+          Community management
+
+        
+        
+          Social media content
+
+        
+        
+          Creative production
+
+        
+        
+          Creating an editorial calendar
+
+        
+        
+          Content for events
+
+        
+        
+          Measure and evaluate your performance
+
+        
+        
+          Where you can find GDS on social media
+
+        
+        
+          Channel guides - how GDS uses Twitter, LinkedIn, Instagram, Flickr, YouTube
+
+        
+        
+          Security
+
+        
+        
+          Social media learning and trends
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+A playbook is ‘a notional range of possible tactics in any sphere of activity’, and part of a good social media strategy that meets the needs of an organisation. This will be a useful resource for anyone managing social media accounts in the UK government.
+
+We discuss:
+
+
+  setting objectives
+  social listening
+  community management
+  creating accessible content
+  social media at events
+  evaluation
+  tips and advice
+  our own approaches with examples
+
+
+GDS approaches social media in the same way as it builds its services: to meet user needs.
+
+We’re interested in connecting with the people who care about what we’re doing. We want to share what we’ve learned from our work and meet the needs of our audience in a prompt and effective way.
+
+If you want to get in touch with us about anything you read here, tweet @gdsteam or email socialmedia@digital.cabinet-office.gov.uk.
+
+The case for social media
+
+In the UK, Facebook has more than 44 million users. There are more than 14 million UK users who scroll through Twitter’s news feed. LinkedIn gains 2 new users every second. There are nearly 24 million Instagram users in the UK.
+
+Snapchat has notched up more than 18 million users in the UK and over a quarter of smartphone users in the UK are using TikTok. YouTube watchers constitute 95% of the global internet population.
+
+That’s to say nothing of the new platforms that continue to emerge each year, and the global events that affect social media usage. While the use of social media by younger age groups is unsurprisingly high, initiatives that increase digital confidence such as the Digital Eagles programme may be contributing to more older people using social media.
+
+From open policy-making through to customer service and user insight, social media is a valuable tool for the public sector.
+
+Making the most of social media
+
+To ensure you’re making the most of social media, it’s important to undertake planning and research to:
+
+
+  establish the objectives of your channels
+  identify your audience
+  build your strategy
+
+
+Social media campaigns should follow the OASIS model - a framework used across government to ensure campaigns are planned, implemented and evaluated effectively.
+
+We’ve outlined some steps to follow so you’ll end up with a clear social media strategy that will allow you to demonstrate the benefits of social media to your organisation.
+
+Establishing objectives
+
+Objectives may change over time but should be defined at the start. They underpin your social media strategy and inform your key performance indicators (KPIs). Start by identifying the role you want social media to play across your organisation and ensure objectives are measurable.
+
+At GDS we use social media to inform and engage. We want to raise awareness of the digital transformation of government services. We also want to share best practice across government. We use several channels to do this.
+
+Social media listening
+
+Finding conversations that matter to you, but might not include your account (for example, when you are not tagged) through social listening can help to shape your objectives, give you a deeper understanding of your audience, and help determine your approach.
+
+Government departments use different commercial social media listening tools to monitor for specific mentions of words or phrases to learn what people are saying online. Pricing models vary from product to product, and often depend on the volume of mentions you want to analyse or the number of user accounts you need.
+
+Social listening insight can be used to:
+
+
+  plan a social media strategy and inform its focus and processes
+  provide a real-time overview of the perception and performance of government services, which enables product teams to react quickly and community managers to provide swift responses to users
+  evaluate campaigns and programmes of work
+
+
+If you’re interested in using social listening tools, we recommend chatting to your Information Assurance or Data Protection team early in the procurement process. They can help you to make sure that how you want to use social listening, and the supplier you’ve chosen, are both compliant with relevant legislation.
+
+The Cabinet Office has a specialised Media Monitoring Unit that supports government departments with their monitoring and evaluation queries.
+
+Audience insight
+
+Monitoring tools provide audience insights including demographic data, location and interests.
+
+Each social media platform has built-in analytics for insights into your audience. Some will give you more detailed insights that can help you to reach new communities and improve how you communicate with your existing followers.
+
+Facebook and Instagram are owned by the same company so it’s not surprising they offer similar analytics, such as telling you what time your users are online, which can be useful when deciding when to post content.
+
+LinkedIn’s analytics can tell you which industries your users work in, their seniority and job functions. This can help you to create more effective and targeted company updates.
+
+Twitter’s native analytics tools for business accounts allow you to identify new or potential audiences for paid campaigns using interest and follower look-alike targeting as well as traditional demographic targeting like age or gender. Twitter iterates its interest categories but, at any given time, they can include anything from an interest in music, film or sports through to ‘life stage’ interests like parenthood or being a student.
+
+Follower look-alike targeting allows you to create a target audience by identifying accounts who attract a similar audience to who you want to reach. For example, if you were running a campaign to reach people with a particular health condition, you might explore follower look-alike targeting around accounts linked to specialist charities or support groups related to the condition.
+
+You can also target using language on Twitter but right now, this isn’t comprehensive and doesn’t include Welsh.
+
+You can also use audience insights to identify influencers and opportunities for collaboration.
+
+Influencer engagement
+
+Influencers can help you reach a bigger audience and create more engagement online but remember - it’s important to only partner with people who match your organisation’s values and aims.
+
+In the past, when teams worked with low-to-no budgets, networks of influencers were used to help boost profiles or amplify campaigns. Now, more influencers are treating their blogs and channels as a primary source of income, with approximately 30% of influencer content receiving some form of financial compensation. This might make unpaid partnerships rarer.
+
+Vuelio’s 2020 Influencer survey predicts the influencer industry will more than quadruple by 2024, so expect influencers to play an ongoing role in integrated, multi-channel ‘PESO’ (Paid, Earned, Shared, Owned) campaigns.
+
+An influencer can be a person, group or brand. BlueNod and Hashtagify can help to identify influencers. You can use social listening tools to do an initial sift but there’s no substitute for doing desk research. Look at who is engaging with your content consistently, and spend time reviewing user feeds, networks and forums.
+
+It’s important to consider whether aligning yourself with an influencer is appropriate or if they potentially pose a reputational threat. Have they expressed views counter to those you are seeking to promote? Have they made statements that would not align with the impartiality of the Civil Service, such as promoting a specific political party rather than just voting in an election?
+
+You can identify potential influencer partnerships by looking at:
+
+
+  the quality of their content
+  how engaged their followers are
+  their connections - a small list of well-curated influencers is better than a list automatically generated by a tool
+  whether your tone of voice on the channel matches that of the influencer
+
+
+This process will help you to manage risk and protect your reputation. It will also help when you make an initial approach, because you’ll understand exactly how your content is going to fit with the influencer’s own content and priorities. And that’s important: three quarters of influencers said they would reject a pitch if it was not relevant enough to their audience.
+
+Before making contact, look at your objectives and ask yourself the following questions:
+
+
+  what do you need to achieve by engaging this particular influencer?
+  what do you want them to do?
+  what’s in it for them?
+
+
+Make sure your brief is clear. Establish whether they are creating content for your channel that they will be tagged in, or will it be created for, and hosted on, their channel? What analytics will they share with you? Establish these parameters in a contract to provide both sides with security.
+
+Choosing your channels
+
+At GDS we manage 4 different Twitter accounts, as well as having a presence on YouTube, Instagram, Flickr and LinkedIn.
+
+Our objectives informed why we set up each channel. We considered the role social media needed to play to deliver our messages, the audiences we needed to engage and the corporate priorities or campaigns we needed to deliver.
+
+You should choose your platforms based on your analysis of your audience, coupled with the communities and people that you know you want to reach.
+
+Setting up a new channel
+
+Setting up new social media platforms can feel appealing (or even expected) if your objective is to reach as many people as possible.
+
+While different or emerging platforms may command an impressive number of users, it’s important to consider whether those people are part of the audience you need to reach. Tailored and targeted will often outperform mass ‘broadcasts’ to an ill-defined audience.
+
+The other consideration is investment. You need to have the resource in place to manage a new channel and make it a success. You’ll need a well-maintained process for creating content and to ensure you’re engaging with your community in a timely way. Running one channel well, where you have established yourself already, is better than running 5 channels poorly - or even abandoning them altogether.
+
+We encourage our team to stay up to date on which platforms are becoming more or less popular. We feed that information into our communications and campaign planning to inform whether piloting activity on a new social media platform will add value and help us to meet our objectives.
+
+If you do decide to adopt a new platform, make sure you have the correct branding, messaging collateral and an initial post in place before you launch. No one wants to see default logos, empty or incomplete ‘about us’ information or a community with no content.
+
+Don’t forget to test them to ensure they are displaying correctly on different devices, for example on mobiles as well as desktops and tablets.
+
+Creating a content strategy
+
+Your content strategy should include:
+
+
+  online conversations using a social listening tool
+  messaging and campaign priorities for your department
+  cross-government messaging and campaign priorities
+  events and awareness days to leverage
+  evidence from previous campaigns
+  your process for crisis communications
+  a press contact in the department, so that urgent points are communicated efficiently
+  accessibility standards that you will adhere to
+  content pillars (a specific piece of content that can be broken into sections) of 3 to 5 areas that any social output must align with to make sure messaging meets priorities
+
+
+Using an editorial calendar will help you get the balance right. More on this can be found in the ‘Creating an editorial calendar’ section.
+
+For example, for Global Accessibility Awareness Day we drafted an OASIS plan that featured an extensive section for social media activity. Social listening tools helped us to identify relevant hashtags that were already used by the target audience. We also researched potential content ideas for each of our channels which included a mix of webinars, animations, graphics, Instagram stories and polls, and blogs. We detailed the content pillars we needed into a creative brief that aligned with the campaign production plan and key milestones.
+
+Community management
+
+Accountability
+
+At GDS, we believe that once you start using social media to talk to your community, you have a responsibility to engage.
+
+You have to be a part of the conversation, especially when people are asking you questions. If you don’t have the resource to answer queries, then you don’t have the resource to use the channel.
+
+Day-to-day management: social customer service
+
+If you have several social media platforms, community managers should track user interactions. They can do this with the help of a social monitoring tool.
+
+At GDS, we aim to provide an initial response to all enquiries within 2 working days, although it’s usually within a matter of hours. We use Sprout Social to track user queries. It allows us to assign them to individual community managers, and ensure a good response time.
+
+There are other tools available to do this (see Falcon Social, Sprinklr, Buffer, Conversocial and Hootsuite amongst others). It’s important to research options to find what best suits your needs and complies with any requirements set by your Information Assurance or Data Protection team.
+
+Community management takes judgement. Sometimes it’s difficult to know which social interactions demand a response. And, if they do, what kind of response is appropriate.
+
+At GDS we use 2 processes:
+
+
+  a standard responses document which lists our most regular queries and pre-approved responses, through which we ensure consistency in messaging and tone of voice
+  an escalation process which identifies urgent queries or reputational threats, using a traffic light system to signify importance
+
+
+This work is part of a wider commitment to deliver better user support across government.
+
+For @GOVUK on Twitter, we are the face of government services but we at GDS do not deliver those services. We work closely with other departments to signpost the appropriate resources users are looking for.
+
+Get in touch if you’d like to hear more about the work we are doing in social customer service.
+
+Day-to-day management: engagement
+
+We use our social media monitoring tool to identify opportunities to engage with our audience. This can be by liking or retweeting tweets. We only retweet if we consider this of value to our followers.
+
+Other departments engage with users much more directly. Various Department for Work and Pensions (DWP) Twitter and Facebook accounts run Q&A sessions with their followers, working together with policy colleagues to provide accurate responses to any queries they receive. Positive experiences like this can build the reputation of and trust in an account.
+
+Some social media management tools offer automated responses or similar features to make engagement with users easier.
+
+For example, scheduling messages in advance is helpful if you want to post at consistent intervals. The downside is that messages that are scheduled too far in advance may be out of date if policy shifts, or may seem insensitive after an unpredicted event.
+
+Consider which features make sense for you to use, as there will be benefits and drawbacks for either a fully-automated or manual approach.
+
+Team wellbeing and resilience
+
+Even if you choose to use automation tools to streamline your social media processes, at some point a person gets involved. User expectations are high: that you will always respond, that you will always have the ‘correct’ answer to very specific situations, that you are the person who can effect change on behalf of an individual - the list goes on.
+
+Community management can therefore be a challenging responsibility for professional communicators. If you are operating community management on a rota, try to ensure that colleagues are not working back-to-back shifts.
+
+We recommend where possible that people have workplace assessments to support their wellbeing. It is also important for line managers to promote healthy working practices, such as staying hydrated and taking regular screen breaks.
+
+It does not happen very often, but occasionally community managers come across messages that are inappropriate or offensive. Make them aware of what support your workplace is able to offer them, such as Mental Health Ambassadors, any Employee Assistance Programmes, talking to their line manager and seeking peer-support from colleagues.
+
+It can be helpful to record disruptive users who routinely breach community rules, so other staff know not to respond to them.
+
+Dealing with detractors
+
+As we’ve mentioned, as soon as you become active on social media, there are going to be people who are not happy about it.
+
+Detractors talk about your account in a derogatory way for no good reason. Do not confuse detractors with people who have valid complaints or questions.
+
+There are several ways to deal with detractors. Start by creating some rules of conduct for your social media channels. This will be a list of behaviours which you will not accept from users. For example this will include content which is:
+
+
+  abusive, violently graphic, defamatory or obscene
+  fraudulent, deceptive or misleading
+  in violation of any intellectual property rights
+  promoting other social media channels, websites or content considered spam
+  ‘flame-baiting’ - in which the aim of the post is to provoke heated and emotional responses
+  ‘Trolling’ - in which the aim is to use off-topic, insulting or threatening remarks to upset another user or group of users
+
+
+You should devise and post your rules of conduct on your social media channel or promote them in another way that is easily found by users. Direct users to this if they behave in an unacceptable manner. You can read GDS’s rules of conduct.
+
+Banning people on social media
+
+We see banning or blocking a user as a last resort. But if a user continually breaks our rules of conduct or is abusive, we do report or block them. Please ensure you know how to do this if you are monitoring messages through a community management tool as well.
+
+Escalation policy
+
+Have an agreed escalation policy. It should include a list of subject areas or scenarios to look out for and a procedure on how to deal with them if they arise. Templates are available online and are a good starter for ten.
+
+We use a traffic light system to identify the levels of severity for an issue and outline the mitigating actions we will take to minimise them as part of our wider approach to strategic communications. These risks are reviewed and discussed quarterly.
+
+For each risk we outline an agreed step by step crisis response including:
+
+
+  who will own the cascade of information
+  which stakeholders need to be notified (and crucially - their up to date contact details)
+  who will take the lead on any crisis response
+  template holding statements and responses
+  actions to take to protect accounts in the event of a breach
+  follow-up actions including incident reports or training updates
+
+
+We provide training to new starters and regular refresher sessions to existing colleagues. This includes testing knowledge and understanding by running scenario-based exercises that put the escalation process into practice under controlled circumstances.
+
+Social media content
+
+Social media and storytelling
+
+Brands use social media to craft stories. Doing so can increase sales, fans and loyalty.
+In contrast, government is not selling or asking for anything. Government uses social media to communicate policy, signpost guidance to users, celebrate occasions special to our nation, and much more.
+
+For @GDSTeam, one of our storytelling themes is transparency. We keep users informed about the transformation of services. We share how they’re built, the people behind the transformation and the process.
+
+We also blog to tell stories and to:
+
+
+  talk about our work and how we do things
+  share things we learn
+  raise awareness of the services we help to build
+  promote our culture and talk about our people
+
+
+People in GDS join colleagues from across government in contributing to community blogs on specific topics. We use our main GDS blog for bigger stories with broader appeal.
+
+We run short social media campaigns around topical announcements. We also run themed weeks around our processes. Past campaigns include #InternationalWomensDay, #Sprint19 and #GOVUKis7. These showcase expertise both in GDS and across government. It allows us to test new ideas and can help us with recruitment.
+
+Storytelling visuals
+
+We’ve included a handful of examples of how we’ve used social media to tell stories. This could be a short campaign we’ve led, or a cross-government campaign we’ve amplified.
+
+For example, we posted a tweet during a campaign for Global Accessibility Awareness Day in 2020. The tweet introduced the campaign with a strong visual asset, and our own hashtag, #AccessibilityRegulations, to group our content. Using the #GAAD hashtag also let us tap into the conversation of a wider audience commemorating the day who might otherwise not have been aware of our accessibility campaigning agenda.
+
+
+
+We also posted 2 tweets after Global Accessibility Awareness Day to share an article from our Director General that was published online. The 2 tweets were threaded together to provide more context for users and enabled us to group 2 graphics together for higher visual impact.
+
+GDS team tweeted: Following our #GAAD event last month, our Director General @alisonpritchard talks about why digital accessibility is so important.
+
+
+GDS team tweeted: Find out more about our #GAAD activity and watch our expert-led webinars in this blog post.
+
+
+
+We also used an Instagram story from Global Accessibility Awareness Day to raise awareness of the accessibility regulations and how to comply with them.
+
+Using interactive features was a good way to track how many people were paying attention to our story, rather than just tapping through. If you have a creator or business account on Instagram you are able to see which accounts participated, and how they responded. Such insights are valuable when shaping future activities on social media.
+
+
+
+Another example is where we used the @GDSteam Twitter channel to promote a cross-government campaign. The #LocalDigital2Years campaign celebrated the second anniversary of the Local Digital Declaration. The organisers asked supporters to share stories about the declaration with an image provided in a media kit from the Ministry of Housing, Communities and Local Government.
+
+We took advantage of the anniversary and campaign assets to highlight and promote a GDS podcast about the Local Digital Declaration.
+
+GDS team tweeted: Today is the 2nd anniversary of the #LocalDigital Declaration! To celebrate, listen to our podcast with @lisajeffrey of GDS, @maynleow of @LDgovUK, @TrickeyLisa of @DorsetCouncilUK and @Healthiapps of @blackburndarwen.
+
+Creative production
+
+Great social content has a consistent look and feel. This is particularly important if you’re creating a series of images or videos. It can drive more engagement than almost anything else.
+
+Involve content creators and community managers in the planning stage. Community managers are able to feed back what users’ needs are based on the queries they respond to, while content creators can help form the brief and come up with impactful and engaging solutions that can be used across channels.
+
+We use a standard image format for @GOVUK that includes the GOV.UK logo, a call to action or phrase that makes the context clear and an illustrated icon. Consistency makes your visual identity stronger and helps to build trust.
+
+Great social content is easily understood. To ensure that this is the case for everyone, you can use the tools and tips included in the guide we prepared for the Government Communication Services on accessible social media campaigns.
+
+The following tweet is an example of how we’ve used the @GOVUK channel to highlight news announcements, linking back to GOV.UK.
+
+GOV.UK tweeted: Universal Jobmatch has now closed and all accounts will no longer be accessible. Use the Find a Job service to apply for full or part-time jobs: findajob.dwp.gov.uk.
+
+
+This next tweet is an example of how we’ve used the @GOVUK channel to signpost users to services on GOV.UK. This tweet was to raise awareness of people’s right to protect them from discrimination if they have a disability on the International Day of Persons with Disabilities.
+
+GOV.UK tweeted: If you have a disability, then you have rights to protect you from discrimination. Find out more on GOV.UK/rights-disabled-person.
+
+
+
+Tips for digital content production
+
+Think about the user needs on the different platforms. If you are using videos to tell stories, note that the platforms differentiate their video offering to remain unique. What works on TikTok videos may be quite different to what people expect from YouTube videos, for instance.
+
+Keep things simple. If the asset does not sell the story or convey the message on its own, it has not worked. Instead of a complex infographic, spread that information across several posts: one piece of information per post.
+
+Remember, one size does not fit all, and any assets created should meet the social media platform specifications.
+
+Consider whether you want to amplify your content through advertising when planning and creating it. For example, Facebook will only let you use an image for advertising that has no more than 20% of text in it.
+
+The GOV.UK style guide and GDS design principles are great places to start when considering best practice in content production. They can help focus your thinking on what’s important.
+
+Creating an editorial calendar
+
+We have an editorial calendar to manage publication, support key policy milestones or roadmap deliverables, and to keep track of events. We use Trello for day-to-day planning and Google Sheets for weekly and yearly planning.
+
+Collaborating and awareness days
+
+Collaboration is an important way to amplify content. To ensure we’re not missing anything across government, we use Basecamp. It connects us to community managers in other government departments.
+
+This allows us to help support some of their communications and marketing campaigns, such as the cross-government response to coronavirus (COVID-19). Twitter Studio has been helpful in adopting assets created by different departments natively.
+
+Government social media teams also support national awareness days and holidays such as celebrating the 75th anniversary of VE Day. We review what opportunities we can provide to support such causes annually.
+
+We adopt an 80/20 rule for content. Roughly 80% is content we create and 20% of content is curated from elsewhere via a retweet or linking to another department’s content.
+
+The important thing to remember about editorial tie-ins is that you must have content that adds value. A rule of thumb for us when we’re tweeting from @GOVUK is that it points back to information on GOV.UK.
+
+Content for events
+
+As with everything, you need to think about your objectives for content around an event. There are various roles social media can play in supporting these.
+
+Build awareness of your event:
+
+
+  let relevant people know that the event is happening
+  give people enough notice to be able to attend
+  make people aware of registration deadlines
+  encourage people to visit the registration site (if applicable)
+
+
+Encourage people to engage or interact with your event:
+
+
+  invite people to participate in event activities
+  engage people with online conversation around the event
+  share event content
+
+
+Gather feedback about your event:
+
+
+  capture positive sentiment and playing this back to attendees
+
+
+Make sure you consider your audience, venue, wider communications plans and hashtag.
+
+Things to consider before an event
+
+How you draft your social media communications plan for events may differ if you are hosting the event, contributing to a session as a speaker or panellist, or simply attending as a delegate.
+
+In every instance, social media needs to align with your wider communication plans, adhere to any departmental policies and follow the guidance for civil servants on using social media.
+
+For events you are attending, be sure to follow the organisers’ instructions on social media usage. Remember, some events can be held under ‘Chatham House Rule’ which means it is expected to remain confidential or for comments of individuals not to be attributed to them. Where social media is encouraged, be sure to use any official event hashtags to add your voice to the debate and help you to participate more fully in the discussion on the day.
+
+If you are running your own event, make sure your social media team is involved in event planning discussions early on. Initial conversations should happen at least 6 weeks in advance to plan and produce supporting content.
+
+Consider having a hashtag for the event that you can promote in advance and signpost to on creative assets. You should also display the hashtag at the venue itself - this encourages attendees to use it on the day. Promote it in areas where people naturally pause, or congregate (and yes, that includes the bathrooms!).
+
+If you have any event partners, ensure they are fully briefed on your social media communications plan. Will you create assets and posts you’d like them to promote via their channels? Or will you provide them with a style guide to follow when producing their own?
+
+Ensure that any speeches or presentations are given to your social media team in advance. This gives them the opportunity to pull out key messages and if necessary, create supporting visuals. It also gives them the opportunity to consider video or streaming services.
+
+The rise in virtual events has changed user behaviour in relation to social media. In lieu of driving people to social media channels, you may wish to encourage greater participation in the chat function of whatever software you are using to run your event - or even set up separate online forums to help drive engagement.
+
+Things to consider on the day of your event
+
+For a physical event encourage good interaction among attendees by checking the venue has good wifi. Make sure the wifi network and password are clearly displayed at check-in or registration. You could also display it where you’d expect attendees to tweet, take photos or videos.
+
+Here’s an example of how we’ve provided live commentary for an event through the GDS Twitter channel.
+
+GDS team tweeted the following quote on the Global Accessibility Awareness Day from a web projects manager at Leeds City Council : “Content can only be useful if it’s not hidden away among the mess”.
+
+
+
+And here is an example of how we’ve kicked off conversations for an event on the GDS Twitter channel. The event was Civil Service Live Online held 14 to 15 July 2020.
+
+GDS team tweeted: We look forward to our #CivilServiceLive session in 1 hour with @alisonpritchard, @DCMS’s Lorna Gratton, @Fitzdigitalgov, @maltbyps & @cabinetofficeuk’s Nimisha Patel discussing the DDaT response to #coronavirus and broader digital transformation in government! Will you be there?
+
+
+
+Measure and evaluate your performance
+
+To ensure evaluation relates back to our objectives, we monitor insights continually and feed these back into the campaign - rather than evaluating at the end. We prefer to measure engagement rather than reach or impressions. It’s a more tangible way of assessing whether people are consuming our content.
+
+We produce a monthly detailed engagement report for internal stakeholders.
+
+There are various ways to measure an objective has been met, and general data source that can provide the measurements.
+
+
+  
+    
+      Metric
+      Data source
+    
+  
+  
+    
+      Number of online mentions across all channels
+      Social media monitoring tool
+    
+    
+      Reach of hashtag
+      Hashtag tracking tool/social media monitoring tool
+    
+    
+      Impressions generated by content on owned social media platforms
+      Social media platform’s native analytics tools
+    
+    
+      Social media likes and comments
+      Social media platform’s native analytics tools
+    
+    
+      Social media shares (including Twitter retweets)
+      Social media platform’s native analytics tools
+    
+    
+      Video views and subscribers
+      Social media platform’s native analytics tools
+    
+    
+      Blog subscribers
+      Blog analytics
+    
+    
+      Number of users adopting campaign hashtag
+      Hashtag tracking tool/social monitoring tool
+    
+    
+      Clicks to website
+      Google Analytics
+    
+    
+      Downloads/requests for information
+      Google Analytics
+    
+    
+      Number of times owned content has been embedded elsewhere
+      Social monitoring tool
+    
+    
+      Sentiment
+      Social monitoring tool combined with manual analysis using a dip test of responses
+    
+    
+      User generated content developed outside of owned channels
+      Social monitoring tool
+    
+  
+
+
+Tracking links
+
+If you’re planning a campaign across multiple channels, are using influencers or an outreach programme, it’s important to track the performance of individual posts in order to understand how each strand of the campaign is performing.
+
+One of the most effective ways to track the performance of your posts is by using UTM tracking. A UTM is a short piece of text added to a URL which works with analytics programs like Google Analytics. It captures anonymous insight into a user’s journey after they click on the link.
+
+We use Google’s UTM generator tool and then analyse the custom Google Analytics dashboard to monitor traffic.
+
+This lets you separate your posts and see how different content or channels are performing. This means you can evaluate your campaign strategy as the campaign goes along, to make sure it is performing well. It can also influence your channel investment, depending on their performance.
+
+Benchmarking
+
+A benchmark is a standard or point of reference which you can compare against. Setting benchmarks allows you to measure whether a post performed better, worse or the same as normal. They also allow you to track your progress over time and set standards for the future.
+
+How to start benchmarking
+
+You have to start by collecting your data. The more data you have, the more robust your benchmarks. Most social media platforms will have a backend where you can view analytics and export the data for posts published between certain dates.
+
+It is best to download the data from your source, rather than copying and pasting or retyping it, as errors can creep in and undermine your analysis. Remember, you won’t be able to isolate data between set points as the platform aggregates the data.
+
+For example:
+
+You published a post on the 1 February. It’s now the 1 March and you want to see how well that post performed. Using the native analytics of the platform, you set the date to pull data for posts published between 1 and 7 February. The number of impressions you will see for that post will be the number of impressions it has had for the period from 1 February to the present. You will not be able to see how many impressions it had between 1 and 7 February.
+
+Therefore, in order to get comparable data we recommend you start collecting data at fixed, regular intervals. At GDS, we download our data on a Monday for all posts published from the previous Monday to Sunday.
+
+Collect your data
+
+Set up a spreadsheet where you will store all your data. Collecting your data in a spreadsheet has the added advantage of allowing you to add more information to your data. This includes whether a post was part of a campaign, or if it had video, and whether that video was film or animation. These are also useful pieces of information which can help you understand why a post may have performed better or worse than normal.
+
+Setting benchmarks
+
+Benchmarks are often averages taken from a large volume of data. Depending on how often you post it may take longer to build up enough data to set a robust benchmark. If you’re posting every day, 3 months worth of data is a good amount to allow you to set benchmarks. If you only post once a week, consider collecting 6 months or more before setting any benchmarks.
+
+Once you have reached a point where you feel confident that you can set a benchmark, record it and state the period it covers. For example, you have 3 months of Twitter data from January to March 2020. The average number of impressions your posts receive on Twitter is 6,000. Your Q1 2020 benchmark for impressions is 6,000.
+
+Updating benchmarks
+
+Benchmarks become more robust the more data you have to base them on. As you build up your data you should update your benchmarks.
+
+At GDS we update our Twitter benchmarks quarterly and our Podcast benchmarks annually.
+
+Accessibility
+
+People don’t often have a choice about interacting with government. If they want to apply for a driving licence or change their tax code they don’t have the opportunity to choose from different suppliers. That means it is very important to make sure government information is as accessible and inclusive as possible.
+
+The Equality Act 2010 says that information provided by government bodies should not exclude anyone. The Public Sector Equality Duty also requires public servants to consider all individuals when carrying out their day-to-day work.
+
+We take making social media accessible seriously, and follow steps to make sure our content is planned, created and published with accessibility and inclusivity in mind. We make sure we consider the needs of all our users.
+
+We have produced a guide on planning, creating and publishing accessible social media campaigns on behalf of the Government Communication Service. In it, you can get advice on:
+
+
+  developing accessible written content in plain English that meets the GOV.UK style guidelines
+
+  best practice accessibility design principles
+  how to use imagery and gifs in accessible ways
+  creating video and animations in accessible formats
+
+
+We continually review how we can keep our communication accessible and are working to promote this ethos across government. If you have any queries on the matter, please don’t hesitate to get in touch with us at socialmedia@digital.cabinet-office.gov.uk.
+
+Where you can find GDS on social media
+
+The bulk of our social activity happens on Twitter. We use 4 different accounts, each with distinct audiences, supporting different programmes of work and objectives.
+
+Twitter
+
+
+  @GOVUK
+  @gdsteam
+  @DigiCareersGov
+  @GDSAcademy
+
+
+Instagram
+
+gdsteam
+
+LinkedIn
+
+Government Digital Service
+
+Others
+
+
+  YouTube
+  Flickr
+  Tumblr
+
+
+A quick note on Facebook
+
+GDS does not have a Facebook page. Initially this was a matter of resource. But with every new update to the newsfeed algorithm it becomes increasingly difficult to get content seen unless you pay to advertise.
+
+Facebook is a valuable platform. The huge, and if necessary, targeted reach of the platform makes it the perfect place to promote campaigns and engage users. The Cabinet Office digital team has a cross-government Facebook page to support departments in this way.
+
+A quick note on Snapchat
+
+GDS does not have a Snapchat channel. Research shows Instagram still outpaces Snapchat in popularity, and Snapchat is more popular with teenagers, who are not our primary target audience. Some government departments have used the platform successfully - for example, the ‘Get Ready for Brexit’ campaign was promoted on a paid-for-ad basis.
+
+For more information and updates on Snapchat, see the Snapchat blog.
+
+A quick note on TikTok
+
+GDS does not have a TikTok account. More than half of the user base is younger than 35, which is not our primary audience, and its purpose does not align with our communication objectives.
+
+Channel guides - how GDS uses Twitter, LinkedIn, Instagram, Flickr, YouTube
+
+Twitter
+
+For an introduction to using Twitter professionally, we recommend reading Twitter’s UK blog.
+These are the techniques that work best for GDS and how we use them.
+
+Getting verified
+
+Being verified on Twitter signals trust. It shows that you’re the official voice of your organisation. Find details on how to verify your account on the Twitter site. Please note that the verification process has officially been paused, though verifications are still processed periodically
+
+Tweeting
+
+When we link to content in tweets, we display the full URL links so users can see where they are being taken to. We do this because the way GOV.UK links are formatted means that they include a description of the content itself, and show where the user will arrive next.
+
+This is important when it comes to building trust. It also reduces the chances of link corruption. URL-shortening services such as bit.ly or ow.ly should be avoided.
+
+URL links now count as 23 characters no matter how long they are. If you’re linking to content on GOV.UK, you can request a short URL.
+
+We keep tweets short because research shows the ideal length of a tweet is 71 to 100 characters. Research has shown people are more likely to remember visuals, rather than text. When people hear information, they’re likely to remember only 10% of it 3 days later. When a relevant image accompanies the same information, people retain 65% of the information 3 days later.
+
+Approximately 80% of UK Twitter users access the platform via mobile. This has huge implications for the content we develop. No one wants to view a complicated infographic on a phone screen.
+
+We also consider video format - square posts with subtitles work well - and how videos will be shown in the news feed. Look at Twitter size guidelines before producing assets for the platform.
+
+Please be aware that Twitter may now choose to apply labels to tweets. They include warnings about manipulated and synthetic media, and misleading or harmful messages.
+
+Hashtags
+
+Hashtags are a tool to share and connect with others around a topic or subject. They also allow users to see what is ‘trending’.
+
+Use hashtags when relevant but never more than 2, and keep these short. You should use CamelCase for hashtags (that means using capital letters on each new word). This helps to make them more accessible for screen reader users and reduces the risk of confusion for everyone - our favourite example of this is #SuperBowl versus #superbowl (or, as screen reading software may say, is that Superb Owl?).
+
+Government departments can track awareness and engagement for campaigns through hashtags. There are many free and low-cost tools available to do this (such as Keyhole, hashtracking.com and Tweetreach).
+
+Additional tools and services
+
+Auto-generated clickable Twitter Cards work well for promoting links. If you’re tweeting a link to a GOV.UK blog, most blog posts will auto-generate this if there’s an image within the post.
+
+The following tweet is an example of where a link in a tweet has generated a clickable Twitter card.
+
+GDS team tweeted: Missed out on the careers event our User Centred Design team ran on Tuesday? If you/someone you know is interested in working at GDS as a designer/researcher/content designer and they belong to an underrepresented group, it’s being re-run on 22 July.
+
+
+
+When you upload a video file to a tweet, Twitter allows you to trim it. Native video files up to 140 seconds long will autoplay in the news feed. Here’s an example of a tweet where we used native video to promote the Government Design Principles.
+
+GDS team tweeted: We first published the Government Design Principles in 2012. They have influenced the work of design-minded people all across government. Earlier this year we made new posters to illustrate the principles which you can download from this blog post.
+
+
+
+Instagram
+
+Instagram is a great way to bring content to life, and we use this to showcase the work and culture of GDS. We sometimes use Instagram as a channel for campaigns, if audience insight suggests our target audience is active there.
+
+Get the most out of Instagram
+
+Check you are using the right hashtags with a tool like Display Purposes: 9 hashtags per post is considered ideal. Get involved in things that are already happening on Instagram. Get inspiration from #WorkplaceWednesday and #EmployeeTakeover.
+
+Make sure your file sizes are optimised for Instagram.
+
+Instagram does not support links: users can only access links by copying and pasting them into their browser from posts. You can feature one link in your Instagram biography and at GDS, we use this to spotlight different content like a new podcast or a key campaign.
+
+For the caption, up to 150 characters are visible and then the rest is visible once the text is clicked. You can use your captions to micro-blog. Here’s an example from International Women’s Day:
+
+Suganya Sivaskantharajah (@sugaland_tx) is an associate data scientist at GDS and a member of the Women’s Network pay transparency working group. She took on the task of pulling together and analysing data on pay, roles and gender to find out more about the gender pay gap at GDS. 
+Suganya worked with the Women’s Network and People Team, then put together a gender pay gap action plan. 
+Follow the link in our bio for more on how Suganya analysed the gender pay gap data and what GDS is doing next.
+
+
+
+Videos work well on Instagram. Instagram Stories continue to demonstrate growth, being used by more than 500 million people every day. You can share stories with your audience instead of normal post updates and you can decide whether to let these disappear within 24 hours, or highlight them on your profile so they do not ‘expire’.
+
+However, the platform is also investing in its IGTV long-form video offer to allow accounts to preview video content in their newsfeed, and publish landscape videos (meaning you can publish videos you may have created for other places here too).
+
+You can still upload vertical videos that last up to an hour in the dedicated app. Long-form educational content has been popular recently as users have turned to using their mobile phones for longer durations.
+
+Instagram recently announced its latest feature, Reels, in what has been described as an attempt to tap into TikTok’s niche. This latest foray comes after its standalone app for short clips mixed to music, Lasso, which generated little interest. Instagram is already scoping out opportunities to commercialise the feature, so it may become more relevant soon.
+
+Instagram continues to be a fertile ground for partnership marketing and working with influencers. When planning your Instagram strategy, consider other ideas such as curated takeovers and collaboration posts. Follow the platform’s guidance on being transparent about any paid or sponsored content.
+
+You can schedule Instagram posts using the Instagram Creator Studio, but you are required to set up a Facebook page to link with your Instagram account to gain access to this tool.
+
+Instagram currently only permits business and creator accounts to access Instagram Insights. Some social media scheduling tools will allow you to see analytics for your Instagram account.
+
+Flickr
+
+
+
+We love Flickr for hosting High Definition images. It’s a valuable image resource for when we create presentations. It’s also great for creating albums that can then be shared to Twitter and displayed online. We also use it as an archive for organisation history.
+
+GDS has trained in-house photographers as part of its creative team. However, we recently launched an initiative that allows individuals from across the organisation to contribute photographs along a series of themes - whether that’s remote working during coronavirus, digital transformation in action or a brilliant Civil Service.
+
+We hope this will help us to ensure our Flickr account (and photography) is as diverse, vibrant and dynamic as our people.
+
+Get the most out of Flickr
+
+Make sure content is correctly titled and tagged. This will help with search engine optimisation (SEO). You can add as many tags as you like to Flickr as there’s no limit, and it does not negatively impact the user experience.
+
+Put images into albums. This allows users to easily find the content they’re looking for. It also allows you to share lovely looking photos direct to Twitter. Remember that the copy you write for the albums will appear in line with your tweet and photos.
+
+Only post sharp, clear images.
+
+We like to upload albums to showcase the work we’re doing at GDS. This could be community meet-ups we’ve held, external events we’ve run or interesting things that happen in our offices. Remember, you need to ask people’s permission and create a record of their consent that clearly outlines how you intend to use the photos.
+
+
+
+YouTube
+
+
+
+YouTube has more than 2 billion users. That’s more than a quarter of all people in the world.
+
+GDS is leading the digital transformation of government and our YouTube channel should reflect this.
+
+A key GDS principle is to ‘show what good looks like’, and films provide an engaging and effective way of doing this.
+
+We have taken a more strategic approach to creating content for our channel. We have created timely content to support campaigns and also evergreen video content to grow our channel in a way that adds value.
+
+We monitor retention, audience growth and engagement in order to determine the best format.
+
+Some things to bear in mind - 8 top tips
+
+
+  Ensure the content is titled and tagged correctly. This is essential for SEO and discoverability.
+  Consider whether you want your video to be ‘listed’ or not - this means whether it will show only to users with the link, or not
+  Add content to the relevant playlists
+  Upload regularly and consistently
+  Ensure your video is mobile optimised. More than 70% of YouTube views come from mobile - this should be factored in when creating new content. Use subtitles as a lot of viewers watch in mute mode.
+  Always add a call to action (CTA) to the description or the text you’re adding to share - when creating a video think about whether you need to have a CTA included as an end frame
+  Consider accessibility - remember when uploading videos to YouTube, you need to make them accessible. To ensure that everyone can get the most from your videos, it’s important they’re either captioned or embedded with a transcript (we cannot publish videos if they do not meet these requirements).
+  Thumbnails - add an enticing thumbnail to your video so it encourages users to watch it. Video thumbnails let people see a quick snapshot of your video.
+
+
+Learn more techniques and best practices through YouTube’s Playbook Guides.
+
+LinkedIn
+
+GDS has a company page on LinkedIn, where we share video updates and link to relevant pages on our blog. We’ve found that our updates on LinkedIn result in a higher click-through and engagement rate than on our other channels, especially if we post about current job vacancies.
+
+Some things to consider when using LinkedIn
+
+LinkedIn is a fantastic channel to showcase expertise and generate discussion. Be prepared to have more in-depth conversations with groups and individuals to add real value.
+
+Get involved with relevant groups on LinkedIn to help promote your company page.
+
+The channel offers great targeting options, so if you want a post to only be seen by a specific group of users, you can set this up. However, do not make your targeting too niche as this could exclude other users who may be interested.
+
+You can also create showcase pages for companies. This allows organisations with multiple products or services to target specific audiences. Another way of pointing to a sub-department or specific topic is to add this as a company page and affiliate it to your company page.
+
+Think about using your employees as advocates to increase brand and employee engagement. For example, they can write long-form articles about their expertise area as native articles on their own account, which you can share from your company page.
+
+Security
+
+The reputation of your organisation is influenced by how you present yourself in public. We are trusted custodians of official channels, and therefore it is our obligation to keep up with cyber security best practice.
+
+In July 2020 a series of high profile verified accounts on Twitter were hacked using social engineering. While social engineering can be hard to prevent, and is by no means the only online threat, there are measures related to the technology that you can put in place to mitigate the risks.
+
+Your Information Assurance team will be a valuable resource, so link up with them to be kept up to date with best practice. At GDS we have the benefit of an in-house security team and work closely with them to iterate our practices.
+
+We take steps such as using secure password managers/storage, providing guidance to staff on how to create secure passwords and regular account updates when people join or leave the team. We have 2 factor authentication (2FA) on all of our accounts and regularly review and update our account recovery processes.
+
+We audit and review this quarterly to test our resilience.
+
+The National Centre for Cyber Security has published an excellent guide for security measures you can implement yourselves as well. It covers a lot of ground, including:
+
+
+  not sharing user logins
+  using password managers to generate and save passwords
+  how to create secure passwords
+  the benefits of 2 factor authentication (2FA)
+  setting up an emergency plan
+
+
+Social media learning and trends
+
+Social media has always been a fast-paced world and it shows no signs of slowing. Platforms are continually developed, new features are released and algorithms evolve.
+
+It is tempting to make predictions but the reality is that the social media landscape is one that is owned by users. When you create content for social media you can (and should) follow the latest best practice, but there is no crystal ball that can prepare you for how people will respond to what you are putting out.
+
+Hashtags can be hi-jacked, or the original purpose of a platform can be subverted.
+
+It’s important to keep watching, listening and learning. Evaluate and iterate the strategy for each of your channels based on new developments and analytics. Regularly undertake thorough analysis (in addition to your standard reports) to deep-dive into things like optimal content types and the times of day you’re posting.
+
+If you work in government communications and are interested in learning more about using social media in your work, the Government Communications Service runs various training opportunities to help you. This includes Accelerate, the government’s digital skills transformation programme.
+
+Useful reference points to find out about the latest developments in social media platforms include:
+
+
+  Twitter blog
+  Instagram blog
+  Linkedin blog
+  Facebook blog
+  TikTok blog
+  Brandwatch blog
+  Sprout Social blog
+  Comms2point0
+  Mashable blog
+  Social Media Today
+
+
+If you want to get in touch with us about anything you’ve read here, please tweet @gdsteam or contact us.
+
+
+
+
+
+      
+        
+    Published 17 August 2018
+    Last updated 1 September 2020
+      + show all updates
+      
+        
+            
+              1 September 2020
+              Playbook updated with new examples and information.
+            
+            
+              17 August 2018
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Design: process and tools
+        Government Design Principles
+        Memorandum of Understanding: monitoring and enforcement of public sector website accessibility
+        Make things accessible and inclusive
+        How to produce accessible documents for DfT
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

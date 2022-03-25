@@ -1,0 +1,179 @@
+
+        
+        
+        
+    This article was a collaboration by Kyle Gibler, MD (associate partner in McKinsey’s Charlotte office); Omar Kattan, MD (consultant in the Southern California office); Rupal Malani, MD (partner in the Cleveland office); and Laura Medford-Davis, MD (associate partner in the Houston office). how to maintain clinical quality standards and financial stability. McKinsey launched a national survey of general and specialty physicians in 2019, which it repeated six weeks into the pandemic (Exhibit 1).
+
+
+ During the first wave of COVID-19, more than half of respondent physicians reported that they were worried about their practices closing.
+
+
+ While autonomy has remained a priority for physicians, respondents indicated that they will consider partnerships or joining a health system as a result of financial uncertainty resulting from the COVID-19 pandemic.
+
+
+
+    
+
+	
+Physician employment continues to grow, and may accelerate after COVID-19
+        
+
+
+    
+    According to an American Medical Association report, physician employment has grown 13 percent since 2012, with the percent of employed physicians surpassing their cohorts in physician-owned practices for the first time in 2018.
+
+
+ In McKinsey’s 2019 survey, 79 percent of small independents, 67 percent of large independents, and 42 percent of employed physicians cited autonomy as a top factor in selecting their current practice model.
+
+
+ In the same survey, 84 percent of all independent physicians who did not proceed with an employment opportunity in previous years, and 59 percent who returned to independent practice after employment, selected autonomy as a primary influencer.
+
+
+Respondent physicians balance autonomy with employmentWhile respondent employed physicians cite autonomy as a top three factor in their current practice model decision, they were more likely than respondent independent physicians to also cite financial stability as a top factor (53 percent of employed compared with 38 percent of small independents).
+
+
+ Around 40 percent of employed physicians cited both personal and practice finances as influencers in their decision to become employed.
+
+
+The demand shock from COVID-19 is unprecedented, and many physician respondents believe that the resulting loss of revenue will put their practices at financial risk. Six weeks into COVID-19, 53 percent of all independent physicians reported that they were worried about their practices surviving the COVID-19 challenge.
+
+
+ Almost half of all independent physician practices said they had less than four weeks of cash on hand,
+
+
+ and 68 percent of those respondents looking for partners ranked financial support as their number-one reason.
+
+
+ A third of small independent physicians reported that they believe working for a larger practice may provide greater benefits.
+
+
+ Many independent physicians said that, due to COVID-19, they were considering partnering with a larger entity, selling their practice, or becoming employed (Exhibit 2).
+
+
+
+    
+
+		
+	
+When asked in 2019, 75 percent of respondent physicians preferred to join an independent physician group while 41 percent preferred to join a hospital or health system.
+
+
+ Six weeks into COVID-19, 89 percent of respondents preferred to join an independent group while 28 percent preferred to join a health system.
+
+
+Despite increasing interest in joining a practice or health system, 26 percent of physicians who joined a practice or health system reported “buyer’s remorse,” stating that they were interested in returning to self-employment.
+
+
+ Respondent physicians in large independent groups reported being less satisfied than smaller independents.
+
+
+ Fifty-eight percent of respondents in large groups compared with 71 percent of respondents in small groups reported that they would like to remain independent.
+
+
+ In light of these survey findings, health systems and other stakeholders may consider strategies to optimize the mutual benefits of physician practice acquisition.Our survey results indicate that while physician referrals historically may be less influenced by formal alignment mechanisms than by patient cost, access, and perceived clinical quality, some physicians are reconsidering referral choices in the context of COVID-19Physician referral patterns—which hospitals, specialists, or testing centers they recommend to their patients—have often been difficult to change. Almost all physicians refer patients to just two hospitals, and 91 percent have not changed their referral destination in the past five years, even though nearly a third of respondents changed their employment status in that period.
+
+
+ A minority of physicians said they consider their employment when making a referral.
+
+
+ Physician respondents said they were most concerned with quality of care and patients’ ability to access care once referred, including concern for patients’ affordability and insurance network, suggesting potential areas for health system focus (Exhibit 3).
+
+
+
+    
+However, when judging quality, physicians reported relying on their own impressions over publicly reported quality metrics.
+
+
+ In addition, small independent physicians cite cost and insurance coverage more frequently than others, while small and large independent physicians said they are more swayed by their own convenience than employed physicians reported.
+
+
+
+    
+
+
+	
+
+
+
+
+    
+    
+
+Six weeks into the onset of the COVID-19 pandemic, 8 percent of physicians report having changed their hospital referral destination.
+
+
+ Physicians’ reported reasons for referral remain largely unchanged from prior to COVID-19.
+
+
+ The 2020 survey offered two additional COVID-19-related options, with 14 percent of physician respondents selecting access to COVID-19 testing (rank 10) and 12 percent selecting access to personal protective equipment (rank 12) as drivers.
+
+
+More than 40 percent of physicians reported that post-COVID-19, they will be more likely to refer patients to non-hospital facilities for procedures, office visits, and diagnostic testing than they were pre-COVID-19 (Exhibit 4), with a more pronounced effect on independent physicians than those who are employed.
+
+
+ A possible rationale is that physicians may be wary of the safety of hospital-based care in the return from COVID-19, although the survey did not include questions to that effect. Sixty-five percent of respondents said they were concerned about infecting family members with COVID-19, while 72 percent said they were concerned about ensuring their patients’ safety from COVID-19.
+
+
+ This finding could suggest that proactive communication and engagement may be critical for health systems still addressing COVID-19 while building physician relationships.
+    
+Our findings indicate that respondent employed physicians do not have a better understanding of, or participation in, value-based care models than independents, and 25 percent of independent respondents are now more skeptical of such models in a post-COVID futureRespondent employed physicians were equally likely to be participating in an alternative payment model (APM) in 2019 as large-group independent physicians.
+
+
+ In addition, both employed and independent physicians reported a lack of understanding regarding the impact of their performance on their compensation.
+
+
+ Employed and small independent physician respondents, however, are twice as unlikely as large independent physicians to report understanding the types of operational metrics that are used as incentives by APMs (Exhibit 5).
+
+
+ These survey findings suggest that while small independents may lack the scale to operationalize success, physicians’ employers may enroll physicians in these models without providing sufficient communication or education.
+    
+Additionally, while physicians reported that they would like to use their patients’ medical and social risks, costs, and communication preferences to tailor value-based decision making at the point of care, they do not always have the required tools and information to do so (Exhibit 6).
+
+
+ This finding is generally consistent regardless of employment status, although respondent small independents report better access to data to understand patients’ communication preferences.
+
+
+ All independents report better data availability for patients’ medication list and social risks than employed physicians report.
+
+
+
+    
+
+		
+	
+Given physicians’ reported perceived lack of capabilities to perform in APMs, it is unsurprising that they reported caution about adopting more value-based payment models within the environment of COVID-19. Twenty-one percent of physicians said they will be less likely to participate in APMs in the future.
+
+
+Employed physicians do not necessarily report better patient access tools, despite potentially greater access to capital, but they do report better operational tools than respondent independent physiciansDespite the importance that physicians report placing on patient access when making referrals (Exhibit 3), it appears as though respondent employed physicians have not been as advantaged over large independents in digital access investments as might have been expected. Our survey results suggest that large and employed practices are both more likely to offer access through expanded hours than small practices, even though this offering requires minimal capital (Exhibit 7).
+
+
+ Prior to COVID-19, employed physicians also reported that they were more likely to offer digital care access such as telehealth, but equally as likely as large independent physicians to report self-scheduling and longer hours.
+
+
+
+    
+It appears as though respondent employed and large-group practices are equally likely to have rapidly scaled up digital care offerings in response to COVID-19 to meet their patients’ needs.
+
+
+ Forty-six percent of physicians report using telehealth during COVID-19 compared with 11 percent in 2019.
+
+
+ This finding may be explained by larger entities’ greater access to capital required to invest in technology. In addition, employed practices are more likely to report planned updates to facility infrastructure or flow and to have added disinfection procedures.
+
+
+ Based on survey results they also are more likely to offer COVID-19 testing (46 percent employed compared with 37 percent independent) than both small and large independent physicians.
+
+
+Survey results further suggest that physician satisfaction with operational tools, such as documentation or referral decision support, is generally low regardless of employment status.
+
+
+ Less than half of respondent physicians believe that technology improves their productivity.
+
+
+ However, employed physicians are consistently more likely than independent physicians to give high ratings to the helpfulness of their electronic medical record (EMR) systems (34 percent compared with 22 percent), EMR IT support (31 percent compared with 18 percent), scheduling software support (26 percent compared with 17 percent), revenue cycle support (23 percent compared with 15 percent), and care management and social work support (26 percent compared with 18 percent), with a slight advantage reported by large-group independent physicians compared with small groups.
+
+
+ These findings suggest that the scale to invest in new infrastructure, technology, and people may be an advantage of health system partnership.Our findings indicate that understanding what physicians want and what they are able to provide could inform a more successful health system strategy for sustaining physician engagement in the medium and longer termThe negative financial impact due to COVID-19 indicated by more than half of independent practices
+
+
+ may lead to a new wave of partnerships and consolidation. However, physician respondents stated that they are looking to gain financial security and operational support without losing too much of their autonomy. Health systems may be looking to increase patient access through an adequate network. Both are committed to providing high-quality, high-value care. As consolidation and partnerships occur, patients could gain greater access to digital care, newer facilities, COVID-19 testing, and social worker support through their physicians’ employment. Yet patients also may be concerned that consolidation would impact the personalization of care.As health systems explore the next chapter of physician acquisition, our research in the healthcare sectors suggests all parties should deepen their understanding of physicians’ needs. Clear communication between health systems and physicians on the expectations and benefits of alignment, including the implications for physicians, their teams, and their patients, will be important considerations in building longer-term successful relationships.

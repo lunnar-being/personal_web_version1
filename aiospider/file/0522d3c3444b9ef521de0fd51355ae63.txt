@@ -1,0 +1,345 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Behaviour change techniques review: descriptive studies
+  
+
+  
+  
+  
+      
+  How to use a behaviour change techniques review to evaluate your digital health product.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency
+
+      
+      Published
+      6 July 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          What to use it for
+
+        
+        
+          Pros
+
+        
+        
+          Cons
+
+        
+        
+          How to carry out a behaviour change techniques review
+
+        
+        
+          Example: behaviour change techniques in highly-ranked physical activity apps
+
+        
+        
+          More information and resources
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This guidance is part of a guide to evaluating digital health products.
+
+Digital health products often aim to change specific behaviour patterns. To evaluate this, you need to know what your product does that aims to change behaviour – that is, the behaviour change techniques it uses. A behaviour change techniques (BCTs) review uses established classifications of BCTs to review behaviour change products or interventions.
+
+The National Institute for Health and Care Excellence (NICE) evidence standards framework for digital health technologies (tier 3a products) recommends describing the functions of your product using appropriate BCTs.
+
+The BCT Taxonomy (v1) [PDF] is one classification system of established BCTs.
+
+What to use it for
+
+You can use a BCTs review at any stage of the development of your digital product or service. It can be used:
+
+
+  before developing your product – to systematically describe how digital technology that is already on the market attempts to change behaviour
+  when developing your product – to plan what features you will include helping users achieve behaviour change
+  when describing your product – to help others understand what techniques it uses
+  while planning your evaluation – to help decide what outcomes you might want to assess
+
+
+Pros
+
+Benefits include:
+
+
+  it is a systematic way to describe the functionality of your digital product using behavioural terms
+  
+BCTs classification is based on extensive research
+  it can help you to identify unaddressed gaps and opportunities for improvement in your product and also in the health technology already on the market
+
+
+Cons
+
+Drawbacks include:
+
+
+  the classification is not always straightforward for digital products
+  you may need additional expertise from someone familiar with behaviour change science
+  we lack understanding of:
+    
+      which BCTs are needed to change different behaviours, for whom, and when these are most effective
+      how techniques interact with each other
+      what is a sufficient delivery ‘dose’
+    
+  
+
+
+How to carry out a behaviour change techniques review
+
+The BCT Taxonomy currently includes 93 BCTs in 16 groups. The BCT is the part of the intervention that aims to change behaviour. For example, awarding medals, badges and points in apps would be categorised as the BCT related to incentives and rewards in the group ‘Reward and threat’. BCTs can be used alone or in combination with others.
+
+Let’s say you are developing a digital service to help people achieve work-life balance. You would like to know what other digital products exist that aim to help users establish work-life balance routines and what BCTs they have used.
+
+First, decide what sample of the interventions will be assessed in your review. This depends on what types of digital products or services you are interested in. You could either review all products or take a sample of them.
+
+A BCTs review aims to describe the content of these products by quantifying the techniques used. This means that for every product in your sample, you would indicate which BCTs are present or absent. Ideally, you should download the product and try to use it to help you accurately describe the BCTs it uses.
+
+It’s also a good idea to have a second reviewer, acting independently of the first reviewer. This makes the review more objective and systematic, and the results are more accurate.
+
+The results of this review will help you to:
+
+
+  see what the most commonly-used BCTs are
+  identify where the gaps may be
+  think about how you could include some of the techniques in your product
+
+
+If most products are using a particular technique, that may suggest it is effective and you might want to make sure your product uses it too. If no products are using a particular technique that seems to fit your context, that might also suggest a gap in the market you could fill.
+
+You can also use BCTs to describe the content of digital interventions that you are developing or have developed. This will help you to describe how your product might support the user to make changes to bring about positive health outcomes.
+
+You can use BCTs in your model of how your product works. This will help you to choose which behavioural outcomes to measure in a comparative study to evaluate your product.
+
+BCTs classification is not the only way to describe interventions or do a review. The advantage of using this taxonomy is that it has been developed in a comprehensive way.
+
+Example: behaviour change techniques in highly-ranked physical activity apps
+
+Bondaronek and others (2017), Quality of publicly available physical activity apps: review and content analysis.
+
+The team wanted to find out how the most popular, highly-ranked apps for physical activity attempt to help users increase their activity. They conducted a study to characterise the content of the apps using the BCT Taxonomy (v1).
+
+They took their sample from the major app stores in the UK: Google Play and Apple iTunes App Store. They focused on the top 400 apps in the Health and Fitness categories of both stores and then selected those apps that were about physical activity.
+
+They found 156 apps and randomly selected 65 to download, explore and assess. They did not download all the apps, as they needed to balance the quality of the findings with time-efficiency and resources needed.
+
+Two reviewers assessed the apps. They then compared results, discussed any discrepancies and reached consensus.
+
+They found that, on average, 7 BCTs were present in the apps, with a range of 1 to 13 out of the 93 possible BCTs. They found that certain BCTs appeared frequently, while others were rare or non-existent. For example, most of the apps provided monitoring and feedback on behaviour, such as automatic monitoring of speed, and distance and pace in running apps. However, other BCTs weren’t present in any apps, such as building a sense of identity that is aligned with healthy behaviour and helping users to reflect on any problems.
+
+This review and content analysis enabled the researchers to:
+
+
+  find out what the most popular apps on the market do to help users to change behaviour
+  identify gaps
+  recommend some improvements for future technology development for physical activity
+
+
+More information and resources
+
+This scientific paper describes how the Taxonomy was developed: Michie and others (2013), ‘The Behavior Change Technique Taxonomy (v1) of 93 Hierarchically Clustered Techniques: Building an International Consensus for the Reporting of Behavior Change Interventions’.
+
+This website includes more resources relating to the Behavior Change Technique Taxonomy, including online training. The team is currently working on the next version of the classification and the updates will be published here.
+
+Jake-Shoffman and others (2017), ‘Methods for Evaluating the Content, Usability, and Efficacy of Commercial Mobile Health Apps’. This discusses different methods for evaluating mobile apps.
+
+Baretta and others (2019), ‘Implementation of the goal-setting components in popular physical activity apps: Review and content analysis’. This study shows how to assess the content of apps against the components of a theory.
+
+Huckvale and others (2015), ‘The Evolution of Mobile Apps for Asthma: An Updated Systematic Assessment of Content and Tools’. This study assessed how the content of apps adheres to the asthma self-management guidelines.
+
+Examples of behaviour change technique reviews in digital health
+
+Simeon and others (2020), ‘Behaviour change techniques (BCT) included in reports of social media interventions for promoting health behaviours in adults (Preprint)’. The team conducted a BCTs review of social media health promotion interventions.
+
+Bardus and others (2016), ‘A Review and Content Analysis of Engagement, Functionality, Aesthetics, Information Quality, and Change Techniques in the Most Popular Commercial Apps for Weight Management’. This study extracted BCTs from weight management apps on the market.
+
+Crane and others (2015), ‘Behavior Change Techniques in Popular Alcohol Reduction Apps: Content Analysis’. This study assessed BCTs in apps that aim to help users reduce alcohol consumption.
+
+
+
+
+
+      
+        
+    Published 6 July 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Case-control study: comparative studies
+        Multiphase optimization strategy (MOST)
+        Usability testing: qualitative studies
+        Micro-randomised trial
+        Think aloud study: qualitative studies
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Behavioural insights: public health
+        Evaluating digital health products
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Health improvement
+        Research, testing and standards
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

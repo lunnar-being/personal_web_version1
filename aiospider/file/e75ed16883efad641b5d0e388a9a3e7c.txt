@@ -1,0 +1,256 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Pathways: Data Visualisation
+  
+
+  
+  
+  
+      
+  Government Analysis Function Learning Pathways, highlighting a route through learning focusing on data visualisation.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Government Analysis Function
+
+      
+      Published
+      1 November 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Analysis Function Learning Pathways: Data Visualisation
+
+        
+        
+          Persona
+
+        
+        
+          Summary
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+
+
+Analysis Function Learning Pathways: Data Visualisation
+
+
+You can find learning to help you follow this pathway on the Learning Hub.  If you don’t already have an account, contact GSS.Capability@statistics.gov.uk to request log in details.
+
+
+Description
+
+Data visualisation is an interdisciplinary field that deals with the graphic representation of data. Visualising data makes it easier to spot trends, patterns, interpret results and speeds up the decision-making process. The data visualisation pathway provides you with a strong conceptual understanding of principles surrounding designing tables and graph to effectively communicate your results using industry standard tools and technologies.
+
+Learning Objectives
+
+
+  Describe the basic design principles that can be applied to communicate with your audience.
+  Understand the best practices while producing visual aids to analyse, understand and publish data.
+  Demonstrate the ability to use different tools and techniques to produce data visualisations while following government guidelines.
+
+
+Length
+
+This pathway contains three courses.
+
+Persona
+
+To help decide if this is the pathway for you, this learning persona is designed to create a realistic representation of the intended learning audience.
+
+
+
+General Background
+
+Teo works in a non-technical role within recruitment.
+
+Starting Point
+
+Teo handles a large amount of data which is instrumental to making decisions about productivity and headcount. They have attended Introduction to R and are keen to use this in their working practices.
+
+Perceived Needs
+
+Teo needs to communicate with a diverse audience and needs a way to cascade information that is easily understood by all. Teo has used other tools but is keen to apply the knowledge gained from attending introduction to R.
+
+Special Considerations
+
+Teo prefers trainer-led sessions to self-study as this helps them continue even when the training gets difficult.
+
+Summary
+
+The data visualisation pathway provides you with a strong conceptual understanding of principles surrounding designing tables and graph to effectively communicate your results using industry standard tools and technologies.
+
+
+You can find learning to help you follow this pathway on the Learning Hub.  If you don’t already have an account, contact GSS.Capability@statistics.gov.uk to request log in details.
+
+
+Back to Analytical Learning Pathways page.
+
+
+
+
+      
+        
+    Published 1 November 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Pathways: Text Analysis
+        Pathways: Data Wrangling
+        Pathways: Statistical Analysis
+        Pathways: Communicating Insight
+        Pathways: Data Quality
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Corporate information
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

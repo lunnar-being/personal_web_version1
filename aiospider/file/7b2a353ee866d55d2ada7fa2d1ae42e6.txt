@@ -1,0 +1,88 @@
+
+
+Recent climatic shifts likely will continue to affect water resources management in significant but uncertain ways. This tool provides information about decisionmaking under deep uncertainty methods—specifically, Robust Decision Making—through five case studies. These case studies focus on three river basins, the Metropolitan Water District of Southern California, and Monterrey, Mexico.
+
+
+
+Water Planning for the Uncertain Future
+An Interactive Guide to the Use of Methods for Decisionmaking Under Deep Uncertainty (DMDU) for U.S. Bureau of Reclamation Water Resources Planning
+by David G. Groves, Nidhi Kalra, James Syme, Edmundo Molina-Perez, Chandra Garber
+Related Topics: Colorado, Environmental Science and Technology, Mexico, Robust Decision Making, Water Resources Management, Water Supply
+Citation
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+Research Questions
+
+How does RDM help account for deep uncertainty in water resources planning studies?How can RDM augment more-traditional planning methodologies?
+
+
+
+Water resources planning is becoming more challenging as the era of expanding supply to meet demand is replaced by integrated resources management, which accounts for limits on new sources, variability in supply and demand, and competing needs from different users. Recent climatic shifts likely will continue to affect water resources management in significant but uncertain ways. At the same time, technological advances are making water use more efficient and upending traditional water-demand forecasting approaches. To ensure that water needs are met in the coming decades, traditional planning methods based on historical system characteristics must be augmented by forward-looking approaches that stress-test assumptions and plans in a wide range of conceivable futures. In other words, approaches and methods need to account for deep uncertainty—uncertainty that cannot be predicted or well understood using standard statistical methods.
+This tool provides information about decisionmaking under deep uncertainty (DMDU) methods—specifically, Robust Decision Making (RDM)—through five interactive case studies. These case studies focus on the Colorado River Basin, Sacramento–San Joaquin River Basin, Pecos River–New Mexico Basin, Metropolitan Water District of Southern California, and Monterrey, Mexico. The goal is to help users gain sufficient familiarity with the methodology and techniques so that they can determine whether RDM is warranted for their own water management study, decide which specific techniques are most appropriate, understand the requirements and challenges for implementing RDM, and assemble the needed technical team and stakeholders to successfully apply RDM to their respective contexts.
+Access the tool
+Key Findings
+
+Reclamation's Colorado River Basin Study used RDM to evaluate thousands of plausible futures and define the future conditions that would require significant investments in new supplies or reduced demands.
+Reclamation's Sacramento–San Joaquin River Basin and Pecos River–New Mexico Basin Studies developed and used five scenarios of future climate condition to evaluate future system performance. For the RAND case studies, researchers describe how the development and evaluation of more futures and the use of RDM could better reveal vulnerabilities and inform management decisions.
+The Metropolitan Water District of Southern California Case Study describes how researchers used RDM to define conditions under which its Integrated Resources Plan (IRP) would not meet stakeholder goals and would need to be modified. Their framework shows that historical demographic, temperature, and precipitation trends are consistent with one IRP vulnerability identified by the study. If these trends continue, Metropolitan will need to adjust its IRP; however, if demographic patterns lead to lower demands, then current climate trends might not require adaptations.
+The Monterrey, Mexico, Case Study describes how researchers used optimization to identify no-regrets, near-term policies and define adaptive pathways along with signposts to guide future policy changes. It showed how advanced RDM techniques created a robust, adaptive strategy. The analysis helped Monterrey avoid a high-cost and risky basin-transfer project in favor of a lower-cost, no-regrets strategy that will help it be more responsive. Water managers in Monterrey can be more assured that they are prepared for the future.
+
+
+
+Research conducted by
+
+RAND Social and Economic Well-Being
+
+
+
+This research was sponsored by the United States Bureau of Reclamation and conducted by the Community Health and Environmental Policy Program within RAND Social and Economic Well-Being.This report is part of the RAND Corporation Tool series. RAND tools may include models, databases, calculators, computer code, GIS mapping tools, practitioner guidelines, web applications, and various toolkits. All RAND tools undergo rigorous peer review to ensure both high data standards and appropriate methodology in keeping with RAND's commitment to quality and objectivity.Our mission to help improve policy and decisionmaking through research and analysis is enabled through our core values of quality and objectivity and our unwavering commitment to the highest level of integrity and ethical behavior. To help ensure our research and analysis are rigorous, objective, and nonpartisan, we subject our research publications to a robust and exacting quality-assurance process; avoid both the appearance and reality of financial and other conflicts of interest through staff training, project screening, and a policy of mandatory disclosure; and pursue transparency in our research engagements through our commitment to the open publication of our research findings and recommendations, disclosure of the source of funding of published research, and policies to ensure intellectual independence. For more information, visit www.rand.org/about/principles.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: RAND Corporation
+Availability: Web-Only
+DOI: https://doi.org/10.7249/TL320
+Document Number: TL-320-BOR
+Year: 2021
+Series: Tools
+
+
+
+Explore
+Related Topics
+
+ColoradoEnvironmental Science and TechnologyMexicoRobust Decision MakingWater Resources ManagementWater Supply
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+Citation
+Format:
+
+ Chicago Manual of Style
+ RAND Corporation Style Manual
+
+Groves, David G., Nidhi Kalra, James Syme, Edmundo Molina-Perez, and Chandra Garber, Water Planning for the Uncertain Future: An Interactive Guide to the Use of Methods for Decisionmaking Under Deep Uncertainty (DMDU) for U.S. Bureau of Reclamation Water Resources Planning. Santa Monica, CA: RAND Corporation, 2021. https://www.rand.org/pubs/tools/TL320.html.
+Groves, David G., Nidhi Kalra, James Syme, Edmundo Molina-Perez, and Chandra Garber, Water Planning for the Uncertain Future: An Interactive Guide to the Use of Methods for Decisionmaking Under Deep Uncertainty (DMDU) for U.S. Bureau of Reclamation Water Resources Planning, Santa Monica, Calif.: RAND Corporation, TL-320-BOR, 2021. As of December 15, 2021: https://www.rand.org/pubs/tools/TL320.html
+
+Download Citation (BibTeX)
+Download Citation (RIS)
+
+
+

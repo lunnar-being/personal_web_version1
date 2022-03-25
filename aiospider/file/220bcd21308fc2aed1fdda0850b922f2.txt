@@ -1,0 +1,34 @@
+
+Nakasone and Dana Deasy, the Defense Department’s chief information officer addressed those changes to the cyber security environment and how DOD is responding at the 2019 Armed Forces Communications and Electronics Association conference in Baltimore, May 14.
+
+
+
+
+''First of all, I would say certainly the threat is more adaptive, the threat is more capable and the threat is more pervasive,'' Nakasone said. ''All of the things that you've heard in so many different spectrums: the barriers to entry remain low, the capacity and capabilities of our adversaries are improving.''Nakasone said what’s also changed is the focus of the National Security Strategy. The strategy has shifted to ''great power competition'' with near-peer adversaries, versus the 17 or more years of operations involving violent extremist organizations, such as in Iraq and Afghanistan.''We're very proud of the work that's been done,'' he said. ''At the same time, we also know that our adversaries have changed and so the targets ... what we have to be concerned about for the future are obviously there as well.''
+
+
+
+
+Other changes include technology, he said, including 5G wireless, which promises to be as fast if not faster than today’s wired broadband technology.''We stand on ... the verge of fifth-generation wireless in the next 12 months,'' Nakasone said. ''Both Dana and I have been very, very busy with regards to machine learning and artificial intelligence. How do we ensure that you know the power of data that we know is there can be applied to utilized and leveraged by our department? Those are the things that are driving us right now.''As DOD’s top information technology executive, Deasy said the department will need to do some work to help industry better understand the things it needs to meet new challenges in cyber.''This is where something's not that different coming from [the] private sector into government, insofar as I think [for] CIOs, generally one of the responsibilities they have is to make sure that industry understands what we're looking for, [and] can explain it in a way that makes it accessible for them to describe products and solutions,'' he said.
+
+
+
+
+Deasy said he’s encouraged leadership within the department to look at both traditional and nontraditional defense providers for cyber solutions.''We need to think about nontraditional players and ... that's all about how do you access them, how do you make them aware that we're interested in conversation with them ... how do we get them to think about us as not being so complicated and so hard to come and have a conversation with,'' he said. ''So it's breaking it down in a way where they feel like we're accessible and they can grab hold of a portion of something we're trying to solve for and help us solve for them.''Deasy said the Joint Artificial Intelligence Center is one example of that effort to help include industry players who don’t typically work with DOD.The center was created, he said, ''to set up an entity of people, to teach them how to just scan the universe of what I call 'the art of the possible' out there, and just to teach them in [the] kind of ways that were maybe were different than our normal acquisition approaches, to how we scan for technology, and that's been really an importance.''
+
+
+
+
+As part of the JAIC, he said, they’ve learned to look for what’s available in the private sector that may be useful to DOD, to hold conversations with nontraditional players in the defense sector, and to make it participation accessible for them to come in and start to show the department what they can do and possible participate in pilot opportunities.''This is where I think we can help private sector help out and teaching new ways for us to do these things inside of government, where you have to do them with a great deal of speed,'' Deasy said.
+Deasy said with the JAIC, the department has been able to question if solutions need to always be built in-house, or can solutions be adopted that might already exist ''somewhere out there in the world, maybe at a university level or it could be a small start-up or it could be a very large established supplier, that we can reach out to.''Nakasone also pointed to the Defense Innovation Unit, previously DIU-Experimental, and the Defense Digital Services as examples of new ways the department looks for solutions.''These guys are at the Pentagon, I mean they're working at the Pentagon, doing a number of different projects that we find of great interest and as I think has been pointed out, turning us on to the areas we should be thinking about and looking at,'' Nakasone said.
+
+
+
+
+Deasy said Nakasone, as lead for Cybercom and the NSA, runs defense on the DOD network. But he said there’s still concern about the breadth of the attack surface exposed to adversaries.''You have this entire surface space called 'every place that an adversary will look to try to get in' from an endpoint all the way through an application through data, through networks, through a weapon system etc.,'' Deasy said. ''I worry about the resiliency. How do we make the Department of Defense more resilient? We fix the sins of our past. But I look to [Nakasone] to answer the question: do you see us every day as you defend our networks that we're becoming more resilient?''Nakasone said he has several ways to evaluate the effectiveness of efforts to increase resiliency of the DOD network.
+
+
+
+
+''The first measure of success — do we have awareness of what we're facing? We do have awareness. I mean there is clearly a delineation of the most important things that we're going to address based upon the vulnerabilities that we're seeing,'' he said. ''Secondly, I would measure do the senior leaders of our department listen, care, understand? They do. I can tell you that we brief them regularly, there is interest in it and I think that, you know, as we take a look and say, 'Can solutions be had here?' 'Yes.' You have leadership that says, 'We're going to fix this.'''Finally, he said, is resourcing available to defend the network.''Based upon last year's success, I think the work that's being done to get ready for the ‘21 budget build — yes — those are all very good areas,'' Nakasone said.
+ 

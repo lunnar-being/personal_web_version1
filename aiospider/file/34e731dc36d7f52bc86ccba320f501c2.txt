@@ -1,0 +1,313 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Combined heat and power quality assurance (CHPQA) standard
+  
+
+  
+  
+
+  
+    
+  CHPQA methodology, definitions, QI thresholds, and criteria for Good Quality certification.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Business, Energy & Industrial Strategy and Ofgem
+
+      
+      Published
+      1 November 2000
+      Last updated
+      
+        11 March 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    The CHPQA Standard - Issue 8
+    
+        PDF, 426KB, 23 pages
+    
+
+
+  
+
+  
+      
+  
+  
+    The CHPQA Standard - Issue 7
+    
+        PDF, 421KB, 24 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@beis.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    The CHPQA Standard - Issue 6
+    
+        PDF, 603KB, 23 pages
+    
+
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+The CHPQA Standard is the formal document setting out the CHPQA methodology, definitions, thresholds, and criteria for ‘Good Quality’ certification. The Standard specifies different Quality Index (QI) formulae for the purposes of determining eligibility for benefits other than those from the Renewables Obligation and Contracts for Difference for which the relevant certification requirements are specified in:
+
+
+  CHPQA Guidance Note 44, Issue 6
+  CHPQA Guidance Note 44, Issue 7
+
+
+The Standard should be read in conjunction with the supporting CHPQA Guidance Notes, which provide detailed information on how this Standard will be interpreted by government departments and agencies, as well as guidance on compliance with this Standard. It is the intention that the Standard should be subject to minimum change; developments in the application of the Standard will, whenever possible, be reflected in changes in the Guidance Notes. The Standard does not address issues relating to the use of CHPQA for determining eligibility for fiscal benefits. For these matters, reference should be made to the CHPQA Guidance Notes and, where necessary, the appropriate government department.
+
+
+CHPQA Standard – Issue 8: March 2021
+
+Following consultation in December 2020, a Temporary COVID-19 Easement has been approved to reduce the financial impact of COVID-19 on CHP Scheme operators and to allow continuity of support under the CHPQA Programme for the 2021 certification process.
+
+The Temporary COVID-19 Easement will allow Schemes to be recertified in 2021 where Scheme Operators can provide appropriate evidence of the impact that lockdowns and other COVID-19 restrictions have had on the operation of their Schemes.
+
+Such Schemes will be recertified using 2019 operational performance data, or F3 design data for those schemes that only became operational during 2020.
+
+There is additional information on the process, timescales and applying for the Easement in Guidance Note 60.
+
+
+CHPQA Standard – Issue 7: December 2018
+
+CHPQA Standard Issue 7 replaces Issue 6. Having reviewed responses to the Call for Evidence, the results of analysis and reviewed performance across Europe, the government is concerned that the energy efficiency requirements set out in Issue 6 of Guidance Note 44 (GN44) are no longer sufficient to ensure that only good quality CHP receives CfD support. In response to this, there was a government consultation and response to proposed amendments to the Contracts for Difference (CfD) scheme. The changes have resulted in the overall efficiency of dedicated biomass with combined heat and power (CHP) and energy from waste with CHP schemes, required to qualify for a CfD being increased in the third allocation round. As a result, a revised version of Guidance Note 44 (GN44) has been issued (Issue 7) to which the Standard refers. In this update of the Standard (Issue 7) these references are updated but with no changes to the Standard formulae.
+
+
+CHPQA Standard - Issue 6
+
+The EU updates the energy efficiency requirements that underpin the CHPQA Scheme every 3-4 years, in line with technological developments. The most recent update was published in December 2015 and should apply to new CHP plants’ operational efficiency from 1 January 2016, when they apply for certification in 2017 – see ‘Which CHPQA Standard Quality Index formulae to use’ below. CHP plants that received CHPQA certification prior to 1 January 2016 will have their QI values grandfathered – these are included in the Table 1 of Issue 5 of the CHPQA Standard. For certain types of new CHP plant (mostly those fuelled by biomass) the energy efficiency requirements are now tighter, however, for most CHP plants the requirements stay the same or are lessened. The CHPQA Administrator engaged with stakeholders when feeding the EU updates into the UK CHPQA scheme.
+
+Which CHPQA Standard Quality Index formulae to use
+
+
+  The CHPQA Standard Issue 7 QI formulae are the same as the CHPQA Standard Issue 6 and its application remains the same as issue 6
+  The CHPQA Standard Issue 6 QI formulae apply to all Schemes that receive an F3 or an F4 CHPQA certificate on or after 1 January 2017, where they have not received an F3 or an F4 certificate prior to 1 January 2016. Also, all Schemes that receive an F3 CHPQA certificate (based on design data) for the first time between 1 January and 31 December 2016 will be certified on the basis of the Standard Issue 6 QI formulae from 2017 onwards.  Detailed grandfathering arrangements and how these will be applied can be found in Issue 6 of the CHPQA Standard.
+  Schemes that received an F3 prior to 1 January 2016 or an F4 CHPQA certificate prior to 1 January 2017 will continue to receive CHPQA certification on the basis of the Standard QI formulae under which they were previously certified.
+
+
+
+
+
+        
+      
+
+      
+    Published 1 November 2000
+    Last updated 11 March 2021
+      + show all updates
+      
+        
+            
+              11 March 2021
+              CHPQA Standard Issue 8, March 2021 added.
+            
+            
+              18 December 2018
+              CHPQA Standard Issue 7 published.
+            
+            
+              21 October 2016
+              The CHPQA Standard Document - Issue 6 is published.
+            
+            
+              1 November 2000
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Combined heat and power quality assurance (CHPQA) guidance notes
+        Use of CHPQA to obtain Enhanced Capital Allowances
+        Combined heat and power quality assurance forms
+        CHP Scheme Self-Assessment Form F3 and F3(S)
+        CHP Scheme Self-Assessment Form F4 and F4(S)
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Combined heat and power quality assurance forms
+        Contracts for Difference (CfD): Allocation Round 3
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Low carbon technologies
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

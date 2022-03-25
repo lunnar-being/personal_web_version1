@@ -1,0 +1,90 @@
+
+    
+    
+
+        
+        
+        
+    
+        
+
+
+    
+    —with higher confidence than ever before—that, without meaningful decarbonization, global temperatures will rise to at least 1.5°C above preindustrial levels within the next two decades.
+
+
+ This could have potentially dangerous and irreversible effects. A better understanding of how a changing climate could affect people around the world is a necessary first step toward defining solutions for protecting communities and building resilience.
+
+
+As part of our knowledge partnership with Race to Resilience at the UN Climate Change Conference of the Parties (COP26) in Glasgow, we have built a detailed, global assessment of the number of people exposed to four key physical climate hazards, primarily under two different warming scenarios. This paper lays out our methodology and our conclusions from this independent assessment.
+        
+
+
+    
+    Our findings suggest the following conclusions:
+    Under a scenario with 1.5°C of warming above preindustrial levels by 2030, almost half of the world’s population could be exposed to a climate hazard related to heat stress, drought, flood, or water stress in the next decade, up from 43 percent today
+
+
+—and almost a quarter of the world’s population would be exposed to severe hazards. (For detailed explanations of these hazards and how we define “severe,” see sidebar “A climate risk analysis focused on people: Our methodology in brief.”)
+    Indeed, as severe climate events become more common, even in a scenario where the world reaches 1.5°C of warming above preindustrial levels by 2050 rather than 2030, nearly one in four people could be exposed to a severe climate hazard that could affect their lives or livelihoods.
+    Climate hazards are unevenly distributed. On average, lower-income countries are more likely to be exposed to certain climate hazards compared with many upper-income countries, primarily due to their geographical location but also to the nature of their economies. (That said, both warming scenarios outlined here are likely to expose a larger share of people in nearly all nations to one of the four modeled climate hazards compared with today.) Those who fall within the most vulnerable categories are also more likely to be exposed to a physical climate hazard.
+These human-centric data can help leaders identify the best areas of focus and the scale of response needed to help people—particularly the most vulnerable—build their climate resilience.A larger proportion of the global population could be exposed to a severe climate hazard compared with todayUnder a scenario with 1.5°C of warming above preindustrial levels by 2030, almost half of the world’s population—approximately 5.0 billion people—could be exposed to a climate hazard related to heat stress, drought, flood, or water stress in the next decade, up from 43 percent (3.3 billion people) today.In much of the discussion below, we focus on severe climate hazards to highlight the most significant effects from a changing climate. We find that regardless of whether warming is limited to 1.5°C or reaches 2.0°C above preindustrial levels by 2050, severe hazard occurrence is likely to increase, and a much larger proportion of the global population could be exposed compared with today (Exhibit 1).
+    
+This proportion could more than double, with approximately one in three people likely to be exposed to a severe hazard under a 2.0°C warming scenario by 2050, compared with an estimated one in six exposed today. This amounts to about 2.0 billion additional people likely to be exposed by 2050. Even in a scenario where aggressive decarbonization results in just 1.5°C of warming above preindustrial levels by 2050, the number of people exposed to severe climate hazards could still increase to nearly one in four of the total projected global population, compared with one in six today.Heat stressOne-sixth of the total projected global population, or about 1.4 billion people, could be exposed to severe heat stress, either acute (humid heat waves) or chronic (lost effective working hours), under a 2.0°C warming scenario above preindustrial levels by 2050, compared with less than 1 percent, or about 0.1 billion people, likely to be exposed today (Exhibit 2).
+    
+Our results suggest that both the severity and the geographic reach of severe heat stress may increase to affect more people globally, despite modeled projections of population growth, population shifts from rural to urban areas, and economic migration. Our analysis does not attempt to account for climate-change-related migration or resilience interventions, which could decrease exposure by either forcing people to move away from hot spots or mitigating impacts from severe heat stress.
+	
+For those with livelihoods affected by severe chronic heat stress, it could become too hot to work outside during at least 25 percent of effective working hours in any given year. This would likely affect incomes and might even require certain industries to rethink their operations and the nature of workers’ roles. For outdoor workers, extreme heat exposure could also result in chronic exhaustion and other long-term health issues. Heat stress can cause reductions in worker productivity and hours worked due to physiological limits on the human body, as well as an increased need for rest.We have already seen some of the impacts of acute heat stress in recent years. In the summer of 2010 in Russia, tens of thousands of people died of respiratory illness or heat stress during a large heat-wave event in which temperatures rose to more than 10°C (50°F) higher than average temperatures for those dates. One academic study claims “an approximate 80 percent probability” that the new record high temperature “would not have occurred without climate warming.”
+
+
+ To date these impacts have been isolated events, but the potential impact of heat stress on a much broader scale is possible in a 1.5°C or 2.0°C warming scenario in the coming decades.While we did not assess second-order impacts, they could also be meaningful. Secondary impacts from heat stress may include loss of power, and therefore air conditioning, due to greater stress on electrical grids during acute heat waves,
+
+
+ increased stress on hospitals due to increased emergency room visits and admission rates primarily during acute heat-stress events,
+
+
+ and migration driven primarily by impacts from chronic heat stress.
+
+
+Urban water stressThe rate of growth in global urban water demand is highly likely to outpace that of urban water supply under future warming and socioeconomic pathway scenarios, compared with the overall historical baseline period (1950–2010). In most geographies, this problem is primarily caused not by climate change but by population growth and a corresponding growth in demand for water. However, in some geographies, urban water stress can be exacerbated by the impact of climate change on water supply. In a 2.0°C warming scenario above preindustrial levels by 2050, about 800 million additional people could be living in urban areas under severe water stress compared with today (Exhibit 3). This could result in lack of access to water supplies for drinking, washing and cleaning, and maintaining industrial operations. In some areas, this could make a case for investment in infrastructure such as pipes and desalination plants to make up for the deficit.
+    
+Agricultural droughtAgricultural drought is most likely to directly affect people employed in the agricultural sector: in conditions of anomalously dry soils, plants do not have an adequate water supply, which inhibits plant growth and reduces production. This in turn could have adverse impacts on agricultural livelihoods.In a scenario with warming 2.0°C above preindustrial levels by 2050, nearly 100 million people—or approximately one in seven of the total global rural population projected to be employed in the agricultural sector by 2050—could be exposed to a severe level of drought, defined as an average of seven to eight drought years per decade. This could severely diminish people’s ability to maintain a livelihood in rainfed agriculture. Additional irrigation would be required, placing further strain on water demand, and yields could still be reduced if exposed to other heat-related hazards.While our analysis focused on the first-order effects of agricultural drought, the real-world impact could be much larger. Meaningful second-order effects of agricultural drought include reduced access to drinking water and widespread malnutrition. In addition, drought in regions with insufficient aid can cause infectious disease to spread.Further, although our analysis did not cover food security, many other studies have posited that if people are unable to appropriately adapt, this level of warming would raise the risk of breadbasket failures and could lead to higher food prices.
+
+
+Primarily as a result of surging demand exacerbated by climate change,
+
+
+ Cape Town, South Africa, a semi-arid country, recently experienced a water shortage. From 2015 to 2018, unusually high temperatures contributed to higher rates of evaporation with less refresh due to low rainfall, contributing to decline in water reserves which fell to the point of emergency
+
+
+—by January 2018, about 4.3 million residents of South Africa had endured years of constant restrictions on water use in both urban and agricultural settings. Area farmers recorded losses, and many agricultural workers lost their jobs. In the city, businesses were hit with steep water tariffs, jobs were lost, and residents had to ration water.Riverine and coastal floodingUnder a scenario with warming 2.0°C above preindustrial levels by 2050, about 400 million people could be exposed to severe riverine or coastal flooding, which may breach existing defenses in place today. As the planet warms, patterns of flooding are likely to shift. This could lead to decreased flood depth in some regions and increases likely beyond the capacity of existing defenses in others.Riverine floods can disrupt travel and supply chains, damage homes and infrastructure, and even lead to loss of life in extreme cases. The most vulnerable are likely to be disproportionately affected—fragile homes in informal coastal settlements are highly vulnerable to flood-related damages.This analysis does not account for the secondary impacts of floods that may affect people. In rural areas, floods could cause the salinity of soil to increase, which in turn could damage agricultural productivity. Flooding could also make rural roads impassable, limiting residents’ ability to evacuate and their access to emergency response. Major floods sometimes lead to widespread impacts caused by population displacement, healthcare disruptions, food supply disruptions, drinking-water contamination, psychological trauma, and the spread of respiratory and insect-borne disease.
+
+
+ The severity of these impacts varies meaningfully across geographic and socioeconomic factors.
+
+
+People in lower-income countries tend to have higher levels of exposure to hazardsOur analysis suggests that exposure to climate hazards is unevenly distributed. Overall, a greater proportion of people living in lower-income countries are likely to be exposed to one or more climate hazards (Exhibit 4). Under a scenario with warming 2.0°C above preindustrial levels by 2050, more than half the total projected global population could be affected by a climate hazard. On the other hand, only 10 percent of the total population in high-income countries is likely to be exposed. That said, there could also be meaningful increases in overall exposure in developed nations. For example, based on 2050 population projections, about 160 million people in the United States—almost forty percent of the US population—could be exposed to at least one of the four climate hazards in a 2.0°C warming scenario by 2050.
+    
+In all, our analysis suggests that nearly twice as many highly vulnerable people (those estimated to have lower income and who may also have inadequate shelter, transportation, skills, or funds to protect themselves from climate risks) could be exposed to a climate hazard (Exhibit 5).
+    
+One of the implications of these findings is that certain countries are likely to be disproportionately affected. Two-thirds of the people who could be exposed to a climate hazard in a 2.0°C warming scenario by 2050 are concentrated in just ten countries. In two of these, Bangladesh and Pakistan, more than 90 percent of the population could be exposed to at least one climate hazard.
+        
+
+
+    
+    A vast number of people in India could also be exposed. Under a scenario with warming 2.0°C above preindustrial levels by 2050, nearly half of India’s projected population—approximately 850 million—could be exposed to a severe climate hazard. This equates to nearly one-quarter of the estimated 3.1 billion people likely to be exposed to a severe climate hazard globally by 2050 under a 2.0°C warming scenario (see sidebar “India’s vulnerability to climate hazards”).Between now and 2050, population models
+
+
+ project that the world could gain an additional 1.6 billion people, a proportion of whom are likely to be more exposed, more vulnerable, and less resilient to climate impacts.For example, much of this population growth is likely to come from urban areas. Urbanization is likely to exacerbate the urban heat-island effect—in which human activities cause cities to be warmer than outlying areas—and humid heat waves could take an even greater toll. Urbanization is likely a driver in increased exposure of populations in coastal and riverine cities.In India and other less developed economies, water stress is less of a climate problem and more of a socioeconomic problem. Our work and previous work on the topic has shown that increased water stress is mostly due to increases in demand—which is primarily driven by population growth in urban areas.As labor shifts away from agriculture and other outdoor occupations toward indoor work, fewer people may be exposed to the effects of agricultural drought and heat stress. But on balance, many more people will likely be exposed to climate hazards by 2050 than today under either a 1.5°C or a 2.0°C warming scenario above preindustrial levels.Many regions of the world are already experiencing elevated warming on a regional scale. It is estimated that 20 to 40 percent of today’s global population (depending on the temperature data set used) has experienced mean temperatures of at least 1.5°C higher than the preindustrial average in at least one season.
+
+
+Mitigation will be critical to minimizing risk. However, much of the warming likely to occur in the next decade has already been “locked in” based on past emissions and physical inertia in the climate system.
+
+
+ Therefore, in addition to accelerating a path to lower emissions, leaders need to build resilience against climate events into their plans.Around the world, there are examples of innovative ways to build resilience against climate hazards. For example, the regional government of Quintana Roo on Mexico’s Yucatán Peninsula insured its coral reefs in an arrangement with an insurance firm, providing incentives for the insurer to manage any degradation,
+
+
+ and a redesigned levee system put in place after Hurricane Katrina may have mitigated the worst effects of Hurricane Ida for the citizens of New Orleans.
+
+
+Nonstate actors may have particular opportunities to help build resilience. For instance, insurance companies may be in a position to encourage institutions to build resilience by offering insurance products for those that make the right investments. This can lower reliance on public money as the first source of funding for recovery from climate events. Civil-engineering companies can participate in innovative public–private partnerships to accelerate infrastructure projects. Companies in the agricultural and food sectors can help farmers around the world mitigate the effects that climate hazards can have on food production—for example, offers of financing can encourage farmers to make investments in resilience. The financial-services sector can get involved by offering better financing rates to borrowers who agree to disclose and reduce emissions and make progress on sustainability goals. And, among other actions, all companies can work to make their own operations and supply chains more resilient.Accelerating this innovation, and scaling solutions that work quickly, could help us build resilience ahead of the most severe climate hazards.

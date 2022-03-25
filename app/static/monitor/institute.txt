@@ -1,0 +1,3626 @@
+NASA,651
+Senate,369
+Congress,350
+DOE,338
+House,262
+NSF,256
+New York Times,233
+White House,219
+Washington Post,176
+SpaceNews,167
+NIH,163
+NOAA,129
+E&E News,120
+Wall Street Journal,108
+EPA,104
+EU,104
+ScienceInsider,86
+the National Science Foundation,84
+NNSA,83
+AP,82
+GAO,79
+the Department of Energy,70
+Research Professional,69
+APS,69
+Science,68
+House Science Committee,61
+Pentagon,60
+Reuters,55
+Transportation Committee,53
+Trump,53
+Science Committee,52
+DARPA,52
+Scientific American,52
+Society,51
+Workforce,51
+AI,50
+International Affairs,50
+the National Oceanic and Atmospheric Administration,47
+Bloomberg,47
+CDC,46
+Times Higher Education,46
+Defense News,43
+MIT,43
+Appropriations Committee,42
+Hill,42
+Commerce,39
+Armed Services Committee,39
+the House Science Committee,37
+FDA,36
+Physics World,35
+ARPA,35
+Fermilab,35
+S&T,34
+Politico,33
+the White House,33
+the National Institute of Standards and Technology,33
+State Department,33
+National Academies,32
+FCC,32
+Space Review,30
+UN,30
+Energy,30
+NIST,29
+NPR,29
+Energy and Natural Resources Committee,29
+Forbes,28
+Research Management,27
+The White House,27
+Energy and Commerce Committee,27
+the White House Office of Science and Technology Policy,26
+CSET,26
+Artemis,26
+Commerce Department,26
+Inside Climate News,25
+The National Science Foundation,24
+the Department of Energy’s,24
+National Journal,23
+Financial Times,23
+The House Science Committee,23
+kickoff,23
+Chronicle of Higher Education,22
+the National Nuclear Security Administration,22
+The National Academies,22
+Army,22
+IEEE Spectrum,21
+FBI,21
+MIT Technology Review,21
+AAU,21
+CNN,20
+The Department of Energy,20
+Department of Energy,19
+the Senate Commerce,19
+the National Institutes of Health,19
+National Science Foundation,19
+Quantum,19
+USGS,19
+G50 Dirksen Office Building,19
+American Nuclear Society,19
+NSPN,19
+Guardian,18
+the National Academies,18
+Intel,18
+Justice Department,18
+CIA,17
+European Commission,17
+Atlantic Council,17
+Chemical and Engineering News,17
+CERN Courier,17
+CRS,17
+AAS,16
+Natural Resources Committee,16
+the Senate Energy and Natural Resources Committee,16
+RFI,15
+Federal News Network,15
+Blue Origin,15
+CSIS,15
+Health, Education,15
+Labor,15
+Pensions Committee,15
+APS News,15
+the U.S. Innovation and Competition Act,14
+Merits and Viability of Different Nuclear Fuel Cycles and Technology Options,14
+GOP,14
+Oak Ridge National Lab,14
+Navy,14
+Los Alamos National Lab,14
+Union of Concerned Scientists,14
+the Defense Advanced Research Projects Agency,14
+Advanced Research Projects Agency,14
+Berkeley Lab,13
+OMB,13
+Air Force,13
+the President’s Council of Advisors on Science and Technology,13
+BuzzFeed News,13
+the Office of Science,13
+National Institute of Standards and Technology,13
+COVID,13
+Mercury,13
+Dwarf Planets,13
+the Environmental Protection Agency,12
+The White House Office of Science and Technology Policy,12
+the Waste Aspects of Advanced Nuclear Reactors,12
+the DOE Office of Science,12
+the International Space Station,12
+Inside Higher Education,12
+the State Department,12
+NRC,12
+the Department of Defense,12
+Fox News,12
+White House Office of Science and Technology Policy,12
+New Yorker,12
+DOJ,12
+Federal Science Leadership Tracker,12
+STEM,12
+Committee Chair,11
+the Commerce Department,11
+FYI,11
+AGU,11
+Space Force,11
+Association of American Universities,11
+JPL,11
+The American Association for the Advancement of Science,11
+Google,11
+IBM,11
+Sandia National Labs,11
+AAAS,11
+the National Space Council,10
+Stanford University,10
+National Space Council,10
+Science Committee
+ 
+House,10
+University World News,10
+NDAA,10
+State,10
+Foreign Relations Committee,10
+Webb,10
+World Nuclear News,10
+National Oceanic and Atmospheric Administration,10
+Foreign Affairs Committee,10
+LANL,10
+Defense,10
+STAT,10
+Science Advisory Board,10
+the CHIPS for America Act,9
+Judiciary Committee,9
+Foreign Affairs,9
+AIP,9
+RAND,9
+Amazon,9
+National Science Board,9
+the National Defense Authorization Act,9
+National Institutes of Health,9
+American Progress,9
+The Senate Commerce,9
+DEI,9
+American Council on Education,9
+National Defense Authorization Act,9
+Longworth Office Building,9
+WHO,9
+The American Physical Society,9
+Protecting Critical Technologies for National Security,9
+the Department of Commerce,9
+The Senate Energy and Natural Resources Committee,9
+Cabinet,8
+Princeton University,8
+quantum,8
+the American Physical Society,8
+CBO,8
+Harvard,8
+Physics Today,8
+U.S. Innovation and Competition Act,8
+NBC News,8
+NATO,8
+CNBC,8
+BBC News,8
+Hudson Institute,8
+Microsoft,8
+The Senate Armed Services Committee,8
+The House Armed Services Committee,8
+USDA,8
+430 Dirksen Office Building,8
+Harvard University,8
+the U.S. Chemical Economy through Investments in Fundamental Research,8
+the Department of Defense’s,8
+the Biden Administration,8
+Raimondo,8
+Stanford,7
+the Government Accountability Office,7
+Council of Advisors on Science and Technology,7
+Carnegie Mellon University,7
+Intelligence Committee,7
+the Science Committee,7
+Health,7
+Spark the Economy (RISE) Act,7
+ISS,7
+The National Institute of Standards and Technology,7
+Brookhaven National Lab,7
+Education,7
+Climate Crisis Committee,7
+HHS,7
+University of Maryland,7
+the National Science Foundation’s,7
+U.S. Geological Survey,7
+Homeland Security and,7
+Governmental Affairs Committee,7
+Aerospace Corporation,7
+Science Mission Directorate,7
+World Resources Institute,7
+Operation Warp Speed,7
+Federation of American Scientists,7
+the Defense Department’s,7
+House Armed Services Committee,7
+Senate Energy,7
+quantum information science,7
+the National Security Commission on Artificial Intelligence,7
+Interior Department,7
+Ingenuity,7
+the Chemical Sciences,7
+Equity,6
+Polar Research Board,6
+OECD,6
+University of Florida,6
+TASS,6
+the Infrastructure Investment and Jobs Act,6
+the Federal Communications Commission,6
+APLU,6
+American Physical Society,6
+Planetary Science Advisory Committee,6
+Oversight and Reform Committee,6
+The National Oceanic and Atmospheric Administration,6
+SupChina,6
+Advisory Committee,6
+Artemis Accords,6
+BIS,6
+the Nuclear Regulatory Commission,6
+the University of California, Berkeley,6
+Senate Commerce Committee,6
+George Washington University,6
+the Senate Armed Services Committee,6
+Small Business Committee,6
+the Commerce Department’s,6
+The Department of Defense,6
+Sci-Hub,6
+Smithsonian,6
+Santa Fe New Mexican,6
+Space.com,6
+Office of Science,6
+Europa Clipper,6
+Trump’s,6
+DOE’s Office of Environmental Management,6
+National Academy of Sciences,6
+the Broad Institute,6
+Columbia University,5
+UNESCO,5
+Samsung,5
+Office of Inspector General,5
+OSTP,5
+HPCwire,5
+Idaho National Lab,5
+Parliament,5
+NASA Astrophysics Division,5
+United Nations,5
+Inform Future Environmental Protection,5
+Review of FCC Order,5
+ESA,5
+Policy,5
+Partnerships,5
+Mathematical,5
+House Panel,5
+the Defense Innovation Unit,5
+quantum technologies,5
+the Office of the Director of National Intelligence,5
+National Artificial Intelligence Research Resource Task Force,5
+Optics and Photonics News,5
+Lancet,5
+the University of Tennessee,5
+American Astronomical Society,5
+COGR,5
+National Weather Service,5
+TSMC,5
+The Wire China,5
+the Department of Justice,5
+the State Department’s,5
+Banking, Housing,5
+Urban Affairs Committee,5
+Astronomy and Astrophysics Advisory Committee,5
+IAEA,5
+Arms Control Association,5
+ITER,5
+Day One Project,5
+DOE Office of Science,5
+LLNL,5
+GPS,5
+DHS,5
+the Committee on Foreign Investment,5
+ITMS,5
+Heritage Foundation,5
+Battelle,5
+Review of Effectiveness and Efficiency of Defense Environmental Cleanup Activities,5
+Consult FYI’s,5
+US Army,5
+American Competitiveness,5
+(European Commission,5
+the 117th Congress,5
+NETL,5
+CFIUS,5
+Perseverance,5
+European Innovation Council,5
+the House Energy and Commerce Committee,5
+National Security Commission on Artificial Intelligence,5
+Ocean Worlds,5
+the House Appropriations Committee,4
+the U.S. Patent and Trademark Office,4
+Ways and Means Committee,4
+DART,4
+Los Angeles Times,4
+Planetary Science Division,4
+Interior,4
+Committee,4
+the National Telecommunications and Information Administration,4
+NIF,4
+the White House’s,4
+Space Launch System,4
+Environmental Technologies Trade Advisory Committee,4
+STEM Education,4
+Research,4
+Labor Committee,4
+Sun,4
+Mission Innovation,4
+Committee Vote,4
+the University of Chicago,4
+the Justice Department’s,4
+Physical Sciences Advisory Committee,4
+University of Chicago,4
+Civil Nuclear Trade Advisory Committee,4
+Georgia Tech,4
+Academia,4
+SRI International,4
+Air Force Magazine,4
+Wilson Center,4
+Exxon,4
+Advanced Technology,4
+Select Committee,4
+Energy Advisory Board,4
+Physics,4
+Research Policy,4
+Eos,4
+S&E,4
+AIP Publishing,4
+the New York Times,4
+APS Forum on Physics and Society,4
+Apollo,4
+Caltech,4
+the Environmental Protection Agency’s,4
+Capitol Hill,4
+Mars Exploration Program Analysis Group,4
+The National Science Board,4
+Federal Demonstration Partnership,4
+OSA,4
+Historically Black Colleges,4
+Transportation and Infrastructure Committee,4
+NSC,4
+NSA,4
+European Research Area,4
+Lockheed,4
+FES,4
+the Department of Energy’s Basic Energy Sciences,4
+quantum information,4
+the Profession Writing Group,4
+The American Geophysical Union,4
+France Córdova,4
+Federal Science Budget Tracker,4
+Geosciences Directorate,4
+Times,4
+Biogen,4
+Dynetics,4
+American Meteorological Society,4
+the Energy-Water,4
+UCAR,4
+the Department of the Interior,4
+Interns,4
+The Optical Society,4
+ARPA–Energy,4
+IP,4
+the Department of Education,4
+Sudip Parikh,4
+the University of Michigan,4
+Critical Technologies,4
+Government Executive,4
+the Justice Department,4
+Harvard Belfer Center,4
+Washington Examiner,4
+ESEP,4
+USA Today,4
+Manufacturing USA institute,4
+Budget Committee,4
+Xinhua,4
+Appropriations Committee
+ 
+National Academies,4
+Coastal Data,4
+the U.S. Chemical Economy Through Investments,4
+Biden-Harris,4
+The Association of American Universities,4
+the Centers for Disease Control and Prevention,4
+the National Science Board,4
+the Research Investment,4
+Texas A&M University,3
+Purdue University,3
+the White House Office of Management and Budget,3
+Atmospheric Sciences,3
+Nature,3
+ORNL,3
+National Economic Council,3
+Vandenberg Space Force Base,3
+Didymos,3
+Commonwealth Fusion Systems,3
+Yale University,3
+the Department of Health and Human Services,3
+IOP,3
+quantum computing,3
+National Security,3
+Ford,3
+Commerce Department IG,3
+CCS,3
+Princeton Plasma Physics Laboratory,3
+the University of Maryland’s,3
+China Commission,3
+Apple,3
+Brookings Institution,3
+Giant,3
+High Energy Physics,3
+HEP,3
+the University of Florida,3
+Retraction Watch,3
+quantum information science and,3
+Verizon,3
+Basic Energy Sciences,3
+University of Arizona,3
+High Energy Physics Advisory Panel,3
+Time,3
+National AI Research Resource,3
+Knoxville News Sentinel,3
+NSB,3
+Pacific Northwest National Lab,3
+Air Force Research Lab,3
+quantum technology,3
+FAA,3
+SATCON2,3
+Supreme Court,3
+European Research Council,3
+House Oversight Committee,3
+Security Roundtable,3
+the Advanced Research Projects Agency–Energy,3
+Government Accountability Office,3
+Environmental Protection Agency,3
+SATCON1,3
+the Modernization of Congress,3
+Committee on Equal Opportunities,3
+Georgetown University,3
+European Parliament,3
+the Energy Subcommittee,3
+National Science and Technology Council,3
+AUKUS,3
+Havana Syndrome,3
+Advanced Research Projects Agency for,3
+NTI,3
+Chemistry World,3
+Science News,3
+the National Academies’,3
+Temple University,3
+the Air Force,3
+The House Intelligence Committee,3
+consult FYI’s,3
+the Bureau of Industry and Security,3
+American Geophysical Union,3
+Cato Institute,3
+Quartz,3
+UK Government,3
+Taliban,3
+Spinrad,3
+the National Climate Assessment,3
+Aiken Standard,3
+National Renewable Energy Lab,3
+a National Climate Service,3
+CASIS,3
+the Department of Justice’s,3
+Gates,3
+Cyberinfrastructure Advisory Committee,3
+the U.S. Global Change Research Program,3
+Rutgers University,3
+Defense Innovation Unit,3
+the Center for Strategic and International Studies,3
+BJUT,3
+Johns Hopkins University,3
+Minority Serving Institutions,3
+Oregon State University,3
+Financial Services Committee,3
+EPRI,3
+quantum information science research,3
+the University of Maryland,3
+HHS IG,3
+CNAS,3
+Los Alamos National Laboratory,3
+New England Journal of Medicine,3
+AMA,3
+Outer Planets Assessment Group,3
+CERN,3
+National Interest,3
+WRC,3
+Air Force Research Laboratory,3
+IPCC,3
+the Senate Intelligence Committee,3
+G20,3
+The Senate Appropriations Committee,3
+the House Science Committee’s,3
+National Nuclear Security Administration,3
+the White House Council on Environmental Quality,3
+University of Tennessee,3
+the American Association for the Advancement of Science,3
+the Defense Department,3
+Defense for Research and Engineering,3
+Georgetown University’s Center for Security and Emerging Technology,3
+Environmental Research,3
+BMJ,3
+NCA,3
+the American Jobs Plan,3
+House Appropriations Committee,3
+the Senate Foreign Relations Committee,3
+Finance Committee,3
+The Information Technology and Innovation Foundation,3
+Pew Research Center,3
+Engineering Directorate,3
+Kennedy Space Center,3
+Board of Scientific Counselors,3
+the US Innovation and Competition Act,3
+Chamber of Commerce,3
+DOE Expansion,3
+The Science Committee,3
+Agriculture, Nutrition,3
+Forestry Committee,3
+Geospatial Data,3
+Senate Finance Committee,3
+Vanity Fair,3
+the Wuhan Institute of Virology,3
+Dispatch,3
+PPBE,3
+NEJM,3
+Australian National University,3
+NSF Board,3
+FedScoop,3
+the Information Technology and Innovation Foundation,3
+Appropriations Committee
+ 
+House,3
+Wikipedia,3
+Quantum.gov,3
+Senate Commerce,3
+Washington Forum,3
+Fedscoop,3
+Sandia,3
+HPE,3
+Defense Sciences Office,3
+CBS News,3
+the Semiconductor Industry,3
+the National Security Council,3
+NSCAI,3
+SPIE,3
+Biden Administration,3
+NEP,3
+White House Office of Domestic Climate Policy,3
+Bloomberg Law,3
+Capitol,3
+SciTech Forum,3
+National Space Council Holding First Meeting,2
+Nanotech,2
+Federal Workforce,2
+Lead Office,2
+Landsat 9,2
+Goddard Space Flight Center,2
+Research and Technology Subcommittee,2
+the National Institutes of Health’s,2
+Analytics,2
+the National Nanotechnology Initiative,2
+CST
+ 
+National Academies,2
+Transportation Committee
+ 
+House,2
+the Energy Transition,2
+Networking and Information Technology Research and Development Program,2
+Computer and Information Science and Engineering Advisory Committee,2
+Basic Energy Sciences Advisory Committee,2
+ClearPath,2
+ITER Council,2
+National Semiconductor Technology Center,2
+Barron’s,2
+Retire,2
+Senate Panel Advances NIST Nominee,2
+Artemis Lunar Program,2
+UCLA,2
+DeGette’s Research Investment,2
+the Green Economy Summit,2
+Space Studies Board,2
+the Advanced Photon Source,2
+Lawrence Berkeley National Laboratory,2
+Intuitive Machines,2
+Battelle Energy Alliance,2
+TerraPower,2
+Ac-225,2
+EU Council,2
+Science Committee Rallies for Fusion Research,2
+NOAA Nominees,2
+CC BY,2
+National Ignition Facility,2
+U.N.,2
+the American Institute of Physics,2
+Optica,2
+U.S. Global Change Research Program Pilot Listening Session: Health,2
+White House: Environmental Justice Advisory Council,2
+Response,2
+Health and Human Services,2
+Senate Appropriations Committee,2
+ACLU,2
+Digital,2
+Rolls-Royce,2
+Present Update on Lunar Exploration,2
+Antarctic Research,2
+Office of Clean Energy Demonstrations,2
+Federal Emergency Management Agency,2
+the High Energy Physics Advisory Panel,2
+LHC,2
+Science Advisory Committee,2
+User Research Facilities,2
+the People's Republic of China,2
+The Department of Energy Office of Science,2
+Space Council,2
+the People’s Republic of China,2
+Argonne National Lab,2
+NSF Physics,2
+NASA Goddard Space Flight Center,2
+Chicago Quantum Summit,2
+the House Oversight Committee,2
+Garland,2
+the Committee of 100,2
+Optics,2
+Research Program,2
+CDT
+ 
+Senate,2
+Academy,2
+China Task Force,2
+European University Association,2
+the Laboratory for Laser Energetics (University of Rochester,2
+quantum computer,2
+FEMA,2
+AI (CSET,2
+Grill Oil Execs,2
+CRS Highlight Expansion,2
+S&T Policy Staff,2
+Chevron,2
+the Securities and Exchange Commission,2
+The National Institute of Standards and Technology’s,2
+Dodaro,2
+Congress’ Office of Technology Assessment,2
+the American Astronomical Society,2
+Sustainability,2
+Bureau of Industry,2
+Natural Resources Committee
+ 
+House,2
+UC Merced,2
+The Center for Security and Emerging Technology,2
+STPI,2
+Military.com,2
+Health Imaging,2
+DARPA Convening Microelectronics Summit,2
+US Research Infrastructure Released,2
+Court,2
+Rehire and Compensate Acquitted Scientist,2
+the Department of Energy’s Office of Fossil Energy and Carbon Management,2
+the Great Plains Institute,2
+the Carbon Capture Coalition,2
+Office of Science and Technology Policy,2
+Security,2
+The Defense Advanced Research Projects Agency,2
+Chemical Sciences,2
+Space Nuclear Propulsion,2
+Paris Agreement,2
+Fast Company,2
+Howard Hughes Medical Institute,2
+NRDC,2
+Emerging Technologies Institute,2
+National Reconnaissance Office,2
+Euratom Research,2
+Testify on Future of Forecasting,2
+the Geosciences Directorate,2
+the University of Colorado Boulder,2
+Psyche,2
+Jet Propulsion Laboratory,2
+BRAIN,2
+NHGRI,2
+the Washington Post,2
+Boeing,2
+Goldman Sachs,2
+SLAC,2
+the National Oceanic and Atmospheric Administration’s,2
+National Geospatial Advisory Committee,2
+Council on Foreign Relations,2
+Physical Sciences,2
+The Commerce Department,2
+National Geospatial-Intelligence Agency,2
+Warner,2
+EU Move Ahead,2
+Joint Technology Agenda,2
+Helm of State Department Science Office,2
+NSF Reveals Latest Round of Mid-Scale Infrastructure Projects,2
+NSF Inspector,2
+Honey,2
+Bureau of Oceans and International Environmental and Science Affairs,2
+Astronomical Sciences Division,2
+the University of Arkansas,2
+Arizona State University,2
+Science Committee
+ 
+Stimson Center,2
+American Geosciences Institute,2
+American Chemical Society,2
+Pittsburgh Post-Gazette,2
+NCAR,2
+Shutdown Looms,2
+Landsat Program,2
+International Technology Development,2
+Landsat,2
+Landsat 8,2
+the Space Technology Mission Directorate,2
+North Carolina State University,2
+the U.S. House of Representatives,2
+Families,2
+PRC State Council,2
+Science and Public Policy,2
+Electron,2
+Convergence Accelerator,2
+Shtetl-Optimized,2
+Science Committee Agenda,2
+Examine Spectrum Interference Concerns,2
+Set of Strategic Technology Partnerships,2
+Stanford Professors Urge DOJ Course Change,2
+the National Renewable Energy Lab,2
+the House Rules Committee,2
+NOAA Administrator,2
+Hydrogen Shot,2
+the China Initiative,2
+Polar Programs Advisory Committee,2
+Human Resources Directorate,2
+quantum systems,2
+Australian Research Council,2
+Bureau of Land Management,2
+National Security Innovation Capital,2
+Kaiser Health News,2
+Examine Nuclear Arms Control, Immigration Policy,2
+New HBCU Research Centers,2
+Department of Justice,2
+Morgan State University,2
+the University of Washington,2
+National Health Research Forum,2
+Judiciary Committee
+ 
+House,2
+Marine Vessel Radar,2
+Council of Councils,2
+The Department of Commerce,2
+US Innovation and Competition Act,2
+Religion News Service,2
+Discuss Innovation and Competition Act,2
+China Commission Examining Export Control Policy,2
+NSF Awards New Quantum Institutes,2
+Quantum Foundry,2
+the Science Committee’s,2
+Security Review Commission,2
+Defense Department,2
+Woodwell Climate Research Center,2
+Duffy,2
+House Floor,2
+The American Astronomical Society,2
+The Economist,2
+OSU,2
+Genentech,2
+UC Berkeley,2
+The European Commission,2
+Full Committee Debate,2
+The Senate Intelligence Committee,2
+the House Science Committee’s Energy Subcommittee,2
+Academies,2
+Fusion Energy Sciences Advisory Committee,2
+SciResumes,2
+BER,2
+Global Times,2
+Center for Security and Emerging Technology,2
+MOX,2
+Advisory Panel Takes Stock,2
+DOE Basic Energy Sciences Program,2
+National Ignition Facility Achieves Record Fusion Energy,2
+Quantum Research Infrastructure,2
+Biological and Environmental Research,2
+The National Oceanic and Atmospheric Administration’s Science Advisory Board,2
+DUNE,2
+Nanoscale Science Research Centers,2
+the National Artificial Intelligence Research Resource Task Force,2
+MOU,2
+NSF IG,2
+Space-Based Research Begins,2
+Congress on Abbreviated August Recess,2
+VLA,2
+NRAO,2
+Biological,2
+Physical Sciences Research,2
+OPT,2
+Army Futures Command,2
+NSF Materials Research Spinning,2
+Reconstituted Science Advisory Board,2
+Materials Genome Initiative,2
+the Aspen Center for Physics,2
+the Senate Appropriations Committee,2
+Office of Legislative and Public Affairs,2
+Center for Data Innovation,2
+FERC,2
+Ball Aerospace,2
+Senate Energy Panel,2
+National Science Board Reflects,2
+Update Lunar,2
+Publishers Partner,2
+Facilitate,2
+SEA,2
+the House Armed Services Committee,2
+Senate Armed Services Committees,2
+STEM Education Advisory Panel,2
+U.S. National Security,2
+Trump-era,2
+Nuclear Newswire,2
+Input,2
+Emerging Technologies Institute (National Defense,2
+Carnegie Endowment,2
+Consideration,2
+DOE Nuclear Physics,2
+House Intelligence Committee,2
+The Wall Street Journal,2
+Journal,2
+The Justice Department,2
+Emerging Technologies Institute Launch,2
+Policy Forum,2
+FY22 NDAA,2
+Information Systems,2
+Dallas News,2
+US Space Force,2
+House Intelligence Panel Spotlighting Microelectronics,2
+NOAA Science Advisory Boards Meet,2
+Direct National Climate Assessment,2
+Semiconductor Industry Association,2
+The National Science Foundation’s,2
+the Fifth National Climate Assessment,2
+Michigan State University,2
+Bureau of Oceans and International Environmental and Scientific Affairs,2
+the House Judiciary Committee,2
+Howard University,2
+Earthshot,2
+the FY22 NDAA,2
+The California Council on Science and Technology,2
+the California State Legislature,2
+CNA,2
+National Ocean Service,2
+PBS NewsHour,2
+Senate Commerce Committee Examining Technology Supply Chains,2
+Energy Innovation,2
+CC BY-NC-ND,2
+The House Judiciary Committee,2
+Brown University,2
+Senate Intelligence Committee,2
+the Labor-HHS-Education,2
+Appropriations,2
+Homeland Security Committee
+ 
+National Academies,2
+Seapower Magazine,2
+Deep Space Network,2
+Eli Dourado,2
+DOE Expansion Bills Sail Through House,2
+House Foreign Affairs Panel Defers Vote,2
+Kennedy Space Centers,2
+the Energy and Natural Resources Committee,2
+the Appropriations Committee,2
+Congressional Asian Pacific American,2
+Johnson Space Center,2
+Clemson University,2
+the University of Pennsylvania,2
+National Security Program,2
+Boston Globe,2
+The House Science Committee’s,2
+Newsweek,2
+University of Illinois,2
+Trump's,2
+Probe Federal Wildfire Science,2
+American Jobs Plan,2
+the Department of Energy Office of Science,2
+the House Foreign Affairs Committee,2
+the Pacific Northwest,2
+Energy Act,2
+Societal Dimensions,2
+the Chemical Sciences: Energy Information-Gathering Meeting,2
+Ocean Exploration Advisory Board,2
+Financial Services Committee
+ 
+House,2
+its Committee on Science, Engineering, Medicine,2
+Nature Communications,2
+Lawfare,2
+IAU,2
+International Astronomical Union,2
+Budget Hearings,2
+the Armed Services Committee,2
+The House Appropriations Committee,2
+Bayh-Dole Act,2
+Bipartisan Policy Center,2
+The University Corporation for Atmospheric Research,2
+American Mathematical Society,2
+CATO Institute,2
+Treasury,2
+Senate Energy Committee,2
+the Human Landing System,2
+Obama,2
+G7,2
+Science and Technology,2
+Department of Education,2
+Nature Physics,2
+New York Magazine,2
+NASA Considering Case for Renaming Webb Telescope,2
+the NIST Center for Neutron Research,2
+The American Astronomical Society’s,2
+Hertz,2
+Small Bodies Assessment Group,2
+SciTech,2
+Lincoln Network,2
+SEC,2
+NBER,2
+Advanced Research and Invention Agency,2
+APS Hosting Panel,2
+China Research Tensions,2
+NASA Creates Program,2
+National Academy Makes First Expulsion for Harassment,2
+Thousand Talents,2
+the Endless Frontier Act,2
+The National Academy of Sciences,2
+Academy of Arts and Sciences,2
+Endless Frontier Act,2
+American Enterprise Institute,2
+White House Reinstates Global Change Program,2
+Transportation,2
+Pam Melroy,2
+Weatherhead,2
+Information Systems Subcommittee,2
+Aeronautics and Space Engineering Board,2
+Federal Agency,2
+Congressional Priorities for Water Science, Technology,2
+National Nanotechnology Coordinated Infrastructure Earth and Environmental Science Workshop,2
+Philadelphia Virtual Town Hall: Successes,2
+Appropriations Committee
+ 
+Aerospace Corporation,2
+Ocean Studies Board,2
+European Spallation Source,2
+RD&D,2
+NPT,2
+BioWatch,2
+African Academy of Sciences,2
+Melroy Nominations,2
+Spotlight NASA Earth Science,2
+White House Scientific Integrity Review Panel Begins Work,2
+Nelson Emplaces New Leaders,2
+the Safeguarding American Innovation Act,2
+Melroy,2
+the University of Texas,2
+the COVID-19 Hate Crimes Act,2
+First Annual International Youth Symposium,2
+the Nuclear Age,2
+U.S. Nuclear Modernization,2
+G-50 Dirksen Office Building,2
+Fauci,2
+NNSA Fusion Physics Study Holding First Meeting,2
+DOE Foundation Present,2
+House Panel Previews Priorities,2
+the Department of Energy’s Office of Science,2
+the American Recovery and Reinvestment Act,2
+Working Group,2
+Agriculture Committee,2
+the Quantum Economic Development Consortium,2
+SC,2
+Duke University,2
+Address,2
+Shyu,2
+Raytheon Intelligence and Space,2
+the National Oceanic and Atmospheric Administration’s Science Advisory Board,2
+Post,2
+the Future of U.S. Innovation,2
+Discuss Their Vision for the Future of NSF,2
+American Meteorological Society Convenes Policy Forum,2
+Transportation Picks Also,2
+NASA Space Research,2
+Research Security Enforcement,2
+the National Human Genome Research Institute,2
+Commerce Committee,2
+National Ocean Exploration Act,2
+Vanguard,2
+Education Department,2
+Government Relations,2
+National Energy Technology Lab,2
+City Journal,2
+Department of Transportation,2
+National Academy of Sciences Meeting,2
+the Senate Commerce Committee,2
+House Intelligence Committees,2
+Senate Panels Taking Broad Look,2
+US Innovation,2
+NSF Outlines Efforts,2
+Blunt Workforce Impacts of Pandemic,2
+NASA Advances Studies for Future Science Projects,2
+Known Physics,2
+Actuate,2
+NASA Earth Science Division,2
+S&T Modernization Means,2
+AAMC,2
+EPA Resetting Science Advisory Board,2
+Scientific Integrity Review,2
+Visas Expires,2
+the Space Force,2
+the New Biden Administration,2
+Extraterrestrial Materials Analysis Group,2
+Ideal,2
+GCN,2
+Department of Commerce,2
+the International Energy Agency,2
+the Kavli Foundation,2
+the Office of Fossil Energy,2
+Geoengineering Research Governance Report Set for Release,2
+Examine Nuclear Power Technologies,2
+Science Committee Issues Report on Federal ‘Brain Drain’,2
+Combat COVID-19,2
+Lubchenco,2
+Carnegie Mellon University: Energy Week,2
+the Future of Nuclear Modernization,2
+Utah State University,2
+SLS,2
+NOAA Advisory Board Advancing Research Priority Studies,2
+European Innovation Council Moves Into Next,2
+Quantum Infrastructure Projects,2
+the Union of Concerned Scientists,2
+the European Union’s,2
+NASA Astrophysics Advisory Committee,2
+University of Alabama,2
+The American Meteorological Society,2
+House Energy and Commerce Committee,2
+Institute of Physics,2
+Idaho Falls Post Register,2
+the Arecibo Observatory,2
+quantum science,2
+Biden-Era Research Security Policy,2
+Build International R&D Alliances,2
+Harvard Chemist,2
+Quantum West,2
+Imaging Technologies,2
+Colorado State University/APA Justice,2
+The Congressional Research Service,2
+GE,2
+quantum leap,2
+CEQ,2
+National Security Archive,2
+STEM Workforce,2
+Congressional Optics,2
+Photonics Caucus Launches,2
+the Department of Homeland Security,2
+Cotton,2
+MIT Tech Review,2
+Science Agency Appropriators,2
+White House Advances ‘ARPA-Climate’ Concept,2
+Alexander,2
+the Environment Subcommittee,2
+the Research and Technology Subcommittee,2
+NTP,2
+Battelle Savannah River Alliance,2
+Preview Climate Priorities,2
+the Path Forward,2
+Review of Effectiveness and Efficiency,2
+Defense Environmental Cleanup Activities,2
+Manufacturing USA Institutes Phase 2 Study,2
+Cyberinfrastructure,2
+a Systems Approach,2
+The State Department,2
+Defense Science Board,2
+Discuss Biden Priorities,2
+the National Artificial Intelligence Initiative Act,2
+43rd Scientific Assembly,2
+U.S. Muon Workshop,2
+MIT News,2
+Biden-Harris Transition Team,2
+the National Security Agency,2
+Drugmonkey,2
+Trump Issues Research Security,2
+Student Mental Health,2
+the Study of Earth System Interactions Workshop,2
+Examine Future of,2
+Federal Data Repositories,2
+Lead Commerce Department,2
+Science Committee Leaders Reintroduce Workforce,2
+101st,2
+the Waste Aspects of Advanced Nuclear,2
+Air Force Scientific Advisory Board,2
+National Space Council Wraps,2
+Trump Administration,2
+the National Space Policy,2
+Ocean Observation System,2
+Simons Foundation,2
+HASC,2
+Finish Budget Deal,2
+US Competitiveness Commission Offering Findings,2
+Artemis Astronauts,2
+Neutron Facilities,2
+FESAC,2
+The National Oceanic and Atmospheric Administration’s,1
+Marie Bernard,1
+the Government Accountability Office’s Science, Technology Assessment,1
+Energy Division,1
+Benson,1
+energy sciences,1
+Precourt Institute for Energy,1
+CMU’s Center for Engineering and Resilience for Climate Adaptation,1
+the Hefei National Laboratory for Physical Sciences,1
+quantum research institute,1
+the Moscow Institute of Physics and Technology,1
+the Entity List,1
+Fifth Grade,1
+Oversight and Reform Committee
+ 
+House,1
+Science Committee
+ 
+Heritage Foundation,1
+Economic Sciences Directorate Advisory Committee,1
+Roles for Societies,1
+Coalition for Nuclear Threat Reduction,1
+U.S. Global Change Research Program Pilot Listening Session: Food,1
+Science Policy Journal,1
+The Journal of Science Policy and Governance,1
+Schumer’s Innovation and Competition Act,1
+U.S. Chamber of Commerce,1
+Financial Tracker of Business R&D,1
+US Antarctic,1
+Data Center Dynamics,1
+NOAO,1
+Green Bank Observatory’s,1
+Charleston Gazette-Mail,1
+the Solar System,1
+Group on Earth Observations,1
+NOAA Tribal,1
+SIGNAL,1
+Honolulu Civil Beat,1
+Lucille Nalbach Tournas,1
+NOAA Pick,1
+U.S. Fish and Wildlife Service,1
+NASA Launching Collision-Course Asteroid Mission,1
+Planetary Defense,1
+the Johns Hopkins University Applied Physics Lab,1
+the Departments of Energy, Commerce,1
+Department of Energy Office of Clean Energy Demonstrations,1
+Science Committee Chair,1
+the Department of Homeland Security’s Science and Technology Directorate,1
+Kusnezov,1
+NOAA Picks,1
+Advanced Research Project Agency,1
+U.S. Space Command,1
+the Russian Defense Ministry,1
+Artemis II,1
+Department of Energy ,1
+CUPID,1
+Board of Scientific Counselors Executive Committee,1
+Space Studies Board Seeking Program Associate,1
+Council on Environmental Quality,1
+Indigenous Traditional Ecological Knowledge ,1
+New Freedom Caucus,1
+Tampa Bay Times,1
+Space Station,1
+Stanford News,1
+SIU Faculty Association,1
+The Southern Illinoisan,1
+Research Integrity,1
+Balazs Aczel,1
+Utah State University's Space Dynamics Laboratory,1
+AFRL (Space News,1
+Defense Nuclear Facilities Safety Board Recommendation,1
+RFP,1
+GM,1
+Quantum Science and Technology’,1
+NOAA Research,1
+Southern Company,1
+INL,1
+NET Power,1
+Trump administration,1
+MDA,1
+NGA,1
+Anchorage Daily News,1
+EcoHealth Alliance’s,1
+European Innovation Council (Research Professional,1
+US_Fusion_Energy_Outreach_Approaches_to_Fusion.jpg,1
+U.S. Fusion Outreach,1
+University of California, Los Angeles,1
+U.S. ITER Project Office,1
+Lawrence Livermore National Laboratory’s,1
+The Build Back Better Act,1
+the Congressional Budget Office,1
+The National Wildland Fire Risk Reduction Program Act,1
+the Department of Energy and National Science Foundation,1
+DOE’s Nuclear Physics,1
+the Nuclear Physics,1
+The National Academies Space Studies Board and Board on Physics,1
+the American Astronomical Society’s,1
+the National Ignition Facility,1
+the First Movers Coalition,1
+NASA Revises Lunar Exploration,1
+Orion,1
+Yale Physics,1
+Science Committee
+ 
+Commerce Department,1
+Domestic and International Energy Price,1
+Foreign Affairs Committee
+ 
+Atlantic Council,1
+U.S. Transportation Electrification Goals,1
+University of the Virgin Islands Virtual,1
+Astronomy Board,1
+Marine Board,1
+LEGEND Act,1
+Risk Reduction Options,1
+Tribal Wisdom: Strategies for the Climate Crisis,1
+Special Committee on Aging,1
+U.S. Global Change Research Program Pilot Listening Session: Energy,1
+Building Space Infrastructure and Services for Security and Prosperity,1
+Orbital Debris Research and Development Plan,1
+Atmospheric Sciences Division,1
+Atmospheric,1
+Lab Assessments Board,1
+Laboratory Assessments Board,1
+Califf,1
+Association of American Universities and Energy Sciences Coalition,1
+Asian Immigrants,1
+Minority Serving Institution Partnership Program,1
+Nature Medicine,1
+Rubén Vicente-Saez,1
+The International Astronomical Union,1
+M&O,1
+Experimental Nuclear Physics,1
+the Rochester-Chandigarh,1
+Farhad Manjoo,1
+Science Colloquium,1
+COP,1
+USAID,1
+DW,1
+Robots (Washington Post,1
+Restricted Data,1
+Messonnier,1
+Trump White House,1
+Dirk,1
+Congress Sends,1
+biden-in-jeep-wrangler-rubicon.jpg,1
+Jeep,1
+Thirteen House,1
+Earth Mapping Resources Initiative,1
+Showcase Windstorm Impact Reduction Program,1
+National Windstorm Impact Reduction Program,1
+ESA / Hubble,1
+the Academies’ Committee,1
+CERN’s,1
+HEPAP,1
+Office of Fossil Energy and Carbon Management,1
+the Office of Science’s,1
+the Office of Management and Budget,1
+the National Conference on Citizenship,1
+Census,1
+the U.S. Antarctic Program,1
+Spaceflight for Everybody Virtual Symposium,1
+Astromaterials Data Management,1
+the Era of Sample-Return Missions Community Workshop,1
+U.S. Global Change Research Program Pilot Listening Session: Water,1
+Quantum Technologies and Space,1
+Patent Data,1
+Science Committee
+ 
+Columbia University,1
+New Battery Tech,1
+University of Minnesota,1
+the U.S. National Committee for the UN Ocean Decade,1
+OpportunitiesFermilab,1
+Influence on International Standards,1
+the “China Standards 2035,1
+the World Academy of Sciences,1
+Red New Deal,1
+Economic Development Administration’s,1
+Build Back Better Regional Challenge,1
+Consortium for Ocean Leadership,1
+The African Academy of Sciences,1
+Berkeley Lab’s Dark Energy Spectroscopic Instrument,1
+Aggie,1
+Sandia National Laboratories,1
+Texas A&M,1
+AT&T,1
+NASA Office of Technology,1
+ASCE,1
+TRISO-X,1
+University of New Mexico,1
+Rujuta Pandit,1
+Ecohealth Alliance,1
+Strategic Energy Dialogue,1
+PRC NDRC,1
+Soft Machines,1
+Harvard-Smithsonian Center for Astrophysics,1
+LUVOIR,1
+United Nations Climate Change Conference,1
+High Energy Physics Panel,1
+facilities,1
+the Office of Fossil Energy and Carbon Management,1
+National Quantum Coordination Office,1
+Bohr Quantum Technologies,1
+quantum workforce development,1
+pelosi-build-back-better-climate.jpg,1
+the California Academy of Sciences,1
+The National Institutes of Standards and Technology,1
+the Hollings Manufacturing Extension Partnership,1
+Oversight Committee,1
+Environment Subcommittee,1
+National Security Division,1
+Biodiversity and Conservation Science Heather Tallis,1
+Biden Names Telecommunications and Patent Office Nominees,1
+National Telecommunications and Information Administration,1
+the Commerce Department's,1
+Rosenworcel and Davidson,1
+NAI,1
+National Academy of Inventors,1
+Department of State,1
+European Opportunities,1
+Challenges,1
+Universe,1
+Human Resources Advisory Committee,1
+Biological Sciences Directorate Advisory Committee,1
+The Future of Semiconductor Supply Chains,1
+Earth Science Advisory Committee,1
+University of California/LBNL,1
+Evaluation and Assessment Capability,1
+Science Policy Academy Accepting Applications,1
+Georgia Tech’s School of Public Policy,1
+Atlanta Academy on Science and Innovation Policy,1
+Ocean Policy Committee,1
+the Homeland Security Science and Technology Advisory Committee,1
+China Power,1
+AIM Photonics,1
+Optics.org,1
+Hanford,1
+Tri-City Herald,1
+Energy Sciences Center,1
+Quantum Science and Technology,1
+Kuiper,1
+Eunice Foote,1
+Kemper,1
+Stripe,1
+EcoHealth,1
+UK Institute of Physics,1
+DOE Nuclear Technology Contracting Scrutinized,1
+ExxonMobil,1
+BP America,1
+Shell Oil Company,1
+The Oversight Committee,1
+The Office of the New York State,1
+Offering Update on Research Security Guidance,1
+the National Science, Technology,1
+the White House Office and Science and Technology Policy,1
+an Advanced Research Projects Agency for,1
+the Government Accountability Office and Congressional Research Service,1
+the Department of Energy Office of Nuclear Energy,1
+Astronomers Press to Constrain Satellite Constellations,1
+the National Environmental Policy Act,1
+the International Astronomical Union’s,1
+a Center for the Protection of the Dark,1
+the Astrophysics Division’s Explorers,1
+International Astronautical Congress,1
+Nature-Centered Global Economy,1
+Homeland Security Committee,1
+Heliophysics Advisory Committee,1
+the French Atomic Energy Commission,1
+the Laser Megajoule Facility,1
+China Scientific Exchange,1
+U.S. Reconciliation Efforts,1
+The Lincoln Network,1
+the Institute for Progress,1
+NASA Authorization Bill,1
+Masto,1
+National Science and Technology Strategy,1
+(Hoover Institution,1
+FSOC,1
+the Review on DOJ's,1
+Stanford Review,1
+Radio Free Asia,1
+DIU,1
+the Rubin Observatory,1
+Huawei,1
+SMIC,1
+JWST,1
+The Artemis Accords,1
+The UN Office of Outer Space Affairs,1
+the Lancet Countdown,1
+EcoHealth Alliance,1
+CoV-2,1
+Tass,1
+post-Brexit,1
+African Union,1
+Science Committee Looks to Future of Nuclear Technology,1
+Review,1
+STEM
+Administration Targets Climate Risk,1
+nasa-nep-mars.jpg,1
+Nuclear Science Week,1
+the Space Subcommittee,1
+Idaho National Lab ,1
+Aerospace Industries Association,1
+Ad Astra Rocket Company,1
+the Department of Energy’s Office of Nuclear Energy,1
+University of Michigan,1
+the Project on Government Oversight,1
+NASA Aerospace Safety Advisory Panel Chair,1
+Axiom Space,1
+DARPA’s,1
+Microsystems Technology Office,1
+ERI,1
+time-is-now-challenge.jpg,1
+Federal Geographic Data Committee,1
+the Federal Emergency Management Agency,1
+National Labs Tested,1
+The Knoxville News Sentinel,1
+UTK,1
+Technology Board,1
+the DOE Office of Fossil Energy and Carbon Management,1
+Global Energy Innovation,1
+Public Policy Committee,1
+Revival of Arms Control,1
+ARPA-H,1
+Rules Committee,1
+Biological and Environmental Research Advisory Committee,1
+the Office of Nuclear Energy,1
+Capitol Visitor Center,1
+Advance American Democracy,1
+Community College Education,1
+Anti-Racism Study Seeking Panelists,1
+Princeton lecture,1
+science academy,1
+Endeavour Fund,1
+State Route 4,1
+Los Alamos Reporter,1
+Quantum Technology,1
+ULA,1
+Neutron Bytes,1
+National Security Podcast,1
+The National Academy of Medicine’s,1
+Slovakia,1
+Columbia University’s College of Physicians and Surgeons,1
+the House Science Committee’s Subcommittee on Research and Technology,1
+Higher Education,1
+the National Centers for Environmental Prediction,1
+Florida International University’s International Hurricane Research Center,1
+the Natural Resources and Environment,1
+Large Facilities Workshop,1
+NSF Cybersecurity Summit,1
+the Southwest Research Institute,1
+National Human Genome Research Institute,1
+the All Of Us Research Program,1
+the Human Genome Project,1
+the Presidential Medal of Freedom,1
+the Central Intelligence Agency,1
+Technology Fellows,1
+Amazon Web Services,1
+Honeywell,1
+HRL,1
+National Accelerator Laboratory,1
+Extreme Conditions,1
+University of Rochester’s Laboratory,1
+The Commerce Department’s,1
+The Department of the Interior,1
+the Royal Swedish Academy of Sciences,1
+Geophysical Fluid Dynamics Laboratory,1
+the Max Planck Institute for Meteorology,1
+Cybersecurity Summit,1
+Health Equity,1
+U.S. Geological Survey:,1
+Community-Driven Solutions,1
+Collaborative S&T Development,1
+the Digital Age,1
+Financial Services Committee
+ 
+FEMA,1
+Critical Industries,1
+the S&T Policy Fellowship Application and Interview Process,1
+Urban Heat Islands,1
+Service Life,1
+Hadron Colliders,1
+Opportunity,1
+IDEA,1
+The White House Office of Science and,1
+Summer School on Science and Global Security,1
+The Biden-Harris administration's,1
+the House Committee on Science, Space,1
+IMF,1
+ResearchGate,1
+a National Research Cloud,1
+Climate Change Knowledge Cooperative (Research Information,1
+Map of Science,1
+Carlsbad Current Argus,1
+Phoenix Business Journal,1
+Sony,1
+World Meteorological Organization,1
+Horizon Europe,1
+Science Committee to Examine Research Security Policy,1
+State Antony,1
+U.S.-European Union Trade and Technology Council,1
+Rensselaer Polytechnic Institute,1
+the President's Council of Advisors on Science and Technology ,1
+the Large UltraViolet Optical InfraRed Observatory,1
+Yale,1
+The Astronomical Sciences Division,1
+Mid-Scale Research,1
+the National High Magnetic Field Lab,1
+the Facility for Open Research,1
+Woods Hole Oceanographic Institution,1
+Harnessing the Data Revolution Institutes,1
+Association of Science and Technology Centers,1
+the U.S. Research Enterprise,1
+Blue Economy,1
+Labor Committee
+ 
+Heritage Foundation,1
+Information Technology,1
+Bolster Global Economic Growth,1
+Congressional Science Fellowships,1
+American Physical Society,,1
+Presidential Management Fellowship Application,1
+The Presidential Management Fellowship,1
+the Interagency Working Group,1
+EPA’s Office of Research and Development,1
+the Prioritizing Readiness and Competitiveness,1
+Journal of Science Policy & Governance,1
+FAS,1
+Million Talents Program',1
+US National Academy of Medicine,1
+Meet the International Science Reserve,1
+Short-Baseline Neutrino Program,1
+Undark,1
+QED,1
+quantum industry,1
+Air & Space Magazine,1
+BECCS,1
+Environmental Defense Fund,1
+the Army Research Laboratory,1
+the Nuclear Posture Review,1
+National Defense,1
+Nature Biotechnology,1
+Buzzfeed News,1
+Foundation for Science and Technology,1
+zuber-arnold-lander-pcast.jpg,1
+President’s Council of Advisors on Science and Technology,1
+Agriculture Department,1
+High-Stakes Votes Ahead,1
+Landsat 7,1
+biden-un.jpg,1
+the United Nations General Assembly,1
+the United Nations,1
+a Space Operations Mission Directorate,1
+Exploration Systems Development Mission Directorate,1
+Office of Research and Development,1
+Frey,1
+the Hong Kong University of Science and Technology,1
+Weather Research and Forecasting Innovation Act,1
+boehlert-portrait.jpg,1
+Laurel Stern Boeck,1
+Columbia,1
+Gender Equity and Inclusion in Nuclear Security,1
+Organization of Scientific Area Committees for Forensic Science,1
+The Movement to Expand Young Women's STEM Participation,1
+the public
+ 
+Commerce Department,1
+the Intelligence Authorization Act for,1
+Capitol Visitors Center,1
+Democratization of Data,1
+S&T Policy Fellowship Sets New Deadline,1
+The Geological Society of America,1
+the American Geophysical Union,1
+Arctic Executive Steering Committee,1
+Eurobarometer,1
+the Nationwide Scientific Literacy Action Plan,1
+Seinfeld (Research Professional,1
+Red Scare (Committee,1
+Physical Review,1
+Federally Funded Research and Development Centers,1
+National AI,1
+National Air and Space Museum,1
+The Space Review,1
+Bianca Majumder,1
+DOE Office of Electricity (White House,1
+Dell Technologies,1
+Bloomberg Quint,1
+Chikwe Ihekweazu,1
+PBS,1
+Labour,1
+biden-granholm-keller-nrel-tour.jpg,1
+the National Wind Technology Center with,1
+New Research Security Measures,1
+Nanoracks,1
+the Center for the Advancement of Science in Space,1
+The Federal Communications Commission,1
+the University of Notre Dame,1
+nuclear-submarine-dod-900x500px.jpg,1
+U.S. Navy,1
+the U.S.-EU Trade and Technology Council,1
+NOAA Stands Up Space Weather Advisory Group,1
+the Space Weather Advisory Group,1
+U.S. Escalations Against China,1
+U.S. Responses,1
+Considerations for International Space Station Extension and Transition,1
+Science Committee
+ 
+Committee,1
+the New Red Scare,1
+JSPG Board,1
+UNGA,1
+The European Union’s,1
+New Path Forward,1
+STEM Education Directorate,1
+Advisory Group,1
+the National Space Council Users' Advisory Group,1
+Quantum System Access,1
+National Cancer Advisory Board,1
+Oklahoma State University,1
+The American Prospect,1
+F, M,1
+Trump H-1B,1
+Miami Herald,1
+The Lowy Institute,1
+Olavo Amaral,1
+NQCO,1
+Rice Quantum Initiative,1
+Rice University,1
+NQCC,1
+BP,1
+Office of Climate Change and Health Equity,1
+Megalopolitan Coastal Transformation Hub',1
+NIFty,1
+Morgan Lewis,1
+The US Navy's,1
+Defense & Aerospace Report,1
+UN General Assembly,1
+Congress Resumes High-Stakes Negotiations,1
+APS Events,1
+Senate Budget Committee,1
+The Ways and Means Committee’s,1
+The Energy and Commerce Committee’s,1
+The Financial Services Committee’s,1
+The Agriculture Committee’s,1
+the Agriculture Advanced Research and Development Authority,1
+The Transportation and Infrastructure Committee’s,1
+the U.S. Coast Guard,1
+the Judiciary Committee,1
+U.S. Patent,1
+Trademark Office,1
+the Physicists Coalition for Nuclear Threat Reduction,1
+Naval War College,1
+the United Nations Institute for Disarmament Research,1
+the Solar Futures Study,1
+the Beijing University of Technology,1
+the U.S.–China Economic and Security Review Commission,1
+The Center for Advanced Electro-Photonics,1
+The Center for Biotechnology at,1
+the Wake Forest Institute of Regenerative Medicine,1
+quantum sensing,1
+Science and Technology Centers Program,1
+The Center for Learning the Earth with Artificial Intelligence and Physics,1
+The Center for Chemical Currencies,1
+The Center for Research on Programmable Plant Systems,1
+Cornell University,1
+the Center for Integration of Modern Optoelectronic Materials on Demand (IMOD,1
+The Science and Technology Centers Program,1
+Agriculture Committee
+ 
+House,1
+Enhancing Shared Security,1
+U.S. Army Synthetic Biology,1
+Critical Season for Climate Policy,1
+Foreign Relations Committee
+ 
+National Academies,1
+Homeland Security Research,1
+Federal Facilities Council Standing Committee,1
+Escalations Against China,1
+Climate Security Roundtable,1
+NSF Hiring Geospace Section Head,1
+Geospace Sciences Section,1
+NSF’s Atmospheric,1
+Geospace Sciences Division,1
+New National AI Advisory Committee,1
+the National AI Initiative Act,1
+Hampton University,1
+the President's Board of Advisors on Historically Black Colleges,1
+EU Trade and Technology Council,1
+HBCU,1
+National Technology Strategy Agency,1
+Royal Society,1
+the National Innovation Network,1
+Unwanted,1
+Northwestern Polytechnical University,1
+Congress (Manufacturing USA,1
+quantum future,1
+National Quantum Lab,1
+the National Space Council’s,1
+US Global Change Research Program,1
+NREL,1
+US Air Force,1
+Uyghur,1
+AUI,1
+The House Natural Resources Committee,1
+a Civilian Climate Corps,1
+University’s Center for Innovation Policy,1
+ITER-assembly-April-2021.jpg,1
+the Department of Energy’s Fusion Energy Sciences Advisory Committee,1
+DOE’s Fusion Energy Sciences,1
+DOE Office of Science Acting,1
+U.S. ITER,1
+The Institute for Robust Quantum Simulation,1
+The Institute for Quantum Sensing,1
+Montana State University,1
+Intergovernmental Panel,1
+U.S. Global Change Research Program,1
+the Center for Global Sustainability,1
+Special Presidential Climate Envoy John Kerry,1
+Carbon Capture Advocate Picked,1
+the House Climate Crisis Committee,1
+FECM,1
+Planning, Programming, Budget,1
+Execution,1
+journal,1
+UK Research and Innovation's,1
+Medical Communities,1
+Materials and Equipment Technical Advisory Committee,1
+The Power of Science”,1
+State Department Fellowship,1
+The Connecticut Academy of Science and Engineering,1
+the Connecticut Department of Energy and Environmental Protection,1
+Commercial Remote Sensing Advisory Committee,1
+Global Health Security and,1
+Evaluation.gov,1
+the Manufacturing Reinvestment Corporation Act,1
+Shashank Agarwal,1
+Van Andel Research Institute,1
+Lauer,1
+Health Care Compliance Association,1
+The National Human Genome Research Institute,1
+JHL,1
+Black Hills Pioneer,1
+quantum network,1
+Quantum Science Center marks,1
+IP Watchdog,1
+quantum tech,1
+FCC Ligado,1
+GPS World,1
+Triana,1
+COVID (Space Review,1
+VRB Energy,1
+Space National Guard,1
+ASHP,1
+American Medical Association,1
+Senate Intelligence Panel,1
+Set Sail
+ 
+Upcoming Events | Opportunities,1
+smith-hasc-hearing.jpg,1
+the Department of Defense and National Nuclear Security Administration,1
+the Department of Energy’s Fusion Energy Sciences,1
+the National Ignition Facility’s,1
+the Hydrogen Shot,1
+Breakthrough Energy,1
+The Lunar Exploration Analysis Group,1
+LEAG,1
+white-house-grounds.jpg,1
+Office of Management and Budget Acting,1
+Set Sail,1
+the European Space Agency,1
+Hydrogen Shot Summit,1
+UAE,1
+Social Dimension of Disaster Response and Implications for Climate Resilience,1
+Environmental Research Program,1
+The Department of Energy’s Biological and Environmental Research,1
+American Affairs Journal,1
+Helena Schweiger,1
+Arghavan Salles,1
+Bayh-Dole Coalition,1
+Office of Integrative Activities,1
+Association of Research Libraries,1
+Journal of Science Policy and Governance,1
+URA,1
+Midwest Tech Bridge,1
+Naval Sea Systems Command,1
+Office for Climate Change, Health,1
+Smart Manufacturing Innovation Centers,1
+Westinghouse (Nuclear Newswire,1
+Marion Koopmans,1
+Broad Institute’s,1
+Mandhri Abeysooriya,1
+Kavli Foundation,1
+the BES Advisory Committee’s,1
+DOE’s Office of Domestic and International Health Studies,1
+NIF-holhraum.jpg,1
+DOE Research and Innovation Act,1
+the 2014 Particle Physics Project Prioritization Panel,1
+the Nevada National Security Site,1
+NSF Seeking Program,1
+International Office,1
+Office of International Science and Engineering,1
+Congress
+Association of American Universities,1
+Senate Committee on Banking, Housing,1
+the Economy
+Innovation,1
+World Trade Center,1
+Quillette,1
+Research Management
+Audit,1
+Alipay,1
+Crystal Botham,1
+the Universe Center,1
+AI Task Force,1
+Ligado Networks,1
+DSCOVR,1
+Colorado State University,1
+The International Energy Agency,1
+World Energy Outlook (Scientific American,1
+Business Insider,1
+Space Foundation,1
+US Nuclear Nexus,1
+Lowy Institute,1
+GitHub,1
+Carnegie Europe,1
+koch-iss.jpg,1
+the Advanced Combustion,1
+Microgravity Experiments,1
+Deep Impact,1
+the Democratic party,1
+the American Meteorological Society,1
+National Weather Association,1
+The National Radio Astronomy Observatory,1
+the Very Large Array,1
+National Environmental Justice Advisory Council,1
+Workforce Development,1
+CPT,1
+Hiring Research Analyst,1
+the US Competition and Innovation Act,1
+MIT Sloan School,1
+Industrial Finance Corporation,1
+NCSES,1
+Quantum Information Science Research Center,1
+Ames Laboratory,1
+ABC Radio International,1
+ICICLE Institute,1
+Starliner,1
+Center For American Progress,1
+Forest Service,1
+Purdue Aerospace District,1
+Nuclear Posture Review,1
+ipcc-warming-projection-chart.jpg,1
+Partisan Package,1
+DMREF,1
+the Materials Genome Initiative,1
+an Office of Clean Energy Demonstrations,1
+Syracuse University,1
+Intelligence Panel Spotlights Research Security,1
+the EPA Clean Air Scientific Advisory Committee,1
+SAB,1
+Webinar on Storage Futures Study,1
+town hall,1
+Biomedical Engineering,1
+Health Informatics,1
+Medical Libraries,1
+the NOAA Ocean Exploration Cooperative Institute: Exploring,1
+Blue Frontier,1
+the Association of Public and Land-grant Universities,1
+the Center for Innovation,1
+the Berman Institute of Bioethics,1
+Nieman Lab,1
+Wilmer Hale,1
+NASPA,1
+the European Spallation Source (Physics World,1
+Princeton Plasma Physics Lab’s ITER Projects Team,1
+the Sanford Underground Research Facility (Fermilab,1
+National Secure Data Service,1
+Zurich Instruments,1
+quantum science center,1
+Argonne National Laboratory,1
+DC Circuit,1
+Northrop Grumman,1
+How Space Force,1
+Vaccines,1
+Ezekiel Emanuel,1
+sinema-infrastructure-press-conference-july-2021-900x500.jpg,1
+Fleming Crim,1
+Marrongelle,1
+NSF’s Education,1
+Portland State University,1
+the university’s College of Liberal Arts and Sciences,1
+The EHR Directorate,1
+the American Association for the Advancement of Science’s STEMM Equity Achievement,1
+Exchange Monitor,1
+Senate Strategic Forces Subcommittee Ranking,1
+haley-stevens-house-markup.jpg,1
+Nuclear Weapons Council Weighs,1
+Nuclear Weapons Council,1
+the Center for Security,1
+Mayor’s Office of Climate Resiliency,1
+Agricultural Research Service Administrator,1
+the Department of Agriculture’s,1
+Advanced Cyberinfrastructure,1
+Network Systems,1
+Dynamic Systems,1
+AI-Augmented Learning,1
+AI-Driven Innovation in Agriculture,1
+the Food System,1
+Homeland Security,1
+Wiley,1
+Sea-Air-Space Conference,1
+the Antiviral Program for Pandemics,1
+International Space Station R&D Conference,1
+High Energy Density Physics,1
+The Bipartisan Policy Center,1
+National Artificial Intelligence Research Resource,1
+Fusion Industry Association,1
+Nextgov,1
+House Budget Committee,1
+Ilaria Mazzocco,1
+Symmetry Magazine,1
+AAAS S&T Policy Fellowships Program,1
+The 2021 International Physics Olympiad,1
+El País,1
+NSF Major Facilities,1
+Congresistas,1
+el Observatorio de Arecibo,1
+the National Ecological Observatory Network,1
+the Artificial Intelligence Risk Management Framework,1
+FCC Chair Ajit Pai,1
+NGSO,1
+NOAA’s Space Weather Follow,1
+Roman Space Telescope,1
+The UN Security Council,1
+Security Council Report,1
+WyoFile,1
+(Nuclear Newswire,1
+Clean Energy Manufacturing Institute,1
+the US Navy,1
+Unidentified Aerial Phenomena (Scientific American,1
+Treasury Department,1
+Project Syndicate,1
+Science Committee Innovation Push Falling,1
+House Hearing
+Radio Spectrum Disputes Probed,1
+Senate Advances Nomination of Energy Justice Advocate,1
+Science Committee Innovation Push,1
+Clean Economy Jobs and Innovation Act,1
+The Steel Upgrading Partnerships and Emissions Reduction Act,1
+the Bioeconomy Research and Development Act ,1
+Mission Support Directorate,1
+a Commission on Planning, Programming, Budgeting,1
+Execution Reform,1
+the Semiconductor Industry Association,1
+Radio Spectrum Disputes Probed,1
+Science Committee’s,1
+energy justice,1
+the Weatherization Assistance Program,1
+the National Community Solar Partnership,1
+the Vehicle Technologies Office,1
+the Industrial Assessment Centers,1
+the Advanced Manufacturing Office,1
+the Department of Energy’s Nuclear Physics,1
+Electron-Ion Collider,1
+Nuclear Physics,1
+the Cleveland Clinic,1
+U.S. Army Synthetic Biology Roundtable 2,1
+the Subcommittee on Cyber, Innovative Technologies,1
+the Subcommittee on Strategic Forces,1
+NSPN/JSPG,1
+the National Artificial Intelligence Research Resource Task Force’s,1
+The Center for Science in the Public Interest,1
+The Wilson Center,1
+Science and Technology Innovation Program,1
+The Materials Genome Initiative (Science and Public Policy,1
+the UN Sustainable Development Goals (Nature Physics,1
+Electrical,1
+The Justice Department's,1
+NSF Engineering Alliance,1
+Penn State University,1
+National Solar Observatory,1
+NSO,1
+CERN (Argonne National Lab,1
+ScienceNews,1
+International Space Station,1
+New NOAA Climate Council,1
+The US Army,1
+DNFSB,1
+PEPFAR,1
+nrel-hydrogen-car.jpg,1
+the Department of Energy’s National Renewable Energy Lab,1
+Energy Infrastructure Act,1
+Cassidy,1
+The Defense Department,1
+Science Committee Airing Spectrum Interference Concerns,1
+the University of Wisconsin-Madison,1
+the Research Applications Laboratory,1
+the National Center for Atmospheric Research,1
+the UN Decade,1
+a Directorate for Translation, Innovation,1
+the National Institute of Standards and Technology’s Center for Neutron Research,1
+the Nuclear Regulatory Commission's,1
+the Biomedical Science Division,1
+the Material Measurement Laboratory,1
+the University of Utah,1
+a Directorate for Technology, Innovation,1
+Defense Department Science and Technology,1
+Office of Air and Radiation,1
+San Francisco State University,1
+Crimmins’,1
+Department of Climate,1
+Stacy Cummings,1
+the Air Force and Space Force,1
+the Defense-Industrial Initiatives Group,1
+Senate Foreign Relations Committee Chair,1
+Immigration Subcommittee Chair Zoe Lofgren,1
+the Optional Practical Training,1
+Senate Report Finds Agency,1
+Asian American Scientists,1
+Threat Management Service,1
+Energy Earthshot,1
+Energy Storage Grand Challenge,1
+European Lunar,1
+Orbit,1
+Foreign Affairs Committee
+ 
+Heritage Foundation,1
+ARPA-Health,1
+USFWS,1
+Bureau of Reclamation,1
+Revolutionary Technology,1
+U.S. Dominance in Space,1
+Nano,1
+Machine Learning Research and Innovation,1
+the Office of Science with Energy,1
+Long-Term Investments,1
+Ocean Sciences,1
+Mathematical Sciences,1
+Computing and Communication Foundations,1
+Social and Economic Sciences,1
+California S&T Council Seeking to Fill Several Roles,1
+Gallup,1
+sci-fi,1
+Cleveland Clinic,1
+New Strategic Council for Research Excellence,,1
+Collider-Accelerator Department,1
+Oxford,1
+PPPL Theory Department,1
+INFN,1
+Industry University Cooperative Research Centers,1
+GlobalFoundries,1
+Universities Space Research Association’s,1
+American Council for Capital Formation,1
+Air Force, Space Force Tech Connect,1
+MacArthur Foundation,1
+The British Academy,1
+Testify at Immigration Policy Hearing
+Science Committee,1
+Geosciences Directorate
+ 
+Flagship Electron-Ion Collider Passes,1
+Project Milestone
+ 
+Upcoming Events,1
+The DOE Office of Science,1
+IBM Research,1
+the Strategic Technologies Program,1
+Testify at Immigration Policy Hearing,1
+Energy Subcommittee Chair Jamaal,1
+the Science, Technology,1
+Public Policy,1
+the Cold Climate Housing Research Center,1
+Astronomers Fleshing Out Megaconstellation Mitigation Options,1
+Global Emerging Technologies Summit,1
+Carnegie Institution for Science,1
+National Intelligence Council,1
+Isern,1
+the Swiss Federal Institute of Technology,1
+Relativistic Heavy Ion Collider,1
+Project on Nuclear Issues Summer Conference ,1
+Advance Economic Inclusion,1
+NASA Programs,1
+the Pulse of Space and Technology,1
+NuScale Power,1
+SBA,1
+Business Committee,1
+U.S. Competitiveness,1
+National Labs,1
+Climate Crisis Committee
+ 
+National Academies,1
+Army Futures Command Research Program Realignment Study,1
+The Department of Energy’s Office of Energy Efficiency and Renewable Energy,1
+Project Hiring Defense Budget Reform Project,1
+Defense Budget for,1
+the Department of Defense’s Planning, Programming, Budgeting,1
+US Patent and Trademark Office’s,1
+Council on Competitiveness,1
+My Nuclear Life,1
+quantum physics,1
+Mars Ingenuity,1
+InSight,1
+Save Earth's,1
+Federation Of American Scientists,1
+Next European Research Council,1
+Brisbane Times,1
+Congress Breaks,1
+Science Committee Chair Weighs,1
+the National Academies’ National Science, Technology,1
+the National Institutes of Health, National Science Foundation,1
+Department of Energy Office of Science,1
+the U.S. Innovation and Competition Act’s,1
+The House Foreign Affairs Committee,1
+the U.N. Green Climate Fund,1
+University of California, Berkeley,1
+Department of Agriculture,1
+the American Association ,1
+the Advancement of Science,1
+the Joint Fire Science Program,1
+Clements,1
+the Department of Energy and National Oceanic and Atmospheric Administration,1
+Janet Petro,1
+Johnson Space Center’s,1
+Science Directorate,1
+Kennedy Space Center’s,1
+Emory University,1
+Approach to Nuclear Security,1
+the Chemical Sciences: Automation Information Gathering Meeting,1
+DOT,1
+the Chemical Sciences: Economics Information Gathering Meeting,1
+Office of Nuclear Energy,1
+Office of International Affairs,1
+RTI International’s Center for Applied Economics,1
+Omolol Eniola-Adefeso,1
+APS Physics,1
+STEM (Physics Today,1
+the Simons Foundation (Simons Foundation,1
+the organization of CERN,1
+Exxon Mobil,1
+GSA,1
+LinkedIn,1
+’ House Armed Services Chair,1
+quit journal board,1
+Turner,1
+doe-nrel.jpg
+
+    
+
+
+Workers,1
+the National Renewable Energy Laboratory,1
+Biden’s American Families Plan,1
+Ensuring American Global Leadership and Engagement,1
+House Appropriators to Endorse,1
+U.S Geological Survey and Environmental Protection Agency,1
+DOD Research, Development,1
+Test,1
+San José State University,1
+Miami University,1
+the Washington Department of Natural Resources,1
+the International Association of Fire Chiefs’ Wildland Fire Policy Committee,1
+Fire Weather Testbed,1
+national-carbon-capture-center.jpg,1
+The National Carbon Capture Center,1
+Department of Energy R&D,1
+Feinstein,1
+an Advanced Research Projects Agency for Health,1
+DOD Seeks Authority,1
+UAP,1
+Astrophysics Advisory Committee,1
+Evolving Military Capabilities,1
+Beyond – International Partnership,1
+Biodiversity,1
+the U.S. Public Health System,1
+the public
+ 
+Energy Futures Initiative,1
+Gigaton-Scale CO2 Transport,1
+Our Banking and Financial System,1
+Climate Crisis Committee
+ 
+Hoover Institution,1
+Oversight and Government Reform Committee,1
+CDT
+ 
+R Street Institute,1
+Society Journals,1
+The White House’s Scientific Integrity Task Force,1
+The Federation of American Scientists,1
+Board on Environmental Change and Society,1
+its Nuclear and Radiation Studies Board,1
+the Economy
+Study:,1
+Yale Climate Connections,1
+American Compass,1
+Magnachip (EE Times,1
+Germination of Research Questions for Addressing Critical Societal Challenges,1
+Northrop,1
+Phys.org,1
+PBS News,1
+Rolling Stone,1
+Duke Energy,1
+Oconee,1
+International Security,1
+Space Force (War,1
+Defense Precision Optics Consortium,1
+CCP,1
+Chinese university,1
+Senate Energy Committee Previewing Infrastructure Spending Proposal,1
+DOE Expansion Bill,1
+the Rare Earth Extraction Facility,1
+West Virginia University,1
+Earth Mapping Resources,1
+Space Subcommittee Chair,1
+House Advances NSF,1
+Department of Energy Science for the Future Act,1
+the Bureau of Reclamation,1
+The Department of Justice’s,1
+Biden Administration Previews Export Control,1
+Urges Faster Research,1
+the NIST Information Technology Laboratory,1
+the Future of Building Energy Codes,1
+the Interior Department’s,1
+the IAEA Headed for Confrontation,1
+Equitable Practices,1
+the Shortcomings of Current Law and Practice,1
+Global Environmental Justice,1
+Novel and Exceptional Technology and Research Advisory Committee,1
+The Association of Science and Technology Centers,1
+UCAR Hiring Government Relations Specialist,1
+Becker's,1
+Hospital Review,1
+US Senate,1
+National Advanced Industry and Technology Agency,1
+Laboratory Directed Research and Development,1
+Theory Department,1
+Energy Sciences,1
+Brookhaven Lab,1
+the European Spallation Source,1
+Network for Advanced Nuclear Magnetic Resonance,1
+quantum computer race,1
+G-7,1
+University of Oklahoma,1
+The Space Force,1
+American Prospect,1
+the National Academies (National Academies,1
+Trump era,1
+Yingjie Fan and Manfred Horvat,1
+Toronto Globe and Mail,1
+Office for Science and Technology Strategy,1
+Granholm-and-Manchin.jpg
+
+    
+
+
+,1
+Manchin’s,1
+House Natural Resources Committee,1
+the Earth Science Division's,1
+the Planetary Science Division,1
+G7 Research Compact,1
+a Working Group,1
+Biden Administration Releases Technology Supply Chain Reports,1
+Federal Consortium for Advanced Batteries,1
+National Blueprint for Lithium Batteries,1
+Office of Energy Efficiency and Renewable Energy,1
+Advanced Research Projects Agency–Energy,1
+Moffitt Cancer Center,1
+Confucius Institutes,1
+the National Institute of Standards and Technology Center for Neutron Research,1
+the Chemical Sciences: Education Information-Gathering Meeting,1
+Religion Intersect,1
+Army Modernization,1
+the Future of Spaceflight,1
+The Aerospace Corporation,1
+Federal Facilities Council: Standing Committee,1
+Future,1
+Global Scientific Community,1
+AAAS S&T Policy Fellowship Application,1
+S&T Policy Fellowship,1
+YouGov,1
+Title IX,1
+UC Observatories (University of California,1
+Ganymede,1
+Jamestown Foundation,1
+AFP,1
+Toshiba,1
+Fusion Energy Association,1
+Center on Global Energy Policy,1
+Trump’s State Department,1
+UK Space Agency,1
+IEA (Financial Times,1
+R&D Alliances,1
+Social Obligations,1
+Implementation of Technology Export Control Law Draws Scrutiny
+
+,1
+cicadas-near-capitol-2021.jpg,1
+the State Science and Technology Institute,1
+the Office of Economic Development,1
+the University of Michigan-Flint,1
+Carnegie Mellon University’s,1
+Department of Engineering and Public Policy,1
+the U.N. Decade,1
+Ocean Science for Sustainable Development,1
+NIST’s Manufacturing Extension Program,1
+NIST’s Engineering Laboratory and Material Measurement Laboratory,1
+Scientific Information Policy,1
+Rowan University,1
+the Office of Naval Research’s,1
+the White House Office of Science and Technology Policy’s,1
+the National Security Commission on AI,1
+The Center for Innovation Policy,1
+the Duke University School of Law,1
+VERITAS,1
+Neptune,1
+Implementation of Technology Export Control Law Draws Scrutiny,1
+Bureau of Industry and Security,1
+Science Committee
+ 
+Hudson Institute,1
+The IEEE Business Review Letter,1
+the Office of Minority Economic Impact,1
+CNA/CSET,1
+Vision for Future Capabilities,1
+The Future of Space Architecture,1
+the International Response,1
+Cultivating Interest,1
+Competencies,1
+Equitable,1
+The U.S. Group on Earth Observations,1
+USGEO,1
+Fox Business,1
+Lucas Joins Financial Services Committee,1
+NASA Watch,1
+PRX Energy,1
+Health and Human Services Office of Research Integrity,1
+Berkeley Lab (,1
+Next-Generation VLA antenna,1
+quantum center,1
+Liverpool (Research Professional,1
+Études de l'Ifri,1
+PacifiCorp,1
+Natrium,1
+World Nuclear Association,1
+King’s College London,1
+the JAMA Network,1
+Czech Science Foundation,1
+Nomination Hearing
+Plutonium,1
+doe-nrel-turbine.jpg,1
+The Department of Energy’s,1
+the DOE Office of Science, National Science Foundation,1
+the DOE Office of Energy Efficiency and Renewable Energy,1
+NSF “Technology, Innovation,1
+Partnerships Directorate,1
+The American Academy of Arts and Sciences,1
+the Daniel K. Inouye Solar Telescope,1
+the Global Alliance for Genomics and Health,1
+Challenges for International Scientific Partnerships,1
+schumer-in-front-of-capitol-2021.jpg,1
+Biden’s Cabinet,1
+NISAR,1
+the Indian Space Research Organisation,1
+National Center for Advancing Translational Sciences,1
+ARPA-H “,1
+NCATS,1
+Nomination Hearing,1
+BuzzFeed,1
+Electric System Reliability,1
+ORCID,1
+Geospatial Data and Services,1
+AMAD Project,1
+Communities,1
+the U.S. House with Space Subcommittee,1
+FASEB,1
+Incorporating National Security,1
+Federal Spectrum Policy,1
+the Physics Community,1
+Science Committee
+ 
+Emerging Technologies Institute,1
+the National Medal of Science,1
+NASA Hiring Legislative Affairs,1
+Office of Legislative and Intergovernmental Affairs,1
+the LANDInG Academy,1
+Kennedy (Space Review,1
+The US Innovation and Competition Act,1
+National Review,1
+Ret,1
+National Assessment of Educational Progress,1
+INSA,1
+Los Alamos National Lab's,1
+Lawrence Livermore National Laboratory (Union of Concerned Scientists,1
+Advanced Test Reactor,1
+Data (Atlantic Council,1
+ARPA-E Energy Innovation Summit,1
+Fusion Energy Caucus,1
+STEP,1
+Biden,1
+US Space Force (SpaceNews,1
+Savannah River Site ',1
+PRC Ministry of Education,1
+ChinaFile,1
+BeiDou,1
+ResearchProfessional,1
+GPO-staff.jpg,1
+the Government Publishing Office,1
+GPO,1
+Senate Energy and Natural Committee,1
+the Quantum User Expansion for Science and Technology (QUEST) Act,1
+the Quantum Network Infrastructure Act,1
+the Aeronautics and Space Engineering Board,1
+The Advanced Research Projects Agency–Energy,1
+Energy Innovation Summit,1
+Cantwell-hearing.jpg,1
+Cruz, Melroy,1
+Riley Duren,1
+Space Subcommittee Ranking,1
+Cyber, Innovative Technologies,1
+the House Republican Caucus,1
+Future of Defense Task Force,1
+the House Armed Services Committee’s,1
+the Defense Department’s Planning,1
+Senate Armed Services Committee,1
+the National Defense Strategy,1
+Inclusion in Chemistry and,1
+Chemical Engineering,1
+NOAA Satellites,1
+U.S. Approaches,1
+Human Resources Directorate Advisory Committee,1
+New Leadership Team,1
+Ocean Sustainability,1
+the Life Sciences and Biotechnology,1
+U.S. National Priorities,1
+American Academy of Arts & Sciences,1
+Board on Atmospheric Sciences,1
+Republic of Korea Partnership,1
+the COVID-19,1
+Inside Operation Warp Speed,1
+American Affairs,1
+Idaho National Laboratory,1
+Latina,1
+AAU/APLU,1
+ProQuest,1
+Spallation Neutron Source,1
+Fermilab (Physics World,1
+New Frontiers,1
+The Supreme Court,1
+IEA,1
+Energy Star,1
+Kingston Reif,1
+Livermore,1
+the Hamilton Commission,1
+Securing America’s,1
+AP News,1
+Trump (AP,1
+Arctic Council Ministerial (State Department,1
+the Earth Sciences Division,1
+Carbon Mapper,1
+Austin, Brown University,1
+IonQ,1
+Cantwell’s,1
+Aderholt,1
+the Department of Energy’s National Nuclear Security Administration,1
+Office of Environmental Management,1
+The House Energy and Commerce Committee,1
+Defense for Research,1
+The Rural STEM Education Research Act,1
+The COAST Research Act,1
+Tatiana Yankelevich Bonner,1
+House Research and Technology Subcommittee,1
+the House Research and Technology Subcommittee,1
+the Republican Study Committee,1
+Scientific Integrity Review Panel,1
+Francesca Grifo,1
+the Office of Science Quality and Integrity,1
+the National Library of Medicine,1
+Langley Research Center,1
+Cabana,1
+Facilitating Multilateral Dialogue,1
+the Development of Norms, Rules,1
+U.S. Army Synthetic Biology Roundtable,1
+Science Committee
+ 
+American Chemical Society,1
+the China S&T Challenge,1
+am PDT
+ 
+Foundation,1
+the Future of Space Development,1
+Potential Solutions,1
+The Future of Scientific Computing,1
+Beyond,1
+Advance NASA Earth System Science Priorities,1
+Homeland Security and Governmental Affairs Committee,1
+Radio Frequencies Committee,1
+Private Forestlands: Opportunities for Addressing Climate Change,1
+Forest Management,1
+Forest Products,1
+National Committee,1
+U.S.–China Relations,1
+Project Hiring S&T Policy Directors,1
+~10,1
+Biden White House's,1
+HLS,1
+a National Laboratory Biotechnology Program,1
+Gideon Rachman,1
+Upstream Downstream,1
+Johns Hopkins,1
+the Institute of Physics,1
+PLOS,1
+FPRI,1
+Dark Energy Spectroscopic Instrument,1
+University of Hawaii,1
+Honolulu Star-Advertiser,1
+the quantum revolution,1
+Analyzing AI,1
+SLS (Washington Post,1
+OSIRIS,1
+DOE’s Office of Nuclear Energy,1
+Solar Energy Technologies Office,1
+Emerging Technologies Institute (Politico,1
+the UN Conference of Parties,1
+Office of Sen.,1
+the National Academies Committee on International Security and Arms Control,1
+NASA Science Community Metrics,1
+Lockheed Martin,1
+the Partnerships for Energy Security and Innovation Act,1
+the National Academy of Public Administration,1
+the National Center for Science and Engineering Statistics,1
+merrick-garland.jpg,1
+the House Science and Armed Services Committees,1
+the Judiciary, Intelligence,1
+Homeland Security Committees,1
+the Basic Energy Sciences,1
+Energy Subcommittee Chair,1
+the democratic socialist movement,1
+Jobs,1
+Office of Energy Jobs,1
+Center for Neutron Research,1
+Electro-Optics,1
+Vaccine Confidence and Misinformation,1
+Repairing Networks,1
+the International Response”,1
+USDA Research,1
+Economics Mission Area,1
+Transportation Systems,1
+The U.S. Semiconductor Industry Workforce,1
+American Growth and Innovation,1
+National Security Commission on Artificial Intelligence: America,1
+the New Innovation Race,1
+Space Weather Advisory Group,1
+The National Academy of Engineering,1
+Quantum Consortium Hiring,1
+U.S. National Quantum Initiative,1
+Black Communities,1
+BIPOC,1
+New White House,1
+the Climate Change Support Office,1
+National Hurricane Preparedness Week,1
+National Defense Education Act,1
+New ACS Institute,1
+NITRD,1
+the Science Philanthropy Alliance,1
+the Centre for Journalology,1
+IceCube,1
+ETL,1
+Shuttle-Mir,1
+New NOAA,1
+Kristina Dahl,1
+the US Arctic Research Commission,1
+Oak Ridge National Lab forms,1
+American Factory,1
+Brexit (Research Professional,1
+NOAA Awards,1
+the House Science Committee’s Research and Technology Subcommittee,1
+Science Committee Turns Attention,1
+The Office of Science’s,1
+shyu-richmond.jpg,1
+the Department of the,1
+the University of New Brunswick,1
+University of Toronto,1
+Raytheon,1
+the Air Force Scientific Advisory Board,1
+University of Oregon,1
+the Basic Energy Sciences Advisory Committee,1
+Brookhaven National Lab’s High Flux Beam Reactor,1
+the American Association for the Advancement of Science’s,1
+COACh,1
+Transportation Committee Chair,1
+Duckworth,1
+Charpentier,1
+NOAA Awards Weather Model Development Platform to Raytheon,1
+the Earth Prediction Innovation Center,1
+EPIC,1
+NOAA Advisory Panel Sends Back,1
+Environmental Information Services Working Group’s,1
+AccuWeather,1
+The Bioeconomy Research and Development Act,1
+Consortia-Led Energy,1
+the Office of Science and Technology Policy,1
+National Integrated Drought Information System Executive Council,1
+Project on Nuclear Issues Capstone Conference,1
+CDT
+ 
+Physics,1
+the Education Department’s,1
+Armed Services and Foreign Affairs Committees
+ 
+CSET,1
+Economic Sciences Advisory Committee,1
+Solar Geoengineering Research,1
+Governance,1
+Science Committee
+ 
+Carnegie Mellon University,1
+National Security Telecommunications Advisory Committee,1
+Priorities for Congressional Appropriations,1
+the Thrill of Space,1
+the U.S. Air Force and Space Force,1
+Policy and Federal Relations,1
+Claude Barfield,1
+House Space Subcommittee,1
+Space Situational Awareness,1
+Space Subcommittee,1
+Big Tech,1
+Boston Review,1
+NYU,1
+Florida Politics,1
+Starlink,1
+Trump EPA,1
+Energy Innovation Tax Credit,1
+Army Times,1
+the Foundational Infrastructure for Responsible Use of Small Modular Reactor Technology,1
+(Nuclear Regulatory Commission,1
+Directorate of Science and Technology,1
+Ranking,1
+World Health Organization,1
+Yusef Rabiah,1
+New Version of,1
+Mars Exploration Program,1
+Bethany Ehlmann,1
+the American Meteorological Society’s,1
+future electric energy systems,1
+the University of California, Merced,1
+the University of Asmara,1
+Pacific Northwest National Lab’s Environmental Molecular Sciences Lab,1
+the Office of Science’s Biological and Environmental Research,1
+the ADVANCEGeo Partnership,1
+the Office of Oceanic and Atmospheric Research,1
+the U.S. Navy,1
+the Department of Transportation,1
+the White House Council of Economic Advisors,1
+House Panel Weighs Merits,1
+Universities Protest Senate Move to Scrutinize Foreign Funding,1
+Health Committee Ranking,1
+Army Futures Command’s Team Ignite,1
+the Air Force Research Lab’s Transformational Capabilities Office,1
+quantum information science, energy research,1
+QUANTUM,1
+the Quantum Network Infrastructure,1
+The Partnerships for Energy Security and Innovation Act,1
+the House Science and Natural Resources Committees,1
+The National Institute of Manufacturing Act,1
+U.S. Aerospace,1
+Morehouse College,1
+American Made Innovation,1
+the Chemical Sciences: Session on Funding Mechanisms,1
+Industry Studies Association,1
+Federal Agencies,1
+Space Enterprise Council,1
+White House Environmental Justice Advisory Council,1
+Legal Resources,1
+Mars Perseverance Rover,1
+Improve Community Collaboration,1
+Workforce Capacity,1
+Natural Resources Committee
+ 
+University of Oregon,1
+Sustainability Through Infrastructure Investments,1
+The American Mathematical Society,1
+Global Affairs,1
+the Global Environmental Measurement,1
+Council of Economic Advisers,1
+World Intellectual Property Day,1
+Johnson & Johnson,1
+House Energy and Commerce,1
+Eagleton Institute of Politics,1
+RPI,1
+Caillou Peña,1
+Noahpinon,1
+ASU,1
+The State Press,1
+USDOT,1
+Denver Post,1
+Starship (Space Review,1
+National Energy Technology,1
+Air Force Times,1
+Space Development Agency,1
+J&J,1
+Beloit,1
+Wisconsin State Journal,1
+WTO,1
+Ferial Ara Saeed,1
+UK House of Commons,1
+Met Office,1
+Research Security Initiatives,1
+the United Nations Climate Change Conference,1
+Housing and Urban Development,1
+the Air Force Research Laboratory,1
+U.S. Army Combat Capabilities Development Command,1
+NIH Updating Senate on,1
+The Senate Health Committee,1
+the Office of Inspector General and Office of National Security,1
+Policy Front and Center,1
+the U.S. Air Force,1
+the Federal Aviation Administration,1
+the Department of the Interior’s,1
+Trujillo,1
+the Colorado River Sustainability Campaign,1
+the Colorado River Board,1
+the Interior Department,1
+Northern Illinois University,1
+the Council on Foreign Relations,1
+the Brookings Institution,1
+The Washington Post,1
+The National Climate Assessment,1
+Senate Begins Review of Endless Frontier,1
+National Intelligence Avril Haines,1
+Science Mission Directorate Community,1
+Natural Resources Committee
+ 
+Atlantic Council,1
+Climate Solutions,1
+Protecting U.S. Biomedical Research: Efforts to Prevent Undue Foreign Influence,1
+the Clean Energy Economy”,1
+the Arctic Council,1
+George Mason University,1
+Healthcare Innovation,1
+NSB Chair,1
+Visiting Committee on Advanced Technology,1
+the Manufacturing Extension Partnership,1
+the Malcolm Baldrige National Quality Award,1
+a National Institute of Manufacturing,1
+GAO’s Science, Technology Assessment,1
+the Economy
+International,1
+Foreign Policy Research Institute,1
+NOVA,1
+the Chinese Academy of Sciences,1
+Carnegie Institution,1
+NIST Center for Neutron Research (Nuclear Regulatory Commission,1
+NVIDIA,1
+Hewlett Packard Enterprise,1
+Earthly,1
+LPS Qubit Collaboratory (National Security Agency,1
+Artemis Human Landing System,1
+Mars Sample,1
+American Critical Mineral Independence Act,1
+NSF Expansion Proposals,1
+Council of Advisors on Science and Technology Co-Chair Frances Arnold,1
+RMI,1
+Defense Advanced Research Projects Agency,1
+NOAA’s,1
+National Environmental Satellite Data and Information Service,1
+NOAA’s National Ocean Service,1
+National Climate Service,1
+the National Weather Service,1
+the National Intelligence Council,1
+Gather Virtually,1
+Fermilab’s Muon g-2 Experiment,1
+Advisory Council,1
+nasa-ingenuity-helicopter.jpg,1
+The National Institutes of Health,1
+the Earth Science Division,1
+the Democracy Technology Partnership Act,1
+the Department of the Air Force’s,1
+Samsung Electronics,1
+Nokia,1
+the Wikimedia Foundation,1
+the Defense Science Board,1
+Microsystems Exploratory Council,1
+Physical Sciences Directorate,1
+the Carnegie Research 2,1
+MPS Directorate,1
+Space Technology Mission Directorate,1
+Wichita State University,1
+CubeSat,1
+Muon g-2 Experiment,1
+CDT
+ 
+Atlantic Council,1
+Harvard Law School,1
+New Energy Finance Summit,1
+Cornell/University of Minnesota,1
+Quantum Engineering Infrastructure,1
+Fragility,1
+Joint Economic Committee
+ 
+CSET,1
+Biological Sciences Advisory Committee,1
+American Economic Competitiveness,1
+Select Subcommittee on the Coronavirus,1
+Climate Crisis Committee
+ 
+Resources,1
+uOttawa,1
+Policy Experts,1
+The Department of Agriculture,1
+Workforce Studies Unit,1
+Climate Science Legal Defense Fund,1
+The Science Coalition,1
+National Foundation for,1
+American Policy,1
+Elsevier (University of California,1
+WTF,1
+jargon,1
+APS March Meeting,1
+Chicago Quantum Exchange,1
+the NSF Center,1
+Quantum Networks,1
+CANZUK,1
+AI (Foreign Affairs,1
+Voyager Space Holdings,1
+Energy Sciences Coalition,1
+TAE,1
+Pentagon (Roll Call,1
+ABC News,1
+new tech bureau,1
+PLA,1
+Bolsonaro,1
+National Space Council to Continue,1
+the Association of American Medical Colleges,1
+the Association of Public and Land-grant,1
+an Office of Management and Budget,1
+the Budget Control Act,1
+White House Presidential Innovation Fellow,1
+National Space Council to Continue Under Biden,1
+White House Gears Up,1
+the Office of Manufacturing and Industrial Innovation Policy Act,1
+a Federally Funded Research and Development Center,1
+the Medical Neighborhood,1
+the National Academies’ Report,1
+CDT
+ 
+Resources,1
+The Heritage Foundation,1
+the Heart of Climate Action,1
+U.K. Perspective,1
+Covering Environmental and Climate Justice,1
+Commerce Spectrum Management Advisory Committee,1
+CDT
+ 
+Duke University,1
+S&T Policy Fellowship Program,1
+Science and Technology Policy Fellowships Program,1
+The Congressional Research Service’s Resources,1
+Science and Industry Division,1
+the Oval Office (National Security Archive,1
+Democracy Technology Partnership Act,1
+Deseret News,1
+the Economy
+Study,1
+US S&T,1
+Asian Pacific Islanders,1
+ARPA-L,1
+the Department of Labor,1
+IIE,1
+Journal of Responsible Innovation,1
+NBC,1
+Berkeley Lab’s Accelerator Technology,1
+Applied Physics Division,1
+Florian Martin-Bariteau,1
+Royal Astronomical Society,1
+Princeton Alumni Weekly,1
+Minneapolis Star Tribune,1
+ATOM,1
+G-7 Nations,1
+EU Commission,1
+the Chinese Communist Party,1
+Bipartisan NSF Policy Bill Unveiled,1
+Securing American Leadership in Science and Technology Act,1
+the Department of Energy Office of Science, National Science Foundation,1
+Standing Committee on Medical and Epidemiological Aspects of Air Pollution,1
+Green Tech,1
+the National Security Commission,1
+Influence Operations,1
+Diversity and Inclusion,1
+Arecibo Observatory Options Workshop,1
+Analyzing Financial Investments,1
+Practice,1
+Oregon Public Broadcasting,1
+Leaders Summit,1
+AAPI,1
+Scientific Integrity Act,1
+Georgia Institute of Technology,1
+Visa,1
+COVID-19 (Vinson & Elkins,1
+Social Studies of Science,1
+Broad Institute,1
+AI (Boston Globe,1
+Orbis,1
+Trump (New York Times,1
+Congressional Review Act,1
+NOAA Fisheries',1
+US Navy,1
+RF,1
+the Pacific Network,1
+European Union,1
+the National Academies’ Space Science Week,1
+NASA Earth Observatory,1
+the Committee on Biological and Physical Sciences,1
+the Committee on Planetary Protection,1
+The Committee on Astronomy and Astrophysics,1
+The Perils of Complacency: America,1
+Congress Continues Exploration of Clean Economy R&D Strategies,1
+Senate Panel,1
+Tennessee Valley Authority,1
+the Nevada Test Site,1
+Challenger,1
+Transportation Committee’s,1
+the NASA Advisory Council,1
+Intelligence Advanced Research Projects Activity,1
+Matheny,1
+the Strategic Technology Office,1
+Tomkins,1
+the Colorado School of Mines,1
+the House Science Committee,1
+Oversight Subcommittee Chair,1
+the National Response Enterprise,1
+Texas Grid Failure,1
+Energy and Commerce Committee
+ 
+Department of Education,1
+National Safe School Reopening Summit,1
+Student Mental Wellness Summit,1
+Addressing Health Disparities,1
+Research and Research Governance,1
+Building Technologies Research,1
+Science Committee
+ 
+Aerospace Corporation,1
+New York Academy of Sciences,1
+the Journal of Science Policy,1
+Vox,1
+the Semiconductor Industry Association (Commerce Department,1
+World's Fair,1
+National Labor Relations Board,1
+San Jose Mercury News,1
+the NSF Graduate Research Fellowship Program,1
+Economic Sciences Directorate,1
+ORNL (Oak Ridge National Lab,1
+Trump (Washington Post,1
+DigiChina,1
+bill-foster-nasa-900px.jpg,1
+the Partnership for Public Service,1
+the Government Accountability Office’s,1
+the Energy Department’s Office of Energy Efficiency and Renewable Energy,1
+the House Transportation and Infrastructure Committee,1
+the Senate Banking Committee,1
+the Sakharov Prize,1
+Defense for Policy Michèle Flournoy,1
+National Intelligence Sue Gordon,1
+the Defense Department’s Defense Innovation Unit,1
+the Defense Innovation Board,1
+The European Innovation Council,1
+CC BY-NC-SA,1
+Engineering Research Centers and Industry-University Cooperative Research Centers,1
+Innovation Corps,1
+the National Science and Technology Foundation,1
+the U.S. Fish and Wildlife Service,1
+the Institute of Education Sciences,1
+Quad’ Nations Create Technology Policy Working Groups,1
+the Grid Storage Launchpad,1
+Hearing on Transportation Technologies,1
+Finance Committee
+ 
+Secure World Foundation,1
+Opportunities,1
+MSU,1
+the Rise of Commercial Space,1
+Biden Administration Actions,1
+Aeronautics Advisory Committee,1
+The Science & Entertainment Exchange,1
+Tech Future,1
+Aging Committee
+ 
+House,1
+the Texas Blackout: Research Needs,1
+a Secure and Resilient Grid,1
+Environmental Research and,1
+Education Committee,1
+The American Geosciences Institute,1
+Biden White House,1
+Senate Foreign Relations Committee,1
+the Economy
+Risks,1
+American Innovation,1
+The NIH Center for Scientific Review’s,1
+IOP Publishing’s,1
+Energy Science and Technology,1
+Purdue Board,1
+quantum communication,1
+Aging Hubble,1
+Office of Space Commerce,1
+the Climate Working Group,1
+Shark Tank’,1
+Globe and Mail,1
+Raimondo Confirmed,1
+the Intelligence Advanced Research Projects Activity,1
+the Global Research Council,1
+Omnispace,1
+the University of Pennsylvania’s,1
+the Senate Environment and Public Works Committee,1
+the Senate Indian Affairs Committee,1
+Indigenous,1
+the Senate Agriculture Committee,1
+UNITE,1
+the Intelligence and Foreign Relations Committees,1
+an “International Technology Partnership Office,1
+House Natural Committee Chair Raúl Grijalva,1
+NSF Updates Congress on Aftermath of Arecibo Collapse,1
+Quantum Science Concepts,1
+Commerce Department: Regulations and Procedures Technical Advisory Committee,1
+Business and Operations Advisory Committee,1
+Brookhaven National Laboratory,1
+Affordability of Electric Service,1
+Indian Affairs Committee,1
+Fill Six,1
+Hiring Clean Energy Innovation Analyst,1
+Scientific Responsibility,1
+Climate Planning Unit,1
+Breakthrough Institute,1
+American Science Corps’,1
+Pew Research,1
+Missing Millions & deliver research,1
+Criminalizing China,1
+Journal of Criminal Law and Criminology,1
+Jackson Lab,1
+Bangor Daily News,1
+Smithsonian Institution,1
+neutron sciences,1
+The UN Environment Program,1
+Hitachi Nuclear Energy,1
+Fermi Energia,1
+Aditi Verma,1
+NDIA,1
+OSHA,1
+COVID-19 (Energy and Commerce Committee,1
+The British Advanced Research and Invention Agency,1
+Higher Education Strategy Associates,1
+Canadian Nobelists,1
+NSF Sponsoring Technology Protection Study
+Scientists and Regulators Reflect on Nuclear Power Disasters,1
+House Appropriators Mull Alternative Energy Innovation Approaches,1
+The National Security Commission on Artificial Intelligence,1
+White House Technology Competitiveness Council,1
+NSF Sponsoring Technology Protection Study,1
+the University of Pittsburgh,1
+the Electric Power Research Institute,1
+the America LEADS Act,1
+Simpson,1
+House Armed Services Committees,1
+Planning, Programming, Budgeting,1
+the Academy: Institutional Strategies for Change,1
+Shalanda Young,1
+North American Carbon Program,1
+Medicine,1
+Major Facilities Guide,1
+117th Congress,1
+Photonics Caucus,1
+MIT Press,1
+Women (Chronicle of Higher Education,1
+Regulatory Review,1
+OIG,1
+Sci-Hub’s,1
+Space Science Institute,1
+Biological and Environmental Systems Science (ORNL,1
+New Energy Sciences Center,1
+First White House,1
+NEPA,1
+National Hurricane Center,1
+IG,1
+harden electric grid,1
+Energy Futures Initiative,1
+SASC of China's,1
+the Lancet Commission,1
+Monkeys (New York Times,1
+Trump admin,1
+New York Post,1
+China Data Lab,1
+Oxford University,1
+Shaaban,1
+Launch of Asteroid Collision Mission Pushed Back,1
+the Senate Armed Services Committee’s,1
+National Defense Industrial Association,1
+Vision for the Science and Technology Enterprise,1
+the House Strategic Forces Subcommittee,1
+Washington State University,1
+the American Educational Research Association,1
+the U.S. Chamber of Commerce’s Center for Capital Markets Competitiveness,1
+the Breakthrough Energy,1
+the House Agriculture Committee,1
+the House Financial Services Committee,1
+the National Defense Authorization Act for,1
+Racial Equity Task Force,1
+Optics and Photonics Caucus,1
+the National Photonics Initiative,1
+NPI,1
+Space and Science Subcommittee,1
+Subcommittee on Science, Oceans, Fisheries,1
+the Subcommittee on Oceans, Fisheries,1
+Manufacturing,1
+the Strategic Forces Subcommittee,1
+the U.S. Citizenship Act,1
+visas and institute,1
+U.K. Research and Innovation,1
+the Double Asteroid Redirection Test,1
+R&I,1
+the American Rescue Plan Act,1
+Budget Committee
+ 
+National Academies,1
+Health Approach,1
+430 Dirksen Office Committee,1
+Beyond: Space Exploration and Public Policy,1
+Medicine for the Courts,1
+Homeland Security Committee
+ 
+House,1
+the U.S. Agriculture and Forestry Sectors,1
+Social Responsibility: Helping Corporate Boards and Investors Make Decisions,1
+COVID-19 Immunizations,1
+the Commission on Public Policy and Health,1
+the Oval Office,1
+Penn State,1
+ChinaTalk,1
+Hexapodia II,1
+American Institute of Physics,1
+Department of Science and Technology (Scientific American,1
+American S&T,1
+Potomac Institute,1
+CHORUS,1
+ISP,1
+Oak Ridge Institute (ORNL,1
+IEEE Milestone (IEEE Spectrum,1
+quantum scaling project,1
+Quantum Center,1
+Linux Foundation,1
+international lunar research,1
+SRS (Exchange Monitor,1
+Groups,1
+Yale News,1
+Berkeley News,1
+Jerusalem Post,1
+the National Summit on the Science and Technology of Epidemiological Modeling and Prediction (STPI,1
+Voice of America,1
+Macro,1
+Perseverance-touching-down-on-Mars.jpg,1
+Curiosity,1
+Perseverance’s,1
+the United Arab Emirates,1
+the Interior-Environment,1
+the Space and Aeronautics Subcommittee,1
+the Energy Department's,1
+the National Oceanic and Atmospheric Administration and Environmental Protection Agency,1
+the Space Subcommittee and Energy Subcommittee,1
+hl-lhc-aup-magnet-berkeley-lab.jpg,1
+CMS,1
+the White House Office of Science and Technology Policy, Office of Management and Budget,1
+Office of Domestic Climate Policy,1
+the Advanced Research Projects Agency,1
+Research Investment,1
+the Energy and Commerce Committee,1
+Mars Perseverance Rover Landing Events,1
+Science Committee
+ 
+GSA/SSA/AGU,1
+New Congress,1
+Heising-Simons Foundation Hiring Science Program Officer,1
+The Heising-Simons Foundation,1
+Congressional Research Service,1
+Graduate Recruit Program,1
+the Viral Pathogenesis Laboratory,1
+Trump research security memorandum (Association of American Universities,1
+Chinese Research Funds Accounting Act,1
+the Office of Technology Assessment,1
+USPTO,1
+LA Review of Books,1
+Environmental Genomics and Systems Biology Division,1
+National Virtual Biotechnology Lab,1
+Astronomy.com,1
+Cray,1
+Moscow State University,1
+Lexington Institute,1
+the Biden-Harris Administration (Planetary Society,1
+Obama's,1
+Manhattan Project',1
+Aerospace Corp (Breaking Defense,1
+DefenseNews,1
+Chinese State Council,1
+E&T,1
+NK News,1
+Science and Energy Named
+Energy,1
+Study Charts Out Rapid Decarbonization Plan,1
+Last Congress,1
+The American Association for the Advancement of Science’s,1
+National Institute of Allergy,1
+the Journal of Science Policy and Governance,1
+Frances Bagenal,1
+the Laboratory for Atmospheric and Space Physics,1
+the University of Illinois at Urbana-Champaign,1
+UMBC,1
+Meyerhoff Scholars Program,1
+The NIST Center for Neutron Research,1
+Science and Energy,1
+Hogan,1
+the Office of Energy Efficiency and Renewable Energy,1
+The Strategic Forces Subcommittee,1
+a Department of Education,1
+the Federal Helium Reserve,1
+Neguse,1
+Goddard Institute for Space Studies,1
+the Science and Technology Policy Institute,1
+Green Bank,1
+the Department of Energy's Office of Fossil Energy,1
+CUI,1
+NIST CUI,1
+Post-New START Arms Control:,1
+Energy and Commerce Committee
+ 
+Aerospace Corporation,1
+Earth Venture Class,1
+U.S. Government Programs,1
+the Vera C. Rubin Observatory,1
+the European Space Agency’s,1
+the Intergovernmental Panel,1
+The Energy Futures Initiative,1
+the Research Policy Board,1
+US News,1
+the 117th Congress (Association of American Universities,1
+US Postal Service Commemorative,1
+Hospital,1
+Lincoln Laboratory,1
+DOD,1
+Partnership Intermediary Agreements,1
+Swiss National Science Foundation,1
+SwissInfo,1
+NSF Spectrum Innovation Initiative ,1
+US AI,1
+Firefly Aerospace,1
+Mars Ice Mapper,1
+General Atomics,1
+the Environmental Impact Statement,1
+the Surplus Plutonium Disposition Program,1
+Wildfire Chemistry Studies Launching,1
+Manchin and Committee Chair,1
+Murkowski’s,1
+the Senate’s Energy and Natural Resources Committee and Commerce,1
+Energy and Natural Resources Ranking,1
+House Science Committee Chair,1
+Manufacturing USA Institute,1
+Wildfire Chemistry Studies,1
+Washington University,1
+the American Chemical Society,1
+the National Institute of Environmental Health Sciences,1
+Kicks Off,1
+National Science Policy Network,1
+Administration's,1
+National Climate Task Force,1
+National Intelligence Estimate,1
+the National Institute of Standards and Technology’s,1
+Cantwell,1
+the Interior-Environment Subcommittee,1
+the Defense Subcommittee,1
+the FYI Federal Science Leadership Tracker,1
+the University of California,1
+BlackRock,1
+Mercury Exploration Assessment Group,1
+Miguel Cardona,1
+Medical Supply Chain,1
+The Biden Administration’s Future Agenda,1
+Risk Assessments and Mitigation Strategies,1
+Carnegie Endowment for International Peace,1
+the Intersection of Science and Politics,1
+Project Accepting S&T Policy Ideas,1
+Trump (Politico,1
+the Oval Office (E&E News,1
+the Coronavirus Task Force,1
+Media Matters,1
+Albuquerque Business First,1
+Albuquerque Journal,1
+Green Bank Observatory,1
+Washington Business Journal,1
+EE Times,1
+AI/ML (CSET,1
+New House,1
+CJS,1
+MRO,1
+Federal Reserve,1
+Storage Futures Study,1
+Nevada Current,1
+Bipartisan Commission,1
+Bureau of Cyberspace Security,1
+Berkeley Lab’s Earth and Environmental Sciences Area,1
+the Office of Science and University of Pennsylvania,1
+Hedvig Hricak,1
+Biden-EOs-900x500px.jpg,1
+CSPAN,1
+Science-Related Executive Orders,1
+the World Health Organization,1
+National Center for Epidemic Forecasting,1
+Outbreak Analytics,1
+the Federal Advisory Committee Act,1
+the Deferred Action on Childhood Arrivals,1
+a Department of Energy,1
+Quantum Network,1
+quantum networks,1
+Obama administration,1
+the Surplus Plutonium Disposition,1
+Bipartisan Climate Action,1
+Innovation and Engineering Committee,1
+Communities Beyond Earth,1
+U.S. Nonproliferation Efforts,1
+the New Congress,1
+The U.S.,1
+Science Policy Journal Announces Special Issue,1
+The Journal of Science Policy and,1
+STEM Talent Challenge (Economic Development Administration,1
+Tatyana Deryugina,1
+Idea Machines,1
+Senate AI Caucus,1
+Bridenstine,1
+Photonics News,1
+Cubesat,1
+Transportation Department,1
+Nuclear Regulatory Commission,1
+Marcus Clay,1
+Co-Chair,1
+biden.jpg,1
+treasury,1
+Lander,1
+Human Genome Project,1
+the Social Science Research Council,1
+the Institute for Advanced Study,1
+Co-Chair PCAST,1
+the Biomedical Advanced Research and Development Authority,1
+the Coalition for Green Capital,1
+the Presidential Personnel Office,1
+Homeland Security Advisor,1
+Sherwood-Randall,1
+Neuberger,1
+the Women of Color,1
+White House Office and Science Technology Policy,1
+The President’s Council of Advisors on Science and Technology,1
+the Global Positioning System,1
+National Climate Assessment,1
+CC BY-ND,1
+Bill & Melinda Gates Foundation,1
+Alejandro Mayorkas,1
+the Nuclear Workforce Recent Developments and Possible Responses,1
+Steering Group,1
+Strategizing Federal U.S. Research Investments,1
+Security Fellowship Accepting Applications,1
+The University of California San Diego,1
+Operation Warp,1
+National Technology Council,1
+the Wildland Fire Management Policy Committee,1
+S&T Action Committee,1
+H. Holden Thorp,1
+Optional Practical Training,1
+The Budget Control Act,1
+Cell Press,1
+National Geographic,1
+Berkeley Lab’s Cyclotron Road,1
+CNET,1
+German Astronomical Society,1
+the Supreme Court,1
+Center,1
+the National Landslide Preparedness,1
+The National Landslide Preparedness Act,1
+Data for Progress,1
+the Future Advisory Board,1
+Minerals Sustainability Division,1
+General Fusion,1
+Asia Times,1
+Missile Defense Review,1
+US Army Futures Command,1
+Space Guardians,1
+DOE’s Office of Environmental Management (National Academies,1
+Science, Technology and Innovation Outlook,1
+Fudan University,1
+Dominic Cummings,1
+Democrats Prepare for Unified Control of Government,1
+Security Council,1
+schumer-pelosi.jpg,1
+Interagency Council on Advancing Meteorological Services,1
+Networking and Information Technology,1
+Capitol-with-fence.jpg,1
+Biden’s Electoral College,1
+Electoral College,1
+The Environmental Protection Agency,1
+the Congressional Review Act,1
+Security Council Staff,1
+National Security Council,1
+Cameron,1
+AI R&D,1
+American University,1
+Toffler Associates,1
+the Treasury Department,1
+National Space Policy,1
+Climate"11:30 am
+ 
+National Academies,1
+Technological Advisory Council,1
+CSIS Technology,1
+The Artemis Generation,1
+The Society of Physics Students,1
+The Mather Public Policy Internship,1
+SPS,1
+The National Center for Science and Engineering Statistics,1
+the National Science Board’s Science and Engineering Indicators,1
+the Confidential Information Protection and Statistical Efficiency Act,1
+White House Task Force,1
+the Georgia Senate,1
+Mareena Robinson Snowden,1
+Chemical & Engineering News,1
+European Space Agency,1
+Space Dynamics Lab,1
+Grist,1
+Savannah River Site,1
+DARPA Grand Challenge,1
+World Bank,1
+Himdat Bayusuf,1
+the FYI Federal Science Budget Tracker,1
+the National Nuclear Security Administration’s,1
+The National Space Council,1
+the Space Policy Institute,1
+The Snowmass Steering Group,1
+Particle Physics Project Prioritization Panel,1
+Bayh-Dole,1
+Birch Bayh,1
+South Carolina State University,1
+the University of Georgia,1
+the University of South Carolina,1
+the Near Future of Space,1
+U.S. Air Force Scientific Advisory Board,1
+Federal Relations,1
+White House COVID Task Force,1
+Talking Points Memo,1
+National Law Journal,1
+Department of Energy’s,1
+COVID-19 (Physics,1
+Wuhan Institute of Virology,1
+Miguel Urquiola,1
+Venture Stories,1
+Arecibo (SpaceNews,1
+PPPL,1
+the National Atmospheric Research and Advisory Center,1
+JWST (Space Review,1
+InsideClimate News,1
+India Department of Science and Technology,1
+Netherlands Institute of International Relations,1
+Congress Set,1
+Alexander-piano-900x526px.jpg,1
+the Hart Senate Office Building,1
+the Senate Energy-Water Appropriations Subcommittee,1
+Bulletins,1
+the National Resources Defense Council,1
+North Carolina Department of Environmental Quality,1
+the Integrated Coastal,1
+the National Landslide Preparedness Act,1
+the National Ocean Exploration Act,1
+Cooperative Research and Development Agreements,1
+APS Suggests Priority Actions for Incoming Administration,1
+Coalition S,1
+Europe Finalizes Budget for Flagship Science Program,1
+The European Parliament,1
+the European Innovation Council,1
+the European Research Council,1
+The National Academies Board on Atmospheric Sciences,1
+Center for American Progress,1
+CTO,1
+Rachel Goldman Alper,1
+National Guard,1
+Harvard Data Science Review,1
+New Idaho National Lab,1
+Versatile Test Reactor,1
+The NSF Research Traineeship,1
+NCEP,1
+Weather.gov,1
+the DOE Office of Science (Energy Sciences Coalition,1
+American Energy Innovation Council,1
+Princeton,1
+DOE Fusion Energy Sciences Advisory Committee,1
+HEU,1
+US Space Command,1
+Azar,1
+Bess Levin,1
+American Academy of Arts and Sciences,1
+Japan Science Council,1
+Asahi Shimbun,1
+Council,1
+African Physics Newsletter,1
+Considers Data Access Limits,1
+murkowski-bipartisan-relief-proposal.jpg,1
+National Defense Authorization Act Enters End Game,1
+Confederate,1
+National Instruments,1
+FCC Holding Quantum Internet Forum,1
+Federal Communications Commission,1
+The U.S. Council on Competitiveness,1
+National Competitiveness Forum,1
+Oak Ridge National Labs,1
+the National Commission on Innovation and Competitiveness Frontiers,1
+Artemis Team,1
+the Fusion Energy Sciences Advisory Committee,1
+the High Flux Isotope Reactor,1
+the Linac Coherent Light Source II,1
+SLAC National Accelerator Lab,1
+Daya Bay Reactor,1
+the Chinese Institute of High Energy Physics,1
+the U.S. Department of Energy,1
+Berkeley,1
+Brookhaven National Labs,1
+National Weather Service Considers Data Access Limits,1
+The National Weather Service,1
+the Rural STEM Education Act,1
+Decision Support (FLOODS) Act,1
+NOAA’s Integrated Coastal,1
+National Water Center,1
+Quantum Summit III,1
+Academy of Arts and Science,1
+Columbia Climate School,1
+Quantum Internet Forum,1
+Banking Committee,1
+Global Life Sciences Ecosystems,1
+U.S. Innovation,1
+Ocean Energy Management Committee,1
+the Technologies for Decarbonization,1
+NSF Hiring Engineering Education Division,1
+Division of Engineering Education,1
+Centers,1
+HED,1
+the National Q-12 Partnership,1
+BioScience,1
+Planetary Society (Planetary Society,1
+Ex-NNSA Administrator,1
+Defense Daily,1
+Homeland Security Startup Studio,1
+the Office of Scientific Research and Development (AAAS,1
+Council on Strategic Risks,1
+STAT News,1
+State Pompeo,1

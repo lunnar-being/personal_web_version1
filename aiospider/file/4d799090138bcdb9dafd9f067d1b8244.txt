@@ -1,0 +1,159 @@
+
+
+The RAND Blog
+Previous Blog PostA Bell That Can't Be Unrung: The CARES Act and Unemployment InsuranceNext Blog PostA Message from Our President, Medical Mistrust, Insulin Prices: RAND Weekly Recap
+
+Are We Ready for the Internet of Bodies?
+essay
+Image by peterschreiber.media/Adobe Stock
+
+
+
+January 8, 2021
+
+
+
+The “Internet of Things” gave us driverless cars, video doorbells, and smart refrigerators—everyday items made new with sensors and network connections. Up next: the “Internet of Bodies.” You're about to find out just how personal your personal technology can get.
+
+
+Think smart pills transmitting information from inside your body; smart beds that can track your heart rate and breathing; even smart clothes that can sense your body temperature—and adjust your smart thermostat accordingly. One team of doctors recently announced the development of “hardware and software for the long-term analysis of a user's excreta”—a smart toilet.
+
+
+There are dangers here, of course, as RAND researchers found when they explored the Internet of Bodies. Any device can be hacked, including one inside the human body; and we need to really think through the privacy and security implications of devices that live with us. But the researchers also highlighted the life-changing, life-saving potential of technologies that know us inside and out.
+
+
+“There's been a lot of work on how we need to regulate this new Internet of Bodies,” said Mary Lee, a mathematician at RAND who led the study. “We wanted to outline some of the benefits, too, that not too many people may have thought about. These technologies are just going to keep growing in popularity, so we need to get ahead of the policy issues and make sure we get that balance right.”
+
+Defining the “Internet of Bodies”
+
+Tamara Banbury has a faint blue bump on the back of her right hand, just above her thumb, like a grain of rice under her skin. It's where her microchip is.
+
+
+Banbury, a Ph.D. student in Ontario, Canada, is part of a small but growing movement of innovators and thrill-seekers trying to hack the human body with technology. She has two microchips embedded in her hands, in fact. The one in her left hand can store passwords, identification, even electronic train tickets. The one in her right? That one launches a video clip of singer Rick Astley performing his 1987 hit “Never Gonna Give You Up” when she waves it under a cell phone.
+
+Tamara Banbury describes herself as a voluntary cyborg.
+Photo courtesy of Tamara Banbury
+
+“We don't want to be looking back 20 years from now and saying, 'Wow, we really should have set the bar here on these technologies,'” said Banbury, whose Ph.D. research focuses on technology, culture, and people like her whom she describes as voluntary cyborgs. “That line has been crossed. We need to think about it. And we should be thinking about it now, while the stakes are small—such as, should I be able to play Rick Astley with a chip in my hand?”
+
+
+Researchers at RAND struggled with how to define the Internet of Bodies. In the end, they took a broad view to help policymakers think through the challenges and opportunities. They included any device that collects health or biometric information, or—like Banbury's chips—alters human function in some way. To make the list, a device also needed to transmit information over the internet, on its own or through another device like a cell phone.
+
+
+Within that definition, you'll find fitness trackers, electronic health records, even some employee badges. You'll also find artificial pancreases that can help diabetics manage their blood-sugar levels; brain implants that allow amputees to control their prosthetic limbs; and smart stents that can monitor themselves for blood clots. Cochlear implants can already restore hearing; in the near future, eye implants could repair—or even enhance—vision.
+
+
+All of those devices tracking our health and behavior will provide a treasure trove of new information about what keeps people healthy, and what makes them sick.Share on Twitter
+The impact such technologies could have on the health care system is nothing short of revolutionary. Artificial pancreases and smart stents will surely keep more people alive; but the real breakthrough will be data. All of those devices tracking our health and behavior will provide a “treasure trove” of new information about what keeps people healthy, and what makes them sick, the researchers wrote.
+
+
+That will advance our understanding of long-term population health and point the way toward more-effective public health interventions. It could help doctors spot signs of disease earlier, help hospitals provide better care and more precise treatments for their patients, and help the American health care system drive down costs. By one estimate, the improved care and efficiency of medical technology could save billions of dollars every year.
+
+
+All of which makes the cautionary tale of Tony Schmidt especially important to keep in mind.
+
+Chipping Away at Privacy
+
+Schmidt, a computer technician in Texas, needs a continuous positive airway pressure—or CPAP—machine to sleep. Without it, he stops breathing hundreds of times a night. The morning after he registered it, he got a chirpy email from the manufacturer, congratulating him on his first night of good sleep.
+
+
+“That's how I realized it was transmitting my information,” said Schmidt, who quickly bought a new machine and shut off its internet connection. “I didn't sign any piece of paper saying it was okay for my sleep information to go to anyone other than my doctor. It was very troublesome. It was sending this information to people I didn't even know: 'He's sleeping now.'”
+
+
+Privacy intrusions like that are only part of the risk as more and more medical devices go online. Researchers have shown that they can hack into an insulin pump, for example, raising the possibility that they could make it deliver a fatal dose. Former vice president Dick Cheney was so concerned that someone could attack him through his pacemaker that he had its wireless capabilities disabled.
+
+
+Even simple fitness trackers can expose sensitive information. A few years ago, a fitness app released a world map showing every run and walk it had tracked. Military analysts quickly realized the map was detailed enough to identify American and allied bases in places like Syria and Afghanistan. Foreign service members were the only people using a fitness app there, and so their movements around their bases stood out bright white against a black background.
+
+
+Manufacturers need to build in security from the very start—and figure out how to patch vulnerabilities in a device that might already be in someone's body.Share on Twitter
+Yet RAND's researchers could find only a patchwork of regulations and consumer protections that might govern the Internet of Bodies and avert its potential harms. Some of the strongest attempts to establish some guardrails, in fact, came not from government agencies, but from nonprofit privacy and technology groups. The researchers couldn't even determine who owns the data—You? Your doctor? The equipment manufacturer?—because the rules are different in every state.
+
+
+Congress should consider establishing some national ground rules for data transparency and privacy protections, the researchers concluded. The government and industry should also develop a certification program, like the “Energy Star” program for household appliances, to help consumers gauge the security of different devices. Manufacturers need to build in security from the very start—and figure out how to patch vulnerabilities in a device that might already be in someone's body.
+
+
+“This is really our first cut at what policymakers and device makers and consumers can do to manage these risks,” RAND's Lee said. “There are real medical benefits, but we have to address the risks to realize them. This study gives us a foundation to keep working on these questions for the future.”
+
+
+Tamara Banbury also has her eye on the future, both in her professional life as a researcher and in her personal life as a voluntary cyborg. Pop culture always assumes that life in the future will be dominated by smart machines—as in The Jetsons, or as in The Terminator—“but we get there incrementally,” she said. “And so we need to start asking ourselves what steps we want to take. How do we make sure we're going where we want to go? It's doing little things like putting chips in our hands that helps us find our way.”
+
+
+Her chips are no more sophisticated than the chip in your debit card. But she always gets the same questions when she tells people about them: Don't they endanger her privacy and allow people to track her? “Oh, no no no,” she tells them. “We've already given up those privacy rights.” She holds up her cell phone: “They've got me with this.”
+
+— Doug Irving
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+Topics
+ Cybersecurity
+Data Privacy
+Emerging Technologies
+Health Information Privacy
+Science, Technology, and Innovation Policy
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Article
+The Internet of Bodies Will Change Everything, for Better or Worse
+
+Oct 29, 2020
+
+
+
+
+
+
+
+
+
+
+Report
+The Internet of Bodies
+
+Oct 29, 2020
+Mary Lee @MaryLee_PhD, Benjamin Boudreaux, et al.
+
+
+
+
+
+
+
+
+
+
+Multimedia
+What Is the Internet of Bodies?
+
+Oct 29, 2020
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:Blog","Research Topics:Health, Health Care, and Aging/Health Information Privacy","Research Topics:Infrastructure and Transportation/Infrastructure/Critical Infrastructure Protection/Cybersecurity","Research Topics:Science and Technology/Cyber and Data Sciences/Data Science/Data Privacy","Content Types:Essay","Research Topics:Science and Technology/Emerging Technologies","Research Topics:Science and Technology/Science, Technology, and Innovation Policy"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Blog","value":"content-types:blog"},{"display":"Health Information Privacy","value":"research-topics:health-health-care-and-aging/health-information-privacy"},{"display":"Cybersecurity","value":"research-topics:infrastructure-and-transportation/infrastructure/critical-infrastructure-protection/cybersecurity"},{"display":"Data Privacy","value":"research-topics:science-and-technology/cyber-and-data-sciences/data-science/data-privacy"},{"display":"Essay","value":"content-types:essay"},{"display":"Emerging Technologies","value":"research-topics:science-and-technology/emerging-technologies"},{"display":"Science, Technology, and Innovation Policy","value":"research-topics:science-and-technology/science-technology-and-innovation-policy"}];})();
+

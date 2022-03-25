@@ -1,0 +1,287 @@
+
+  
+    
+      Generate and submit your return
+
+    
+
+      
+        
+  Information on accessing and using our data collection systems to send us your school census data.
+
+      
+        
+          
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+      
+        
+          
+            Who can submit
+          
+        
+        
+
+    These types of school are responsible for submitting their own data to the Department for Education (DfE) using COLLECT:
+
+  academies, including alternative provision academies
+  free schools, including alternative provision free schools
+  university technical colleges
+  studio schools
+  non-maintained special schools
+  city technology colleges
+
+Maintained schools including pupil referral units either:
+
+  submit data directly to DfE using COLLECT
+  make data available to the local authority who will submit on their behalf
+
+If you are a maintained school or pupil referral unit, you should contact your local authority to find out their deadlines for submission.
+
+
+
+      
+        
+          
+            Updating your school management information system (MIS) with current data
+          
+        
+        
+
+    The individual school characteristics and pupil records for the census are automatically extracted by your MIS, although some elements may not be able to be manually edited.
+Whilst your software undertakes data validation, it is possible that it may not flag up any errors or queries for:
+
+  missing pupils
+  missing permanently excluded pupils
+  suspensions or permanent exclusions data for those no longer on roll
+  incorrect data
+
+It is essential that all relevant pupil data has been entered and updated in your system before the school census return is created.
+Pupils to be included (in scope)
+You should include individual data in the return and make sure that all relevant data for them is maintained and up-to-date for:
+
+  all pupils on the register on census day
+  pupils no longer on roll who:
+    
+      were subject to any type of suspensions or permanent exclusion in the previous 2 terms - not required from nursery schools
+
+      attended the school in the previous term for which termly attendance information is required  - not required from nursery schools
+
+      attended the school in the previous academic year and for which learning aims are submitted - for secondary, all-through and PRU or AP schools in the autumn term only
+
+      have been in an alternative provision (AP) placement, either single registered in a PRU or AP or a school commissioned placement since the last census –  voluntary from spring census 2022, not required from nursery schools
+
+      have been awarded a bursary since the start of the current academic year - only needed in the spring and summer census and not for nursery, primary and middle-deemed primary schools
+
+      have been in receipt of learner funding and monitoring since the start of the current academic year - not required from nursery schools
+
+    
+  
+
+
+
+
+      
+        
+          
+            Generating the census in the management information system
+          
+        
+        
+
+    You should read this guide with the documents provided by your software supplier.
+Your software supplier is likely to have produced a ‘data entry specification’ listing all the pupil data that you must enter into your system for the records in your school census return to be complete and correct.
+If you’ve not seen this specification, contact your local authority for advice. If you do not get management information system or ICT support from your local authority, contact your software supplier direct.
+Your software may have a series of ‘data checks’ which will help you to identify and correct errors in your data before you generate your return. Doing these checks will reduce the number of validation errors in your return and the work you need to do to resolve them.
+Successfully completing the data checks does not guarantee that all the necessary data is present and that your return is correct. Not having any validation errors or queries does not guarantee a successful return. Make sure that you’ve entered all information required by the data entry specification into your system in full.
+
+
+
+      
+        
+          
+            School summary
+          
+        
+        
+
+    The census return software automatically generates a summary of the data in the school census return. The return is too large to be viewed in full, so the school summary will:
+
+  
+    allow you to check that that the data is accurate and complete before sending it to the head teacher
+  
+  
+    allow the head teacher authorising the return to check it’s accurate and complete before submitting it to the local authority or DfE
+  
+  
+    allow local authorities to check the return from maintained schools
+  
+  
+    give schools their only opportunity to check information about persistent absenteeism in their census data before it’s used for funding purposes and published in performance tables
+  
+
+We strongly recommended that you inspect the summary report carefully, paying particular attention to the sections that might show that some individual pupil data was not entered on to the system before generating the return such as:
+
+  free school meal eligibility
+  the number of pupils with SEN
+
+  data items marked [used for funding]
+  absence data
+
+Comparing the summary reports to the previous term or year will show any anomalies between the different census collections.
+It’s vital that you check the accuracy of the data in this summary report. It is the data submitted to us as an accurate record of the situation in your school on census day.
+
+
+
+      
+        
+          
+            Authorising a return
+          
+        
+        
+
+    The head teacher is responsible for reviewing and authorising census data before you submit it.
+This confirms that the data you submit is correct.
+
+
+
+      
+        
+          
+            Submitting a return
+          
+        
+        
+
+    The act of submitting the data to the department, directly or through the local authority for maintained schools, automatically confirms the return as authorised by the head teacher.
+Only submit a school census return, after you’ve checked the data and added any explanatory notes needed.
+Local authorities and schools can implement further authorisation methods, such as printing and signing the summary report if they want.
+
+
+
+      
+        
+          
+            Using COLLECT
+          
+        
+        
+
+    To use COLLECT to submit your school census data, you’ll need to register and log in with DfE Sign-in.
+Contact your school or local authority approver, if:
+
+  you want to request a DfE sign-in username or password so you can access COLLECT
+  ‘school census’ is not on the list of collections you can see in COLLECT
+
+If you do not know who your approver is, use the DfE sign-in request form.
+If you’ve forgotten your password, use DfE sign-in to reset it. You’ll need to click ‘start now’ and then the ‘I’ve forgotten my password’ link.
+COLLECT guides for school and local authorities are available for assistance with submitting your return to the department.
+
+
+
+      
+        
+          
+            Help submitting your data
+          
+        
+        
+
+    For queries about submitting your data, contact us using our data collections service request form.
+
+
+
+
+        
+  

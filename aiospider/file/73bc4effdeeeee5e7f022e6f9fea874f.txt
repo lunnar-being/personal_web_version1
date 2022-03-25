@@ -1,0 +1,597 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Energy Savings Opportunity Scheme (ESOS)
+  
+
+  
+  
+  
+      
+  Find out if you qualify for ESOS and how to comply.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Business, Energy & Industrial Strategy and Environment Agency
+
+      
+      Published
+      26 June 2014
+      Last updated
+      
+        22 January 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          About ESOS
+
+
+        
+        
+          Deadlines for ESOS compliance
+
+        
+        
+          Find out if you qualified for ESOS phase 2
+
+        
+        
+          Complete an ESOS assessment
+
+        
+        
+          Submit your ESOS notification of compliance
+
+        
+        
+          If you do not qualify for ESOS phase 2
+
+        
+        
+          
+ESOS compliant energy audits
+
+        
+        
+          
+ESOS regulation and penalties
+
+        
+        
+          Approved registers of ESOS lead assessors
+
+        
+        
+          
+ESOS published data
+
+        
+        
+          More information about ESOS
+
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+About ESOS
+
+
+Government established ESOS to implement Article 8 (4 to 6) of the EU Energy Efficiency Directive (2012/27/EU). The ESOS Regulations 2014 give effect to the scheme.
+
+ESOS is a mandatory energy assessment scheme for organisations in the UK that meet the qualification criteria. The Environment Agency is the UK scheme administrator.
+
+The UK regulators are:
+
+  Environment Agency for organisations whose registered office is in England
+  Natural Resources Wales for organisations whose registered office is in Wales
+  Northern Ireland Environment Agency for organisations whose registered office is in Northern Ireland
+  Scottish Environment Protection Agency for organisations whose registered office is in Scotland
+  Secretary of State for Business, Energy and Industrial Strategy for organisations whose activities consist wholly or mainly of offshore activities
+
+
+Organisations that qualify for ESOS must carry out ESOS assessments every 4 years. These assessments are audits of the energy used by their buildings, industrial processes and transport to identify cost-effective energy saving measures.
+
+Deadlines for ESOS compliance
+
+Organisations must notify the Environment Agency by a set deadline that they have complied with their ESOS obligations. The deadline for the first compliance period was 5 December 2015. The deadline for the second compliance period (ESOS phase 2) was 5 December 2019.
+
+
+If you’re not sure if you qualified for the last compliance period then contact the Environment Agency at ESOS@environment-agency.gov.uk.
+
+
+Find out if you qualified for ESOS phase 2
+
+ESOS applies to large UK undertakings and their corporate groups. It mainly affects businesses but can also apply to not-for-profit bodies and any other non public sector undertakings that are large enough to meet the qualification criteria.
+
+Your organisation qualified for the second compliance period if, on 31 December 2018, it met the ESOS definition of a large undertaking.
+
+Corporate groups qualify if at least one UK group member meets the ESOS definition of a large undertaking.
+
+If you’re very close to the qualification threshold or have substantially increased or decreased in size in recent years, read the full guidance on complying with ESOS. This includes additional information on how to assess if you qualify.
+
+Public sector organisations do not usually need to comply with ESOS. For more information on organisations that do not need to comply, see section 1.2 of the full guidance on complying with ESOS.
+
+Large undertakings
+
+For the qualification date for the second compliance period (31 December 2018) a large undertaking is any UK company that either:
+
+
+  employed 250 or more people
+  had an annual turnover in excess of €50 million (£44,845,000), and an annual balance sheet total in excess of €43 million (£38,566,700)
+
+
+For the qualification date for the third compliance period (31 December 2022) a large undertaking is any UK company that either:
+
+
+  employs 250 or more people
+  has an annual turnover in excess of £44 million, and an annual balance sheet total in excess of £38 million
+
+
+For your accounts, you should use the Bank of England exchange rate between the Euro and pound sterling at close of business on the qualification date.
+
+You must take part in ESOS if your undertaking is part of a corporate group which includes another UK undertaking or UK establishment which meets these criteria.
+
+Where a corporate group participates in ESOS, unless otherwise agreed, the highest UK parent will act as a ‘responsible undertaking’ and be responsible for ensuring the group as a whole complies.
+
+UK registered establishments of an overseas company will also need to take part in ESOS (regardless of their size) if any other part of their global corporate group activities in the UK meet the ESOS qualifying criteria.
+
+An ‘establishment’ is a branch within the meaning of the Eleventh Company Law Directive (89/666/EEC), or a place of business that is not such a branch but where there is some degree of physical presence in the UK.
+
+A person is employed by an undertaking if they are:
+
+
+  an employee
+  an owner or manager
+  a partner
+
+
+An ‘employee’ is a person employed under contracts of service. Their contracted hours and status (full time or part time) are irrelevant to their classification as an employee.
+
+The number of employees means the average number of people employed by the undertaking in the year.
+
+To work out your average number of employees, you need to:
+
+
+  Find the number of people employed by the company for each month of the financial year (whether for the whole month or part of it).
+  Add together the monthly totals.
+  Divide the total by the number of months in the financial year.
+
+
+Complete an ESOS assessment
+
+If you qualify for ESOS and your organisation is fully covered by ISO 50001, you do not need to carry out an ESOS assessment. You just need to notify the Environment Agency that you’re compliant with ESOS.
+
+If you qualify for ESOS, but your organisation is not fully covered by ISO 50001, you need to carry out an ESOS assessment. The assessment helps you work out what your organisation needs to do to comply with the ESOS regulations.
+
+The assessment takes into account energy directly covered by Display Energy Certificates (DECs), Green Deal Assessments (GDAs), or ISO 50001.
+
+For your assessment, you need to:
+
+1. Calculate your total energy consumption
+
+This is the energy used by assets held or activities carried out by your organisation or group. This includes the energy consumed by buildings, industrial processes and transport. To find out how to calculate your total energy consumption, read the full guidance on complying with ESOS.
+
+2. Identify your areas of significant energy consumption
+
+This is the energy used by assets held, or activities carried out, by your organisation that account for at least 90% of your total energy consumption. You then need to:
+
+
+  
+    Find out whether ISO 50001, DECs or GDAs cover any of your areas of significant energy consumption.
+  
+  
+    Identify whether ESOS compliant energy audits have been, or need to be, carried out for the areas of significant energy consumption not covered by ISO 50001, DECs or GDAs.
+  
+
+
+As long as 90% of your total energy consumption is covered, you can use a mix of approaches with some of your energy consumption covered by ISO 50001 – some by DECs or GDAs and some by ESOS energy audits.
+
+3. Appoint a lead assessor
+
+You need to appoint a lead assessor to carry out and oversee or review your energy audits and overall ESOS assessment. Lead assessors can be employees or external contractors as long as they are members of an approved professional body register.
+
+If you want to become a lead assessor you have to be (or become) a member of an approved professional body register. Individuals cannot apply directly to the Environment Agency to be approved.
+
+Professional bodies can submit registers of their members for approval for them to act as ESOS lead assessors.
+
+4. Notify the Environment Agency
+
+You need to submit your ESOS notification of compliance to the Environment Agency when you have undertaken an ESOS assessment and are compliant with your obligations. Use the online notification system to do this.
+
+You do not need to log in to the system or create an account to submit your notification details. There is no charge for submitting your ESOS notification.
+
+You can start your notification whenever you’re ready. You can also partially complete your notification and save it for submitting later. The system will send you an email with a link to use to resume. Do not lose this email otherwise you’ll have to start again. As long as you have the email the saved information will not disappear or expire. You can return to it at any time.
+
+5. Keep records
+
+You need to keep records of how you have complied with ESOS in an evidence pack. There is no set format for this.
+
+Submit your ESOS notification of compliance
+
+When you have completed your ESOS submission you must submit a notification of compliance using the online system.
+
+The notification includes details about your organisation and how it has complied. You do not need to provide energy data.
+
+When you access the notification system you will be redirected away from GOV.UK to complete your notification. When you have submitted your notification you will be redirected back to this web page.
+
+Your submission must be as accurate as possible. If the information you submitted is inaccurate, email esos@environment-agency.gov.uk, quoting the original submission date, the Companies House registration number (if applicable) and the name of the organisation for which you made the notification.
+
+
+Submit your notification of compliance.
+
+
+If you do not qualify for ESOS phase 2
+
+If you have been contacted by the Environment Agency in the past, or you qualified for the first compliance period but not for phase 2, you need to tell the Environment Agency you do not qualify. Do this using the online notification system and selecting the option ‘Do not qualify’. This is all you need to do.
+
+
+ESOS compliant energy audits
+
+An ESOS compliant energy audit must meet these criteria:
+
+1. It must be based on 12 months’ verifiable data
+
+The data must:
+
+
+  be for a continuous period
+  begin no earlier than 6 December 2014 for the second compliance period (and no more than 12 months before the start of future compliance periods)
+  begin no more than 24 months before the start of the energy audit
+  not have been used as the basis for an energy audit in a previous compliance period
+
+
+2. It must analyse the participant’s energy consumption and energy efficiency
+
+This must be done where practical using energy consumption profiling. Energy consumption profiling involves breaking down the different ways in which energy is used by a participant’s activities and assets and analysing any variations in energy use to identify inefficiencies.
+
+3. It must identify energy saving opportunities
+
+Energy saving opportunities should be reasonably practicable and cost effective to implement. Recommendations should include the estimated costs and benefits of implementation.
+
+You should assess cost effectiveness by comparing the reduction in units of energy or energy spend with the cost of implementing the measure.
+
+Calculating the cost of implementing a measure should be based on an analysis of whether the investment will be economical over its entire life. This would include taking into account the cost of purchase, installation, maintenance and depreciation.
+
+There is no regulatory requirement for participants to implement the energy saving opportunities identified. This is for each organisation to determine themselves.
+
+Site visits during an audit
+
+Organisations are expected to carry out site visits as part of their ESOS audits. It is not necessary to visit every site. Regardless of the number of site visits, organisations need to ensure they have collected and analysed data for all their areas of significant energy consumption.
+
+Organisations with multiple sites or assets that are identical or very similar, can take a proportionate approach and apply the energy saving opportunities identified in their site visits to their wider portfolio. The lead assessor and participant organisation should determine a suitable site visit sampling approach to reflect the energy consumption patterns of their assets and activities. This is not prescribed in legislation or guidance – it is up to your organisation and lead assessor to agree this.
+
+You need to explain in your evidence pack how the approach you took reflects the energy consumption patterns and saving opportunities for your portfolio of assets and activities. In a compliance audit the regulators will look for well reasoned and documented justifications for the approach you took.
+
+
+ESOS regulation and penalties
+
+Your environmental regulator is responsible for compliance and enforcement activities. It may issue civil sanctions including financial penalties if an organisation does not meet the scheme’s obligations.
+
+Read the Environment Agency’s approach to ESOS regulation and penalties in their enforcement and sanctions policy (annex 2, section D). Other scheme regulators will apply a similar approach. This approach is also summarised in section 9 of the full guidance on complying with ESOS.
+
+We publish a summary of the penalties imposed on data.gov.uk.
+
+Approved registers of ESOS lead assessors
+
+All participants need to have their ESOS assessment signed off by an ESOS lead assessor. Contact details for approved lead assessors are listed on the websites of the approved professional bodies.
+
+To become an ESOS lead assessor you need to be a member of an approved professional body register. Find out how to become a member of an approved professional body register on the websites of those already approved. The list has links to the approved registers. Contact the approved organisations if you need further information about their application processes or approved lead assessors on their registers.
+
+It is your responsibility to select a lead assessor with the necessary skills and experience to help your business comply with ESOS.
+
+Approved registers of ESOS lead assessors: organisation and name of register
+
+
+  
+Association of Energy Engineers – certified energy auditor international or certified energy manager international
+  
+CIBSE (The Chartered Institution of Building Services Engineers) – CIBSE low carbon consultant (LCC) register, ESOS lead assessor subset
+  
+ECMK Limited – ECMK ESOS lead assessor register
+  
+Elmhurst Energy Systems – Elmhurst approved ESOS lead assessor
+  
+Energy Institute – chartered energy manager, register of professional energy consultants
+  
+Energy Managers Association – EMA energy saving opportunity scheme lead assessor register
+  
+Institution of Chemical Engineers – register of chartered chemical engineers (MIChemE/FIChemE) ESOS LEA
+  
+Institute of Environmental Management and Assessment – register of IEMA members who can act as third-party lead assessors
+  
+Institution of Environmental Sciences – IES lead energy assessor
+  Quidos
+  
+Stroma Certification Ltd – ESOS lead energy assessor certification
+
+
+
+ESOS published data
+
+The Environment Agency has published the following data in relation to ESOS:
+
+Notification of compliance data
+
+See the data provided by the organisations that submitted a notification of compliance. The Environment Agency publishes this data to meet its statutory responsibility under the Energy Savings Opportunity Scheme Regulations 2014 and also with government open data policies.
+
+The data in the spreadsheet:
+
+
+  shows the answers to the questions in Appendix B of the full guidance on complying with ESOS
+
+  does not include personal data – this is protected under the General Data Protection Regulation 2018
+  contains no amendments – unless asked to do so or to remove personal data
+  has not been verified for compliance – it is a record of notifications
+
+
+Note:
+
+
+  some organisations within a group may be covered by a notification of a UK parent and may not be readily identifiable
+  the Environment Agency will be checking for compliance over the next 4 years
+
+
+More information about ESOS
+
+
+More details on the ESOS scheme, your obligations and how to comply are set out in the full guidance on complying with ESOS.
+
+For more information email esos@environment-agency.gov.uk. If you want an ESOS adviser to call you back please provide your phone number and details about your query.
+
+For offshore related queries email bst@beis.gov.uk.
+
+The Environment Agency will respond within 10 working days. Send your queries well in advance of each compliance deadline to ensure you have enough time to fulfill your obligations before submitting your notification of compliance.
+
+
+
+
+
+      
+        
+    Published 26 June 2014
+    Last updated 22 January 2021
+      + show all updates
+      
+        
+            
+              22 January 2021
+              Added what a 'large undertaking' is defined as for the qualification date for the third ESOS compliance period, which will be 31 December 2022.
+            
+            
+              8 February 2019
+              Added information about ESOS phase 2.
+            
+            
+              11 September 2018
+              Added under section: ESOS regulation and penalties 'We publish a summary of the penalties imposed on data.gov.uk'.
+            
+            
+              2 July 2018
+              Updated link to The Institute of Environmental Management and Assessment to: https://www.iema.net/specialist-registers/join-esos/iema-esos-lead-assessor-register.
+            
+            
+              13 June 2018
+              Update to the ESOS compliance dataset. Removal of ‘intend to comply’ information as this is no longer relevant.
+            
+            
+              25 April 2017
+              This update is to reflect the latest position on ESOS notifications up to 31 January 2017.
+            
+            
+              1 September 2016
+              Section 'ESOS published data': data published on data.gov.uk provided by the organisations that submitted an intent to comply notification by 25 August 2016.
+            
+            
+              26 July 2016
+              Section 'ESOS published data': See the published data provided by the organisations that submitted a notification of compliance by 30 June 2016.
+            
+            
+              12 February 2016
+              New section 'ESOS published data'.
+            
+            
+              6 December 2015
+              If you qualify for ESOS you should have submitted your notification of compliance by 5 December 2015. Submit your notification as soon as possible if you haven’t done so already.
+            
+            
+              3 November 2015
+              You must inform the Environment Agency by 5 December 2015 if you cannot submit a notification of compliance, using the online form.
+            
+            
+              8 October 2015
+              Text updated to reflect the Environment Agency's amended Enforcement and Sanctions Guidance.
+            
+            
+              20 February 2015
+              ESOS workshop dates and venues announced for March 2015.
+            
+            
+              2 January 2015
+              Exchange rate figures added for pound sterling for the first compliance period based on the Bank of England daily spot exchange rate on 31 December 2014 (the qualification date).
+            
+            
+              5 December 2014
+              Updated list of approved registers.
+
+Text amended to reflect that the application process for registers is now closed.
+            
+            
+              17 October 2014
+              Page updated with:
+
+* the link to the online notification system
+* the list of approved lead assessors
+            
+            
+              15 July 2014
+              Update to the application process for registering qualified energy professionals to act as lead assessors for ESOS.
+            
+            
+              26 June 2014
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Comply with the Energy Savings Opportunity Scheme (ESOS)
+        Energy audits and reporting research, including the Energy Savings Opportunity Scheme
+        Approaches to ESOS Audits
+        Energy Savings Opportunity Scheme (ESOS): evaluation of the scheme
+        Environmental reporting guidelines: including Streamlined Energy and Carbon Reporting requirements
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Energy efficiency
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

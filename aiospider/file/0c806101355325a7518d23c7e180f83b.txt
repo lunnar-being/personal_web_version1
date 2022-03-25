@@ -1,0 +1,315 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Secure connected places (smart cities) guidance collection
+  
+
+  
+  
+
+  
+    
+  A collection of key government guidance on the security of connected places, also known as smart cities
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Digital, Culture, Media & Sport and Julia Lopez MP
+
+      
+      Published
+      25 October 2021
+      Last updated
+      
+        15 December 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Using this guidance collection
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Foundations: guidance for secure connected places
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Designing your connected place to be resilient
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Designing and managing your connected place architecture
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Designing and managing your connected places system administration
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Designing your connected place to protect its data
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Managing incidents and planning your response and recovery  
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Managing your connected place’s procurement and supply chain 
+    
+        HTML
+    
+
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+This collection brings together key government guidance on the security of connected places (also known as ‘smart cities’). If you buy or operate connected places technologies, this collection will help guide security decisions and processes on the design, implementation and management of your connected place.
+
+Introduction
+
+About the guidance
+
+This is a comprehensive collection of government guidance on the security of connected places. The guidance has been developed by a range of organisations, often in partnership with local authorities, and drawn together by the Department for Digital, Culture, Media and Sport (DCMS). It will help buyers and operators of connected places technology have greater confidence in the security and resilience of their connected place technologies and the information they generate.
+
+By following this guidance, you can make your connected places systems more resilient to cyber security threats, helping you to avoid the related adverse effects of an incident such as personal data loss, reputational damage and loss of user trust.
+
+What is a connected place/smart city?
+
+A ‘connected place’ is defined by the National Cyber Security Centre (NCSC) and the Centre for the Protection of National Infrastructure (CPNI) as “a community that integrates information and communication technologies and Internet of Things (IoT) devices to collect and analyse data to deliver new services to the built environment, and enhance the quality of living for citizens”. A connected place will use a system of sensors, networks and applications to collect data to improve its operation, including its transportation, buildings, utilities, environment, infrastructure and public services.
+
+Connected places can provide a range of functions and services to citizens. However, strengthening and maintaining cyber resilience within these technological systems and the security-mindedness of the people deploying them is crucial to ensure connected places are adequately ‘secure’ and associated data is protected. Where reference is made to ‘connected places technologies’ this refers to the technology that commonly underpins a connected place system.
+
+Content
+
+This guidance collection has been categorised into the following seven sections:
+
+
+  
+Foundation: aimed at providing all roles within an organisation with a grounding in securing connected places
+  
+Designing your connected place to be resilient: sets out how connected places can be designed to be resilient to cyber attacks or other security events
+  
+Designing and managing your connected place architecture: outlines the structures, principles and activities you need to consider and implement to give confidence in the architecture of a connected place
+  
+Designing and managing your connected places system administration: sets out an overview to secure system administration design and management
+  
+Designing your connected place to protect its data: outlines key considerations and best practice to design a connected place to protect its data
+  
+Managing incidents and planning your response and recovery: to assist with the creation and maintenance of your cyber incident response procedures.
+  
+Managing your connected place’s procurement and supply chain: outlines considerations when assessing supplier security practices and the supplier’s supply chain.
+
+
+Further support
+
+If you would like to get in touch with a question relating to the security of your connected place, please get in touch.
+
+For guidance-specific information
+
+Contact the National Cyber Security Centre at connectedplaces@ncsc.gov.uk
+
+Contact the Centre for the Protection of National Infrastructure (CPNI) using the contact form on the CPNI website.
+
+For policy information
+
+Contact DCMS at secureconnectedplaces@dcms.gov.uk
+
+This new guidance collection was published on 15 December 2021.
+
+
+
+        
+      
+
+      
+    Published 25 October 2021
+    Last updated 15 December 2021
+      + show all updates
+      
+        
+            
+              15 December 2021
+              A comprehensive new guidance collection on secure connected places for local authorities and others involved in "smart cities." This collection has been tested with users and revised and updated in response to their feedback.
+            
+            
+              25 October 2021
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Data collection and reporting
+        Cyber security
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

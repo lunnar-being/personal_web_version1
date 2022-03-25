@@ -1,0 +1,117 @@
+
+
+The RAND Blog
+Previous Blog PostStress Among U.S. Teachers, Russia's Global Interests, Investing in Equity: RAND Weekly RecapNext Blog PostMilitary and Defense-Related Supply Chains
+
+Difficult Choices in the Race to Innovate and Compete
+commentary
+(The Hill)
+Photo by ALLVISIONN/Getty Images
+
+
+
+by Daniel M. Gerstein
+June 21, 2021
+
+
+The Senate passage of the U.S. Innovation and Competition Act (USICA)—supported by both Republicans and Democrats in the chamber in a 68–32 vote—recognizes the fierce competition across the globe, and particularly with China, for leadership in key technology areas. To this end, part of the draft legislation is the Endless Frontier Act which would prioritize investments in key technologies areas on the front lines of the competition with China.
+The potential for such a momentous national investment in resources and attention brings with it options and choices for policymakers to consider. For instance, a quarter of a trillion dollars over a five-year period is a sizable investment of approximately $50 billion a year in “new” spending. But should that be accompanied by an enterprise dedicated to do the research, development, and innovation? The version passed by the Senate does not develop or name one. The closest it comes is the creation of an interagency working group (PDF) led by the Office of the Science and Technology Policy which would include the National Science Foundation, Department of Energy, and the Department of Commerce and other agencies as needed to coordinate implementation of the legislation and associated activities.
+On the one hand, there might be a case to be made for an organization to have responsibilities for implementation and reporting, oversight and deconfliction, analytical capacity and forecasting. But on the other hand, it's possible that taking that more directive approach to research, development, and innovation could have an effect that is the opposite of what the bill's authors intended by stifling innovation and industrial capacity.
+Increasing U.S. competitiveness would also seem to imply having the capacity for conducting leading research in the highest quality facilities, development that supports the maturing of technologies, successfully crossing the “valley of death” between development activities and commercial use, and an industrial capacity to economically produce at scale. Each of these key components is well represented within USICA, but there seems to be less intent regarding connective tissue or relationships among them. How important will it be to the success of the effort for the linkages between each to be well identified? These transitional points between key components may well be essential for successful technology development and fielding.
+
+Policymakers may want to consider the extent of investment in anticipatory capacity to sense technology challenges and opportunities and make appropriate changes. Share on TwitterAnother option policymakers may want to consider is the extent of investment in anticipatory capacity to sense technology challenges and opportunities and make appropriate changes. One only need mention the examples of semiconductor production capacity and 5G communications to highlight why a capacity for intelligence collection and analysis, and forecasting trends would be useful in this regard. Such issues did not occur overnight. We have been watching them unfold in slow motion for more than four decades in the case of microprocessors and over five years in the case of 5G.
+In both cases, there were missteps and lost opportunities. Japan accumulated a market share of almost 80 percent of the global DRAM market with seven of the top 10 chip makers by the mid-1980s before the United States acted. In 5G, the initial choice of the spectrum led to a more costly solution that would be less affordable and therefore less attractive for adoption by some nations. The recent reallocation of the military spectrum for consumer applications means that U.S. companies will be able to develop more competitive 5G networks.
+Given the need to make difficult choices in this race to innovate and compete, a capacity for performing net assessments, which normally focus on two or more competitors or opponents through a comparative process might prove a useful option worth considering. Net assessments strive to define and clarify options, assist in understanding the relative merits of these options, and provide a basis for decisionmakers to make choices. In the 1970s, the Department of Defense used a net assessment framework in recommending continued funding of long-range bombers. The objective of the recommendation in this case was not for effectiveness, but rather that U.S. investment in bombers would cause the Soviet Union to have to spend more resources developing a modernized air defense system which they could not afford. Such a net assessment capacity could provide important insights in considering technologies for development. In the prospective case of competition with China, it might provide a basis for decisions on technology development based on other objectives including, for instance, confounding a competitor's decisionmaking.
+The almost $10 billion (PDF) over five years for university innovation institutes to conduct multi-disciplinary, collaborative research relevant to the key technology focus areas is recognition of the importance of human capital investment to this effort to innovate and compete. What options might be further developed to educate, attract and develop the next generation of scientists, technologists, and engineers? Such a workforce needs to reflect the full range of American diversity and backgrounds.
+Of course the United States faces a range of other technology and innovation competitors on the security side of the ledger. In addition to China–North Korean nuclear and missile systems there is Turkey's integration of Russian-made air defense equipment into its forces, as well as Russia's cyber-attacks, just to name a few. While USICA focuses on competing with China more generally, it's worth not losing sight of these additional arenas of competition. 
+
+Daniel M. Gerstein is a senior policy researcher at the nonprofit, nonpartisan RAND Corporation. He previously served as the undersecretary (acting) and deputy undersecretary in the Science and Technology Directorate of the Department of Homeland Security 2011–2014.
+This commentary originally appeared on The Hill on June 21, 2021. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Daniel M. Gerstein
+@Daniel_Gerstein
+Senior Policy Researcher
+
+
+
+
+
+
+Topics
+ Emerging Technologies
+Globalization
+International Diplomacy
+Science and Technology Legislation
+Science, Technology, and Innovation Policy
+United States
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Commentary
+Who Should Fund U.S. Research and Development?
+
+Feb 22, 2019
+Daniel M. Gerstein @Daniel_Gerstein
+
+
+
+
+
+
+
+
+
+
+Commentary
+The Military's Search for Innovation
+
+Aug 13, 2018
+Daniel M. Gerstein @Daniel_Gerstein
+
+
+
+
+
+
+
+
+
+
+Report
+China's Quest for Global Primacy
+
+Jun 7, 2021
+Timothy R. Heath, Derek Grossman @DerekJGrossman, et al.
+
+
+
+
+
+
+
+

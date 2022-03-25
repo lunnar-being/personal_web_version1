@@ -1,0 +1,410 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Data engineer
+  
+
+  
+  
+  
+      
+  Find out what a data engineer does and the skills you need to do the job.
+
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      7 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of data engineer
+
+        
+        
+          Data engineer
+
+        
+        
+          Senior data engineer
+
+        
+        
+          Lead data engineer
+
+        
+        
+          Head of data engineering
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This describes the role of a data engineer and the skills required, including:
+
+
+  an introduction to the role, telling you what you would do in this role and the full list of skills
+  a description of the levels in this role, from data engineer to head of data engineering, specifying the skills you need for each level and the corresponding skill level (awareness, working, practitioner, expert)
+
+
+This role is part of the Digital, Data and Technology Profession in the Civil Service.
+
+Introduction to the role of data engineer
+
+A data engineer develops and constructs data products and services and integrates them into systems and business processes.
+
+Skills required to be a data engineer
+
+You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.
+
+
+  
+Communication skills (data). You can communicate effectively across organisational, technical and political boundaries, understanding the context. You know how to make complex and technical information and language simple and accessible for non-technical audiences. You can advocate on behalf of a team and communicate what it does, to create trust and authenticity. You know how to respond to challenge.
+  
+Data analysis and synthesis. You can translate data into valuable insights that inform decisions. You know how to involve teams in analytics and synthesis to increase consensus and challenge assumptions. You can identify and use the most appropriate analytical techniques. You understand analytical tools; you are numerate. You are aware of and keep up to date with advances in digital analytics tools and data manipulation products. You can collect, collate, cleanse, synthesise and interpret data to derive meaningful and actionable insights.
+  
+Data development process. You can integrate and separate data feeds in order to map, produce, transform and test new data products.
+  
+Data innovation. You recognise and can exploit business opportunities to ensure efficient and effective performance of organisations. You can explore new ways of conducting business and organisational processes.
+  
+Data integration design. You can develop fit-for-purpose, resilient, scalable and future-proof data services to meet user needs. You have a demonstrable understanding of how to expose data from systems (for example, through APIs), link data from multiple systems and deliver streaming services.
+  
+Data modelling. You will produce data models and understand where to use different types of data models. You understand different tools and can compare different data models. You can reverse-engineer a data model from a live system. You understand industry-recognised data modelling patterns and standards.
+  
+Metadata management. You understand a variety of metadata management tools. You can design and maintain the appropriate metadata repositories to enable the organisation to understand their data assets.
+  
+Problem resolution (data). You know how to log, analyse and manage problems in order to identify and implement the appropriate solution. You can ensure that the problem is fixed.
+  
+Programming and build (data engineering). You can design, write and iterate code from prototype to production-ready. You understand security, accessibility and version control. You can use a range of coding tools and languages.
+  
+Technical understanding (data engineering). You know about the specific technologies that underpin your ability to deliver the responsibilities and tasks of the role. You can apply the required breadth and depth of technical knowledge.
+  
+Testing. You can plan, design, manage, execute and report tests, using appropriate tools and techniques, and work within regulations. You know how to ensure that risks associated with deployment are adequately understood and documented.
+
+
+Data engineer
+
+A data engineer delivers the designs set by more senior members of the data engineering community.
+
+At this level, you will be expected to:
+
+
+  implement data flows to connect operational systems, data for analytics and business intelligence (BI) systems
+  document source-to-target mappings
+  re-engineer manual data flows to enable scaling and repeatable use
+  support the build of data streaming systems
+  write ETL scripts and code to make sure the ETL process performs optimally
+  develop business intelligence reports that can be re-used
+  build accessible data for analysis
+
+
+Skills needed for this role
+
+
+  
+Communication skills (data). You know about the need to translate technical concepts into non-technical language and understand what communication is required for internal and external stakeholders. (Relevant skill level: awareness)
+  
+Data analysis and synthesis. You know how to undertake data profiling and source system analysis and can present clear insights to colleagues to support the end use of the data. (Relevant skill level: working)
+  
+Data development process. You can design, build and test data products based on feeds from multiple systems using a range of different storage technologies and/or access methods. You know how to create repeatable and reusable products. (Relevant skill level: working)
+  
+Data innovation. You know about opportunities for innovation with new tools and the use of data. (Relevant skill level: awareness)
+  
+Data integration design. You can deliver data solutions in accordance with agreed organisational standards that ensure services are resilient, scalable and future-proof. (Relevant skill level: working)
+  
+Data modelling. You understand the concepts and principles of data modelling and can produce, maintain and update relevant data models for specific business needs. You know how to reverse-engineer data models from a live system. (Relevant skill level: working)
+  
+Metadata management. You can work with metadata repositories to complete complex tasks such as data and systems integration impact analysis. You know how to maintain a repository to ensure information remains accurate and up to date. (Relevant skill level: working)
+  
+Problem resolution (data). You know about the types of problems in databases, data processes, data products and services. (Relevant skill level: awareness)
+  
+Programming and build (data engineering). You can design, code, test, correct and document simple programs or scripts under the direction of others. (Relevant skill level: working)
+  
+Technical understanding (data engineering). You understand core technical concepts related to the role and can apply them with guidance. (Relevant skill level: working)
+  
+Testing. You can execute test scripts under supervision. You understand the role of testing and how it works. (Relevant skill level: awareness)
+
+
+Senior data engineer
+
+A senior data engineer designs and leads the implementation of data flows to connect operational systems, data for analytics and business intelligence (BI) systems.
+
+At this level, you will:
+
+
+  recognise opportunities to re-use existing data flows
+  lead the build of data streaming systems
+  optimise the code to ensure processes perform optimally
+  lead work on database management
+
+
+Skills needed for this role
+
+
+  
+Communication skills (data). You know how to communicate to and between technical and non-technical stakeholders as well as facilitate discussions within a multidisciplinary team, with potentially difficult dynamics. You can advocate for the team externally. You know how to manage different perspectives. (Relevant skill level: working)
+  
+Data analysis and synthesis. You know how to undertake data profiling and source system analysis and can present clear insights to colleagues to support the end use of the data. (Relevant skill level: working)
+  
+Data development process. You can design, build and test data products that are complex or large-scale. You know how to build teams to complete data integration services. (Relevant skill level: practitioner)
+  
+Data innovation. You understand the impact of emerging trends on the organisation in data tools, analysis techniques and data usage. (Relevant skill level: working)
+  
+Data integration design. You know how to select and implement the appropriate technologies to deliver resilient, scalable and future-proofed data solutions. (Relevant skill level: practitioner)
+  
+Data modelling. You understand the concepts and principles of data modelling and can produce relevant data models across multiple subject areas. You know how to reverse-engineer data models from a live system. You understand industry-recognised data modelling patterns and standards and when to apply them. You can compare and align different data models. (Relevant skill level: practitioner)
+  
+Metadata management. You can design an appropriate metadata repository and present changes to existing metadata repositories. You understand a range of tools for storing and working with metadata. You can provide oversight and advice to more inexperienced members of the team. (Relevant skill level: practitioner)
+  
+Problem resolution (data). You know how to respond to problems in databases, data processes, data products and services as they occur. You can initiate actions, monitor services and identify trends to resolve problems. You can determine the appropriate remedy and assist with implementation of it as well as preventative measures. (Relevant skill level: working)
+  
+Programming and build (data engineering). You know how to use agreed standards and tools to design, code, test, correct and document moderate-to-complex programs and scripts from agreed specifications and subsequent iterations. You can collaborate with others to review specifications where appropriate. (Relevant skill level: practitioner)
+  
+Technical understanding (data engineering). You understand core technical concepts related to the role and can apply them with guidance. (Relevant skill level: working)
+  
+Testing. You can review requirements, specifications and define test conditions. You can identify issues and risks associated with work while being able to analyse and report test activities and results. (Relevant skill level: working)
+
+
+Lead data engineer
+
+A lead data engineer is responsible for the design and implementation of numerous complex data flows to connect operational systems, data for analytics and business intelligence (BI) systems.
+
+At this level, you will:
+
+
+  recognise and share opportunities to re-use existing data flows between their teams
+  be responsible for the build of data-streaming systems
+  coordinate teams and set best practice and standards
+  apply knowledge of systems integration to their work
+  champion data engineering across government
+
+
+Skills needed for this role
+
+
+  
+Communication skills (data). You can listen to the needs of technical and business stakeholders and interpret them. You know how to manage stakeholder expectations. You are flexible and capable of proactive and reactive communication. You know how to facilitate difficult discussions within the team or with diverse senior stakeholders. (Relevant skill level: practitioner)
+  
+Data analysis and synthesis. You understand and can help teams apply a range of techniques for data profiling. You can source system analysis from a complex single source. You can bring multiple data sources together in a conformed model for analysis. (Relevant skill level: practitioner)
+  
+Data development process. You know how to establish enterprise-scale data integration procedures across the data development life cycle and ensure that teams adhere to these. You can manage resources to ensure that data services work effectively at an enterprise level. (Relevant skill level: expert)
+  
+Data innovation. You can identify areas of innovation in data tools and techniques, and recognise appropriate timing for adoption. (Relevant skill level: practitioner)
+  
+Data integration design. You know how to establish standards and you know how to keep those standards up to date and ensure adherence to them. You keep abreast of best practice in industry and across government. (Relevant skill level: expert)
+  
+Data modelling. You understand the concepts and principles of data modelling and can produce relevant data models. You know how to work across government and industry, recognising opportunities for re-use and alignment between the data models in different organisations. You can design the method to categorise data model within the organisation. (Relevant skill level: expert)
+  
+Metadata management. You can design an appropriate metadata repository and present changes to existing metadata repositories. You understand a range of tools for storing and working with metadata. You can provide oversight and advice to more inexperienced members of the team. (Relevant skill level: practitioner)
+  
+Problem resolution (data). You can ensure that the most appropriate actions are taken to resolve problems as they occur. You know how to coordinates teams to resolve problems and implement solutions and preventative measures. (Relevant skill level: practitioner)
+  
+Programming and build (data engineering). You know how to use agreed standards and tools to design, code, test, correct and document moderate-to-complex programs and scripts from agreed specifications and subsequent iterations. You can collaborate with others to review specifications where appropriate. (Relevant skill level: practitioner)
+  
+Technical understanding (data engineering). You have the detailed knowledge and understanding of the technical concepts required for the role. You know how these fit into the wider technical landscape. (Relevant skill level: practitioner)
+  
+Testing. You can review requirements, specifications and define test conditions. You can identify issues and risks associated with work while being able to analyse and report test activities and results. (Relevant skill level: working)
+
+
+Head of data engineering
+
+A head of data engineering leads multi-functional delivery teams to deliver robust data services for their department, other government departments and private sector partners. At this level, you will:
+
+
+  inspire best practice for data products and services within your teams
+  build data engineering capability by providing technical leadership and career development for the community
+  work with other senior team members to identify, plan, develop and deliver data services
+
+
+Skills needed for this role
+
+
+  
+Communication skills (data). You can mediate between people and mend relationships, communicating with stakeholders at all levels. You know how to manage stakeholders’ expectations and facilitate discussions across high risk or complexity or under constrained timescales. You can speak and represent the community to large audiences inside and outside of government. (Relevant skill level: expert)
+  
+Data analysis and synthesis. You understand and can help teams apply a range of techniques for data profiling. You can source system analysis from a complex single source. You can bring multiple data sources together in a conformed model for analysis. (Relevant skill level: practitioner)
+  
+Data development process. You know how to establish enterprise-scale data integration procedures across the data development life cycle and ensure that teams adhere to these. You can manage resources to ensure that data services work effectively at an enterprise level. (Relevant skill level: expert)
+  
+Data innovation. You can investigate emerging trends in data-related approaches, performing horizon-scanning for the organisation and introducing innovative ways of working. (Relevant skill level: expert)
+  
+Data integration design. You can establish standards and you keep abreast of best practice in industry and across government. You know how to keep those standards up to date and ensure adherence to them. (Relevant skill level: expert)
+  
+Data modelling. You understand the concepts and principles of data modelling and can produce, maintain and update relevant data models for specific business needs. You know how to reverse-engineer data models from a live system. (Relevant skill level: working)
+  
+Metadata management. You understand how metadata repositories can support different areas of the business. You can promote and communicate the value of metadata repositories. You know how to set up robust governance processes to keep repositories up to date. (Relevant skill level: expert)
+  
+Problem resolution (data). You can anticipate problems and know how to prevent them. You understand how problems fit into the larger picture. You can identify and describe problems and help others to describe them. You know how to build problem-solving capabilities in others. (Relevant skill level: expert)
+  
+Programming and build (data engineering). You can set local or team-based standards for programming tools and techniques and can select appropriate development methods. You can advise on the application of standards and methods and ensure compliance. You can take technical responsibility for all stages and/or iterations in a software development project, providing method-specific technical advice and guidance to project stakeholders. (Relevant skill level: expert)
+  
+Technical understanding (data engineering). You can predict and advise on future technology changes that present opportunities for a product or programme. (Relevant skill level: expert)
+  
+Testing. You can review requirements, specifications and define test conditions. You can identify issues and risks associated with work while being able to analyse and report test activities and results. (Relevant skill level: working)
+
+
+Read more
+
+
+  Civil Service Jobs
+  Read about the government’s data science community
+
+
+
+
+
+      
+        
+    Published 7 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Data architect
+        Programme delivery manager
+        Software developer
+        Interaction designer
+        Technical architect
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

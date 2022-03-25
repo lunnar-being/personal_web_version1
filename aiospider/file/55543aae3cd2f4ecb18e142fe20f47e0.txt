@@ -1,0 +1,46 @@
+
+	The Defense Advanced Research Projects Agency is unveiling a new program to boost U.S. air superiority by separating payloads such as weapons and sensors from the main air platform, and using open-system architectures to seamlessly integrate plug-and-fly modules into any kind of platform.
+	The program, called System of Systems Integration Technology and Experimentation, or SoSITE, aims to develop and demonstrate concepts for flying combinations of aircraft, weapons, sensors and mission systems that distribute air-warfare capabilities across interoperable manned and unmanned platforms.
+	The DARPA vision is to integrate new technologies and airborne systems with existing systems faster and at a lower cost than advanced adversaries can counter them, Dr. Nils Sandell Jr., director of DARPA’s Strategic Technology Office, told DoD News in a recent interview.
+	“We feel that the [Defense] Department is facing some significant technical challenges,” he said.
+	
+	“I talk to my friends and neighbors, and they take it for granted that [the United States] has air superiority and that we can impose our ability to project power anywhere we want to,” he said, adding that high-end potential adversaries have been systematically developing their own equipment and systems.
+	“Our technological lead is definitely threatened,” Sandell said. “The threats are not only external but also self-inflicted by the extreme degree of complexity being crammed onto massive military platforms.”
+	“Our systems are becoming so complex, so time consuming to produce, that we can't keep pace with commercial technology and we can't keep pace with the threat,” the director said.
+	Because fielding or upgrading advanced airborne systems can take decades and cost billions of dollars, he added, it has not been possible to modernize subsystems in the complex platforms apace with rapid advances in commercial technology.
+	
+	“A system-of-systems approach could help overcome [the] inherent issue with high-cost, monolithic, multifunction platforms,” Sandell said.
+	Distributed air-warfare platforms have other advantages, he added.
+	“What we would like to enable is a future scenario in which a smaller number of manned aircraft would combine with unmanned aircraft to do  total job,” the director said. “They would be networked together … and the unmanned aircraft could venture into the more dangerous territory, providing some degree of risk avoidance for the pilots.”
+	The unmanned platforms would be simpler and could do individual jobs like carry weapons, electronic warfare systems or sensors –- the last allowing the manned aircraft to be silent and harder to detect, he said.
+	
+	“The fundamental idea is to take platforms that today are manned, monolithic and expensive, and distribute the capability over a much more heterogeneous set of platforms to perform similar functions,” Sandell said.
+	In such a configuration, the pilot becomes a battle manager, deciding what the small aircraft should be doing and how to orchestrate it, Sandell said, and DARPA has a suite of programs whose automation is designed to help pilots with the task.
+	“We’ve recently come out with  called Distributed Battle Management, and that's exactly to provide the automation and decision aids to enable a pilot to be able to fly his jet and do these future tasks,” the director said.
+	It’s also important that the pilot is the decision maker, he added.
+	
+	“We're not talking about a totally robot army or something like that,” Sandell said. “The pilot has to be able to exert control [and] to be in communication with these platforms, so we have a communications program called Communications in Contested Environments that's working the issue of getting these platforms to talk to one another.”
+	DARPA’s vision is that the combination of robust communications and automation will be sufficient to allow the pilot to do those tasks, he added.
+	Sandell said he wants to be clear that DARPA is not trying to replace air platforms like the F-35 or the F-22, but rather to augment their capabilities.
+	“[The monolithic platforms] are going to be expensive,” he said. “We probably won't be able to buy as many of them as we would like to if history plays out, so we want to be sure that the services, who ultimately make decisions about what to buy, [have] an enriched set of options as they go forward.”
+	
+	For the SoSITE program, a second focus involves DARPA and the services’ engagement in open-architecture efforts to allow platforms to be upgraded with equipment that seamlessly plugs and plays.
+	Sandell said the legacy approach, which often involves a yearslong process to agree on standard interface, can limit the ability to integrate new technology that doesn’t fit within that interface. By contrast, he added, open-architecture tools more easily allow the integration of new technology when it comes along.
+	The Air Force has an effort called Open Mission Systems, and DARPA is collaborating closely with them, Sandell said. The Navy has an open-architecture effort called Future Avionics Capability Environment that DARPA works with, and they have recently shown impressive accomplishments, he added.
+	
+	The SoSITE program has two phases, and it is now in the two-year-long first phase, which has two technical areas, or TAs.
+	TA1 is architecture analysis, and TA2 is integration technology. The program is less than a quarter of the way through the first phase. In the second phase, the plan is for the two Phase 1 technical areas to come together for the program’s experimentation portion.
+	According to DARPA, the agency has awarded contracts to develop concepts for system-of-systems architectures and tools for rapid integration and testing.
+	Under those contracts, Boeing, General Dynamics, Lockheed Martin and Northrop Grumman are developing and analyzing promising architectures and designing plans for flight experimentation with the architectures.
+	Apogee Systems, BAE Systems and Rockwell Collins are developing tools and technologies to enhance open-system architecture approaches.
+	
+	One of the limitations of open architecture is that it provides what Sandell said is known as “an increased attack surface” for cyberattacks.
+	“What we're doing on our program, in our development of system-of-systems integration technology, is building robustness against cyberattack into the design process, as opposed to putting it in as an afterthought,” the director said.
+	This involves things like building software into the system that is located in random places in memory so an attacker won't know where to go to find it, Sandell added. “There are techniques of that type we're building into the process,” he said.
+	Of the three contractors who are developing techniques to better integrate system of systems, at least two of them are addressing the cyber problem and coming up with all sorts of techniques, Sandell said.
+	
+	“They draw on our [Information Innovation Office] folks here at DARPA, the primary folks who do cyber, so we're not doing research on cyber so much as making sure the state of the art in cyber protection is built into the system of systems design process,” he added.
+	Looking to the future, Sandell said that monolithic but sophisticated platforms like the F-35 probably will continue to have very high value.
+	“I think they will be part of a family of systems or of a system of systems and not single silver-bullet solutions by themselves,” the director said. “In particular, we think that any of the future platforms would be designed in much more of an open-architecture fashion, so although the platform may last for a long time and take a while to develop, the electronics in it can be upgraded much more rapidly.”
+	He said he thinks, in a sense, "the F-35 is the last of a kind. I don't think we'll develop anything that tightly integrated in the future.”
+	(Follow Cheryl Pellerin on Twitter @PellerinDoDNews)

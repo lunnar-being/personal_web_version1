@@ -1,0 +1,31 @@
+
+        
+        
+        
+     prices for many commodities have declined substantially and become more volatile (Exhibits 1 and 2). Many factors underpin this shift, including oil-market supply dynamics
+and concerns about demand disruptions related to the COVID-19 pandemic.
+
+
+ For example, futures price volatility
+
+
+ has increased year to date by a multiple of six for WTI crude,
+
+
+ by about a multiple of four for live cattle, and by approximately 160 percent for copper.
+    
+
+    
+Due to government-imposed lockdowns that quickly reduced demand for transportation fuels, crude-oil futures prices have declined more sharply and rapidly than they did during the 2008–09 global financial crisis. Futures prices of industrial metals and agricultural commodities have followed crude oil’s downward trend but less sharply than in 2008–09. Price volatility of most categories increased during both crises, suggesting exceptional uncertainty about future commodity prices among market participants.Increasingly volatile prices present both opportunities and challenges to commodity buyers and traders who must decide how to structure their price-risk exposure. During periods of heightened uncertainty, we think it’s paramount for managers to be cognizant of flaws in heuristics the human brain uses to quickly make decisions. These cognitive biases can systematically skew human perceptions, often leading to poor business decisions and suboptimal financial results (Exhibit 3). The implications of subconscious biases and heuristics in finance are well researched. Three notable Nobel prizes in economic science were awarded in 2002 (Kahneman), 2013 (Shiller), and 2017 (Thaler) for  that established managers are predictably irrational in ways that defy economic theory.
+    
+To counteract these biases, commodity buyers and risk managers can combine structured human processes with advanced analytics to create robust, repeatable, and neutral methods that offer multiple benefits. Leading organizations use it to mitigate predictable errors in human judgment and optimize risk taking. 
+	
+Examples of advanced analytics used to reduce biases include the following:
+     Mitigate confirmation bias by developing strategies that use information systematically, including data that may be contradictory to initial hypotheses, to simulate the forward price curve of relevant commodities.
+     Use historical data to compare the results of multiple strategic options and identify a strategy that achieves an optimal balance of earnings and volatility with rules-based discipline few humans can match.
+     To correct for overconfidence bias, form a better understanding of uncertainties inherent in a model’s parameters, such as relationships between related commodities, by comparing outcomes across variations in key inputs. 
+For organizations interested in improving decision making under uncertainty, we suggest the following: 
+    
+    
+    
+ has shown that in uncertain times, cognitive biases (and their mitigation) play a material role in long-term outcomes. Using advanced analytics is an important way to begin addressing those biases. The key is getting started and not letting perfect be the enemy of good. Using an iterative approach can continually improve capabilities that reduce bias and optimize price risk management.This article was produced by , our Agriculture Practice’s advanced-analytics group, experienced in applying analytics to address challenges and unearth opportunities across the food system.

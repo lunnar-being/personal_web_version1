@@ -1,0 +1,471 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Digital and technology spend controls (version 5)
+  
+
+  
+  
+  
+      
+  Follow this guidance when you want to get spend approval for digital and technology activities.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      30 April 2018
+      Last updated
+      
+        10 August 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Set up a digital and technology pipeline
+
+        
+        
+          Get approval for digital and technology spend
+
+        
+        
+          When you can start to spend money
+
+        
+        
+          Cabinet Office Minister involvement
+
+        
+        
+          Contact
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+To use the digital and technology spend controls process, your organisation must:
+
+
+  maintain a pipeline that lists spend on all digital and technology spend
+  assess every line in the pipeline against the CDDO spend controls pipeline assessment criteria including business as usual (BAU) spend
+  agree assurance assessment for every line in the pipeline (see Table 1)
+  work with the Cabinet Office commercial, and digital and technology teams to review pipeline spend activity
+  provide appropriate approval routes and a process to re-evaluate spend activity if there are changes after it is initially assessed
+
+
+Once you have built your public digital services, you must assess them against the Digital Service Standard - check who should run the assessment.
+
+Table 1: Assurance steps
+
+
+  
+    
+      Assurance steps
+      Step 1: Triage your pipeline
+      Step 2: Get approval from the assurance board
+      Step 3: Get approval from the joint assurance review
+    
+  
+  
+    
+      What happens at this stage
+      Your organisation will self-assess each spend activity and record all of the items in the pipeline
+      Your organisation boards and committees (internal governance processes) review the pipeline assessment and make a recommendation to the joint assurance review.
+      The centre of government (including Cabinet Office teams) carries out an independent assessment of the activities and provides final approval.
+    
+  
+
+
+Source: Adapted from HM Treasury’s ‘Assurance Frameworks’
+
+Set up a digital and technology pipeline
+
+There is no threshold to the spend control pipeline and you should add all of your digital and technology projects and programmes. This lets the assurance function in your department and the Cabinet Office review any areas of low, but disproportionately complex or risky activity and allow you to spot any novel or contentious spend when you categorise activities during the triage process.
+
+It is mandatory to assure all non-BAU spend above £100,000 for digital and £1 million for technology through your assurance boards. It is recommended that you do the same for all cases below this threshold to identify duplication, savings, reduce risk and to get a complete picture of your digital and technology spend. Your CDDO senior technology adviser will work with you to clarify if an activity is novel, contentious or Business as Usual (BAU) spend.
+
+You must get approval to spend more than £1 million on any technology which is also delivered by or for Shared Service Centres (SSC), including:
+
+
+  enterprise resource planning (ERP) systems
+  human resource systems
+  finance or accounting systems
+  procurement systems
+
+
+You should discuss all spend in relation to Shared Service Centres with Government Shared Services as outlined in the Government Shared Services strategy.
+
+Novel or contentious
+
+You must also add any novel or contentious digital and technology spend to your pipeline, regardless of value. This lets the Cabinet Office review any areas of low, but disproportionately complex or risky activity. You should be able to spot novel or contentious spend when you categorise activities during the triage process. Your CDDO senior technology adviser will work with you to clarify if an activity is novel, contentious or Business as Usual (BAU) spend.
+
+Examples of novel and contentious spend include:
+
+
+  contracts that are over £100 million
+  automatic contract extensions
+  new hosting contracts over 2 years
+  investments in emerging technologies like artificial intelligence, machine learning, blockchain and quantum computing
+
+
+You should also note that companies with a contract for service provision will not be allowed to provide system integration in the same part of government.
+
+BAU spend is defined as less complex areas of repeat, commoditised or routine digital and technology spend. BAU activities will usually pass through the spend controls as ‘assured’ when agreed with your CDDO senior technology adviser.
+
+The pipeline must include digital and technology activity covering the next 5 quarters, and should be updated regularly as part of the joint assurance process. CDDO recommends adding spend activity to the pipeline 15 months before the start of your project as good practice.
+
+The pipeline should include all known future spend above these thresholds, even if your organisation has not secured a funding. source.
+
+You must add new spend activity to the pipeline as soon as possible and list all the items under each activity. In this context, activity refers to any planned spend which is above the Cabinet Office controls thresholds.
+
+It may take time for you to create a pipeline, and you need to maintain it on an ongoing basis to comply with the spend controls. A CDDO senior technology adviser will work with your organisation to develop a pipeline. Email <gdsapprovals@digital.cabinet-office.gov.uk  if you need to find out which senior technology adviser you should work with.
+
+Use the Cabinet Office template to help you set up a digital and technology pipeline.
+
+Overlap between pipelines
+
+Digital and technology, and commercial pipelines can overlap. For example, when digital and technology spend is valued at £10 million or over (excluding VAT), this activity must feature on both pipelines during the triaging process. CDDO and GCF will work with you to jointly to get approval.
+
+If an activity is in scope for the commercial pipeline, there is an additional sampling task in assurance step 2: getting approval from the assurance board.
+
+Read more about the additional sampling requirements for the commercial spend controls.
+
+All digital and technology spend must pass through the 3-step spend controls process for approval. You must:
+
+
+  triage your spend activity
+  get approval from an assurance board
+  get approval from a joint assurance review
+
+
+Get approval for digital and technology spend
+
+CDDO will work with your organisation before and throughout the spend controls process to help build a common understanding of an activity, identify issues early and solve them quickly. Engagement between your organisation and the centre should involve ongoing conversations and visits with service teams and portfolio functions.
+
+Step 1: Triage your spend activity
+
+A CDDO senior technology adviser works with your organisation to score spend activity using the CDDO pipeline guidance during the triage process.
+
+You should assess activity when:
+
+
+  you add it to the pipeline
+  it reaches an agreed review point
+  it changes significantly from what was previously assessed
+
+
+CDDO recommends adding spend activity to the pipeline 15 months before the start of your project as good practice. When an activity isn’t defined yet, to allow an assessment you must agree a review point with your CDDO senior technology adviser at least 3 months before it needs approval.
+
+A similar process applies to the commercial pipeline. For digital and technology contracts over £10 million, a representative from the GCF should also be involved in triaging the spend activity. Email commercialassurance@cabinetoffice.gov.uk to find out which commercial business partner should be involved.
+
+During the triaging process your organisation must assess digital and technology spend activity as one of the following:
+
+
+  assured
+  monitor
+  control
+  pending
+
+
+Assured
+
+Your organisation and activity owner has assessed this activity as meeting CDDO spend controls pipeline assessment criteria, it is not contentious, and would like to validate this assessment with the Cabinet Office.
+
+Monitor
+
+Your organisation has found the spend activity does not currently meet all required standards but is not ‘contentious’. An activity is contentious if it is controversial or requires a high-level of scrutiny as defined in the managing public money guidance. Further work is required to make sure that all the standards are met.
+
+The activity owner needs to put a plan in place to make sure activities meet standards within an agreed timeframe. CDDO (and/or GCF) need to approve this plan.
+
+Control
+
+Your organisation agrees that the spend activity is novel or contentious or is unlikely to meet all the required standards.
+
+When an activity owner marks an activity as ‘control’ they need to get approval from the CDDO. Your CDDO senior technology adviser provides a recommendation usually with conditions, a submission is made to the Cabinet Office Minister. CDDO and GCF will make a joint submission to the minister if the spend activity costs over £10 million. CDDO will make the submission alone if the spend activity costs below £10 million.
+
+Pending
+
+You have not fully defined the spend activity. You need more information to assess the activity, or you are still in the process of securing funding.
+
+Activity remains marked as pending until you have enough information to classify it.
+
+Handle business as usual  (BAU) spend
+
+Where your organisation can identify less complex areas of repeat, commoditised or routine digital and technology spend in the pipeline, you should show this. You may work with the Cabinet Office to categorise these areas of spend as ‘assured’ if this approach meets the CDDO spend controls pipeline assessment criteria.
+
+Flagging spend activity for closer review
+
+Digital and technology spend activity may be flagged for closer review if:
+
+
+  the activity owner cannot present an agreed approach to meet CDDO spend controls pipeline assessment criteria
+
+  there are historic concerns about projects or suppliers
+  there is a proposed automatic extension to an existing contract
+  there is a lack of transparent competitive procurement process
+
+
+Step 2: Get approval from your assurance board
+
+After assessing activities in your pipeline, you need to request approval from your organisation’s assurance board. Your organisation may have a similar board already in place or you may need to set one up. This assurance board may become a subset of the joint assurance review process if there is a good reason for this.
+
+Your organisation can use an existing governance board if it includes:
+
+
+  senior organisational leaders with suitable skills and experience
+  a CDDO senior technology advisor
+  a representative from GCF when reviewing spend activity valued at £10 million or more
+
+
+It is also ideal to have representation from another government department on the assurance board but this is not mandatory.
+
+The digital and technology assurance board reviews the recommendations from triage and:
+
+
+  accepts or amends the triage
+  reviews problematic items
+  agrees action plans relating to ‘monitor’ status
+  plans review points
+  provides recommendations to the joint assurance review for validation and approval
+
+
+Use Cabinet Office guidance if you need to set up an assurance board.
+
+Step 3: Get approval from the joint assurance review
+
+Senior leaders from your organisation and the Cabinet Office oversee the joint assurance review (JAR). If all of your digital and technology spend activity is less than £10 million only CDDO will be involved in your joint assurance review. CDDO and GCF will both participate in joint assurance reviews of your digital and technology pipeline if you’re planning digital and technology activity costing over £10 million. CDDO will work with your organisation to provide guidance when these scenarios arise.
+
+The joint assurance review needs to include the following participants or their deputies:
+
+
+  senior leader from the organisation’s digital and technology function
+  senior leader from the organisation’s commercial function
+  senior leader from the Central Digital and Data Office (CDDO)
+  senior leader the Government Commercial Function (GCF)
+  senior leader from Other Government Department (OGD)
+  representatives from HM Treasury and Infrastructure and Projects Authority (IPA) (if the value of an activity is over £1 billion)
+
+
+The Accounting Officer may choose an official at the appropriate level of seniority to attend, if required.
+
+The joint assurance review should take place periodically, with quarterly meetings suggested as a starting point. Your organisation can change this timeline.
+
+Joint assurance reviews may take place via correspondence when they become routine, if there are no contentious activities to discuss. Senior leaders will only meet by exception. For example, they should meet each time significant changes are made to an organisation’s pipeline.
+
+When you can start to spend money
+
+You can spend money on digital and technology activities marked as ‘assured’ by the assurance board unless you are otherwise advised by your CDDO senior technology adviser.
+
+Digital and technology activities marked as ‘monitor’ (below £10 million) are approved for spend after the joint assurance review provided an agreed plan is in place to make sure they meet the required standards.
+
+Spend activity marked as ‘control’ must pass through the internal CDDO Controls Board. All cases are shared with the Cabinet Office Minister for a decision, regardless of the value of the spend. The CDDO senior technology adviser will get approval from the minister on your behalf.
+
+If the minister does not approve the spend marked as ‘control’, your organisation is notified and has the option to re-submit an amended case. Your CDDO senior technology adviser will usually flag any issues before a case is submitted to the minister so your organisation should be able to address them ahead of approval. The minister can also approve spend with conditions in some cases.
+
+If both commercial and digital and technology controls apply to an activity but only one of the functions (CDDO or GCF central commercial team) has provided approval, then that activity is not approved for spend. The function that has not granted approval will treat the activity as ‘control’ and prepare the submission for the next approval point, including the first function’s recommendation. The submission takes the form of either a Strategic Outline Business Case, Outline Business Case or Full Business Case.
+
+Cabinet Office Minister involvement
+
+The Cabinet Office Minister will see a summary of the pipeline report within 10 working days of every joint assurance review. In most cases, the joint assurance review is carried out quarterly. The pipeline report must list:
+
+
+  live activities and their assessments
+  activities retired following a contract award
+  any changes in categorisation (for example, from ‘monitor’ to ‘assured’)
+  the next review date for ‘monitor’ items
+
+
+The minister may decide an activity is contentious in exceptional circumstances and ask for a reassessment from ‘assured’ to ‘control’, for example. If the organisation has already committed to awarding a contract, then this reassessment will not take place and the status will stay the same.
+
+Contact
+
+Email <gdsapprovals@digital.cabinet-office.gov.uk > or contact departmental digital, technology leaders for questions on the digital and technology spend control process.
+
+
+
+
+      
+        
+    Published 30 April 2018
+    Last updated 10 August 2021
+      + show all updates
+      
+        
+            
+              10 August 2021
+              Updated CDDO contact email
+            
+            
+              29 July 2021
+              Clarifying thresholds for the digital and technology pipeline
+            
+            
+              30 April 2018
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        GDS spend controls pipeline assessment criteria
+        Set up a commercial or digital and technology spend controls pipeline
+        Set up a spend controls assurance board
+        Cabinet Office Controls: version 6
+
+  
+
+
+
+
+      
+
+    Detailed guidance
+
+  
+
+
+        Commercial spend controls (version 6)
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Cabinet Office Controls
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

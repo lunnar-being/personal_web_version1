@@ -1,0 +1,758 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Good clinical practice for clinical trials
+  
+
+  
+  
+  
+      
+  How to show MHRA you're meeting good clinical practice (GCP) standards and what to expect from an inspection. 
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Medicines and Healthcare products Regulatory Agency
+
+      
+      Published
+      18 December 2014
+      Last updated
+      
+        25 March 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Clinical Trials and coronavirus (COVID-19)
+
+        
+        
+          Overview
+
+        
+        
+          Report a serious breach
+
+        
+        
+          Inspections under the risk-based compliance programme
+
+        
+        
+          Pre-inspection documentation
+
+        
+        
+          During the inspection
+
+        
+        
+          Actions after the inspection
+
+        
+        
+          
+GCP Inspection Metrics
+
+        
+        
+          Infringement notices
+
+        
+        
+          Infringement letters
+
+        
+        
+          
+GCP discussion forum
+
+        
+        
+          On-site access to Electronic Health Records by Sponsor representatives in clinical trials
+
+        
+        
+          
+GCP Stakeholder Engagement Meeting (StEM)
+
+        
+        
+          
+MHRA GCP Laboratories Stakeholder Engagement Meeting
+
+        
+        
+          European and UK law for GCP
+
+
+        
+        
+          Contact
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+
+Clinical Trials and coronavirus (COVID-19)
+We have published guidance on managing clinical trials during the COVID-19 outbreak, and on clinical trials applications for COVID-19.
+
+
+Overview
+
+Good clinical practice (GCP) is a set of internationally-recognised ethical and scientific quality requirements that must be followed when designing, conducting, recording and reporting clinical trials that involve people.
+
+Organisations that may have to comply with GCP include:
+
+
+  pharmaceutical companies
+  contract research organisations
+  universities
+  NHS hospitals
+  charities
+  GP practices
+  laboratories analysing samples originating from a clinical trial (including NHS, academic and commercial laboratories)
+
+
+Guidance on good clinical practice has been produced by the International conference on harmonisation of technical requirements for registration of pharmaceuticals for human use (ICH).
+
+You can also get more information about GCP in the Good Clinical Practice Guide, produced by MHRA.
+
+To ensure compliance with GCP, MHRA:
+
+
+  asks trial sites to notify them of serious breaches
+  carries out inspections of trial sites where serious breaches are reported
+  carries out inspections of trial sites that sponsor clinical trials, mostly based on a risk assessment
+  carries out inspections of sites when companies apply for marketing authorisations
+
+
+Report a serious breach
+
+You must notify MHRA of serious breaches of GCP or the trial protocol. See Guidance  for the notification of serious breaches of GCP or the trial protocol  (PDF, 221KB, 12 pages).
+
+
+Complete the notification of serious breaches of GCP or the trial protocol form (MS Word Document, 228KB) and send it to GCP.SeriousBreaches@mhra.gov.uk
+
+
+See the annual summary of MHRA GCP referrals.
+
+Triggered inspections for serious breaches
+
+MHRA may contact you to arrange an inspection if they suspect the law has been broken. This information might come from:
+
+
+  a serious breach notification
+  a whistleblower
+  other MHRA departments
+  the health research authority (HRA)
+
+
+In rare circumstances, MHRA may give little or no notice of these inspections.
+
+Inspections under the risk-based compliance programme
+
+The majority of MHRA GCP inspections are carried out under the risk-based compliance programme. These can be either systems-based or trial specific.
+
+GCP systems inspections examine the systems used by your organisation to conduct clinical trial research. The inspectors will select a number of your clinical trials to examine how your organisation’s trial procedures are applied. One or two investigator sites involved in the selected trials may also be inspected.
+
+Trial-specific GCP inspections assess clinical trials that have been completed and reported.
+
+Currently phase I units that are part of the phase I accreditation scheme are not part of the risk-based programme but they are inspected every 2-3 years.
+
+The risk-based inspection programme uses information available to MHRA to determine an organisation’s risk. This information includes:
+
+
+  internal information about previous inspection history
+  organisational changes
+  intelligence from external sources
+
+
+Each organisation is risk assessed and  inspections are prioritised for the organisations considered to be the highest risk.
+
+However, a small number of the organisations in the medium and low-risk categories will be randomly selected for routine risk-based inspections.
+
+Routine GCP inspections are conducted as per the flowchart, and more detail is provided in the sections below for each step. See flowchart of the inspection process (PDF, 92.8KB, 1 page).
+
+Pre-inspection documentation
+
+You will be notified if your organisation is chosen for inspection under the routine risk-based inspection programme.
+
+The notification includes a request for information, in the form of a GCP inspection dossier and a clinical trials spreadsheet to MHRA within 30 days.
+
+This dossier should include:
+
+
+  a list of clinical trials
+  organisation charts
+  standard operating procedure (SOP) lists
+  contact details
+  overview of facilities
+  service providers
+  clinical trials activities
+
+
+Use the GCP inspection dossier template    (MS Word Document, 325KB) and the GCP inspection dossier clinical trial spreadsheet (MS Excel Spreadsheet, 75.3KB) to help you prepare your dossier. Use the GCP inspection dossier checklist   (MS Word Document, 256KB) to ensure your dossier is complete.
+
+MHRA will agree an inspection date and give you information on the inspection team and the practical logistical aspects of the inspection.
+
+Occasionally, after reviewing the dossier, the lead inspector may decide not to proceed with the inspection.
+
+The Trial Master File (TMF)
+
+A number of clinical trials are usually selected for Trial Master File (TMF) review, although the inspection may not be limited to these.
+
+The complete TMF is the basis for inspection and all the documents in it must be made available to the inspectors. This includes any electronic documents and emails. You’ll need to provide any equipment and software needed to access any electronic documents.
+
+You can discuss with the lead inspector beforehand on how to make the TMF available during the inspection.
+
+If you are a sponsor and have subcontracted some activities to a contract research organisation (CRO), then you will have to provide the TMF and/or other documents.
+
+If you have problems meeting these requirements, you should tell the lead inspector before the inspection.
+
+Failure to provide the TMF can affect the results of your inspection.
+
+The inspection plan
+
+The inspection plan is based on discussions with you and the information provided in your GCP inspection dossier, to ensure all activities are covered. Appropriate people should be available for interview either in person or by teleconference.
+
+Additional supporting documentation such as line listings, database extracts, floor plans etc. might be needed. All documentation requested should be provided within the time agreed with the lead inspector.
+
+Inspectors will be flexible with the inspection plan to accommodate working patterns of individuals and immediate issues if they arise.
+
+An inspection plan will be given to you in advance and any comments or questions relating to it can be discussed with the lead inspector.
+
+During the inspection
+
+The inspection includes interviews with relevant people and a review of the documentation, such as the TMF. The inspector may visit:
+
+
+  data management units
+  archives
+  pharmacy
+  laboratories
+
+
+You should be prepared to provide additional documentation to the inspectors on request.
+
+Inspection findings
+
+At the end of the inspection the inspector will give you a verbal summary of the inspection findings and allow you the opportunity to correct any misunderstandings.The grading of the findings are provisional and may be changed by the inspector for the report.
+
+Grading of inspections findings
+
+Deficiencies found during inspections are graded at 3 levels - critical, major and other.
+
+Grading of inspections findings
+
+Critical
+
+a) Where evidence exists that significant and unjustified departure(s) from applicable legislative requirements has occurred with evidence that:
+
+
+  the rights, safety or well-being of trial subjects either has been or has significant potential to be jeopardised, and/or
+  the clinical trial data are unreliable and/or
+  there are a number of Major non-compliances (defined in (d) and (e)) across areas of responsibility, indicating a systematic quality assurance failure, and/or
+
+
+b) Where inappropriate, insufficient or untimely corrective action has taken place regarding previously reported Major non-compliances (defined in (d) and (e))
+
+c) Where provision of the TMF does not comply with Regulation 31A 1-3, as the TMF is not readily available or accessible, or the TMF is incomplete to such an extent that it cannot form the basis of inspection and therefore impedes or obstructs inspectors carrying out their duties in verifying compliance with the Regulations
+
+Major:
+
+d) A non-critical finding where evidence exists that a significant and unjustified departure from applicable legislative requirements has occurred that may not have developed into a critical issue, but may have the potential to do so unless addressed, and/or
+
+e) Where evidence exists that a number of departures from applicable legislative requirements and/or established GCP guidelines have occurred within a single area of responsibility, indicating a systematic quality assurance failure.
+
+Other:
+
+f) Where evidence exists that a departure from applicable legislative requirements and/or established GCP guidelines and/or procedural requirement and/or good clinical practice has occurred, but it is neither Critical nor Major.
+
+The inspection report
+
+The inspection report is emailed to you. You must respond to the report. Your organisation must provide a response to the inspection report in the form of a corrective action and preventative action (CAPA) plan, see CAPA guidance for formulating responses to GCP inspection findings (PDF, 42.4KB, 4 pages). For some inspections, you may need to provide periodic reports on the progress of proposed CAPA actions.
+
+The lead inspector may ask you for additional clarification from the responses you provided. Usually, you will be given one opportunity to provide additional information or clarification.
+
+Once adequate responses are received, a GCP inspection statement will be issued to you by email.
+
+Actions after the inspection
+
+If there are critical findings identified these are referred to the GCP Inspection Action Group (IAG). This is a cross-agency group that oversees all critical findings and decides on the actions to be taken in addition to the review of the CAPA for the critical finding. There are a number of possible non-routine post-inspection actions that the IAG may consider depending on the critical finding and the impact on public safety and data integrity. These include, quarterly reporting, early re-inspection, referral to relevant stakeholders (for example, other regulators/agencies, Health Research Authority (HRA), General Medical Council (GMC), Care Quality Commission (CQC)), suspension of CTA(s), an infringement notice or prosecution.
+
+Contact the GCP Inspectorate
+If you have any questions or concerns regarding your GCP inspection, these should be directed to the Lead Inspector, one of the Assisting Inspectors, or the GCP Operations Manager.
+
+Fees for GCP inspections
+
+Fees for inspections
+
+Make payment to MHRA
+
+
+GCP Inspection Metrics
+
+To help you understand the areas where GCP inspectors have found compliance problems during GCP inspections in the UK, the GCP inspectorate produces metrics reports.
+
+Infringement notices
+
+An infringement notice may be issued when instances of serious or serious and persistent non-compliance with GCP requirements have been identified.
+
+Below are all the infringement notices that have been issued for GCP. Some information may be redacted. Redacted information contains elements of personal data, the disclosure of which would be unfair in that it would breach the first principle of the Data Protection Act which says that information must be processed fairly and lawfully
+
+
+  
+    
+      Organisation / Person
+      Date Issued
+      Reason
+      Status
+    
+    
+      Dr David Connell
+      14 March 2016
+      Regulatory Action
+      Dr Connell responded to the Infringement notice to confirm that he has relinquished his license to practice medicine in the UK and has no intentions of practicing medicine again in the UK.  Dr Connell has confirmed that if he does take part in clinical trials in the UK in the future,  he will comply with the conditions of the infringement notice. Dr Connell also confirmed that he did not retain any data or documents from the trials in question, therefore the MHRA also wish to highlight that without any retained data it is not possible to verify the conclusions published from this clinical trial.
+    
+    
+      Mrs Zirka Yousaf
+      1 July 2016
+      Regulatory Action
+      Mrs Zirka Yousaf responded to the Infringement Notice to confirm she has implemented an SOP and checklist to ensure future work is adequately documented, will ensure future work commitments are feasible and will not outsource or subcontract work to another contractor. Mrs Zirka Yousaf has confirmed that she will comply with the conditions of the infringement notice. MHRA has verified that there is no impact on patient safety. However, MHRA would also like to remind sponsors that they are ultimately responsible for GCP. Therefore, sponsors have a requirement to ensure oversight of all staff working on their trials, including contractors and those that may be home based. Suitably robust contracts and adequate oversight mechanisms could identify and therefore reduce the likelihood of the non-compliances observed in this infringement notice.
+    
+    
+      Dr Jerome Kerrane
+      9 November 2017
+      Regulatory Action
+      Dr Kerrane responded to the Infringement notice to confirm that he has undertaken further training associated with GCP, information governance and financial probity. Dr Kerrane has confirmed that he has not taken part in clinical trial activities since 2015 and has no intentions of undertaking trial work in the future. The MHRA would like to remind investigators of the requirement to comply with the approved trial protocol to ensure the safety of trial participants and the integrity of the data collected; and trial sponsors of the need for effective monitoring.
+    
+  
+
+
+Infringement letters
+
+Dr David Connell infringement notice (PDF, 786KB, 2 pages)
+
+Mrs Zirka Yousaf Infringement Notice (PDF, 3.97MB, 11 pages)
+
+Dr Jerome Kerrane Infringement Notice  (PDF, 1.22MB, 3 pages)
+
+
+GCP discussion forum
+
+MHRA GCP forum MHRA GCP forum can help you comply with the clinical trials regulations and GCP requirements by providing an opportunity to discuss clinical trials and GCP requirements with other researchers. It also contains some useful FAQs.
+
+On-site access to Electronic Health Records by Sponsor representatives in clinical trials
+We have also published guidance on on-site access to Electronic Health Records.
+
+
+GCP Stakeholder Engagement Meeting (StEM)
+
+The MHRA GCP Stakeholder Engagement Meeting (StEM) now meets on an annual basis to provide a forum for discussion between the MHRA GCP inspectorate and represented stakeholders on key topics related to the conduct of clinical trials of investigational medicinal products.
+
+
+MHRA StEM March 2021
+
+The MHRA Stakeholder Engagement Meeting met virtually in March 2021 – minutes and presentations can be found below.
+
+MHRA StEM March 2021 Slides (PDF, 585KB, 6 pages)
+
+Minutes of the StEM March 2021 (PDF, 351KB, 6 pages)
+
+Remote Monitoring and SDV - Experience of EFGCP  (PDF, 570KB, 4 pages)
+
+Remote Monitoring and SDV - Experience of RQA (PDF, 473KB, 2 pages)
+
+Remote Monitoring and SDV - Experience of ACRO (PDF, 358KB, 3 pages)
+
+Use of eConsent in Clinical Trials - EUCROF and eClinical Forum (PDF, 1.42MB, 6 pages)
+
+
+MHRA StEM May 2019
+
+The MHRA Stakeholder Engagement Meeting met in May 2019 for the first time  – minutes and presentations can be found below.
+
+Artificial Intelligence and Experience in Clinical Trials - Oracle Health Sciences, Jonathan Palmer (PDF, 2.75MB, 23 pages)
+
+Challenges in Electronic Aspects of Clinical Trials (PDF, 226KB, 10 pages)
+
+Challenges in Developing Technologies (PDF, 192KB, 7 pages)
+
+HRA Update: Restructuring and Approvals (PDF, 549KB, 18 pages)
+
+Overview of the CWoW pilot from a Clinical Trials Unit (CTU) perspective (PDF, 226KB, 16 pages)
+
+Stakeholder Engagement Meeting Presentation May 2019  (PDF, 895KB, 20 pages)
+
+
+MHRA StEM May 2018
+
+The MHRA Stakeholder Engagement Meeting met in May 2018 – minutes and presentations can be found below.
+
+Digital Topics for StEM May 2018 (PDF, 159KB, 5 pages)
+
+Digital Technologies (PDF, 138KB, 5 pages)
+
+Stakeholder Engagement Meeting (StEM) (PDF, 284KB, 18 pages)
+
+Inspection Feedback for StEM May 2018 (PDF, 137KB, 10 pages)
+
+Presentation RQA Feedback (PDF, 181KB, 15 pages)
+
+Joint Statement on e-consent (PDF, 199KB, 13 pages)
+
+
+MHRA StEM November 2017
+
+The MHRA StEM met in November 2017 to discuss three areas pertinent to clinical trials legislation – the outcome of these discussions, and attendees of the meeting can be found below.
+
+MHRA StEM Nov 2017 Slides (PDF, 308KB, 13 pages)
+
+Minutes of the Stakeholder Engagement Meeting May 2018 (PDF, 47.2KB, 6 pages)
+
+
+MHRA StEM March 2016
+
+Minutes of the Stakeholder Engagement Meeting March 2016 (PDF, 179KB, 6 pages)
+
+MHRA update for the Stakeholder Engagement Meeting March 2016 (PDF, 276KB, 9 pages)
+
+Trial Master Files presentation for the Stakeholder Engagement Meeting March 2016 (PDF, 593KB, 18 pages)
+
+ePRO MHRA case study for the Stakeholder Engagement Meeting March 2016 (PDF, 418KB, 11 pages)
+
+Reference Safety Information for the Stakeholder Engagement Meeting March 2016 (PDF, 357KB, 14 pages)
+
+Dr David Connell infringement notice (PDF, 786KB, 2 pages)
+
+
+MHRA GCP Laboratories Stakeholder Engagement Meeting
+The GCP Labs Stakeholder Meeting meets on an annual basis to provide a forum for discussion between the MHRA GCP and Laboratories inspectorates and represented stakeholders on key topics relating to analysis of samples originating from clinical trials.
+
+May 2019
+
+Minutes of the Stakeholder Engagement Meeting May 2019 (PDF, 152KB, 7 pages)
+
+GCP inspection dossier clinical trial spreadsheet (MS Excel Spreadsheet, 75.3KB)
+
+European and UK law for GCP
+
+
+You can find the European Union directives, GCP and other guidance in Volume 10 of the rules governing medicinal products in the European Union
+
+The key UK legislation and guidance which covers GCP inspections includes:
+
+
+  The Medicines for Human Use (Clinical Trials) Regulations 2004
+  The Medicines for Human Use (Clinical Trials) Amendment Regulations 2006
+  The Medicines(Advisory Bodies)(No. 2)Regulations 2005
+  The Medicines for Human Use (Clinical Trials) Amendment (No.2) Regulations 2006
+  The Medicines for Human Use (Clinical Trials) Amendment (No.2) Regulations 2006
+  The Pharmacists and Pharmacy Technicians Order 2007
+  The Medicines for Human Use (Clinical Trials) and Blood Safety and Quality (Amendment) Regulations 2008
+  The Medicines for Human Use (Miscellaneous Amendments) Regulations 2009
+  The Medicines for Human Use (Advanced Therapy Medicinal Products and Miscellaneous Amendments) Regulations 2010
+  MHRA’s guidance for clinical trial sponsors and host organisations on electronic health records
+
+
+Contact
+
+For further information on GCP inspections, email info@mhra.gov.uk or ctdhelpline@mhra.gov.uk
+
+
+
+
+
+      
+        
+    Published 18 December 2014
+    Last updated 25 March 2021
+      + show all updates
+      
+        
+            
+              25 March 2021
+              MHRA StEM March 2021 minutes and slides uploaded
+            
+            
+              16 February 2021
+              Replaced the GCP inspection dossier clinical trial spreadsheet with a new version
+            
+            
+              31 July 2020
+              Uploaded new versions of the Guidance for the notification of serious breaches of GCP or the trial protocol, and the notification of serious breaches of GCP or the trial protocol form.
+            
+            
+              22 May 2020
+              GCP Dossier clinical trials spreadsheet update
+            
+            
+              9 October 2019
+              Added a single line confirming that, in a no-deal Brexit, the MHRA’s GxP risk-based inspection programmes will remain unchanged.
+            
+            
+              1 October 2019
+              We have updated the attachments for the MHRA GCP Laboratories Stakeholders Engagement Meeting
+            
+            
+              1 October 2019
+              We have added in meeting minutes and the presentation from the GCP Stakeholder Engagement Meeting
+            
+            
+              24 May 2019
+              Added minutes and presentations from the May 2019 Stakeholder Engagement meeting.
+            
+            
+              5 April 2019
+              Updated contact email address
+            
+            
+              18 February 2019
+              Update of notification of serious breaches of GCP or the trial protocol form
+            
+            
+              11 September 2018
+              Added a new section on Inspection Outcomes.
+            
+            
+              9 August 2018
+              Added third entry into table under Infringement Notice
+            
+            
+              17 May 2018
+              Updated Serious Breach reporting form.
+            
+            
+              6 December 2017
+              StEM November 2017 summary and slides attached
+            
+            
+              28 July 2017
+              Updated the serious breach notification form.
+            
+            
+              7 February 2017
+              Updated the link to the Good Clinical Practice Guide.
+            
+            
+              13 January 2017
+              New spreadsheet added for GCP inspection dossier clinical trials.
+            
+            
+              15 December 2016
+              Information on infringements
+            
+            
+              12 August 2016
+              Updated inspection checklist
+            
+            
+              21 June 2016
+              Added presentations and case studies from the GCP Stakeholder Engagement Meeting in March 2016.
+            
+            
+              19 May 2016
+              Added GCP Stakeholder Engagement Meeting minutes.
+            
+            
+              24 February 2016
+              Update to requirements for completing a compliance report in 2016.
+            
+            
+              18 December 2014
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Good clinical practice inspection metrics
+        Annual review of good clinical practice referrals
+        Good clinical practice: guidance and inspections
+        Clinical trials: how NHS trusts and health boards can maintain compliant electronic health record systems
+        MHRA phase I accreditation scheme
+
+  
+
+
+
+
+      
+
+    Detailed guidance
+
+  
+
+
+        Good manufacturing practice and good distribution practice
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Good clinical practice: guidance and inspections
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Good practice, inspections and enforcement
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

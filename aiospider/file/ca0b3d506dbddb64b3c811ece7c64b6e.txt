@@ -1,0 +1,36 @@
+The Defense Digital Service office in the Pentagon looks like no other. The door buzzes open to a bustle of activity and energy. It's no cube farm. Instead, it feels like a Silicon Valley startup environment. There's no foosball table or free breakfast cereal, but the place is set up for collaborative work.
+
+
+
+
+Launched in 2015, DDS is charged with bringing the best available technology in an efficient way into the DOD. DDS uses private-sector tools, approaches and talent to help the DOD solve high-impact challenges. Project results have included getting veterans benefits faster, finding bugs in government systems, and helping military families change stations more easily.Brett Goldstein is the newly-appointed DDS Director. A wiz from both the public and private sectors, Goldstein helped to develop OpenTable, a popular online restaurant reservation system, and he was the first chief data officer in the United States. He also boasts City of Chicago CIO, police commander, academic and venture capitalist on his resume."DDS was created to bring in the best and brightest, to help advance the mission to solve some of our hardest technical problems, and to make sure technology doesn't get in the way of our mission: national defense," says Goldstein. "I think one of the things we've learned in government is that technology needs to enable the mission."
+
+
+
+
+DDS has roughly 70 technologists, including 19 active-duty service personnel. The civilians tend to come from private-sector backgrounds and are on two-year term-limited appointments. Goldstein refers to his team, which includes engineers, designers and developers, as a "SWAT team of nerds" that reports to the secretary of defense."They come here, they work the mission for a few years, and then they go back," Goldstein said. "There's some beauty to that model, where you come in and you are a hard charger and passionate about the mission. They are super passionate about the mission. And they know there is an expiration. Then they return to the private sector or academia."
+
+
+
+
+Goldstein was selected and appointed by Acting Defense Secretary Patrick M. Shanahan to grow the work underway by the DDS team. "We are excited for Brett to be taking on this role to build and expand the DDS team and its work," Shanahan said. "His public- and private-sector knowledge, technical expertise and commitment to improving government through technology will be invaluable to a range of critical missions across the department."As an advisor to the secretary, Goldstein says DDS projects are positioned to complement and support the department's modernization priorities. Specifically, Goldstein is focusing on continuing to recruit top technical talent from the private sector along with supporting and empowering skilled technical personnel and service members within the department. Supporting data science, cybersecurity, and better technology platforms across the DOD will be among his early priorities at the department, Goldstein said.Goldstein takes pride in the team's ability to execute quickly. "When you look at our process, no one else has that ability," he said. "We can immediately go into development, produce something top-notch, and be able to show something real, in an amount of time you can't see throughout the DOD."
+
+
+
+
+DDS experts don't dwell in the office, either. They travel to where service members are to see how DDS can help use technology to address challenges. Goldstein said he's been to Afghanistan three times so far, and that the project pipeline for DDS originates directly through the critical needs of the services and combatant commands.He also said he's recently been visiting various commands as well, including U.S. Transportation Command, Army Cyber Command, U.S. Central Command, U.S. Special Operations Command, and U.S. Strategic Command as he works to further hone DDS priorities to have the biggest impact possible.Goldstein acknowledged that not everything can be taken on. He says that criteria for project selection include the potential for impact, sustainability, and long-term ownership within the department.
+
+
+
+
+Since launch, DDS has worked on a variety of projects. Its first project helped veterans get treatment faster by more quickly processing medical records. Flaws in Veterans Affairs software meant about 5% of health care requests were being denied. DDS engineers were able to correctly process 20,000 related documents and get veterans the care they needed, while at the same time addressing software flaws and reducing the time to transfer records from three months to just one day.Another project focused on strengthening the security of DOD systems. In the private sector, many of the largest companies use "bug bounty programs" or have their systems evaluated by vetted outsiders known as "ethical hackers" to find and report bugs — and then pay cash when flaws are discovered. The federal government had never done that before until DDS launched the "Hack the Pentagon" program in 2016. It was the first federal bug bounty program, and it has led to thousands of vulnerabilities reported in government systems.
+
+
+
+
+Yet another project is helping to ease stress for the roughly 450,000 military families that move each year. DDS has worked to help optimize and improve the Defense Personal Property System to help make those moves go smoother. DDS helped to reduce system latency rates, support more users and increase successful household moves.Looking forward, some near-term efforts under Goldstein will include expanding the DDS "Jyn" program that pairs cyber soldiers and other military tech talent with DOD experts on special projects; launching a pilot to help modernize and automate portions of the security clearance process; building out a new satellite office in Augusta, Georgia, near the Fort Gordon community; and continuing to advise on the JEDI cloud procurement.Goldstein, who recently took the DDS reins from its inaugural director, Chris Lynch, said he understands the importance of mission-driven work and how it resonates with technologists who want to make a difference."I met this team," he said, "and I realized we had this enormous talent here that was working the mission, and the concept had been proven, and now we had to take it to the next level. ... When I talked with [Shanahan], I realized he completely gets technology. It's top-of-mission for him. He has a focus on data and analytics, and he cares about this. And he wants strong, disruptive change in this space. Those were the tipping points for me."
+
+
+
+
+Goldstein says his goal is to support the secretary of defense in his focus on IT modernization, supporting military personnel, and the secretary's overall vision for the DOD. "I have amazing partners across the department, including in Shanahan," says Goldstein. "We have a critical mission. This is the most important job I will hold, and it's an honor to be able to service in that way."

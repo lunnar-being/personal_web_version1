@@ -1,0 +1,17 @@
+
+"When you look at the amount of data we pull from a test, let's just pick a [ground-based midcourse defense] test — terabytes of data," Navy Vice Adm. Jon A. Hill said during a presentation at the Space & Missile Defense Symposium in Huntsville, Alabama. "Are we assessing all that data? The answer is no."
+
+
+
+
+Hill said that following such a test, even one that has been by all measures successful, engineers might come back later, after looking at portions of the data that resulted from the experiment and find things that reveal important facts about what happened — things that wouldn’t otherwise be readily apparent."It's not unusual for one of our great engineers to come back later and say you know in this telemetry stream I found something really interesting here. This valve did not do what we thought it was going to do," Hill said.That's just one engineer looking at a portion of a stack of data that he couldn't possibly get through on his own. Processing all that information is a good task for artificial intelligence, Hill said.
+
+
+
+
+"With machine learning and artificial intelligence, you can go into that whole vast amount of data and you can start to see interesting attributes rise and we're seeing that now once we start to institute artificial intelligence and machine learning," Hill said.But in the world of missile defense, there's much more than just the testing and assessing of systems. There's also actual operations: the detection of threats, command and control of systems and engagement with a threat.Those areas can also be enhanced by artificial intelligence, Hill said, "and this is the challenge to industry."A big priority for MDA, Hill said, is making life easier for the operators of the complex systems used to protect the U.S. from missile threats. AI can help make their job easier, he said — and put their attention on things that matter.
+
+
+
+
+"The more artificial intelligence capability/machine learning that comes in to make the load easier — to get rid of some of these tedious tasks in the planning thing — that takes advantage of the brain of our sailors, our soldiers, our airmen, our guardians — that allows them to think about fighting the battle, not fighting the system," he said.Right now, Hill said, MDA is starting to look at places where AI can be used to detect, track and discriminate targets, conduct command and control operations, and engage targets."How does that translate into some of these major functions of the system? That's what we're going after now. You start to see areas where you can improve algorithms and how you do that detect-control-engage sequence," he said. "I'm pretty excited about this. But I want to get it into an area to where we can start having more discussions about how we take what is in now primarily in the science and technology world and port that right into [the] No. 1 priority in my mind: making the operator's life easier, so we can get weapons on target."

@@ -1,0 +1,50 @@
+
+
+Using machine learning to detect malign information efforts online
+Andrey Yalanskiy (Андрей Яланский)/Adobe Stock
+Researchers successfully developed and applied a machine learning model to a known Russian troll database to identify differences between authentic political supporters and Russian ‘trolls’ involved in online debates relating to the 2016 US presidential election.
+What is the issue?
+As social media is increasingly being used as people’s primary source for news online, there is a rising threat from the spread of malign and false information. With an absence of human editors in news feeds and a growth of artificial online activity, it has become easier for different actors to manipulate these social networks and the news that people consume. Finding an effective way to detect malign information online is an important part of addressing this issue.How did we help?
+RAND Europe was commissioned by the UK Ministry of Defence’s (MOD) Defence Science and Technology Laboratory, via its Defence and Security Accelerator (DASA), to develop a method for detecting the malign use of information online, and to identify approaches for building resilience to disinformation efforts.
+The study was contracted as part of DASA’s efforts to help the UK MOD develop its behavioural analytics capability. What did we find?
+Social media is increasingly being used by human and automated users to distort information, erode trust in democracy and incite extremist views
+Today, online communities are increasingly exposed to junk news, cyber bullying activity, terrorist propaganda, and political ‘crowd-turfing’ in the form of reputation boosting or smearing campaigns. These activities are undertaken by synthetic accounts and human users, including online trolls, political leaders, far-left or far–right individuals, national adversaries and extremist groups. Malign online activity may be aimed at:
+
+
+Large groups of individuals, such as voters, political audiences or young social media users
+
+
+Specific groups targeted by adversaries through social media, such as military personnel
+
+
+ Markets targeted to steal financial data or manipulate stock markets
+
+Our research produced a machine learning model that can successfully detect Russian trolls
+The research team successfully developed and applied a machine learning model in a known Russian troll database to identify differences between authentic political supporters and Russian ‘trolls’ involved in online debates relating to the 2016 US presidential election.
+Using text mining to extract specific search terms, the study team harvested tweets from 1.9 million user accounts, before using an algorithm to identify different online communities. The analysis identified 775 inauthentic Russian troll accounts masquerading as liberal and conservative supporters of Clinton and Trump, as well as 1.9 million authentic liberal and conservative supporters. The model was 87 per cent effective at discerning trolls from authentic supporters.
+
+/content/rand/randeurope/research/projects/using-machine-learning-to-detect-malign-information-efforts/jcr:content/par/wrapperdiv_730569090/teaserlist
+
+Expert insights from the authors
+
+Using AI to Tackle Disinformation OnlineRAND Europe analyst Linda Slapakova talks with RAND senior behavioral scientist William Marcellino about their study on human-machine detection of online-based malign information.
+
+
+What do we recommend?
+Our analysis offers four key takeaways for UK government actors to consider:
+
+
+To support counter-efforts, government entities should consider adopting publics-based analytics to help identify meta-communities and map out the rhetorical battlefields that malicious actors attempt to influence.
+
+
+	Using less powerful but interpretable shallow models would be an important first step in developing detection capacity and informing subsequent more powerful algorithms.
+
+
+ Linguistic stance technologies can detect rhetorical patterns across various topics and can powerfully enhance machine learning classification. This could be a useful tool for the UK government in countering foreign malign information campaigns.
+
+
+The public should be made aware of how trolls stoke discord on both sides of a controversy by focusing on emotive issues and using repeated rhetorical patterns.
+
+
+To trial the model’s portability, a promising next step could be to test our model in a new context such as the online Brexit debate or malign information efforts relating to COVID-19.
+

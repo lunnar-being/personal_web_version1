@@ -1,0 +1,871 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Glossary of terms: Ofsted statistics
+  
+
+  
+  
+  
+      
+  Explanation of terms used in Ofsted's official and national statistical releases.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Ofsted
+
+      
+      Published
+      24 June 2020
+      Last updated
+      
+        24 November 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+    
+      Applies to England
+
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Latest releases
+
+        
+        
+          Area SEND
+
+
+        
+        
+          Childcare providers and inspections
+
+        
+        
+          Children’s social care
+
+        
+        
+          Further education and skills
+
+        
+        
+          Initial teacher education
+
+        
+        
+          Non-association independent schools
+
+        
+        
+          State-funded schools
+
+        
+        
+          Using this glossary
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This glossary is for use with Ofsted’s official and national statistical releases. The main purpose is to help those accessing our statistics understand the terms used. It is split by type of release and is intended to give an overview of the terms, rather than a full technical description.
+
+
+Latest releases
+
+
+  Childcare providers and inspections as at 31 August 2021
+  State-funded schools inspections and outcomes as at 31 August 2021
+  Local authority and children’s homes in England inspections and outcomes – autumn 2021
+  Non-association independent schools inspections and outcomes in England: August 2021
+  Further education and skills inspections and outcomes as at 31 August 2021
+  Initial teacher education: inspections and outcomes as at 31 August 2021
+  Fostering in England 1 April 2020 to 31 March 2021
+  Children’s social care data in England 2021
+  Area SEND inspections and outcomes in England as at 31 March 2021
+  Non-association independent schools inspections and outcomes in England: August 2020
+
+
+All releases are available in the statistics collection.
+
+
+Area SEND
+
+
+Care Quality Commission
+The Care Quality Commission (CQC) is the independent regulator of health and adult social care in England. Ofsted and CQC jointly inspect local areas to see how well they fulfil their responsibilities for children and young people with special educational needs and/or disabilities (SEND).
+
+Clinical commissioning groups
+Clinical commissioning groups (CCGs) were created following the Health and Social Care Act in 2012. These are clinically-led statutory NHS bodies responsible for the planning and commissioning of health care services for their local area. A CCG’s geographical boundaries may be different to that of the local authority. As of 1 April 2021, there are 106 CCGs in England.
+
+Education, health and care plan
+An education, health and care (EHC) plan is a legal document for children and young people aged up to 25 who need more support than is available through special education needs (SEN) support. EHC plans identify educational, health and social needs and set out the additional support to meet those needs. EHC plans are issued and maintained by the local authority following a formal needs assessment.
+
+Local area
+The ‘local area’ is the geographical area of the local authority. This includes the local authority, CCGs, public health, NHS England for specialist services, early years settings, schools and further education providers. The responsibility of the local area for children and young people who have SEND extends to those who are residents of the local area but attend educational establishments or receive services outside the local authority’s boundaries.
+
+Local area leaders
+The term ‘leaders’ refers to those responsible for the strategic planning, commissioning, management, delivery and evaluation of services to children and young people with SEND.
+
+SEN support
+SEN support is extra or different help given to a pupil/student from that which is routinely provided as part of the school’s usual curriculum. This may include the education setting receiving advice or support from outside specialists.
+
+Childcare providers and inspections
+
+Childcare providers
+Childcare providers care for at least one individual child for a total of more than 2 hours in any one day. This is not necessarily a continuous period. They must register on the CCR to care for children under the age of 8, although there may be some exceptions to this. They can register on the VCR to care for older children.
+
+Childcare providers on domestic and non-domestic premises
+If 4 or more people look after children at any one time in someone’s home, they are providing childcare on domestic premises, not childminding.
+
+Childcare providers on non-domestic premises are people or organisations providing care for individual children in premises that are not someone’s home. These premises can range from converted houses to purpose-built nurseries.
+
+Childcare Register (CR)
+
+The CR is for providers that care for children from birth to 18 years. It has 2 parts:
+
+
+  the compulsory part of the Childcare Register (CCR) – for providers caring for children from 1 September after the child’s fifth birthday up until their eighth birthday
+  the voluntary part of the Childcare Register (VCR) – for providers for whom registration is not compulsory, for example nannies, or providers that care for children aged 8 and over
+
+
+Providers that are registered on either part of the Childcare Register do not need to submit their places information to Ofsted.
+
+For providers registered on the Childcare Register, Ofsted inspects a sample of 10% of active providers per year.
+
+Childminders
+A childminder is a person who is registered to look after one or more children, to whom they are not related, for reward. Childminders work on domestic premises alongside no more than 2 other childminders or assistants. They must register if they care for children under the age of 8 and can choose to register if they care for older children. They care for:
+
+
+  children on domestic premises that are not usually the home of one of the children unless they care for children from more than 2 families, wholly or mainly in the homes of the families
+  at least one individual child for a total of more than 2 hours in any day (not necessarily a continuous period)
+
+
+Childminder agencies
+Childminder agencies were introduced in September 2014 as an alternative registration option for childminders. Childminders who register with an agency no longer need to register or be inspected by Ofsted, although the agency itself will receive an inspection.
+
+Childminder agencies are only eligible for inspection by Ofsted when they have childminders on roll. Childminder agencies have the responsibility of inspecting the childminders who are registered with them.
+
+Early years foundation stage (EYFS)
+The EYFS is the statutory framework for the early education and care of children from birth to 31 August following their fifth birthday.
+
+Early Years Register (EYR)
+The EYR is for providers that care for children in the early years age group, from birth to 31 August following their fifth birthday. Registration is compulsory for these providers and they must meet the requirements of the EYFS.
+
+Home childcarers
+Home childcarers are usually nannies who care for children of any age up to their 18th birthday wholly or mainly in the child’s own home, and care for children from no more than 2 families. They are not required to register with Ofsted, though they may choose to do so on the voluntary part of the Childcare Register.
+
+Inspection windows
+Until recently, we inspected childcare providers on a 4-year inspection cycle. The most recent inspection cycle ran from 1 August 2016 to 31 July 2020. However, due to the impact of COVID-19 (coronavirus), we paused our routine inspections in mid-March 2020.
+
+As we resume full EYR inspections from May 2021, we will no longer be inspecting providers on a 4-year cycle. All early years providers will have their own inspection window based on the date and judgement of their last inspection. We will look to inspect all providers within a 6-year window. However, we will continue to re-inspect providers judged ‘requires improvement’ and ‘inadequate’ within 12 and 6 months respectively. We will still aim to inspect all new childcare providers within 30 months of their registration date.
+
+Joiners and leavers
+Joiners are childcare providers that have registered with Ofsted during this reporting period. Most of these are new registrations, but Tables 3 and 4 and Chart 1 within the ‘Childcare providers and inspections charts and tables’ document also include providers with re-activated registrations and those that have changed provider type or register. At local authority or regional level, this may also include providers that have relocated into a new geographical area.
+
+Leavers are mostly childcare providers that have left Ofsted during the reporting period. Most of these are resignations, but some are also providers that have had their registration cancelled or have changed provider type or register. At local authority or regional level, this may also include providers that have relocated out of a geographical area.
+
+No children on roll (NCOR)
+If there are no children present on the day of the provider’s inspection, they receive an NCOR inspection. The inspector will make a judgement on the ‘overall quality and standards of the early years provision’, with 3 possible outcomes:
+
+
+  met
+  not met – actions
+  not met – enforcement action
+
+
+Number of places
+Registered places are the number of children that may attend the provision at any one time. Registered places are not the number of places occupied, nor the number of children who may benefit from receiving places through providers offering sessions at different times of the day. Place numbers are only collected for providers on the EYR. Provider type averages are used to estimate the number of places for a very small number of providers whose place numbers are not available at the time of the analysis. There may also be small discrepancies in totals due to rounding.
+
+Out-of-school day care
+Providers (including childminders) registered on the EYR but that only provide care exclusively for children at the beginning and end of the school day or in holiday periods do not need to meet the learning and development requirements of the EYFS. The inspector will make a judgement only on the ‘overall effectiveness: quality and standards of the early years provision’ with 3 possible outcomes:
+
+
+  met
+  not met – with actions
+  not met – with enforcement
+
+
+Children’s social care
+
+Adoption agencies
+
+The focus of all adoption agencies is on placing children successfully into adoptive families. These are families who the agency recruits, assesses, prepares and supports, so that they will meet the children’s needs and enable them to develop and achieve throughout their lives. The services maintained by local authorities are described in section 3(1) of the Adoption and Children Act 2002. Local authorities place children with adoptive families recruited and approved by themselves, by other local authorities or by voluntary adoption agencies that must register with Ofsted. Adoption agencies may also provide birth records, counselling and intermediary services to adoptees and birth relatives. There are 3 branches of voluntary adoption agencies in Wales that Ofsted inspects because their head offices are in England. These are not included in our official and national statistics.
+
+Adoption support agencies
+
+Adoption support agencies are defined by section 8 of the Adoption and Children Act 2002 and provide services to anyone involved in the adoption process and are registered with Ofsted. This includes counselling and help for children and adults to gain information about their adoption or to trace birth relatives. Adoption support agencies can be either organisations or individuals. Local authorities may contract an adoption support agency to provide support services.
+
+Applications to become a foster carer
+
+Foster carer applications are included in Ofsted’s official statistics if the applicant has started stage 1, as outlined in the statutory guidance.
+
+Approved foster carers
+
+These are individual foster carers who are currently approved by a fostering service.
+
+Area for priority action
+
+Priority actions may result from particular or localised failings to protect or care for children as well as from systemic failures or deficits. An area for priority action is either:
+
+
+  an area of serious weakness that is placing children at risk of inadequate protection and significant harm
+  an unnecessary delay in identifying permanent solutions for children in care that results in their welfare not being safeguarded and promoted
+
+
+Boarding schools
+
+The majority of boarding schools are independent and belong to associations that are members of the Independent Schools Council. This has its own inspectorate for both education and welfare in these schools. Therefore, Ofsted does not inspect these schools and so they are not included in the data. The remainder are either:
+
+
+  maintained boarding schools, where both education and the welfare of boarders are the subject of Ofsted inspection
+  independent boarding schools, which are members of the Bridge Schools Inspectorate or Schools Inspection Service and that receive their education inspections by these organisations and their welfare inspections by Ofsted
+
+
+Child in need (section 17)
+
+Section 17 of the Children Act 1989 refers to a child in need. This is any child under the age of 18 who:
+
+
+  needs local authority services to maintain a reasonable standard of health or development
+  needs local authority services to prevent significant or further harm to health or development
+  is disabled
+
+
+Child looked after (section 20)
+
+Section 20 of the Children Act 1989 refers to a child who is looked after. This is with the consent of those with parental responsibility for the child. It is also known as a voluntary agreement. For short breaks, the child is only looked after while attending the short-break provision.
+
+Children Act 1989
+
+The Children Act 1989 sets out what local authorities, courts, parents and other agencies in the UK should do to safeguard children.
+
+Children’s homes
+
+A children’s home is defined in section 1 of the Care Standards Act 2000. It is an establishment that provides care and accommodation wholly or mainly for children. Children’s homes vary in size and nature. They fulfil a range of purposes designed to meet the different needs of those children and young people who are assessed as needing a residential care placement. Some homes, for example, provide short breaks, which are needed to help support children and their family. Some residential special schools are registered as children’s homes because boarders are resident for more than 295 days per year.
+
+Complaints not upheld
+
+This only includes those complaints where no action on any aspect was necessary.
+
+Continued monitoring of investigations into allegations of abuse
+
+Under continued monitoring, an LA or IFA agency monitors an accused foster carer for a specified time. During this time, the foster carer may receive additional training, such as de-escalation or behaviour management. Once the specified time has elapsed, the agency reviews the outcome and either refers the case to their fostering panel (if concerns remain) or the case is resolved.
+
+Exemption
+
+An exemption is required in the specific situation in which a foster carer is asked to look after more than 3 children who are not all part of a sibling group, under Schedule 7(2), section 63(12), of the Children Act 1989.
+
+Family and friends foster care
+
+Foster care provided for a looked after child by a connected person, relative or friend who is approved by a fostering service to foster that particular child. This is also known as kinship care or relative care.
+
+Focused visits
+
+Focused visits are for inspectors to evaluate an aspect of service, a theme or the experiences of a cohort of children within a local authority. This type of visit does not result in a judgement. Instead, the local authority is issued with a letter setting out narrative findings about strengths and areas to improve. This is also published on the Ofsted website.
+
+Fostering agencies
+
+Local authority fostering services are defined by section 4 of the Care Standards Act 2000. Local authority fostering agencies and independent fostering agencies recruit, prepare, assess, train and support foster carers. Independent fostering agencies (IFAs) are private companies or charities. They are registered with Ofsted and provide placements to children and young people with foster carers approved by them. IFAs work closely with local authorities to deliver these placements.
+
+Foster carer initial enquiries
+
+Initial enquiries about being a foster carer might include:
+
+
+  booking onto or attending an information session
+  requesting information through email, post or phone
+  requesting or receiving a home visit
+  requesting an application form that they have not yet submitted
+  requesting information about a type of foster care not provided by your service
+
+
+Foster placements
+
+Foster placements are arrangements made for children to be looked after to live with foster carers.
+
+Foster places
+
+Foster places are the total number of places that foster carers are approved to provide, whether occupied or not. It relates to the capacity of foster care in England.
+
+Fostering for adoption
+
+‘Fostering for adoption’ is a term used for babies and children who are in local authority care and adoption is the likely plan for them, but who still have a chance of being reunited with their birth family.
+
+’Front door’ focused visit
+
+A ‘front door’ focused visit is the service that receives contacts and referrals where decisions are made about:
+
+
+  child protection enquiries – such as strategy discussions or section 47 enquires
+  emergency action – liaison with police to use powers of protection or applications for emergency protection order
+  child in need assessments
+  decisions to accommodate
+  step-up from and step-down to early help
+  no further action/sign-posting
+
+
+Further education colleges with residential accommodation
+
+The care provision of further education colleges that provide, or arrange, residential accommodation for one or more students under the age of 18 years. Ofsted inspects these colleges under section 87 of the Children Act 1989 as amended by the Care Standards Act 2000. If a college is registered as a care home, the Care Quality Commission inspects the residential provision rather than Ofsted.
+
+Joiners
+
+This is the number of social care providers that have registered with Ofsted in the period covered in the relevant release.
+
+Leavers
+
+This is the number of social care providers that have de-registered with Ofsted in the period covered in the relevant release.
+
+Linked education URN
+
+
+This is the education unique reference number (URN) of a school, or school registered as a children’s home. The school’s education inspection report can be found under on the Ofsted website.
+
+Monitoring visits
+
+We carry out monitoring visits on a regular basis to local authorities judged inadequate to support them in improving their services for children. The visits are bespoke to each local authority, depending on the local authority’s areas for improvement and the stage that they are at on their improvement journeys.
+
+Multi-dimensional treatment foster care (under the Department for Education scheme)
+
+Multi-dimensional treatment foster care is a highly structured behavioural programme. It provides wraparound multi-professional support and includes daily communication between the carers, team and school. The key elements of the intervention are:
+
+
+  the provision of a consistent reinforcing environment in which young people are mentored and encouraged
+  provision of clearly specified boundaries to behaviour and specified consequences that can be delivered in a teaching-oriented manner
+  close supervision of young people’s activities and whereabouts
+  diversion from anti-social peers and help to develop positive social skills that will help young people form relationships with a positive peer group
+
+
+No longer looked after
+
+This refers to children who have ceased to be looked after in care. They may have returned to live with their parents or other family member, become subject to a special guardianship order or been adopted.
+
+‘Not available’ places
+
+These are foster care places in which no children are currently placed, but which are ‘not available’ for a child to be placed in. Among other reasons, this might be because:
+
+
+  a household is approved to provide additional places only to siblings and there are no siblings in placement
+  a former foster child is still living with the family under ‘staying put’ arrangements after turning 18
+  any placed children have been removed, or placements cannot be made, after an allegation against the carer(s)
+
+
+Places
+
+The term ‘places’ used in our statistical reports refers to the number of places that the social care provider has capacity for. This number usually will not, therefore, be the same as the actual number of children who are receiving services from the provider. Ofsted holds data relating to places for:
+
+
+  children’s homes
+  secure children’s homes
+  residential special schools
+  residential family centres
+  boarding schools
+  further education colleges
+
+
+For some of these providers, Ofsted does not hold data relating to places. If this is the case, we have estimated the number of places. For all other provision types, and aggregated provision types, places data is not available.
+
+Physical restraint (in foster care)
+
+Stopping a foster child or young person from doing something they appear to want to do by physical means. For example, the foster carer may move the child or young person or block their movement to stop them hurting themselves or others.
+
+Primary placement offer
+
+This is a term used for fostering households that may be approved to offer multiple types of foster care. The primary placement offer is the usual or main type of care offered by each household.
+
+Providers
+
+The institutions, organisations or agencies that provide services to the relevant children and young people.
+
+Registered manager
+
+Each registered social care provider must appoint a registered manager, who must register with Ofsted and provide evidence of their suitability for the role. The registered manager usually manages a single children’s home.
+
+Remained in progress applications
+
+Any fostering applications that are still in progress at the end of a specified collection period. These either have not reached the decision stage or have been stopped by the applicant.
+
+Remand foster care
+
+This is foster care provided for children who are:
+
+
+  on remand
+  committed for trial or sentence under the Children and Young Persons Act (CYPA) 2008 or Crime and Disorder Act (CDA) 1998
+
+  detained in local authority accommodation under Police and Criminal Evidence Act (PACE) 1984
+
+  subject to a supervision order with residence requirement
+
+
+Residential family centres
+
+Residential family centres are defined in section 4(2) of the Care Standards Act 2000 as establishments at which:
+
+a) accommodation is provided for children and their parents
+b) the parents’ capacity to respond to the children’s needs and to safeguard their welfare is monitored and assessed
+c) the parents are given such advice, guidance and counselling is considered necessary
+
+Residential holiday schemes for disabled children
+
+A residential holiday scheme for disabled children provides care and accommodation wholly or mainly for disabled children for a specified period for the purposes of a holiday, or for recreational, sporting, cultural or educational purposes. Ofsted inspects these schemes under the Care Standards Act 2000, Part 2 (Extension of the Application of Part 2 to Holiday Schemes for Disabled Children) (England) Regulations 2013.
+
+Residential special schools
+
+Residential special schools are defined in section 59 of the Safeguarding Vulnerable Groups Act 2006. They vary in size and nature. The sector includes large non-maintained special schools, which make provision for very specific needs and take children as full boarders from all over the country, to smaller more local providers, which cater for children with a range of different special needs and disabilities who may be resident at the school only during the week. There are also a small number of independent residential special schools that also tend to cater for children with very specialist needs.
+
+Residential special schools registered as children’s homes
+
+Residential special schools registered as children’s homes provide education and accommodation to children resident for more than 295 days per year, including children with very specialist needs.
+
+Responsible individual
+
+Each registered social care provider must appoint a responsible individual, who must register with Ofsted and provide evidence of their suitability for the role. The responsible individual supervises the management of the home, or homes, for which they are nominated.
+
+Section 47
+
+Refers to section 47 of the Children Act 1989 and relates to the local authority’s duty to investigate child protection concerns.
+
+Sector
+
+‘Sector’ refers to the type of provider that owns the children’s social care provision, such as:
+
+
+  academy: these are publicly funded, trust-run independent schools
+  health authority: these are NHS Trust-run
+  local authority: these are public bodies responsible for the children’s social care provision
+  private: these are for-profit organisations mostly with limited company status. These can also be individually owned children’s social care provisions and run for profit
+  voluntary: these are mostly not-for-profit organisations, mainly with charitable status, and individually owned provisions run on a not-for-profit basis
+
+
+Secure children’s homes
+
+Secure children’s homes are defined by section 25 of the Children Act 1989. They accommodate children and young people who are remanded or have been sentenced for committing a criminal offence. They also accommodate children and young people who are placed there by a court because their behaviour is deemed to present a significant and immediate threat to their safety or the safety of others. Ofsted carries out inspection in accordance with the Care Standards Act 2000. Inspectors make judgements in reports in relation to the outcomes for children set out in the Children Act 2004. The criteria are the same as those used to inspect non-secure children’s homes.
+
+Secure training centres
+
+Secure training centres are defined by section 43(1) (d) of the Prison Act 1952, as amended by section 6(2) of the Criminal Justice and Public Order Act 1994. Ofsted has the power to inspect under section 146 of the Education and Inspections Act 2006 and inspects both the care and educational provision for children in 3 secure training centres. They accommodate young people between the ages of 12 and 17 who have been remanded or sentenced by the courts. The centres are under contract to the Youth Justice Board, which monitors their compliance with requirements. Ofsted does not regulate secure training centres but has an agreement with the Youth Justice Board to inspect care twice a year and education once a year.
+
+Short-break-only homes
+
+Short-break-only homes provide breaks for carers of disabled children to support them to continue to care for their children at home. Homes often provide these breaks as part of a wider package of support. They provide care to children in need (as directed under section 17 of the Children Act 1989) and children looked after/in care (as directed under section 20 of the Children Act 1989). Unlike in other children’s homes, most of the children are resident for a few agreed days at a time, though some children can stay longer. Most of the year, the children in these homes live with their parents.
+
+Statement of purpose
+
+A statement of purpose is required under The Children’s Homes (England) Regulations 2015. It details the care that the home can offer. It is made available to relevant parties and also through the home’s website.
+
+‘Staying put’ arrangements
+
+This is a duty on local authorities in England as part of the Children and Families Act 2014. This requires local authorities in England to facilitate, monitor and support staying put arrangements for fostered young people until they reach the age of 21, if this is what they and their foster carers want, unless the local authority considers that the staying put arrangement is not consistent with the welfare of the young person.
+
+The Department for Education has further guidance on staying put arrangements. Further information on staying put arrangements is available from the National Children’s Bureau.
+
+Special guardianship order
+
+Special guardianship is an order made by the family court that places a child or young person to live with someone other than their parents on a long-term basis. Those who a child is placed will become the child’s special guardians.
+
+Training, support and development (TSD) standards
+
+This is post-approval training for foster carers, including evidence workbooks. The evidence workbooks, published by the Department for Education, contain certificates of completion that fostering services signed off once foster carers have successfully evidenced meeting all the outcomes in the TDS standards.
+
+Unplanned endings
+
+An ‘unplanned ending’ is a fostering placement that has ended earlier than the original planned end date, for example, because the foster carer gave notice to terminate the placement. This applies even if a new plan was in place when the child moved placement.
+
+‘Unplanned endings within 24 hours’ are placements that end within 24 hours of a triggering event, regardless of whether the placement has only just started or if the child has been in the placement long term.
+
+Withdrawn foster carer applications
+
+These are applications that are either stopped by the applicant or by the fostering service deciding that the applicant is not suitable before the application reaches the fostering panel.
+
+White ethnic minorities
+
+These include carers or children from:
+
+
+  White Irish
+  White Other
+  White Irish Traveller
+  White Roma/Gypsy/Traveller backgrounds
+
+
+Further education and skills
+
+16 to 19 academies
+
+These are state-funded, non-fee-paying schools, independent of local authorities, that cater for pupils aged 16 to 19.
+
+Adult community education providers
+
+Adult community education providers include local authorities and institutes for adult learning. The provider type institute for adult learning was previously known as specialist designated institution. Their provision is diverse in character and aims to meet the needs and interests of a wide range of communities. Courses include:
+
+
+  those that lead to a qualification
+  programmes leading to qualifications while in employment, such as apprenticeships
+  provision for informal adult learning
+  provision for social and personal development
+
+
+Dance and drama colleges
+
+Colleges that specialise in delivering dance and drama courses.
+
+General further education colleges
+
+General further education colleges offer a range of education and training opportunities for learners aged from 14 years upwards, including adults. They include tertiary colleges, which specialise in land-based education and training.
+
+Higher education institutions
+
+If higher education institutions, such as universities, offer further education courses and/or apprenticeships, these are subject to Ofsted inspections of this provision. We do not judge the provider as a whole.
+
+Independent learning providers (including employer providers)
+
+Independent learning providers are companies and organisations that provide government-funded education. The category includes employer providers that only offer government-funded training to their own employees.
+
+Independent specialist colleges
+
+Independent specialist colleges provide education and training for students with complex learning difficulties and/or disabilities, whose learning needs cannot be met by their local college or provider.
+
+Prisons and young offender institutions
+
+We inspect prisons and young offender institutions in partnership with Her Majesty’s Inspectorate of Prisons (HMIP). Ofsted inspectors evaluate the quality of education, skills and work in prisons and young offender institutions. You can find inspection reports on the HMIP website.
+
+Sixth-form colleges
+
+A sixth-form college is an educational institution where students aged 16 to 18 typically study for advanced school-level qualifications, such as A levels, or school-level qualifications, such as GCSEs.
+
+Specialist further education colleges
+
+Specialist further education colleges are colleges that specialise in agricultural, horticultural or art, design and technology courses.
+
+National Careers Service contractors are no longer inspected by Ofsted since the introduction of the education inspection framework in September 2019. The National Careers Service provides information, advice and guidance for those aged 13 and over across England. Data on inspection outcomes for this provider group is still included in historical datasets.
+
+Initial teacher education
+
+Age-phase partnership
+Refers to the age phase of ITE offered by a particular partnership. A single partnership may be inspected and receive judgements for up to 4 different age-phase partnerships: early years, primary, secondary and further education.
+
+Early years teacher status (EYTS)
+The award that indicates whether an individual is trained to deliver the early years foundation stage.
+
+Former trainee
+This term is used to describe recently trained teachers in further education colleges, further education and skills settings and early years settings.
+
+Further education training
+Training for those entering the further education and skills sector.
+
+Higher education institution (HEI)
+A university or university college that provides undergraduate or postgraduate teacher training. An HEI usually offers an academic qualification that includes qualified teacher status.
+
+Initial teacher education (ITE)
+All programmes of teacher training that lead to qualified teacher status for state-funded schools or publicly funded teacher training for the further education sector.
+
+Inspection judgements
+Inspectors make judgements using a 4-point scale:
+
+
+  grade 1 – outstanding
+  grade 2 – good
+  grade 3 – requires improvement (‘satisfactory’ under previous frameworks)
+  grade 4 – inadequate
+
+
+There are also 2 other judgements that inspectors can make, based on a partnership’s circumstances:
+
+
+  grade 0 – too few trainees to form a judgement
+  grade 9 – not applicable, insufficient evidence or did not receive a judgement
+
+
+Primary/secondary judgements
+When a partnership offering both primary and secondary ITE includes a small number of trainees, Ofsted may inspect both phases of ITE simultaneously and produce one judgement on both the primary and secondary training. This is different from what happens in larger partnerships where judgements will be made separately for primary and for secondary training.
+
+Primary training
+Training that prepares trainees to teach in at least 2 key stages of the primary age phase (pupils aged 11 years and under).
+
+Qualified teacher status (QTS)
+The accreditation that enables newly qualified trainees to teach in state-maintained and special schools in England and Wales.
+
+School-centred initial teacher training (SCITT)
+A consortium of schools, usually in a local area or region, providing graduate training for teachers.
+
+Secondary training
+Training that prepares trainees to teach in at least 2 key stages of the secondary age phase (students aged 11 to 18 or 14 to 19 years).
+
+Teach First
+A charity set up to recruit graduates and train them to teach in deprived areas.
+
+Non-association independent schools
+
+Emergency inspections
+
+We carry out emergency inspections of independent schools under section 109(1) and (2) of the Education and Skills Act 2008. We carry these out at the request of the Secretary of State for a variety of reasons, for example, as a result of a complaint or concern made to the DfE. We will use the issue that triggered the inspection as the main line of enquiry for the inspection, and we will report to the DfE whether the school meets the independent school standards relevant to the issue. We carry out emergency inspections at no notice and we have published reports of these inspections since summer 2018.
+
+
+We do not investigate individual complaints. Rather, the focus of inspection is any issues that impact the whole school that the complaint may give rise to.
+
+
+Independent schools
+
+Independent schools are defined by section 463 of the Education Act 1996, as amended. In this Act, an independent school means any school that is not maintained by a local authority non-maintained special school and at which full-time education is provided for either:
+
+
+  5 or more pupils of compulsory school age
+  at least 1 pupil of that age who has an EHC plan, a statement under section 324 or an individual development plan maintained for them, or who is looked after by a local authority (within the meaning of section 22 of the Children Act 1989)
+
+
+It is immaterial if full-time education is also provided at the school for pupils under or over compulsory school age (this definition of ‘independent school’ forms part of the definition of ‘an independent educational institution’ for the purpose of the 2008 Act.)
+
+The DfE’s policy position with respect to full time education is contained within Part A of the departmental advice ‘Registration of independent schools’.
+
+There are around 2,420 independent schools in England. We only inspect the educational provision in independent schools that are not members of an independent schools association, referred to as non-association independent schools. The inspectorate approved by the Secretary of State, the Independent Schools Inspectorate, inspects schools that are members of an independent schools association. All inspections are carried out at the request of the Secretary of State for Education. The DfE is the registration authority for all independent schools.
+
+Integrated inspections
+
+When the inspection of educational provision in non-association independent boarding or residential special schools is due at the same time as the welfare inspection, we combine these into an integrated inspection of the whole school. We carry out inspections of welfare provision under the Care Standards Act 2000 having regard to the national minimum standards for boarding schools or residential special schools, as appropriate.
+
+Material change inspections
+
+Outside normal inspection cycles, we carry out material change inspections of registered independent schools at the request of the Secretary of State, out of the normal inspection cycle, when the school wishes to make a material change to their premises, intake or age range, or to the provision they make for disabled pupils and those with special educational needs, or there is a change to the proprietor. These inspections are carried out under section 103 of the Education and Skills Act 2008.
+
+Inspectors will consider the implications of the material change and report to the Secretary of State whether the school is likely to meet the relevant independent school standards, if the material change is implemented. The school cannot implement the proposed change unless the Secretary of State grants permission.
+
+Pre-registration inspections
+
+The Secretary of State is the registration authority for independent schools in England and maintains a register of independent schools. When a proprietor has made an application for registration of an independent school, the Secretary of State must notify Her Majesty’s Chief Inspector (HMCI), who must then inspect the school. The purpose of the inspection is to report to the registration authority on the extent to which the school would likely meet the independent school standards if the school were to be registered. We carry out these inspections under section 99 of the Education and Skills Act 2008.
+
+When a proprietor makes an application for a new boarding or residential special school, we make an integrated pre-registration inspection by both an education and a social care inspector.
+
+Progress monitoring inspections
+
+We carry out progress monitoring inspections at the request of the Secretary of State to check the progress made by independent schools to address weaknesses identified at their last inspection. We carry out these inspections under sections 109(1) and (2) of the Education and Skills Act 2008.
+
+The Secretary of State issues schools identified as having weaknesses with a notice. Schools must submit an action plan to the Secretary of State setting out the steps they will take to address their weaknesses and meet the relevant independent school standards and/or national minimum standards, when relevant. Action plans must specify the timescale within which the steps will be taken.
+
+In progress monitoring inspections, inspectors assess and report on the amount of progress schools have made with implementing their action plan. They will check whether the previously unmet independent school standards or national minimum standards are now met.
+
+Standard inspections
+
+We carry out standard inspections of independent schools under section 109(1) and (2) of the Education and Skills Act 2008. We will report to the DfE on the extent to which the school complies with the independent school standards and will also make evaluative judgements about the quality of education at the school under the education inspection framework. We will normally contact the school by telephone to announce the inspection around lunchtime on the day before the inspection is due to start.
+
+State-funded schools
+
+Academies
+Academies are publicly funded independent schools. Academies do not have to follow the national curriculum and can set their own term times. They still have to follow the same rules on admissions, special educational needs and exclusions as other state schools.
+
+Academies get money directly from the government, not the local authority. They are run by an academy trust, which employs the staff. Some academies have sponsors such as businesses, universities, other schools, faith groups or voluntary groups. Sponsors are responsible for improving the performance of their schools.
+
+Academies include converter academies, sponsor-led academies, free schools, university technical colleges and studio schools.
+
+Academy converters
+Academy converters are schools that have opted to become academies. Most of these were good or outstanding local authority-maintained schools before they became an academy.
+
+Academy converters retain their latest inspection grade, even if the most recent inspection was of the predecessor school.
+
+Free schools
+Free schools are funded by the government and are not run by the local authority. They are set up on a not-for-profit basis by charities, universities, and community and faith groups, among others.
+
+Free schools are ‘all-ability’ schools, so cannot use academic selection processes like a grammar school. They can set their own pay and conditions for staff and change the length of school terms and the school day. Free schools do not have to follow the national curriculum.
+
+Local authority-maintained schools
+Maintained schools are funded by the government and run by the local authority. They must follow the national curriculum.
+
+Sponsor-led academies
+Sponsor-led academies are academies that have sponsors such as businesses, universities, other schools, faith groups or voluntary groups. Sponsors are responsible for improving the performance of their schools.
+
+Using this glossary
+
+How to search
+
+
+Click on Ctrl + F on a Windows laptop or Command + F on a Mac
+
+
+This will open a search box in the top right-hand corner of the page. Type the word you are looking for in the search bar and press enter.
+
+Your browser will highlight the word, usually in yellow, wherever it appears on the page. Press enter to move to the next place it appears.
+
+
+
+
+
+      
+        
+    Published 24 June 2020
+    Last updated 24 November 2021
+      + show all updates
+      
+        
+            
+              24 November 2021
+              Updated the non-association independent schools terms and added a link to the latest release.
+            
+            
+              8 July 2021
+              Added 'short-break-only homes' to the children's social care section of the glossary and linked to the 'Children’s social care data in England 2021' release.
+            
+            
+              30 June 2021
+              Updated the childcare providers and inspections glossary terms for the latest childcare providers and inspections as at 31 March 2021 release.
+            
+            
+              24 June 2021
+              Updated the further education and skills glossary terms for the latest further education and skills inspections and outcomes as at 28 February 2021 release.
+            
+            
+              7 May 2021
+              Added a new section covering area SEND (special educational needs and/or disabilities) terms.
+            
+            
+              12 November 2020
+              Updated the children's social care glossary terms for the latest fostering in England 1 April 2019 to 31 March 2020 release.
+            
+            
+              27 August 2020
+              Updated the glossary terms for the latest initial teacher education inspections and outcomes as at 30 June 2020 release.
+            
+            
+              7 July 2020
+              Updated the children's social care glossary and added a link to the latest releases.
+            
+            
+              25 June 2020
+              Added a link to the latest releases for the further education and skills inspections and outcomes release.
+            
+            
+              24 June 2020
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Inspection and performance of further education providers
+        Inspection and performance of schools
+        Childcare and early years
+        Inspection of children's social care providers
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

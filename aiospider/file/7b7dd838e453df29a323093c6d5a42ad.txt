@@ -1,0 +1,96 @@
+    
+
+
+
+When the Centers for Medicare & Medicaid Services (CMS) changed the methodology for calculating Medicare Advantage (MA) quality scores in May 2020, it meant customer-experience-related metrics would determine 57 percent of overall Stars ratings (up 25 percentage points) by 2023.
+
+
+ MA plans have long been accountable for quality performance, with roughly $15.1 billion in Stars-linked incentives creating a performance imperative. Excellent customer experiences will be even more critical moving forward. An analytics-driven approach to customer experience redesign could ensure Stars performance, while potentially driving growth for plans. Additionally, it could materially improving seniors’ experience with healthcare.Medicare Advantage continues to grow robustlyMA is the fastest-growing line of business for many health plans, with enrollment growth of around 8 percent per year since 2014. It is expected to reach around 34 million lives covered by 2023, an expected growth rate of 11 percent per year.
+
+
+MA plan economics are directly impacted by Stars, the CMS quality assessment program. Every year, CMS assigns Star ratings to MA plans to indicate their quality relative to other plans. Plans awarded 4 or more Stars earn a 5 percent bonus on CMS payment benchmarks, as well as higher rebates to use toward richer supplemental benefits for members. We estimate that MA plans in aggregate received around $12.2 billion in Stars-related payments in 2020, while leaving around $2.9 billion on the table.
+
+
+ In addition, Stars ratings also impact a plan’s growth and retention, as the ratings serve as a differentiator for consumers choosing a plan.Stars reflect plan performance on more than 40 quality measures, including customer experience metrics, measures of member health, and indicators of effective preventative medicine. Although customer experience measures have been a component of Stars for years, health plans have not been as successful in improving their customer experience as other industries.In these other industries, business leaders consider customer experience enhancement to be a top priority. Seventy-five percent of business executives report that customer experience enhancement has been a priority for the last three years, and will continue to be for the next three years.
+
+
+ Consumer technology companies have parlayed an obsession with the customer into trillion-dollar market capitalizations and raised the bar for customer experience in other industries. When consumers are asked which companies healthcare organizations should emulate, they cite tech giants such as Amazon, Google, and Apple.
+
+
+ Health plans have struggled to meet this bar, and lagged behind other industries in customer experience. In 2018, health plans had a net promoter score (NPS)—a widely used measure of customer satisfaction—of 19 percent,
+
+
+ lower than every other sector in the survey except for utilities.
+		
+	
+The stakes are higher than ever beforeCMS recently elevated the role of customer experience in evaluating MA plan quality, creating a performance imperative. A May 2020 final rule from CMS
+
+
+ indicates that customer experience metrics will begin to carry more weight in determining plans’ Star ratings. We estimate customer experience measures will increase from around 32 percent of the total weight for 2020 ratings to around 57 percent of the weight for 2023 ratings (Exhibit 1).
+    
+Specifically, the 16 measures
+
+
+ that fall into the CMS categories “Patient experience and complaint measures” and “Measures capturing access” will increase in weight from 1.5 in 2020 to 4 in 2023. Half of these measures are evaluated using the Consumer Assessment of Healthcare Providers & Systems (CAHPS) survey (Exhibit 2), a survey developed by the Agency for Healthcare Research and Quality to evaluate the consumer experience of healthcare. The increased emphasis on customer experience in MA Stars ratings is consistent with other recent, consumer-centric regulatory changes to MA (for example, the MA open enrollment period).
+    
+For each plan, the change in the weight of customer experience measures could impact revenue, even if performance on those customer experience metrics does not change. Plans for which customer experience metrics trail overall Stars have more to lose by maintaining the status quo, while other plans can drive up overall Stars ratings through distinctive performance on customer experience measures. Take a plan that has 5 Stars overall in 2020, but has average customer experience measure scores below 5 Stars (Plan 3, Exhibit 3). If this plan maintains these measure scores in 2023, the increased weight of the customer experience measures will drag down its overall Stars rating to 4, resulting in a roughly $8 per beneficiary per month reduction (PBPM) in CMS payments (a roughly 7 percent decline in total rebate payments). But maintaining performance may not be enough to maintain the plan’s current customer experience measure scores; as other plans improve their performance on customer experience metrics, the threshold performance required to earn high Stars ratings on customer experience measures could increase since Stars measures are scored on a curve.
+    
+For plans without 5 Stars overall, improving customer experience scores could help realize significant revenue gains. For one plan (Plan 2, Exhibit 3), achieving best-in-class performance on customer experience measures in combination with the weighting change could lift its overall Star rating from 3.5 to 4.5 Stars, resulting in around $40 PMPM in additional CMS rebates (a roughly 45 percent increase in total rebate payments). CMS has an additional incentive for plans to score high Stars ratings: 5 Star plans are allowed to market their plans year-round, enabling more flexible marketing strategies.
+        
+
+
+    
+    In addition to Stars improvement, customer experience can drive membership growth and result in lower membership attrition. Among retail banks, the five institutions with the highest-rated deposit account experience saw deposits grow 50 percent faster than those of the big four banks
+
+
+ from 2014 to 2017.
+
+
+ In a customer survey, highlighted in “,” we found that satisfied members are five times more likely to renew their health insurance coverage than their unsatisfied peers. Moreover, satisfied members are more likely to retain their carriers even when changing plans. This means customer experience investments in payers’ Commercial lines of business could increase the share of the Medicare age-in population enrolling in payers’ MA plans.
+
+
+This pattern is evident in plan enrollment data. For example, MA plans with an average customer experience measure rating of 4 or more Stars added 2.1 times more net members in 2019 than their less customer-friendly competitors.
+
+
+ Member retention is a particularly important lever for MA plans; annual retention is a Stars measure (in fact, one of the measures increasing in weight). Moreover, retained members have often been more accurately risk-adjusted and generate more revenue for MA plans than brand new MA members.Customer experience improvements can lessen operational costs for health plans. First, excellent customer engagement and care navigation tools can reduce the number of members seeking care out of network, reducing plans’ medical loss ratio and patients’ out-of-pocket expenses.
+
+
+ Second, happier customers tend to use less customer service resources and file fewer complaints, because their health plan has addressed issues before they became problems.
+
+
+ Moreover, in our experience the same digital self-service tools that simplify plan management and enhance customer experience for members also reduce demand for more costly customer services resources. Finally, organizations that invest in customer experience also tend to report higher employee satisfaction.
+
+
+ This lever could enable MA plans to reduce employee turnover and associated costs.The COVID-19 pandemic creates even more urgency for a MA consumer experience transformation; it has raised the stakes for customer experience for the healthcare sector and highlighted challenges. More than three quarters of Americans said they are distressed by the pandemic.
+
+
+ Some members in MA plans may feel anxious about their health, confused by contradictory guidance, and rely heavily on their healthcare providers. Improving customer experience is a chance to improve healthcare access and outcomes for a vulnerable population. An estimated 8 percent of Medicare beneficiaries are more likely to shop for MA plans this year, and customer experience could be a key differentiator for MA plans looking to retain their members or add new ones.
+
+
+
+		
+	
+Fix, don’t toss, surveysAlthough it is clear that customer experience enhancement must become a top priority for MA plans, it is less clear how to rapidly develop action-oriented insights on healthcare consumers and implement the highest-impact interventions. While surveys are used across industries to generate consumer insights—and MA plans cannot abandon surveys altogether because of the importance of CAHPS in CMS performance metrics—surveys have several drawbacks. To enhance customer experience, plans can begin by reevaluating their survey models.
+        
+
+
+    
+    Traditionally, organizations have relied on customer surveys, and especially NPS, to gauge sentiment and identify opportunities. Ninety-eight percent of customer experience leaders report using survey-based systems to collect and act on customer insights,
+
+
+ but they have several disadvantages. First, even the most robust surveys tend to represent only 7 percent of customers, and the customers answering surveys are typically those with the strongest views. This small representation limits organizational ability to paint a complete picture of customers. Second, surveys are inherently reactive, taking an average of 24 days to move from release to insight,
+
+
+ and are therefore poorly suited to support real-time decision making. Third, even the best-designed surveys capture only a glimpse of customers’ attitudes and behaviors. Since surveys typically focus on the outcomes of customers’ interaction with an organization (for example, customer sentiment), they can fall short of revealing the root causes responsible for these outcomes. Finally, surveys typically do not effectively integrate detailed financial and operational data at the customer level, so using them to estimate the value of potential customer experience investments can be a challenge.
+
+
+Nevertheless, the administration of surveys, particularly those resembling CAHPS, is critical for MA plans to track and manage members’ likely response to the CAHPS survey. Plans can take tactical steps to overcome the inherent difficulties of survey-based customer insight systems. Customer experience leaders can create detailed, segment-specific member journey maps. This end-to-end view of the member journey, which can include more than 100 individual touchpoints in a year, creates an analytical framework and common vocabulary among leaders seeking to enhance members’ experience. Leaders can then use diagnostic surveys to understand which of these touchpoints is driving satisfaction outcomes (Exhibit 4). Once these high-impact touchpoints have been identified, customer experience leaders can solicit targeted feedback from customers on their experience of them. These targeted surveys should be thoughtfully timed (for example, after a call to a care center) and tailored to maximize response rate, hone in on the highest-priority journey elements, and capture the kinds of sentiment likely to influence CAHPS scores.
+    
+Use advanced analytics to invest more effectivelyFor the same reason that CAHPS is, at best, an imperfect proxy for customer satisfaction, plans should not rely solely on surveys to generate consumer insights. More nuanced insights can rely on customer, financial, and operational data in real time to fuel machine-learning algorithms that identify the most valuable customer segments, as well as the experiences making the greatest impact on those customers’ sentiment and value outcomes (for example, revenue). Customer experience leaders in other industries have already started using these systems to great effect. Some have demonstrated the power of advanced analytics to improve customer experience and reduce customer churn.A customer experience analytics engine can even compliment surveys to optimize CAHPS scores. For example, one plan embarked on a customer care optimization effort meant to maximize its CAHPS scores. Since the plan’s call center had capacity to contact only 30 percent of plan members, segmentation and prioritization were critical. The plan followed a four-step process:
+    First, because CAHPS survey responses are anonymous, the MA plan needed to select a proxy for CAHPS responses that it could compare with other data at the customer level. The plan decided to use likelihood of disenrollment as a proxy for CAHPS responses.
+    Second, analytics leaders leveraged several data engineering techniques to curate, clean, and integrate historical data at the customer level.
+    Third, with this data lake in hand, they ran machine-learning algorithms to determine the relationship between leading indicators (for example, member claims, call center interactions, appeals, and grievances) and disenrollment, the outcome metric. This predictive algorithm enabled the analysts to assign attrition risk scores to each of their members.
+    Fourth, the analysts used a clustering algorithm to segment their customers based on their attrition risk scores. In addition to identifying the highest-priority customer segments to engage, this approach also revealed the tailored interventions best-suited to each customer segment (Exhibit 5).
+
+    
+ConclusionWhile MA carriers have long been held accountable by customer experience metrics, CMS’s new Stars methodology makes customer experience performance an imperative. As customer experience measures increase in importance, other measures that have traditionally taken center stage will carry commensurately lower weight. To achieve high Star ratings—and more broadly drive growth—MA plans will need to adjust their mindsets from a focus on gap closure to a holistic view of the member experience. Advanced analytics can sharpen this view and help identify the most impactful interventions. Customer experience investments can improve Stars performance and health plan economics, but they also present a way to improve the member experience of a complex and often frustrating healthcare system at a time when healthcare has never mattered more.

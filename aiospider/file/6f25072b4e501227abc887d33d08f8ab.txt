@@ -1,0 +1,15 @@
+
+"For the last couple of decades, we've been making risk decisions about vulnerabilities in both cybersecurity and vulnerabilities in technology in general," she said. "We've not been fighting a very technically competent adversary. And because of that, we've made different decisions that we need to make in the future." 
+
+
+
+
+
+
+
+The adversary has changed and the United States' next adversary is going to be able to take advantage of the vulnerabilities that the United States knows it has, Fletcher said. "[Adversaries] are going to be able to link that with kinetic attacks, and that is going to create super complex warfighting, the kind of warfare that we've never seen before." Fletcher said DOD has rallied around the next war fight, and the U.S. military must use data and artificial intelligence to its advantage. "We need the right folks to have the right data at the right time to make the right decision, and I think we all understand that that's going to shape the warfighter that's going to be incredibly critical," she added. The zero-trust program office is an important step in DOD's cybersecurity protection, and Fletcher said there is a lot of work happening in the zero-trust domain throughout the department. To define zero trust, the domain requires both a technical and cultural change to cybersecurity protocol, in which administrators assume there are already adversaries in a network, and the goal is to stop their movement rather than try to defend the perimeter, published reports said.
+
+
+
+
+DOD is in its interim steps in standing up its zero-trust program office, Fletcher said, but added that the domain is also taking place in the military departments and other components. "The National Security Agency is doing a lot of good work in this domain," she noted. "Part of what that office is doing is reaching out to industry and saying, 'How did you get to zero trust?' If my adversary is in my network, I'm just going to assume the adversary is in the network, and that changes how I do things. If you assume the robber is in the house, that changes how you protect your valuables, and that changes the culture around what defenders should be doing. I want defenders to ferret out adversaries in my network, and success for them is finding them quickly [and] fighting through their presence in my network," she explained.

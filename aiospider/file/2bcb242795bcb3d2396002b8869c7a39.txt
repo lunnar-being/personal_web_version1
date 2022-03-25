@@ -1,0 +1,120 @@
+
+    
+    
+
+        
+        
+        
+    —and governments have lots of data, representing a significant latent source of value for both the public and private sectors.
+
+
+ If used effectively, and keeping in mind ever-increasing requirements with regard to data protection and data privacy, data can simplify delivery of public services, reduce fraud and human error, and catalyze massive operational efficiencies.
+	
+Despite these potential benefits, governments around the world remain largely unable to capture the opportunity. The key reason is that data are typically dispersed across a fragmented landscape of registers (datasets used by government entities for a specific purpose), which are often managed in organizational silos. Data are routinely stored in formats that are hard to process or in places where digital access is impossible. The consequence is that data are not available where needed, progress on digital government is inhibited, and citizens have little transparency on what data the government stores about them or how it is used.Only a handful of countries have taken significant steps toward addressing these challenges. As other governments consider their options, the experiences of these countries may provide them with valuable guidance and also reveal five actions that can help governments unlock the value that is on their doorsteps.As societies take steps to enhance data management, questions on topics such as data ownership, privacy concerns, and appropriate measures against security breaches will need to be answered by each government. The purpose of this article is to outline the positive benefits of modern data management and provide a perspective on how to get there.Interoperable and connected government data offer significant benefitsThe COVID-19 crisis has highlighted the importance of data, which have been at the heart of managing the impact of the pandemic in many countries. Germany, for instance, uses data to track ICU beds and manage spikes in hospitalizations.
+
+
+ Meanwhile, some other countries, including the United Kingdom, Ireland, Portugal, and South Korea, have developed dashboards to help decision makers track the ups and downs of the pandemic.
+
+
+Of course, the value of public-sector data extends beyond the pandemic to numerous aspects of society and the economy. The challenge for many governments is accessibility, which is often restricted by a reliance on multiple registers dedicated to narrow purposes. Better linking of information can yield significant benefits.To unlock their data potential, governments can develop an interoperable and connected data landscape, in which data collected by any government entity are available where needed, where security and privacy are safeguarded, and where adequate measures (legal, technical, and organizational) prevent misuse of data. If governments can achieve that, there are benefits in six key areas (Exhibit 1).
+    . When accessing a public service, citizens and companies often need to provide data and documents that they have already shared. If data collected across government were more accessible, public services could follow a “once only” principle, meaning data must be submitted just a single time, saving time and reducing manual inputs. Another benefit would be the ability to deliver services proactively, with new data automatically triggering a response where required. Estonia has this functionality up and running—for example, the registration of a newborn child automatically leads to the provision of childcare benefits, with data from the tax registry determining how much money should be transferred to which bank account.
+
+
+
+     Government employees are often required to obtain data manually, both from other government agencies and citizens. Interoperable and connected data would allow governments to streamline this “back end,” reducing friction and cutting clearing times. The potential benefits would be substantial in both public-service delivery and periodic activities such as the census. In Germany, fully interoperable and connected government data were estimated to produce a 60 percent reduction in case-processing time for key public services.
+
+
+ For the census, technologically advanced countries, such as the Netherlands, pull data entirely from existing databases. This approach incurs up to 99 percent less costs than a traditional survey-based method.
+
+
+
+    . High-quality and available data have a positive impact on policy making. In Denmark, for example, the government uses geodata to simulate flooding scenarios, enabling both better crisis management and improved long-term-investment decisions.
+
+
+ To build the complex models required, data from several key registers (for example, cadastres, buildings, and addresses) are combined with 3-D topographic data. Research has shown that these kinds of applications produce excellent cost–benefit outcomes.
+
+
+
+     —both in the form of raw data and official statistics—helping to unlock a $3 trillion open-data opportunity for the private sector and civil society. However, many datasets published on open-data portals are taken from information silos. Interoperable and connected registers, with appropriate safeguards, allow for the publication of more comprehensive and insightful datasets.
+    To some, interoperable and connected government data raises the specter of a “Big Brother” government. However, the current management of government data also poses challenges in terms of data privacy. Citizens are often unable to see their personal data or know where these data are stored and when and why they are accessed. A modern data landscape, by contrast, enables privacy by design. Structured and secure data exchanges reduce the number of people in contact with data and the risk of leaks. Citizens can benefit from more transparency and active management of consent. In addition, governments can show what data are saved, and where, and provide a log of digital interactions. That enables users to opt in or out of use cases. Estonia’s data tracker, for example, allows citizens to review data queries relating to their personal information, including the reason for access.
+
+
+
+    A substantial share of government payments result from error or fraud—funds go to the wrong recipient, an incorrect amount is transferred, or a government payment is used improperly. In the United States, agencies across the government made an estimated $175 billion in improper payments in 2019.
+
+
+ Interoperable and connected government data can help mitigate loss risk by reducing errors from manual inputs and inconsistent data across registers and by enabling governments to leverage analytics tools that identify fraud. Estonia, which is leading in this area as well, combines information from agriculture registers with satellite images to analyze whether land subsidized by government grants is cultivated.
+
+
+
+
+    
+Government data today: Scattered, siloed, inaccessibleThe COVID-19 pandemic has highlighted the challenges of using government data. For example, aggregating case numbers from laboratories and hospitals has often involved communication via email, phone, and fax.
+
+
+ Accessing and merging data collected by different government institutions has proven to be extremely challenging. In most cases, it involves individual requests, manual processes, or customized APIs.
+        
+
+
+    
+    While some countries have started to make progress, government data management is typically hamstrung by three challenges:
+    . To use data stored in the register, agencies need to be able to identify that data. That is rarely possible. Indeed, governments are often unable to discern which data are in which register, or even which registers exist. This means there is little transparency on whether a specific data point is available somewhere in the government, whether it is available in multiple registers, or where the most current data can be found.
+    . Many registers are still paper based, which creates a significant cost and administrative burden and renders systematic usage impossible. Even where digitized registers are used, access is often not standardized. For other agencies to access the data, additional infrastructure, such as secure connections or APIs, is required.
+    . There are a number of obstacles that prevent the combination and joint processing of data stored across different agencies (for more, see sidebar “Five obstacles to data interoperability”).
+
+
+
+A handful of governments have begun to deliver
+        
+
+
+    
+    Many governments around the world have made interoperable and connected data a top priority. In 2020, the United Kingdom published its national data strategy, which includes the mission to transform government’s use of data to drive efficiency and improve public services based on an appropriately safeguarded, joined-up and interoperable data infrastructure.
+
+
+ In Germany, the federal government has launched a national program to modernize the public-sector data landscape.
+
+
+ Still, only a short list of countries (including Estonia, Denmark, and the Netherlands) have made significant progress on these kinds of endeavors (for more, see sidebar “International examples of successful integrated data-management implementations”).How to succeed: Five actions to deliver interoperable and connected government dataDespite the challenges, there are manifest benefits to be gained from interoperable and connected government data. To support the transition, governments can deploy five actions, informed by the experiences of pioneering countries.1. Set a clear vision based on tangible use casesIf governments were to redesign their data landscapes entirely, the task would be too large. They should therefore begin by sketching out a vision that focuses on clear and tangible use cases. The Austrian government, for example, decided in 2000 that the following year’s census would be the last nondigital version and began preparations for its first digital census in 2011.
+
+
+ Denmark focused on improving quality and access for a small set of frequently used “grunddata”—basic data—regarding people, organizations, and places.
+
+
+ In this context, initial use cases should be representative of a larger set of relevant applications (for example, comparable government services) to ensure transferability later on and to avoid developing initiatives with a too narrow focus.2. Understand and navigate the relevant data landscapeOnce the vision is clear, governments can enable transparency over the relevant data landscape for the prioritized use cases. This requires mapping relevant registers, including semantic and technical characteristics. This mapping enables governments to “know what they know,” that is, what data is available and where. Governments will see where critical data is lacking and where data is stored in multiple registers. In Estonia, this task was undertaken by the Information System Authority, which maintains RIHA—a catalog for government information systems. The catalog provides information on more than 2,600 information systems, portraying an overview of the purpose, storage, and management of the data.
+
+
+3. Offer relevant infrastructure components centrallyGovernments can build a set of standardized components that enable data sharing for a wide range of use cases. In this way, government data stored in silos can be made interoperable and connected at scale. The leading example is the X-Road system, developed by the Estonian government in 2001.
+
+
+A central infrastructure for secure data exchange between public-sector entities and third parties will typically include at least five specific components (Exhibit 2):
+     Identity management is key to interoperability. Numeric or alphanumeric identifiers (for instance, individuals, companies, or buildings) are necessary for the unambiguous and efficient connection of data stored in different sources to a single entity. The Austrian government established sector-specific identifiers for increased data protection.
+
+
+ In France, the government data-management team built on existing infrastructure and leveraged social security numbers as overarching identifiers.
+
+
+
+    . Fast and automated data exchange is only possible through harmonized data formats and standards. In Switzerland, public databases storing similar information use consistent data formats across all repositories, and there is an established process for data exchange through a secure common protocol (called sedex or secure data exchange).
+
+
+
+     To establish automated data exchanges, a directory holding the technical parameters of every data provider is required. This will deliver routing information to data consumers and vice versa. In Germany, the “Administrative Services Directory” serves as an interdisciplinary and cross-administrative infrastructure. It provides
+    secure and reliable automation of services and procedures for communication between, and with, public entities.
+
+
+
+    . To prevent inadmissible merging of personal data, data exchanges between government entities are often established via technical intermediaries. The intermediaries can only access the metadata of an exchange—who the sender is, who the recipient is, and the reason for a data exchange—but not its actual content, thereby helping to establish secure data streams. Sometimes, the function of intermediaries is performed by so-called gateways, which offer additional functions such as translating between different data formats and standards. Through secure gateways, registers can be made easily accessible to public-sector entities and third parties, enabling the government to become part of the API economy. For example, the PEPPOL infrastructure for cross-border eProcurement initiated by the EU uses secure “Access Points” as intermediaries to establish secure data connections.
+
+
+
+     Citizens expect to have transparency and control over how their governments use their data. This counterbalances the increased technical ease with which public agencies can access their information. Estonia is the pioneer in this area, too. Its data tracker allows citizens to review queries concerning their personal information, including the reason for access.
+
+
+ Germany is planning to go one step further and enable citizens to not only track queries but also give and withdraw consent on specific uses of their personal data.
+
+    
+4. Rapidly deliver end-to-end use cases via agile data labsDespite the complexity and lengthy time horizon of a holistic effort to modernize the data landscape, governments can establish and sustain a focus on rapid, tangible impact. A failure to deliver results from the outset can undermine stakeholder support. In addition, implementing use cases early on helps governments identify gaps in their data landscapes (for example, useful information that is not stored in any register) and missing functionalities in the central data-exchange infrastructure.To deliver impact quickly, governments may deploy “data labs”—agile implementation units with cross-functional expertise that focus on specific use cases. Solutions are rapidly developed, tested, iterated and, once successful, rolled out at scale. The German government is pursuing this approach in its effort to modernize key registers and capture more value.
+
+
+5. Establish a central data agencyOrganizations such as Estonia’s Information System Authority or Singapore’s Government Data Office have played a critical role in transforming the data landscape of their respective countries. A central agency can pool scarce data talent and deploy it to implement projects. It can establish joint rules for data governance and data quality management and can own the IT architecture for a common data-exchange infrastructure. In some cases, it can develop and operate critical components. Finally, it can define data-management best practices for public-sector entities and support implementation.Building an interoperable and connected government data landscape is a significant challenge. It requires substantial resources and can take time. In moving forward, however, governments can lay the groundwork for a fundamentally more effective and efficient public sector and digital society.

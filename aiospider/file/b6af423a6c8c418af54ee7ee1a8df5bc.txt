@@ -1,0 +1,202 @@
+
+        
+        
+        
+     begin the long path to recovery from the health and economic impacts of the COVID-19 pandemic, we set out to understand what Americans think about their current economic standing, their views on economic opportunity, and the barriers they see standing between themselves and a more inclusive and prosperous future.
+        
+
+
+    
+    So we asked them directly.Together with the market-research and opinion-polling firm Ipsos, we surveyed 25,000 Americans in the spring of 2021 in an effort to understand their perceptions of the current and future state of the US economy, to discern firsthand their hopes for the future, and to learn about the challenges they face. We also wanted to establish a baseline of data to better understand how outcomes and perceptions are affected by people’s access to resources, as well as by factors such as their identity, education, and level of caregiving responsibility. The breadth and depth of our sample allowed us to draw timely insights across demographic categories and geographic cuts (see sidebar “About the survey”). While the results of our inaugural survey reflect just one moment in time—a period during which the course of the COVID-19 virus and economic conditions were rapidly evolving—they serve as a useful baseline view into the economic experiences of a broad swath of Americans.
+        
+
+
+    
+    
+	
+What we learned was sobering. Among the findings: Americans report that their financial situations have deteriorated over the past year, and at the time of our survey only half of all respondents reported being able to cover their living expenses for more than two months in the event of job loss. Our survey results also indicated that the pandemic has harmed the economic well-being of many groups, exacerbating inequalities that existed before the crisis. Americans reported facing numerous barriers to economic opportunity and inclusion—among them, inadequate access to health insurance and physical and mental healthcare, as well as to affordable childcare. Moreover, many respondents said that they feel their very identity limits their access to jobs and to fair recognition and reward for their work.Yet amid the challenges, our survey also revealed optimism. First- and second-generation immigrant
+
+
+ respondents were among the most optimistic respondents about economic opportunity. Black and Hispanic/Latino
+
+
+ respondents were also among the most optimistic respondents, despite being more likely to report barriers to opportunity. In this article, we highlight these and other key findings—ten insights in all—that taken together represent a snapshot of how Americans view economic opportunity in the spring of 2021 (Exhibit 1). We hope that these findings contribute to an ongoing conversation about economic opportunity and inclusion among public-, private-, and social-sector leaders. As part of that effort, this article introduces the inaugural McKinsey Economic Opportunity Index, which we will update on an ongoing basis to provide a more robust view of economic opportunity and inclusion trends as they evolve. 
+    
+
+	
+
+	
+
+
+	
+ Americans’ current overall outlook is not optimisticGiven the devastating impact of COVID-19 on people’s health and economic well-being, it’s likely unsurprising that many Americans would be skeptical of the current state of economic oppor­tunity. Forty-two percent of respondents said that they believe that most Americans have opportunities to find good jobs; one-third said that they believe that most people are recognized and rewarded fairly for their work; and 32 percent said that the pay that most Americans receive for their work allows them a good quality of life (Exhibit 2). Unsurprisingly, lower-income respon­dents reported even less optimism—only 36 percent of those making less than $25,000 a year agreed that most Americans have oppor­tunities to find good jobs, compared with 56 percent of those making $150,000 or more a year.
+
+	
+
+
+
+
+    
+    
+
+Women in our survey reported greater pessimism about economic opportunity, with only 26 percent of female respondents reporting that the pay that most people receive allows for a good quality of life. Among Black women, just 32 percent said that they believe that most Americans have opportunities to find good jobs, compared with 38 percent of white women and 42 percent of respondents as a whole.Such views may reflect the disproportionate array of challenges that women reported in our survey as compared with men—among them, income loss, unequal caregiving responsibilities, and experiences of discrimination. 
+            
+     Many Americans believe that their identity unfairly affects their job prospectsAmong the most unambiguous findings in our survey was that a wide variety of Americans—among them, women, people of color, and gay, lesbian, and bisexual respondents
+
+
+—said that they believe that their very identity negatively affected their job prospects (Exhibit 3). We found similar views in a survey . 
+    
+Black respondents in our survey, for example, were 4.5 times more likely than white respondents to say that their race was a barrier to future job prospects and to fair reward and recognition for their work. Asian American and Hispanic/Latino respondents, meanwhile, were 3.4 and 2.8 times, respectively, more likely than white respondents to say the same. These findings were consistent across income groups and are also consistent with previous surveys focused on the workplace experi­ence for  and  employees.
+    
+Women were more than twice as likely as men to say that their gender negatively affected their access to opportunity, while men were twice as likely as women to say that their gender positively affected their access to opportunity. Caregiving status further complicates the picture: overall, men were far more likely than women to say that having a child at home positively affected their career—and far less likely than women to say that children were a disadvantage for their career. We examine the challenge of childcare further in Insight #7.Gay, lesbian, and bisexual respondents were four times more likely than straight respondents to say that their sexual orientation negatively affected their job prospects. Gay men were more likely than lesbian women to say that their sexual orientation had an impact, at 52 percent versus 40 percent, respectively.Finally, respondents across demographic categories who reported seeking treatment for their mental health or who have received a mental-health-related diagnosis were nearly four times more likely than others to say that their mental-health status negatively affected their job prospects.
+
+
+ This is consistent with a  from McKinsey’s Center for Societal Benefit through Healthcare that shows that nearly 70 percent of employees in the United States reported stigma surrounding mental-health conditions. According to a  completed last August, women in particular were 2.6 times more likely than men to report “significant” challenges related to mental health.At the very least, such perceptions can harm the economy by undermining employers’ abilities to . And when such views are underpinned by discriminatory behaviors the effect can be both economically and socially corrosive. Immigrants and people of color report relative optimism about economic opportunityTo capture worker sentiment about economic inclusion for this inaugural survey—and to begin tracking these trends over time—we created a score that summarizes Americans’ perceptions of past, present, and future economic opportunity (see sidebar “The McKinsey Economic Opportunity Index”). The result is a single number—with +5 as the most positive response possible, and –5 as the most negative—that encapsulates respondents’ sentiments about their own prospects and the country’s as a whole in March and April 2021 (Exhibit 4).
+    
+
+        
+
+
+    
+    The Economic Opportunity Index scores reveal that on average, first- and second-generation immigrants and workers of color expressed some of the most optimistic views of economic opportunity among all survey participants. Black and Hispanic/Latino respondents, for example, were 60 percent more likely than white respondents to say that they expect more economic opportunities in the coming year and 40 percent more likely to say that the economy does a good job of providing economic opportunities for everyone.This comes despite the stark economic disadvan­tages that immigrants and people of color reported facing. More than one-third of first-generation Americans, for instance, said that a lack of stable housing affected their ability to perform their work—twice the rate at which nonimmigrants report stable housing as an impediment. We observed nearly identical disparities when it came to immigrants’ access to transportation and a reliable internet connection.Nevertheless, fully 50 percent of first-generation immigrants said that most Americans have opportunities to find good jobs—the only demographic group other than white men, or those earning more than $100,000, to voice such an optimistic view.
+    
+ suggests that such differences can be explained at least partly by stronger informal safety nets and social support among people of color, as well as by strong perceptions of upward mobility relative to the previous generation.Partisan political leanings likely play a role as well.  has found that perceptions of economic conditions are divided along party lines and flip depending on which party controls the presidency. Data from the University of Michigan consumer-sentiment surveys highlight a .Our survey was consistent with these findings. Americans who identified as Democrats reported higher perceptions of economic opportunity, while those who identified as Republicans were more likely to report pessimism. But partisanship does not explain all observed differences in perceptions of economic opportunity. Indeed, factors such as race and ethnicity, immigrant gener­a­tional status, gender, age, education or income level, and sexual orientation all retain statistically significant associations with our Economic Opportunity score—even as we controlled for political-party affiliation.
+
+
+ As an example, Black Republicans reported nearly identical Economic Opportunity scores as Black Democrats. In simple terms, Black respondents in our survey were not more likely to be optimistic just because they are more likely to be Democrats.We did, however, observe meaningful differences in sentiment across geographies (Exhibit 5). In particular, Black respondents in large cities with a high cost of living, such as Los Angeles, New York, and San Francisco, appear relatively less optimistic than white respondents, whereas in most other cities Black respondents were among the most optimistic. Similarly, Asian Americans, while slightly more optimistic than white respondents overall, were among the most pessimistic respondents in cities with large Asian American populations, such as, again, Los Angeles, New York, and San Francisco. These survey results may reflect a  in anti-Asian violence seen in recent months,
+
+
+ as well as other factors.
+    
+While some groups in our survey reported relative optimism about economic opportunity, other groups reported relative pessimism. Women were more negative than men, regardless of occupation: women have negative Economic Opportunity scores in 15 of the 22 occupations we studied, and were less optimistic than men in almost all occupation groups.
+
+
+ Nearly 75 percent more men than women said that they believe that the economy does a good job of providing economic opportunities for all people (or 33 versus 19 percent). Also, rural residents, respondents with less formal education, and those with incomes below $50,000 all reported negative Economic Opportunity scores.
+	
+
+
+	
+ Half of Americans report being on the financial brinkAmericans’ financial situations have deteriorated over the past year, according to our survey. Twenty-six percent of respondents reported that their living situation is less secure now compared with 12 months ago, and 18 percent expressed worry that they will lose their housing. Respondents identi­fied both financial instability and housing instability as top concerns.Only half of all respondents—and fewer than half of all parents—reported being able to cover their living expenses for more than two months if they or someone in their family were to lose their job.
+
+
+ How perilous is the situation? Thirty-four percent of all respondents reported either loss of income or a job over the past year. This economic precarity is not evenly distributed (Exhibit 6). For example, only 36 percent of Americans earning $50,000 a year or less reported that they could cover expenses for more than two months, and 27 percent of those earning less than $25,000 a year said that they were worried about losing their housing. Race seems to play a role as well. Only 41 percent of Hispanic/Latino respondents (along with 45 percent of Black respondents) said that they could cover expenses for more than two months, compared with 54 percent of white respondents and 58 percent of Asian American respondents. 
+    
+Women report being worse off than men. Forty-eight percent of women reported that they could cover more than two months of expenses, compared with 53 percent of men. But the gap between men and women varies by race, with the largest gender gap among Asian American respondents, with men 12 percentage points more likely than women to report that they could cover expenses for more than two months, compared with a one-percentage-point gap between Black men and women.Mental-health status and financial hardship also appear to be mutually reinforcing. Respondents who report being diagnosed or treated for mental-health-related conditions were 1.5 and 1.8 times more likely to report they are not on track to achieve short- or long-term financial goals, respectively, and 1.6 times more likely to express worry about losing their current housing.Debt further exacerbates Americans’ challenges in paying the bills. Three-quarters of all respondents reported having some form of debt, and 41 percent of our survey respondents with debt said that their current debt level causes them stress.
+
+
+ While roughly equal numbers of respondents saw their debt increase (25 percent) as decrease (24 percent) over the past year, Black and Hispanic/Latino respondents were most likely to say that their level of debt had increased. People of color were also more likely than white respondents to carry disproportionate levels of debt—for instance, Black and Hispanic/Latino respondents were 50 to 70 percent more likely than white respondents to say that they had student or medical debt, which is both indicative of, and exacerbated by, a long-established .
+            
+     COVID-19 has exacerbated existing inequalitiesWhen it comes to economic well-being, women and people of color have been hardest hit by the pandemic. This is in part because people in these groups are more likely to work in occupations that have reported the highest levels of income and job loss (Exhibit 7), a finding consistent with previous McKinsey research.
+    
+Consequently, women in our survey were among the most likely to report decreases in income, savings, overall wealth, and well-being over the past 12 months. Women were also the most likely of any group we surveyed to say that they are not on track to achieve their long-term financial goals.Moreover, workers with lower incomes, people of color, as well as gay, lesbian, and bisexual respon­dents and people who reported being diagnosed or treated for mental-health-related conditions, all reported greater declines in well-being and financial health than did other respondents (for a detailed summary of the reported changes in financial health and well-being across demographic groups, see Exhibits 8 and 9). Changes in well-being varied most significantly across mental-health status and sexual orientation—42 percent of respondents who said they were diagnosed or treated for mental-health-related conditions and 46 percent of gay, lesbian, and bisexual respondents reported declines in well-being over the past year, compared with 30 percent of respondents as a whole.
+
+	
+
+
+
+
+    
+    
+
+
+
+	
+
+
+
+
+    
+    
+
+The economic insecurity that our respondents described has stark implications, according to our research. Thirty-one percent of respondents said that they have had to cut back spending on food or delay medical care over the past 12 months for financial reasons. That number rises to 43 percent for those making less than $25,000. Hispanic/Latino and Black respondents were 50 percent and 22 percent, respectively, more likely than white respondents to say that they have had to cut back.These findings don’t fully capture the large and growing economic inequalities that many Americans are experiencing in the wake of the COVID-19 pandemic. Perhaps the starkest example of such gaps that our survey identified is that people with higher incomes more frequently reported increased incomes over the past 12 months, while those with lower incomes were more likely to see their incomes shrink further. This finding held across gender, race, and ethnicity.
+	
+
+
+	
+ Healthcare access is a major challenge for many; women and workers of color face unique barriersWe asked respondents about the barriers that they feel limit economic opportunity, their obstacles to well-being, and their ability to find work.
+
+
+ Insufficient access to healthcare or health insurance was the most commonly cited barrier to well-being, with 22 percent of respondents saying that a top chal­lenge was healthcare access, while an additional 21 percent cited the affordability of health insurance. Ten percent of respondents cited both, meaning that one-third of respondents cited healthcare, health insurance, or both as among the top three barriers to their well-being.
+
+
+ Health and healthcare inequalities have especially affected Black and Hispanic/Latino Americans throughout the .
+    
+Cost was also a pervasive challenge highlighted by respondents, with mental-health services
+
+
+ and childcare ranked as the two least affordable essential services. Respondents were more than 20 percentage points less likely to report mental-health services (59 percent) and childcare (53 percent) as being affordable as they did for other basic resources, such as nutritious foods (80 percent), necessary transportation (79 percent), and housing (75 percent). Childcare in particular is a major challenge for women, as we examine in Insight #7.While the top barriers were generally the same across groups, certain barriers affected different groups more acutely (Exhibit 10). Women and people of color reported the most significant barriers, ranging from access to nutritious foods, mental-health treatment, and access to financial services. Those earning less than $25,000 a year were more likely to cite affordable transportation (19 percent versus 11 percent overall) and nutritious foods (21 percent versus 15 percent overall) as barriers to well-being.
+    
+Among respondents seeking new employment, the most commonly cited barriers were the limited availability of jobs and respondents’ lack of experience, relevant skills, credentials, education, or some combination of these. Interestingly, Black and Hispanic/Latino respondents were 27 percent less likely than white respondents to cite a lack of available jobs as a barrier to finding work.Meanwhile, among respondents not seeking new work, the most often cited reasons were that workers were satisfied with their current job or that they plan to retire. Another 12 percent of those not seeking work said that their decision was health related. This figure rose to 26 percent for those earning less than $25,000 a year and 14 percent for those in rural areas, suggesting how chronic health issues might be a major economic burden.
+
+
+ , in particular, have been seeing greater health and healthcare challenges during the COVID-19 pandemic.
+            
+     Access to childcare is a critical barrier, especially for womenMcKinsey research has found that childcare has been a  for parents during the pandemic, and that 16 percent of the US workforce—26.8 million people—are dependent on childcare .In our survey, the need to take care of family was the third-most-commonly cited barrier to searching for a job, picked by 18 percent of women and 16 percent of men. Among those who have stopped looking for work, however, the issue was twice as likely to have been cited as a reason by women than by men. And Hispanic/Latina women cited the need to take care of family twice as often as did white women.These findings are consistent with research from childcare program Bright Horizons that shows a “.” According to that research, 69 percent of working Americans say that working mothers are more likely than other employees to be passed up for a new job, and 65 percent of women without children have reservations about having a child, including 42 percent who fear that it may hurt their career.When we asked about the affordability of childcare, the differences between men and women were notable (Exhibit 11). For example, men with children at home were nearly 50 percent more likely than women to say that they could afford childcare. Among rural women, the gap was higher still, with only 32 percent of women saying that they could afford childcare, compared with 54 percent of rural men.
+    
+This might reflect the relative salience of childcare for both men and women, and in particular how women are  than men to be responsible for childcare.
+
+
+ Before the COVID-19 pandemic, women on average already did almost  unpaid care as compared with men. Since the , 40 percent of mothers (compared with 27 percent of fathers) say that they have added 15 or more additional hours of caregiving a week to their schedule. For their part,  are 1.6 and 2.0 times more likely, respectively, than white mothers to say that they are responsible for all childcare and housework.Childcare was also identified as a challenge by lower-income respondents. Only 39 percent of respondents with household incomes below $50,000 and children at home said that they could afford childcare. Across the United States, the average cost of full-time childcare is , and only  of employers offered subsidized childcare centers or programs, meaning that child­care is out of reach for many workers. Rural Americans are at risk of being left behindAbout one in five Americans, making up some 60 million people, lives in rural areas.
+
+
+ Our survey suggests that they face unique headwinds that, if persistent over time, could put them at heightened risk of being left behind. Rural respondents were less willing than urban ones to say that they would move for work (22 percent versus 38 percent), switch industries (44 percent versus 52 percent), or change occupations (47 percent versus 52 percent). Moreover, rural workers expressed less confidence than urban workers that they would be able to change careers or occupations. While our data only captures one moment in time, should such sentiments endure they could fuel the economic stagnation that  comes with declining mobility.
+
+
+
+    
+Rural workers were also less likely than urban workers to say that they knew about growing industries, in-demand occupations, and the relevant necessary skills for those occupations. Moreover, only 31 percent of rural respondents said that they were planning to pursue any future training, education, or credentialing opportunities, compared with nearly half of urban respondents.The stated preference among rural residents to stay put, combined with a lower relative interest in training, could over time put them at much greater risk of losing work to automation trends than their urban . Indeed, rural residents working in occupations most at , such as production work, office and administrative support, and food preparation and service, are among those least interested either in moving or in pursuing educational opportunities (Exhibit 12).
+
+	
+
+
+
+
+    
+    
+
+Finally, rural respondents were 1.3 times more likely than urban respondents to say that they and their families will have fewer economic opportunities in the next 12 months and 1.7 times more likely to say that there will be a general, national decline in economic opportunity over the next five years. The optimism gap was especially acute for white workers—rural white respondents recorded an Economic Opportunity score of –0.5 (below zero equates to a pessimistic view), compared with +0.7 for urban white respondents, representing a meaningful difference in outlook across groups. Contract, freelance, and temporary workers would overwhelmingly prefer permanent employment
+
+
+Twenty-seven percent of all employed respondents we surveyed reported being a contract, freelance, or temporary worker.
+
+
+ A higher proportion of Black and Hispanic/Latino respondents, first- and second-generation immigrants, and those with less than a high-school education were contract, freelance, or temporary workers, compared with the overall average of all respondents in our survey. We expect demand for contractors and temporary workers to increase after the pandemic, as 70 percent of the executives in a  said that they expect to use more of these workers.Fully 62 percent of contract, freelance, and temporary workers said that they would prefer to work as permanent employees (Exhibit 13). This sentiment was most pronounced among first-generation immigrant (76 percent), Hispanic/Latino (72 percent), Asian American (71 percent), and Black (68 percent) respondents. This is consistent with  that highlights that only about 30 percent of workers actively choose independent work as their full-time occupation.
+    
+This finding is perhaps unsurprising given that contract, freelance, or temporary workers were more likely than other respondents to say that they have suffered decreased income over the past 12 months. These workers were also nearly twice as likely than others to say that they could not afford health insurance (22 percent, compared with 13 percent for all) and more likely to cite access to affordable healthcare and insurance as barriers to their well-being.
+
+
+
+    
+Nevertheless, our survey found that as of spring 2021, contract, freelance, or temporary workers were more optimistic than others about the American economy, as reflected in their higher Economic Opportunity scores. In part, this could be due to the higher proportion of these workers who are first- and second-generation immigrants and people of color (groups that appeared more opti­mistic than others, as we saw in Insight #3). Thirty-seven percent of first-generation-immigrant respondents, 39 percent of Black respondents, and 36 percent of Hispanic/Latino respondents reported working as temporary, contract, or freelance workers, compared with 27 percent of all respondents. Previous McKinsey research has also found that independent workers are, in general,  than other workers, although that may be because the independent workforce is somewhat younger than the workforce overall.Notably, nearly one-third of contract, freelance, or temporary workers said that they had enrolled in training or educational opportunities—more than twice the proportion of other respondents. And two-thirds of these workers said that they were interested in pursuing training in the future, more than double the share of other respondents who said this. Increased interest in training and skill development bodes well for the American economy, as we discuss next. Four in ten Americans are either enrolled in training or interested in pursuing it—but cost is a barrier for manyIn a dynamic economy where artificial intelligence, automation, and digital technologies, as well as structural shifts in demand, are transforming the nature of work, many workers may need to attend training or return to school to learn  and to avoid . Encouragingly, workers in our survey appear to embrace this view.Nearly half of all respondents (49 percent) reported willingness to change occupations if necessary. Black and Hispanic/Latino workers were somewhat more likely than others to say that they were willing to change jobs.Similarly, 39 percent of respondents said that they are looking, or are planning to look over the next 12 months, for education, training, or credentialing opportunities, while 14 percent are enrolled in programs. Overall, since there is overlap between those who are enrolled and interested, 42 percent of all respondents report being enrolled, interested, or both. Again, both shares were higher for respondents of color (Exhibit 14).
+    
+The most commonly cited reason to enroll was to make more money, demonstrating that workers see education as a practical means to advance their economic well-being. Women were much more likely to cite money as an important factor in deciding to pursue educational opportunities (42 percent for women versus 32 percent for men).Nonetheless, respondents reported barriers to completing their programs—the most prevalent being the cost and time required. Fifty-five percent of those reporting interest in pursuing training, education, or credentialing programs cited cost of education, access to financial support, or opportunity cost of lost wages as likely barriers to completing a potential training. As mentioned earlier, student debt appears to be a particular concern for students of color, with the  and the  estimating that Black college graduates, on average, owe $25,000 more in debt than white college graduates. Twenty-two percent of respon­dents cited the time commitment as a barrier. One in five women cited mental health as a barrier to completing their programs (twice the proportion of men who cited this barrier). Gay, lesbian, and bisexual respondents were more than twice as likely to cite mental health as a barrier to completing their programs, compared with straight respondents. And workers aged 18 to 24 were 60 percent more likely than other respondents to cite mental-health challenges as a barrier, perhaps an indication of how aware , as well as the unique challenges their generation faces.
+
+
+
+    
+For their part, Black respondents were 60 percent more likely than others to cite the opportunity cost of lost wages as a barrier. Rural residents, who as we saw in Insight #8 expressed less interest in training, education, and credentialing programs than others, differed in another way: among their concerns about the cost of education and the opportunity costs of lost wages, rural respondents also cited their identity as a barrier to completing programs in which they were already enrolled. This suggests that there may be an opportunity to help make rural residents feel more welcome in educational settings.Given the pressures of automation and the demand for workers to develop new skills, many workers
+will need to retrain and reskill to find new jobs in the coming decades. The McKinsey Global Institute (MGI) estimates that  in the United States will need to change occupations or jobs within the same occupation over the next ten years, a trend that  workers of color and those without college degrees.
+
+
+
+	
+
+
+	
+Building an inclusive economyRespondents to our American Opportunity Survey painted a challenging picture of the current moment—one of unequal access to economic opportunity—and in many cases expressed a concern about whether access to opportunity
+will improve.At the same time, however, we were struck by the latent and persistent optimism we saw in the findings. In particular, first- and second-generation immigrants and people of color reported levels of optimism similar to that of Americans making more than $100,000 a year. Moreover, we were encouraged by the widespread willingness among Americans to take the steps needed to pursue economic opportunity, as demonstrated by the many respondents who are either enrolled in or planning to pursue education and training. People want a path forward; it’s a job of leaders to help chart the course.How can leaders do it? Based on the ten insights we’ve explored in this survey, we’ve identified the following areas where interventions could have the most impact:
+    
+
+    As a result of the COVID-19 pandemic,  are considering leaving the work­place or downshifting their careers. Although there are many issues that disproportionately affect women, access to mental-health services and experiences of discrimination among them, childcare was the most commonly cited issue in our survey. If women’s unemployment tracked that of men’s in each sector,  estimates that global GDP growth could be
+    $1 trillion higher in 2030.
+     Advancing racial equity and achieving inclusive growth could mean new opportunities for participation in the economy and  in annual income per capita. Within the private sector, leaders can begin by improving  to build more representative teams and reduce bias. At the community level, meanwhile, the challenges tend to be unique
+    and thus may require more place-based approaches. Current explorations of  often focus on improving local housing policies to increase housing security, improving public-health infrastructure, increasing broadband access to minority populations, and combating food insecurity in underinvested neighborhoods.
+     Access to training and education is critical to helping people build a better life and adapt to changing workforce demands, but respondents cited cost as the top barrier. A range of innovative solutions are being con­sidered by public- and private-sector leaders: from applied-learning experiences and apprenticeships to company-led reskilling programs to  to expanded access to community college—all to help accelerate and expand access and affordability for more Americans.
+     Rural Americans are at a higher risk of job loss due to automation, and they reported lower relative interest in moving for work, switching jobs, or pursuing training programs. Tailored economic-development strategies to  could help address this mismatch, as could  to enable remote work in rural counties.
+    . One-third of all respondents cited access to healthcare and health insurance as top barriers to their well-being, highlighting the reality that access remains a deep challenge for Americans despite years of effort. Previous McKinsey research suggests that there is an opportunity to  of both physical and mental healthcare delivery, while also addressing affordability.
+     Most contract, freelance, and temporary workers in our survey reported that they would prefer full-time employment. Previous MGI research has suggested that there is opportunity to modernize both the collection of government survey data as well as labor force policies .
+    Building a more inclusive economy and providing more economic opportunity requires that stakeholders across the public, private, and social sectors accurately and consistently identify and track key metrics at a granular level. This includes expanding data collection to include finer detail, such as breaking down  to identify unique challenges and trends. Ongoing data collection can also increase accountability by tracking the effect
+    of any interventions.
+     Leaders have an opportunity to continue with bold steps to build more inclusive organizations that, in turn, can build a more inclusive economy from the ground up. We hope that leaders will find the research published by our colleagues helpful as they endeavor to create more inclusive workplaces. Our colleagues have explored such opportunities for , , ,
+    , people identifying as , and for those who reported facing  challenges.
+The findings presented in this article only begin to scratch the surface of the full range of insights that could benefit leaders as they explore critical inclusivity challenges. Going forward, we plan to publish additional analyses that delve into city-level findings and other areas of interest, as well as to provide updated pulse readings of Americans’ sentiments on economic inclusion. Through this effort, we hope that we can provide the data and insights needed to help support a more inclusive US economy.The authors wish to thank Jorge Amar, Rishi Bhatia, Michael Chui, Erica Coe, Ellen Coombe, Jenny Cordina, Elaine Dang, Diana Ellsworth, Kana Enomoto, Shreya Gupta, Maital Guttman, Liz Hilton Segel, Drew Holzfeind, Jess Huang, Samuel Huang, Pablo Illanes, JP Julien, Mike Kerlin, Alexis Krivkovich, Jonathan Law, Aamir Malik, James Manyika, Ingrid Millan, Nick Noel, Lucy Pérez, Andrew Pickersgill, Alfonso Pulido, Jose Maria Quiros, Kausik Rajgopal, Arshia Rishi, Jonathon Rivait, Mario Rojas, Ben Saft, Bill Schaninger, Shubham Singhal, Ramesh Srinivasan, Sanjay Srinivasan, Yael Taqqu, Sarah Tucker-Ray, Akay Tuncak, Todd Wintner, Emily Yueh, and Haiyang Zhang for their contributions to this article.This article was edited by Tom Fleming, an executive editor in the Chicago office.

@@ -1,0 +1,160 @@
+Update: July 9, 2021Early in the COVID-19 pandemic, telehealth usage surged as consumers and providers sought ways to safely access and deliver healthcare. In April 2020, overall telehealth utilization for office visits and outpatient care was 78 times higher than in February 2020 (Exhibit 1).
+    
+
+	
+This step-change, borne out of necessity, was enabled by these factors: 1) increased consumer willingness to use telehealth, 2) increased provider willingness to use telehealth, 3) regulatory changes enabling greater access and reimbursement. During the tragedy of the pandemic, telehealth offered a bridge to care, and now offers a chance to reinvent virtual and hybrid virtual/in-person care models, with a goal of improved healthcare access, outcomes, and affordability.A year ago, we estimated that up to . Approaching this potential level of virtual health is not a foregone conclusion. It would likely require sustained consumer and clinician adoption and accelerated redesign of care pathways to incorporate virtual modalities.As of July 2021, we step back to review the progress of telehealth since the initial COVID-19 spike and to assess implications for telehealth and virtual health
+
+
+ more broadly going forward. Our findings include the following insights:
+     After an initial spike to more than 32 percent of office and outpatient visits occurring via telehealth in April 2020, utilization levels have largely stabilized, ranging from 13 to 17 percent across all specialties.
+
+
+ This utilization reflects more than two-thirds of what we anticipated as visits that could be virtualized.
+
+
+
+     Perceptions and usage have dropped slightly since the peak in spring 2020. Some barriers—such as perceptions of technology security—remain to be addressed to sustain consumer and provider virtual health adoption, and models are likely to evolve to optimize hybrid virtual and in-person care delivery.
+     for example, the Centers for Medicare & Medicaid Services’ expansion of reimbursable telehealth codes for the 2021 physician fee schedule. But uncertainty still exists as to the fate of other services that may lose their waiver status when the public health emergency ends.
+     fueling further innovation, with 3X the level of venture capitalist digital health investment in 2020 than it had in 2017.
+
+
+
+     moving from purely “virtual urgent care” to a range of services enabling longitudinal virtual care, integration of telehealth with other virtual health solutions, and hybrid virtual/in-person care models, with the potential to improve consumer experience/convenience, access, outcomes, and affordability.
+Telehealth uptakeSince the initial spike in April 2020, telehealth adoption overall has approached up to 17 percent of all outpatient/office visit claims with evaluation and management (E&M) services. This utilization has been relatively stable since June 2020.We are also seeing a differential uptake of telehealth depending on specialty, with the highest penetration in psychiatry (50 percent) and substance use treatment (30 percent) (Exhibit 2).
+    
+
+		
+	
+Consumer and provider perceptions of telehealthOur consumer research
+
+
+ shows that consumers continue to view telehealth as an important modality for their future care needs, but—as expected—this view varies widely depending on the type of care. Overall, consumer perception tracks closely to what we believe is possible telehealth uptake by various specialties (Exhibit 3).
+    
+Around 40 percent of surveyed consumers stated that they believe they will continue to use telehealth going forward—up from 11 percent of consumers using telehealth prior to COVID-19.Moreover, our research shows between 40 and 60 percent of consumers express interest in a set of broader virtual health solutions, such as a “digital front door” or lower-cost virtual-first health plan.
+
+
+ However, a gap has historically existed between consumers’ expressed interest in digital health solutions and actual usage. Continuing to focus on creating a seamless consumer interface, breaking down silos in care provision (across virtual and in-person) with improved data integration and insights, and proactive consumer engagement will all be important to sustaining and growing consumer use of virtual health as the pandemic wanes.On the provider side, 58 percent of physicians continue to view telehealth more favorably now than they did before COVID-19, though perceptions have come down slightly since September 2020 (64 percent of physicians). As of April 2021, 84 percent of physicians were offering virtual visits and 57 percent would prefer to continue offering virtual care. However, 54 percent would not offer virtual care at a 15 percent discount to in-person care.
+
+
+ Most health systems are closely monitoring reimbursement. Those in bed capacity-constrained environments and value-based care arrangements are looking to understand whether there is scalable volume decanting or cost savings potential at equivalent quality.Regulatory changesSome regulatory changes that enabled greater telehealth access during COVID-19 have been made permanent. For example, CMS allowed telehealth coverage for a number of current procedural terminology (CPT) codes permanent in the 2021 physician fee schedule final rule.
+
+
+However, other restrictions on telehealth may return to pre-COVID-19 normal when the public health emergency expires. For example, there were several dozen additional CPT codes that CMS allowed telehealth coverage for on a temporary basis in the 2021 physician fee schedule.
+
+
+ In addition, a waiver for public health emergency allowed telehealth to be provided for Medicare beneficiaries outside of rural areas and from home rather than from a provider’s office. The future of these provisions once the public health emergency ends is not yet clear.Investor activityInvestment in virtual health continues to accelerate. Per Rock Health’s H1 2021 digital health funding report
+
+
+ the total venture capital investment into the digital health space in the first half of 2021 totaled $14.7 billion, which is more than all of the investment in 2020 ($14.6 billion) and nearly twice the investment in 2019 ($7.7 billion) (Exhibit 4). This increase would reflect an annualized investment of $25 billion to $30 billion in 2021, if this rate continues. In addition, total revenue of the top 60 virtual health players increased in 2020 to $5.5 billion, from around $3 billion the year before.
+
+
+
+    
+As the investment into virtual health companies continues to grow at record levels, so does the pressure on the companies within the ecosystem to innovate and find winning models that will provide sustainable competitive advantage in this quickly evolving space. This is good news for consumers and patients, as we are likely to continue seeing increased innovation in the virtual care delivery models.
+		
+	
+The next chapter of telehealthTelehealth appears poised to stay a robust option for care. Strong continued uptake, favorable consumer perception, the regulatory environment, and strong investment into this space are all contributing to this rate of adoption.We are observing a quick evolution of the space and innovation beyond the “virtual urgent care” convenience. Innovations around virtual longitudinal care (both primary and specialty), enablement of care at home through remote patient monitoring and self-diagnostics, investment in “digital front doors,” and experimentation with hybrid “online/offline” models will bring new care models for consumers that help achieve healthcare’s “triple aim.”In order to fully realize the potential of virtually enabled care models, both payers and providers should consider these new delivery models part of the core day-to-day value proposition to consumers across three areas:1. Increasing convenience to receive routine care
+     for healthcare that enables consumers to easily get care when they need it, through the most convenient channels, and lowers the cost of care by avoiding unnecessary ED visits
+     as evidenced by recent M&A activity with the value proposition to make it easy for consumers to access care and find the best provider for their individual needs
+     The number of virtual-first health plans grew from one in 2019 to at least eight in 2020. While these products are still nascent, they offer the potential of lower premiums and greater convenience, in return for seeing a virtual primary care provider as the first point of care. These advantages are attracting increasing attention from employers, brokers, and payers
+     with innovations in at-home diagnostics/equipment or combining virtual care with at-home nurse visits
+2. Improving access, especially for behavioral health and specialty care
+     with potential to address . For example, 56 percent of counties in the United States are without a psychiatrist, 64 percent of counties have a shortage of mental health providers, and 70 percent of counties lack a child psychiatrist.
+
+
+ This kind of access may also be an opportunity to expand community, payer, and provider partnerships
+     such as . Even outside of rural areas, provider-to-provider virtual health can improve experience and quality of care by rapidly getting specialist input
+3. Improving care models and health outcomes, particularly for those with chronic conditions or in need of post-acute care support
+      where incorporating virtual health into their care models could improve patient outcomes and overall performance
+    
+Remaining challenges to scaleEven with these innovations, challenges remain to be worked through to realize the full potential of virtual care. These challenges include the following items:
+    The need for better data integration and improved data flows across the various players in the ecosystem, in light of the fast proliferation of point solutions, which are overwhelming consumers, payers, and providers alike
+    The need for better integration of the virtual health-related activities into day-to-day workflows of clinicians, particularly to enable hybrid care models that combine online and in-person care delivery
+    Alignment of incentives for virtual health activities with the broader movement toward value-based care, to break out of the fee-for-service mentality and the worry about reimbursement parity, especially for the virtual health models that aim to reduce total cost of care
+Potential exists to improve access, quality, and affordability of healthcare, plus embrace the quarter-trillion dollar economic opportunity represented by telehealth. Collectively, industry leaders have a chance to help consumers and providers improve access and quality through the power of telehealth.Update: May 29, 2020COVID-19 has caused a massive acceleration in the use of telehealth. Consumer adoption has skyrocketed, from 11 percent of US consumers using telehealth in 2019 to 46 percent of consumers now using telehealth to replace cancelled healthcare visits.
+
+
+ Providers have rapidly scaled offerings and are seeing 50 to 175 times
+
+
+
+
+
+
+
+
+ the number of patients via telehealth than they did before. Pre-COVID-19, the total annual revenues of US telehealth players were an estimated $3 billion, with the largest vendors focused in the “virtual urgent care” segment: helping consumers get on-demand instant telehealth visits with physicians (most likely, with a physician they have no relationship with).
+
+
+ With the acceleration of consumer and provider adoption of telehealth and extension of telehealth beyond virtual urgent care, .
+
+
+
+        
+
+
+    
+    This shift is not inevitable. It will require new ways of working for a broad set of providers, step-change improvements in information exchange, and broadening access and integration of technology. The potential impact is improved convenience and access to care, better patient outcomes, and a more efficient healthcare system. Healthcare players may consider moves now that support such a shift and improve their future position.Telehealth has surged under COVID-19
+    
+Many of these dynamics are likely to be in place for at least the next 12 to 18 months, as concerns about COVID-19 remain until a vaccine is widely available. During this period, consumers’ preferences for care access will continue to evolve, and virtual health could become more deeply embedded into the care delivery system.However, challenges remain. Our research indicates providers’ concerns about telehealth include security, workflow integration, effectiveness compared with in-person visits, and the future for reimbursement.
+
+
+ Similarly, there is a gap between consumers’ interest in telehealth (76 percent) and actual usage (46 percent). Factors such as lack of awareness of telehealth offerings, education on types of care needs that could be met virtually, and understanding of insurance coverage are some of the drivers of this gap.
+
+
+
+		
+	
+What is the full potential for telehealth and virtual care?We identified five models for virtual or virtually enabled non-acute care and analyzed the full potential of healthcare volume and spend that could be delivered this way. These models of virtual care have increasing requirements to engage broader and broader portions of the healthcare delivery system, going from offering one-off urgent visits, to building omnichannel care models that deliver a large portion of office visits virtually or near virtually, to embedding virtual services in home care models. They include:
+    
+    
+    
+    
+    
+
+    
+
+
+	
+
+
+
+
+    
+    
+
+Our claims-based analysis suggests that approximately 20 percent of all emergency room visits could potentially be avoided via virtual urgent care offerings, 24 percent of healthcare office visits and outpatient volume could be delivered virtually, and an additional 9 percent “near-virtually.” Furthermore, up to 35 percent of regular home health attendant services could be virtualized, and 2 percent of all outpatient volume could be shifted to the home setting, with tech-enabled medication administration. Overall, these changes add up to $250 billion in healthcare spend in 2020 that could be shifted to virtual or near-virtual care, or 20 percent of all office, outpatient, and home health spend across Medicare, Medicaid, and commercially insured populations.
+        
+
+
+    
+    Scaling telehealth does more than alleviate patient and provider concerns over the next 12 to 18 months until a COVID-19 vaccine is available. Telehealth can increase   in areas with shortages, such as behavioral health, , and . Fundamentally, the integration of fully virtual and near-virtual health solutions brings care closer to home, increasing the convenience for patients to access care when they need it and the likelihood that they will take the right steps to manage their care. These solutions can also make healthcare ; evidence prior to COVID-19 shows that telehealth solutions deployed for chronic populations can improve total cost of care by 2 to 3 percent.
+
+
+ The actual opportunity is likely greater once stakeholders embed telehealth as the new normal (for example, driven by improved abilities to manage chronic patients, potential increases in provider productivity).
+		
+	
+What actions should healthcare stakeholders take in the near term to shape this opportunity?Actions payers could consider:
+    
+    
+    
+    
+    
+Actions health systems could consider:
+    
+    
+    
+    
+    
+Actions investors and health services and technology firms could consider:
+    
+    
+    
+    
+    
+
+        
+
+
+    
+    The window to act is now. The current crisis has demonstrated the relevance of telehealth and created an opening to modernize the care delivery system. This modernization will be achieved by embedding telehealth in the care continuum at scale. A $3 billion revenue market has the potential to grow to $250 billion. The seeds for success will be sown in the next few months during the COVID-19 crisis. Healthcare systems that come out ahead will be those who act decisively, invest to build capabilities at scale, work hard to rewire the care delivery model, and deliver distinctive high-quality care to consumers.

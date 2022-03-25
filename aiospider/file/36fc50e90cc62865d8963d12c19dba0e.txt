@@ -1,0 +1,220 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Extracting Data from Archives: Best Practice Guide
+  
+
+  
+  
+
+  
+    
+  This guide provides an overview of the stages to consider when extracting location data from archive material.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Geospatial Commission and Cabinet Office
+
+      
+      Published
+      16 December 2020
+      Last updated
+      
+        12 November 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Extracting Data from Archives: Best Practice Guide
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Extracting Data from Archives: Best Practice Guide
+    
+        PDF, 1.6MB, 17 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email geospatialcommission@cabinetoffice.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+
+
+The primary focus of this work is the extraction of geospatial data held by the Geo6 partner bodies: the British Geological Survey, Coal Authority, HM Land Registry, Ordnance Survey, UK Hydrographic Office and Valuation Office Agency. However, the guidance is applicable to all those working with archive data in both the public and private sector.
+
+An organisation may take years to develop experience of the stages and the resources required to digitise archive collections such as maps and hand written documents. This guide is designed to provide a high-level overview of the considerations and stages to take into account when designing a project to extract location data from archive materials. The intended audience is those new to extracting data from archives.
+
+This guide is intended to promote the development of data extraction pipelines. It is not intended as a guide to working with specific or specialist data types.
+
+
+
+Extracting Data from Archives: Best Practice Guide
+
+
+
+        
+      
+
+      
+    Published 16 December 2020
+    Last updated 12 November 2021
+      + show all updates
+      
+        
+            
+              12 November 2021
+              Adding an explainer video
+            
+            
+              16 December 2020
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Best practice guidance and tools for geospatial data managers
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

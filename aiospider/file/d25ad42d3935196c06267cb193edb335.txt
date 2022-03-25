@@ -1,0 +1,246 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Using authenticators to protect an online service
+  
+
+  
+  
+
+  
+    
+  Good Practice Guide (GPG) 44 helps you choose the authenticator that will give you the right level of protection for your service.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Cabinet Office and Government Digital Service
+
+      
+      Published
+      9 May 2013
+      Last updated
+      
+        14 May 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Using authenticators to protect an online service
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Using authenticators to protect an online service
+    
+        ODT, 29.7KB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+This guidance will help you choose the authenticator that will give you the right level of protection for your service. An authenticator could be some information (like a password), a piece of software or a device.
+
+This guidance was written by Government Digital Service (GDS) with help from organisations across the public sector. Key contributors include:
+
+
+  Companies House
+  Department for Digital, Culture, Media and Sport (DCMS)
+  Department for Work and Pensions (DWP)
+  Driver and Vehicle Licensing Agency (DVLA)
+  Foreign and Commonwealth Office (FCO)
+  HM Land Registry
+  HM Revenue and Customs (HMRC)
+  Home Office
+  Ministry of Defence (MoD)
+  National Crime Agency (NCA)
+  National Cyber Security Centre (NCSC)
+  NHS
+  the Scottish Government
+
+
+It has been reviewed by organisations from the financial and technology industries, as well as privacy advocates and digital identity experts.
+
+
+
+        
+      
+
+      
+    Published 9 May 2013
+    Last updated 14 May 2020
+      + show all updates
+      
+        
+            
+              14 May 2020
+              The guidance has been rewritten in plain English so it's easy for both technical and non-technical users to understand.
+
+The term 'credential' is no longer used in the guidance. This has been replaced by 'authenticator' to avoid any confusion with the term 'verifiable credential'.
+
+Examples of different types of authenticators have been added throughout the guidance.
+
+The annexes from the previous version have been removed and the information from them added to the guidance.
+
+Levels of authentication have been replaced with another way to measure how much protection an authenticator gives a service.
+            
+            
+              3 November 2014
+              New version of the guide published.
+            
+            
+              9 May 2013
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Identity assurance: organisation identity
+        Identity proofing and authentication
+        DWP procurement: security policies and standards
+        Transaction monitoring for HMG online service providers
+        Requirements for secure delivery of online public services
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Identity proofing and authentication
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

@@ -1,0 +1,137 @@
+
+
+
+
+Previous News ReleaseHistoric Lynchings in the U.S. South Are Linked to Lower Levels of Voter Registration Among Black PeopleNext News ReleaseSexual Harassment, Gender Discrimination Look Different for Men and Women in Army, but Experiences Similar Across Locations
+
+
+RAND Artist in Residence Giorgia Lupi Portrays Opportunities, Risks from 'Internet Of Bodies'
+
+
+
+For Release
+ThursdayJuly 29, 2021
+
+Latest Art + Data residency visualization explores RAND research on benefits and risks of human body-centric and internet-connected technologies
+Probing the emerging Internet of Bodies (IoB) ecosystem, the RAND Corporation and its artist-in-residence Giorgia Lupi debut Internet of Bodies: Our Connected Future, the second visualization as part of RAND's Art + Data residency program. 
+The Internet of Bodies includes devices that monitor the human body, collect personal health and biometric data, and transmit that data over the internet, such as wristwatch fitness monitors, implantable cardiac devices and brain stimulation technologies. Lupi's visualization anatomizes research from RAND's The Internet of Bodies report, bringing awareness to the booming IoB frontier. Internet of Bodies: Our Connected Future also nods to Charles Eames' 1977 film Powers of Ten to illustrate the scale of the IoB landscape from both a macro and micro perspective. 
+“We took a speculative approach to Eames' Powers of Ten film, in which we sought to raise similar questions about how perception of the human body will be transformed with and through IoB technology,” Lupi said. “The visualization seeks to educate the viewer about this technology and their potential effects, while also artistically evoking the future 'data ecosystems' that will surround us when these technologies are employed at huge scales.”
+“This compelling illustration conveys the promise and potential perils of IoB technologies in a visually compelling way that helps us better understand the potential of these devices,” added Debbie Millman, designer and host of the award-winning podcast Design Matters and a co-curator of the RAND program.
+Through intimate access to consumers' bodies and health data, IoB technologies promise improved physical performance, revolutions in medical treatments, and convenience—while also posing cybersecurity and other risks. The FDA and U.S. Department of Commerce govern a fraction of IoB devices, and a patchwork of other organizations govern IoB data, but much of the space remains unregulated. Many devices fall outside of clear regulatory guidelines, creating opportunities for privacy infringement, increased healthcare costs, and vulnerabilities that may be exploited by numerous actors.
+A fuller understanding of the long-term implications of these devices needs to be achieved before the benefits of IoB can be fully realized, according to Mary Lee, a RAND mathematician and lead author of the research.
+“The rise of devices that connect the human body to the web is accelerating rapidly,” Lee said. “This Internet of Bodies could revolutionize health care and improve our quality of life. But without appropriate guardrails, it could also jeopardize our most intimate personal information and introduce serious ethical concerns. Lupi's stunning visualization should draw more public attention to this frontier and help inspire essential conversations around getting the balance right.”
+RAND recommends that policymakers and other stakeholders address IoB risks by staying ahead of cybersecurity and consumer privacy issues, and tasking IoB developers and device makers to provide greater protection from hackers and build evidence supporting efficacy claims.
+RAND's Art + Data residency program is part of its new NextGen Initiative, a series of projects meant to introduce RAND's cutting-edge capabilities and extensive public policy research to younger generations. Co-curated by Millman and The Gordon Co, the residency aims to highlight established and emerging artists each quarter as they visualize data rooted in RAND’s rigorous research and analysis.
+Visit the Art + Data page on RAND's website for more information on Internet of Bodies: Our Connected Future, Lupi, and the residency. To request high-resolution images or schedule an interview with Lupi, Millman, Lee, or The Gordon Co, please contact cheryl@thegordonco.com.
+About the RAND Corporation
+RAND is a research and analysis organization dedicated to deep knowledge and ingenuity. We are nonpartisan and nonprofit, committed to solving the toughest problems facing the world today.
+Our people—including 1,000 researchers who are experts from more than 350 disciplines—bring a diverse range of professional, educational, and cultural backgrounds to their project teams. They dig deeply into issues that directly impact the lives of people everywhere, including healthcare, equity, energy and the environment, and employment and jobs.
+We also educate the policy leaders of tomorrow through the Pardee RAND Graduate School, which offers a full-time Ph.D. program in policy analysis—the first and largest of its kind in the country.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+About the RAND Corporation
+The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous.
+
+
+
+
+Media Resources
+RAND Office of Media Relations
+(703) 414-4795
+(310) 451-6913
+media@rand.org
+
+
+Researcher Spotlight
+
+
+
+Mary Lee
+Mathematician
+
+
+Mary Lee is a mathematician at the RAND Corporation and inaugural Fellow for the RAND Center for Global Risk and Security. Her research interests include mathematical modeling and simulation of complex systems in the areas of defense/aerospace, cyber policy, and health care and chronic diseases.…
+
+Explore Our People »
+
+Explore
+All News Releases
+By Date
+Related Topics
+
+Emerging TechnologiesHealth Information PrivacyVisual Arts
+
+Explore All Topics »
+
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Project
+Internet of Bodies: Our Connected Future
+
+Jul 29, 2021
+
+
+
+
+
+
+
+
+
+
+Report
+The Internet of Bodies
+
+Oct 29, 2020
+Mary Lee @MaryLee_PhD, Benjamin Boudreaux, et al.
+
+
+
+
+
+
+
+
+
+
+Content
+RAND Art + Data
+
+Jun 24, 2021
+
+
+
+
+
+
+
+
+
+
+Content
+NextGen Initiative
+
+Jun 24, 2021
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:News Release","Research Topics:Education and Literacy/Humanities and the Arts/Visual Arts","Research Topics:Science and Technology/Cyber and Data Sciences/Data Science/Data Privacy/Health Information Privacy","Research Topics:Science and Technology/Emerging Technologies"];top.window.RAND.authoring.page_content_tags_json=[{"display":"News Release","value":"content-types:news-release"},{"display":"Visual Arts","value":"research-topics:education-and-literacy/humanities-and-the-arts/visual-arts"},{"display":"Health Information Privacy","value":"research-topics:science-and-technology/cyber-and-data-sciences/data-science/data-privacy/health-information-privacy"},{"display":"Emerging Technologies","value":"research-topics:science-and-technology/emerging-technologies"}];})();
+

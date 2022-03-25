@@ -1,0 +1,301 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Accessible documents policy
+  
+
+  
+    
+      
+    
+        
+            English
+        
+        
+            Cymraeg
+        
+    
+  
+
+  
+
+  
+      
+  Accessible documents at the Adjudicator’s Office
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          The Adjudicator’s Office
+
+      
+      Published
+      24 September 2020
+      Last updated
+      
+        24 May 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Using our documents
+
+        
+        
+          What to do if you can’t use one of our documents
+
+        
+        
+          How accessible our documents are
+
+        
+        
+          Reporting accessibility problems with one of our documents
+
+        
+        
+          Enforcement procedure
+
+        
+        
+          Technical information about the accessibility of our documents
+
+        
+        
+          Non-accessible content
+
+        
+        
+          How we tested our documents
+
+        
+        
+          What we’re doing to improve accessibility
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This policy explains how accessible the documents the Adjudicator’s Office publishes on GOV.UK are.
+
+It covers PDFs, spreadsheets, presentations and other types of document. It does not cover content published on GOV.UK as HTML, which is covered by the main GOV.UK accessibility statement.
+
+Using our documents
+The Adjudicator’s Office publishes documents in a range of formats, including:
+
+
+  PDF
+  Microsoft Word
+  Microsoft Excel spreadsheets
+  CSV (Comma-Separated Values)
+  ODT (OpenDocument Text)
+
+
+We want as many people as possible to be able to use these documents. For example, when we produce a document we make sure we:
+
+
+  provide an HTML option where possible
+  tag headings and other parts of the document properly, so screen readers can understand the page structure
+  make sure we include alt text alongside non-decorative images, so people who can’t see them understand why they’re there
+  avoid using tables, except when presenting data
+  write in plain English
+
+
+What to do if you can’t use one of our documents
+
+If you need to access information in one of these document types, you can ask for an alternative format. It will help us if you tell us what assistive technology you use.
+
+How accessible our documents are
+New documents we publish, and documents you need to download or fill in to access one of the services we provide, should be fully accessible.
+
+Reporting accessibility problems with one of our documents
+We’re always looking to improve the accessibility of our documents. If you find any problems that aren’t listed on this page or you think we’re not meeting accessibility requirements, you can contact us.
+
+Enforcement procedure
+The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (the ‘accessibility regulations’). If you’re not happy with how we respond to your complaint, contact the Equality Advisory and Support Service (EASS), or the Equality Commission for Northern Ireland (ECNI) if you live in Northern Ireland.
+
+Technical information about the accessibility of our documents
+The Adjudicator’s Office is committed to making our documents accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.
+
+The documents the Adjudicator’s Office publishes are partially compliant with the Web Content Accessibility Guidelines version 2.1 AA standard, due to the non-compliances listed below.
+
+Non-accessible content
+The content listed below is non-accessible for the following reasons.
+
+Non-compliance with the accessibility regulations
+
+Success criterion 1.1.1: non-text content
+
+Some of our documents have diagrams and/or tables. Some of these do not have a text alternative, so the information in them isn’t available to people using a screen reader. This doesn’t meet WCAG 2.1 success criterion 1.1.1 (non-text content).
+
+We plan to add text alternatives for all diagrams and tables by the end of October 2020. We will ensure they meet accessibility standards.
+
+How we tested our documents
+We tested a sample of our documents in August and September 2020. The test was carried out by HMRC’s digital content team.
+
+We tested:
+
+
+  PDF documents
+
+
+We decided to test these types of document as they are the main non-HTML formats published by the Adjudicator’s Office.
+
+What we’re doing to improve accessibility
+
+The Adjudicator’s Office is:
+
+
+  publishing in HTML by default where possible, rather than PDF
+
+
+We will continue to review and update this policy as our work progresses.
+
+
+
+
+
+      
+        
+    Published 24 September 2020
+    Last updated 24 May 2021
+      + show all updates
+      
+        
+            
+              24 May 2021
+              Added Welsh translation
+            
+            
+              24 September 2020
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Complaints and appeals
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

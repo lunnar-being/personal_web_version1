@@ -1,0 +1,119 @@
+
+
+The RAND Blog
+Previous Blog PostBiden Puts Japan at the Center of U.S. Policy in AsiaNext Blog PostSupply Chains and National Security
+
+Scientific Research Integrity Demands Transparency—the Law Should Require It Too
+commentary
+Photo by SolStock/Getty Images
+
+
+
+by Cortney Weinbaum
+April 12, 2021
+
+
+China may be using the U.S.'s system of scientific openness to advance its military power while stealing future U.S. economic growth. China pays scientific researchers in the U.S. to “share” their innovations in exchange for money, access to research laboratories and access to speaking and publication opportunities. They do this irrespective of the researchers' ethnicities or countries of citizenship and they require the researchers to keep these agreements secret from their employers or the U.S. government. Perhaps it is time for the U.S. to codify scientific transparency into law.
+In November 2019, the Senate Homeland Security and Government Affairs Permanent Subcommittee on Investigations published 150 pages (PDF) of evidence that the government of China has been systematically, aggressively, clandestinely and strategically stealing from America's scientific research enterprise, exploiting the fact that this enterprise was built on American values of “reciprocity, integrity, merit-based competition, and transparency.”
+Bill Priestap, Assistant Director of Counterintelligence for the FBI, said, “The Chinese government is attempting to acquire or steal, not only the plans and intentions of the United States government, but also the ideas and innovations of the very people that make our economy so incredibly successful.” William Evanina, Director of the National Counterintelligence and Security Center, quantified this theft in terms of future innovation, future patents, and future American jobs—from China and not all countries combined—as “$400B per year in economic loss.”
+Consider the case of a senior scientist specializing in nanoscience while allegedly receiving $50,000 per month, plus living expenses, from a Chinese university. Under U.S. law, he had thus far committed no crime, even though he had allegedly hidden his secret agreement with China from his employer. Only when he lied on a federal grant application, according to federal prosecutors, did the U.S. have recourse to arrest him. Meanwhile the university in China is required by law to share any and all information with the government for use in China's national security, including to advance its military.
+U.S. employers are often in the dark (PDF), completely unaware of their employees' secret relationships with China, and therefore unable to manage the risk these relationships create. Some large technology firms respond with internal policies (PDF), but these employers' only available tools are civil litigation. Leaders at scientific entities that do not handle intellectual property, like many universities and research laboratories, have told me that they struggle to implement internal policies without risking losing their talent to competitor organizations that have no such policies.
+
+U.S. employers are often in the dark, completely unaware of their employees' secret relationships with China, and therefore unable to manage the risk.Share on TwitterScientific research integrity and the free and open sharing of scientific ideas insists on transparency. Foreign researchers immigrate to America because of these ethics, as well as our nation's scientific brainpower and world-leading research facilities. Secret contracts with confidentiality clauses and large cash payments in exchange for access to research conducted in someone else's lab should not be what the concept of reciprocity stands for.
+One solution could put valuable information in employers' hands while fostering international research collaboration and providing the transparency that scientific integrity demands. Congress could write a law making it illegal for an employee to withhold information about their financial or nonfinancial ties to a foreign organization. Such a law would not prevent employees in the U.S. from engaging in relationships with foreign governments, rather it would only ban them from keeping the relationship secret from their employer.
+During discussions about conflict of interest or conflict of commitment, parties assume transparency, and this law could legally require it to be so. This law could give employees a duty to report that they have entered into a relationship with a foreign organization and when scientists and researchers hide this information from their research institutes, companies, or universities, they would have committed a crime.
+Employees who obey the law and self-report would demonstrate their integrity while initiating discussions about whether to continue on their current projects, move to different projects, or sever ties with the foreign entity. Employers could decide whether a conflict of interest exists or whether a risk to intellectual property needs to be mitigated.
+For employees who ignore the law, the government and employers would have a criminal recourse for breaches of contract, foreign technology transfer, or intellectual property theft before damage occurs. If the lie is discovered, the employee could be fired for cause or prosecuted and if that employee or researcher were working in the U.S. on a visa, a prosecution could become grounds for deportation.
+Because employees would report this information to their employer—and not to the government—there would be no need for a massive government database, a new bureaucracy, or concerns for how the government would handle the data. This reporting could be treated the same as the I-9 form: information to be kept on file by the employer.
+Additional discussions would need to determine which organizations, job categories, or roles should be affected; whether certain employee statuses should be exempt (such as part-time employees or 1099 contractors); and how to scope reportable information, particularly for non-financial relationships.
+This law could create the transparency that scientists in the U.S. expect of scientific research. The scientific research ethos of reciprocity and integrity insist that scientific exchanges occur in the light of day, not hidden behind secret, confidential contracts that offer money and benefits for stolen innovations. These are not the ethics the U.S. scientific research community stands for, and the law has an opportunity to catch up.
+
+Cortney Weinbaum is a senior researcher at the nonprofit, nonpartisan RAND Corporation, where she specializes in intelligence and national security. She has researched and published on scientific research ethics, and she recently served in the Office of the Undersecretary of Defense for Research and Engineering.
+Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Cortney Weinbaum
+@cortney_dc
+Senior Management Scientist
+
+
+
+
+
+
+Topics
+ China
+Emerging Technologies
+Intellectual Property
+Science and Technology Legislation
+Science, Technology, and Innovation Policy
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+Ethics in Scientific Research
+
+Jun 5, 2019
+Cortney Weinbaum @cortney_dc, Eric Landree, et al.
+
+
+
+
+
+
+
+
+
+
+Commentary
+A Code of Conduct for AI in Defense Should Be an Extension of Other Military Codes
+
+Sep 11, 2019
+Cortney Weinbaum @cortney_dc
+
+
+
+
+
+
+
+
+
+
+Q&A
+Intel, Ethics, and Emerging Tech: Q&A with Cortney Weinbaum
+
+Aug 23, 2019
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:Commentary","Content Types:Blog","Research Topics:Science and Technology/Science and Technology Legislation","Research Topics:Geographic Areas/East Asia/China","Research Topics:Law and Business/Law/Intellectual Property","Research Topics:Science and Technology/Emerging Technologies","Research Topics:Science and Technology/Science, Technology, and Innovation Policy"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Commentary","value":"content-types:commentary"},{"display":"Blog","value":"content-types:blog"},{"display":"Science and Technology Legislation","value":"research-topics:science-and-technology/science-and-technology-legislation"},{"display":"China","value":"research-topics:geographic-areas/east-asia/china"},{"display":"Intellectual Property","value":"research-topics:law-and-business/law/intellectual-property"},{"display":"Emerging Technologies","value":"research-topics:science-and-technology/emerging-technologies"},{"display":"Science, Technology, and Innovation Policy","value":"research-topics:science-and-technology/science-technology-and-innovation-policy"}];})();
+

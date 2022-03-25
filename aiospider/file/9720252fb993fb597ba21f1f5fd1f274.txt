@@ -1,0 +1,338 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    150-day assessment for national applications for medicines
+  
+
+  
+  
+  
+      
+  Guidance on the 150-day assessment timeline for high-quality marketing authorisation applications including information on how to apply.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Medicines and Healthcare products Regulatory Agency
+
+      
+      Published
+      31 December 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Eligibility
+
+        
+        
+          How to apply
+
+        
+        
+          Validation
+
+        
+        
+          Fees
+
+        
+        
+          Assessment
+
+        
+        
+          Appeals
+
+        
+        
+          Publication
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+The MHRA offers a 150-day assessment timeline for all high-quality marketing authorisation applications (MAAs), aiming at accelerating the availability of medicines for patients in the UK.
+
+Under this process, the MHRA will evaluate the application for a UK, Great Britain (England, Wales and Scotland) or Northern Ireland marketing authorisation and reach its opinion on approvability within 150 days of submission of a valid application.
+
+Eligibility
+
+The 150-day assessment is available for all high-quality new MAAs submitted to MHRA.
+
+How to apply
+
+You can apply for a marketing authorisation (MA) for new active substances and biosimilar products or existing active substances. There are different application processes but all applications should be submitted through the MHRA Submission Portal.
+
+You can find out more in our guidance about the MHRA submission portal.
+
+You should use our eAF and cover letter tool to determine what information you need to include in your application. If you do not include the correct information your application will not be validated.
+
+New active substances and biosimilar products applications
+
+We recommend you email AcceleratedandRollingReview@mhra.gov.uk before you intend to submit an application. You should tell us the intended date of submission of the dossier and whether the MAA is to be submitted to UK, Great Britain (England, Scotland and Wales) only, or Northern Ireland only.
+
+If the application includes Northern Ireland, then it must comply with EU requirements.
+
+Before you submit your application, you should read our guidance on Procedures for UK Paediatric Investigation Plans (PIPs).
+
+A UK PIP compliance check (CC) should be completed 60 days before your intended submission.
+For medicinal products presented or used with a device component, you should read our guidance on regulating medical devices.
+
+MHRA will arrange a pre-submission meeting with you.
+
+Pre-submission meeting
+
+The pre-submission meeting only applies to new active substances and biosimilar applications.
+
+At the meeting applicants may wish to provide a short summary of the dossier to share their intentions and to verify the new active substance status. They may want to raise any specific issues such as requests for:
+
+
+  consideration for orphan MA
+  conditional MA
+  MA under exceptional circumstance
+
+
+The meeting will also offer opportunity to discuss the arrangements for UK Compliance Check on PIPs. The pre-submission meeting may offer the opportunity to enhance joint discussion with the  National Institute for Health and Care Excellence (NICE) Health Technology Assessment (HTA) evaluation process.
+
+The MHRA will operate a ‘fixed submission date’ system to facilitate consultation with the Commission on Human Medicines (CHM) and will publish a set of dates to facilitate planning the submissions to coordinate with appropriate meeting dates of CHM.
+
+Existing Active Substances applications
+
+If you are applying for MA in Great Britain (England, Scotland and Wales) you should read our guidance on choosing acceptable reference medicinal products for generic applications and/or bioequivalence (BE) studies.
+
+You should also refer to any MHRA product-specific BE guidance for applications made only to Great Britain.
+
+Validation
+
+The assessment timetable for new active substances and biosimilar products or existing active substances will begin after the validation of the application.
+
+New active substances and biosimilar products
+
+You should submit a valid, full application for evaluation. The accompanying cover letter should detail the intention to seek orphan status or MA under exceptional circumstances as applicable.
+
+A valid application/dossier should include common technical modules (CTD modules 2-5) and a UK specific CTD module 1, consisting of an appropriate Risk Management Plan (RMP), UK PIP CC and/or compliance with UK Orphan Medicines requirements, when applicable.
+
+The SmPC/PIL may be submitted as Word documents in the working documents folder. There is an option to put the UK specific SmPC PIL/Labelling text/mock-ups in the UK specific folder which is available within the eCTD structure.
+
+Applications that refer to an ASMF should ensure that the file (including the restricted part) has already been submitted to MHRA and a suitable letter of access authorising MHRA to make reference to the confidential information in the restricted part of the ASMF should be provided.
+
+Existing Active Substances Applications
+
+A valid application/dossier should include common technical modules (CTD modules 2-5, as appropriate), a UK specific CTD module-1, and an appropriate Risk Management Plan.
+
+Applications that refer to an ASMF should ensure that the file has already been submitted to MHRA or included in the submission.
+
+Fees
+
+Fees will be payable at the appropriate national rate. You can find out more about the fees we charge in the guidance MHRA fees.
+
+You can find out more about how pay your fees in our guidance Make a payment to MHRA.
+
+Assessment
+
+New active substances and biosimilar products
+
+The assessment process includes consultation with the CHM on fixed dates each month. The submission slots will be linked to the dates of CHM meetings. The MHRA may additionally wish to seek advice or input from therapy area experts (specialty expert groups) during the assessment process.
+
+The assessment process will run in two phases totalling 150 days with an intervening clock-off period between phase I and phase II, if required. Assessment phase I will be completed 80 days after the clock starts. Issues arising or requiring clarification from the initial assessment will be raised with the applicant as a letter requesting further information (RFI) and should be addressed within the clock off period of 60 days.
+
+Requests for extension of the clock off period for up to another 60 days may be granted only for exceptions. Applicants may contact the assessment team for discussing issues raised in the RFI letter. Assessment in phase-I will also address eligibility for grant of orphan status.
+Phase II assessment will commence on receipt of the applicant’s responses. Applicants are recommended to contact the MHRA Assessment Team in advance of the intended date of submission of response to align with CHM meetings. Based on the assessment, the MHRA will provide a decision on approvability of the product by day 150.
+
+For new active substances and biosimilar products the orphan status will be determined at the time of MA grant. If orphan status is not agreed and the company wishes to appeal this decision, the grant of a marketing authorisation will only be possible when the appeal process is completed.
+
+Existing Active Substances Applications
+
+The assessment process will run in two phases totalling 150 days with an intervening clock-off period between phase I and phase II, if required. Assessment phase I will be completed within 80 days after clock start. Concerns arising from the initial assessment will be raised with the applicant as a letter requesting further information (RFI).
+
+MHRA will seek advice from CHM and/or therapy area experts (specialty expert groups) during the assessment process, as required. All concerns must be fully addressed in the clock off period of 60 days. Requests for extension of the clock off for up to another 60 days may be granted under exceptions only. Applicants may contact the assessment team for discussing issues raised in the RFI letter.
+
+Phase II assessment will begin on receipt of the applicant’s responses. Based on the assessment, the MHRA will provide an opinion on approvability of the product by day 150, and if positive, will grant the MA.
+
+Appeals
+
+If the MHRA proposes to refuse to grant the MA based on advice from CHM, there is an opportunity for the applicant to request a review of the decision. The procedure for such review is set out in Schedule 5, and paragraph 11 of Schedule 11, to the Human Medicines Regulations. The MHRA decision letter will detail the appeal process and timelines.
+
+Publication
+
+Conclusion of the assessment will lead to the publication of a UK Public Assessment Report for the product.
+
+
+
+
+
+      
+        
+    Published 31 December 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Marketing Authorisation Application submission dates for 150-days national and European Commission decision reliance procedures
+        Decentralised and mutual recognition reliance procedure for marketing authorisations
+        Types of application (legal basis)
+        Reference Medicinal Products (RMPs)
+        Licencing: how to apply
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Licencing: how to apply
+        New guidance and information for industry from the MHRA
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Marketing authorisations, variations and licensing guidance
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

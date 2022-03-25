@@ -1,0 +1,50 @@
+    
+
+
+
+ has been to highlight the role of quantitative models in our lives. Ideas associated with modeling, such as flattening the curve of disease transmission, are now regularly discussed in the media and among families and friends. Across the globe, we are trying to understand the numbers and what they mean for us.Forward-looking models aren’t new. They have long played an important but unseen role in day-to-day life—for instance, in pricing homeowners’ insurance, anticipating the weather, and deciding how many
+iPhones to manufacture. However, in the COVID-19 pandemic, the scale of impact and the level of uncertainty have introduced new challenges—and notoriety—for modelers.Used properly, models provide information that can present a framework for understanding a situation. But they aren’t crystal balls that state with certainty what will happen, and they don’t in themselves
+answer the difficult question of what to do. The eminent British statistician George Box summarized the point with his famous aphorism: “All models are wrong, but some are useful.” And he refined it by saying, “Since all models are wrong, the scientist must be alert to what is importantly wrong. It is inappropriate to be concerned about mice when there are tigers abroad.”
+        
+
+
+    
+    This article explains how models can help us make sense of the world and why they behave the way they do (see sidebar “What is a model?”). We also discuss the most common modeling pitfalls and how to avoid them.The power of modelsMaking decisions in the face of uncertainty is challenging, particularly during a pandemic. Quantitative models can help us understand systems and behaviors in a number of useful ways that help navigate this ambiguous environment.Clarifying which drivers matterModels structure data in support of reasoned decision making by restricting variables to those that matter for a particular question. For example, when developing a demographic model to help civic leaders plan future community needs, key drivers could be birth rates, death rates, and new-job creation. Models can help users understand what is known about each element and identify the areas of continuing uncertainty.
+
+	
+
+
+
+
+    
+    
+
+Determining how much an input can matterModels are well suited to exposing sensitivities: they show how even small changes in key assumptions can produce large variations in outcomes, helping decision makers establish priorities. An obvious case in point related to the COVID-19 pandemic is the massive impact of even small adjustments in the transmission rate of infection. By establishing sensitivities, models pinpoint areas for investment of effort or money to reduce uncertainty.Facilitating discussions about the futureModels expose how different assumptions lead to different outcomes. Through discussion of modeling results, decision makers can form a collective judgement on scenarios to plan for, based on the multiple variables considered, and thus reach practical decisions (see sidebar “Building a quantitative model while using it”). For example, models were used to enable policy makers to weigh the benefits of requiring seatbelts against the moral hazard of encouraging people to drive faster. Not only do models trigger discussion, but they may force a more nuanced and evidence-based approach to decision making. In many cases, that is more important than the specific output itself.
+        
+
+
+    
+    Pitfalls to avoid when using modelsA model is simply a tool, and, as with any tool, its value highly correlates with the way it is used. Models can be broken down into three main components: raw data, assumptions that define what the model does with the data, and final output. The relative importance of assumptions and data varies by model. Google Search’s autofill, for example, is mostly data driven, while the adage about waiting an hour before swimming is driven by assumptions. Each part must be viewed with a critical lens; failure to do so can lead to poorly informed decisions.Overlooking the fact that a model can’t fix bad dataA model is only as good as its underlying data, and data in a time of extreme uncertainty, such as a global pandemic, present a serious challenge. Just as rotten ingredients won’t produce a tasty dish no matter how good the recipe is, poor data lead to poor output from a model.
+    
+Data can be wanting for various reasons: too few data points, inconsistency, inaccuracy, or incorrectly generalizing from a particular data set. Modeling anything related to a novel virus entails the risk of
+using bad data. Virtually all the data series being collected about the COVID-19 crisis are incomplete or subject to caveats. For example, using data on the impacts of the COVID-19 pandemic in one geography to model potential impacts in another community can be problematic. Data might not be generalizable if the populations differ in important dimensions, such as age.Taking assumptions and simplifications for grantedAssumptions aren’t facts; they should be subject to regular, searching review (see sidebar “The risks of bias in modeling”). For example, prior to the 2008 financial crisis, a key assumption in multiple models was that real-estate prices wouldn’t see major declines. Values had consistently increased in the precrisis years, so some began to take that assumption as a fact, thereby obscuring other possible scenarios.
+        
+
+
+    
+    Assumptions aren’t static; they are subject to change as we learn more, especially in novel circumstances. Estimated rates of death from COVID-19 have been constantly revised as our understanding has expanded. Models tell you what might happen if you believe specified things about different variables. Those ifs all need to be revisited frequently if the model is to remain relevant and useful.Expecting too much certaintyModels aren’t designed to eliminate uncertainty but to limit the range of uncertainties in a given situation by showing what might happen in a variety of defined scenarios. Uncertainty can arise from the very structure of the model, basic assumptions, and ongoing data inputs. For example, hurricane models are an attempt to gain understanding of where hurricanes might make landfall. The models start with significant uncertainties around the path the hurricane might take, and the uncertainties decrease over time as landfall nears.
+        
+
+
+    
+    Usually, models provide guidance on possible futures given multiple inputs (see sidebar “Modeling philosophy for the COVID-19 pandemic”). That makes it dangerous to take a subset of a model’s outputs at a particular point in time as a singular reality. For example, in addition to a popular model for tracking COVID-19-related deaths and hospital demand, the Institute for Health Metrics and Evaluation has released a model that predicts daily infections and testing. For August 2, 2020, it predicts 80,130 infections, which seems very precise (and quotable). However, closer inspection appropriately shows a range of 45,595 to 156,889 infections.
+
+
+ That is a huge range, but it doesn’t negate the usefulness of the model. It is an important indicator of the level of uncertainty that should be taken into account when making any subsequent decisions.
+        
+
+
+    
+    Ultimately, when using models to make decisions or when interpreting their outputs, there are several key questions to ask: How has this model simplified the world? What inputs does the model require, and
+how knowable, certain, and stable are those inputs? What are the outputs telling us, and what is the level of uncertainty? And lastly, how have users engaged with this model in the process of making decisions?Satisfactory answers to these questions will foster a better understanding of potential future scenarios and better decisions in an evolving and uncertain situation. (For a list of suggested reading about
+the use of models in the current crisis, see sidebar “Read me: Quick hit on COVID-19 models.”)

@@ -1,0 +1,48 @@
+
+        
+        
+        
+     and competitive challenges are making the status quo untenable for the banking industry. The macroeconomic slump associated with the COVID-19 pandemic continues to pressure the industry’s bottom line, with little expectation of a turnaround anytime soon. The competitive landscape, meanwhile, is becoming more challenging as digital technology lowers barriers to entry. With fintechs attracting millions of new customers, incumbents face a need for bold action that is becoming more urgent by the day.
+        
+
+
+    
+    A potential way forward for banks is to disrupt the disruptors. Large banks have the capital, resources, and expertise to turn the tables on new entrants and launch digital attackers of their own in consumer banking, wealth management, payments, and a range of specialist services. Some banks have already taken up the challenge and shown it can work (see sidebar “Early wins show the potential of business building”).Business building as competitive advantageBanks that prioritize business building tend to out­perform their peers (Exhibit 1). According to a recent McKinsey survey, 65 percent of financial-services businesses that made business building a top-five priority saw revenue growth above that of their competitors.
+
+
+ Indeed, over a seven-year period, organi­zations that launched four or more businesses were more than twice as likely as businesses that launched three or fewer to see an average return of more than five times.
+
+
+
+    
+Companies that develop business-building “muscle”—and are thus more likely to outperform the market—proceed on the idea that change, whether intended or not, catalyzes value creation. Over the coming decade, that presumption may play to their favor. Amid prolific digital innovation and the pandemic’s impact on consumer behaviors, change is accelerating. Disruptors may not have developed their business models with the idea of a lockdown in mind, but they are ideally positioned to serve customers whose behaviors are changing as a result of the pandemic.New-business building may be the best way to grow
+	
+Low interest rates, the impacts of customer derisking, tougher banking regulation in many countries, and other headwinds are forcing banks to rethink their long-term trajectories. If business expansion is a priority, the main options are large-scale M&A, digital transformation of the core business, bolt-on deals, or new-business building. All have pros and cons. Large-scale M&A offers speedy access to new markets, products, and technology but often comes with a hefty price tag and the perennial challenge of integration. Bolt-on deals are easier to handle but rarely have as much potential to change the game.Of the four options, building a new digital business is increasingly seen as an effective way to grow, because of proof points in the market and the ability to launch digital businesses more easily than ever before. Through a stand-alone vehicle, banks can extend their product offerings, engage new customers, attract deposits, and create oppor­tunities for talent identification and development that might get overlooked in an established organization. These benefits should enable the new business to pursue growth opportunities faster than the incumbent. Indeed, the new business should benefit from the parent’s talent, funds, market insight, intellectual property, data, and other assets—all deployed in an environment designed to jump-start growth. We’ve already seen a variety of offerings globally, such as the following:
+    “neo-banks” with integrated digital offerings for banking, private wealth management, and beyond—some focused on mass-market segments and others on private wealth offerings
+    vertical offerings in healthcare, housing, mobility, or e-commerce with seamless payments enablement and embedded lending
+    white-label or cobranded point-of-sale or “buy now, pay later” offerings
+    a digital-first merchant-acquiring business for medium-size enterprises that have too much scale for fintechs
+    an ecosystem serving small and medium-size businesses with a bank account linked to services including accounting, invoicing, and bill payments provided through a one-stop shop
+    digital-asset or crypto-payments networks or exchanges
+    cross-bank utilities or other shared digital infrastructure (for example, a know-your-customer utility)
+    a white-label banking-as-a-service API platform to enable embedded finance for large corporations
+To get off to a flying start, banks need to get the pricing and offering right, develop a distinctive value proposition, monetize quickly, focus on customer acquisition, manage costs, and apply the right talent and operating models. Alongside those funda­mentals, an important differentiator between new businesses that generate early momentum and those that struggle is the ability to leverage the strengths of an incumbent in a start-up environment. Balancing incumbency and innovation may not sound complicated, but more companies get it wrong—by measures such as shared culture, talent, and resources—than succeed.Why banks should act nowEven before the pandemic, digital business models were in the ascendance, with banks and their digital challengers creating new customer interfaces, streamlining customer journeys, and modernizing middle and back offices. Indeed, in many segments, banks are starting to look more like their tech cousins, which are making waves of their own in financial services, particularly in Asia. And according to our recent survey, half of all financial-services companies currently rank business building as a top-three priority, an 18-percentage-point increase compared with a similar survey conducted two years ago (Exhibit 2).
+    
+As customer demands and behaviors shift, five key benefits that some companies already recognize are adding motivation and urgency to bank business-building aspirations:
+    
+    
+    
+    
+    
+Successful business builders develop strategies tailored to their strengthsThe strategic target of a new build should be nothing less than radical disruption. Banks should aim not only to expand their own core offerings but also to create a unique combination of products and functionality that will disrupt the market.
+        
+
+
+    
+    Successful new launches come with a clear sense of mission and direction, as well as a road map to profitability (see sidebar “Successful business builders are realistic about the journey”). One regional digital attacker in Asia targeted merchant acquiring and developed a network with more than 700,000 merchants. In just four months, it created a product with the capacity to process payments through QR codes at the point-of-sale systems of the two main merchant acquirers in the region and to transfer money between personal accounts. In another case, an incumbent bank launched a state-of-the-art digital solution in just ten months. In China, a leading global bank launched a digital-hybrid business that focuses on financial planning and uses social media to connect with customers. A midsize Asian bank, meanwhile, launched an ecosystem of services for the digital-savvy mass and mass-affluent segment, aimed at making it easier for customers to manage their financial lives. After 24 months of operations, the bank had achieved 2.5 million Android downloads and 750,000 customers.Whatever the idea, the strategic common denomi­nator should be a laser-like focus on creating a differentiated proposition that solves problems. This will achieve the vital goal of making life easier for customers, so it is more likely to achieve a durable advantage in the marketplace.Key questions for business-building planningBefore embarking on creation of a new business, executive teams must think carefully about their strategic positioning, their operational and market challenges, and the mechanics of building and then managing a new business while maintaining the core. Following are three key topics for consideration (Exhibit 3):
+    
+
+    
+    
+    
+The banking industry has been digitizing incrementally for some time now, but only a handful of banks have yet turned digitization into a strategic advantage. Building a new digital business from scratch is a way to accelerate this process. However, to do it right, banks must excel on multiple fronts, combining the strengths of an incumbent with the agility of a start-up. They also need a unique idea, a top-notch team, and a clear path to profitability. None of this is easy. However, banks that make the grade are likely to boost group performance and, potentially, create a star of the future.

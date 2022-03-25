@@ -1,0 +1,292 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Technical writer
+  
+
+  
+  
+  
+      
+  Find out what a technical writer does and the skills you need to do the job.
+
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      7 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of technical writer
+
+        
+        
+          Technical writer
+
+        
+        
+          Lead technical writer
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This describes the role of a technical writer and the skills required, including:
+
+
+  an introduction to the role, telling you what you would do in this role and the full list of skills
+  a description of the levels in this role, from technical writer to lead technical writer, specifying the skills you need for each level and the corresponding skill level (awareness, working, practitioner, expert)
+
+
+This role is part of the Digital, Data and Technology Profession in the Civil Service.
+
+Introduction to the role of technical writer
+
+A technical writer takes a user-centred approach to making complicated technical concepts easier to understand for a specialist audience. In this role, you will focus on specialist content and software documentation, and write for technologists such as developers, technical architects, and technology leaders.
+
+Skills required to be a technical writer
+
+You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level. (See below for details on the role levels and the skills you need to do them.)
+
+
+  
+Agile working. You know about agile methodology and can apply an agile mindset to all aspects of your work. You can work in a fast-paced, evolving environment and use an iterative method and flexible approach to enable rapid delivery. You are unafraid to take risks, willing to learn from mistakes and appreciate the importance of agile project delivery for digital projects in government. You can ensure the team knows what each other is working on and how this relates to practical government objectives and user needs.
+  
+Prototyping. You can apply technical knowledge and experience to create or design workable prototypes, both programs and physical outputs. You understand parameters, restrictions and synergies.
+  
+Stakeholder relationship management. You know how to identify, analyse, manage and monitor relationships with and between stakeholders. You can communicate with stakeholders clearly and regularly, clarifying mutual needs and commitments through consultation and consideration of impacts while focusing on user needs. For example, you know how to manage customer and supplier relationships, ensuring that recommendations deliver maximum benefit and facilitating workshops with stakeholders.
+  
+Strategic thinking. You can take an overall perspective on business issues, events, activities and discuss their wider implications and long-term impact. This could include determining patterns, standards, policies, roadmaps and vision statements. You know how to focus on outcomes rather than solutions and activities.
+  
+Technical understanding. You demonstrate knowledge of the technologies used to build and operate digital services. You understand the different technical roles in a multidisciplinary team.
+  
+User focus. You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs; you can engage in meaningful interactions and relationships with users. You put users first and can manage competing priorities.
+  
+User-centred content design. You can design content to meet user needs and make complex language and processes easy to understand. You can understand and implement style and standards.
+
+
+Technical writer
+
+A technical writer is an expert practitioner who has a deep understanding of technology and the needs of technologists. At this level, you are expected to:
+
+
+  take a user-centred approach to explaining how to use government products and services to a technical audience, focusing on specialist content and software documentation
+  write blog posts for or on behalf of the technical community
+  engage with and contribute to the cross-government technical writing and content design communities
+
+
+Skills needed for this role
+
+
+  
+Agile working. You can identify and compare the best processes or delivery methods to use, including measuring and evaluating outcomes. You know how to help the team to decide the best approach. You can help teams to manage and visualise outcomes, prioritise work and work to agreed minimum viable product (MVP), print and scope. (Relevant skill level: practitioner)
+  
+Prototyping. You know when to use a specific prototyping technique or method. You can show the value of prototyping to the team. (Relevant skill level: working)
+  
+Stakeholder relationship management. You can influence stakeholders and manage relationships effectively. You know how to build long-term strategic relationships and communicate clearly and regularly with stakeholders. (Relevant skill level: practitioner)
+  
+Strategic thinking. You can lead the design and implementation of strategy, directing the evaluation of strategies and policies to ensure business requirements are being met. (Relevant skill level: expert)
+  
+Technical understanding. You know about the technologies used to build and operate digital services. You can collaborate closely with colleagues in different digital disciplines. (Relevant skill level: practitioner)
+  
+User focus. You know how to give direction on which tools or methods to use. You are experienced in meeting the needs of users across a variety of channels. You can bring insight and expertise in how user needs have changed over time to ensure these are met by the business. You know how to apply strategic thinking in how to provide the best service for the end user. (Relevant skill level: expert)
+  
+User-centred content design. You can create and iterate content for end-to-end services. You can deliver through others and direct their work. (Relevant skill level: practitioner)
+
+
+Lead technical writer
+
+A lead technical writer is an expert practitioner who directs a team of technical writers, and assures the quality of technical writing across teams and the alignment to strategy. At this level, you will be expected to:
+
+
+  standardise tools and ways of communicating along with processes
+  work closely with service managers, technology leaders and senior stakeholders to resource teams and resolve problems
+  promote the discipline of technical writing, engage with the cross-government community and keep up to date with industry changes
+
+
+Skills needed for this role
+
+
+  
+Agile working. You can identify and compare the best processes or delivery methods to use, including measuring and evaluating outcomes. You know how to help the team to decide the best approach. You can help teams to manage and visualise outcomes, prioritise work and work to agreed minimum viable product (MVP), print and scope. (Relevant skill level: practitioner)
+  
+Prototyping. You know when to use a specific prototyping technique or method. You can show the value of prototyping to the team. (Relevant skill level: working)
+  
+Stakeholder relationship management. You know how to direct the strategic approach for stakeholder relationships, establishing and promoting the meeting of stakeholder objectives. You can influence key senior stakeholders and provide an arbitration function. (Relevant skill level: expert)
+  
+Strategic thinking. You can lead the design and implementation of strategy, directing the evaluation of strategies and policies to ensure business requirements are being met. (Relevant skill level: expert)
+  
+Technical understanding. You know about the technologies used to build and operate digital services. You can collaborate closely with colleagues in different digital disciplines. (Relevant skill level: practitioner)
+  
+User focus. You know how to give direction on which tools or methods to use. You are experienced in meeting the needs of users across a variety of channels. You can bring insight and expertise in how user needs have changed over time to ensure these are met by the business. You know how to apply strategic thinking in how to provide the best service for the end user. (Relevant skill level: expert)
+  
+User-centred content design. You have experience of creating and iterating content across multiple channels. You can be accountable for content decisions. You can train and guide your team. (Relevant skill level: expert)
+
+
+Read more
+
+
+  Civil Service Jobs
+  Blog: what it’s like being a technical writer at GDS
+  Blog: growing technical writing across government
+
+
+
+
+
+      
+        
+    Published 7 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        User researcher
+        Content strategist
+        Technical architect
+        Interaction designer
+        Incident manager
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

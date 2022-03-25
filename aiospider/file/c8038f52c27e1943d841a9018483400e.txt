@@ -1,0 +1,66 @@
+
+        
+        
+        
+     from the COVID-19 pandemic, the pressure on the property and casualty (P&C) insurers’ revenues is intensified. The expected dramatic decline in global GDP and the strong correlation of GDP with gross written premiums (GWP) imperil the P&C insurance industry’s financials (Exhibit 1).
+    
+As a result of the economic crisis, the shrinking economic pie will spur fierce competition. Insurance carriers have already launched aggressive marketing campaigns to reduce customer churn and attract new business. Some are lowering future premiums, others are returning a portion of current premiums to customers, and still others are offering customers free temporary add-ons, such as new policies or extended coverage periods. P&C insurers are likely to roll out further sales strategies in the next normal.This market is problematic for many insurers: in the face of aggressive competition and price wars, insurers have tended to sacrifice long-term profits for short-term growth. Even before the pandemic, most global insurance carriers failed to generate value.
+
+
+ Our power curve analysis shows that the distribution of economic profit within the industry is quite heterogeneous
+
+
+ (Exhibit 2). Indeed, about one-fifth of global insurers destroy significant value, while around 60 percent are at least able to earn their cost of capital. Only 20 percent of global insurers actually generate positive returns for their shareholders.
+    
+Profitable P&C insurers have few similarities: they differ by region (footprints vary among Asia, Europe, and the United States) and customer or channel segment. However, they all emphasize pricing innovation and underwriting excellence and recently have made significant investments in them. Because pricing will be a primary differentiator for long-term value generation in P&C, it should be an integral part of every insurance carrier’s COVID-19 response strategy.How pricing fuels profitable growth
+	
+Before executives can make the right investments in pricing, to yield profitable growth and create significant value, they must first understand how pricing can be the source of a sustained competitive advantage. Typically, the competitive advantage emerges in these four steps:
+    
+    
+    
+    
+Taking this approach, which is constantly reinforced by new data, enables leaders to outperform competitors with more precise pricing. With every quote, insights get better and better.Building a competitive advantage in pricing has become a strategic imperative. As the insurance industry matures and existing products in both personal and commercial lines commoditize, P&C insurers must increasingly maintain a clear focus on improving the accuracy of pricing and underwriting in order to outsmart and outperform the competition on price.Five levels of pricing innovation
+and transformationMcKinsey’s underwriting and pricing practice group has reviewed and compared multiple pricing transformations at global insurers. Based on this research, we identified five archetypes of pricing innovation and transformation strategies (Exhibit 3). Each level reflects an insurance carrier’s maturity level and the strategic priority of its pricing program.
+    
+Consistent application of generalized linear models (GLMs)We observe that the majority of insurers in different markets have consistently prioritized the application of GLMs for all risk models and product types. This approach serves as the starting point for most pricing innovations and transformations.Based on our pricing-capability assessment benchmark, a bit more than half of all P&C insurers in Europe and the United States have already attained this stage. This level still marks a step up from the current risk modeling practiced by the lower half of the market.
+
+
+ Insurers that master the rollout of GLMs invest heavily in upskilling and hire actuarial personnel with the requisite modeling skills.A large book of business and the potential pricing effects for renewal contracts pose a significant challenge for many insurers, since even a small pricing mistake can have an outsize effect as it works its way across a multibillion-dollar book.AI-based and machine-learning pricing toolsA smaller group of global insurance carriers has leapfrogged the first pricing level or has built upon existing GLMs. This group of insurers has started to implement AI-based, automated pricing tools, which offer these advantages:
+    AI-based modeling enables the development of risk and pricing models with high quality and validity (measured by the Gini coefficient
+
+
+) through AI-based iterative testing.
+    Time to market is significantly reduced for these insurers, since AI-based risk modeling can be completed much faster than the manual test-and-learn approaches of some other models.
+    Furthermore, automated processes allow an insurer to leapfrog GLMs if the company lacks the talent required to apply them consistently.
+The wider adoption and more efficient use of AI-based tools and approaches are enabled by the exponential increase of data, more processing power (of cloud computing, for example) at reduced costs, and recent advances in the area of explainable artificial intelligence. While these tools can help insurers quickly achieve tangible impact—for example, enhanced pricing and faster times to market—they shouldn’t be implemented in a stand-alone fashion. Organizations that do so risk failing to develop the capabilities they need for long-term competitiveness.Implementation of robo-pricingHistorically, insurance carriers have struggled to incorporate price sensitivities and customer behavior,
+
+
+ customer lifetime values,
+
+
+ and external market data in their pricing processes. In particular, the ongoing screening of market price movements and the inclusion of this external information in market-based pricing—eventually with continuous updating—have been challenging.For the past couple of years, insurers around the globe have been integrating robotics into two areas of the pricing process: enhancing market understanding and transparency, and adjusting prices automatically and dynamically. While the former (for example, web-crawling robotics
+
+
+) can be used by insurance carriers in many major markets, the opportunity to harness robotics for dynamic-pricing adjustments varies by market. Robo-pricing does not apply to some markets, such as the United States, where price changes need to be approved by local regulators, making dynamic and real-time price adjustments difficult (or impossible) to implement. Therefore, insurers should assess this capability based on the regulatory environment in which they operate.Product simplification as a prerequisite for optimized pricingAn increasing number of European insurance carriers pursue a pricing approach characterized by product simplification, which forms a basis for enhanced pricing. By analyzing customer demand for tariff combinations and optional modules, as well as eliminating unused offerings, an organization can reduce complexity and costs for IT, operations, and claims.Insurers can achieve more competitive pricing by simplifying the product structure and cutting unprofitable product modules that are susceptible to adverse selection. In most cases, removing product variations enhances diversification, which also improves loss ratios. This simplification positively affects risk capacities, premium levels, and pricing competitiveness. In addition, by implementing new product features that customers actually want, insurers using behavioral pricing might be able to charge price premiums.A pricing strategy that builds on a simplified product portfolio depends in part on a thorough end-to-end optimization of the entire product value chain. This effort includes the systematic integration of external market data from customer insights and competition screenings in addition to the collaboration of operations, claims, and IT to estimate the savings realized from reduced product complexity. Last, insurers must also educate their sales teams on the benefits of simplified products to ensure their adoption.Full-scale pricing transformationA full-scale pricing transformation focuses on building the right infrastructure to achieve substantial and sustainable improvements in pricing through the effective management of all functions across the organization.Our market observations suggest that pricing excellence can be achieved through improvements in seven areas, ranging from underwriting strategy and risk selection to technical, market-based, and behavioral pricing to execution and governance (Exhibit 4). These foundational building blocks are supported by elements such as organization and talent, as well as advanced analytics and digital capabilities.
+    
+A full-scale pricing transformation typically includes establishing an organization’s current capabilities as a baseline, setting the vision, and developing and prioritizing a comprehensive set of use cases. Insurers should proceed with creating the initial road map, designing the operating model and governance, and evaluating any potential shifts in the operating model.In our experience, insurers that have successfully implemented these pricing levels achieved considerable impact (Exhibit 5).
+    
+
+
+	
+
+
+
+
+    
+    
+
+How to position your organization in the pricing raceThe path forward depends on insurers’ prerequisites and strategic priorities. A three-step self-assessment can help executives identify the type of pricing innovation and transformation that might be the best fit for their company’s current position.1. Start with diagnosticsAs an initial step, insurance carriers should evaluate the maturity of their current pricing capabilities, including pricing and underwriting processes, tools (such as AI and advanced analytics), and organizational structures.2. Get insights on market opportunitiesTo determine the relative pricing competitiveness, executives should compare their organization’s pricing maturity with that of the market environment. Local market interviews with experts and anonymized comparisons can be helpful sources of insight. In addition, insurers should identify potential partners for supplying services such as robo-pricing and AI-based pricing.3. Select the pricing level that best suits strategyTo choose a pricing level, executives should consider the following questions:
+    How many and what type of resources
+    (for example, money, talent, and management time) are available for the planned pricing transformation?
+    How competitive is the company’s current tariff and risk model?
+    Does the business already include external market data in its current pricing processes?
+    How urgent is the need for change—is short-term impact or long-term returns the current priority?
+    What is the company’s differentiation by channel?
+    Are there any regulatory restrictions?
+The pricing-transformation-journey road map can be developed based on the selected level. The total amount of time required for implementation will vary by pricing level and the products included in the transformation’s scope.COVID-19 has put substantial pressure on the global economy and insurance industry. The majority of P&C insurance carriers have already launched initiatives aimed at boosting top-line revenues. However, the insurers that regularly create the most value make a sustained commitment to pricing and underwriting excellence, which generates a self-perpetuating competitive advantage.Every insurer has the potential to significantly improve its pricing strategy and capabilities. The key is to select the right pricing transformation approach.

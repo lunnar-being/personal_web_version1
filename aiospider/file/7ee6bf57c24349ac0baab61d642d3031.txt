@@ -1,0 +1,455 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Exporting items on the ‘Trigger List’
+  
+
+  
+  
+  
+      
+  Guidance for exporting nuclear equipment, material and technology that appears on what is known as the 'Trigger List'.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Export Control Joint Unit, Department for Business, Energy & Industrial Strategy, and Department for International Trade
+
+      
+      Published
+      14 August 2012
+      Last updated
+      
+        31 December 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Overview
+
+        
+        
+          What the Trigger List includes
+
+        
+        
+          What should go in a Trigger List application
+
+        
+        
+          Applying for an export licence
+
+        
+        
+          Factors affecting approval of an export licence
+
+        
+        
+          Licensing process
+
+        
+        
+          Assurances
+
+        
+        
+          Getting consents from country of origin
+
+        
+        
+          Amending existing Trigger List licences
+
+        
+        
+          Getting your items out of the UK
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Overview
+
+The Export Control Joint Unit (ECJU) is responsible for issuing licences to export controlled items, including equipment, material and technology (know-how) used in the nuclear sector.
+
+This guidance explains how ECJU, together with the Non-Proliferation Unit (NPU) in the Department for Business, Energy and Industrial Strategy (BEIS) assesses licence applications to export Trigger List items. It sets out the important factors that exporters should bear in mind when applying for a licence.
+
+
+This information is for guidance only. It is not a statement of law. Before exporting you should refer to the legal provisions in force at the time. Where legal advice is required, exporters should make their own arrangements.
+
+
+What the Trigger List includes
+
+The Nuclear Suppliers Group (NSG) publishes 2 sets of guidance documents on the export of nuclear and nuclear-related dual-use items. These documents contain guidelines on how to prevent proliferation of nuclear weapons without hindering civil nuclear trade, and lists of items that should be controlled. These  guidelines are one of the international regimes that inform export controls in most industrialised countries.
+
+The first list is known as the Trigger List, and it contains the nuclear items. These are items that are especially designed or prepared for nuclear use, and that carry the highest proliferation risk. The second list contains nuclear related dual-use.
+
+Find out about the process of exporting nuclear and dual-use items on the NSG’s lists to Iran through the Procurement Channel.
+
+What should go in a Trigger List application
+
+All licence applications should include the information below to prevent delays in response.
+
+References
+
+Exporters of Trigger List items must provide references to:
+
+
+  any older applications involving the same items, the same end-user, and the same end-use
+  any related, live applications
+
+
+NPU will:
+
+
+  check these applications for existing consents or assurances that could be reapplied
+  request consents or assurances for several applications at once to avoid confusion and duplication of work
+
+
+Project description
+
+If your export is part of a wider project, you must supply a project description. This helps NPU to:
+
+
+  make a more confident risk assessment
+  request consents or assurances that can be reapplied
+
+
+Country of origin
+
+You must provide a breakdown of the items, or their parts, by country of origin:
+
+
+  naming the companies that made the items or their parts
+  describing how the items or parts came to the UK
+
+
+End-use and end-user details
+
+You must:
+
+
+  provide a point of contact at the end-user (including their title, name, role, email address, and telephone number)
+  warn the contact that they may be approached by their government with questions about the export
+  provide a complete description of the intended end-use of the items
+  provide an end-user undertaking or consignee undertaking if you have one (NPU would not normally accept a stockist undertaking)
+
+
+Isotope weights
+
+You must supply net weights by isotope for any of the following elements in your items:
+
+
+  deuterium
+  thorium
+  uranium
+  plutonium
+
+
+Shipment
+
+If known, you must supply shipment dates.
+
+Applying for an export licence
+
+Apply for a licence using SPIRE, the online export licensing system.
+
+Read guidance on using SPIRE to apply for an export licence.
+
+
+It is a criminal offence to export controlled goods without the correct licence. Penalties vary depending on the nature of the offence.
+
+
+Factors affecting approval of an export licence
+
+Approval of a licence application to export items on the Trigger List from the UK depends on many factors.
+
+Some nuclear-related items always need a licence, but appear on the Trigger List only in certain quantities and uses. For example, nuclear-grade graphite appears on the Trigger List only if for used in a nuclear reactor.
+
+Conversely, some items appear on the Trigger List but do not always need a licence.
+
+Licensing process
+
+
+  
+ECJU will verify whether the items in your application appear in the Trigger List and need a licence.
+  
+NPU will determine whether the export complies with the NSG guidelines. To make the export compliant, NPU may send notifications to, or request assurances or consents from other governments.
+
+
+Assurances
+
+Under the NSG guidelines the UK government needs formal assurances directly from the government of the recipient before issuing licences to export Trigger List items. This helps the UK government to verify the legitimacy of the export and minimise the proliferation risk.
+
+The assurances are:
+
+
+  the item will not be used in a nuclear weapon
+  nuclear material in the receiving government’s territory is properly physically protected
+  the material is subject to a safeguards agreement and a backup to that agreement
+  the item and its products will not be re-exported without consent from the UK government
+
+
+Assurances can take many formats. NPU may make a formal request for a standalone diplomatic communication called a Note Verbale. Alternatively, it may make a less formal request to reapply an existing Note Verbale. NPU may invoke assurances in another framework altogether, like a Declaration of Common Policy or a Nuclear Cooperation Agreement.
+
+It is for the government of the recipient to decide what to do with the request. Some governments will take steps to satisfy themselves that they can make the assurances about the items. For example, they may send questions to their nuclear regulator, their import licensing authority, or the recipient. They may also ask NPU for clarification. The exact process is likely to vary from government to government and item to item.
+
+To help the government of the recipient to understand the scope of the assurances, NPU’s requests normally give:
+
+
+  the address of the exporter
+  the address of the recipient
+  a description of the items using terminology from the Trigger List
+  the name a point of contact at the recipient
+
+
+For the purpose of assurances, ‘recipient’ means the end-user of the item. NPU’s requests may also feature ultimate end-users, but will not normally feature consignees or other agents.
+
+In general, an end-user is the last party to receive an item in the state in which it left the UK. ECJU understands that the term has other meanings in other countries, and is prepared to allow some flexibility in labelling. It is more important that the licence application makes clear all the parties in the supply chain and their responsibilities.
+
+Timelines to get an assurance
+
+Most exporters should leave 4 months for NPU to obtain an assurance. Some assurances will come in a matter of weeks. In only a fraction of cases will NPU need more than one year.
+
+The NSG guidelines do not commit governments to targets or deadlines. Governments need a reasonable length of time to make their enquiries. Those with large nuclear industries often have officials trained to reply to the requests quickly. Other governments, especially those not part of the NSG, tend to need more time to understand the export and the assurances.
+
+Getting consents from country of origin
+
+NSG guidelines require the UK government to get consent from the government of the country in which the items originated before issuing licences to re-export Trigger List items. This is also true of items made in the UK from imported Trigger List items.
+
+These consents are called ‘retransfer consents’.
+
+NPU requests consents the same way it requests assurances, writing the same details about the exports and usually to similar turnaround times. If an application needs new assurances and new consents, NPU can make all those requests at the same time.
+
+Amending existing Trigger List licences
+
+If you need to amend an existing licence to export Trigger List items, NPU may need to request new consents or assurances.
+
+NPU may write additional conditions on your licence. To operate some of its Nuclear Cooperation Agreements, the UK government needs notifications of shipments, and NPU will request these notifications in a licence condition.
+
+If you apply for an Open Individual Export Licence (OIEL), you must give the names and addresses of the end-users. NPU will name these end-users in any requests for consents or assurances and in the additional conditions on your licence.
+
+ECJU will likely need advice from government departments other than BEIS before it can make a decision on your application.
+
+Getting your items out of the UK
+
+Check what additional declarations need to be made for goods you send from the UK.
+
+
+
+
+
+      
+        
+    Published 14 August 2012
+    Last updated 31 December 2020
+      + show all updates
+      
+        
+            
+              31 December 2020
+              Content updated in Assurances section removing reference to EU Intra Community Assurance and example referring to licence requirements for natural uranium.
+            
+            
+              10 February 2020
+              Added link to further information on exporting nuclear and dual-use goods and services through Iran procurement channel
+            
+            
+              12 December 2012
+              Amended broken links and added related guides
+            
+            
+              14 August 2012
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Exporting to Iran through the Procurement Channel
+        List of international non-proliferation regime members
+        International non-proliferation and arms control regimes
+        Exporting nuclear-related items
+
+  
+
+
+
+
+      
+
+    Detailed guidance
+
+  
+
+
+        International non-proliferation and arms control regimes
+        UK Strategic Export Control Lists
+        New nuclear power: support for industry development
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Import and export controls
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Weapons proliferation
+        Export controls and licensing
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

@@ -1,0 +1,126 @@
+
+
+
+
+Previous News ReleaseChanges in Funding, Finance Policies Could Help U.S. Airports Prepare for Future DemandNext News ReleaseMedicare Surgical Payments Should Be Updated to Reflect Postoperative Care That Is Actually Provided
+
+
+The NHS Spends Significantly Less on Pregnancy-Related Research Compared with Other Health Conditions
+
+
+
+For Release
+TuesdayJanuary 14, 2020
+
+
+For every £1 spent on pregnancy care in the NHS, less than 1p is spent on pregnancy research.
+Despite being one of the most common complications of pregnancy, perinatal mental health receives only 4 per cent of all research investment in pregnancy.
+Litigation claims related to pregnancy are around 50 times the amount spent on current pregnancy research.
+
+The National Health Service (NHS) spends significantly less on pregnancy-related research compared with other health conditions, according to a new study by not-for-profit research organisation RAND Europe.
+Funding for pregnancy research totalled £255 million from 2013 to 2017, or about £51 million a year. As pregnancy care costs the NHS £5.8 billion annually, this means that for every £1 spent on pregnancy care, less than 1 penny is spent on research.
+The study found that this investment is much lower than for conditions such as heart disease—7p for every £1 spent on care—and cancer—12p for every £1.
+The report, commissioned by the UK Clinical Research Collaboration, shows that the £255 million spent on pregnancy research accounts for about 2.4 per cent of all direct, non-industry health research.
+Pregnancy research covers a broad area that encompasses not just the period when a woman is pregnant and gives birth but also includes conception, contraception, the antenatal period and postnatal outcomes.
+Mental health problems are one of the most common complications of pregnancy, affecting up to 20 per cent of women. Previous research found that lifetime costs to society and public services because of mental health problems exceed £6 billion for every year group of pregnancies.
+The 592 survey participants for the study, who included healthcare professionals, researchers and members of the public, rated perinatal mental health as the top priority area for research. However, mental health currently receives only 4 per cent of all UK pregnancy research funding, according to the report.
+Other priority areas identified include stillbirth, preterm birth, postnatal support and safety of medications during pregnancy. 
+Susan Guthrie, report author and RAND Europe research leader said: “There is a clear case for further investment in pregnancy research. Poor pregnancy outcomes can have significant effects on women and families, and making birth safer and improving outcomes through high-quality research can deliver benefits that stretch beyond pregnancy itself.”
+She continued: “Although the survey provides a useful starting point for prioritising research, there is a range of other factors that need to be considered as well when deciding where to target future funding. Decisions need to be taken on where the UK should build on its existing strengths, which new areas are worth the effort to build capacity and expertise, and where we should draw on research done in other countries.”
+The report noted that litigation claims related to pregnancy, estimated at £2.5 billion in 2018–19, are about 50 times the current amount spent on pregnancy research.
+Guthrie added: “This suggests there is a sound economic case for investment in pregnancy research. Just a small decrease in pregnancy costs would be sufficient to financially compensate for a significant increase in investment in pregnancy research.”
+The National Institute for Health Research and the UK Research and Innovation councils are the largest funders of pregnancy research. However, a wide range of smaller charities make important contributions in a number of specific areas.
+- ENDS -
+Notes to Editors:
+
+To request a copy of the report or to arrange an interview with one of the researchers on the project please contact Cat McShane on cmcshane@rand.org or 01223 353 329 x2560.
+The full report is available at the following link: https://www.rand.org/randeurope/research/projects/uk-pregnancy-research-needs.html
+RAND Europe is a not-for-profit research organisation whose mission is to help improve policy and decision making through research and analysis. Our work lies on the spectrum between that of universities and consultancies, combining academic rigour with a professional, impact-oriented approach.
+
+The original version of this news release said “litigation costs” instead of “litigation claims.” 
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+About the RAND Corporation
+The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous.
+
+
+
+
+Media Resources
+RAND Europe
++44 1223-353329
+europeanmedia@rand.org
+Catherine McShane
++44 1223-353329 x2560
+cmcshane@rand.org
+
+
+Researcher Spotlight
+
+
+
+Susan Guthrie
+Research Group Director, Science and Emerging Technology, RAND Europe
+
+
+Susan Guthrie is research group director for the Science and Emerging Technology group at RAND Europe. Her primary research interests are in the area of science and innovation policy, with a particular interest in evaluation, performance monitoring, and research strategy. Recent and ongoing work…
+
+Explore Our People »
+
+Explore
+All News Releases
+By Date
+Related Topics
+
+Maternal HealthMental Health and IllnessNeonatal CarePregnancyUnited Kingdom
+
+Research Conducted By
+
+RAND Europe
+
+Explore All Topics »
+
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+Pregnancy research review
+
+Jan 13, 2020
+Susan Guthrie, Catherine A. Lichten, et al.
+
+
+
+
+
+
+
+
+
+
+Project
+Understanding pregnancy research needs and priorities in the UK
+
+Jan 14, 2020
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Research Topics:Health, Health Care, and Aging/Maternal Health","Research Topics:Geographic Areas/Europe/United Kingdom","Research Topics:Children, Families, and Communities/Populations/Children/Infants/Neonatal Care","Research Topics:Health, Health Care, and Aging/Women's Health/Pregnancy","Research Topics:Health, Health Care, and Aging/Mental Health and Illness","Content Types:News Release"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Maternal Health","value":"research-topics:health-health-care-and-aging/maternal-health"},{"display":"United Kingdom","value":"research-topics:geographic-areas/Europe/United-Kingdom"},{"display":"Neonatal Care","value":"research-topics:children-families-and-communities/populations/children/infants/neonatal-care"},{"display":"Pregnancy","value":"research-topics:health-health-care-and-aging/womens-health/pregnancy"},{"display":"Mental Health and Illness","value":"research-topics:health-health-care-and-aging/mental-health-and-illness"},{"display":"News Release","value":"content-types:news-release"}];})();
+

@@ -1,0 +1,1556 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    School inspection data summary report (IDSR) guide
+  
+
+  
+  
+  
+      
+  This guide gives an overview of the inspection data summary report (IDSR) for primary and secondary schools, along with information to help interpret the charts.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Ofsted
+
+      
+      Published
+      8 October 2019
+      Last updated
+      
+        12 November 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+    
+      Applies to England
+
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Overview of the Ofsted IDSR
+
+        
+        
+          Download your school’s Ofsted IDSR
+
+
+        
+        
+          Ofsted IDSR 2021
+
+        
+        
+          School details box
+
+        
+        
+          Report information
+
+        
+        
+          Areas of interest
+
+        
+        
+          Key stage 4: subject data for 2019 and earlier
+
+        
+        
+          Key stage 4: subject entry data for 2021
+
+        
+        
+          Key stage 4: Progress 8
+
+        
+        
+          Key stage 4: Attainment 8
+
+        
+        
+          Key stage 4: pupil movement
+
+        
+        
+          Key stage 4: destinations
+
+        
+        
+          Key stage 2 progress: reading, writing and mathematics
+
+        
+        
+          Attainment: reading, writing and mathematics
+
+        
+        
+          Phonics attainment in Year 1
+
+        
+        
+          
+EYFS subject attainment
+
+        
+        
+          Other attainment measures
+
+        
+        
+          Absence (whole school 2018/19 and earlier)
+
+        
+        
+          Autumn 2020 absence
+
+        
+        
+          Suspensions and permanent exclusions
+
+        
+        
+          Pupil groups
+
+        
+        
+          School and local context
+
+        
+        
+          Year group context
+
+        
+        
+          Progress and attainment trend
+
+        
+        
+          Understanding the data in the IDSR
+
+
+        
+        
+          Conditions of use
+
+        
+        
+          Data protection
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Overview of the Ofsted IDSR:
+
+This guide is for primary and secondary IDSRs.
+
+The Ofsted IDSR is a PDF file showing data for Ofsted inspectors to use when preparing for and during inspection. The IDSR is designed to align with our school inspection handbook, so that areas of interest can be used to identify inspection trails.
+
+Download your school’s Ofsted IDSR
+
+
+You can access it directly through our Ofsted IDSR service or from the DfE’s Analyse School Performance (ASP) service. You will need a DfE Sign-in account and associated permissions for the school(s).
+
+ Sign-in: Analyse School Performance 
+
+To access your school’s IDSR:
+
+
+  Go to Analyse School Performance (ASP).
+  Click on ‘All reports’.
+  Select ‘Ofsted inspection data summary reports’.
+  Click ‘Visit the Ofsted IDSR service’ to download your school’s report.
+
+
+Ofsted IDSR 2021
+
+As outlined in the school inspection handbook, inspectors will gather evidence of the impact of the quality of education from various sources. This includes nationally generated performance information about pupils’ progress and attainment. The IDSR can only provide a starting point, however. Inspectors want to see first-hand the quality of education as experienced by pupils and understand how well leaders know what it is like to be a pupil at the school.
+
+
+
+  
+      
+  
+  
+    Example primary inspection data summary report 2021
+    
+        PDF, 587KB, 7 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@ofsted.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+      
+  
+  
+    Example secondary inspection data summary report 2021
+    
+        PDF, 1.34MB, 17 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email enquiries@ofsted.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+      
+  
+  
+    Supporting data tables
+    
+        ODS, 118KB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+Supporting data tables used for the 2021 IDSR show national figures and quintile boundaries used to determine whether areas of interest sentences are triggered. To determine the quintile, the data for each school is percentile ranked from 1 to 100. If the score is in percentile 1 this is the highest rank. If the score is in percentile 100 this is the lowest rank. Then the ranks are grouped into 5 quintiles. Ranks 1-20 are in quintile 1, ranks 21-40 are in quintile 2 and so on. The quintile boundaries document shows which scores fall within each quintile.
+
+
+  
+      
+  
+  
+    Master list of IDSR sentences - 2021
+    
+        ODS, 17.8KB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+The areas of interest sentence master list details all the sentences that are possible to have on the areas of interest pages of the 2021 inspection summary data reports.
+
+
+The Ofsted IDSR has been designed to:
+
+
+  reduce the time spent preparing for an inspection
+  provide interpretation of the data for inspectors
+  minimise the focus on small groups that distract the conversation away from meeting the needs of all pupils
+
+
+The IDSR continues to contain areas of interest sentences to highlight important data trends and differences from national data.
+
+The Ofsted IDSR contains:
+
+
+  latest contextual information including workforce census data, financial data, multi-academy trust (MAT) and local authority information and school links
+  2019 and 2021 year group contextual information
+  2019 performance data, including key stage 4 subject-level data
+  2018/19 and earlier absence data
+  2019/20 exclusions final data
+  2020 autumn absence data
+  latest key stage 4 destinations data
+  2021 key stage 4 subject entries data
+
+
+School details box
+
+The school details information on the front page comes from the DfE’s ‘Get information about schools (GIAS)’ service. This data is correct as of 01 November 2021.
+
+Service children’s education provider IDSRs are currently missing some details in this section.
+
+Report information
+
+The Ofsted IDSR will always show which release of data the report is based on. It will also show the date that the report was last released. For example, revised 2019 key stage 4, key stage 2, provisional 2019 key stage 1, phonics, final 2019 early years foundation stage (EYFS) – release date: 12 November 2021.
+
+The IDSR can contain sensitive information about schools and colleges. It is your responsibility to ensure that the IDSR is stored and shared appropriately. Please see our IDSR conditions of use and storage statement.
+
+
+Due to the impact of the COVID-19 pandemic, the latest available results data is from 2019. School performance may vary yearly, and, due to the uneven impact of COVID-19 on pupils and schools, 2019 data may no longer reflect a school’s current performance. The IDSR displays both 2021 and 2019 census data to allow users to view the latest contextual data and the data for pupils who took KS4 exams or KS2 tests in 2019.
+
+
+Areas of interest
+
+The areas of interest in the IDSR are sentences providing inspectors with interpretation of a school’s historical data. A sentence may be triggered by high or low performance, either across 3 years, the last 2 years or in the latest year. Similarly, we generate sentences for absences and exclusions when data is particularly high or low. Some sentences describe the data, such as those relating to the reasons for permanent exclusions.
+
+Please note: areas of interest sentences are shown in grey (not triggered) when there is not something significant to note, the criteria have not been met for a minimum of the latest year, or data relates to a small cohort. For progress and attainment, this is confirmed on the ‘Progress and attainment trend’ section of your IDSR. The school’s data is in either in quintile 1 and highlighted in green or quintile 5 and highlighted in red (for at least the latest year) to trigger a sentence which is not grey. These grey sentences are included to show inspectors that the data has been analysed, but that the historical data is not an area of interest.
+
+
+Example sentence
+
+There is nothing significant nor exceptional to highlight for total fixed-period exclusions in 2018/19. Therefore, no conclusions can be drawn from this data.
+
+
+As mentioned, sentences are not produced when the cohorts are very small, namely cohorts of 10 or fewer. Sentences about permanent exclusions will appear for every school, regardless of cohort size.
+
+School are ranked against other state funded (excluding special schools) schools with a valid school level value. For some measures, ranking has not been possible because there are not enough distinct values across all schools to produce adequate ranks (1–100). For example, this may happen when looking at low prior attainment because there may be fewer values to rank for some measures.
+
+Key stage 4: subject data for 2019 and earlier
+
+Please also see the ‘Areas of interest’ for a more detailed explanation on when a sentence will be triggered or when a standard sentence will appear in grey.
+
+These subject sentences relate to the attainment of and entry into subjects in 2019 and earlier.
+
+Average number of qualifications
+
+This sentence will appear for all schools with pupils at key stage 4, except for special schools. It describes the average number of qualifications that the school has entered pupils for. It covers the data for the latest 3 years. Calculations are based on the GCSE size equivalence, not the number of grades awarded. This means that double award qualifications, such as combined science, count as a single programme of study even though pupils receive 2 grades. For more information, see the DfE key stage 4 qualifications, discount codes and point scores.
+
+
+Example sentence
+
+The average number of key stage 4 qualifications that pupils were entered for in 2019 was 9. This was in line with 2018 (9) and 2017 (9).
+
+
+Subject clusters
+
+This is based on the subject families and clusters shown in Table 1. It describes how many of the available subject clusters, based on the DfE approved key stage 4 qualifications, the school has entered pupils for, based on 2019 examination data.
+
+Table 1: Mapping of subject families to subject clusters
+
+
+  
+      
+  
+  
+    Subject clusters
+    
+        
+          
+            View online
+          
+        
+        
+          
+            Download CSV
+            3.43KB
+        
+    
+
+
+  
+
+
+
+Example sentence
+
+The school entered pupils into 12 of the 17 available key stage 4 subject clusters in 2019.
+
+
+English Baccalaureate entry
+
+The English Baccalaureate (EBacc) is a set of subjects at GCSE that keeps young people’s options open for further study and future careers. The EBacc requires pupils to have studied English language and literature, mathematics, the sciences, geography or history, and a language. The DfE have published further guidance about the EBacc.
+
+A sentence is produced for every school where there were at least 11 pupils. This describes the EBacc entry rate for the school in 2019. It also notes the subject area with the lowest rate of EBacc entry, where the rate is below 75%. This could be either English, mathematics, science, humanities or languages.
+
+
+Example sentence
+
+The subjects of the EBacc form a strong academic foundation for the key stage 4 curriculum. The EBacc entry rate in this school in 2019 was 41%. The subject that appears to be the greatest barrier to more pupils studying the EBacc is languages (47%).
+
+
+EBacc subject level average point scores
+
+Sentences describe the performance of the school in relation to other schools in terms of EBacc subjects. It is based on the subject families shown in ‘Table 1’ above. It will appear if the average point score for pupils in a particular subject is in the highest or lowest 20% of all schools. It will only appear if entry levels were at or above national entries. It will list the subjects when there is more than one. The average point score is shown in brackets.
+
+
+Example sentence
+
+For the following EBacc subject(s), the average point score was in the highest 20% of schools nationally and the proportion of entries was at or above the national average: double science (4.9).
+
+
+Non-EBacc subject level average point scores
+
+Sentences describe the performance of the school in relation to other schools in terms of subjects outside of the EBacc. It is based on the subject families shown in in ‘Table 1’ above. It will appear if the average point score for pupils in a particular subject is in the highest or lowest 20% of all schools. It will only appear if entry levels were at or above national entries. It will list the subjects when there is more than one. The average point score is shown in brackets.
+
+
+Example sentence
+
+For the following subject(s) outside of the EBacc, the average point score was in the lowest 20% of schools nationally and the proportion of entries was at or above the national average: engineering (3.3).
+
+
+EBacc value added
+
+Value added is a measure of progress, like Progress 8. This means that pupils’ results are compared to the progress of other pupils nationally with similar starting points. EBacc value added measures are calculated for science, languages and humanities. This sentence will show whether there is high or low performance in value added in the latest year or across time. High or low performance is measured using statistical significance tests and percentile rank
+
+
+Example sentence
+
+Value added in science (0.9), languages (0.7) and humanities (1.0) was significantly above the national average and in the highest 20% of all schools in 2019 as well as in 2018 and 2017.
+
+
+EBacc attainment of grade 4 or higher
+
+EBacc attainment measures are calculated for science, languages and humanities. This sentence will show whether there is high or low attainment of grade 4 or above in the latest year or across time. High or low performance is measured using percentile rank.
+
+
+Example sentence
+
+The percentage achieving grade 4+ in science (81.8%) was in the highest 20% of all schools in 2019 as well as in 2018 and 2017.
+
+
+Service children’s education provider IDSRs do not incorporate 2017 data so sentences based on only the latest 2 years or the latest year are shown.
+
+Early entry in English
+
+Sentences may appear if pupils were entered early, in Year 10, for either English literature or language. This is calculated based on 2019 examination data. A sentence will only appear when both 80% or more of the cohort were entered and there were more than 10 entries for the qualification entered in Year 10.
+
+A sentence will also be generated when the percentage of pupils achieving grade 4 or above in English language is at least 2 standard deviations higher than the percentage of pupils achieving grade 4 or above in English literature, or vice versa.
+
+
+Example sentence
+
+In 2019, the school entered around 95% of pupils for English literature in Year 10. In 2019, achievement of grade 4 or above in English language was much higher than in English literature.
+
+
+Key stage 4: subject entry data for 2021
+
+These subject sentences relate to the entry into subjects in 2021.
+
+Average number of qualifications
+
+This sentence describes the average number of qualifications that the school has entered pupils for. It covers the data for the latest year.
+
+
+Example sentence
+
+The average number of key stage 4 qualifications that pupils were entered for in 2021 was 8.
+
+
+Subject clusters
+
+This sentence describes how many of the available subject clusters the school has entered pupils for, based on 2021 entries data.
+
+
+Example sentence
+
+The school entered pupils into 13 of the 16 available key stage 4 subject clusters in 2021.
+
+
+English Baccalaureate entry
+
+This sentence describes EBacc entry rate for 2021 based on published 2021 performance data.
+
+
+Example sentence
+
+The subjects of the EBacc form a strong academic foundation for the key stage 4 curriculum. The EBacc entry rate in this school in 2021 was 53%. The subject that appears to be the greatest barrier to more pupils studying the EBacc is languages (51%).
+
+
+Key stage 4: Progress 8
+
+There can be multiple sentences under each heading if your school fits the criteria of each sentence.
+
+Please also see the ‘Areas of interest’ for a more detailed explanation on when a sentence will be triggered or when a standard sentence will appear in grey.
+
+Low or high performance
+
+This sentence will show when there is high or low performance in Progress 8 and its elements: English, mathematics, EBacc and open. High or low performance is measured using statistical significance tests and percentile rank. Sentences will be triggered if the progress score for all pupils is in the bottom or top quintile and the score is significantly different to the national score. The sentence will also identify a trend of low or high performance by checking the latest 3 years, 2 years or only the latest year. This is based on the distribution of scores for all pupils and when cohorts were more than 10 for each of the years.
+
+The progress score for the latest year is in brackets.
+
+
+Example sentence
+
+Overall Progress 8 (0.8) was significantly above the national average and in the highest 20% of all schools in 2019 as well as in 2018 and 2017.
+
+
+Service children’s education provider IDSRs do not incorporate 2017 data, so sentences based on only the latest 2 years or the latest year are shown.
+
+Key stage 4: Progress 8 trend analysis
+
+A sentence shows when there has been a fall or increase in Progress 8 score. This sentence will flag when there was a drop or increase between 2017 and 2018, or 2018 and 2019. This will align with arrows shown on the progress trend charts.
+
+Progress is a relative measure and the national average will always be very close to 0. Progress scores are not directly comparable year on year as they do not compare the cohorts with each other. For example, if all the pupils in 2019 generally made more progress than those in 2018, a comparison of progress scores would not show this improvement.
+
+To allow for direct comparisons, every progress score is standardised using the formula shown in the ‘Understanding the data in the IDSR’ section. A sentence will appear if the standardised score has changed by more than 0.5 (half a grade) and the quintile position has changed by more than 1 quintile. This is referred to as markedly higher or lower in the legend of the progress and attainment trend chart. Note that this is not based on statistical significance testing.
+
+
+Example sentence
+
+English Progress 8 has improved between 2018 and 2019.
+
+
+Service children’s education provider IDSRs do not incorporate 2017 data, so sentences based on only the latest 2 years or the latest year are shown.
+
+Key stage 4: Attainment 8
+
+A sentence will flag when there is high or low attainment of overall Attainment 8 and each of the Attainment 8 elements: English, mathematics, EBacc and open. The sentence will appear for the latest 3 years, 2 years or only the latest year, based on percentile rank. The score for each of the measures flagged will appear for the latest year in brackets.
+
+Please also see the ‘Areas of interest’ for a more detailed explanation on when a sentence will be triggered or when a standard sentence will appear in grey.
+
+
+Example sentence
+
+Overall Attainment 8 (37) was in the lowest 20% of all schools in 2019 as well as in 2018.
+
+
+Service children’s education provider IDSRs do not incorporate 2017 data, so sentences based on only the latest 2 years or the latest year are shown.
+
+Key stage 4: pupil movement
+
+Please also see the ‘Areas of interest’ for a more detailed explanation on when a sentence will be triggered or when a standard sentence will appear in grey.
+
+We have used pupil-level data from the DfE’s spring school census to identify pupils who were in Year 10 in each school in January of one year and whether they were still in the same school in January of the following year. We do not use the census data from other school terms for this analysis, for example the autumn-term census. This may mean that the figures do not match those produced by some schools or local authorities.
+
+We developed a logistic multi-level model that uses contextual factors to estimate what proportion of pupils we might expect to leave each school. Our analysis shows that these contextual factors are associated with higher levels of pupil movement. The contextual factors that the model takes into account are pupils’ and schools’ characteristics.
+
+The following are the pupils’ characteristics:
+
+
+  gender
+  eligibility for free school meals in the past 6 years
+  speaking English as an additional language
+  key stage 2 attainment (low, middle/high or not present in key stage 2)
+  having special educational needs and/or disabilities (SEND), especially social, emotional or mental health issues
+  being in either the White Irish Traveller or White Roma ethnic group
+  being looked after by a local authority
+  income deprivation affecting children index (IDACI) of home postcode
+
+
+The model also takes into account the school characteristic of whether the school area is urban.
+
+
+Example sentence
+
+Between 2019 and 2020, 68 pupils left the school. Of these, 16 left between Years 10 and 11. This was significantly above the number anticipated for this school this year. The same was true in the previous year. There can be many valid reasons for high levels of pupil movement in schools. Inspectors will discuss this with school leaders, if appropriate, at the time of the next inspection.
+
+
+Key stage 4: destinations
+
+This table displays the proportion of pupils that continued to complete specified destinations. This data is publicly available and comes from the DfE’s destinations collection.
+
+The data for the latest year relates to the pupils that sustained destinations in 2018/19. These are pupils that reached the end of key stage 4 and 16–18 study (key stage 5) in 2017/18. The row header displays the year of completed education, as the latest year.
+
+Sustained destinations include school sixth forms, further education and sixth-form colleges, as well as higher education institutions, apprenticeships and employment. For a destination to count, pupils must sustain participation for a 6-month period.
+
+Blue boxes will indicate if a figure was, statistically, significantly above the national average. Orange boxes will indicate when a figure was, statistically, significantly below the national average. The supporting data tables provide the national figures here. An ‘X’ will show for cohorts of 10 or fewer. In this case, no statistical significance will appear.
+
+Service children’s education provider IDSRs will only have the destinations for the latest year due to data availability.
+
+Key stage 2 progress: reading, writing and mathematics
+
+There can be multiple sentences under each heading if your school fits the criteria of each sentence.
+
+Please also see the ‘Areas of interest’ for a more detailed explanation on when a sentence will be triggered or when a standard sentence will appear in grey.
+
+Low or high performance
+
+These sentences show when there is high or low performance for progress in reading, writing or mathematics, based on statistical significance tests and percentile rank. Sentences will flag if the progress score for all pupils is in the bottom or top quintile for the latest 3 years, 2 years or just the latest year and the score is significantly different to the national score. This is based on the distribution of scores for all pupils and when cohorts were more than 10 for each of the years. The progress score for the latest year is in brackets. If the latest 3 years sentence is not flagged, a sentence will appear if the all pupil group is in the bottom/top quintile for the latest 2 years.
+
+
+Example sentences
+
+Key stage 2 progress in reading (-5.1) was significantly below the national score and in the lowest 20% of all schools in 2017, 2018 and 2019.
+
+Key stage 2 progress in reading (-4.9) was significantly below the national score and in the lowest 20% of all schools in 2019 as well as in 2018.
+
+Key stage 2 progress in reading (-5.4) was significantly below the national score and in the lowest 20% of all schools in 2019.
+
+
+Service children’s education provider IDSRs do not incorporate 2017 data so sentences based on only the latest 2 years or the latest year are shown.
+
+Progress trend analysis
+
+A sentence shows when there has been a fall or increase in progress score. This sentence will flag when there was a drop or increase between 2017 and 2018, or 2018 and 2019. This will align with arrows shown on the progress trend charts.
+
+Progress is a relative measure and the national average will always be very close to 0. Progress scores are not directly comparable year on year as they do not compare the cohorts with each other. For example, if all the pupils in 2019 generally made more progress than those in 2018, a comparison of progress scores would not show this improvement.
+
+To allow for direct comparisons, every progress score is standardised using the formula shown in the ‘Understanding the data in the IDSR’ section. A sentence will appear if the standardised score has changed by more than 1 and the quintile position has changed by more than 1.
+
+
+Example sentence
+
+Reading progress has improved between 2018 and 2019.
+
+
+Attainment: reading, writing and mathematics
+
+The following guidance is applicable to primary schools only.
+
+There can be multiple sentences under each heading if your school fits the criteria of each sentence.
+
+Please also see the ‘Areas of interest’ for a more detailed explanation on when a sentence will be triggered or when a standard sentence will appear in grey.
+
+Key stage 2 attainment
+
+A sentence will flag when there is high or low attainment of the expected standard for each subject for the latest 3 years, 2 years or just the latest year, based on statistical significance and percentile rank. It will also flag the number of pupils who did not meet the expected standard in the latest year and, where there are more than 10 pupils not meeting the expected standard and who have a scaled score, the average scaled score of those pupils.
+
+
+Example sentence
+
+Key stage 2 attainment of the expected standard (100+) in mathematics (39%) was significantly below national and in the lowest 20% of all schools in 2019 as well as in 2018 and 2017. Of the 38 pupils in 2019, 23 did not meet the expected standard. 19 of these pupils had a score, with an average scaled score of 84.
+
+
+A different sentence will appear when there is significant high or low attainment of the high standard in reading or mathematics. A sentence will also show when there is significant high or low attainment of greater depth in writing.
+
+
+Example sentence
+
+Key stage 2 attainment of the high standard (110+) in reading (2%) was significantly below national in the lowest 20% of all schools in 2019 as well as in 2018 and 2017.
+
+
+If both the expected standard and high/greater depth sentence flag for both high or low attainment for the same subject, the sentence will be combined.
+
+Service children’s education provider IDSRs do not incorporate 2017 data so sentences based on only the latest 2 years or the latest year are shown.
+
+Key stage 2 attainment 3-year average
+
+A sentence will appear for reading and mathematics when the 3-year combined average key stage 2 attainment score was in the highest or lowest 20% of all schools.
+
+
+Example sentence
+
+The 3-year average reading attainment score (102.1) was in the lowest 20%.
+
+
+Service children’s education provider IDSRs do not incorporate 2017 data so no sentence for 3-year average will be displayed.
+
+Key stage 1 attainment
+
+A sentence will flag when there is significant high or low attainment of the expected standard for each subject for the latest 3 years, 2 years or just the latest year, based on statistical significance and percentile rank.
+
+
+Example sentence
+
+Key stage 1 attainment of the expected standard (30%) in reading was significantly below national and in the lowest 20% of all schools in 2019 as well as 2018 and 2017.
+
+
+A different sentence will flag if there is low attainment of greater depth for each subject.
+
+
+Example sentence
+
+Key stage 1 attainment of greater depth (3%) in reading was significantly below national in the lowest 20% of all schools in 2019 as well as 2018 and 2017.
+
+
+If both the expected standard and greater depth sentence flag for both significant high or low attainment for the same subject, the sentence will be combined.
+
+Service children’s education provider IDSRs do not incorporate 2017 data so sentences based on only the latest 2 years or the latest year are shown.
+
+Phonics attainment in Year 1
+
+A sentence will flag when there is significant high or low attainment of the expected standard for the latest 3 years, 2 years or just the latest year, based on statistical significance and percentile rank. If the sentence has been triggered due to the school being below national and in the lowest 20%, an additional sentence will be displayed showing the total number of pupils and how many of them did not meet the expected standard. When applicable, it will also display how many did not sit the test (those whose outcome was recorded as either absent, maladministration, disapplied or left).
+
+
+Example sentence
+
+The proportion of pupils who met the expected standard (32+) in phonics in Year 1 (62%) was significantly below national and in the lowest 20% of all schools in 2019 as well as 2018 and 2017. Of the 30 pupils, 9 did not meet the expected standard and 2 did not sit the test. There were 21 pupil(s) that were screened in Year 2 in 2019; 12 of those met the expected standard.
+
+
+Sentences for phonics will not appear in the pupil groups section of the IDSR.
+
+
+EYFS subject attainment
+
+A sentence will flag when there is significant high or low attainment of the expected standard for the latest 3 years, 2 years or just the latest year, based on statistical significance and percentile rank. Sentences are generated for reading, writing and mathematics. The mathematics EYFS profile outcome is a bespoke measure for the IDSR that is formed using the EYFS measures of numbers and shape, and space and measures. When the 2 measures are not the same for a child, the lowest is taken. The child has to have at least a 2 in both areas to be classified as meeting the expected standard.
+
+
+Example sentence
+
+Early years foundation stage attainment of the expected standard in the mathematics early learning goal (97%) was significantly above national and in the highest 20% of all schools in 2019 as well as in 2018 and 2017.
+
+
+Service children’s education provider IDSRs do not incorporate 2017 data so sentences based on only the latest 2 years or the latest year are shown.
+
+Other attainment measures
+
+The following guidance is applicable to primary schools only.
+
+There can be multiple sentences under each heading if your school fits the criteria of each sentence.
+
+Please also see the ‘Areas of interest’ for a more detailed explanation on when a sentence will be triggered or when a standard sentence will appear in grey.
+
+Key stage 2: attainment of the expected standard for combined subjects
+
+A sentence is generated based on the proportion of pupils that reached the expected/higher standard in reading, writing and mathematics combined in the latest 3 years, 2 years or just the latest year.
+
+The criteria that trigger this sentence require that a school is in the top or bottom 20% of all schools and either significantly above or below the national.
+
+
+Example sentence
+
+In 2019, 36% of pupils achieved the key stage 2 expected standard in reading, writing and mathematics, significantly below national and in the lowest 20% of all schools. Two per cent of pupils achieved the high standard, which is significantly below the national and in the lowest 20% of all schools.
+
+
+English grammar, punctuation and spelling test
+
+A sentence is generated based on the proportion of pupils that achieved the expected (100+)/higher (110+) standard in the latest year. The lowest scaled score is 80 and the highest scaled score is 120. Pupils scoring at least a scaled score of 100 will have met the expected standard of the test.
+
+The criteria that trigger this sentence require that a school is in the top or bottom 20% of all schools and either significantly above or below the national in the latest 3 years, 2 years or just the latest year.
+
+
+Example sentence
+
+In 2019, 38% of pupils achieved a scaled score of 100+ in the English grammar, punctuation and spelling test, significantly below national and in the lowest 20% of all schools.
+
+
+Science
+
+The key stage 2 science sentence is generated based on the proportion of pupils that reached the expected standard in 2019.
+
+
+Example sentence
+
+In 2019, 56% of pupils achieved the key stage 2 science expected standard, significantly below national and in the lowest 20% of all schools.
+
+
+EYFS
+
+A sentence is generated based on the proportion of pupils that achieved a good level of development in the latest 3 years, 2 years or just the latest year. Children achieving a good level of development are those achieving at least the expected level in these areas of learning:
+
+
+  communication and language
+  physical development
+  personal, social and emotional development
+  literacy
+  mathematics
+
+
+
+Example sentence
+
+In 2019, the percentage achieving a good level of development in the early years foundation stage (47%) was significantly below national and in the lowest 20% of all schools.
+
+
+Absence (whole school 2018/19 and earlier)
+
+Absence data is based on 3 terms for 2018/19, 2017/18 and 2016/17. You can view further information on absence statistics.
+
+Sentences will appear when the rate of overall absence in the latest year was in the highest or lowest 20% for similar schools. Similar here means the same phase of education and with a similar level of deprivation (in the same income deprivation affecting children index (IDACI) quintile).
+
+Please also see the ‘Areas of interest’ for a more detailed explanation on when a sentence will be triggered or when a standard sentence will appear in grey.
+
+
+Example sentence
+
+The rate of overall absence (4.80%) in 2018/19 was in the highest 20% of schools with a similar level of deprivation.
+
+
+An equivalent sentence will flag for persistent absence.
+
+
+Example sentence
+
+The rate of persistent absence (1.30%) in 2018/19 was in the lowest 20% of schools with a similar level of deprivation.
+
+
+If both the overall absence and persistent absence sentence flag the sentence will be combined. A sentence is generated when the rate of overall absence was in the highest or lowest 20% in the latest 3 years, 2 years or only the latest year.
+
+
+Example sentence
+
+Overall absence (3.1%) was in the lowest 20% of all schools in 2019 as well as in 2018.
+
+
+An equivalent sentence will flag for persistent absence.
+
+
+Example sentence
+
+Persistent absence (20.7%) was in the highest 20% of all schools in 2019 as well as in 2018 and 2017.
+
+
+Service children’s education provider IDSRs do not incorporate 2017 data so sentences based on only the latest 2 years or the latest year are shown.
+
+Autumn 2020 absence
+
+Autumn 2020 absence data is based on the DfE census collection and has been provided as a new section within the IDSR. This is different to the daily attendance collection that schools have submitted throughout the pandemic, which will not be used in the IDSR.
+
+This data relates to absences during the coronavirus (Covid-19) pandemic. As such, users should not directly compare 2020 autumn absence to historic absence rates. There may be a number of reasons for changes in absence rates. Inspectors will not use the 2020 autumn absence data by itself to draw conclusions but may use it to prompt questions regarding how well-attended a school was during this period. Inspectors may also use previous years’ data to provide context to the latest data, particularly where a school has previously had high or low absence rates in relation to other schools.
+
+It is important to note that if a pupil tested positive for Covid-19 then this absence should have been treated as an illness and included within the data. However other Covid-19 related absences, such as pupils being sent home to isolate, did not count as absences within the data.
+
+The sentences provided are the same as those in the usual absence section, apart from an additional sentence regarding the number of sessions missed by pupils not attending in circumstances related to coronavirus (Covid-19).
+
+
+Example sentence
+
+There were 10 sessions missed by pupils not attending in circumstances related to coronavirus (COVID-19) – these did not count as absence within the data.
+
+
+Suspensions and permanent exclusions
+
+Please also see the ‘Areas of interest’ for a more detailed explanation on when a sentence will be triggered or when a standard sentence will appear in grey.
+
+For suspensions, ‘total’ relates to the number of pupils who had 1 or more suspensions during the academic year. ‘Repeat’ relates to the number of pupils who had 2 or more suspensions.
+
+The rate of total or repeat suspensions is calculated by dividing the number of pupils suspended by the number on roll. We have profiled the national comparator for all suspensions by phase of education. Special schools are compared with the national rate for secondary schools.
+
+The number of pupils with a permanent exclusion is provided for up to the last 3 years. The national average, profiled by phase of education, is included for the latest year. Special schools are compared with the national average for special schools.
+
+The numbers and proportions of pupils with suspensions or permanent exclusions are often very small. These should be interpreted with caution, particularly when making comparisons over time. Additionally, the COVID-19 pandemic started during the 2019/20 reporting period. We are aware that rates of suspensions and permanent exclusions generally dropped during this year as a result. The suspensions and permanent exclusions data is one year behind. For example, 2019/20 data was published in July 2021. Suspensions and permanent exclusions data is for cohorts before the one shown on the context page and the number on roll may have changed.
+
+Further information on pupil exclusion statistics is in the DfE’s pupil exclusion statistics methodology publication.
+
+Suspensions
+
+Sentences will appear when the rate of total suspensions in 2019/20 was in the highest 20% for similar schools. Similar here means the same phase of education and with a similar level of deprivation (in the same IDACI quintile). The IDSR does not produce these sentences for primary schools due to very low suspension rates.
+
+
+Example sentence
+
+The rate of total suspensions (5.76%) was in the highest 20% of schools with a similar level of deprivation in 2019/20.
+
+
+An equivalent sentence will flag for repeat suspensions or the sentence will be combined for both.
+
+
+Example sentence
+
+In 2019/20, the rates of total (5.76%) and repeat (2.23%) suspensions were in the highest 20% of schools with a similar level of deprivation.
+
+
+A sentence shows when there are high proportions of total/repeat suspensions for up to 3 years. A high proportion relates to the highest quintile based on the national distribution of suspension proportions. This is profiled by phase and year, and only includes schools with cohorts greater than 10 in that year. Special schools are compared with the distribution for secondary schools. The sentence includes the school’s proportion of total/repeat suspensions for the latest year in brackets. If a sentence is not triggered for the latest 3 years, it will also show if the school is in the highest quintile for the latest 2 years. If a sentence is not triggered for the latest 3 or 2 years, it would show a sentence if the school is in the highest quintile in the latest year.
+
+
+Example sentences
+
+The rate of total suspensions (6.75%) was in the highest 20% in 2019/20 as well as in 2018/19.
+
+The rate of repeat suspensions (4.38%) was in the highest 20% in 2019/20.
+
+
+For schools with at least one pupil with a suspension in 2019/20, a sentence details the prevalence of repeat suspensions. For schools with between 1 and 10 pupils receiving a suspension, the sentence states how many received more than one. If any pupils received more than one, the sentence also states how many received 10 or more. The same applies to schools with more than 10 pupils receiving a suspension. However, the sentence quotes proportions rather than numbers of pupils.
+
+
+Example sentences
+
+Of the 7 pupils with at least one suspension in 2019/20, 4 were suspended on more than one occasion and 1 received 10 or more suspensions during the year.
+
+Of the 56 pupils with at least one suspension in 2019/20, 34% were suspended on more than one occasion and 10.7% received 10 or more suspensions during the year.
+
+
+For schools with at least 1 pupil with a suspension in 2019/20, a sentence states the most common reason and its frequency. It also includes the total number of suspensions and any other reasons accounting for 10% or more of the total, with their frequency.
+
+
+Example sentence
+
+Of the 13 suspensions in 2019/20, the following reasons each accounted for more than 10%: verbal abuse/threatening behaviour against a pupil (5), racist abuse (3), physical assault against an adult (2).
+
+
+Permanent exclusions
+
+A sentence appears for each school stating the number of permanent exclusions in each of the last 3 years, if data is available. The sentence includes the national average for the latest year, profiled by phase.
+
+
+Example sentence
+
+There was 1 permanent exclusion in 2019/20. The national average for this year was close to zero. There were none in 2018/19 but there were 2 in 2017/18.
+
+
+For schools with at least 1 pupil who received a permanent exclusion, a sentence states the most common reason and its frequency. It also includes the total number of permanent exclusions and any other reasons for permanent exclusions, with their frequency.
+
+
+Example sentence
+
+Of the 2 permanent exclusions in 2019/20, both were for theft.
+
+
+Service children’s education provider IDSRs only have suspensions and permanent exclusions data for the latest academic year available.
+
+Pupil groups
+
+Pupil group differences can be meaningless when analysed at school level, particularly when groups relate to small cohorts. The conversation should be about meeting the needs of all pupils.
+
+As such, sentences related to the performance of pupil groups will only appear when:
+
+
+  the performance of the group differs from that of the whole school
+  the pupil groups for performance data are disadvantaged pupils, low prior attainers, middle prior attainers and high prior attainers
+  the pupil groups for absence data are pupils in receipt of free school meals, pupils with English as an additional language and pupils with SEND
+
+  performance relates to key stage 4 progress and attainment, key stage 2 progress and attainment, key stage 1 attainment or absence groups (now including autumn 2020 absence).
+
+
+If performance does not differ from that of the school, no sentences will appear, unless the pupil group had trend information that the overall school did not. For example, a sentence will appear if the group was in the highest 20% and significantly above national for 3 years but the whole school was in the highest 20% and significantly above national for the latest year only.
+
+Please also see the ‘Areas of interest’ for a more detailed explanation on when a sentence will be triggered or when a standard sentence will appear in grey.
+
+Key stage 4 prior attainment groups are based on overall key stage 2 prior attainment, which is calculated using reading and mathematics.
+
+Key stage 2 prior attainment groups are based on overall key stage 1 prior attainment, which is calculated using reading and mathematics.
+
+Key stage 1 prior attainment groups are based on emerging, expected and exceeding in reading, writing or mathematics early learning goals.
+
+Note that:
+
+
+  it was not possible to produce percentile ranks for groups in terms of attainment at key stage 1 and 2; this is due to the spread of data and, therefore, only statistical significance tests have been performed to identify high or low performance
+  due to small cohorts of low and high prior attainment groups, it is much less likely for sentences to appear
+  it was not possible to flag group sentences for EYFS and phonics attainment; this is due to the spread of the data
+  pupil group sentences for exclusions will not be shown
+  it was not possible to produce percentile ranks for groups in terms of the attainment 4plus threshold measure; this is due to the spread of data; therefore, only Attainment 8 sentences will appear in the groups section
+
+
+Service children’s education provider IDSRs do not incorporate 2017 data so sentences based on only the latest 2 years or the latest year are shown. For the exclusion sentence, service children’s education provider IDSRs only have data for the latest academic year available.
+
+School and local context
+
+Due to the impact of COVID-19, the 2021 IDSR will not contain 2020 performance data. However, contextual information was collected in the January 2021 census after the COVID-19 outbreak. As such, we have included 2021 context pages for schools and inspectors to view this data. We have also retained the 2019 context data for year groups, as this provides context for pupils who took exams or tests in summer 2019.
+
+Some schools may have blank 2021 context pages and populated 2019 context pages. This is likely to be because the school became an academy between 2019 and 2021, for example. In this case, the 2021 context data will be assigned to the new school and therefore not sit alongside the IDSR that contains the 2019 performance and context data held under the predecessor details.
+
+School level
+
+The chart shows school-level information, based on the January school census, for 2019, 2020 and 2021 for the following measures:
+
+
+  the percentage of pupils in receipt of free school meals (FSM) at the time of the January census; these pupils are those who are/have been eligible for FSM and have claimed them some time in the last 6 years (Reception to Year 11)
+  the percentage of pupils whose first language is not English or believed to be other than English
+  the percentage of pupils with SEND who do not have an education, health and care (EHC) plan (SEND support)
+  the percentage of pupils with SEND and who have a statement of SEND or EHC plan
+  the number of pupils on roll
+
+
+Stability is a measure of the percentage of students who were admitted to the school at the standard time of admission. The stability percentage is calculated by dividing the number of pupils considered stable by the number of all eligible pupils (pupils in Years 1 to 11 and with current single or current main dual registration at the school).
+
+For each group, school figures along with the national will show for each year. The quintile boxes compare the latest year to the national distribution for all schools. Special schools are compared with secondary school nationals.
+
+
+MAT and local authority information
+
+This section provides information about the MAT or local authority that the school is part of. For example, if a school is part of a MAT, it will have information about the number of schools in the MAT and the latest overall effectiveness grades of the schools within the MATs. Similarly, it will show local authority information for local authority maintained schools.
+
+It is important to note that the latest inspection grades may include grades of the school before joining the MAT. Between November 2017 and January 2018, we consulted on changes to our official statistics and management information.
+
+As a result of this consultation, we changed the way we show and report on the latest inspection of all providers. We now include the grades from the predecessor schools for schools that have not yet been inspected in their current form. This provides a more comprehensive view of the sector. For more details of the changes, see the official statistics documents. If a school has not been inspected in its current form, the latest overall effectiveness grade therefore relates to the predecessor school. This is made clear in the IDSR.
+
+School workforce
+
+This section provides information about the school workforce at November 2020, based on published DfE school workforce data.
+
+It provides information on:
+
+
+  the number of full-time vacant teacher posts in the school at the time of the November 2020 school workforce census
+
+
+This section also provides information on staff turnover as at the 2019 school workforce census. Staff turnover rates are calculated using the number of FTE turnover leavers and the total FTE staff at the school. A school will be highlighted as having high staff turnover if the turnover rate was in the highest 20% of schools for the previous 2 years. Low staff turnover is not highlighted. Special schools are compared to primaries.
+
+Due to COVID-19 no teacher absence data was available in 2020.
+
+Service children’s education provider IDSRs will not display information in this section as they are currently not contained in the dataset.
+
+Ethnicity
+
+Ethnicity information comes from the January 2021 school census. The sentence states how many ethnic groups are present in the school out of 17.
+
+The 17 possible ethnic groups are:
+
+
+  White British
+  White Irish
+  White Traveller of Irish Heritage
+  White Gypsy/Roma
+  White Any other White background
+  Mixed White and Black Caribbean
+  Mixed White and Black African
+  Mixed White and Asian
+  Mixed Any other Mixed background
+  Asian or Asian British Indian
+  Asian or Asian British Pakistani
+  Asian or Asian British Bangladeshi
+  Asian or Asian British Any other Asian background
+  Black or Black British Caribbean
+  Black or Black British African
+  Black or Black British Any other Black background
+  Chinese
+
+
+This excludes the groups ‘Any other ethnic group’, ‘Parent/pupil preferred not to say’ and ‘Ethnicity not known’.
+
+The sentence states the top 5 ethnic groups representing 5% or more of the school. For this section ‘Any other ethnic group’, ‘Parent/pupil preferred not to say’ and ‘Ethnicity not known’ are included so may appear in the top 5 largest groups.
+
+Local area
+
+The local area section provides information about the level of deprivation in the local area in which the school resides, together with an aggregated pupil-derived deprivation indicator. Each deprivation indicator is based on the IDACI.
+
+The IDACI measures the proportion of all children aged 0 to 15 living in income-deprived families. It is a subset of the income deprivation domain, which measures the proportion of the population in an area experiencing deprivation relating to low income. The definition of low income used includes both those people who are out of work and those who are in work but who have low earnings and who satisfy the respective means tests.
+
+Please note that we have updated the IDACI (from English Indices of Deprivation) measure from 2015 to 2019. As such, some IDACI values may have changed as a result when compared to historic IDSRs.
+
+
+Example sentence
+
+The school location deprivation indicator was in quintile 2 (less deprived) of all schools. The pupil base is in quintile 4 (more deprived) of all schools in terms of deprivation.
+
+
+The sentences display what quintile the deprivation level falls under. Each quintile represents a bound of 20%. The higher the quintile the greater the level of deprivation.
+
+A school’s local area is based on the 2011 lower layer super output area (LSOA) in which it resides. LSOAs are a geographic hierarchy designed to improve the reporting of small area statistics in England and Wales. The minimum population in each LSOA is 1,000 and the maximum is 3,000. Regarding households, there is a minimum of 400 households in each LSOA and a maximum of 1,200.
+
+You can read further information about the data used for the local area deprivation.
+
+Service children’s education provider IDSRs will not display information on location-based deprivation in this section as they are currently not contained in the dataset.
+
+Finance
+
+The IDSR now contains the latest financial information – for 2019/20 for both local authority maintained schools and academies – including:
+
+
+  the revenue reserve of the school (local authority maintained schools) or trust (academies)
+  the in-year balance and how this compares with the previous year
+  the spend per pupil and how this compares with the previous year (trend for local authority maintained schools only)
+  the level of grant funding compared with the national average for the school phase and type (local authority maintained school or academy)
+
+
+For academies within MATs, central trust income and expenditure is also considered. Income and expenditure attributed to the central trust is apportioned to individual academies on a per pupil basis to provide a combined academy and trust figure for each academy.
+
+The source for the school finance information is the data underpinning the DfE’s school financial benchmarking tool. You can also view or download the data sources.
+
+Service children’s education provider IDSRs will not display information in this section as they are currently not contained in the dataset.
+
+Year group context
+
+Due to the impact of COVID-19, the 2021 IDSR will not contain 2020 performance data. However, the January 2021 census collected contextual information after the COVID-19 outbreak. Therefore, we have included 2021 context pages for schools and inspectors to view this data. We have also retained the 2019 context data for year groups, as this provides context for pupils who took exams or tests in summer 2019.
+
+Some schools may have blank 2021 context pages and populated 2019 context pages. This is likely to be, for example, because the school became an academy between 2019 and 2020. In this case, the 2021 context data will be assigned to the new school. The data will therefore not sit alongside the IDSR that contains the 2019 performance and context data held under the predecessor details.
+
+Characteristics
+
+The chart shows school-level year group characteristics, based on the 2021 January school census for the following measures:
+
+
+  number on roll
+  the percentage of pupils in receipt of FSM at the time of the January census; these pupils are those who are or have been eligible for FSM and have claimed them some time in the last 6 years (Reception to Year 11)
+  the percentage of pupils who speak English as an additional language
+
+
+Shading on the chart indicates when the year group was different to other year groups in the school.
+
+Prior attainment
+
+The prior attainment table presents how pupils in school performed at the previous key stage in relation to their year group.
+
+We have based prior attainment on the following factors:
+
+
+  for Years 1 and 2 we have not been able to calculate prior attainment due to the data file not being available
+  for Year 3 there is no prior attainment data due to COVID-19
+  for Years 4, 5 and 6 we have based this on the percentage who achieved at least the expected standard at key stage 1
+  for Year 7 there is no prior attainment data due to COVID-19
+  for Years 8, 9, 10 and 11 we have based this on those achieving the expected standard at key stage 2
+
+
+Shading indicates whether the pupils in this school were above or below national. This is triggered if the school value is 1 or 2 standard deviations from the national. If pupils were in line with national, a dash is shown. If the number of pupils was 10 or below, an ‘X’ is shown.
+
+
+SEND characteristics
+
+There is a formal assessment to decide if a pupil needs a statement of SEND or an EHC plan.
+
+SEND support is the help a school gives pupils that falls outside the usual curriculum. Outside specialists can tell or support the class teacher and SEN coordinator.
+
+An EHC plan is for children and young people aged up to 25 who need more support. This extra help is not available through SEN support. EHC plans identify educational, health and social needs and set out the support to meet those needs.
+
+The January 2021 census provides data for this table. The table displays the number of pupils in the school who have a SEND need and what the need category is. The 2 halves of the table represent pupils who have SEND support and pupils who have an EHC plan.
+
+It also shows what year the pupil is in. It flags if the school has a SEND unit and how many pupils out of all those with SEND are also disadvantaged.
+
+SEND units are special provisions within a mainstream school. These units contain separate classes to teach pupils with SEND. These units:
+
+
+  receive extra funding from the local authority
+  cater for a specific type or types of SEND (for example, autistic spectrum disorders)
+  are usually for pupils with statements or EHC plans (but this is not required)
+
+
+Disadvantaged pupils are those who were eligible for FSM at any time during the last 6 years and children looked after (in the care of the local authority for a day or more or who have been adopted from care).
+
+Resourced provision refers to the places reserved at a mainstream school for specific pupils with SEND. The pupils learn within mainstream classes but require some specialist facilities.
+
+Resourced provision:
+
+
+  receives extra funding from the local authority
+  caters for a specific type or types of SEN, for example specific learning difficulties
+  is usually for pupils with statements or EHC plans, but this is not required
+
+
+The resourced provision information comes from the DfE’s GIAS service.
+
+Progress and attainment trend
+
+Progress 8: 3-year trend
+
+The Progress 8 3-year trend section shows how the school has performed compared with other schools nationally overall and for each of the Progress 8 elements for each of the last 3 years, regardless of the methodology at the time. There is a clear indication of the position in terms of the quintile, when each quintile represents 20% of schools. Red boxes will indicate when a figure was, statistically, significantly below the national average. Green boxes will indicate when a figure was, statistically, significantly above the national average. Quintiles will display an ‘X’ when they are based on cohorts of 10 or fewer pupils. Also, no statistical significance will show for cohorts of 10 or fewer pupils.
+
+The arrows indicate an increase or decrease in progress score. These align with the progress trend analysis. We have only made comparisons between 2017–18, and 2018–19. This is referred to as markedly higher or lower in the legend of the progress and attainment trend chart. Note that this is not based on statistical significance testing. The number in brackets shows the eligible cohort. The calculation that underpins these is shown in the ‘Understanding the data in the IDSR’ section.
+
+Service children’s education provider IDSRs do not incorporate 2017 data, so only the latest 2 years will have content.
+
+EBacc pillar value added 3-year trend
+
+The EBacc pillar value added 3-year trend section shows how the school has performed compared with other schools nationally for science, languages and humanities value added for each of the last 3 years, regardless of the methodology at the time. There is a clear indication of the position in terms of the quintile, when each quintile represents 20% of schools. Red boxes indicate when a figure was, statistically below the national average. Green boxes indicate when a figure was, statistically above the national average. Quintiles will display an ‘X’ when they are based on cohorts of 10 or fewer pupils.
+
+Service children’s education providers do not have data for value added measures.
+
+Attainment 8: 3-year trend
+
+The Attainment 8 3-year trend section shows how the school has performed compared with other schools nationally for overall Attainment 8 and each of the Attainment 8 elements: English, mathematics, EBacc and open. The school is compared with other schools nationally for each of the last 3 years, regardless of the methodology at the time. There is a clear indication of the position in terms of the quintile, when each quintile represents 20% of schools. Quintiles will display an ‘X’ when they are based on cohorts of 10 or fewer pupils.
+
+Service children’s education provider IDSRs do not incorporate 2017 data, so only the latest 2 years will have content.
+
+EBacc pillar grade 4+ 3-year trend
+
+The EBacc pillar grade 4+ 3-year trend section shows how the school has performed compared with other schools nationally for the percentage of pupils achieving grade 4+ in science, languages and humanities. The school is compared with other schools nationally for each of the last 3 years, regardless of the methodology at the time. There is a clear indication of the position in terms of the quintile, when each quintile represents 20% of schools. Quintiles will display an ‘X’ when they are based on cohorts of 10 or fewer pupils.
+
+Service children’s education provider IDSRs do not incorporate 2017 data, so only the latest 2 years will have content.
+
+Reading, writing and mathematics 3-year trend
+
+The following guidance is relevant for schools with a primary phase.
+
+This section shows how the school has performed compared with other schools nationally overall and for each element for each of the last 3 years, regardless of the methodology at the time. There is a clear indication of the position in terms of the quintile, when each quintile represents 20% of schools. Red boxes will indicate when a figure was, statistically, significantly below the national average. Green boxes will indicate when a figure was, statistically, significantly above the national average. As in the rest of the report, figures are displayed in grey when they are based on 10 or fewer pupils. Also, no statistical significance will show for cohorts of 10 or fewer pupils.
+
+The arrows indicate an increase or decrease in progress score. These align with the progress trend analysis. We have only made comparisons between 2017/18, and 2018/19. This is referred to as markedly higher or lower in the legend of the progress and attainment trend chart. Note that this is not based on statistical significance testing. The calculation that underpins these is shown in the ‘Understanding the data in the IDSR’ section. The number in brackets shows the number of entries.
+
+Other attainment measures
+
+The following guidance is relevant for schools with a primary phase.
+
+This section shows how the school has performed compared with other schools nationally overall and for each element for each of the last 3 years. There is a clear indication of the position in terms of the quintile, when each quintile represents 20% of schools. Red boxes will indicate when a figure was, statistically, significantly below the national average. Green boxes will indicate when a figure was, statistically, significantly above the national average. As in the rest of the report, figures are displayed in grey when they are based on 10 or fewer pupils. Also, no statistical significance will show for cohorts of 10 or fewer pupils.
+
+Understanding the data in the IDSR
+
+
+Statistical significance
+
+Assessment data and information are starting points for inspectors’ discussion with schools. Statistical significance testing is used in the IDSR to draw attention to noteworthy values. These values show when differences in school’s performance may be due to more than chance variation. The IDSR uses percentile ranking as well as statistical significance testing. This allows us to look at relative performance across time while also highlighting noteworthy changes.
+
+Significance calculation for threshold measures
+
+A normal approximation to the binomial distribution is used to identify statistically significant differences between proportions of pupils (shown in the areas of interest).
+Before applying the test, we check that:
+
+nP
+
+and
+
+n(1-P)
+
+are greater than or equal to 5.
+
+When:
+
+
+  P represents the national average of pupils reaching the expected standard
+  n represents the total number of pupils
+
+
+The calculation is as follows:
+
+
+
+Otherwise not statistically significant.
+
+When:
+
+
+
+This methodology is applied to the following performance measures:
+
+
+  key stage 2 expected standard and high standard/greater depth thresholds
+  key stage 1 expected standard and greater depth thresholds
+  Year 1 phonics
+  destinations
+
+
+Progress trend analysis calculation
+
+Progress is a within year, norm referenced measure. Scores are not directly comparable year on year. To allow for direct comparisons across years, every progress score is standardised using the following formula:
+
+(Progress score – mean) / standard deviation
+
+Absence and exclusions
+
+Absence data is usually in all IDSRs by December each year. This is because data is only provided to Ofsted after the primary IDSR release.
+
+The permanent and fixed-period exclusions data is one year behind. For example, 2017/18 exclusions data was published in July 2019. Exclusions data is for cohorts before the one shown on the context page and the number on roll may have changed.
+
+For absence and fixed-period exclusions, special schools are compared to the national for secondary schools. For permanent exclusions, special schools are compared to the national average for special schools.
+
+Data sources
+
+All data in the IDSR is from the DfE. We use the data to calculate school-, local-authority- and national-level data. Pupil-level data is anonymous and does not contain names or addresses. It is not shared with inspectors at any point.
+
+We receive the following data sets from the DfE to produce the IDSR.
+
+National pupil database:
+
+
+  key stage 1 and phonics
+  school census to populate contextual sections
+  
+EYFS profile
+  
+ASP all key stages
+
+
+Performance tables:
+
+
+  school and college database (SCDB) primary and secondary
+  key stage 2
+  key stage 4
+  key stage 5
+  level 3 value added
+
+
+Absence and exclusions data:
+
+
+  school-level exclusions
+  2-term absence
+  3-term absence
+  1-term absence (autumn 2020)
+
+
+You can find more information on the accountability measures in these DfE guidance documents:
+
+
+  primary school accountability
+  
+secondary accountability measures (including Progress 8 and Attainment 8)
+
+
+Special schools and pupils with special educational needs and disabilities
+
+An IDSR is produced for special schools. However, it may contain very little information about the performance of pupils.
+
+Pupils with SEND are a diverse group with differing needs and expectations. Therefore, the IDSR will no longer display any averages for this group.
+
+Contextual information is provided for the group, including the breakdown of the number of pupils with SEND by primary special educational need.
+
+Junior and middle schools
+
+A standard sentence appears to explain that junior and middle schools have lower progress scores on average. Also, due to the age range of pupils at middle schools, pupils will have only attended a middle school for a short time before they take their key stage 2 tests.
+
+Inspectors should be aware of this and, as with any inspection, carefully consider a range of information and data.
+
+Missing data
+
+There are a few possible reasons why data for some years is not shown for a particular measure.
+
+In charts and tables, data may not be shown for some years because:
+
+
+  the measure did not exist, was defined differently or was not available to Ofsted for that year; if this is the case, the data is shown as a dash
+  the school had no pupils for a particular measure in that year; if this is the case, the cohort will be shown as a 0 and a dash will be shown for the measure
+  if the school recently changed legal status, for example from a local authority maintained school to a sponsor-led academy, the data may be shown under the predecessor school name or unique reference number (URN) in ASP
+
+
+
+National figures
+
+The national figures may differ from the figures published in the DfE performance tables and ASP. This is due to the varying decimal precisions used between organisations.
+
+The disadvantaged pupil group is compared to the national for pupils who are not disadvantaged.
+
+Prior attainment pupil groups are compared to their respective pupil group nationally.
+
+Service children’s education providers have been assigned a phase based on the ages of pupils in the school.
+
+Cohorts and numbers of pupils included
+
+Cohorts display the total number of pupils based on the group and year of the measure presented.
+
+For measures when all pupils were entered, the cohort shows the number of pupils the measure is based on. For some measures, it is used as the denominator for percentages.
+
+If there have been any leavers and joiners, then the cohort number shown on progress and attainment data may not match the context section. The context section is a snapshot of the day the school census is taken in January of that year.
+
+The ‘number of pupils included’ on progress pages only includes pupils with prior attainment information.
+
+Conditions of use
+
+The IDSR conditions of use and storage are that:
+
+
+  the IDSR is to be used only for educational and analytical purposes and for informing inspection, not for any other purpose
+  data presented in the IDSR is to be shared only with those who need and are authorised to have access to the information
+  only nominated users may access the IDSR and these users must be made aware that they cannot share the IDSR without permission from the data owner
+  the IDSR should be saved in a secure location with limited access
+
+
+Data protection
+
+When accessing the data in the Ofsted IDSR service, you must recognise the privacy of that data and always comply with the Data Protection Act 2018. The Data Protection Act 2018 is the UK’s implementation of the General Data Protection Regulation (GDPR). You must ensure that you use the data that you have access to for the purpose for which the service was set up and that you do not use the data for any other purpose. You must ensure that the data is processed securely and that it is not subject to any unauthorised use or disclosure.
+
+
+
+
+
+      
+        
+    Published 8 October 2019
+    Last updated 12 November 2021
+      + show all updates
+      
+        
+            
+              12 November 2021
+              Ofsted have released a November 2021 IDSR and the guidance has been updated to reflect this. The main changes are latest 2021 contextual data, a new section for 2021 subject entries and new terminology for suspensions. Supporting tables spreadsheet updated: 2021 prior attainment national averages, autumn 2020 absence bounds, suspensions bounds have been updated or added to for 2021. No performance bounds have been updated. Sentence master list updated to reflect minor improvements/changes/combinations to current area of interest sentences and incorporating 2020 and 2021 figures where applicable.
+            
+            
+              7 June 2021
+              New section of guidance added for the release of autumn 2020 absence data. This data is based on the DfE census collection and has been provided as a new section within the IDSR.
+            
+            
+              19 February 2021
+              Added two spreadsheets: sentence master list and supporting data tables.
+            
+            
+              22 January 2021
+              Guidance amended to reflect the latest version of the IDSR, including example reports.
+            
+            
+              5 March 2020
+              Updated guidance to incorporate the addition of 'service children education providers' and the supporting tables have been updated to reflect the release of revised key stage 4 data.
+            
+            
+              3 February 2020
+              Updated to include final 2019 EYFS, supporting tables updated with revised KS2, data for disadvantaged pupils and final 2019 EYFS and a new master list of all 2019 areas of interest sentences.
+            
+            
+              15 January 2020
+              Updated the guidance to enhance users understanding of the ‘grey’ area of interest sentences and added more direct links for ease of use.
+            
+            
+              16 December 2019
+              Updated supporting data tables to include key stage 1 attainment of the expected standard by Early Years Foundation Stage prior outcome.
+            
+            
+              9 December 2019
+              Updates the 'English Baccalaureate entry' section.
+            
+            
+              5 December 2019
+              Updated guide and data tables following further releases of data.
+            
+            
+              22 November 2019
+              Added IDSR guidance for secondary schools.
+            
+            
+              17 October 2019
+              Added a link to the DfE Sign-in for users to log into Analyse School Performance to view and download their schools' IDSR. Also added an example secondary school IDSR.
+            
+            
+              15 October 2019
+              Added 2019 supporting data tables.
+            
+            
+              11 October 2019
+              Added an example inspection data summary report.
+            
+            
+              8 October 2019
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        English Baccalaureate: eligible qualifications
+        Key stage 4 qualifications, discount codes and point scores
+        Inspecting schools: guide for maintained and academy schools
+        16 to 19: inspection data summary report (IDSR) guide
+        Ofsted Inspectors: lists
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Ofsted inspections of maintained schools and academies
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Inspections and performance of education providers
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

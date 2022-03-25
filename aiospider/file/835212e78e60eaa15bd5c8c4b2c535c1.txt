@@ -1,0 +1,380 @@
+
+								
+
+
+
+By Heather Boushey and Helen Knudsen
+
+
+
+
+
+
+
+
+
+
+Healthy market competition is fundamental to a well-functioning U.S. economy. Basic economic theory demonstrates that when firms have to compete for customers, it leads to lower prices, higher quality goods and services, greater variety, and more innovation.
+[1]
+ Competition is critical not only in product markets, but also in labor markets.
+[2]
+ When firms compete to attract workers, they must increase compensation and improve working conditions.
+
+
+
+
+
+There is evidence that in the United States, markets have become more concentrated and perhaps less competitive across a wide array of industries: four beef packers now control over 
+80 percent
+ of their market, domestic 
+air travel
+ is now dominated by four airlines, and 
+many Americans
+ have only one choice of reliable broadband provider. There are a number of reasons for these trends towards greater concentration, including technological change, the increasing importance of “winner take all” markets, and more lenient government oversight over the last 40 years.
+[3]
+
+
+
+
+
+When there is insufficient competition, dominant firms can use their market power to charge higher prices, offer decreased quality, and block potential competitors from entering the market—meaning entrepreneurs and small businesses cannot participate on a level playing field and new ideas cannot become new goods and services. Research has also connected 
+market power
+ 
+to inequality
+. In an economy without adequate competition, prices and corporate profits rise, while workers’ wages decrease. This means large corporations and their shareholders gain wealth, while consumers and workers pay the cost. The pandemic has further underscored the dangers of an economy that depends on a few companies for essentials, exemplified by the 
+supply chain problems
+ we face when a small handful of corporations creates bottlenecks for a critical product.
+
+
+
+
+
+This is why today, President Biden will sign an Executive Order on Promoting Competition in the American Economy. It launches a whole-of-government effort to combat growing market power in the U.S. economy by seeking to ensure that markets are competitive. Because of the scale and scope of the market power problem, the President’s Executive Order makes the promotion of competition central to the government’s mission by dedicating the entire government to reversing these trends.
+
+
+
+
+
+Signals that indicate greater market power
+
+
+
+
+
+Even though competition is fundamental to a thriving and fair economy, there is growing evidence that, over time, markets across the United States have become less competitive and that market power is expanding. There are two kinds of evidence that indicate that there are widespread concentration problems in the U.S. economy. First, there is evidence that market concentration, as well as profits and markups, are rising across industries. Second, market-specific studies show that consolidation has led to harmful price increases, providing one of the clearest indicators of enhanced market power.
+
+
+
+
+
+Alongside the rise in prices, which is both an indication of a market power problem and an important consequence for consumers, economists have identified two other important consequences of rising concentration: first, there is growing evidence that it is hampering innovation; and, second, research shows that it is leading to substantial concentration in the U.S. labor market—not just markets for goods and services, which has the effect of suppressing wages.
+
+
+
+
+
+Evidence of rising economic concentration
+
+
+
+
+
+There are 
+numerous
+ 
+studies
+ that show increased concentration across a large number of industries in the economy. In fact, concentration has increased in 
+over 75 percent
+ of U.S. industries since the late 1990s. These studies show that the largest companies in the economy have grown at the expense of smaller firms. While it could be that, in some cases, concentration has grown because firms with a high market share are more efficient or more innovative than their competitors, the prevalence across so many industries and the trendlines are cause for concern.
+
+
+
+
+
+This is underscored by a set of studies that show that the 
+profits and markups
+ of the largest firms—indicators that many economists point to as aggregate measures of market power across the economy—have grown over the last 30 to 40 years. In a free and open market, we would expect new companies to enter the market and compete down these profits. However, these increases in the profits of large, dominant firms coincide with a decrease in business 
+dynamism
+ in the U.S. economy—with fewer startups launching and less labor market fluidity.
+
+
+
+
+
+Consequences of increased concentration
+
+
+
+
+
+While informative, national-level, industry-wide studies give little insight into whether increased concentration and markups are a result of decreased competition; that is, they cannot tell us whether or not the concentration is problematic for the U.S. economy. As mentioned above, on the one hand, industry-wide concentration can increase when a firm becomes more efficient or more innovative or when a national firm increases its footprint.
+[4]
+ Similarly, increased markups can be the result of improved technology driving down marginal costs. On the other hand, increased concentration can also be the result of anti-competitive mergers or increased barriers to entry, which could also increase markups.
+
+
+
+
+
+In order to figure out whether the patterns of increased concentration and markups are problematic, economists must look more closely at individual markets, since market-specific studies allow a more detailed understanding of the competitive mechanisms that are leading to these patterns. To better understand these markets, economists have done deep dives into an array of industries—ranging from 
+concrete
+ to 
+health care
+. These studies tend to focus on what happens after two (or more) firms merge. Studying mergers is especially important because a merger changes market structure in a way that is not caused by a firm improving its product or becoming more efficient. Rising consumer prices following a merger indicate that a firm has gained market power, which gives them increased price-setting capabilities and suggests that the merger harmed consumers.
+
+
+
+
+
+There is evidence from an array of market-specific studies looking before and after mergers that strongly suggests that consolidation has led to less competition and greater market power. These studies show that as market conditions changed, prices rose, indicating that firms had the capacity to charge more since they had—in these cases—merged with their competitors:
+
+
+
+
+
+One review
+ of this literature shows that of 49 such studies, 36 found merger-induced price increases. 
+Another review
+ finds that the average price effect in mergers studied was 7.2 percent.
+A 
+review of hospital merger studies
+ finds that most of the mergers led to price increases of at least 20 percent.
+A 
+study of a large health insurer merger
+ shows that it led to a 7 percent average premium increase.
+A 
+study of airline mergers
+ in the 1980s finds that prices increased between 7.2 and 29.4 percent in markets where the merging airlines competed directly.
+A 
+study of the MillerCoors
+ joint venture finds that it resulted in tacit coordination with Anheuser-Busch, leading to a 6 to 8 percent increase in retail beer prices.
+
+
+
+
+
+Looking across these kinds of studies, the conclusion is that consolidation does indicate a market power problem with the consequence that consumers are facing higher prices than they would if the market was more competitive.
+
+
+
+
+
+Other negative consequences of market concentration
+
+
+
+
+
+There is also growing evidence that market power negatively affects innovation. There have long been questions about whether market concentration fostered or inhibited innovation. Even decades ago, Kenneth Arrow argued that concentration hindered invention: “pre-invention monopoly power acts as a strong disincentive to further innovation.”
+[5]
+ Emerging evidence points to this being the case today: one 
+study
+ shows that firms with monopoly power are less likely to advance technological changes; another 
+paper
+ focuses on the channel through which less innovation occurs in the presence of market power; and another 
+study
+ finds that while price markups increased after a merger, there was no corresponding increase in productivity.
+
+
+
+
+
+There are emerging concerns that this effect on innovation may be affecting the economy more generally. In his book, 
+The Great Reversal,
+ Thomas Philippon documents that the increase in concentration across the economy is reducing economy-wide investment. Similarly, 
+scholars
+ are finding that greater market power is a factor in low interest rates and high firm financial wealth, but relatively little investment. If concentration is allowed to continue, this may dampen U.S. productivity and growth, limiting the future competitiveness of the U.S. economy.
+
+
+
+
+
+Decreased competition in labor markets
+
+
+
+
+
+As firms become more concentrated, they are able to push wages down, exemplifying another instance where we see the growing consequences of market power. With greater market power, employers have less competition for the best workers since there are fewer other firms. Such power in the labor market can be deployed in several ways; we discuss two below.
+
+
+
+
+
+First, consolidation in output markets not only affects consumer prices, but also wages and working conditions as the number of employers in an industry decreases. For example, as hospitals have merged, not only have consumers faced decreased choices in where to get their medical care, but nurses, doctors, and other health care employees have had less of a choice of employer. In fact, a 
+study
+ found that large hospital mergers led to lower wage growth for nurses, pharmacy workers, and hospital administrators.
+
+
+
+
+
+Firms can also exert market power by limiting their employee’s ability to change jobs through 
+noncompete agreements
+. These 
+agreements
+ prevent employees from quitting and—within a certain time period—taking a job with a different employer who may benefit from the employee’s industry-specific skills. This translates into 
+lower pay
+, as the employee has limited ability to deploy their skills elsewhere. 
+
+
+
+
+
+In all, these uncompetitive labor market conditions are 
+quite
+ 
+common
+—with 
+60 percent of labor markets
+ being highly concentrated. Importantly, researchers have documented that uncompetitive labor markets are 
+associated
+ with 
+lower
+ wages relative to what a truly competitive market would provide. A 
+meta-analysis
+ of labor market studies finds that firms pay their workers less than they would in a competitive labor market, with the median estimate showing that firms pay workers 58 percent of their value. New work has also found that more than one in ten U.S. workers are in labor markets where pay is reduced by at least 
+2 percent
+ due to employer concentration.
+
+
+
+
+
+Signs that policy change is necessary
+
+
+
+
+
+There is strong evidence that one of the reasons for the current rise in market power is a shift in policy. Antitrust enforcement has become more lenient over the last 40 years, and regulators have not had sufficient resources to enforce the laws on the books.
+
+
+
+
+
+Antitrust laws are 
+traditionally enforced
+ by the Antitrust Division of the Department of Justice (DOJ) and the Federal Trade Commission (FTC). They challenge anticompetitive mergers and other anticompetitive behavior by firms, such as exclusionary practices. The DOJ also prosecutes the criminal antitrust laws that bar collusive behavior, such as price-fixing.
+
+
+
+
+
+To enforce the law, the DOJ and the FTC publish 
+merger guidelines
+ that lay out when a merger is likely to be challenged. Since the guidelines were first published in 1968, enforcement practice has become increasingly 
+lenient. 
+ 
+
+
+
+
+
+In 1968, in a highly concentrated market (four firms having 75 percent of market share), even the merger of two small firms (each with 4 percent market share) would be challenged routinely. Today, such mergers are almost never challenged; indeed, based on guidelines released in 2010, mergers are unlikely to be challenged even if they leave only four substantial competitors in place. The increase in these thresholds reflects, in part, the agencies giving more credit to 
+efficiencies
+ that might arise from mergers. At the same time that these guideline thresholds have increased, the level of purchase price that requires companies to give notice of their mergers to the agencies has risen, leading to a 
+larger number of mergers
+ going unreviewed—even as firms strategically acquire competitors.
+
+
+
+
+
+In part because of these changes and because of real-term 
+reductions
+ in funding, Federal agencies have been bringing fewer antitrust cases. In fact, the 
+number of criminal antitrust cases
+ brought by the DOJ in the last four years has declined to an average of 22 a year, down from an average of over 60 cases a year across the previous six years. On the civil side, from 2010 to 2019 only about 
+3 percent of mergers
+ that met the filing threshold have received “second requests,” which are a more thorough review by the agencies. When mergers 
+are
+ challenged, they are at the extreme, where 
+four or fewer competitors are remaining.
+
+
+
+
+
+Government suits enforcing the laws against anticompetitive conduct have also been rare. The 
+DOJ’s lawsuit against Google
+ and the 
+FTC’s lawsuit against Facebook
+, both filed in 2020, are the first major Federal monopolization cases since the 
+Microsoft case
+ in 1998.
+[6]
+ As the economy evolves with technology and “winner take all” markets become more important, it will be crucial to guard against anticompetitive conduct as well. These shifts have come at the same time that judicial precedent has moved in the direction of 
+skepticism
+ towards antitrust enforcement.
+
+
+
+
+
+The Executive Order on Promoting Competition in the American Economy launches an effort to solve these problems
+
+
+
+
+
+The President’s Executive Order establishes a whole-of-government approach to push back on decades of decline in competition. The Order not only calls on the traditional antitrust agencies—the DOJ and the FTC—to enforce existing laws vigorously and to consider updating their merger guidelines, it also directs all agencies and departments to use their detailed knowledge and expertise to ensure that their work clearly supports competition in the markets they regulate—including paying close attention to labor markets. This whole-of-government approach is necessary because the antitrust agencies are limited both by resources and the current judicial interpretation of the antitrust laws. It also relies on the fact that Congress has delegated authority to police anticompetitive conduct and oversee mergers to many agencies—not just the DOJ and the FTC.
+
+
+
+
+
+The Order therefore directs or encourages roughly a dozen agencies to engage in more than 70 specific actions that will remove barriers to entry and encourage more competition. For example, the Order encourages the Department of Health and Human Services to work with states developing drug importation programs and to consider finalizing rules allowing hearing aids to be sold over the counter at a fraction of their current price. It requires all agencies to use their procurement and spending powers to avoid entrenching monopolists and to create new business opportunities for small firms. It encourages the FTC to issue rules curtailing noncompete agreements which inhibit labor mobility, preventing workers from switching to jobs that offer better pay and benefits. And, it directs the Department of Agriculture to consider strengthening its enforcement of laws designed to prevent large meat-processing companies from taking advantage of farmers.
+
+
+
+
+
+The U.S. economy faces a serious market power problem which results in increasing wage inequality and wealth concentration, high prices, and stagnating wages. The President’s Executive Order relies on the full range of powers granted by Congress to address it, ensuring that the economy works for all Americans.
+
+
+
+
+
+
+
+
+
+
+[1]
+ When only a single firm sells a product or service for which there is no substitute, the firm is a monopoly.
+
+
+
+
+
+[2]
+ When only a single firm buys a product or service, the firm is a monopsony. A monopsony can exist in labor markets, when there is only one employer in a market.
+
+
+
+
+
+[3]
+ “Winner take all” markets are those where a single firm tends to dominate, even if the dominant firm’s product is only slightly better than the other products, and the market may have originally been competitive.  The market becomes more concentrated when the best performers are able to capture a large share of the market, often through technological advances. Walmart is an example in that it has been able to drive many smaller firms out of the market by harnessing advances in transportation and information technology in order to lower prices. This can also happen when the market has network externalities such that a firm’s technology is more valuable when there are more users of the technology; social media platforms or search engines are examples of such markets.
+
+
+
+
+
+[4]
+ There are 
+some
+ 
+studies
+ that show local concentration has been declining. This can be explained by large national companies entering local markets. These studies still look at broad industries rather than product specific markets.
+
+
+
+
+
+[5]
+ Kenneth Arrow, “Economic Welfare and The Allocation of Resources for Invention,” in 
+The Rate and Direction of Inventive Activity: Economic and Social Factors
+, A Report of the National Bureau of Economic Research, 609-26 (Princeton: Princeton University Press, 1962), p. 620.
+
+			

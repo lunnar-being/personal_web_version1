@@ -1,0 +1,364 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Data analyst
+  
+
+  
+  
+  
+      
+  Find out more about the role of a data analyst and the skills you need to do it.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      7 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of data analyst
+
+        
+        
+          Associate analyst
+
+        
+        
+          Data analyst
+
+        
+        
+          Senior data analyst
+
+        
+        
+          Principal data analyst
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This describes the role of a data analyst and the skills required, including:
+
+
+  an introduction to the role, telling you what you would do in this role and the full list of skills
+  a description of the levels in this role, from associate analyst to principal data analyst, specifying the skills you need for each level and the corresponding skill level (awareness, working, practitioner, expert)
+
+
+This role is part of the Digital, Data and Technology Profession in the Civil Service.
+
+Introduction to the role of data analyst
+
+A data analyst collects, organises and studies data to provide business insight. In this role, you will:
+
+
+  apply tools and techniques for data analysis and data visualisation (including the use of business information tools)
+  identify, collect and migrate data to and from a range of systems
+  manage, clean, abstract and aggregate data alongside a range of analytical studies on that data
+  manipulate and link different data sets
+  summarise and present data and conclusions in the most appropriate format for users
+
+
+Skills required to be a data analyst
+
+You will need the following skills for this role, although the level at which you apply them will differ depending on your level of seniority.
+
+
+  
+Analytical and problem-solving skills. You can apply analytical techniques to present a solution.
+  
+Communication skills. You have strong verbal and written communication skills and understand how to share insights with stakeholders.
+  
+Data management. You understand data sources, data organisation and storage.
+  
+Data modelling, data cleansing, and data enrichment skills. You understand conceptual, logical and physical data modelling and can develop knowledge of data cleansing and standardisation.
+  
+Data visualisation. You can interpret requirements and present data in a clear and compelling way, using graphical representations and data visualisations.
+  
+Logical and creative thinking skills. You can approach a problem, applying logic and creativity.
+  
+Project management skills. You know how to work with stakeholders to gather requirements and deliver findings. (Senior/Lead Data Analysts may oversee projects within a data analytics team.)
+  
+Proven IT and mathematical skills. You have proven IT and mathematical skills, demonstrated through relevant qualifications or work experience.
+  
+Quality assurance, validation and data linkage abilities. You know how to conduct data quality assurance, validation and linkage.
+  
+Statistical methods and data analysis skills. You know about statistical methodologies and data analysis techniques.
+
+
+Associate analyst
+
+Skills needed for this role
+
+
+  
+Analytical and problem-solving skills. You know about the need for careful analysis of research data to produce clear findings. (Relevant skill level: awareness)
+  
+Communication skills. You know about the need to translate technical concepts into non-technical language and understand what communication is required for internal and external stakeholders. (Relevant skill level: awareness)
+  
+Data management. You know about organisational data governance and how it works in relation to other organisational governance structures. (Relevant skill level: awareness)
+  
+Data modelling, data cleansing, and data enrichment skills. You know about different data models and tools and understand when they could be used. Aware of industry recognised data modelling patterns and standards. (Relevant skill level: awareness)
+  
+Data visualisation. You can work under direction to use the most appropriate medium to visualise data to tell an actionable story relevant for the fully defined goals. You can present, communicate and disseminate analysis and recommendations appropriately under direction. (Relevant skill level: awareness)
+  
+Logical and creative thinking skills. You can identify problems in databases, data processes, data products and services, with an understanding of the level of a problem (for example, strategic, tactical, operational). You can contribute to the implementation of remedies and preventative measures. (Relevant skill level: awareness)
+  
+Project management skills. You know about the project management techniques and have an appreciation of how it is applied in the environment. (Relevant skill level: awareness)
+  
+Proven IT and mathematical skills. You know about these skill and appreciate how they are applied in the environment. (Relevant skill level: awareness)
+  
+Quality assurance, validation and data linkage abilities. You understand basic data issues and can check that the data and analysis looks right. You understand the concept of data being fit for purpose. You understand the context of the data. You know about the right questions to ask, and you are curious and apply an analytical mindset when approaching a problem. You can perform data preparation and cleansing with guidance. (Relevant skill level: awareness)
+  
+Statistical methods and data analysis skills. You understand the theoretical basis for applied practices. You are beginning to be able to apply the theory to practical examples. (Relevant skill level: awareness)
+
+
+Data analyst
+
+Skills needed for this role
+
+
+  
+Analytical and problem-solving skills. You understand how to apply basic techniques for analysis of research data and synthesis of findings. You know how to involve your team in analysis and synthesis. You can present clear findings that colleagues can understand and use. (Relevant skill level: working)
+  
+Communication skills. You can translate and communicate accurate information to technical and non-technical stakeholders. You know how to facilitate discussions within a multidisciplinary team, with potentially difficult dynamics. You can advocate for the team externally and manage differing perspectives. (Relevant skill level: working)
+  
+Data management. You understand data governance and how it works in relation to other organisational governance structures. You can participate in or deliver the assurance of a service. (Relevant skill level: working)
+  
+Data modelling, data cleansing, and data enrichment skills. You can produce data models and understand where to use different types of data models. You understand different tools and can compare different data models. You know how to reverse-engineer a data model from a live system. You understand industry-recognised data-modelling patterns and standards. (Relevant skill level: working)
+  
+Data visualisation. You know how to use the most appropriate medium to visualise data to tell compelling and actionable stories relevant for business goals. You can present, communicate and disseminate data appropriately and with high impact. (Relevant skill level: working)
+  
+Logical and creative thinking skills. You know how to respond to problems in databases, data processes, data products and services as they occur. You can initiate actions, monitor services and identify trends to resolve problems. You know how to determine the appropriate remedy and can help to implement it as well as preventative measures. (Relevant skill level: working)
+  
+Project management skills. You know how to apply your knowledge and experience of project management methodologies, including tools and techniques. You know how to adopt those most appropriate for the environment. (Relevant skill level: working)
+  
+Proven IT and mathematical skills. You know how to apply your knowledge and experience of these skills, including tools and techniques. You can adopt those most appropriate for the environment. (Relevant skill level: working)
+  
+Quality assurance, validation and data linkage abilities. You can recognise and identify appropriate ways to collect, collate and prepare data. You can decide if data is accurate and fit for purpose. You know how to do your own data preparation and cleansing with limited guidance. (Relevant skill level: working)
+  
+Statistical methods and data analysis skills. You know how and when to practically apply existing best-practice solutions. (Relevant skill level: working)
+
+
+Senior data analyst
+
+Skills needed for this role
+
+
+  
+Analytical and problem-solving skills. You understand and can help teams apply a range of methods to analyse research data and synthesise findings. You know how to engage sceptical colleagues in analysis and synthesis. You can advise on the choice and application of techniques, and can critique colleagues’ findings to assure best practice. (Relevant skill level: practitioner)
+  
+Communication skills. You know how to listen to the needs of the technical and business stakeholders and explain them to each other. You can manage stakeholders’ expectations . You are flexible and capable of proactive and reactive communication. You know how to facilitate difficult discussions within your team or with diverse senior stakeholders. (Relevant skill level: practitioner)
+  
+Data management. You understand data governance and how it works in relation to other organisational governance structures. You can participate in or deliver the assurance of a service. (Relevant skill level: practitioner)
+  
+Data modelling, data cleansing, and data enrichment skills. You can produce data models and understand where to use different types of data models. You understand different tools and can compare between different data models. You can reverse-engineer a data model from a live system. You understand industry-recognised data-modelling patterns and standards. (Relevant skill level: practitioner)
+  
+Data visualisation. You know how to use the most appropriate medium to visualise data to tell compelling and actionable stories relevant for business goals. You can present, communicate and disseminate data appropriately and with high impact. (Relevant skill level: practitioner)
+  
+Logical and creative thinking skills. You can ensure that the most appropriate actions are taken to resolve problems as they occur. You can coordinate teams to resolve problems and implement solutions and preventative measures. (Relevant skill level: practitioner)
+  
+Project management skills. You know how to share knowledge and experience of project management methodologies with others, including tools and techniques. You can define those most appropriate for the environment. (Relevant skill level: practitioner)
+  
+Proven IT and mathematical skills. You know how to share your knowledge and experience of these skills with others, including tools and techniques. You can define those most appropriate for the environment. (Relevant skill level: practitioner)
+  
+Quality assurance, validation and data linkage abilities. You can set up a system to get data ready for use and specify how data should be cleansed and prepared. You can bring data together from different sources and communicate the limitations of data. You know how to peer-review colleagues’ outputs to ensure quality. (Relevant skill level: practitioner)
+  
+Statistical methods and data analysis skills. You understand and can apply a range of practices. You can develop deeper expertise in a narrower range of specialisms. You can start to apply emerging theory to practical situations. (Relevant skill level: practitioner)
+
+
+Principal data analyst
+
+Skills needed for this role
+
+
+  
+Analytical and problem-solving skills. You can help an organisation adopt a wide range of analysis and synthesis techniques and continually assure, improve and innovate their practices to generate clear and valuable findings. (Relevant skill level: expert)
+  
+Communication skills. You can mediate between people and mend relationships, communicating with stakeholders at all levels. You know how to manage stakeholder expectations and facilitate discussions across high risk and complexity or under constrained timescales. You can speak on behalf of or represent the community to large audiences inside and outside of government. (Relevant skill level: expert)
+  
+Data management. You understand data governance and how it works in relation to other organisational governance structures. You can participate in or deliver the assurance of a service. (Relevant skill level: expert)
+  
+Data modelling, data cleansing, and data enrichment skills. You can produce data models and understand where to use different types of data models. You understand different tools and can compare between different data models. You can reverse-engineer a data model from a live system. You understand industry-recognised data-modelling patterns and standards. (Relevant skill level: expert)
+  
+Data visualisation. You know how to use the most appropriate medium to visualise data to tell compelling and actionable stories relevant for business goals. You can present, communicate and disseminate data appropriately and with high impact. (Relevant skill level: expert)
+  
+Logical and creative thinking skills. You can anticipate problems and know how to prevent them. You understand how problems fit into the larger picture. You can describe problems and help others to do the same. You can build problem-solving capabilities in others. (Relevant skill level: expert)
+  
+Project management skills. You have knowledge and experience in the application of project management methodologies. You are a recognised specialist and adviser in project management, including user needs, generation of ideas, methods, tools and leading or guiding others in best-practice use. (Relevant skill level: expert)
+  
+Proven IT and mathematical skills. You have knowledge and experience in the application of these skills. You are a recognised specialist and adviser in these skills, including user needs, generation of ideas, methods, tools and leading or guiding others in best practice use. (Relevant skill level: expert)
+  
+Quality assurance, validation and data linkage abilities. You have a deep understanding of relevant data sources, tools and systems. You can use appropriate approaches for verifying and validating data and analysis. You know how to influence senior stakeholders in data approaches. You can coach and mentor others. (Relevant skill level: expert)
+  
+Statistical methods and data analysis skills. You understand, teach and supervise a wide range of practices, or may have deep expertise on a narrower range of specialisms. You can apply emerging theory to practical situations. (Relevant skill level: expert)
+
+
+Read more
+
+
+  Civil Service Jobs
+  Read about the government’s data science community
+  Blog: building capability and community through the Government Data Science Partnership
+  Blog: how I went from being a historian to a data analyst
+
+
+
+
+
+      
+        
+    Published 7 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Programme delivery manager
+        Software developer
+        User researcher
+        Performance analyst
+        Interaction designer
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

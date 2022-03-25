@@ -1,0 +1,96 @@
+
+
+Center for Applied Network Analysis
+Promoting the application of formal network analysis across RAND's research portfolio
+
+People, places, businesses, governments—the modern world is a highly networked one. Researchers can infer meaning by studying the behaviors and relationships of these deeply interconnected systems.
+For instance, social connections could have an impact on decisionmaking processes. Relationships can affect health outcomes. And networks can even inform the likelihood of a person to engage in extremist behavior.
+The RAND Center for Applied Network Analysis promotes the application of formal network analysis of individuals, organizations, and systems across the full range of RAND’s research portfolio. We pose questions like, “Which relationships matter to a policy outcome?” and “How do relationships create communities?” And we use insights from investigating these questions to advise policy makers on the physical, human and organizational systems they seek to steward.
+Network methods consider systems holistically rather than focusing on individual characteristics, allowing us to provide comprehensive insights and solutions for important policy topics.
+And our researchers are experts in fields such as policy analysis, mathematics, behavioral and social science, medicine, physics, statistics and engineering, bringing a vital interdisciplinary spirit to the work.Our Focus
+Our approach to network analysis takes the long view, and from every angle. Various methods—including network analysis, complex systems analysis, and social media analysis—allow us to analyze a wide range of relationships to provide objective solutions.
+Learn More
+Methods in Action
+
+
+/content/prgs/research/methods-centers/network-analysis/jcr:content/par/wrapperdiv/wrapperdiv_0/wrapperdiv_copy/teaserlist
+
+
+
+Journal ArticleTesting a Social Network Intervention to Reduce Substance UseA small randomized clinical trial found that a brief computer-assisted Motivational Interviewing social network intervention has potential to positively impact readiness to change alcohol and other drug use and abstinence self-efficacy among formerly homeless individuals transitioning to permanent supportive housing.
+
+
+ReportExamining ISIS Support and Opposition on TwitterISIS uses Twitter to inspire followers, recruit fighters, and spread its message. Its opponents use Twitter to denounce the group. To identify and characterize in detail both networks on Twitter, researchers use a mixed-methods analytic approach that draws on community detection algorithms to help detect interactive communities of Twitter users, lexical analysis that can identify key themes and content for large data sets, and social network analysis.
+
+
+BlogThree Takeaways from RAND's Analysis of News in the Digital AgeHow has the rise of digital technology shaped the way that news is presented? Student Mahlet Tebeka (cohort '17), alum Steve Davenport ('15), and professors Jennifer Kavanagh and Bill Marcellino conducted an empirical study to find out. Here's what you need to know from their findings.
+
+
+MultimediaApproaches to Counter Russian Social Media InfluenceIn this briefing, Elizabeth Bodine-Baron, co-director of the Center for Applied Network Analysis, discusses her research on the challenges combating the threat of Russian influence via disinformation spread on social media. She also shares proposed approaches and recommendations for policymakers.
+
+
+View more research
+Student Spotlight
+
+
+
+
+/content/prgs/research/methods-centers/network-analysis/jcr:content/par/wrapperdiv/wrapperdiv_0_copy/wrapperdiv/columnwrap/col1/teaserlist
+
+
+
+Analyzing Networks, Online and OffWithin the first few weeks of his arrival at Pardee RAND, Rouslan Karimov (cohort '15) attended two seminars that introduced him to network analysis and changed the course of his academic career. "I am very interested in the spread of information through communication networks," he said. Network analysis "really intrigued me."
+
+
+
+
+
+Quoted
+
+
+
+Connect With Us
+
+
+Leadership
+
+
+
+Sandra Kay Evans
+Matthew Sargent
+
+
+
+
+
+
+
+
+
+
+Contact
+Want more information? Interested in working with us? We'd love to hear from you.
+
+Your web browser has JavaScript disabled. The web form on this page requires JavaScript to be enabled for the submission of the form.
+Please enable JavaScript and refresh this page to allow access to the form.
+
+
+
+
+
+Email address
+
+
+
+Message
+
+
+
+
+
+
+
+
+
+
+

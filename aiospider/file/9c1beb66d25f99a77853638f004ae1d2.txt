@@ -1,0 +1,830 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Dstl research and funding priorities
+  
+
+  
+  
+  
+      
+  Guidance to industry and academia on priority areas and funding opportunities for science and technology, research and development, and innovation 2021 to 2025.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Defence Science and Technology Laboratory, Ministry of Defence, and Defence and Security Accelerator
+
+      
+      Published
+      12 August 2021
+      Last updated
+      
+        1 September 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Supercharging Science: opening session
+
+        
+        
+          Artificial intelligence, autonomy and robotics
+
+        
+        
+          Science and technology futures
+
+        
+        
+          Space
+
+        
+        
+          Cyber resilience
+
+        
+        
+          Underwater
+
+        
+        
+          Energetics
+
+        
+        
+          Weapons
+
+        
+        
+          How to work with or sell to Dstl
+
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+The unprecedented increase in the defence budget will mean around £6.6 billion funding for research and development, including around £1 billion extra on science and technology over the next 4 years.
+
+The Defence Science and Technology Laboratory (Dstl) is calling upon the best minds from science, technology, engineering, innovation, and academia to work with its world-class teams to deliver on the most ambitious programme in its 20 year history.
+
+This page explains Dstl’s priorities for the next 4 years, predominantly covering the technology areas where there will be extra funding and new collaboration opportunities for industry and academia.
+
+These priorities were set out at our Supercharging Science virtual event on 22 July 2021. You’ll find presentations and videos from the event as part of this guide.
+
+
+Sign up for our series of follow-up webinars exploring the opportunities available and how to bid for work.
+
+
+You can also watch the keynote speech from DSEI 2021, where Doug Umbers (Interim CEO, Dstl), and Dame Angela McLean (Chief Scientific Adviser, DST) talk about the future of science and technology within defence.
+
+DSEI Keynote Address - The Future of Defence Science & Technology
+
+Supercharging Science: opening session
+
+
+Supercharging Science - working with Dstl as part of the UK science superpower.
+
+This session explained the Ministry of Defence (MOD) and Dstl’s strategies for delivering science and technology and to kickstart engagement with industry and academia following announcement of increased investment by the UK government.
+
+It included top level briefings from:
+
+
+  
+Dstl Interim Chief Executive Doug Umbers
+  
+MOD Director Defence Science and Technology Dr Nick Joad
+  
+Dstl Chief Technical Officer Andy Bell
+
+
+
+Video
+Watch the opening session of Supercharging Science
+
+Supercharging Science opening session transcript (ODT, 21KB)
+
+
+
+Presentation
+
+
+  
+      
+  
+  
+    Supercharging Science - Defence Science and Technology
+    
+        ODP, 19.1MB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+
+
+Strategies
+
+The key strategy documents influencing MOD and Dstl’s priorities which are referenced throughout Supercharging Science are:
+
+
+  Integrated Review of Security, Defence, Development, and Foreign Policy
+  MOD’s Science & Technology Strategy
+  Defence and Security Industrial Strategy (DSIS)
+  Defence in a competitive age
+
+
+
+Artificial intelligence, autonomy and robotics
+
+
+Video
+Watch Delivering at machine speed: Artificial Intelligence, autonomy and robotics
+
+
+
+Presentation
+
+
+  
+      
+  
+  
+    AI and Autonomy: Delivering at Machine Speed
+    
+        ODP, 10.9MB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+
+Artificial intelligence (AI)
+
+Dstl de-mystifies AI. We help MOD understand how it can responsibly and ethically adopt AI in order to deter and de-escalate conflict, save lives and reduce harm.
+
+There will be approximately £80m funding for our AI programme in the coming 4 years.
+
+
+AI technology areas of interests
+
+
+  Architectures and standard
+    
+      Open architectures
+      Data centric security
+    
+  
+  Broad AI
+    
+      Advanced AI algorithms
+      Going beyond ‘narrow AI’
+      
+AI at the edge
+      Low size-weight power
+      Novel AI hardware solutions
+      Trustworthy and safe AI systems
+      Test and evaluation
+      Verification and validation
+      Robustness
+    
+  
+  Human machine teaming
+    
+      Human-in-systems
+      Human machine interfaces
+      
+AI ethics
+    
+  
+  Data sparse learning
+    
+      Few/one/zero shot learning
+      Data efficient learning
+    
+  
+
+
+
+Read more about AI and data science and how to work with us
+
+
+
+Contact us
+To make contact with or to sign up to updates from the AI team, email ai_lab@dstl.gov.uk
+
+
+
+Future events:
+
+
+  AI Fest 4 takes place 12 to 13 October 2021. Register by emailing ai_lab@dstl.gov.uk
+
+
+
+
+Robotics and autonomous systems
+
+In this area MOD is seeking to advance autonomy to enable tasks that are ‘dull, dirty, dangerous, distant, demanding, and distributed’.
+
+We anticipate the funding in this area to be in the region of £30 to £40 million a year over the next 5 years.
+
+Key challenges include:
+
+
+  Reduced human burden
+  Enhanced combat mass
+  Improve tempo and agility
+  Decrease risk and casualties
+  Improve operational efficiency
+
+
+Science and technology futures
+
+Video
+
+Watch Science & Technology Futures: making sense of the unknown
+
+
+
+Presentation
+
+
+  
+      
+  
+  
+    S&T Futures: Making sense of the unknown
+    
+        ODP, 5.96MB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+
+This programme aims to ensure defence is better prepared for the future through revitalised investment in S&T Futures activity. It identifies potential, incubates and rapidly tests hypotheses, and promotes emerging insights into generation-after-next science and technology.
+
+There is funding of £19m for financial year 2021 to 2022 with between 40% and 60% contracted to industry and academia.
+
+Futures technology areas of interest
+
+
+  A broad range of emerging and generation after next science and technology, including:
+  Autonomous systems and robots
+  Power and energy storage
+  Artificial intelligence
+  Sensors
+
+
+We also need to understand the implications of future science and technology:
+
+
+  Large global trends
+  The interests of our allies and adversaries
+  Research and development activity by other sectors
+  Ethical, moral and legal implications
+
+
+
+Contact us:
+FuturesEngagement@dstl.gov.uk
+
+
+Space
+
+
+Video
+
+Watch Space: the next frontier for research and development
+
+
+
+Presentation
+
+
+  
+      
+  
+  
+    Space: the next frontier for research and development 
+    
+        ODP, 2.06MB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+
+Space has its most substantive defence investment since the 1970s. Industry and academia will be critical if the UK is to deliver on its ambitious agenda.
+
+MOD is investing around £5 billion over the next decade to enhance satellite communications capabilities through the Skynet programme but also a further £1.4 billion in the acquisition and development of new initiatives.
+
+Defence will carry out more space related science activity, research and development, and operational concept demonstrators.
+
+Space technology areas of interest
+
+
+  Space situational awareness
+  The space environment
+  Space intelligence, surveillance and reconnaissance
+  Space control and resilience
+  Military satellite communications
+  Satellite launch, infrastructure and operations
+  Space architectures and advice
+  Space-based positioning, navigation and timing
+
+
+Cyber resilience
+
+
+Video
+
+Watch Transforming cyber resilience
+
+
+
+Presentation
+
+
+  
+      
+  
+  
+    Transforming cyber resilience 
+    
+        ODP, 1.47MB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+
+Cyber defence science and technology provides innovative, agile and timely outcomes to support MOD and UK Government delivering cyber resilience.
+
+The programme has funding of around £75m over the next 4 years with a focus on:
+
+
+  Non-conventional IT systems
+  Working with severe constraints in bandwidth, power or space
+
+
+Cyber resilience technology areas of interest
+
+
+  Safe-by-default programming language
+  Secure-by-design hardware
+  Context aware decision making
+  Human-machine teaming
+  Autonomous decision making
+  Reinforcement learning in cyber
+  Hosted environments
+  Simulation
+  Automated recovery
+  Quantum communications and networking
+  Data centric security
+  Low power compute
+
+
+
+Contact us:
+
+You can contact the cyber transformation team by emailing CD_enhancement@dstl.gov.uk
+
+
+Underwater
+
+
+Video
+Watch Power Beneath the waves: science and technology for the underwater environment
+
+
+
+Presentation
+
+
+  
+      
+  
+  
+    Power beneath the waves: S&T for the underwater environment 
+    
+        ODP, 31.3MB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+
+Underwater is a vitally important domain for defence. The world is increasingly visible and interconnected. But underwater is large, harsh and varied. Traditional systems are not effective underwater and it is a great place to hide - for us and our adversaries.
+
+Challenge areas
+
+
+  Underwater defensive aids
+  Environmental understanding
+  Uncrewed systems and autonomy
+  Machine learning and artificial intelligence
+  Signature mitigation and control
+  Underwater  command, control, communications, computers, and intelligence (known as C4I)
+  Propulsors
+  Concepts and integration
+  Decision making
+  Underwater survivability
+  Sensing
+  Underwater weapons
+
+
+Energetics
+
+
+Video
+
+Watch The future is explosive
+
+
+
+Presentation
+
+
+  
+      
+  
+  
+    The future is explosive 
+    
+        ODP, 23.4MB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+
+Energetics covers propellants, explosives and pyrotechnics.
+
+It is a critical and underpinning technology across defence and security. They are fundamental to virtually all weapons systems. They are usually sub components of a bigger system and are often regarded as a mature technology, therefore research into them over previous decades had been in decline.
+
+As the mission and system requirements change, energetic material components need to evolve with them such as miniaturisation, tougher environments, longer service life, reduced through life costs.
+
+Around £9 million funding for industry and academia is expected to be invested over 4 years to accelerate the discovery and delivery of new energetic materials through the Advanced Energetic Materials project.
+
+Key requirement areas
+
+
+  New weapons
+  Disposal
+  Novel materials
+  Novel manufacturing
+  Novel diagnostics - trials and evaluation
+  Explosive ordnance disposals
+  Security of supply
+  National security and support to operations
+
+
+Key challenges
+
+
+  Maintaining the military advantage
+  Smaller, faster, cheaper
+  New energetics
+
+
+Technical themes
+
+
+  Accelerating discovery of new explosive molecules
+  Accelerating synthesis using machines
+  Novel and alternative chemical synthesis approaches
+  Novel and alternative biological synthesis approaches
+
+
+
+Contact us:
+
+AEMproject@dstl.gov.uk
+
+
+Weapons
+
+
+Video
+
+Watch Defend and Protect: the future of weapons
+
+
+
+Presentation
+
+
+  
+      
+  
+  
+    Defend and protect: the future of weapons
+    
+        ODP, 7.6MB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+
+Weapons are a core means for defence to achieve its purpose to protect the people of the United Kingdom, to prevent conflict, and to be ready to fight our enemies.
+
+Weapons and weapons systems are a significant enduring capability where emerging technologies can give the UK an edge over adversaries in the future.
+
+Areas of interest
+
+
+  Driving missile technologies
+  Survivable weapons
+  Performance effectiveness
+  Weapons technology maturation and assurance
+  Energy weapons
+  Tactical weapons
+
+
+Priority areas
+
+
+  High speed and hypersonic systems
+    
+      Aerodynamic and aerothermal environment
+      Guidance technologies for high speed systems
+      Sensing
+      Effects
+      Performance modelling and simulation
+    
+  
+  Directed energy
+    
+      Smaller, lighter, robust and reliable systems
+      Propagation and effects of energy weapons
+      Protection against energy weapons
+      Investigate new and alternative technologies
+    
+  
+  Cooperative weapons
+    
+      Hardware
+      Software
+      Datalinks
+      Tactics development
+    
+  
+
+
+How to work with or sell to Dstl
+
+
+
+Video
+
+Watch How to work with or sell to Dstl
+
+
+
+Presentation
+
+
+  
+      
+  
+  
+    How to work or sell to Dstl 
+    
+        ODP, 12MB
+    
+
+      
+        This file is in an OpenDocument format
+      
+
+  
+
+
+
+In this session, Dstl’s commercial team explain how potential suppliers from academia and industry can work with or sell to Dstl. The session also includes a briefing on acquisition reform, routes to market, and a briefing by the Defence and Security Accelerator (DASA) which includes funding opportunities.
+
+Relevant guidance
+
+How to work with or sell to Dstl
+
+
+Contact us:
+SRM@dstl.gov.uk
+
+
+
+
+
+
+      
+        
+    Published 12 August 2021
+    Last updated 1 September 2021
+      + show all updates
+      
+        
+            
+              1 September 2021
+              Adding link to registration page for a series of industry webinars, following up the Supercharging Science day.
+            
+            
+              12 August 2021
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        AI and data science: defence science and technology capability
+        How to sell to or work with Dstl
+        Dstl science and technology procurement frameworks
+        R-Cloud
+        How to license Dstl technologies
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Military equipment, logistics and technology
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

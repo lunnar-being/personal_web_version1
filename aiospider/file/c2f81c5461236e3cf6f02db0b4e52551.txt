@@ -1,0 +1,17 @@
+
+        
+        
+        
+     are reshaping the operating models of chemical companies: massive advancements  in technology and innovation, rapidly changing customer requirements, and increasing pressure on cost and productivity. Naturally, these trends disrupt old ways of working, but they also cause both strategies and tactics to shift—clouding the picture of their plan for a complete, end-to-end (E2E) digital transformation.
+        
+
+
+    
+    As a result of this cloudy picture and the subsequent inability to maintain an E2E view of the digital transformation, many chemical companies struggle to deploy their efforts at scale—a key enabler for success. Such a perspective allows companies to see where the biggest opportunities are and capture the most value. In fact, making decisions on an overarching level, optimizing interfaces between functions and levels, and unclear what’s joining using all available data sources can improve average earnings before interest, taxes, depreciation, and amortization (EBITDA) by 8.5 to 16.0 percentage points (exhibit).
+    
+Each of the digital-enabled domains must work jointly to maximize value capture within and across functional silos. In addition, two enabling functions—the overall operating model and the IT/OT infrastructure—must be aligned with the transformational goals to capture all data in a single source. The exhibit also shows the impact split across all functions. Whereas the 7.5 to 14.0 percentage-point EBITDA improvement results from digital transformations within each functional domain, an additional  1.0 to 2.0 percentage-point EBITDA improvement can be gained from the overarching E2E perspective.
+		
+	
+
+	
+Taking an E2E perspective allows chemical players to adapt faster to volatile market conditions and maximize profits. For example, in the case of fast growth, digital and analytics can help unlock capacity by increasing yield and throughput while reducing costs. At the same time, a seamlessly integrated supply chain and commercial function ensures this new capacity is allocated to the most profitable customer and products, delivering the best possible margins. Production and supply plans are updated in real time across each step of the value chain, considering trade-offs.Similarly, in the case of lower demand, digital and analytics can help proactively inform the sales decision—via algorithms, for example—to “push” lower-margin volumes into the market to fill capacity and absorb fixed costs. Algorithms can also inform the reallocation of demand across plants and suggest the temporary shutdown of entire lines. On top of that, the increased level of digital assistance can guide operators on the shop floor, allow for an easier redeployment of employees across departments, and suggest the optimal timing for the use of contractors (such as during peak activity).Together, these digital-enabled insights support a more efficient and flexible use of resources.

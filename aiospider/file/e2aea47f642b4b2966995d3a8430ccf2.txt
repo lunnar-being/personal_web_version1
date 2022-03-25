@@ -1,0 +1,12 @@
+
+During testimony Wednesday before the House Armed Services Committee, Michael D. Griffin, undersecretary of defense for research and engineering, said quantum computing and quantum communication are not beyond the boundaries of physics, but are still long-term prospects for use in the department."We caution that the hyperbole surrounding these topics may be getting ahead of their military and economic utility," Griffin wrote in testimony he submitted to Congress.Instead, Griffin said, the department is focused on quantum technology that's going to be of use to the force in the shorter term.
+
+
+
+
+"First and foremost [are] quantum clocks to give us timekeeping, precision, synchronized timekeeping and precision [that are] two, or possibly even three, orders of magnitude better than we have today," Griffin told lawmakers. "That's critically important for maintaining communications in a GPS-denied environment where we might have to fight a war."Quantum sensors for inertial navigation or navigation by other means, as well as quantum magnetometers to improve navigation information, are also critical technologies, Griffin said."These are the things that we will see in the next few years and where we are focusing a substantial amount of our effort," Griffin said.In the , Griffin said, DOD has asked for $23 million to further the development of an enhanced-stability atomic clock that will provide a constant connection to sensor networks and encrypted communication channels that support DOD's most critical missions.
+
+
+
+
+Griffin also said the department is focusing on modernizing space architecture, both offensive and defensive hypersonics capabilities, and microelectronics as priorities."We rely on our commercial partners completely for everything we do in microelectronics, and none of our systems will work without it," he said. "So, we are fully embracing the need to be able to produce trusted microelectronics on a risk-assessed basis all the way from initial design right through fabrication and assembly," he said. "That's a critical area, and our industrial base is under siege from abroad."The FY2021 budget request includes $597 million to improve security related to the department's use of microelectronics.

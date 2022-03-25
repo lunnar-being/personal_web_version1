@@ -1,0 +1,43 @@
+
+	After months of work with world-class experts and online challenges, 60 cadets and midshipmen from the three service academies and the Coast Guard Academy recently faced off in contests of full-spectrum offensive and defensive cyber skills.
+	The Defense Advanced Projects Research Agency, or DARPA, hosted the two-phase competition. CyberStakes Online was held in October, and CyberStakes Live was held Jan. 30-Feb. 1 in Pittsburgh.
+	Contestants came from the U.S. Air Force Academy, the U.S. Military Academy, the U.S. Naval Academy and, for the first time this year, the U.S. Coast Guard Academy.
+	Cybersecurity has become a national security priority, and U.S. Cyber Command is making progress toward its goal of integrating 6,000 cybersecurity experts into combat commands by 2016.
+	
+	Last year, as a contribution to the cyber training and education pipeline, DARPA launched its Service Academy CyberStakes effort. Since November, cadets and midshipmen have sharpened their cybersecurity skills with help from world-class experts. They also participated in CyberStakes Online, in which they had to tackle 60 interactive game-style challenges that tested their know-how in areas such as forensics, cryptography and reverse engineering.
+	The final contest, CyberStakes Live, was a decathlon-style computer security competition that set the 10 best teams against each other -- three from each service academy and one from the Coast Guard Academy -- and then mixed the competitors and let joint teams go head to head.
+	
+	The competition consisted of several events, each emphasizing different cyber skills and each conferring a gold, silver and bronze award. The individual and small-team competitions led to a capture-the-flag cyber tournament that put all the skills they learned to the test.
+	“The competition forces them to operate and perform under pressure to solve difficult and challenging problems,” Dr. Daniel “Rags” Ragsdale, DARPA program manager for the Service Academy CyberStakes, told DoD News in a Feb. 2 interview.
+	The cadets and midshipmen were expected to demonstrate adaptability and agility, “because these are the kinds of things we expect of all military leaders in all settings,” he added. “But because this is a relatively new domain of operation, we are helping them develop the kinds of skills that could be applied in the cyber realm.”
+	Ragsdale said it’s crucially important that military leaders have deep technical skills -- that they understand systems, software and vulnerabilities, and how vulnerabilities such as bugs in programs could be exploited to subvert the security of Defense Department systems.
+	
+	Because it honed full-spectrum skills, Ragsdale said, CyberStakes Live went farther than similar DoD competitions.
+	“They’re not focusing on wholly defensive skills,” he explained. “We want them to be able to secure and defend our information systems, [and] to fully and deeply learn how to protect and defend those systems, we have them engage in what would be considered offensive activities in the cyber domain.”
+	Cybersecurity expert Dr. David Brumley helped to train the CyberStakes teams. He’s chief executive officer of a company called ForAllSecure, and at Carnegie Mellon University, he’s an associate professor of electrical and computer engineering with a courtesy appointment in the computer science department. ForAllSecure is a new company founded by a team of computer security researchers from CMU.
+	
+	The CyberStakes Live contests measured a range of skills, including real-time binary exploitation, intrusion detection and prevention, persistence, memory analysis, reverse engineering at speed, infrastructure fuzzing, analytic reasoning, reconstructing source code from binary, bypassing software protection and anti-obfuscation techniques, and more.
+	Brumley said the cadets’ and midshipmen’s knowledge levels had improved significantly since the Service Academy CyberStakes challenge in 2014. “We continually give them new and more difficult challenges,” he added.
+	At the end of each phase of the competition -- both online and live -- Brumley said he and his team wrote reports that went to the competitor teams and DARPA that characterized the cadets’ and midshipmen’s performance.
+	“Last year, we said the teams seemed really good at solving problems, but they could work a little more on their automation for solving the problems,” he said. “You don't want to make it so you're typing a lot, because at the speed of cyber, things happen in an instant.”
+	
+	The competitors took the comments to heart, Brumley said, and learned automation, which he said consisted of algorithms, system administration and getting different systems to work together.
+	Afterward, the teams said automation was one of the things that made them most effective during the competition.
+	“Another thing they did -- this is a big skill that we didn't see at all last year -- was the notion of reflection, where if someone attacks you and you didn't know about the vulnerability, you can analyze that attack, figure out the vulnerability, and patch it and potentially use it,” Brumley explained.
+	In terms of offensive cyber exploits, Brumley said, “most people don’t get that we're talking about computer security skills, and when we start talking about offense and defense, we're talking about applications of those skills. But it's really the same stuff.”
+	
+	For example, he said, most people would expect locksmiths to be able to pick locks, because it helps them evaluate the security of locks. It’s the same thing in cyber.
+	“When we talk about finding vulnerabilities and coming up with exploits,” Brumley said, “what we're talking about is that [the cadets and midshipmen] are able to take a program and figure out where it could go wrong [and] demonstrate it, so that as [future military leaders], they know this is actually important.”
+	Brumley is a founding member of the Plaid Parliament of Pwning, a CMU cybersecurity team that is ranked No. 1 overall in worldwide competition hacking and that has won the DefCon capture-the-flag cybersecurity tournament –- described as a World Series of hacking -- two years in a row.
+	“We go against the best there, [and] we do international competitions,” Brumley said. “We go to Russia and China, … and everywhere we go, we meet some of the best hackers. The guy who did the first iPhone jailbreak is on our team. And it's really about the capability.”
+	Brumley said they want to teach the cadets and midshipmen the same kind of capability.
+	
+	To do that, he added, “you have to show some offense. You have to give them an opportunity to demonstrate that they know it.”
+	One thing the competition strongly emphasized this year, Ragsdale said, is the joint nature of work in the cyber domain.
+	“There's not just an Army or a Navy or a Marine Corps or an Air Force solution,” he said. “We fully anticipate that operations conducted in this domain will be inherently joint, and that we’ll have officers and enlisted and noncommissioned officers from each of those services working together.”
+	The cadets and midshipmen from the competition last year practically demanded the joint services capture-the-flag competition that was included in CyberStakes Live this year, Ragsdale said.
+	
+	“They felt like they had so much to learn from their counterparts,” he added, “and if we kept them isolated on their own teams they wouldn't get as much of an opportunity to share their knowledge and skills and methods with others. And it turned out to be a highlight of the event.”
+	Ragsdale said this is the last year DARPA will sponsor the competitions, so the agency is actively seeking DoD transition partners, Ragsdale said.
+	The goal, he added, is to continue both competitions and potentially expand them within the service academies, and to include students in ROTC programs at other colleges and universities.
+	(Follow Cheryl Pellerin on Twitter @PellerinDoDNews)

@@ -1,0 +1,629 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    NHS COVID-19 app: privacy information
+  
+
+  
+  
+
+  
+    
+  Privacy notice and data protection impact assessment for the NHS COVID-19 mobile app.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency
+
+      
+      Published
+      13 August 2020
+      Last updated
+      
+        27 October 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+  
+    
+      Applies to England and Wales
+
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    NHS COVID-19 app: privacy notice
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    NHS COVID-19 app: privacy information for young people
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    NHS COVID-19 app: privacy information (easy read)
+    
+        PDF, 691KB, 17 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    NHS COVID-19 app: privacy information (easy read)
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Ap COVID-19 y GIG: hysbysiad preifatrwydd (Welsh language privacy notice)
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Ap COVID-19 y GIG: hysbysiad am breifatrwydd i bobl ifanc (privacy information for young people, Welsh language)
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Ap COVID-19 y GIG: gwybodaeth preifatrwydd (Welsh language easy read)
+    
+        PDF, 1.55MB, 17 pages
+    
+
+
+  
+
+  
+      
+  
+  
+    NHS COVID-19 app: data protection impact assessment
+    
+        
+          Ref: GOV-10246
+        
+        PDF, 2.67MB, 249 pages
+    
+
+
+  
+
+  
+      
+  
+  
+    DPIA annex 1: onboarding user journey flow
+    
+        PDF, 2.81MB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    DPIA annex 2: high-risk postcode district user journey flow
+    
+        PDF, 598KB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    DPIA annex 3: symptom checker user journey flow
+    
+        PDF, 951KB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    DPIA annex 4: isolation countdown user journey flow
+    
+        PDF, 3.73MB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    DPIA annex 5: pause and resume user journey flow
+    
+        PDF, 1.4MB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    DPIA annex 6: more information user journey flow
+    
+        PDF, 2.13MB, 1 page
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email publications@phe.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    NHS COVID-19 app: anonymisation, definitions and user data journeys
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    NHS COVID-19 app: our processing of special categories of personal data 
+    
+        HTML
+    
+
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+This privacy notice sets out privacy information for the NHS COVID-19 app. It covers:
+
+
+  the personal data the app collects and how we use it
+  measures taken to ensure the use of the app respects your privacy, is secure and in line with data protection law
+
+
+The data protection impact assessment formally documents how the app works and how it protects the privacy of its users.
+
+
+
+        
+      
+
+      
+    Published 13 August 2020
+    Last updated 27 October 2021
+      + show all updates
+      
+        
+            
+              27 October 2021
+              Added release 4.19 of ‘NHS COVID-19 app: data protection impact assessment’.
+            
+            
+              28 September 2021
+              The Privacy Notice has been updated to incorporate changes on the Self- declaration of medical exemption (England only) and participation in a COVID-19 clinical trial. The same update applies to the Welsh language version.
+            
+            
+              3 September 2021
+              Updated the Welsh easy-read version of the privacy information ('Ap COVID-19 y GIG: gwybodaeth preifatrwydd') to incorporate changes on the self-declaration of vaccination status and age.
+            
+            
+              25 August 2021
+              Updated the Welsh version of the privacy information for young people ('Ap COVID-19 y GIG: hysbysiad am breifatrwydd i bobl ifanc') to incorporate changes on the self-declaration of vaccination status and age.
+            
+            
+              13 August 2021
+              Updated the Welsh version of the NHS COVID-19 app: privacy notice ('Ap COVID-19 y GIG: hysbysiad preifatrwydd') and the English version of 'NHS COVID-19 app: privacy information for young people' to incorporate changes on the self-declaration of vaccination status and age.
+            
+            
+              13 August 2021
+              Updated the English versions of 'NHS COVID-19 app: privacy notice' and the easy-read (PDF and HTML) to incorporate changes on the self-declaration of vaccination status and age.
+            
+            
+              11 June 2021
+              Added updated Welsh language version of the privacy notice.
+            
+            
+              9 June 2021
+              Updated Privacy Notice with more information on the advisory nature of the app, details about new functionality and updating links where app users can get more information about the app and other services.
+            
+            
+              11 May 2021
+              Added information to 'NHS COVID-19 app: privacy notice' about the technical data collected from users' phones when there are unresolved issues with the app, including which data is collected and the restrictions on our use of that data. Same update added to Welsh language version.
+            
+            
+              29 April 2021
+              Updated 'Ap COVID-19 y GIG: hysbysiad preifatrwydd' (Welsh language privacy notice), to reflect the app’s late April release. This includes improvements to the app's functionality, including the ability for app users to submit their diagnosis keys after their initial chance, and improved interoperability support.
+            
+            
+              28 April 2021
+              Updated the NHS COVID-19 app: data protection impact assessment attachment to include new functionality introduced to the NHS COVID-19 App.
+            
+            
+              28 April 2021
+              Updated 'NHS COVID-19 app: privacy notice' to reflect the app’s late April release. This includes improvements to the app's functionality, including the ability for app users to submit their diagnosis keys after their initial chance, and improved interoperability support.
+            
+            
+              23 March 2021
+              Privacy notice updated, including Welsh language version.
+            
+            
+              16 March 2021
+              Updated 'Ap COVID-19 y GIG: hysbysiad preifatrwydd' (Welsh language privacy notice), adding link to frequently asked questions under 'right of access and requests for information'.
+            
+            
+              10 March 2021
+              Added link to frequently asked questions under 'Right of access and requests for information'.
+            
+            
+              26 February 2021
+              Updated data protection impact assessment to reflect recent changes to the app and digital contact tracing functionality (provided by Apple and Google). Includes updates on virology testing, design objectives, coronavirus testing at scale, self-isolation countdown (isolate) and data dictionary.
+            
+            
+              22 February 2021
+              Updated with links to guidance for England and Wales.
+            
+            
+              11 February 2021
+              Updated the privacy notice to reflect changes to the app to align with testing policy for the user’s country (England or Wales), based on their local authority, which includes confirmatory testing. Added more detail about the service monitoring of the app’s functionality (in the section ‘Function: all features’).
+            
+            
+              17 December 2020
+              Updated 'Ap COVID-19 y GIG: Hysbysiad Preifatrwydd i Bobl Ifanc (privacy notice for young people, Welsh language)' to reflect recent changes to the app and digital contact tracing functionality (provided by Apple and Google). Includes updates on the use of local authority and postcode district, the updated digital contact tracing and analytical data set and option to support for applications for self-isolation payment.
+            
+            
+              17 December 2020
+              Updated 'Ap COVID-19 y GIG (Welsh language privacy notice)' to reflect recent changes to the app and digital contact tracing functionality (provided by Apple and Google). Includes updates on the use of local authority and postcode district, the updated digital contact tracing and analytical data set and option to support for applications for self-isolation payment.
+            
+            
+              10 December 2020
+              Updated data protection impact assessment to reflect recent changes to the app and digital contact tracing functionality (provided by Apple and Google). Includes updates on the use of local authority and postcode district, the updated digital contact tracing and analytical data set and option to support for applications for self-isolation payment.
+            
+            
+              10 December 2020
+              Updated 'NHS COVID-19 app: privacy notice', 'NHS COVID-19 app: privacy notice for young people' and 'NHS COVID-19 app: privacy information (Easy Read)' to reflect recent changes to the app and digital contact tracing functionality (provided by Apple and Google). Includes updates on the use of local authority and postcode district, the updated digital contact tracing and analytical data set and option to support for applications for self-isolation payment.
+            
+            
+              30 November 2020
+              Updated privacy notices to detail the recent changes to the app and digital contact tracing functionality (provided by Apple and Google). Includes updates on the use of local authority and postcode district, the updated digital contact tracing and analytical data set.
+            
+            
+              11 November 2020
+              Updated 'privacy notice for young people, Welsh language' to reflect the changes in the app and work to support digital contact tracing apps across England, Gibraltar, Jersey, Northern Ireland, Scotland and Wales.
+            
+            
+              10 November 2020
+              Updated Welsh language privacy notice and easy read to reflect the changes in the app and work to support digital contact tracing apps across England, Gibraltar, Jersey, Northern Ireland, Scotland and Wales.
+            
+            
+              5 November 2020
+              Updated privacy notices and information, and data protection impact assessment to reflect the changes in the app and work to support digital contact tracing apps across England, Gibraltar, Jersey, Northern Ireland, Scotland and Wales.
+            
+            
+              1 October 2020
+              Added Welsh language versions of privacy notice for young people and the Easy Read: 'Ap COVID-19 y GIG: Hysbysiad Preifatrwydd i Bobl Ifanc' and 'Ap COVID-19 y GIG: Hysbysiad preifatrwydd'.
+            
+            
+              25 September 2020
+              Added Welsh language version of the privacy notice: 'Ap COVID-19 y GIG '
+            
+            
+              24 September 2020
+              Added new and updated privacy notices for national launch of the app, including an updated data protection impact assessment.
+            
+            
+              13 August 2020
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Testing for coronavirus (COVID-19) before hospital
+        Independent health providers: accessing lateral flow tests
+        NHS walk-in centre services in England: review
+        Understanding lateral flow testing for people without symptoms
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Rules and restrictions during coronavirus
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

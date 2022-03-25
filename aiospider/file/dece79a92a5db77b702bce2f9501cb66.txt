@@ -1,0 +1,62 @@
+
+    
+    
+
+        
+        
+        
+    Key takeaways
+    More than three-quarters of consumers have changed their buying habits in the past 18 months—and are increasingly willing to change brands.
+    Loyalty programs, properly designed and managed, can unlock significant value.
+    The key to a loyalty program’s success is having the right data to measure it.
+
+
+	
+
+
+
+
+    
+    
+
+ more than 75 percent of consumers have changed their buying habits. In a historic shift in brand loyalty, 39 percent have either changed brands or retailers, and 79 percent of those intend to continue exploring their options in the next normal.
+
+
+ Shoppers are increasingly voting with their wallets based on a new set of concerns, according to our consumer research conducted throughout the pandemic. In addition to value and convenience, purpose now drives their decisions. And, unlike pre-pandemic days, consumers across all income groups are willing to trade down to get what they want.Loyalty programs are an often overlooked area for performance improvement that can help offset the ongoing willingness among consumers to try new brands and retailers. Our research has found that top-performing loyalty programs can boost revenue from customers who redeem points by 15 to 25 percent annually, by increasing either their purchase frequency or basket size or both.However, we have observed that around two-thirds of established loyalty programs fail to deliver value, with many actually eroding value. Yet enlarging loyalty-program participation can be a critical key to increasing company-wide sales, while creating the data foundation for other valuable initiatives such as data-driven marketing, and also improving the customer experience. Getting more out of a loyalty program, or indeed turning one around, doesn’t have to involve a complete redesign however.Eight drivers of loyalty-program valueUnderstanding the following eight levers that significantly impact the performance of loyalty programs—regardless of geography, industry, or customer segment—can enable companies to extract the most from their investments in relationship and membership programs.
+		
+	
+1. Take advantage of redemption elasticityMany companies fear that offering incentives to redeem loyalty points “devalues” their program currencies. But lowering the price of redemptions can create a significant sales boost, incrementally spiking revenue by activating previously dormant customer loyalty without any negative long-term impact.In addition, companies that promote deeply earn deeper engagement among a special few brand-loyal customers over time. Often executives will overestimate the negative impact of deep cuts on top- and bottom-line performance, but what may be lost in a single transaction can be more than made up for in repeat visits and greater frequency among those cherishing the original “memorable redemption” (and among consumers in their influence group).Exhibit 1 illustrates the effect of a small reduction in redemption points on demand for an airline company’s round-trip flights. The response was –2 for promotional prices, compared with full-price elasticity ranging from –0.2 to –0.5.
+    
+2. Measure ‘breakage’ by high-value segmentsAll loyalty programs have members who don’t redeem points or don’t even know they exist, and as a result, their points eventually expire. This “breakage” reduces a program’s balance-sheet liability in most cases, which sounds positive for program economics. But that’s not the complete story. Reasons for breakage can include issues with redeeming points, members forgetting they’re enrolled in a program, unappealing or less relevant rewards, and unachievable or expensive reward thresholds. Whatever the cause, however, breakage represents lost business opportunities, because inactive customers are at its root.The best loyalty programs achieve their full value potential by reinvigorating members to participate in them, not by depending on breakage to make their economics look successful. The secret is to measure breakage by customer segment to ensure that the programs aren’t alienating any particular group and that high-value segments aren’t breaking too badly.In parallel, leading companies also do the following:
+make point redemption simple and facilitate the process
+enhance loyalty programs with special features, challenges, bonuses, and games to increase earning
+remind customers of their point balances with targeted communications
+give customers more options to redeem points, such as donating their points to a charity
+connect core-business promotions and revenue-management initiatives to loyalty mechanisms
+introduce points-plus-cash options to facilitate access to big-ticket rewards
+3. Enlist partners to enhance offers and rewardsPartnerships are an effective way to monetize a loyalty program and bolster its value, particularly in highly competitive markets. Alliances can provide access to new consumers or markets, expand benefits, access additional data, increase brand awareness and positive brand halo effects based on the partner, and provide greater earning options that increase both engagement and value.But partnerships can also backfire in the absence of clear governance around key decisions and a jointly shaped value proposition, creating the following loyalty-program pitfalls:
+redemption catalogs with products or services of no value to customers
+benefits or discounts that are more readily attainable through other channels
+a clunky redemption process resulting in customer frustration and disappointment
+unbalanced perceptions of value delivered by the brand, creating “misplaced loyalty” among valuable customers toward that brand
+Avoiding these pitfalls requires establishing clear alliance conditions from the outset, transparently detailing the terms, redemption process, economics, and value exchange. It’s also important to recognize the benefit of this specific partnership in light of other offers in the program to ensure a consistent experience, taking time to understand how customers will interact with a new partnership to ensure the desired impact.
+		
+	
+4. Offer points-plus-cash options to make a real differenceMany customers are enticed by exciting rewards and benefits in a loyalty program but lack the amount of program currency, or points, to access them. This sense that the rewards are “unattainable” can even discourage them from continuing to accrue points, since the cost of rewards is so high. That’s where offering points plus cash is so powerful. Allowing members to pay with a combination of their points and cash reduces the redemption threshold and increases the program’s attractiveness, which can motivate inactive customers. The reduced redemption ticket is also a way to create additional price discrimination for loyal customers. When companies provide a points-plus-cash option, redemptions sometimes increase by 20 to 25 percent. When correctly accounted for, it can be a game changer for overall program profitability.5. Measure success based on engagement, not just accrualsMost loyalty programs are keen to share numbers on their program memberships or spend by members: these are a good reflection of the broad potential universe of members and comparing non-members to members. Members are generally a heterogeneous group that can be split into segments: enrolled, active (based on whatever definition fits best), and redeemers. The most valuable metric to track is redeemers, or fans. While a typical active loyalty-program member spends 10 percent more than someone who is enrolled but not active, redeemer members spend 25 percent more than enrolled but inactive members (Exhibit 2). Currency or point redemption accelerates the virtuous loyalty loop as the customer achieves the reward or benefit and mobilizes to accrue more. That’s why tracking and focusing on increasing redeemers can trigger much greater sales uplift than simply measuring the number of members.
+    
+6. Segment customers into groups you can handleLoyalty programs provide unique and valuable data about customers, regardless of the channel through which they engage, the frequency of their interaction, or their specific needs. Leveraging these data to create meaningful, actionable segments that drive a world-class customer experience and maximize the value of all customers has become critical to optimizing a loyalty program. It’s expensive, though, so businesses need to get it right. Segmenting by behavior rather than needs, value, or demographics, ensures that the specific interventions directed to each customer segment are not only rooted in customers’ current behavior, but drive toward the behavior desired from them in the future. Done correctly, a behavioral segmentation becomes the foundation for creating personalized customer experiences. We have seen such initiatives yield increases of 10 to 20 percent in customer acquisition, 10 to 15 percent in long-term value and retention, and 20 to 30 percent in satisfaction and engagement.7. Personalize test-and-learn across such segmentsWe know loyalty data can create granular segments of customers. Building a rapid A/B testing capability is critical to fully leveraging those groups, allowing marketing organizations to experiment with new ideas, quickly discard those that don’t work, and scale those that add value. A great example is email marketing. It’s not only marketers’ most-used vehicle—88 percent of companies employ it—but it has one of the highest returns on investment, generating an average of $38 for every $1 spent, whether that’s by getting members to redeem, making them aware of new benefits, highlighting partners, or acknowledging recent activity.
+
+
+ Yet 39 percent of companies don’t apply A/B testing to different segments—a huge missed opportunity. We’ve found that personalized A/B testing elements, such as email tone and language, timing of sending, and imagery, can increase conversion and click-through rates by 15 to 30 percent.
+
+
+8. Create a standalone P&L for transparency on returnsAccurately measuring the incremental impact of loyalty programs is one of the most difficult challenges for organizations. Unclear key performance indicators (KPIs), complicated ROI calculations, and the need to account for the balance-sheet impact of liabilities all make tracking toward a healthy and sustainable program complex. To top it off, many loyalty programs’ profit-and-loss (P&L) statements are rolled in with other company programs, further complicating measurement.We’ve found measuring performance around a program-specific P&L assessment helps executives in all areas drive performance, whether they’re in agile marketing teams looking at average basket size or members of the finance function examining the impact of breakage on liabilities. Measuring a baseline P&L is usually the first step, helping an organization to understand its starting point in order to identify its potential paths forward. Whether the option chosen—a series of campaigns, a new approach to segmentation, or an alliance with a retail partner—connecting it to a single P&L statement and its key levers lays the foundation for performance discussions and adequate budget allocations.The battle for customer loyalty has only intensified in the past year. As the journeys consumers take to make purchasing decisions shift and previous purchase equations implode, it becomes more and more important to build effective customer relationships and membership programs. Loyalty programs face challenges and must prove their worth. But by understanding the levers that move them forward and how their value is optimized, loyalty leaders can boost program value and delight both their customers and their companies.
+
+	
+
+
+
+
+    
+    
+

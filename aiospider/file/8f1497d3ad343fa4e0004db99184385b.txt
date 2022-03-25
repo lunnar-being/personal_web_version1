@@ -1,0 +1,290 @@
+
+  
+    
+      5. Waste treatment appropriate measures
+
+    
+
+      
+        
+  These are the appropriate measures for waste treatment at regulated facilities with an environmental permit to mechanically treat metal waste in shredders. 
+
+      
+        
+          
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+      
+        
+          
+            5.1 General waste treatment
+          
+        
+        
+
+    1. Waste treatment must have a clear and defined benefit. You must fully understand, monitor and optimise the waste treatment process to make sure you treat waste effectively and efficiently. You must not treat waste to deliberately dilute it.
+2. The treated output material must meet your expectations and be suitable for its intended disposal or recovery route.
+3. You must identify and characterise emissions from the process and take appropriate measures to control them at source.
+4. You must have up-to-date written details of your treatment activities, and the abatement and control equipment you are using. This should include information about the characteristics of the waste you will treat and the waste treatment processes, including:
+
+  simplified process flow sheets that show the origin of any emissions
+  details of emission control and abatement techniques for emissions to air and water, including details of their performance
+  diagrams of the main plant items where they have environmental relevance – for example, storage, tanks, treatment and abatement plant design
+  details of physical treatment processes, for example shredding, separation, compaction or washing
+  details of any chemical treatment processes
+  details of any biological treatment processes
+  details of any effluent treatment, including a description of any flocculants or coagulants used
+  an equipment inventory, detailing plant type and design parameters – for example, time, temperature, pressure
+  waste types undergoing the process
+  the control system and how it incorporates environmental monitoring information
+  process flow diagrams (schematics)
+  venting and emergency relief provisions
+  a summary of operating and maintenance procedures
+  process instrumentation diagrams
+
+5. You must have up-to-date written details of the measures you will take during abnormal operating conditions to make sure you continue to comply with permit conditions. Abnormal operating conditions include:
+
+  unexpected releases
+  start-up
+  momentary stoppages
+  shut-down
+  deflagrations
+
+6. You should use material flow analysis for relevant contaminants in the waste to help identify their flow and fate. You should use the analysis to determine the appropriate treatment for the waste either directly at the site or at any subsequent treatment site.
+Material flow analysis considers the contaminant quantity in the:
+
+  waste input
+  different waste treatment outputs
+  waste treatment emissions
+
+You should use the analysis and your knowledge of the fate of the contaminants to make sure you correctly treat and either destroy or remove them. See also the section on POPs (5.3).
+The use of material flow analysis is risk-based and should consider:
+
+  the hazardous properties of the waste
+  the risks posed by the waste in terms of process safety
+  occupational safety and environmental impact
+  knowledge of the previous waste holders
+
+A treatment process may destroy certain substances in the waste. It could also put substances into the air, water or the ground, or have residues which are sent for disposal. You should minimise the weight of these outputs. The treatment may produce residues for recovery or reuse and you should maximise the weight of these substances.
+7. You must not proceed with the treatment if your risk assessment or material flow analysis show that losses from a process will cause:
+
+  the breach of an environmental quality standard
+  the breach of a benchmark
+  a significant environmental impact
+
+
+
+
+      
+        
+          
+            5.2 Metal shredding plant and downstream processes
+          
+        
+        
+
+    1. The metal shredding plant and downstream plant and processes must be specifically designed, commissioned and operated to be fit for purpose.
+2. The designs need to consider physical hazards and include an assessment of the environmental risks and emissions from the plant and processes. They also need to consider prevention and protective measures and process management, such as:
+
+  working instructions
+  staff training
+  appropriate process control measures
+  monitoring systems, alarms and interlocks
+  plant maintenance
+  checks
+  audits
+  emergency procedures
+
+If you treat small mixed WEEE or large domestic appliances you must comply with the requirements of Waste Electrical and Electronic Equipment (WEEE) guidance. We are producing further guidance on appropriate measures for permitted WEEE facilities.
+3. You must process shredder non-metallic fractions under cover. You may use a range of separation technologies to further segregate and purify shredded fractions. Examples include:
+
+  air classification
+  all-metal separator
+  electromagnetic separation of non-ferrous metals
+  manual separation
+  magnetic separation
+  density separation
+  vibration tables either at the shredding facility or elsewhere
+
+4. You must sample and analyse the fractions produced by these treatment processes to accurately classify and code the waste. You should do this in accordance with the waste classification guidance.
+5. You must not use a waste code for a single material fraction, such as plastic, unless the process is specifically aimed to produce that single fraction. Contamination by other materials must be negligible.
+6. You must also fully characterise and classify process solutions and washings from density separation processes before determining suitable disposal options.
+
+
+
+      
+        
+          
+            5.3 POPs
+
+          
+        
+        
+
+    Some plastic components found in metal waste may contain flame retardants that are POPs.
+1. You must assess fractions containing plastic (including process solutions and washings from density separation processes) for POPs.
+2. You must treat any POPs waste as required by article 7 of Regulation (EU) 2019/1021 of the European Parliament and of the Council of 20 June 2019 on POPs.
+This means the treatment must make sure the POP content is destroyed, or irreversibly transformed. An example would be by incineration or similar thermal treatment. You must not recycle this plastic.
+3. You must therefore assess plastic containing fractions at each stage in the treatment process to establish whether the threshold is exceeded.  See further information on identifying and disposing of POPs contaminated waste.
+Separating POPs waste from non-POPs waste
+4. You can treat any plastic that is POPs waste to separate the POPs containing fraction from the non-POPs containing plastic.
+For example, you can use density separation to separate plastic containing all brominated flame retardants (BFR) from that which does not. You may then recycle the non-BFR plastic (provided it does not contain any other POP) but you must destroy or irreversibly transform the BFR plastic.
+5. You must fully characterise and classify the following (including for POPs) before deciding on suitable disposal options:
+
+  process solutions and washings from density separation processes
+  solid fractions produced by any process
+
+
+
+
+      
+        
+          
+            5.4 Antimony trioxide
+          
+        
+        
+
+    1. Antimony trioxide has been widely used as a synergist with a range of BFRs. It is present in some plastics at concentrations which exceed the hazardous waste threshold. You must therefore consider antimony trioxide when you are classifying any plastic containing fraction.
+
+
+
+      
+        
+          
+            5.5 Minimising diffuse emissions from the process
+          
+        
+        
+
+    1. You must minimise the release of diffuse emissions to air from activities which may create them, for example shredding or granulating. You must do this by:
+
+  carrying out the activity using enclosed equipment or in a closed building
+  maintaining the enclosed equipment or building under an appropriate pressure
+  collecting and directing the emission to an appropriate abatement system
+  using a shredder system with water or foam injection into the mill
+
+2. To track and control changes to processes, you must have a written procedure for proposing, considering and approving changes to both:
+
+  technical developments
+  procedural or quality changes to the plant and processes
+
+3. Where you expect an emission, you must enclose all treatment plants and only vent to air using an appropriate scrubbing and abatement system (subject to deflagration relief).
+
+
+
+      
+        
+          
+            5.6 Record keeping for all treatment residues
+          
+        
+        
+
+    1. You must record in the computerised waste tracking system:
+
+  that a waste has been treated
+  what the treatment residues are and their weight
+  what end-of-waste products have been made and their weight
+
+
+
+
+
+        
+  

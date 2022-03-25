@@ -1,0 +1,625 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    UK Civil Hydrography Programme (CHP)
+  
+
+  
+  
+  
+      
+  Information on past, present and future UK CHP survey plans, how to access and share hydrographic and seabed mapping data, and how to collaborate with the MCA
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Maritime and Coastguard Agency
+
+      
+      Published
+      30 March 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Overview: UK Civil Hydrography Programme
+
+        
+        
+          Where the MCA is surveying in 2021-22
+
+        
+        
+          Future surveys
+
+        
+        
+          How the MCA gathers hydrographic and seabed mapping data
+
+        
+        
+          How to access UK Civil Hydrography Programme data
+
+        
+        
+          Routine resurvey programme
+
+        
+        
+          CHP survey contracts
+
+        
+        
+          How to propose a survey
+
+        
+        
+          Sharing data with the MCA
+
+        
+        
+          How to collaborate with the MCA
+
+        
+        
+          The Civil Hydrography Annual Seminar
+
+        
+        
+          How to contact the MCA Hydrography team
+
+        
+        
+          Documents
+
+        
+        
+          Related content
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+
+
+Overview: UK Civil Hydrography Programme
+
+The Maritime & Coastguard Agency (MCA) has overall responsibility for the UK’s hydrographic obligations under the Safety of Life at Sea Convention (SOLAS).
+The MCA manages a multi-million-pound budget to systematically survey the waters around the UK.  This programme is known as the “UK Civil Hydrography Programme” (UK CHP).  Under the UK CHP, commercial contracts are let to ensure accurate hydrographic information is gathered for updating the nation’s nautical charts and publications.
+
+The UK CHP prioritises areas of highest navigational safety risk and surveys and maps UK home waters - defined by the boundaries of the UK’s Exclusive Economic Zone, an area in excess of 720,000km2 - in order to keep our nation’s nautical charts and publications current, safe and fit for purpose.
+
+The MCA makes extensive use of geographic information systems (GIS) to prioritise survey areas using a contemporary risk analysis methodology capable of reflecting the changing pressures of the maritime sector.
+
+The hydrographic survey work commissioned for the UK CHP is undertaken by contractors, who gather and report seabed data using their own personnel, equipment and vessels.
+
+The UK CHP workscope is divided into the following streams:
+
+
+  
+    Routine Resurvey Programme - navigationally critical shallow water areas with mobile seabed;
+  
+  
+    Shallow Water surveys - predominantly 0m to 40m water depth; and
+  
+  
+    Medium Water surveys – 0m to 200m water depth.
+  
+
+
+To support the requirements of the UK CHP, the MCA specifies state-of-the-art survey technologies  including high resolution multibeam echosounders (MBES) and Real-Time Kinematic (RTK) Global Positioning Systems (GPS) to ensure accurate high-quality hydrographic information is gathered. Additionally, more focused work includes high-resolution wreck investigations, water column data collection and seabed grab sampling.
+
+Prior to final data being accepted from contractors, it passes through a rigorous quality assurance process at the UK Hydrographic Office, where checks are made against items such as data density, interline consistency, geodetic parameters and tidal observations.
+
+Once data has passed validation, it is archived to the UKHO’s bathymetric database ready for inclusion in their nautical charting products.
+
+Where the MCA is surveying in 2021-22
+
+The following graphics show the high priority areas that the MCA are surveying in 2021-22.  These are the Shallow Water and Medium Water areas.  Further surveys may be added, depending on available MCA budget, collaboration opportunities and survey capacity.
+
+
+  
+      
+  
+  
+    Civil Hydrography Programme 2021-22 – Shallow Water Areas
+    
+        PDF, 175KB, 1 page
+    
+
+
+  
+
+
+
+  
+      
+  
+  
+    Civil Hydrography Programme 2021-22 – Medium Water Areas
+    
+        PDF, 280KB, 1 page
+    
+
+
+  
+
+
+Future surveys
+
+The following graphic shows the high priority areas that the MCA are  considering taking forward in future years, or that  may be brought forward to the current year, depending on available MCA budget, collaborative opportunities and survey capacity.
+
+
+  
+      
+  
+  
+    Civil Hydrography Programme 2022-2023 – Shallow and Medium Water Areas
+    
+        PDF, 322KB, 1 page
+    
+
+
+  
+
+
+How the MCA gathers hydrographic and seabed mapping data
+
+The UK Civil Hydrography Programme Survey Specification 2020 (PDF, 598KB, 37 pages) details the requirements for hydrographic surveys undertaken on behalf of the MCA, and has been prepared in accordance with the 6th edition of the IHO Special Publication S-44 Standards for Hydrographic Surveys (2020)
+
+This specification has evolved over time from previous iterations, with technical input and support from the UKHO, and contributions from other Maritime Administrations, Hydrographic Offices, contractors and other MCA and CHP stakeholders.
+
+The UK CHP Survey Specification is also shared widely with MCA’s survey partners and other collaborative public sector organisations to increase survey efficiencies under the ‘gather once, use many times’ philosophy.
+
+All surveys are conducted to the IHO Order 1a survey standard, as defined by the latest Edition of the International Hydrographic Organisation (IHO) publication Standards for Hydrographic Surveys, Special Publication S44, with the exception of single-beam echosounder (SBES) check lines which are undertaken on the Routine Resurvey Programme.
+
+Technical requirements:
+
+Multibeam Echosounder (MBES)
+
+
+  
+    Multibeam bathymetry is collected during all UK CHP surveys.  
+  
+  
+    The MCA usually require 100% bathymetric coverage in all areas they survey.  
+  
+  
+    System detection capability is defined by IHO requirements. Contractors are required to detect objects whose size is greater than a cube measuring 2m3, in water depths of up to 40m, and a cube with sides equal to 10% of depth in deeper waters. 
+  
+  
+    A minimum of 9 soundings per minimum detectable object are required.  
+  
+  
+    Sound velocity measurements are routinely taken throughout the survey in order to position the soundings correctly.  
+  
+  
+    Contractors are often required to conduct tidal-stream observations at particular locations.  
+  
+
+
+Data quality control
+
+
+  
+    In addition to QC procedures employed by UK CHP survey contractors, technical personnel from both the MCA and UKHO routinely visit contractors’ vessels throughout survey operations to verify data quality. 
+  
+  
+    Prior to final survey data being accepted from contractors, it passes through a rigorous quality assurance process at the UKHO, where checks are made for items such as data density, inter-line consistency, geodetic parameters, tidal observations etc. 
+  
+  
+    Contractors are asked to provide error budgets prior to and after every survey so that the contribution of individual error sources are tightly defined. This ensures rigorous quality control of the final survey dataset.  
+  
+
+
+Additional measurements
+
+
+  
+    Rigorous tidal reduction is required on all UK CHP surveys.  
+  
+  
+    Depths are reduced to Chart Datum (CD).  
+  
+  
+    Seabed grab samples are typically taken at 5km intervals to ground-truth multibeam backscatter observations.  
+  
+  
+    MBES water column data is collected over all found wrecks to support an assessment of their condition and ensure shoalest depth is found.
+  
+
+
+How to access UK Civil Hydrography Programme data
+
+UK Civil Hydrography Programme data is freely available from the Data Archive Centres listed below, but if you require highest resolution full density datasets, please contact the MCA directly: hydrography@mcga.gov.uk
+
+The UK Hydrographic Office hosts the Marine Environment Data and Information Network (MEDIN) Data Archive Centre (DAC) for bathymetry data. Bathymetry data collected through the UK Civil Hydrography Programme are freely available here.
+
+The British Geological Survey (BGS) hosts the MEDIN DAC for geology, geophysics, and backscatter data. Backscatter data collected through the CHP are freely available here.
+
+Routine resurvey programme
+
+The Routine Resurvey Programme is a fundamental element of the UK Civil Hydrography Programme.  Each year, the MCA undertakes numerous hydrographic surveys in shallow water areas of high seabed mobility which are critical to the safe navigation of vessels. 
+
+These surveys are predominantly on the east and south coast of the UK and also in the Bristol Channel but can be in other areas where the seabed is highly mobile and there is a navigational risk to seafarers.
+
+Analysis of these surveys is undertaken by the UK Hydrographic Office on behalf of the MCA and the reports are available here.
+
+CHP survey contracts
+
+The MCA procure hydrographic survey services to deliver the UK Civil Hydrography Programme.  The MCA does not hold a mailing list of potential suppliers but interested parties can sign up to the Government Contracts Finder portal to receive notifications of when any tender exercise in your area of interest is advertised.
+
+How to propose a survey
+
+Should you know or be aware of any areas of UK seabed that require updates to the nautical charts and publications that cover them, please contact the MCA. The MCA assess UK CHP survey areas using a contemporary risk-based methodology, but we are keen to receive any information that can aid us in our responsibilities to the mariner and the safety of life at sea. E-mail your suggestions for hydrographic survey to: hydrography@mcga.gov.uk. 
+
+Typical indications of an area requiring re-survey are: 
+
+
+  Old underlying survey data (check using the “Source Data Diagram” on the latest chart). 
+  A change in traffic patterns (e.g., increases in cruise ship visits). 
+  An accident occurring due to inaccurate or incomplete survey data; or 
+  Changes to the seabed due to sandwave movement / channel migration.  
+  Offshore wind farm cumulative impacts on ship routeing within the UK EEZ and abutting with neighbouring Member States, search and rescue planning, cross-border issues, future marine developments, etc. 
+
+
+Sharing data with the MCA
+
+If you are considering performing a hydrographic survey and are willing to share your data with us, we can pass it on to the UK Hydrographic Office to help them compile new or updated nautical charts and so help improve safety for mariners. 
+
+Your survey does not need to be carried out to full charting standards to be of use. Even without a full search for dangers, a modern survey can improve on our knowledge of the seabed. There will be no legal liability on you for the way that the data is used. However, data which fully complies with all aspects of IHO Order 1a would be ideal. 
+
+The MCA are always happy to give help and advice on hydrographic data gathering requirements in order to increase the usefulness of hydrographic survey data. Ideally bathymetry data would be rendered and delivered in digital form, with:
+
+
+  Data in one of the following formats: CARIS Project Directory, Qimera Project Directory, or Generic Sensor Format.  
+  Spurious data cleaned from the final, delivered, dataset with rejected soundings included, but flagged as deleted. 
+  Details of the method used for data-cleaning. 
+  
+    Digital data as full density (i.e. prior to any gridding or binning being applied), though if gridded datasets have been created then please include these too. 
+  
+  
+    The soundings reduced using observed tides (not predicted tides from Tide Tables). 
+  
+  Depths referenced to Chart Datum for the area. 
+
+
+A report of the survey that describes how the data was gathered and processed would be of use, especially if it includes: 
+
+
+  A list of the equipment and software used; 
+  How positioning equipment was set up, calibrated and used; 
+  How the echo-sounder transducer was set up and levelled, together with all sensor offsets; 
+  Details of the horizontal datum to which the positions are referred (or the grid, if appropriate); 
+  How tides were measured, how the tide pole or tide gauge was levelled and how depths were reduced to chart datum.  
+
+
+How to collaborate with the MCA
+
+As the largest commissioner of civil hydrography and seabed mapping in UK home waters the MCA recognises its responsibility to lead initiatives to improve co-ordination and co-operation between funders of Government hydrography. The MCA are always exploring opportunities to collaborate with other organisations in order to further increase efficiencies under the “gather once, use many times” philosophy.  
+
+Within the hydrographic community, effective collaborations have been established between public sector organisations, government departments and with research and industry partners. Sharing medium-term survey programmes and working together through partnerships and Memoranda of Understanding (MoU) has enabled survey capability to be taken forward within and between organisations whilst maximising the leverage of public-funded survey assets and resources. 
+
+If you are interested in collaborating with the MCA on a hydrographic survey project, please contact us: hydrography@mcga.gov.uk
+
+The Civil Hydrography Annual Seminar
+
+The MCA convene the Civil Hydrography Annual Seminar (CHAS), which is the only Government-led marine event of its kind that opens its doors to the UK hydrographic survey and seabed mapping community. 
+
+The primary aim of CHAS is to provide an open forum for Government and industry to come together to share their hydrographic data gathering and seabed mapping programmes for the forthcoming years to enable longer-term survey planning integration. 
+
+The aims of CHAS are: 
+
+
+  To provide an open forum for public sector organisations to come together to share data gathering programmes for the forthcoming years 
+  To encourage co-operative working and survey planning integration 
+  To realise the financial benefits of co-funding such work.  
+
+
+The MCA advocate a coordinated and integrated approach to the longer-term survey planning, which hopefully will enable the hydrographic sector to manage funding streams more effectively, develop new partnerships and strengthen existing collaborations between stakeholders.  
+
+If you are interested in attending CHAS, please e-mail hydrography@mcga.gov.uk
+
+How to contact the MCA Hydrography team
+
+If you have any queries relating to the UK Civil Hydrography Programme or seabed mapping, please contact hydrography@mcga.gov.uk
+
+Documents
+
+
+  
+      
+  
+  
+    UK CHP Yearbook 2021 
+    
+        PDF, 2.53MB, 26 pages
+    
+
+
+  
+
+
+
+  
+      
+  
+  
+    Civil Hydrography Programme 2021-22 – Shallow Water Areas
+    
+        PDF, 175KB, 1 page
+    
+
+
+  
+
+
+
+  
+      
+  
+  
+    Civil Hydrography Programme 2021-22 – Medium Water Areas
+    
+        PDF, 280KB, 1 page
+    
+
+
+  
+
+
+
+  
+      
+  
+  
+    UK Civil Hydrography Programme Survey Specification 2020
+    
+        PDF, 598KB, 37 pages
+    
+
+
+  
+
+
+Routine resurvey programme analysis reports
+
+
+  
+      
+  
+  
+    UK Civil Hydrography Programme Survey Areas 2021-21: GIS Shapefiles
+    
+        ZIP, 11.9KB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email infoline@mcga.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+      
+  
+  
+    UK Civil Hydrography Programme: Indicative Future Survey Areas 
+    
+        ZIP, 14.4KB
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email infoline@mcga.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+Related content
+
+Offshore Wind Energy & Shipping Safety
+
+With the increased growth of offshore windfarm developments in the North Sea, the countries around the North Sea need and want to co-operate on where wind farms are sited, especially those proposed near the borders of the EEZ.
+
+Strengthening the existing relationships between the various Member States has resulted in greater focus to:
+
+
+  better co-ordinate planning and development of offshore and onshore electricity grid expansion to facilitate the expansion of offshore wind;
+  collaborate on maritime spatial planning;
+  develop an integrated approach to assessing cumulative impacts on navigation; and
+  comment on proposed policies on surveying in and around windfarms, for navigation safety and meeting SOLAS obligations.
+
+
+These areas of mutual interest will continue to be discussed and advanced at the North Sea Hydrographic Commission Resurvey Working Group and the forum for Offshore Wind Energy and Shipping Safety in the North Sea.
+
+Guidelines for Offshore Renewable Energy Developers
+
+The MCA has issued guidelines which are intended to aid developers when submitting development consent applications that impact upon hydrography. These guidelines should be read in conjunction with Marine Guidance Note (MGN) 654.
+
+The MGN 654 guidance note highlights issues that need to be taken into consideration when assessing the impact on navigational safety and emergency response (search and rescue, salvage and towing, and counter pollution) caused by offshore renewable energy installation developments. It applies to proposals in UK internal waters, Territorial Sea and the Exclusive Economic Zone (EEZ).
+
+All hydrographic surveys should provide full seafloor coverage that meets the requirements of the IHO Order 1a survey standard. Particular attention should be given to horizontal and vertical sounding accuracy, together with target detection requirements.  It is requested that all data and reports are passed to the MCA for forwarding to the UKHO for the update of the UK’s nautical charts and publications.
+
+SOLAS Chapter V
+
+
+  
+      
+  
+  
+    IHO S44 edition 6
+    
+        PDF, 1.65MB, 50 pages
+    
+
+
+  
+
+
+
+
+
+
+      
+        
+    Published 30 March 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Maritime and shipping
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

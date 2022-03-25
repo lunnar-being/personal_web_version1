@@ -1,0 +1,288 @@
+
+  
+    
+      Translations
+
+    
+
+      
+        
+  How to add, edit or delete a translated document.
+
+      
+        
+          
+
+    You can add one or more translations to any published document on GOV.UK, apart from  fatality notices and statistical data sets, in any of 63 languages, including:
+
+
+  all the official languages used by the Foreign, Commonwealth and Development Office
+  Welsh for UK documents
+
+
+If you need to add translated text, you must always add this using the translation tool. Do not add foreign language text on the same page as the English version.
+
+The default language attribute on the document page is always set to English. If you add foreign language text to the English page, rather than using the translation tool, it creates problems for users with assistive technology. It will be a WCAG (Web Content Accessibility Guidelines) language failure.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+            
+
+      
+        
+          
+            Add a new translation
+          
+        
+        
+
+    A translation can only be added to a saved document. If the document is not already in publisher you’ll first need to create and save the document in English.
+
+  
+    On the saved document page you’ll see a ‘Translations’ subheading. Underneath it will list any translations already on the page, or will say if there are no translations.
+  
+  
+    Click on ‘Add translation’ button on the right.
+  
+  
+    A box will appear on the screen which has a drop down menu with a list of languages. Select which language your translation is in and click the ‘Add translation’ button.
+  
+  
+    You’ll now see a page with mandatory title, summary and body fields. Add the translated text to the fields and click save.
+  
+  
+    You should now see under ‘Translation’ the language and title of your translation.
+  
+  
+    To check the page, click on the ‘Preview on website’ button and a drop down menu will appear which lists all the different language versions. Select the language you’ve translated the page into and a preview page will open in a new window.
+  
+  
+    Submit the page for review by clicking on the ‘Submit for 2nd eyes’ button. Another editor can now check your page and either publish or send it back to you to correct.
+  
+
+Add a world news story only in a foreign language
+You can add a world news story in only a foreign language if you do not want to create an English language version.
+If you do add it this way, you can only add it in one foreign language, and cannot add subsequent translations after.
+
+
+
+      
+        
+          
+            Edit a translation
+          
+        
+        
+
+    
+  
+    Select the ‘Documents’ tab in Whitehall publisher and search for your document.
+  
+  
+    Click on the document you want to edit.
+  
+  
+    You’ll see a list of translations under the ‘Translations’ subheading. Click on the ‘Edit’ button for the translation you want to edit.
+  
+  
+    Make your edits to the text and click ‘Save’.
+  
+  
+    To check the page, click on the ‘Preview on website’ button and a drop down menu will appear which lists all the different language versions. Select the language you’ve translated the page into and a preview page will open in a new window.
+  
+  
+    Submit the page for review by clicking on the ‘Submit for 2nd eyes’ button. Another editor can now check your page and either publish or send it back to you to correct.
+  
+
+
+
+
+      
+        
+          
+            Delete a translation
+          
+        
+        
+
+    
+  
+    Select the ‘Documents’ tab in Whitehall publisher and search for your document.
+  
+  
+    Click on the document you want to edit.
+  
+  
+    You’ll see a list of translations under the ‘Translations’ subheading. Click on the ‘Delete’ button for the translation you want to delete.
+  
+  
+    A box will appear asking ‘Are you sure you want to delete this translation?’ Click ‘OK’.
+  
+
+The page will be deleted immediately.
+
+
+
+      
+        
+          
+            Add translated attachments
+          
+        
+        
+
+    If you add a translation to a document with an attachment, you must also add a translated version of the attachment in the same language.
+You must not add foreign language attachments to the English page of the document. Each attachment must be attributed to the relevant translated version of the page.
+To upload the attachment in English, follow the instructions for uploading a single document. On the ‘Add file attachment to publication’ page, make sure you select English in the ‘display language’ dropdown menu.
+You then add the foreign language attachment for each translation of the page.
+
+  
+    On the saved document page you’ll see an ‘attachments’ subheading. Underneath it will list any translations already on the page, or will say if there are no translations.
+  
+  
+    Click the ‘Modify attachments’ button on the right.
+  
+  
+    Click ‘Upload new attachment’, or ‘Add new HTML attachment’ if it’s a HTML attachment
+  
+  
+    Fill in the title of the document, in the language it’s been translated to. If you’re adding a document or publication, use its official title (translated into the relevant language).
+  
+  
+    In the ‘display language’ dropdown menu, select the appropriate translation page this attachment will appear on.
+  
+  
+    Fill in the rest of the fields, if relevant. These ‘metadata’ fields are searchable and may help users find your document (for example, reference numbers for Freedom of Information requests).
+  
+  
+    Click the ‘Choose file’ button to find and select your attachment.
+  
+  
+    If your attachment is fully accessible, tick the button indicating this. If it’s not, users will see a box with information about requesting the document in an alternative format.
+  
+  
+    Click ‘Save’.
+  
+
+
+
+
+      
+        
+          
+            Welsh-language translation
+          
+        
+        
+
+    When deciding whether to translate departments and policy content, follow your Welsh language scheme and look for evidence of a user need. This can include:
+
+  analysis of Welsh-language search terms on GOV.UK and search engines
+  use of relevant and existing Welsh-language government transactions
+  calls to Welsh-language contact centres
+  requests for translations from Welsh-language speakers
+
+Read the policy about Welsh language on GOV.UK.
+
+
+
+      
+        
+          
+            Create a foreign language only document collection or consultation
+          
+        
+        
+
+    
+  Select the ‘New document’ tab from the dashboard.
+  Click ‘Document collection’ or ‘consultation’.
+  Tick the box next to ‘Create a foreign language only document collection or consultation’.
+  Choose the language from the drop down list.
+  Complete all the mandatory fields which have an * next to them.
+  Click ‘Save’.
+  Click ‘Preview on website’ to check the page.
+  When you’re happy the page is ready to publish, click ‘Submit for 2nd eyes’ so another editor can review the page and publish it.
+  If you’ve also created an English version of the document collection or consultation, you should link it to the English version. You should also link the English version to the foreign version.
+
+Change document collections or consultations to the correct language attribute
+
+  Select the ‘Document’ tab from the dashboard.
+  Locate the document collection or consultation you need to change.
+  Select the title.
+  Select ‘Edit draft’, or, if working on a published document, select ‘Create a new edition to edit’.
+  Tick the box next to ‘Create a foreign language only document collection or consultation’.
+  Choose the language from the drop down list.
+  Click ‘Save’.
+
+Link the foreign language version and the English version.
+
+  Select the ‘Documents’ tab.
+  Locate the foreign language version.
+  Select the title.
+  Copy the last part (the relative path) of the Whitehall publisher URL, for example: /government/admin/consultations/1168326.
+  Go to the English version of the document.
+  Add the link to the foreign language version as a call to action at the top of the page, using this format: “(link)[View this document collection in Arabic]”.
+
+Repeat the steps to link the English version to the foreign language version. 
+If you have multiple translations, make sure all the translations are linked.
+
+
+
+
+        
+  

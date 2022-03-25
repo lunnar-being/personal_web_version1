@@ -1,0 +1,308 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Child online safety: Ensuring positive interactions and addressing harmful conduct
+  
+
+  
+  
+  
+      
+  This guide is to help you and your business understand how to establish a safe environment for children to positively interact with each other.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Digital, Culture, Media & Sport
+
+      
+      Published
+      29 June 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          What you should do as a business
+
+        
+        
+          How you can go above and beyond
+
+        
+        
+          Additional information on the Social Media Code of Practice
+
+        
+        
+          Why this is important
+
+        
+        
+          Useful links
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+
+The guidance contained within these pages is distinct and separate from the forthcoming regulatory requirements that will be introduced through the Online Safety Bill. The draft Online Safety Bill confers powers on Ofcom to oversee and enforce the new regulatory regime, and requires Ofcom to prepare codes of practice to assist providers in complying with their duties of care.
+
+
+User interaction includes, but is not limited to, direct messaging, voice or video calls, commenting, reacting or ‘liking’, tagging and playing games against or alongside other users.
+
+As a business, you should aim to ensure that users are able to interact with others in a way that is respectful and inclusive, and free from abuse, bullying and harassment.
+
+To do this, your business needs to create and enforce effective rules and processes which allow for abuse to be detected, reported and tackled.
+
+What you should do as a business
+
+
+As a business, you should:
+
+
+Create rules using child-friendly language which set out what behaviour is acceptable on your service. Users should be informed when they sign-up, and again through reminders, of the rules for content or behaviours which constitute abuse or misuse.
+
+
+Consider special default protections for accounts that are opened by under 18s. See Online safety guidance if you own or manage an online platform for further advice.
+
+
+Enable users to block other users, limit the information they share and control their interactions with others. This includes limiting the content that others are able to share about them through features such as tagging.
+
+
+Regularly review moderation, reporting and take-down processes to ensure they are effective in tackling abusive content. Ensure that these rules are understandable to users and your team and are enforced effectively, with reasons provided for any content taken down.
+
+
+Ensure your reporting system is accessible and easy. This is often done through prominent icons to report abuse located next to content, as well as through email addresses or online forms specifically dedicated to reporting abuse.
+
+
+Establish a clear process for tackling abuse. You should establish clear lines of responsibility to allow issues to be prioritised effectively. This may include establishing a dedicated policy and safety team.
+
+
+If you are a social media platform, you should adhere to the four principles of the government’s voluntary Social Media Code of Practice to prevent bullying, insulting, intimidating and humiliating behaviours on your sites.
+
+
+
+
+If you feel that a child is facing a high or immediate risk of harm, you should dial 999 immediately.
+
+
+
+How you can go above and beyond
+
+
+  
+    As well as tackling negative behaviour, you should also consider how to encourage positive behaviour between users. This could include providing children with information on how to respect other users on your service. This could be done through games, quizzes and cartoons to appeal to children. You may also want to consider how encouraging positive interactions can be built into the design of your platform to prompt this behaviour.
+  
+  
+    You should also consider if there are particularly vulnerable groups who may need extra support, such as children with physical disabilities, or learning disabilities. You could consider including support pages which flag resources and organisations to allow them to seek help. When appropriate, you can refer young users to Childline (0800 11 11), a free counselling service for under-19s.
+  
+
+
+Additional information on the Social Media Code of Practice
+
+The government expects social media platforms to adhere to the following four principles contained in the social media code of practice.
+
+1. Maintain clear and accessible reporting processes to enable users to notify social media providers of harmful conduct.
+
+2. Maintain efficient processes for dealing with notifications from users about harmful conduct.
+
+3. Provide clear and accessible information about reporting processes in terms and conditions.
+
+4. Publish clear information to the public about action taken against harmful conduct.
+
+While the Code is directed at providers of social media platforms, it is also relevant to any sites hosting user-generated content and comments, including review websites, gaming platforms, online marketplaces and the like.
+
+Why this is important
+
+
+  According to the 2020 Crime Survey for England and Wales, around one in five children aged 10 to 15 years in England and Wales (19%) experienced at least one type of online bullying behaviour in the year ending March 2020, equivalent to 764,000 children.
+  22% of these children said that they were emotionally affected a lot by these incidents and a further 47% said that they were affected a little.
+  The proposed Online Safety Bill gives Ofcom the power to issue fines up to £18 million or 10% of annual global turnover if you fail to comply with the requirements of forthcoming online safety legislation, which will include protecting children from online abuse and bullying.
+
+
+Useful links
+
+There are a number of organisations dedicated to children’s safety online, which have further guidance and specialist resources for children, parents and education settings, which you may find helpful. These include:
+
+
+  
+Childnet International works directly with young people to understand their experiences online and share safety advice.
+  The NSPCC is the UK’s leading children’s charity and works with a wide range of organisations to prevent and tackle child abuse and help keep children safe online.
+  
+South West Grid For Learning (SWGfL) is a charity dedicated to empowering the safe and secure use of technology through innovative services, tools, content and policy.
+  
+Internet Matters empowers parents, carers and professionals to help children enjoy connected technology safely. They provide age-appropriate advice on online platforms, apps, games, and live streaming services, covering everything from setting up safely to talking to teenagers about all things digital.
+
+
+
+
+Part of A business guide for protecting children on your online platform
+
+
+
+
+      
+        
+    Published 29 June 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Principles of safer online platform design
+        A business guide for protecting children on your online platform
+        Online safety guidance if you own or manage an online platform
+        Live streaming: improve the safety of your online platform
+        VoCO (Verification of Children Online) Phase 2 report
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        A business guide for protecting children on your online platform
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Online safety
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

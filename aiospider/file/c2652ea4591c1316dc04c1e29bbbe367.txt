@@ -1,0 +1,58 @@
+
+    
+    
+
+        
+        
+        
+    for mortgages in the United States has skyrocketed, due to a surge in home buying during the COVID-19 pandemic and as a result of low interest rates that have made refinancing attractive over the past two years. Although a rise in rates would cool refinance activity, banks, nonbank lenders, and mortgage industry investors are likely to continue seeing strong demand from the purchase market. According to a recent report from the Mortgage Bankers Association, the industry is expected to originate more than $2.5 trillion for each of the next three years,
+
+
+ which is at least
+40 percent higher than average annual originations between 2010 and 2019.
+
+
+
+	
+Meanwhile, the mortgage industry has been gradually adopting technology to streamline the front-to-back process of getting a mortgage, with the aim of making the consumer experience smoother and faster. Investors can facilitate further improvements at the point of origination, processing, underwriting, and loan servicing, as well as expand consumer access to home-financing and home-buying services. This article examines five dynamic trends that are reshaping the mortgage industry and that are relevant to investors in this sector:
+    
+    
+    
+    
+    
+Investors looking for opportunities to continue improving the borrower experience in this quickly shifting landscape will want to understand the latest changes in the industry, which parts of the mortgage process can be further improved, and the next potential innovations.
+    
+A flourishing industry with room for improvementThe mortgage industry is still riding a home-buying and refinancing wave that began in March 2020, when rates dropped to historic lows
+
+
+ at the outset of the COVID-19 pandemic (Exhibit 1). 
+    
+At the same time, borrower expectations for digital engagement have risen dramatically over the past 18 months. Our internal research indicates that about 60 percent of both purchase and refinance borrowers would be open to completing their entire mortgage application online, without phone or in-person support. Moreover, customers crave speed: satisfaction drops by roughly 15 percentage points if the lender takes more than ten days to provide a decision on the application.Despite rising expectations, mortgage customer satisfaction continues to be subpar, especially com­pared with adjacent products and other industries, according to a recent McKinsey survey.While many lenders have been able to provide a smoother mortgage-application experience by digitizing the front-end platform, the digitization of the industry remains incomplete. Many origination and servicing processes are still slow, manual, labor intensive, and fragmented—in other words, ripe for disruption. Third-party technology and data providers are streamlining more parts of the mortgage processOver the past five years, many major bank and nonbank lenders have invested in either proprietary or third-party technologies across various parts of the value chain to help with a number of processes. The expansive list of steps that have been addressed include front-end platform modernization, workflow management, document extraction and management, income and asset verification, employment verifi­cation, title verification, appraisal management, e-closings, automated compliance, and decisioning. These software solutions are designed to speed up the mortgage-application process, lower costs for the lender, and improve the overall customer experience.Despite these strides, challenges remain. We observe that many mortgage originators still engage in labor-intensive and repetitive fulfillment and servicing, even though there is potential to automate more than half of the tasks across front-to-back processes. Failure to update legacy processes can trickle down into elevated origination costs and delayed cycle times (Exhibit 2). Moreover, when demand rises, many originators cannot take full advantage, because they lack the ability to scale operations quickly enough.
+
+
+
+    
+Most of the technology innovation and investment in mortgage lending so far has been channeled toward the front end of the value chain. However, many lenders can find further cost, labor, and time savings by reviewing more components of their mortgage technology stacks to accelerate automation efforts, including back-end elements such as straight-through processing and automated decisioning of applications. Some leading players are combining multiple third-party technology components rather than relying solely on a core loan platform. In the near future and amid growing investment, we expect technology-driven innovation to seep into core platforms and back-end technology (Exhibit 3).
+    
+Nonbank lenders continue to grow market shareNonbanks’ share of total originations has been on the march for years. Five years ago, nonbank lenders accounted for roughly half of total originations; two years ago, that figure was nearly 60 percent. In 2020, the share of originations by nonbank lenders leapt to nearly 70 percent.
+
+
+ This growth has been driven by a handful of outperforming nonbanks that have a strong digital focus and a differentiated value proposition. Consumers can benefit from having nonbank lender choices, because many of these lenders have invested heavily in digitized interfaces that make submitting an application, uploading documentation, and communicating with the lender easier.
+
+
+ Some tech-enabled lenders are also introducing innovative products—for example, offering home shoppers in competitive real-estate markets
+cash up front so that these potential home buyers can make cash offers.
+
+
+We expect digital-focused originators to at least maintain and possibly further grow share, partly because of the speed, convenience, and transparency that they offer mortgage customers. Behind the scenes, these tech-focused lenders are reimagining the front-to-back operating model, including streamlining document management, and driving rapid fulfillment. Based on our observa­tions, most successful digital attackers have been able to demonstrate cycle times that are at least
+30 percent lower than the industry average and costs that are at least 25 percent lower than the industry average. Next-generation subservicers are introducing more-efficient digital platformsThe US mortgage-subservicing market is likely to continue witnessing double-digit annual growth over the next two to three years, driven by two trends:
+    New lenders and owners of mortgage-servicing rights (for example, nonqualified mortgage, or non-QM, lenders; digital attackers; and private investors) that are entering the industry
+    may lack internal servicing capabilities and will consider outsourcing to retain mortgage-servicing rights.
+    The market is experiencing a greater shift from in-house servicing to outsourcing, propelled by higher regulatory scrutiny and the challenge of default servicing (which can cost five times as much as servicing a performing loan and requires niche expertise). Moreover, the capital-intensive nature of the servicing business often acts as a deterrent—particularly for traditional servicers and smaller players—to invest in modernization and digitization. 
+As a result, digital-first subservicers have gained traction over the past two to three years for their ability to use technology and behavioral science to increase efficiency, improve the client and
+end-borrower experience, boost retention, and strengthen compliance (Exhibit 4). A well-built digital interface helps mortgage borrowers access information about their loans, make payments accurately, upload or receive documentation, and communicate seamlessly with the subservicers. We expect the market share for digital-first sub­servicers to continue growing. 
+    
+Companies are bundling home-buying services, including mortgagesReal-estate brokerages and mortgage lenders have long forecast the day when home buyers could have a one-stop shop for home search, mortgage, warranty and inspection, title and escrow services, movers, and homeowner’s insurance. Over the past two years, we are seeing a few players working on making this vision a reality, by building new products in-house or by acquiring or partnering with providers.Several more deals may be on the horizon as other lenders and real-estate brokerages evaluate the home-ecosystem business model. Customers want bundled home-buying solutions: research from the National Association of Realtors indicates that about 95 percent of home buyers would consider a one-stop-shop model for their home-buying journey, and 79 percent of home buyers believe bundled services make the buying or selling process more efficient and manageable.
+
+
+Nonqualified mortgage lenders are reentering the marketLenders stopped accepting non-QM applications as credit guidelines tightened and capital availability diminished in the wake of the COVID-19 pandemic. However, amid an economic recovery from the pandemic this year, liquidity has poured back into the non-QM market, prompting lenders to underwrite non-QM loans once again. Non-QM liquidity plays an important role in expanding consumer access to mortgages by providing options for borrowers whose income stream or other financial attributes lock them out of traditional lending programs.Billions of dollars in capital deployed to firms within each of the above categories have already sparked digital acceleration in the mortgage industry. Given the industry-wide call for action to provide a superior customer experience and to create long-term efficiencies, we expect several innovative mortgage-product offerings and technology solutions to emerge, with the most successful ones receiving broader adoption. We also expect selective M&A activity and partnerships, with the objective of offering a compelling and differentiated customer value proposition. Investors attuned to the trends presented in this article will be best positioned to identify and act upon ways to further improve the US mortgage consumer experience.

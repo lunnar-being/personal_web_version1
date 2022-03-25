@@ -1,0 +1,115 @@
+
+    
+    
+ the Minneapolis–St. Paul (MSP) region appears to be thriving. The economy is strong, the area consistently has lower unemployment than the national average,
+
+
+ and the standard of living is high for many residents. But not for all.
+        
+        
+        
+    The murder of George Floyd in May 2020 foregrounded longstanding challenges of racism and racial inequity in the community. Minneapolis–St. Paul is indeed a highly unequal region with some of the most dramatic gaps among all US cities in outcomes between Black and White residents; for instance,  that the median Black household income is less than half the median White household income ($42,200 compared with $90,100). The COVID-19 pandemic further magnified these inequalities; it disproportionately affected workers of color, who were 1.5 to 2.0 times likelier to report loss of income during the pandemic than White residents.
+        
+
+
+    
+    As the region and country navigate economic recovery, the future of work, including the impact from accelerated automation, is fast approaching. Automation is putting service and office-support occupations at high risk and will particularly affect jobs that require physical, manual, and basic cognitive work. These changes will disproportionately disrupt jobs held by people of color; even though Black workers are highly concentrated in healthcare jobs, which are on the rise, 44 percent of Black residents—compared with 31 percent of White residents—are currently in jobs projected to decline significantly between now and 2030.Closing the long-standing gap between White residents and people of color and further preparing workers—particularly workers of color—for the effects of automation will benefit all MSP region residents. Indeed, McKinsey’s Black Economic Mobility Institute estimates that a $220 billion annual wage disparity exists between Black and White workers nationwide—and that closing this gap would boost two million Black individuals into the middle class. Such efforts will help MSP recover both more equitably and more quickly than if the region ignored the gap.This report explains how individuals, government leaders, companies, and other organizations can collaborate to make this recovery happen. Leaders in every sector have roles to play in making sure the region’s recovery is equitable: employers can communicate with employees about the medium-term career prospects of their roles and invest in skill building; public policy makers can support effective upskilling programs via higher education; and nonprofit leaders can make sure they are scaling existing reskilling practices that are successful. By taking coordinated action at this critical juncture, the MSP region can correct past shortcomings and ensure all its residents have the chance to thrive.
+    
+The state of equity before and throughout COVID-19Even before the pandemic, the MSP region experienced high racial inequality. COVID-19 has magnified this disparity, and automation and the future of work—which will likely have an outsize impact on people of color—are just around the corner.
+	
+Prepandemic baseline: A stable but highly unequal regionThe Minneapolis–St. Paul metropolitan area is a great place to live for many people. Just this year, the city of Minneapolis was voted a top city in several distinct categories:
+    best US city for young professionals
+
+
+
+    third-best US city for work-life balance
+
+
+
+    fifth-most climate-resilient city in the United States
+
+
+
+    seventh-best US city for water quality
+
+
+
+The region’s economic indicators are also generally strong (Exhibit 1). The area has a much higher median income and lower poverty rate compared with national averages. Employment data also present a favorable picture, with stronger labor force participation and low unemployment relative to the United States as a whole. While the region has seen slowing job growth over the past five years compared with other major US regions, the economy remains stable.
+    
+The region also has high rates of educational attainment: 52 percent of adults have at least an associate’s degree, which puts Minneapolis–St. Paul in the top ten most-educated metropolitan regions in the United States.
+
+
+ The region is also home to a constellation of research institutions and 18 Fortune 500 corporate headquarters, which attract between 5,000 and 8,000 young workers a year.
+
+
+ Myles Shaver, professor at Carlson School of Management at the University of Minnesota, has described the Twin Cities as a “headquarters economy” that draws and retains more than its share of middle- and senior-management talent thanks to a clustering of corporate home offices and a high standard of living.
+
+
+And yet, assets that make the MSP region attractive for so many are not equally accessible to all residents. Indeed, examined through a disaggregated lens, the MSP region becomes one of the most unequal US metropolitan areas by race, with significant racial gaps in economic opportunity and employment.
+
+
+At the national level, economic indicators show that White residents generally have higher economic outcomes compared with peers, while Black, Latino, and Asian residents have fewer opportunities and lower economic outcomes. Black workers and families in the MSP region face particularly steep economic and employment adversity compared with White residents, with a poverty rate four times that of White residents, an unemployment rate two times that of White residents, and a median family income significantly less than half what the median White family earns (Exhibit 2).
+
+
+
+    
+These discrepancies are the result of centuries of systemic racism and disinvestment in certain communities that affect Black individuals in every aspect of their lives. McKinsey’s Black Economic Mobility Institute has identified critical gaps that Black individuals face in their roles as workers, business owners, consumers, savers and investors, and residents served by public programs (Exhibit 3):
+     Gaps exist between races across the US labor market, especially in occupational representation, ultimately manifesting as a $220 billion annual wage disparity at the national level.
+     Across all sectors, Black-owned businesses are few in number and tend to be small in size, likely due to lower rates of realized entrepreneurship and lack of access to capital.
+     Consumption by Black Americans remains below its potential due to lower incomes, poor access to goods and services, and unsatisfied demand.
+     The racial wealth gap is the result of lower intergenerational transfers, lower income, and lack of financial inclusion.
+     Many fundamental services delivered by the public sector fall short for Black Americans, limiting their economic participation.
+
+    
+The Black Economic Mobility Institute calculates that supporting Black Americans to reach parity could raise incomes of Black workers by 30 percent, increase the number of Black Americans in the middle class, and expand the number of Black-owned enterprises. Additionally, dismantling the barriers that have kept Black Americans from fully participating in the economy could unleash a tremendous wave of growth, dynamism, and productivity that would benefit everyone.The effects of COVID-19 on well-being and employment across the region
+        
+
+
+    
+    COVID-19 and the racial reckonings of 2020 have thrown a sharp light on the persistent racial inequities within the MSP region—and across the United States. While the pandemic has affected everyone, its effects have not been experienced in the same ways or to the same degrees by all people (see sidebar “Recovery indicators for rural Minnesota”).The MSP region has generally fared better than the United States as a whole during the pandemic, with unemployment in the region remaining lower than the national unemployment rate during each month of the pandemic.
+
+
+ Yet the more than 280,000 jobs lost between January 2020 and April 2020 in the MSP region were not evenly distributed across occupations or demographics (see sidebar “The experience of women in the pandemic”). As a result, Black workers, for instance, filed applications for unemployment insurance at two times the rate of White workers at the height of the pandemic (50 percent of Black workers compared with 25 percent of White workers).
+
+
+
+        
+
+
+    
+    Indeed, according to data from the Minnesota Department of Employment and Economic Development, at the start of the pandemic, 40 percent of workers of color in the MSP region were employed in the three sectors most affected by the pandemic: service, retail, and healthcare. Lower-wage service and healthcare assistance jobs, in particular, have been among those most affected by COVID-19: for instance, the leisure and hospitality sector lost more jobs than any other sector both as a percentage (more than half of jobs in hospitality were lost) and as an absolute number (more than 40,000 jobs lost). The leisure and hospitality sector has also been the slowest to recover.The need to support workers of color now that the nation will return to prepandemic employment levels by 2023, but for workers of color with less than a bachelor’s degree, that recovery will take an additional three to four years, which leaves these workers even less time to anticipate and prepare for the impacts of automation. At the same time, the COVID-19 pandemic has widened the economic and employment gap between White workers and workers of color in the MSP region, creating greater urgency to reskill workers of color facing job loss due to automation.The scale of the need is significant. By June 2021, the MSP region had recovered about 75 percent of jobs lost due to the pandemic, including many jobs in the hardest-hit sectors, such as food service, hospitality, and office services. However, our research on the future of work suggests that declining occupations—in which more than 40 percent of workers of color in the MSP region are employed—are at greater risk of displacement due to automation (Exhibit 4). Overall, we estimate 180,000 workers in the MSP region and 290,000 workers in Minnesota will be affected by automation by 2030. And approximately 65,000 Black workers in the region are in occupations that are expected to have the greatest losses due to automation. In the United States, we found that Black and Latino workers were 1.1 times more likely than White workers to be affected by automation.
+    
+At the same time, the region is also seeing increasing opportunity for some Black workers, who are concentrated in sectors and jobs that are growing rapidly, such as health aides (Exhibit 5). Employers who invest in upskilling workers in these fast-growing fields and find ways to make better use of skills Black workers already possess will be more successful, particularly in an environment where unemployment is low and employers are constrained by having the right talent to fit employment needs.
+    
+Where to go from here: Toward a more equitable recovery
+        
+
+
+    
+    As the MSP region works to recover economically from the COVID-19 pandemic, it has a unique opportunity to accelerate this recovery by building a more equitable and inclusive community (see sidebar “Recovery indicators for minority-owned enterprises”). Public- and private-sector employers, state and local policy makers, higher-education and workforce-development leaders, as well as individual residents, can bring a racial-equity lens to economic recovery to improve the speed and completeness of recovery for all MSP region residents—understanding that this will be a decades-long endeavor.To address root causes of inequities, leaders can take a variety of actions, including prioritizing investment in minority-owned businesses, increasing the access to capital for entrepreneurs, eliminating policies and practices that result in bias and exclusion, expanding mentorship and support, and supporting the reskilling of workers. Reskilling is a promising way to encourage equitable recovery and circumvent the threats of disruption. Effective reskilling will require coordinated efforts among private employers, government, and higher-education institutions to meet the demands of the moment and the future.Training programs that leaders and employers design could directly address socioemotional and technological skills gaps to help workers access more automation-resilient occupations, while also removing barriers that make it difficult for workers to take advantage of these opportunities in the first place. For instance, in our , Black respondents in the MSP region described facing significant barriers to training and education opportunities: 39 percent of Black MSP-region residents cited access to financial support as a barrier, compared with 24 percent of Black Americans overall. Time was a barrier for roughly one-quarter of Black residents and a substantial barrier for other groups seeking training and education to reskill, including Latino (50 percent) and Asian American (46 percent) respondents. More than a quarter of Black workers in the MSP region also cite mental health challenges as a barrier to enrolling in additional training. Thus, training programs can be designed to address students’ needs holistically, including wraparound supports such as help finding and paying for transportation and childcare.To meet this moment, leaders can consider proactively supporting workers in at-risk occupations to build the competencies they need to transition into automation-proof roles. Pursuing previously successful pathways, such as upskilling service workers into administrative support roles, could cause further disruption by moving workers from one at-risk field to another.
+    
+ identifies 56 skills needed in future roles across cognitive, digital, interpersonal, and self-leadership dimensions. Employees possessing these skills will be largely immune to disruption because they’ll be able to do work that can’t be done by automated systems and intelligent machines, work in a digital environment, and adapt to new ways of working and new jobs. And employers who support their employees in this way will likely not only ensure they have access to the skills they need but also see greater employee engagement and retention. As employees and employers navigate this disruption, employers can find ways to recognize employees—particularly employees of color—for skills these workers already have, such as speaking multiple languages; it’s possible employers previously overlooked or undervalued such abilities.But reskilling alone is not enough. And everyone—residents and leaders across public, private, and nonprofit sectors—have roles to play in speeding the recovery and making the region more equitable.Public- and private-sector employers have a responsibility to build diversity, equity, and inclusion (DE&I) competencies that can directly address the problem of racial identity negatively affecting job prospects and economic opportunities for workers of color. In our research on economic opportunity in America, we find that workers of color are three to five times more likely than White workers to report that their race has a negative impact on their job prospects: 56 percent of Black respondents and 27 percent of Asian-American respondents reported that their race has some or significant negative impact on their future job prospects, while only 10 percent of White respondents believe their race to be a barrier.The following are a few pivotal ways each stakeholder group can contribute to a more equitable recovery for the MSP region in the near, medium, and long term according to its unique position and abilities:Public- and private-sector employers
+    Diversify hiring and promotions. Employers can expand where and how they recruit while eliminating biases in hiring. One way to do this is to deemphasize traditional credentials and hire based on aptitude and skills.
+    Improve retention and advancement by examining the workplace experience for different groups of employees. Many Black workers face day-to-day bias and scrutiny that make promotions more difficult to achieve. Our American Opportunity Survey found that 38 percent of Black residents in the MSP region—versus 10 percent of White residents—reported that their race negatively affects the recognition and rewards they receive at work.
+    Proactively create reskilling and upskilling opportunities for employees whose roles are at risk due to automation in the next five to ten years. Remove barriers to training so employees can take advantage of reskilling and upskilling opportunities—for example, provide free or subsidized childcare, transportation, or compensation for training hours.
+    Improve supplier diversity and patronize minority-owned businesses. Proactively seek out minority-owned enterprises as suppliers for anything that reaches employees: from facilitation and professional-development seminars to office supplies, catering, and company artwork.
+    Review payroll for wage gaps, and ensure wage equity. Nationally, 44 percent of the wage gap between Black and White workers can be attributed to wage gaps within occupational categories—that is, to .
+    Expand sponsorship and mentorship programs to ensure inclusivity, including equitable access for women and employees of color to opportunities to advance to middle and senior management; our research from Women in the Workplace has shown that mentor relationships improve retention rates and sense of belonging, particularly among employees who identify as women or people of color.
+    Invest in underserved communities and closely examine whether goods and services are meeting demands and preferences of consumers of color.
+State and local policy leaders
+    Evaluate whether public policies and investments reinforce disparities rather than narrow them. In particular, tax policies, housing regulations, and education funding can create either opportunities for or barriers to economic participation and wealth creation.
+    Support access to training programs, such as by covering training costs and lost wages, in order to allow workers to pursue training that would otherwise be cost prohibitive.
+    Track and publicly report on the effectiveness of reskilling programs to create accountability to outcomes.
+    Develop resources to support minority- and women-owned enterprises along with supports for technical-assistance providers to help the enterprise scale and grow.
+    Expand digital infrastructure, particularly high-speed internet, in rural and underserved urban areas to increase access and affordability.
+Higher-education and workforce-development leaders
+    Expand access to institutions for students and workers of historically underrepresented populations.
+    Play a convening or coordinating role with employers and employees to understand where the need is, and create programs or training centers to directly serve at-risk populations.
+    Partner closely with private-sector employers to provide feedback on effective reskilling programs and interventions.
+    Identify ways to support entrepreneurs and small-business owners of color through, for example, incubators, supply chains, and research support.
+    Invest in and promote research that measures the intersectional impacts of COVID-19 across social determinants such as race, age, gender, and geography.
+Individual residents
+    Build sponsor or mentor relationships with someone at work who has a different life background; research shows that workplace inclusion is created in moments when employees support each other across social differences.
+    Directly support the increase in social capital by identifying meaningful opportunities to share knowledge and skills with those beyond your current personal network.
+    Evaluate personal or familial patterns of charitable giving and diversify the causes and communities supported.
+Before the COVID-19 pandemic, the MSP region had a strong economy but some of the worst economic and employment outcomes for Black residents compared with White residents of all major US cities. The past year and a half has magnified these inequalities. And with the impact of automation on service and support occupations fast approaching, the region should consider thoughtfully and proactively reskilling vulnerable workers—and doing so now.Public- and private-sector leaders can go beyond creating training programs to ensure such programs are accessible to those who need them most by removing common barriers to access, including lack of childcare, lost wages, and lack of transportation. And by incorporating DE&I competency training into their organizations, leaders can ensure racial identity never has an adverse impact on workers’ job prospects.The future of work is already here, and the time to act is now. Doing so will help build a more vibrant, sustainable economy for all residents of the MSP region.

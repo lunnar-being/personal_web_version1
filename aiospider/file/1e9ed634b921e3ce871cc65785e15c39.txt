@@ -1,0 +1,99 @@
+
+								
+
+
+
+By Clare Martorana, Federal Chief Information Officer, and Mina Hsiang, U.S. Digital Service Administrator
+
+
+
+
+
+Today, President Biden signed an Executive Order on 
+Transforming Federal Customer Experience and Service Delivery to Rebuild Trust in Government
+. The new Executive Order 
+directs
+ Federal agencies to put 
+people
+ at the center of everything the Government does, with simple, seamless, and secure services that meet people where they are.  Every interaction between the Government and the public—whether it involves filing taxes or renewing a passport—is an opportunity to deliver the value, service, and efficiency that the public expects and deserves. By centering our work around the people we serve, we can deliver a more secure and responsive Government.
+
+
+
+
+
+Technology is not the only component of this effort, but it is a critical aspect of powering an outstanding customer experience, which is why we’re making strategic changes in how we plan our technological investments across Government by deploying teams of designers, product managers, and engineers to deliver digital solutions. Technology is the connective tissue and a key ingredient in making this vision a reality, and we are proud to be supporting and bringing together agencies across Government as a Federal enterprise to develop a digital modernization strategy and align our technology investments to deliver for our customers—the American people.
+
+
+
+
+
+The Executive Order released today reinforces the second priority of the 
+President’s Management Agenda
+—centered around improving customer services through technology—and demonstrates the Biden-Harris Administration’s commitment to reducing customer burden, addressing inequities, and streamlining processes. It also builds on years of efforts to make Government work for the people, including bipartisan steps Congress has taken such as passing the 
+21
+st
+ Century Integrated Digital Experience Act
+ and drafting the 
+Trust in Public Services and Federal Agency Customer Experience Acts
+.
+
+
+
+
+
+By centering our technology operations around the values of the President’s Management Agenda, which include equity, dignity, accountability, and results, we will work to:
+
+
+
+
+
+Bolster cybersecurity
+ through Government-wide enterprise cyber and IT modernization plans to reduce risk and protect the public from malicious actors.  
+Reduce barriers to underserved communities 
+by identifying pain points when dealing with the Government and improving accessibility to Federal benefits and services.
+Reduce burden for the Federal workforce
+ 
+and the public
+ by securely connecting systems across agencies to enable them to work faster and more seamlessly.
+Deliver a more modern, secure customer experience for the American public
+ by using up-to-date design and technology, and harmonizing the actual processes behind the technology.  
+
+
+
+
+
+Here at OMB, the Office of the Federal Chief Information Officer, with the Federal Chief Information Security Officer, will work with and guide the Federal IT workforce in standing up a cross-Government service delivery framework that is secure by design, more seamless for agencies to share information digitally, and makes it easier for the public to interact with Government. 
+
+
+
+
+
+In parallel, the United States Digital Service will continue supporting agencies to implement and scale best practices and approaches to collaborative service delivery across Government, prioritizing the outcomes of families, small business owners, veterans, and others. From partnering with the Department of Veterans Affairs to the Department of Health and Human Services to the Small Business Administration and beyond, technologists and customer-experience designers are working side-by-side with customer service and policy teams at agencies so that the public can quickly and efficiently access the services they need.  
+
+
+
+
+
+And, we will work with our colleagues across our organization, in OMB’s Resource Management Offices and the Offices of Information and Regulatory Affairs, Performance and Personnel Management, Federal Procurement Policy, and Federal Financial Management, to collectively use every lever OMB has to improve Federal service delivery.
+
+
+
+
+
+Our work will provide a more 
+simple, seamless, and secure 
+customer experience for the public—and today’s announcement is just the beginning. We’ll learn as we go, make iterative improvements, and expand our customer experience commitments across Government. Most importantly, we’re going to hold ourselves accountable.
+
+
+
+
+
+When we demonstrate that we can deliver modern services to our citizens, we will build greater trust in Government’s capacity to deliver results. And it is our hope that this work will inspire others to join us in serving the American people. 
+
+
+
+
+
+###
+
+			

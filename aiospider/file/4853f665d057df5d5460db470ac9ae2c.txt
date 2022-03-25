@@ -1,0 +1,333 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Army Digitalisation: the THEIA programme
+  
+
+  
+  
+  
+      
+  THEIA (“THAY-A”) is driving digital transformation in the British Army so we will outcompete our adversaries, integrate with our partners and operate with maximum efficiency. 
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Ministry of Defence
+
+      
+      Published
+      27 November 2020
+      Last updated
+      
+        9 July 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction
+
+        
+        
+          THEIA (Digitalisation) Objectives
+
+        
+        
+          How we will do this
+
+        
+        
+          Context
+
+        
+        
+          Integration is the future
+
+        
+        
+          How to find out more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Introduction
+
+The Army is doubling down on efforts to embrace the necessary technologies and approaches to enhance operational effectiveness and improve the management of our business.
+
+
+  THEIA is about how we use digitised information and digital technologies to improve operational and business decision-making across Army functions
+  it was central to the Integrated Review and is at the heart of the British Army Land Operating Concept and Army Operating Model. See how this plugs into the pan Defence Digital Backbone (JPEG, 189KB)
+  it is governed through dedicated quarterly meetings of the Army’s Executive Committee (ExCo (Digitalisation)) which is championed by the Deputy Chief of the General Staff.
+
+
+
+
+THEIA (Digitalisation) Objectives:
+
+THEIA’s objectives are to:
+
+
+  
+    change digital culture and behaviours, equipping our people with digital skills and promoting new digital ways of working
+  
+  
+    integrate all information from command and control, intelligence, sensors, effectors and platforms across domains, partners and allies
+  
+  
+    deliver better data and enabling and better operational and corporate competitiveness, efficiency and effectiveness. See our Better decisions graphic (JPEG, 160KB)
+  
+
+
+How we will do this:
+
+There are six digital transformation projects currently underway in the Army and we have committed to supporting and further enabling them over the next two years by establishing a Design Authority, adopting Agile procurement methodologies, developing our digital skills & culture and expanding our communications.
+
+The six projects are:
+
+Digital Estate:  Improving sustainability and efficiency across the Army estate.  This includes two pilots: a) Building Efficiency Management System (BEMS) to manage energy efficiency and reduce carbon output in Catterick; and, b) a networked digital signage, 5G and SmartBase technology pilot in Larkhill.
+
+Army Estate Wide Open Internet access:  The ubiquitous provision of open broad band internet access (via WiFi) across the Army Estate is totemic to THEIA Digital Transformation and reflects increasing reliance on personal internet access for work purposes – not least training, education and routine management.  It will initially include 400 army sites with the aim to extend it to all 498 sites across three distinct areas (business, welfare and single living accommodation).  The intention is to further extend it to the Defence Training Estate where it will enable live/simulated training benefit to training audiences.
+
+Equipment Information Exploitation:  This will enable accurate planning and monitoring of Army fleet maintenance and sustainment. The Babcock delivered Armoured Fighting Vehicle condition monitoring trial seeks potential savings of 10% of the £100-million running costs and will dramatically increase vehicle availability and reduce costs.
+
+Digital Army Personnel Processes:  The Army digital team have already built the Army Career Management Tool; automating manual paper-based processes into a suite of digital-integrated workflows to conduct promotion and selection boards. Since Jun 2020, 291 promotion boards have been conducted using the tool – giving the career managers more time to focus on the individual needs of the soldiers and officers.
+
+Foundation of Digital Skills:  More than half of UK adults do not have the essential digital skills needed for the workplace.  This accelerator will upskill the workforce to have the skills to adapt to the fast-paced advances in technology and be leaders in the digital age. Focus in the short term is on analysing and mapping the training need to deliver high-quality, relevant individual and collective digital skills from foundation to specialist.
+
+Digitalising the Field Army:  The Field Army Information Exploitation team are drawing previously dissipated data together to provide a dynamic understanding of readiness, deployability and availability for the Land Operations Command.
+
+THEIA will enable the Army to be transformative in an era of persistent competition.  It will also improve our integration with industry, partners and allies.  This will underpin our ambitions to be a significant contributor to HMG’s Global Britain strategy, and deliver CGS’ “asymmetric Army for the Digital Age”.
+
+Context
+
+The Integrated Review was the largest review of the UK’s foreign, defence, security and development policy since the end of the Cold War. Information-based capabilities that can demonstrate effect now, such as cyber and Information Operations, are likely to be highly valued, both offensively and defensively. Moreover, in an era of persistent competition, the ability to deter, disrupt and demoralise potential adversaries by leveraging and integrating nuanced defence and security options is increasingly important.
+
+Kvachkov, Vladimir, Russian Special Purpose Forces IN Keir Giles, Handbook of Russian Information Warfare (Rome: NATO Defense College, Fellowship Monograph, 2016) says:
+
+
+
+  A new type of war has emerged, in which armed warfare has given up its decisive place in the achievement of the military and political objectives of war to another kind of warfare – Information War.
+
+
+
+What is clear is the demands of the contemporary operating environment and the Integrated Review require Defence to integrate across all five domains (Land, Sea, Air, Space, Information), with other Services, government departments and allies and provide reach, speed of response and agility. Equally there is a requirement for new and cutting-edge technology to keep pace with adversaries. However, to compete in Information Warfare and widely integrate effects requires Defence to do more than simply buy new technology. It needs to conduct a digital transformation.
+
+Integration is the future
+
+Final words from the Army’s Chief Information Officer (CIO), Director Information, General JJ Cole in his speech to RUSI Integrating Information Manoeuvre Conference, 10 Mar 2020:
+
+“Let us be bold: There is no Integrated Action without Information Advantage. There is no Information Advantage without (Joint) Information Manoeuvre. We are delivering Information Manoeuvre…and this requires integration in all its forms:
+
+
+  within the Land Environment, combining the five capability areas of networks intelligence; influence; cyber and counter-intelligence
+  between physical manoeuvre and information manoeuvre
+  across a wider Joint, Allied and Partners enterprise
+  with training, people and culture
+  of physical platforms with cutting-edge digital technology; and
+  with data as the critical asset.
+
+
+Integration is the keyword. There is a long way to go, but we are on the way.”
+
+How to find out more
+
+THEIA Engagement Lead: Sally.Wareham333@mod.gov.uk and Charlotte Callanan Charlotte.Callanan100@mod.gov.uk.
+
+Related links
+
+Spotlight on Military Digitisation: Accelerating Digital Transformation.
+
+
+
+
+
+      
+        
+    Published 27 November 2020
+    Last updated 9 July 2021
+      + show all updates
+      
+        
+            
+              9 July 2021
+              Updated: general content on page.
+            
+            
+              8 February 2021
+              Updated page content as of 8 February 2021.
+            
+            
+              12 January 2021
+              Updated: THEIA engagement lead contacts.
+            
+            
+              9 December 2020
+              Updated the text under the Digital Army Processes section.
+            
+            
+              27 November 2020
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Digital Strategy for Defence
+        LE TacCIS Programme
+        Morpheus Programme: next generation tactical communication information systems for defence
+        Data Strategy for Defence
+        Government financial reporting manual 2013 to 2014
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Defence and armed forces
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

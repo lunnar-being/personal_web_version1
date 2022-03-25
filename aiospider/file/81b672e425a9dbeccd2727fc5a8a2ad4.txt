@@ -1,0 +1,133 @@
+
+
+The RAND Blog
+Previous Blog Post38 Million Have Applied for Unemployment—but How Many Have Received Benefits?Next Blog PostThe Wealth Gap Widens
+
+Innovations During COVID-19: Silver Lining or Threat to Patient Safety?
+commentary
+(The RAND Blog)
+A ventilator that was modified to be used simultaneously by two patients at the Aga Khan university Hospital in Nairobi, Kenya, April 9, 2020Photo by Baz Ratner/Reuters
+
+
+
+by Shira H. Fischer and Carl Berdahl
+June 1, 2020
+
+
+With so much about COVID-19 unknown, during the first months of pandemic we read articles nearly daily about physicians trying something new to treat infected patients. This was not medicine as usual with nationwide guidelines and evidence-based treatments.
+Nearly three months after the first cases, we still don't know what works best in this drastically altered world. Some of the ideas and innovations are outstanding—but they are, so far, untested.
+For example, a group of doctors in Boston recently described how to create an “aerosol box” for use when intubating patients to protect the physician from the viral particles that are expelled during this process. This innovation has only been tested in a simulated environment, but more rigorous testing in the future may confirm that it is safe and effective for both patients and physicians.
+Another pragmatic innovation has been the adaptation of telemedicine for use within the acute care setting. To minimize transmission of the virus, some physicians are using video or audio communication tools to speak with patients without entering the exam room. Several hospitals are issuing iPads to patients who use them to chat with physicians in the next room. This strategy might prevent physicians from getting sick, and it might also protect patients from hospital-acquired infections. The effects on patient safety and patient experience are unknown, but during a pandemic it seems like a good idea.
+Some innovations seem more risky. Faced with a dire shortage of ventilators, New York State approved ventilator-sharing despite the fact that this had only been studied in simulations. This practice is unlikely to be used outside of pandemic circumstances for two reasons: It may transmit germs between patients, and it may not effectively ventilate two patients with different disease stages. The American Society of Anesthesiologists recently spoke out against ventilator-sharing, but it is hard to criticize physicians for doing it anyway if the only alternative is to let one patient die.
+Some accepted practices have already shifted based on what physicians are learning from each other. For example, early in the crisis, patients were put on invasive ventilators early because we feared they would get sick rapidly. Now, we instead use noninvasive oxygenation for many patients, because that, it seems, might be all they need.
+There is an urgent need to evaluate ongoing innovations to learn what works and what doesn't, and what may have costs that are acceptable only under crisis conditions.Share on TwitterWe trust that physicians worldwide are making their best guesses under their individual circumstances so that they can effectively treat patients, minimize risks of harm, and preserve resources. There is, however, an urgent need to evaluate their ongoing innovations to learn what works and what doesn't, and what may have costs that are acceptable only under crisis conditions.
+Telemedicine has fewer privacy protections than it used to, for example, and ventilator-sharing may worsen outcomes for patients who are already critically ill. (However, perhaps we should design future ventilators—and other medical devices—with crisis conditions in mind. ) At the same time, some of the innovations now being piloted may prove to be safe and effective, and we may ultimately incorporate them into standard medical care.
+Evaluation of new ideas through peer-reviewed publications is still important, but COVID-19 shows that we also need new strategies to rapidly evaluate innovations that are disseminated via social media and other nontraditional communication platforms.
+These evaluations should start now. As new COVID-19 hot spots emerge, we must be prepared to face them with more effective strategies each time. While doctors and hospitals may not have all the information today, they owe it to patients to study medical successes and failures to more confidently treat those who arrive tomorrow.Innovations in a Pandemic
+
+Changes in regulations
+Leniencies in HIPAA regulations, changes in reimbursement for telemedicine
+PPE and ventilator sourcing
+3D printing, making at home, N95 decontamination
+Telemedicine innovations
+Videoconferencing before and during hospitalization, iPads in patient rooms, remote consults via telemedicine, remote monitoring when patients are sent home
+Workforce innovations
+Using medical students before graduation to increase the workforce, designating a single person to do all intubations each shift to limit exposure
+Structural innovations
+COVID-19-only wards, floors, or hospitals
+
+
+Shira H. Fischer is a physician policy researcher at the nonprofit, nonpartisan RAND Corporation. Carl Berdahl is an emergency physician and health services researcher at Cedars-Sinai Medical Center and adjunct policy researcher at RAND.
+Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Shira H. Fischer
+@ShiraFischer
+Physician Policy Researcher
+
+
+
+Carl Berdahl
+Affiliated Adjunct Physician Policy Researcher
+
+
+
+
+
+
+Topics
+ Coronavirus Disease 2019 (COVID-19)
+Evidence Based Health Practice
+Health Care Technology
+Pandemic
+Science, Technology, and Innovation Policy
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Commentary
+The COVID-19 Crisis Has Sparked Innovation and Offers Lessons We Must Not Forget
+
+Apr 1, 2020
+Sonja Marjanovic @SonjaCambs
+
+
+
+
+
+
+
+
+
+
+Commentary
+Needed: A Blueprint for a Post-Vaccine World
+
+May 11, 2020
+Krishna B. Kumar @kbkumar_, Mahshid Abir, et al.
+
+
+
+
+
+
+
+
+
+
+Commentary
+Implement Critical Care Surge Strategies Now to Save Lives
+
+Apr 1, 2020
+Mahshid Abir, Kaitlyn Entel, et al.
+
+
+
+
+
+
+
+

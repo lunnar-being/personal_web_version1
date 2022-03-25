@@ -1,0 +1,245 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Data scientist
+  
+
+  
+  
+  
+      
+  Find out what a data scientist does and the skills you need to do the job.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      7 January 2020
+      Last updated
+      
+        25 February 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of data scientist
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+
+Data Scientists in government may work in the Digital, Data and Technology function or the Analysis function. We are developing a single common job model for all data scientists. This means the role is the same whether you belong to the DDaT function or the Analytics function.
+
+
+We are updating the Data Science role. This page will be updated with a full description of the role by Autumn 2021. This page has an up to date introduction to the role and summary of the role responsibilities.
+
+There is more information about the role of a data scientist in government and the most up to date job model on the  Government Analyst Career Framework.
+
+Introduction to the role of data scientist
+
+A Data Scientist uses data to identify and solve complex business problems. They have an interdisciplinary focus, using techniques and knowledge from a range of scientific and computer science disciplines (for example, statistics, analytics, machine learning).
+
+A Data scientist is open and transparent, collaborating with others to share good practice and continuously improve outputs. In this role, as part of a multidisciplinary team, you will work with data architects, data engineers, data analysts and others.
+
+Your role responsibilities as a data scientist may include:
+
+
+  building credible statistical models from data and using the best coding practices to generate reproducible work
+  sourcing, accessing, manipulating and engineering data processes with data that typically have characteristics of volume, velocity and variety, or all of them
+  exploring and visualising data to present the ‘story’ of data in a meaningful way to a range of technical and non-technical audiences
+  using an evolving range of data analysis tools and techniques, including open source, some of which must be learnt quickly, as and when required
+  working with policy and operations to understand where data science can add value
+  supporting strategic and operational decision making in order to create impact
+  drawing on other technical and analytical standards from across government and industry
+  adhering to the data science ethics framework
+  taking an interdisciplinary focus, using techniques and knowledge from across the scientific spectrum
+  continuously seeking to expand a range of technical skills in addition to their leadership and communications development
+  helping to grow data science skills in other teams, understanding the variety of functional roles relating to data science and how they can be most effectively applied to solve business problems
+
+
+Read more
+
+
+  Civil Service Jobs
+  Read about the government’s data science community
+  Blog: building capability and community through the Government Data Science Partnership
+  Blog: Chiin-Rui Tan, Head of Data Science at Foreign and Commonwealth Office (FCO)
+
+
+
+
+
+      
+        
+    Published 7 January 2020
+    Last updated 25 February 2021
+      + show all updates
+      
+        
+            
+              25 February 2021
+              We are updating the Data Science role. This page will be updated with a full description of the role by Autumn 2021. This page has an up to date introduction to the role and summary of the role responsibilities. 
+
+There is more information about the role of a data scientist in government and the most up to date job model on the [Government Analyst Career Framework](https://www.gov.uk/government/publications/analysis-function-career-framework).
+            
+            
+              7 January 2020
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Government Analysis Function SCS Capability Framework
+        Government Analysis Career Framework
+        Programme delivery manager
+        Data analyst
+        Service transition manager
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

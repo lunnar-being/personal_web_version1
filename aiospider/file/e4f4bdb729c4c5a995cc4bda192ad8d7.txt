@@ -1,0 +1,312 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Guidance for 'specials' manufacturers
+  
+
+  
+  
+
+  
+    
+  An interpretation of the good manufacturing practice (GMP) requirements for specials manufacturers.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Medicines and Healthcare products Regulatory Agency
+
+      
+      Published
+      30 January 2015
+      Last updated
+      
+        25 February 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Guidance for 'specials' manufacturers
+    
+        HTML
+    
+
+
+  
+
+  
+      
+  
+  
+    Guidance for 'specials' manufacturers
+    
+        PDF, 353KB, 36 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email webupdates@mhra.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+  
+      
+  
+  
+    Appendix: updates to the document
+    
+        PDF, 66.5KB, 2 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email webupdates@mhra.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+
+Guidance for Manufacturers Specials licence holders on ‘packing down’ medicines during the coronavirus (COVID-19) outbreak
+
+
+The purpose of this document is to provide guidance for manufacturing specials (MS) licence holders in the interpretation of good manufacturing practice (GMP) requirements that should be applied when manufacturing unlicensed medicines.
+
+This includes guidance on the appropriate standards for the manufacture of aseptically prepared products under an MS licence using essentially closed systems.
+
+This document was first published in September 2013. It has now been updated based on experience during inspections and stakeholder feedback.
+
+Areas where changes have been made are listed in the appendix.
+
+Some changes may have an operational impact so there will be a grace period to allow the changes to be implemented.
+We expect most changes should be implemented within 3 months. However due to the significance of the following changes these should be implemented by 6 months after the publication of this document:
+
+
+  
+    3.3.6 - Cleaning validation
+  
+  
+    3.5.19 – Pooling (except the requirements for pooling batch records and conduct of media fill studies reflective of the process, which should be implemented within 3 months)
+  
+  
+    3.5.20 – Disinfection using sporicidal agents
+  
+  
+    3.5.27 – Eye drop manufacture
+  
+  
+    3.6.9 – Identification of microorganisms
+  
+
+
+Due to the significant impact of these changes on sterility assurance, licence holders should ensure that, where relevant, interim risk reducing actions are considered during the 3 to 6-month implementation phase.
+
+
+
+
+        
+      
+
+      
+    Published 30 January 2015
+    Last updated 25 February 2021
+      + show all updates
+      
+        
+            
+              25 February 2021
+              A major update to the manufacture of sterile medicinal products section to add:
+
+1. A definition of an aseptic manipulation.
+2. A definition of a compounded intermediate for use in further process, for example parenteral nutrition (PN) manufacture. 
+3. Guidance on additional risk reducing factors to be used when producing compounded intermediates.
+4. The elements to be included in a contamination control strategy
+
+Other minor changes to the formatting and numbering of existing guidance.
+            
+            
+              30 January 2015
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Supply unlicensed medicinal products (specials)
+        TSE requirements for imported unlicensed human medicines
+        Guidance for Manufacturers Specials licence holders on ‘packing down’ medicines during the coronavirus (COVID-19) outbreak
+        Notification of intent to import an unlicensed medicinal product
+        Information for hospital blood banks during the coronavirus (COVID-19) outbreak
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Manufacturing, wholesaling, importing and exporting medicines
+        Marketing authorisations, variations and licensing guidance
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

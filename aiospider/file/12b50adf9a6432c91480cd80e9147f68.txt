@@ -1,0 +1,427 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Designated standards
+  
+
+  
+  
+  
+      
+  Lists of standards that businesses can use to show their products, services or processes comply with essential requirements of legislation.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Office for Product Safety and Standards and Department for Business, Energy & Industrial Strategy
+
+      
+      Published
+      3 December 2020
+      Last updated
+      
+        6 January 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          References of designated standards
+
+        
+        
+          Chemicals
+
+        
+        
+          Conformity assessment and management systems
+
+        
+        
+          Construction
+
+        
+        
+          Consumers and workers protection
+
+        
+        
+          Energy efficiency
+
+        
+        
+          Electric and electronic engineering
+
+        
+        
+          Healthcare engineering
+
+        
+        
+          Measuring technology
+
+        
+        
+          Mechanical engineering and means of transport
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Many businesses currently use European harmonised standards to provide presumption of conformity with relevant EU law. As the UK retained many of the requirements of EU law at the end of the transition period the essential legal requirements that businesses must meet in the UK did not change. Therefore, all harmonised standards that gave presumption of conformity with EU law became designated standards in the UK on 1 January 2021. Designated standards can be used to provide a rebuttable (i.e. could be countered by evidence) presumption of conformity to GB law in the same way that harmonised standards are used to demonstrate compliance with EU law.
+
+Harmonised standards remain the relevant standards for placing goods on the Northern Ireland market, where EU rules continue to apply. However, the Government is seeking to find a new balance in the Northern Ireland Protocol to place it on a more sustainable footing that would impact on how products are regulated in NI.
+
+Find out about placing manufactured goods on the market in Northern Ireland
+
+A designated standard is a standard, developed by consensus, which is recognised by government in part or in full by publishing its reference on GOV.UK in a formal notice of publication. Depending on the product, a designated standard can be a standard adopted by any of the four following recognised standardisation bodies, or by international standardising bodies (including the International Organization for Standardization (ISO), International Electrotechnical Commission (IEC) and International Telecommunication Union (ITU).
+
+
+  British Standards Institution (BSI)
+  European Committee for Standardisation (CEN)
+  European Committee for Electrotechnical Standardisation (CENELEC)
+  European Telecommunications Standards Institute (ETSI)
+
+
+Note: Designated standards do not replace the mandatory essential legal requirements but offer a technical solution to fulfil them. The manufacturer retains full responsibility for ensuring the product complies with the relevant essential requirements. The content of the standard is the responsibility of the recognised standardisation bodies, with BSI as the UK’s National Standards Body representing the interests of UK stakeholders. From 1 January 2021, when deciding if a standard is appropriate for designation, the government will check how far it covers the various essential requirements set out in the relevant legislation.
+
+The government will ensure that the standards applicable in the UK best suit the UK’s needs, including designated standards businesses can use to provide presumption of conformity with GB law. It will update the list of designated standards as and when necessary to retain and enhance the high levels of consumer safety. It may decide not to designate or to designate with restriction. Any such restrictions will be published on GOV.UK, and businesses should check frequently.
+
+In the interests of transparency, the government will make its proposals to publish references to standards publicly available for 28 days. Interested parties may object to their publication within this timeframe. The references will be published to designate the standards on day 29, unless the proposal is withdrawn or amended before that date.
+
+Designated standards: new or amended notices of publication
+
+References of designated standards
+
+Designated standards are prefixed “BS”, “EN”, “EN ISO” or “EN IEC”. The “EN” prefix indicates that the standard has been adopted by a European standardising body. Where the designated standard specified in the notice of publication is prefixed “EN” it is acceptable to reference this version in technical documentation, or a version of the same standard with a national prefix. This is because European standards are adopted identically by the 34 national members of CEN and CENELEC.
+
+For example: BS EN 71-1:2014+A1:2018, DIN EN 71-1:2014+A1:2018, or simply EN 71-1:2014+A1:2018 are all equally acceptable.
+
+While the essential legal requirements in GB remain the same as the equivalent EU law, the informative Annex ZA/ZZ and any references to EU law in designated standards should be read as applying to the legislation for GB in the same way, subject to any restrictions or points made in the relevant notice of publication. This will change if and when the essential legal requirements in GB change. We have asked BSI to ensure that any new or revised designated standards map across to the essential legal requirements in GB.
+
+Chemicals
+
+  
+Explosives for civil uses – list owned by HSE
+  Pyrotechnic articles
+
+
+Conformity assessment and management systems
+
+  New Legislative Framework (NLF)
+
+
+Construction
+
+  
+Construction products (CPR) – list owned by DLUHC
+
+
+Consumers and workers protection
+
+  Cosmetic products
+  General product safety
+  
+Personal protective equipment (PPE)
+  Toy safety
+
+
+Energy efficiency
+
+Ecodesign and energy labelling
+
+  Air conditioners and comfort fans
+  Air heating and cooling
+  Circulators
+  Computers
+  Dishwashers
+  Domestic ovens
+  Electric motors
+  Fans
+  Hot water boilers
+  Lamps – directional and LED
+  Lamps – non-directional
+  Lamps – fluorescent and professional
+  Fridges – storage cabinets
+  Household refrigeration appliances
+  Power supplies
+  Servers and data storage products
+  Set-top boxes
+  Solid fuel boilers
+  Space heaters
+  Space heaters – local
+  Standby and off mode
+  Televisions
+  Transformers
+  Tumble dryers
+  Vacuum cleaners
+  Ventilation
+  Washing machines and washer dryers
+  Water heaters and tanks
+  Water pumps
+
+
+Electric and electronic engineering
+
+  
+Electromagnetic compatibility (EMC)
+  
+Low voltage equipment (LV)
+  
+Radio equipment (RE)
+  
+Restriction of the use of certain hazardous substances (RoHS) – list owned by DEFRA
+
+
+Healthcare engineering
+
+  
+Medical devices (MD) – list owned by MHRA
+  
+In vitro diagnostic medical devices – list owned by MHRA
+  
+Active implantable medical devices – list owned by MHRA
+
+
+Measuring technology
+
+  
+Measuring instruments (MI)
+  
+Non-automatic weighing instruments (NAWI)
+
+
+Mechanical engineering and means of transport
+
+  
+Cableway installations designed to carry persons – list owned by DfT
+  Equipment for explosive atmospheres
+  
+Gas appliances (GA)
+  Lifts
+  Machinery
+  
+Pressure equipment (PE)
+  Recreational craft and personal watercraft
+  Simple pressure vessels (SPV)
+
+
+
+
+
+      
+        
+    Published 3 December 2020
+    Last updated 6 January 2021
+      + show all updates
+      
+        
+            
+              6 January 2021
+              Links to designated standards from 1 January 2021 added for medical devices.
+            
+            
+              5 January 2021
+              Links to designated standards from 1 January 2021 added for washer dryers and washing machines.
+            
+            
+              1 January 2021
+              Links to designated standards from 1 January 2021 added for household refrigeration appliances and conformity assessment and management systems.
+            
+            
+              22 December 2020
+              Links to designated standards from 1 January 2021 added for air conditioners and comfort fans, circulators, dishwashers, domestic ovens and range hoods, electric motors, power supplies, radio equipment, standby and off mode, transformers, tumble dryers and vacuum cleaners.
+            
+            
+              18 December 2020
+              Links to designated standards from 1 January 2021 added for construction products and cableway installations designed to carry persons.
+            
+            
+              16 December 2020
+              Link to designated standards from 1 January 2021 added for general product safety.
+            
+            
+              9 December 2020
+              Links to designated standards from 1 January 2021 added for ATEX, cosmetic products, EMC, explosives for civil uses, gas appliances, lifts, low voltage equipment, machinery, measuring instruments, NAWI, PPE, pressure equipment, pyrotechnic articles, recreational craft, RoHS, simple pressure vessels and toy safety.
+            
+            
+              3 December 2020
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Electrical Equipment (Safety) Regulations 2016
+        Designated standards: low voltage
+        Designated standards: radio equipment
+        Electromagnetic Compatibility Regulations 2016
+        Product safety for businesses: A to Z of industry guidance
+
+  
+
+
+
+
+      
+
+    Detailed guidance
+
+  
+
+
+        Designated standards: new or amended notices of publication
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Business and industry
+        Brexit
+        Brexit: business guidance
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

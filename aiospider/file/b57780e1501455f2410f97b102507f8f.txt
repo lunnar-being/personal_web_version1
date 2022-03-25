@@ -1,0 +1,163 @@
+
+
+There is growing demand for the Air Force Distributed Common Ground System (AF DCGS) to analyze sensor data. The authors assessed how new tools and technologies, including artificial intelligence and machine learning (AI/ML), can help meet these demands. The authors assessed AF DCGS tools and processes, surveyed the state of the art in AI/ML methods, and examined best practices to encourage innovation and to incorporate new tools.
+
+
+
+
+Read Online
+
+Technology Innovation and the Future of Air Force Intelligence Analysis
+Volume 1, Findings and Recommendations
+by Lance Menthe, Dahlia Anne Goldfeld, Abbie Tingstad, Sherrill Lingel, Edward Geist, Donald Brunk, Amanda Wicker, Sarah Lovell, Balys Gintautas, Anne Stickells, et al.
+Related Topics: Intelligence Analysis, Intelligence Collection, Machine Learning, Military Logistics, United States Air Force
+CitationEmbedView related products
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+DownloadDownload eBook for Free
+
+FormatFile SizeNotes
+
+
+
+
+PDF file
+
+
+2.3 MB
+Use Adobe Acrobat Reader version 10 or higher for the best experience.
+
+
+
+
+Purchase
+Purchase Print Copy
+
+ FormatList Price
+Price
+
+
+Add to Cart
+Paperback46 pages
+$18.50
+$14.80 20% Web Discount
+
+
+
+
+
+
+
+
+
+
+Research Questions
+
+What are the challenges within the current enterprise?How can tools and technologies — including AI/ML methods, available today or in the foreseeable future — help the AF DCGS evolve to meet the challenges of synthesizing data effectively and efficiently?How might AI/ML be used and how can it help lay out a road map for incorporating technologies as they become available?
+
+
+
+There is growing demand for the Air Force Distributed Common Ground System (AF DCGS) to analyze sensor data. Getting the right intelligence to the right people at the right time is increasingly difficult as the amount of data grows and timelines shrink. The need to exploit all collections limits the ability of analysts to address higher-level intelligence problems. Current tools and databases do not facilitate access to needed information.
+Air Force/A2 asked researchers at RAND Project AIR FORCE to analyze how new tools and technologies can help meet these demands, including how artificial intelligence (AI) and machine learning (ML) can be integrated into the analysis process. PAF assessed AF DCGS tools and processes, surveyed the state of the art in AI/ML methods, and examined best practices to encourage innovation and to incorporate new tools.
+Key Findings
+
+Many analytic tasks can be fully or partially automated, although human involvement will continue to be necessary in more-complex tasks.
+AI/ML can free analysts to focus on solving intelligence problems and developing supporting technologies to make analysis more efficient.
+Analysts will require new skills both to facilitate use of AI/ML and to take advantage of opportunities to conduct more-advanced analysis.
+
+
+Recommendations
+
+AF DCGS should leverage existing technologies to automate some analysis and reporting tasks and to make archival intelligence more accessible.
+AF DCGS should take advantage of AI/ML technologies, when available, for early phase analysis tasks (e.g., identifying and tagging imagery, issuing threat warnings, re-tasking collectors).
+AF DCGS should organize to balance human effort across three competencies: supporting missions, supporting analysis, and solving intelligence problems.
+AF DCGS should recruit and train analysts with data science, programming, and other skills.
+AF DCGS should follow best practices for developing, implementing, and sustaining new tools.
+
+
+
+ Related Products 
+
+
+
+
+
+
+
+
+Report
+Technology Innovation and the Future of Air Force Intelligence Analysis
+
+Jan 27, 2021
+Lance Menthe, Dahlia Anne Goldfeld @DahliaAGoldfeld, et al.
+
+
+
+
+
+
+Research conducted by
+
+RAND Project AIR FORCE
+
+
+
+The research described in this report was commissioned by U.S. Air Force/A2 and conducted by the Force Modernization and Employment Program within RAND Project AIR FORCE.This report is part of the RAND Corporation Research report series. RAND reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND reports undergo rigorous peer review to ensure high standards for research quality and objectivity.Permission is given to duplicate this electronic document for personal use only, as long as it is unaltered and complete. Copies may not be duplicated for commercial purposes. Unauthorized posting of RAND PDFs to a non-RAND Web site is prohibited. RAND PDFs are protected under copyright law. For information on reprint and linking permissions, please visit the RAND Permissions page.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: RAND Corporation
+Availability: Available
+
+Print
+Format: Paperback
+Paperback Pages: 46
+List Price: $18.50
+Paperback Price:  $14.80
+Paperback ISBN/EAN: 9781977406316
+DOI: https://doi.org/10.7249/RRA341-1
+Document Number: RR-A341-1
+Year: 2021
+Series: Research Reports
+
+
+
+Explore
+Related Topics
+
+Intelligence AnalysisIntelligence CollectionMachine LearningMilitary LogisticsUnited States Air Force
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+Citation
+Format:
+
+ Chicago Manual of Style
+ RAND Corporation Style Manual
+
+Menthe, Lance, Dahlia Anne Goldfeld, Abbie Tingstad, Sherrill Lingel, Edward Geist, Donald Brunk, Amanda Wicker, Sarah Lovell, Balys Gintautas, Anne Stickells, and Amado Cordova, Technology Innovation and the Future of Air Force Intelligence Analysis: Volume 1, Findings and Recommendations. Santa Monica, CA: RAND Corporation, 2021. https://www.rand.org/pubs/research_reports/RRA341-1.html. Also available in print form.
+Menthe, Lance, Dahlia Anne Goldfeld, Abbie Tingstad, Sherrill Lingel, Edward Geist, Donald Brunk, Amanda Wicker, Sarah Lovell, Balys Gintautas, Anne Stickells, and Amado Cordova, Technology Innovation and the Future of Air Force Intelligence Analysis: Volume 1, Findings and Recommendations, Santa Monica, Calif.: RAND Corporation, RR-A341-1, 2021. As of December 17, 2021: https://www.rand.org/pubs/research_reports/RRA341-1.html
+
+Download Citation (BibTeX)
+Download Citation (RIS)
+
+
+

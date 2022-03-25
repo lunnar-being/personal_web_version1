@@ -1,0 +1,41 @@
+
+	
+Engaging healthcare consumers in a highly personalized way—and the value it brings to all healthcare system stakeholders—is increasingly important, as we highlighted in “.” The benefits of this approach can lead to better member experience, higher quality of care, and reduction of avoidable healthcare costs. The urgency and importance of personalized engagement has only grown through the COVID-19 pandemic, reflecting the shifting nature of care as well as consumer openness to engaging in different ways.In order to better understand how personalization could improve healthcare outcomes and consumer experience, McKinsey conducted consumer research
+
+
+ to examine the practical applications of personalization in discharge planning. This investigation included how post-admission engagement could potentially reduce unnecessary healthcare costs and readmission experiences. This research builds on two decades of work that posits how transitions of care and supported discharge programs after an acute exacerbation can reduce avoidable readmissions.
+
+
+ Good follow-up care (such as ensuring medication adherence, adherence to the right rehabilitation and physical therapy, remote monitoring of symptoms, and timely follow-up checkups) may lead to better outcomes. When this follow-up care fails (for example, due to a lack of access, a lack of health literacy, or other factors), a patient is more likely to end up back in a hospital or with a need for additional care.This personalized care approach is especially relevant as consumers reflect on COVID-19. As discussed in “,” a third of respondents expressed interest in their providers offering support through telemedicine options, COVID-19 testing, and information on avoiding becoming ill. On a broader level, by reducing avoidable unnecessary outpatient and inpatient events, stakeholders can relieve the overall health system capacity, prioritizing those in need of immediate help. As we discussed in “,” proper follow-up care is essential to save substantial downstream costs.We wanted to understand the journey that patients experienced after hospital discharge (based on post-acute care the patients have received) and how enhanced patient engagement through personalization of care could improve the experience and resulting health outcomes.Responses to our survey support academic studies indicating that up to 30 percent of readmissions are avoidable
+
+
+—and part of the potential solution is to engage patients to follow the recommended care guidelines. In order to study what care people receive after a discharge from the hospital, our survey looked at 861 respondents that had an acute event to understand their clinical complications after discharge, level of satisfaction with their payers and providers, what actions they took, and their likelihood of changing their care team and insurance plans.
+		
+	
+Learnings from consumer researchRespondents reported significant unplanned, high-cost
+
+
+ follow-up care after an acute event, indicating that even before COVID-19, patients were often caught off guard by unexpected medical events. Roughly half of the respondents reported having high-cost follow-up care after their acute event (and as high as 73 percent of respondents who receive Medicaid). Noticeably, about 44 percent of all high-cost follow-up care was considered to be unplanned. Roughly half of this unplanned high-cost care was in an inpatient setting (for example, an unplanned hospital readmission), while another quarter was high-cost outpatient follow-up care. The final quarter of high-cost follow-up care related to rehabilitation. Thirty-three percent of all respondents with unplanned, high-cost follow-up care reported reasons that they considered avoidable, such as not getting clear post-discharge instructions or receiving inadequate post-acute care (Exhibit 1).
+    
+Consumers often connect their care outcomes to provider and health insurance experience. Respondents were much less satisfied with their providers if they experienced high-cost unplanned follow-up care, according to customer loyalty and satisfaction measurement gathered during the research process. The provider Net Promoter Score was only 19 for respondents with high-cost
+
+
+ unplanned follow-ups, compared with 47 of those with routine care. Similarly, respondents with high-cost unplanned follow-up care were 2.2 times more likely to switch their payer/health insurance plan. The cited reason by respondents was largely related to a payer not meeting the members’ expectations for their particular condition. In addition to higher potential churn, this attitude of members can also have negative effects on Medicaid and Medicare Advantage payers’ Star ratings and Consumer Assessment of Healthcare Providers & Systems (CAHPS) scores (Exhibit 2).
+    
+Different consumer segments require different engagement strategies. By segmenting patients with insurance and focusing on two well-represented consumer personas (“Engaged Traditionalists” and “Disadvantaged Disconnecteds”), we were able to study differences in their risk profiles and potential approaches to their engagement. Engaged Traditionalists and Disadvantaged Disconnecteds have similar socio-demographic profiles, but their engagement with the healthcare system is very different. As we discussed in “,” Engaged Traditionalists skew older, value and seek guidance, and make trade-offs to lower costs. On the other hand, Disadvantaged Disconnecteds skew younger and lower income, and have fewer relationships with providers. Engaged Traditionalists had a much higher satisfaction with both payers and providers, a lower rate of unplanned high-cost follow-up care after an acute event (23 percent compared with 35 percent), and a much higher rate of primary care provider visits in the past year (76 percent compared with 54 percent). On the other hand, they were less likely to be enrolled in a chronic condition management program (43 percent compared with 68 percent), possibly because of their lower underlying overall health risk.Moreover, member preferences around communication differ significantly, and so do interventions that create the highest value for the two different groups. Engaged Traditionalists prefer to be engaged after the discharge via email and look for help in facilitating appointments required for their follow-ups, as well as transportation. The Disadvantaged Disconnected members need to be engaged while still at the hospital, to help them get connected with a primary care physician (PCP) and to get a set of easy-to-follow step-by-step instructions (Exhibit 3).
+    
+By finding the most effective and targeted ways to interact with the Engaged Traditionalists and Disadvantaged Disconnecteds, payers and providers can improve their overall member experience. These efforts have the potential to substantially reduce avoidable unplanned post-acute follow-up costs.
+		
+	
+Potential actions for healthcare companies to considerIn order to address the potential pain points in members’ experiences after an acute event, payers and providers could consider a number of actions:
+    
+    
+    
+    
+    
+
+        
+
+
+    
+    In the era of COVID-19, all healthcare stakeholders may soon be expected to provide care to consumers that is more personalized, in order to increase their patients’ rates of engagement and satisfaction. Based on our survey responses, unplanned events that lead to high-cost follow-up care can lead to member dissatisfaction and avoidable costs. Many of the underlying factors are addressable through better transition-of-care programs, better care coordination, and more access to care. Healthcare companies can consider actions that address the underlying drivers leading to exacerbations and to substantially reduce unplanned follow-up care, improve satisfaction, and increase engagement. These goals can be accomplished through better segmentation of consumers into “personas,” better personalization of outreach, more refined product and benefit structure, and more personalized care programs to maximize the impact.

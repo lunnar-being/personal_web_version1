@@ -1,0 +1,98 @@
+
+        
+        
+        
+     at design grow revenues and shareholder returns at nearly .
+
+
+ So why aren’t more companies joining their ranks?
+	
+To answer the question, we interviewed 200 senior design leaders and 100 top executives and analyzed the answers of more than 1,700 respondents to the McKinsey Design Index (MDI) survey tool.
+
+
+ What we found was striking: some 90 percent of companies weren’t reaching the full potential of design, even as, in the past five years, double the number of companies have added senior design roles to their organization.
+
+
+Of the four areas tied directly to improved revenue growth and shareholder return—which include design leadership, cross-functional talent, iterative processes, and end-to-end user experiences—CEOs must address design leadership first if their companies are to
+capture the full business value of design.
+
+
+ Yet two problems exist, according to our research: a lack of clarity about where and how senior design leaders can contribute, and uncertainty about how much to expect of them in their role (Exhibit 1). To elevate the organization’s design ambition, and to clarify the leadership needed to deliver it, top executives must make three interconnected interventions:
+     improving not only products and services but also the full user experience and, in some cases, the organization itself.
+     while cultivating a collaborative top-team environment in which your design leader will thrive.
+     through a balance of quantitative and qualitative design metrics and incentives that enhance user satisfaction and business performance.
+
+    
+Companies addressing these three factors will give their senior design leader (and their top team more broadly) a powerfully ambitious mandate. And, by helping launch new, user-centric strategies putting users at the center of everything the company does; by elevating the role of the senior designer; and by infusing analytics, qualitative insights, and design tools into the C-suite, executives can unlock a step change in business performance and capture the full business value of design.
+	
+
+
+	
+Just how strategic is the role of design? Bracken Darrell, the CEO of Logitech, describes three broad phases of design, each of them progressively more strategic.
+
+
+ In the first phase, companies view design narrowly, focusing on aesthetics and form: the color, material, and finish of products. In the second phase, companies broaden their design emphasis to encompass end-to-end user experiences. In the final phase, companies realize that design infuses everything they do; it transforms the entire company. Logitech is itself a company that’s well along on the journey to becoming a phase-three company. Its  between 2013 and 2019 saw the company’s market value increase roughly sevenfold.Research shows that bold, user-centric strategies correlate strongly with higher financial results. User-centric strategies go beyond pithy vision statements, although these can be a good place to start.
+
+
+ At their best, they touch every aspect of the organization. Senior designers have at least two unique perspectives to contribute.Design leaders frame strategic questionsSenior design leaders can complement the hypothesis- and framework-based approaches to strategy on which top executives have long (and perhaps overly) relied. Overreliance on such approaches risks  into strategy development, while underindexing on dramatic market disruptions. To build upon the hypothesis- and framework-based approaches, strategists and design leaders must effectively work together to combine analytical insights regarding, for instance, resource allocation and M&A, with differentiated (relative to competitors) understanding of users’ needs. This marriage brings fresh, user-based understanding into the big strategic moves that companies can make to jump up the  of performance. This can lead to striking changes in the strategic questions that organizations ask themselves—and in the answers they find when they do.
+
+	
+
+
+
+
+    
+    
+
+The design-thinking approach also helps companies sharpen their lookout for coming disruption.
+
+
+ For example, the chief design officer (CDO) of a food company saw the shift in Generation Z’s expectation for social and environmental responsibility. The CDO worked with marketing and R&D to help transform the company’s internal processes, with the goal being to implement circular-economy design principles in order to minimize packaging waste. The ability to anticipate—and then quickly act and adapt to changing consumer habits—resulted in outsize growth well before regulatory pressure drove competitors to catch up.Not that we’re saying design leadership should usurp the chief strategist’s role—only that design has a unique role to play in strategy. Lyft’s most recent app redesign, for example, introduced more than a few new tabs: it contributed to the company’s new strategic direction. The app had previously highlighted car rides. However, the company learned that its riders were interested in multiple forms of transportation. The redesign brought new options such as choosing a bus route, grabbing a scooter, or even renting a car into an equal view under the same app. The user and market insights gleaned through this redesign process helped fuel Lyft’s strategic shift from a provider of rides to a portal enabling people to move through cities in multimodal fashion. Design was not the only party contributing to this strategic shift, but as Katie M. Dill, vice president of design at Lyft, makes clear, “It’s not design versus the business, it’s about what we can do together.”Senior designers bring unique user insightsTo be sure, designers are not the only people in an organization who understand users—or at least they shouldn’t be. Recent MDI research shows the value generated when all cross-functional groups have exposure to (and an understanding of) the company’s end users.
+
+
+ That said, design leadership sits in a unique position to see the pain points that customers encounter across the entire user journey—a view into which marketing or R&D, for example, have only a partial window. Furthermore, design leaders often have the most up-to-date insights into users’ reactions to new concepts and prototypes relative to those of competitors, which in turn helps predict shifting market behavior. These insights can be squandered when design leaders are left outside of the strategy process or when they are invited into the process in only an executional role. Design-led companies lead the way by integrating both designers and their unique insights into the organization’s strategic approach, the better to modify and evolve both existing and new product and service portfolios.
+	
+
+
+	
+Whether senior design leaders can help companies deliver user-centric strategies depends heavily on how companies set up the role itself and where it sits in the organizational structure.Our research found five different reporting archetypes for design leaders, two of which are most effective and sufficiently senior. CEOs must be sure to choose the right archetype for their respective organizations.Having done so, CEOs must provide chief designers with clarity about their baseline responsibilities. What are the most important duties of the design leader? In which ways and with which metrics are they held accountable?Finally, CEOs must thoughtfully integrate the senior designer’s role with the rest of the top-team “ecosystem,” using a combination of incentives and boundaries that balance collaboration and accountability. If, for example, the marketing head develops the product, customer experience owns the end-to-end journey, and innovation practices design thinking, what is the head of design meant to drive versus support? The head of design cannot be successful without clarity of their position and effective partnerships across the C-suite.
+    
+To be clear, we’re not saying design leaders should be involved in all senior-leadership activities. But, unless the design leader is a genuine peer of the organization’s other business or functional leaders, it will be difficult to achieve the full business value of design.Selecting the right reporting structureBy analyzing natural clusters of responsibilities in the profiles of the 200 design leaders in our research cohort, we identified five role archetypes for design leaders (Exhibit 2). But not all of them are created equal.
+    
+ runs design as a distinct function reporting directly to the CEO. This role is often seen in design-led organizations such as Apple or Shiseido. sits within a business function or a cross-cutting department such as digital or customer experience. This can be seen at companies like Deliveroo, where the CDO reports to the head of product, and Hewlett Packard Enterprise (HPE), where the CDO reports to the chief technology officer. is not responsible for allocating design resources and instead looks after skill development, community building, hiring, and representing design at an executive level (something pivotal to their achieving their business goals). They are often seen in the agile setups of technology companies such as at Netflix and Spotify but have increasingly been adopted by banks and telcos. are essentially a group of people appointed when an organization wishes to give design responsibility to individual business units, such as at Google
+
+
+ and Nokia. blends the models above, with two forms occurring most often. The first is when most designers sit in regional or business-unit teams, with a small central team providing guidance and training for design (for instance, at Electrolux). The other is when a single design leader is responsible for a centralized team, with pockets operating entirely independently elsewhere in the business (for example, at Salesforce).
+		
+
+
+		
+Although companies can employ any of these archetypal models successfully, the ones that best position design leaders to deliver on the full business value of design are the C-level roles with direct CEO sponsorship, such as “the executive” or a senior “community leader.” These archetypes provide a platform for design leaders to address organization-wide issues, while positioning them as a senior-level peer with the clout necessary to unblock problems for their teams quickly.
+    
+In contrast, “functional heads” are too often limited by their superiors’ worldview and incentives. At one fast-moving consumer-goods company where the CDO reported to the chief marketing officer, the CDO was unable to join certain customer-facing discussions because the marketing leader did not have an incentive to include the CDO, potentially missing out on a valuable user-centric perspective. The issue became severe enough for the CDO to start bypassing their superior altogether, scheduling meetings with the CEO directly. If a functional-head role must be chosen, it is best to place the design leader in a function that has a mandate to contribute to strategy and also with an end-to-end view of the organization.Defining the responsibilities of the design leaderRegardless of the reporting structure, many CDOs are doomed to fail because their role lacks enough authority. These individuals have a vague mandate to improve customer experience but have nothing more than their own powers of persuasion to convince other business leaders to get involved. The best companies give their CDOs a mandate and the authority to deliver on it. For some, it means an independent budget, something that Alastair Curtis, CDO of Logitech, credits as a major factor in his success. For others, it means giving the design leader a say in company-development activities. At HPE, for example, the design leader has veto rights at various stages of product development if good design principles haven’t been brought to bear. For almost all design-led companies, the success of the top designer requires a CEO who is supportive of design’s ability to contribute strategically and who has made a public commitment to it. CDOs must also be measured against a combination of key performance indicators (KPIs) critical to an organization’s strategy, such as financial returns or user-experience improvement. We will cover more on how to select and communicate these metrics later in the article.Clarifying responsibilities can sometimes become complicated by the differences among senior designers themselves. Among the 200 design leaders we studied, nearly all have taken a different path to the top. Varied as the background of design leaders can be, however, there’s commonality in their focus: it’s all about transforming the way the organization operates (Exhibit 3).
+     Design leaders help transform the user experience by supporting and developing innovative new business models, improving experiences and outcomes for existing customers, and driving design consistency and standardization across the organization.
+     Design leaders transform organizations by evangelizing or diffusing user-centric practices and design tools, and by representing both design and the user at the C-suite and board levels.
+     Design leaders transform design teams by building a thriving community of designers who are well supported, trained for excellence, and able to collaborate with peers in multiple functions.
+
+    
+Creating a high-performing team at the topOnce your design leader is established on your top team, they’ll find themselves with a different problem: navigating a complex ecosystem of other top executives in marketing, R&D, digital, customer-service, and product roles. Top-team performance is a constant CEO concern, of course, and among other things requires bringing clarity to the roles and responsibilities of each leader so that they are interlocking without generating too much overlap or being territorial. One approach is to find a common set of incentives that keep them all working together—for instance, by adding customer-service and -satisfaction performance indicators to more traditional ones such as short-term sales growth.
+        
+
+
+    
+    At one consumer-packaged-goods company in Europe, the CEO decided to tie executive compensation to average product ratings on Amazon relative to those of competitors. Others, such as American Express and Southwest Airlines, tie CEO compensation to survey-based user-satisfaction measures (roughly 15 percent of total short-term incentives for both).
+
+
+Even getting incentives right, though, doesn’t solve all top-team challenges. Through our interviews and an analysis of the common friction points for various design-related activities, we found the ten most likely ways design leaders stumble in the often-challenging top-team ecosystem—and then devised ten conversation starters CEOs can use to help manage the difficulties (see sidebar, “Ten conversation starters for the top team”).
+	
+
+
+	
+Now that the design leader has been integrated into the top team, how do you go about clarifying whether your top designer is delivering in their role? In an era when  are becoming a source of competitive advantage, the effective use of metrics is a vital and still underutilized way to elevate and further clarify design’s role and ambitions. Indeed, only 14 percent of the companies in our MDI database are currently setting quantified targets such as KPIs or objectives and key results for their design leaders. CEOs should encourage their design leader to make use of the right balance of qualitative user insights and quantitative metrics that will enhance the effectiveness of the design leader, and of the C-suite overall.Designers should also use these metrics to secure investment and to manage the performance of their teams in real time. This does not mean turning design into a paint-by-numbers exercise. Design leaders must not lose the empathy and intuition that makes them so valuable in their roles. Yet CEOs must demand an element of rigor in any discussion about the value that design delivers; in fact, our MDI analysis confirms that it is the balance of quantitative and qualitative measures that is most important if design is to deliver value. In the words of one medical-device CEO, “If my head of design doesn’t have data on whether our products’ designs are improving the lives of our patients better than the competition, then shame on them.”
+    
+So how should companies establish the right system of metrics to measure the performance of their design leaders? The first step is to clearly articulate and quantify the organization’s business ambition and how design should contribute to it. Ambitions can range from improving customer experience to developing new businesses to improving organizational ways of working. Quantified targets then take the form of several “North Star” metrics to capture that ambition. Such metrics typically take one of three forms:
+     indicating, for example, customer satisfaction or a customer’s propensity to recommend
+     that indicate product or experience performance—these can be either a single measure, such as churn or adoption rate, or a combined metric utilizing multiple operational indicators, potentially selected through advanced analytics
+     measuring the financial benefit accrued by the organization (for example, sales volumes)
+Once a North Star metric is chosen, a holistic metrics system needs to be built around it—metrics must link across each level of a product or service experience while laddering up to the top metric. Prioritize constituent journeys or products for a more detailed analysis by team members by ranking them based on demonstrated impact to the North Star metric or journey traffic size—or, if capturing direct impact isn’t possible, by ranking them using some other proxy. Leaders must then define the operational metrics they wish to use to support their priority products and journeys. The aim is twofold: to be comprehensive in the metric selection and cover the full extent of a customer’s interactions, and to select metrics that are defensible and that can be reproduced.Ultimately, the chosen metrics must resonate with the entire top team and be demonstrably linked to financial value while still enabling design teams to be creative with their solutions—to actually practice the skills they bring as designers and empathetic problem solvers. CEOs must then set appropriate targets for the selected metrics, often derived from a broad set of competitor benchmarks or internal goals, such as reducing redundant or inconsistent touch points to simplify an experience. Both
+groups should feel that the combination of skills and metrics will ultimately bring the most value to the company.For companies looking to enjoy the growth and performance of their design-led peers, the journey begins at the top, with senior design leadership. This crucial role often languishes too far down in the organization to have its needed impact. At other times, CEOs set the bar too low for what designers—and design—can deliver. Farsighted CEOs instead empower their design leaders to be catalysts for broad strategic transformation, not only for end-to-end experience improvement for users but also for the organization as a whole.

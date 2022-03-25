@@ -1,0 +1,318 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Space Based PNT Programme
+  
+
+  
+  
+  
+      
+  Information, documents and announcements related to the UK's Space Based Position, Navigation and Timing Programme (SBPP).
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Space Agency
+
+      
+      Published
+      10 February 2021
+      Last updated
+      
+        22 April 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+
+
+1. The Space Based Positioning, Navigation and Timing Programme (SBPP) 
+2. Programme news 
+3. Vision 
+4. Mission statement 
+5. Why we are considering a UK satellite navigation capability 
+6. How we are doing this 
+7. Leveraging the best of British and allied expertise 
+8. Market opportunities 
+9. Engage with SBPP 
+
+The Space Based Positioning, Navigation and Timing Programme (SBPP)
+
+The Space Based Positioning, Navigation and Timing Programme is a major new UK Government programme launched by the UK Space Agency in October 2020 to explore innovative ways of delivering vital satellite navigation and timing services to the UK from space.
+
+Positioning, Navigation and Timing (PNT) satellite signals from space are increasingly crucial to our daily lives. These services underpin a wide range of essential UK public amenities, Critical National Infrastructure (CNI), National Security, defence interests and the wider digital economy. They will remain an enduring requirement for the UK’s economy, security and global ambitions. 
+
+The government has made clear its ambitions for the UK to become a globally competitive space power and is taking action through the newly established National Space Council, emerging National Space Strategy and the Integrated Review of Security, Defence, Development and Foreign Policy, to create the conditions for a strong, secure and innovative space sector that delivers for the British people.
+
+SBPP
+
+Programme News
+
+
+  
+    UK Space Sector wins over £2 million to help develop options for a national position, navigation and timing space system to protect UK Critical National Infrastructure
+
+6 UK businesses have won a share of over £2 million in government funding to help shape options for the UK’s satellite navigation and timing capability.
+  
+  
+    Global Britain in a Competitive Age: the Integrated Review of Security, Defence, Development and Foreign Policy
+
+We will strengthen the resilience of the position, navigation and timing (PNT) services on which our Critical National Infrastructure and economy depend.
+  
+  
+    Space, stars and a history of navigation innovation - British Science Week
+
+The peoples of the British Isles have always been great pioneers and innovators of positioning, navigation and timing (PNT) technologies – particularly through using space and the stars.
+  
+  
+    Government to explore new ways of delivering ‘sat nav’ for the UK
+
+Government will explore new options for a UK satellite navigation and timing capability programme to support the nation’s critical infrastructure.
+  
+
+
+Vision
+
+SBPP will improve the resilience of UK Critical National Infrastructure, protecting our way of life, through having the right space-based capability to offer positioning, navigation and timing services in place to address the evolving threats.
+
+Mission Statement
+
+The programme will objectively assess the options for a space-based PNT capability against the need and requirements defined in the National PNT Strategy.
+
+The programme will recommend a preferred option and delivery model as a basis for further work towards a Final Investment Decision on the value for money of a space-based solution.
+
+Why we are considering a UK satellite navigation capability
+
+Positioning, Navigation and Timing (PNT) services have an integral part to play in our everyday lives and the operation of all 13 Critical National Infrastructure (CNI) sectors.
+
+Whilst the UK’s PNT services are derived from many sources, a number of critical sectors rely heavily on services from space, primarily from borrowed systems such as the US-owned Global Positioning System (GPS).
+
+PNT services from space are vital to our modern life and directly support ~£254bn (13.4%) of the UK economy. Its importance is so crucial that it’s estimated a loss of space-based PNT services would cost the UK economy ~£1bn per day.
+
+Threats and hazards to the provision of resilient-PNT services from space have rapidly evolved over recent years with new risks constantly emerging, and the technology to deliberately disrupt PNT services becoming cheaper and more readily available. Such disruption is being driven from a wide array of both accidental and deliberate mechanisms, and inflicted by an ecosystem of potential threat actors as well as natural events.
+
+The emerging conclusion of work directed by the Deputy National Security Advisor (DSNA) is that investment into future PNT solutions should be diverse and consider both existing and future terrestrial, and importantly space-based technologies. The proposed approach is to develop an assured ‘system of systems’ without single points or modes of failure.
+
+
+Satellite navigation and timing services are essential to modern day life in the UK, used in things such as financial transactions, emergency services, Critical National Infrastructure, energy networks and defence as well as for getting from A to B.
+
+How we are doing this
+
+SBPP will consider the widest set of options for space based PNT, using the breadth of the Government’s experience of major programmes to provide critical analysis of emerging candidate solutions. The programme will be dependent on the identification of clear, cross-Whitehall PNT requirements, and collaboration across Government, industry and our wider partners.
+
+The outcome of the SBPP will supplement other technologies as part of an integrated system of systems, and we look forward to playing a key part in addressing the UK’s critical need to improve its PNT resilience.
+
+Leveraging the best of British and allied expertise
+
+Collaboration with partners and industry will be critical to our success and a Request for Information (RFI) has been undertaken with over 170 organisations to collect novel space-based PNT ideas.
+
+This includes individual companies, academia and consortia from the UK or other Five Eyes partners (USA, Canada, Australia and New Zealand). The outputs of the RFI are being used to inform future proposed study and commercial activities in 2021.
+
+Market Opportunities
+
+From October to November 2020, UK Space Agency engaged industry and academia specialising in Position, Navigation and Timing (PNT) with two activities for the newly formed Space-Based PNT Programme (SBPP). One was a Request for Information (RFI), designed to ensure a wide range of space-based PNT concepts can be explored by SBPP. The other was an Expression of Interest (EOI) for a No Commitment Commercial Framework which will be the basis for future supply-side work.
+
+We are grateful for all the inputs received, in particular for the high quality of the 20 RFI responses, and are now considering how these insights inform the approach to deliver an Outline Business Case (OBC) to Government for a Space-Based PNT System.
+
+The RFI ideas and concepts received have prompted SBPP to rethink the pre-OBC industry work, such that a requirements refinement phase is needed in the first instance. before the lotting strategy for the No Commitment Framework can be established.
+
+Therefore, subject to approval the immediate industry work required for the OBC is for additional expert client-side support. SBPP has selected the DSTL SERAPIS framework, lot 2 (space) to contract for this support, and you will need to be registered on this framework in order to access the client-side support tenders.
+
+We are intending to release these tenders so that support contracts can run from April to August 2021.
+
+Engage with SBPP
+
+SBPP is at the forefront of one the UK’s most critical challenges and is excited to work collaboratively across government, industry, academia and international allies to secure the UK’s PNT future.
+
+Visit UKSA on social media:
+
+Twitter 
+LinkedIn 
+Facebook 
+Instagram 
+
+Email engagement@ukspaceagency.gov.uk for more information about the programme or sbppmarketengagement@ukspaceagency.gov.uk for potential future market engagement opportunities.
+
+
+
+
+      
+        
+    Published 10 February 2021
+    Last updated 22 April 2021
+      + show all updates
+      
+        
+            
+              22 April 2021
+              Updated programme news.
+            
+            
+              19 February 2021
+              Added market opportunities section.
+            
+            
+              10 February 2021
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        InSight: the Mars robotic lander
+        Life on Mars? - ExoMars Programme
+        ESA Technology Harmonisation
+        International Partnership Programme
+        UK Space Conference 2019 Technology Harmonisation Presentation
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        UK space missions: case studies and programmes
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Transport
+        Defence and armed forces
+        Business and industry
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

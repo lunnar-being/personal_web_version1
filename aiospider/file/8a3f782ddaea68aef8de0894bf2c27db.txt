@@ -1,0 +1,1 @@
+Building upon the Electricity Annual Technology Baseline (ATB), the Transportation ATB provides a publicly accessible source of DOE technology data for current and potential future vehicles and fuels. Fuels and powertrains featured on the website include gasoline, natural gas, diesel, biofuels, battery electric, and hydrogen fuel cell electric vehicles.

@@ -1,0 +1,119 @@
+
+
+The RAND Blog
+Previous Blog PostBad Idea: Overly Focusing on Development and Acquisition Speed Next Blog PostA New Way to Manage the Growing Global Refugee Situation
+
+Women and Statecraft History
+commentary
+(Center for Strategic and International Studies)
+The Harry S. Truman Building, headquarters of the U.S. Department of State, in Washington, D.C.Photo by AgnosticPreachersKid / CC BY-SA 3.0
+
+
+
+by Stephanie Young
+December 16, 2020
+
+
+As historians of leadership and state-level decisionmaking, our work is situated at the border of domestic politics and the projection of U.S. power abroad. The stories we tell can address international threats that motivate military action, as well as the political, social, and economic factors that make such action possible. This broad lens on the dynamics shaping state-level decisionmaking is not meant to deny the critical role individual leaders can play in shaping outcomes (“great man histories”), but to emphasize that they are not the only factors affecting outcomes. Broad historical context matters. This approach also emphasizes the importance of operating across the seams between different fields of history, or even the seams between history and other disciplines, in our explorations of statecraft. As a researcher with multidisciplinary training who works at a research institution that leverages interdisciplinary teams for most of our policy analysis, I enjoy the complexity of such study.Interdisciplinary
+I came to the history of statecraft through training in the history of science, and the history of science has deeply informed my professional interests and research approach. The history of science is itself a field long defined by “great man histories,” especially stories of Western European men. As a graduate student in the aughts, the default language requirements for doctoral students in the history of science were German and French, indicative of long-standing traditions in historiography and assumptions about whose stories were worth telling. In addition to prioritizing post-Enlightenment Western European traditions, this approach was also informed by the epistemological claims of science and a conception of both science itself and the history of science as the history of progress moving ever closer to truth. In recent decades, much work has been done to expand the boundaries of the field from the “internalist” histories of geniuses to exploring the broader context of science and its implications. It feels cliché to recommend philosopher Thomas Kuhn's The Structure of Scientific Revolutions, which developed a classic and widely influential theory of paradigm shifts, but the book meant a great deal to me in its quietly revolutionary assertion that science is historically situated.
+I came to the history of science through training in science, and my experiences as a woman in the physical sciences deeply informed me as well. As an undergraduate, I majored in physics and astrophysics, and in the course of my studies and in my experiences as a woman on campus, I became aware of science's political, social, and cultural context. During my time in college, political controversies involving science—such as stem cell research and the inclusion of evolution and “intelligent design” in school curriculums—were topics of national attention. As a woman, I also became acutely aware of the lack of diversity in the physical sciences.
+Over time, I found that I was most interested in understanding the dynamics that shaped the present as I was experiencing it. As an undergraduate, I took courses on the history of science in the United States and the history of modern physics with Cathryn Carson, and I found them thrilling. Both personally and professionally, my path as a historian was profoundly influenced by Dr. Carson, who eventually served as my graduate adviser. In addition to studying the history of ideas, I learned that studying the history of science was also to explore people, processes, and the public role of scientific knowledge. I became fascinated, for example, in the funding models for research and development and the federal government's role in them, in exploring science as economic driver and foundation for military innovation, and in historical debates about science and religion that felt reminiscent of the current moment. I learned about the construction of gender and race, and how the professionalization of science includes and excludes certain practices and people. In the course of my studies with her, Dr. Carson was completing a history of an undisputed “great man” of science, German physicist and Nobel Laureate Werner Heisenberg.[1] Yet far from a great man hagiography, Carson's analysis explores Heisenberg in the “public sphere” and situates this complicated figure in a tumultuous time in German history: the Nazi period through to the Cold War. My training in history of science taught me that science, scientists, and “great men” do not exist in the ether.
+For an aspiring historian interested in the role of U.S. scientists in public life, I found the Cold War fertile ground for inquiry. The Manhattan Project and the development of nuclear weapons during World War II, as well as the emergence of a Cold War with geopolitics defined by nuclear arsenals and competition in the science and technology sphere, brought science to the forefront of public life. I became particularly interested in the role of scientific expertise in shaping public debates. In this context, the proliferation of rational approaches and decision sciences, especially applied to complex issues of statecraft, struck me as particularly fascinating. I was interested in how new modes of knowledge and expertise interfaced with deeply political decisionmaking and in how processes affected outcomes.Decisionmaking in Defense
+For my dissertation, I had the opportunity to explore these questions through the study of new analytic approaches for resource allocation in the Department of Defense. This was a story pitting the expertise and authority of young civilian social scientists against that of military leaders over questions of “how much is enough” for our national defense and who gets to decide.[2] The story also allowed me to explore questions of how the process of defense budgeting affected outcomes within both national politics and national defense. I also explored debates about the political and economic role of the defense budget and about what the ratio of defense investments relative to other national priorities (“guns vs. butter”) suggested about the nation we aspired to be. While it is not a work of history, I have since been deeply influenced by CSIS's Todd Harrison's “The New Guns and Butter Debate,” which analyzed the shifting balance between “guns” (equipment-related costs such as weapons systems) and “butter” (personnel-related costs such as pay, pensions, health care, and education) within the defense budget.[3] The work deeply informed my understanding that the defense budget needs to be understood as more than a black box that enables military action. The Department of Defense is also the single largest employer in the United States, a critical driver of economic activity, and a provider of education and health care to millions of Americans. I am excited by a growing historical literature that considers the Department of Defense in all of its multifaceted dimensions.
+I joined the RAND Corporation as a policy researcher shortly after completing my Ph.D. degree. As a historian, I was no doubt attracted to RAND in part due to its illustrious history through the Cold War as the locus of innovative and pathbreaking work on areas such as nuclear strategy, game theory, and other decision sciences. Today, RAND is a non-partisan, nonprofit research institution that supports government decisionmaking through research and analysis, and it conducts a substantial portion of its work for the Department of Defense. As a researcher, I found RAND to be an excellent fit for my interest in the defense budget. The Department of Defense continues to be animated by questions related to the efficient and effective allocation of resources, and I have found many circumstances for which analysis of such current policy issues has benefited from a historical perspective. The federal government, including the military, does not have robust mechanisms for maintaining historical memory. Policy priorities shift with political transitions, and senior leaders and military personnel frequently rotate into new roles. Bringing a historical perspective, even just to explain how the government arrived at the current moment, can be a surprisingly valuable contribution and can open space to reevaluate assumptions and consider a wider range of policy options.
+In my years at RAND, however, I have also worked on a broad range of policy issues (many far from budgeting or history), including projects related to security cooperation and building partner capacity, countering weapons of mass destruction, and defense acquisition. I also spent three months in Afghanistan as an embedded RAND researcher in support of special operations forces. Methodologically, I have found that training as a historian has been invaluable in allowing me to work in areas of statecraft not explicitly related to my formal training. As historians, we learn to develop narratives out of tremendous quantities of information. I have found this to be a critically important skill for making sense of complex policy problems. In Afghanistan, we used the term semper Gumby to describe agility in the face of the unexpected. In my current position, when I approach unfamiliar policy problems, I proceed with confidence that a story will emerge, diving into a voluminous source base using the skills for careful and critical analysis I developed as a historian. Semper Gumby.The Current Moment
+In hindsight, my personal career path looks pretty linear. I attended the University of California, Berkeley, and loved it so much I stayed for 11 years, learning voraciously while completing my B.A., M.A., and Ph.D. degrees. When I left Berkeley, I took a position at RAND, and I have been here for almost 11 years. However, linear this path might look, and it actually involved a lot of searching. I was fortunate to have the support of exceptional role models who made me feel that I could be successful in any path—my graduate adviser, mentors at RAND, and (perhaps most importantly) my mother, Dr. Mary Young, who had a distinguished career as an engineer at Hughes Research Labs, where she became the first woman lab director.[4] Needless to say, I am still searching and still finding a great deal fascinating about history, science, and statecraft. When I have the opportunity to engage Ph.D. students in history, I remind them that they are developing exceptional skills—for example, foreign language proficiency, deep regional expertise, and the ability to draw stories out of unexpected places—and encourage them to leverage those skills in the service of informing public debates. Too often, we historians are discouraged from “presentism,” making us reluctant to comment at all on the current moment. I think this is a missed opportunity: Historians of state-level decisionmaking have a great deal to contribute to our understanding of current affairs.
+
+Stephanie Young is associate director of the Defense and Political Sciences Department and senior researcher at the RAND Corporation, where she conducts research and analysis on a broad range of foreign policy and security related issues.Endnotes
+
+[1] Cathryn Carson, Heisenberg in the Atomic Age: Science and the Public Sphere, New York: Cambridge University Press, 2011.
+[2] The seminal work on these issues from a first-person perspective is Alain C. Enthoven and K. Wayne Smith, How Much is Enough: Shaping the Defense Program, 1961-1969, Santa Monica, CA: RAND Corporation, 1971
+[3] Todd Harrison, “The New Guns Versus Butter Debate,” Center for Strategic and Budgetary Assessments, May 24, 2010.
+[4] “Episode 04: Mary Young,” History of the Future (Podcast), HRL, December 3, 2018.
+
+This commentary originally appeared on Center for Strategic and International Studies on December 11, 2020. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Stephanie Young
+Director, Resource Management Program, RAND Project AIR FORCE; Senior Political Scientist
+
+
+
+
+
+
+Topics
+ Decisionmaking
+Female Populations
+Military Strategy
+United States
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Commentary
+Women and Statecraft History
+
+Dec 16, 2020
+Michelle Grisé
+
+
+
+
+
+
+
+
+
+
+Commentary
+Stop Calling Us 'Women Experts'
+
+Oct 11, 2019
+Caroline Baxter, Elizabeth Bodine-Baron @bodinebaron
+
+
+
+
+
+
+
+
+
+
+Commentary
+On 'Hidden Figures' and Being the Only Woman in the Room
+
+Mar 12, 2017
+Susan L. Marquis @susanlmarquis
+
+
+
+
+
+
+
+

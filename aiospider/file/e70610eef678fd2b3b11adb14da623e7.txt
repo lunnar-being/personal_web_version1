@@ -1,0 +1,693 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    National Data Strategy Forum
+  
+
+  
+  
+  
+      
+  The National Data Strategy Forum was created to ensure that a diverse range of perspectives continue to inform the implementation of the National Data Strategy. 
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Digital, Culture, Media & Sport
+
+      
+      Published
+      2 September 2021
+      Last updated
+      
+        16 December 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          About the National Data Strategy Forum
+
+        
+        
+          The story so far
+
+        
+        
+          Detailed workplans
+
+        
+        
+          Getting involved
+
+        
+        
+          Useful links
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+About the National Data Strategy Forum
+
+The National Data Strategy sets out the actions this government will take on data. It is not the final answer, but a framework for a conversation about the way that we support the responsible and trusted use of data in the UK. This collaborative approach has been a key principle throughout the development of the strategy.
+
+The National Data Strategy Forum is a structured series of discussions designed to ensure that a diverse range of perspectives beyond government and the public sector continue to inform the strategy’s implementation.
+
+It will support us in implementing our plans in such a way that builds public trust and ensures the data opportunity works for everyone, everywhere.
+
+Co-chaired by DCMS ministers and techUK, the Forum will be an opportunity for engaging and challenging debate on the implementation of the UK’s National Data Strategy. Drawn from industry, academia and civil society, participants will be invited to:
+
+
+  help shape the development of the future vision for the National Data Strategy
+  develop collaborative programmes of work to support the delivery of the National Data Strategy
+  champion the National Data Strategy through their networks, to embed its principles and goals beyond government
+
+
+We want to foster an open and inclusive Forum which welcomes in new ideas, and so it will not comprise a set membership, but will invite in experts and participants as relevant to specific discussions at each Forum event.
+
+The Forum will have no decision-making role and is not part of any formal governance mechanism for the National Data Strategy. Its role is to challenge and champion the strategy, and join together in ensuring the way we use data in the UK is the best it can be.
+
+The story so far
+
+The National Data Strategy Forum was announced as part of the government response to the consultation on the National Data Strategy, in direct response to feedback received from stakeholders through the consultation.
+
+
+Bethan Charnley, Head of National Data Strategy Implementation, shares initial plans for the National Data Strategy Forum.
+
+
+On June 22, the Minister for Media and Data, John Whittingdale and Sue Daley, Director of Innovation and Technology at techUK, co-chaired the first National Data Strategy Forum virtual discussion. It brought together a diverse group from across the UK’s data ecosystem, including business leaders, civil society leaders and data experts to discuss the priorities for the Forum, as well as how participants can help support implementation of the strategy and encourage collaboration.
+
+The discussion explored a range of issues such as:
+
+
+  building public trust in data use
+  the importance of working to create strong data foundations across the ecosystem
+  how the Forum can use its collective knowledge and networks to reach out to under-represented communities
+
+
+
+John Whittingdale shares his reflections on this discussion and next steps for the Forum.
+
+
+
+Or Lenchner, CEO of Bright Data, shares his reflections on the NDS Forum and data priorities going forward.
+
+
+
+DCMS update on developing a National Data Strategy indicator suite.
+
+
+
+Sue Daley, Director of Tech and Innovation at techUK and co-Chair of the NDS Forum, updates on the work of the NDS Forum.
+
+
+Following the Forum’s first discussion in the summer, we identified in collaboration with Forum participants five key work streams to structure that activity around:
+
+
+  
+    
+      Workstream
+      Aims
+    
+  
+  
+    
+      
+Unlocking the power of data for everyone everywhere
+
+      This workstream will focus on unlocking the power of data, whether that’s improving data quality and standards or increasing access - right across the UK data ecosystem and in all the UK’s regions. We want the Forum to share learning and best practice on the steps we can all take and on how we do this in a way that helps all parts of the UK to level up.
+    
+    
+      
+Trust in data
+
+      We want to build public support for trustworthy data use, so that data can be harnessed to unlock societal benefits and improve lives. This workstream will bring together an active and collaborative network of Forum participants, who can help us collate the evidence and examples we need to rebalance the conversation about data use and build that support.
+    
+    
+      
+Data reform
+
+      This workstream will help ensure we are bringing a diverse range of views to the data reform consultation exercise. Working with Forum participants, we want to help them start their own discussion events and create content about the data reform consultation, and take forward deep dive workshops and discussions to get into the detail.
+    
+    
+      
+Net zero
+
+      Data infrastructure is energy-intensive, but data collection and analysis can also support environmental sustainability by enhancing the energy efficiency of supply chains and production. This workstream will explore how we can work together to harness the power of data to meet our net zero ambitions.
+    
+    
+      
+Measuring the data ecosystem
+
+      This workstream will focus on mapping out metrics for the National Data Strategy indicator suite, and collectively tackling key challenges thrown up by a lack of evidence or the complexity of what we are seeking to track. We will also explore how mapping stakeholder activity across the wider data ecosystem can help us understand how it is supporting implementation of the National Data Strategy.
+    
+  
+
+
+Further detail on each workplan can be found below.
+
+Detailed workplans
+
+
+
+
+Unlocking the power of data for everyone everywhere
+
+
+The NDS sets out the government’s commitment to unlocking the power of data for everyone, everywhere.
+
+But what does that mean in practice?
+
+As part of our commitment to Mission 1 of the NDS, we have published the NDS Mission 1 Policy Framework for government action to set the correct conditions to make private and third sector data more usable, accessible and available across the UK’s economy while protecting people’s data rights and private enterprises’ intellectual property. This builds on recent research on how to focus and prioritise government’s role in enabling improved data availability in the wider economy. We want to create the conditions to make more data available, to ensure it can then be accessed and then used within a secure and trusted environment.
+
+Is there a role for incentives in facilitating and stimulating the development of healthy and responsible data-driven markets? How can we encourage innovation and infrastructure that will propel our data environment forward in a secure and trusted way? How can we promote the development of good data foundations and standards that support greater data sharing and use of data?
+
+We have been exploring these questions, and many others, throughout the development of the NDS and consultation on the framework. As we deliver on the actions we set out in the NDS, we need to continue to work in partnership with the data ecosystem.
+
+This Forum workstream will focus on unlocking the power of data, whether that’s improving data quality and standards, increasing access across the UK data ecosystem, or helping businesses and individuals better understand and drive value from data - and on how we do this in a way that helps all parts of the UK to level-up.
+
+We heard a lot through the consultation about how much local areas have to gain from good data use. Better data availability can drive innovation and growth in organisations of all sizes, across all parts of the UK. Data can support our understanding of inequality between geographic areas, and inform better policy making and targeted interventions at both local and national levels. We also know there are key foundational issues which can prevent digital participation, such as lack of connectivity or data skills opportunities in particular geographic areas.
+
+We also heard a lot about the many ways the ecosystem is already rising to these challenges, and there is so much great work being led across the regions, such as:
+
+
+  the Open Data Institute’s focus on improving data literacy and skills with training for workplaces
+  the National Innovation Centre for Data’s mission to improve data skills in the UK workforce
+  the Centre for Data Ethics and Innovation and Greater Manchester Combined Authority’s work to develop an ethical data governance framework for the region
+  the recently launched London Data Charter, which guides data sharing and collaboration for both the public and private sector
+
+
+We want the Forum to be a platform for sharing and scaling that learning.
+
+The challenge
+
+This workstream challenges Forum participants to help us increase our understanding of how to unlock the power and value of data across different sectors, geographies and sections of society.
+
+As part of this, we want participants to use their networks and knowledge to help us ensure regional perspectives are reflected in the development of our upcoming Mission 1 policy framework, so that the actions we take to increase data availability across the economy work for everyone.
+
+We want to identify and share case studies and examples of best practice demonstrating the power and value of data to organisations of all sizes, across the country, and work with Forum participants to showcase, communicate and amplify these.
+
+Key deliverables
+
+For the remainder of 2021 we will:
+
+
+
+Convene Forum participants to provide expert advice and evidence to inform our implementation approach for the forthcoming Mission 1 policy framework, including determining priority sectors for Government intervention to address the barriers to data sharing in the wider economy.
+
+
+Work with Local Digital Skills Partnerships (LDSPs) and Forum participants to hold a series of events for local organisations, particularly SMEs, which will offer practical advice based on real life examples; showcase the value and power of data and share local best practice.
+
+
+
+
+Events:
+
+
+
+  
+    
+      Event
+      Forum work stream
+      For who
+      Date
+      Details
+      Output
+    
+  
+  
+    
+      Unlocking the power of data in the Midlands
+      Unlocking the power of data for everyone, everywhere
+      The event is for public, private and third sector organisations
+      23/11/2021 (13:30-16:30)
+      N/A
+      Please see blog
+    
+    
+      Mapping local skills needs
+      Unlocking the power of data for everyone, everywhere
+      The event is for the Collab Group of FE colleges and college groups
+      23/11/2021 (11:00-12:00)
+      Online webinar
+      Please see blog
+    
+    
+      NDS Mission 1 Policy Framework: Unlocking the Value of Data
+      Unlocking the power of data for everyone, everywhere
+      Various stakeholders including industry, civil society and academia
+      09/12/2021 (11:00 – 11:45)
+      Register for online webinar
+      Raising awareness/building understanding
+    
+  
+
+
+We will also research case studies and best practice demonstrating the value of data, and work with the Forum to explore the best way in which to communicate these to ensure we are sharing knowledge as widely as possible.
+
+How to get involved
+
+
+
+If you would like to run or present at a regional event, please get in touch with the Forum secretariat ndsforumsecretariat@dcms.gov.uk
+
+
+Share your knowledge and best practice on tangible ways to drive value from data through your own networks, and through our NDS Forum guest blog (contact the Forum secretariat at ndsforumsecretariat@dcms.gov.uk for further details)
+
+
+
+
+
+
+
+Trust in data
+
+
+Data has the potential to unlock enormous societal and economic benefits. However, as we outline in the NDS, the value of data can only be harnessed if there is public support for its use.
+
+In previous research on data sharing by the public sector, the Centre for Data Ethics and Innovation (CDEI) identified an environment of ‘tenuous trust’, in which data is used and shared for beneficial purposes, but public awareness of it is generally low. Meanwhile, media coverage tends to focus on the risks associated with the use of data and data-driven technologies, such as data breaches and biases in algorithms. Some of the controversies associated with the use of these technologies remain lodged in public consciousness.
+
+This environment, combined with an absence of a developed understanding of public acceptability, hinders the progression of projects that could be of huge societal benefit.
+
+To address this, the CDEI is partnering with DCMS to consider how to rebalance the conversation about data use and build public trust in responsible data use. This reflects feedback from respondents to the consultation on the NDS, who felt this should be an area of focus for the Centre. In order to do this, the CDEI is currently developing its understanding of public attitudes towards data use, and building out a database of case studies, which demonstrate how responsible data use can be harnessed for the public good. It will then develop and implement a strategy which aims to improve how data-driven stories are communicated, ensuring that communications are transparent and focus on public benefit.
+
+The challenge
+
+Our challenge to the Forum is to work with us to conduct and collate research into public attitudes towards data use, and promote a more nuanced public debate on data use, ensuring the potential benefits of data use are understood, as well as the risks that occur when data is not used responsibly.
+We want to hear of evidence and examples of how responsible data use can lead to better societal outcomes. These examples and insights will be used to understand how to shape and reach the public with our communications to build public awareness and understanding of the societal benefits that good data use can offer.
+
+Key deliverables
+
+We will convene a working group to:
+
+
+  scope and collate research into public attitudes towards data use
+  identify examples of data use that deliver societal and economic benefits across sectors.
+  inform how these insights can best shape communications to build public awareness and understanding of data-driven societal benefits
+
+
+How to get involved
+
+
+
+Join the working group. View the National Data Strategy Forum Trust in Data Working Group - Terms of reference (PDF, 93.8 KB, 2 pages).
+
+
+If you use data to deliver social and economic benefit, shout about it and use your voice to influence the public debate.
+
+
+
+
+
+
+
+Data reform
+
+
+On Friday 10 September 2021, the government launched Data: a new Direction: a consultation on reforms to create a new, ambitious, pro-growth and innovation-friendly data protection regime that underpins the trustworthy use of data for an even better UK data rights regime.
+
+As the Prime Minister made clear to Parliament in February this year, the government will operate an independent policy on data protection outside of the EU. This will focus on promoting competition and innovation while delivering forward-looking and coherent outcomes, as set out in Digital Regulation: Driving growth and unlocking innovation. This consultation is one of the major milestones in delivering on that objective.
+
+This consultation sets out the government’s future intentions for a data protection regime outside of the EU and is part of the wider conversation on unlocking the power of data.
+
+As the government set out in its National Data Strategy, data is a huge strategic asset and is the driving force of modern economies. We want to unlock the power of data to drive innovation and boost the economy, while continuing to protect people’s safety and privacy. The launch of this consultation is the first step in the process towards reform of the UK’s data regime.
+
+Responses to this consultation can help shape the reforms we want to make, and we are also seeking views on a number of emerging policy areas where we are gathering evidence to understand further whether there is a need for legislative change.
+
+The challenge
+
+Our challenge to the Forum is to help us engage as diverse a range of organisations and individuals as possible in this important debate.
+
+During the consultation period, we are asking Forum participants to convene discussion events, roundtables and create their own content about key questions and themes within the consultation.
+
+
+The National Data Strategy team shares reflections on stakeholder engagement during the Data: a new direction consultation and next steps.
+
+
+Key deliverables
+
+A series of convenor-led discussion events and write-ups aimed at helping people engage with the consultation. Event write ups will be treated as formal inputs into the consultation process. Convenors included:
+
+
+  Ada Lovelace Institute
+  Confederation of British Industry
+  Centre for Data Innovation
+  Centre for Data Ethics and Innovation
+  Centre for Information Policy Leadership
+  Data and Marketing Association
+  Open Data Institute (ODI)
+  Open Data Manchester
+  Policy Connect
+  Royal Society
+  
+Wellcome Trust (supported by ODI)
+  Which?
+  Institute for Government
+
+
+How to get involved
+
+
+
+Promote the consultation to your networks. We encourage you to create explainer content and analysis tailored to your networks and audiences, to help them engage with the debate.
+
+
+Become a convenor. If you would like to run a discussion event please get in touch with the secretariat at ndsforumsecretariat@dcms.gov.uk we can share suggested content and arrange for a DCMS representative to join the event, where possible. Convenors will be invited to present insights from their discussions to the Minister for Media and Data at an NDS Forum discussion.
+
+
+Respond to the consultation.
+
+
+
+
+
+
+
+Net zero
+
+
+This workstream explores how we can work together to harness the power of data to meet our net zero ambitions. The NDS acknowledges the full impact of data and digital on sustainability is not yet fully understood. We are committed to exploring how the NDS can support the government’s net zero ambitions.
+
+Whilst data centres consume a substantial amount of electricity, the better use of data can help our shift towards low-carbon ways of living and working, while driving sustainable growth and job creation.
+For example, transport data being made open has supported the development of apps such as Citymapper, which allows access to information about traffic in real time so individuals can choose less congested routes, opt to use public transport or walk/cycle.
+
+Or improved weather forecasting by applying data-based models has helped protect crops in fields, made wind and solar renewable energy generation more predictable, and allows for greater preparedness to weather disruption.
+
+The challenge
+
+Our challenge to the Forum is to work with us to find new and innovative ways the data ecosystem can take action to support our net zero ambitions, as well as showcasing the positive role data can play.
+
+
+Alex Sunley, a senior policy adviser in the National Data Strategy team, updates on the work of the NDS Forum on net zero and next steps. This includes details on how to participate in a Data & Net Zero workshop with the Royal Society on 21 January 2022.
+
+
+Key deliverables
+
+We will host two discussions in 2021:
+
+
+
+A Forum discussion with data centre providers on how the sector can help meet the government’s net zero ambitions.
+
+
+A Forum discussion that aims to spotlight existing initiatives as well as upskill the ecosystem in the ways data can be used to support our net zero ambitions.
+
+
+
+How to get involved
+
+
+
+If you’re using data in innovative ways that could drive our net zero ambitions or would like to further understand how the better use of data can support net zero, please get in touch with the secretariat at ndsforumsecretariat@dcms.gov.uk
+
+
+
+
+
+
+
+Measuring the data ecosystem
+
+
+Much of the activity under the NDS is breaking new ground. It is prompting us to think about data and its potential for positive impact in ways that we haven’t before. This is a challenge, and one which we are making headway on, through our work to monitor and evaluate the NDS. However, we know that government does not have all the answers, and there is much valuable expertise within the wider data ecosystem. TechUK’s recently launched Local Digital Capital Index for example is a new approach to describing the building blocks that make up a technology ecosystem - and we know that lots of other stakeholders are also coming up with similarly innovative and novel ways to consider these issues.
+
+We therefore want to use the NDS Forum to create a shared understanding of the data ecosystem, and to tap into its expertise to develop our policy thinking in this area.
+
+The challenge
+
+This is a two-part challenge:
+
+
+
+Our initial challenge to the Forum is to help us gather the evidence we need to make a truly effective and useful National Data Strategy indicator suite, that represents data use across the UK, in support of our call for evidence.
+
+
+Our other challenge to the Forum is to help us comprehensively map the Data ecosystem, to understand how it can support implementation of the NDS most effectively.
+
+
+
+Deliverables
+
+In 2021, we are initially focused on the first of those challenges, through running a 12-week public call for evidence for written submissions, and facilitating roundtables with key stakeholders to get into some of the detail and nuance of the discussion, to feed into that evidence gathering.
+
+We will commence work in 2022 to map the data ecosystem, informed by the work undertaken in our call for evidence.
+
+How to get involved
+
+
+
+Respond to our call for evidence.
+
+
+Let us know if you’re interested in attending a roundtable event by contacting the secretariat at ndsforumsecretariat@dcms.gov.uk
+
+
+Let us know if you would be interested in playing an active role in mapping the data ecosystem by contacting the secretariat at ndsforumsecretariat@dcms.gov.uk
+
+
+
+
+
+Getting involved
+
+
+If you would like to receive updates on the National Data Strategy and National Data Strategy Forum through our newsletter, please sign up for updates on the National Data Strategy
+
+
+
+If you would like to get involved in the National Data Strategy Forum, please let us know by registering your interest.
+
+
+
+You can get in touch with the Forum at: NDSForumsecretariat@dcms.gov.uk
+
+
+
+Useful links
+
+
+  About the National Data Strategy
+  Government response to the consultation on the National Data Strategy
+  Blog posts about the National Data Strategy and National Data Strategy Forum
+
+
+
+
+
+      
+        
+    Published 2 September 2021
+    Last updated 16 December 2021
+      + show all updates
+      
+        
+            
+              16 December 2021
+              Links to two blog posts added under Data Reform and Net Zero key deliverables respectively
+link to the National Data Strategy team blog post on Data: a new direction consultation
+link to Alex Sunley's blog post on NDS Forum work on Net Zero
+            
+            
+              10 December 2021
+              Updated "unlocking the power of data detailed work plans"  - added text on the publication of the Mission 1 Policy Framework and in the "events table" under "Mapping Local Skills" added link to blog
+Under "Data Reform - key deliverables" added " Open Data Manchester"
+            
+            
+              30 November 2021
+              Added to events table under the Midlands event "please see blog"
+            
+            
+              25 November 2021
+              Added new event to upcoming events.
+            
+            
+              18 November 2021
+              Added upcoming events table.
+            
+            
+              12 November 2021
+              Added blog post.
+            
+            
+              1 November 2021
+              Added blog post.
+            
+            
+              6 October 2021
+              Added new blog post.
+            
+            
+              28 September 2021
+              Added detailed workplans section.
+            
+            
+              10 September 2021
+              Updated to include workstreams.
+            
+            
+              2 September 2021
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        National Data Strategy monitoring and evaluation update
+        National Data Strategy
+        “Data: a new direction”: commissioner's response
+        CDEI publishes its first report on public sector data sharing
+        UK Government response to the European Court of Justice decision in the Schrems II case
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Education, training and skills
+        Climate change and energy
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

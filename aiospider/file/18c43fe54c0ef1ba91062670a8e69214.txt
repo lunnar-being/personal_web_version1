@@ -1,0 +1,121 @@
+    
+
+
+
+ as many hospital systems postponed nonemergent procedures. This led to a potentially large backlog of case volume. In a recent McKinsey survey of health system leaders, hospital executives said they may struggle to address this backlog given workforce availability, enhanced sanitation protocols, and reserved inpatient capacity.
+
+
+ Without healthcare systems recalibrating demand and capacity, patients could face long backlogs for procedures, and potentially experience higher morbidity and mortality rates.Solutions may include 1) reducing the unnecessary deferral of care, 2) effectively addressing new throughput challenges, 3) using advanced analytics to better forecast demand and manage capacity in real time, and 4) reimagining operating room operations to increase long-term capacity.The United States is likely developing a nationwide backlog of millions of surgeries.The COVID-19 pandemic caused hospitals and physician practices across the United States to temporarily halt nonemergent procedures, often referred to as “elective,” to limit potential spread of the disease while preserving hospital capacity and resources. In the summer of 2020, many providers in some parts of the United States, such as Texas and Florida, resumed elective care, but also had to intermittently stop and start elective procedures due to fluctuations in the local prevalence of COVID-19 and state policies on providing elective care.
+
+
+
+
+
+
+
+
+In addition, emergency department visits declined by more than 40 percent in April compared to 2019, which may have led to fewer patients presenting with indications for surgical intervention.
+
+
+ The financial impact of this reduction in elective procedure volume, which typically drives a disproportionate share of revenue and margin for hospitals, caused an estimated $200 billion in financial losses for hospitals and health systems between March and June 2020, before accounting for relief funds.
+
+
+
+		
+	
+The deferral of elective surgical care likely resulted in a significant backlog of future patient demand, even if some of the deferred cases are never rescheduled. A May 2020 study of orthopedic surgery volumes by the Journal of Bone and Joint Surgery suggested that even under the most optimistic scenario, the United States may face a cumulative backlog of more than a million total joint and spine surgery cases by mid-2022, and that the country may need up to 16 months to work through the backlog of orthopedic care.
+
+
+ In addition, an analysis of cataract surgery volumes by the Journal of Cataract & Refractive Surgery estimated the United States may face a backlog of 1.1 million to 1.6 million cataract procedures by 2022.
+
+
+ While a recent report revealed the relative volumes of outpatient office visits (including telemedicine visits) were within 10 percent of historical levels by late July for some specialties (for example, dermatology, primary care, ophthalmology), several surgical specialties still remained more than 10 percent below historical levels for ambulatory visits (for example, orthopedics, otolaryngology).
+
+
+ Ultimately, the deferral of millions of elective procedures could have a potentially deadly impact on patients.
+
+
+In order to assess the impact of decreased surgical care across the country, McKinsey surveyed 25 US hospital systems in July 2020. These hospital systems collectively represent around 25 percent of all hospital beds in the United States. The findings revealed that US providers surveyed saw a roughly 35 percent decrease in surgical volumes from March 2020 to July 2020 compared to the year prior, and on average expect to remain below historical volumes for the remainder of 2020 (Exhibit 1).
+
+
+
+
+
+ Based on respondents’ projections for the remainder of 2020, hospitals could end the year with operating room volumes at around 20 percent below the previous year, equivalent to around 2.5 months of historical volume.
+    
+Reported decreases in surgical volume were not uniform. We believe that several factors influenced the degree of volume contraction:
+ Respondents reported that orthopedic surgery, otolaryngology, and plastic surgery represented the largest relative declines among surgical specialties.
+
+
+ Hospitals and outpatient surgery center respondents that said they relied more on that volume mix were harder hit financially than their peers.
+ On average, providers with hospitals in the South and West expected to see the greatest decrease in volumes for the remainder of 2020, potentially due to the higher prevalence of COVID-19 in these communities at the time of the survey.
+
+
+
+ On average, hospital systems with more than 5,000 beds reported a greater relative decrease in surgical volumes from March to July (–42 percent) compared with systems with less than 5,000 beds (–25 percent), and, on average, anticipated surgical volumes would remain lower for the rest of 2020 (–20 percent and –1 percent, respectively).
+
+
+ Some potential reasons could include larger systems possibly located in areas with higher rates of COVID-19 or perhaps larger systems that were more likely to broadly restrict elective care across geographies despite differing disease burdens locally.
+ While most systems continued to report procedural volume decreases in June and July, 24 percent reported volumes actually  above 2019 levels during these two months as the hospitals worked through the original procedural backlog.
+
+
+
+
+
+ Many of these respondents overlap in geographies with other respondents that experienced volume declines during these same periods, suggesting other factors (for example, patient outreach, physician relationships, hospital operations) were at play.
+Almost universally, respondents reported that they expected surgical volumes to be below historic levels for the rest of 2020.
+
+	
+
+
+
+
+    
+    
+
+New challenges of operating in a COVID-19 environment are likely limiting hospital efficiency and effective capacity, perhaps contributing further to a future backlog.Hospitals and physician practices began new safety protocols in recent months, and many of those are likely to persist for months or years to come. Due to the new challenges of operating in a COVID-19 environment (for example, increased sanitation measures and reserved inpatient bed capacity), around 40 percent of hospital systems surveyed do not believe they would be able to return to historical procedural throughput levels even if demand increased to previous levels or higher.
+
+
+ Providers report that workforce shortages, inpatient bed availability, and operating room capacity are the most common barriers to increasing surgical throughput (Exhibit 2).
+
+
+
+    
+While challenges vary across providers, we predict that nearly all hospitals are likely to face multiple novel challenges at the same time for the foreseeable future. The most frequently cited challenge for the upcoming months is that hospital workforces may not be stable. This instability is related to, among other factors, postponed paid time off, ongoing childcare needs, the potential for COVID-19 infections among staff, and provider burnout. Another key challenge is that many hospitals are reserving inpatient beds for potential COVID-19 surges. Collectively, these and other challenges outlined in Exhibit 2 are expected to negatively impact many hospitals’ procedural capacity, as well as add incremental operating expenses.The combination of this surgical backlog paired with reduced effective hospital capacity could impact both providers and patients for years to come.What will happen to the healthcare system when millions of procedures are expected to be deferred in 2020? While some patients may ultimately decide to seek alternatives to surgical care or have symptoms resolve before seeking care altogether, survey respondents said they expected around 80 percent of deferred procedural care to ultimately result in cases (for example, when patients report that they feel more comfortable returning to hospitals, or when a vaccine or effective therapeutic is widely available).
+
+
+ Using this estimate, there may be two months or more of excess surgical demand across the United States by the end of 2020. For the United States to work through two months of excess surgical demand in less than one year, it would require hospitals across the country, on average, to operate at 120 percent of historical volumes for ten straight months (Exhibit 3). However, this type of throughput increase is unlikely, as less than 50 percent of systems reported they would be able to increase volumes significantly above their historical baselines largely due to limited provider capacity.
+
+
+ As such, a more realistic scenario is if health systems were to instead operate at an average 10 percent increase above baseline volumes; in this case, around 20 months would be required to work through the pent-up demand from 2020.
+    
+The continued deferral of care in 2021 and beyond, and/or ongoing challenges with hospital capacity, could further exacerbate the backlog of procedural cases. The potential result may be that patients may face long wait times for surgical care. Studies have shown that delays in surgical care for osteoarthritis can result in progressive loss of mobility and health-related quality of life, and patients living with knee osteoarthritis have a higher risk of death compared with the general population, with increasing risk as walking disabilities become more severe.
+
+
+
+
+
+ In addition to a potential impact on morbidity or mortality, delays in care could also lead to worse patient experience. Given that some types of “elective” procedures are more time sensitive than others, providers may need to determine how to prioritize care provided based on the urgency of care required, and whether delayed care could increase morbidity or mortality.To proactively address the expected COVID-19 surgical backlog, systems would need to instill patient confidence in the near term. They also could consider optimizing the use of existing capacity, and will need to reimagine clinical operations to become significantly more efficient.The root cause of the elective procedure backlog is likely due to a temporal mismatch between supply and demand. This mismatch could result in excess hospital capacity (and worsening financial performance) as patients defer care, and excess demand in the future as patients return to facilities. As patients continue to report an increasing comfort in returning to in-person care, respondents report a variety of strategies (Exhibit 4) to address or prepare for a potential increase in demand.
+
+
+
+    
+Since building additional operating rooms may not be practical for most systems given the capital costs, physical space, and associated workforce required, systems that are able to increase effective capacity by optimizing existing space will be able to perform better in this challenging environment. Around 80 percent of provider systems surveyed believed they could increase market share in the coming year given the changes in the market dynamics.
+
+
+ However, it is possible that many systems may experience a long-lasting decrease in market share if they are not able to increase throughput to the same levels as other providers in their local market. Systems that are able to react quickly to fluctuating market demand may be better positioned to excel in the coming years. Given the importance of surgical care on the health of patients and the financial health of hospital systems, operators will need a robust strategic and operational plan to manage the many new complexities and effectively improve patient throughput.
+		
+	
+Key actions that health systems could take include:
+
+
+
+
+
+    
+
+        
+
+
+    
+    While providers have seen a significant decrease in surgical volumes due to COVID-19, continued challenges are expected to keep volumes below baseline for months to come, resulting in a potentially lengthy backlog of deferred procedures that will need to be quickly addressed in the future to mitigate negative patient impact. If the presence of COVID-19 continues to oscillate, providers will need to focus on significantly increasing throughput when COVID-19 prevalence in the community is temporarily low to counteract times when they may be forced to reduce elective capacity. The abilities to engage patients and providers to reduce unnecessary deferrals of care, react quickly to increase surgical throughput when COVID-19 activity is low, and efficiently manage capacity through the use of digital and analytic capabilities represent new muscles that provider systems will need to strengthen in the coming months and years if they aspire to recapture and grow surgical volumes while ensuring timely access for patients in need of care.Without robust strategic and operational plans in place, both providers and patients could face adverse outcomes in the months and years to come due to the COVID-19 pandemic. However, providers could use the pandemic as a catalyst to strengthen clinical operations, enable growth, and transform care delivery to improve patient experience and outcomes in the future.

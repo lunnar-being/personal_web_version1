@@ -1,0 +1,328 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Test engineer
+  
+
+  
+  
+  
+      
+  Find out what a test engineer does and the skills you need to do the job.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      7 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of test engineer
+
+        
+        
+          Tester (test engineer)
+
+        
+        
+          Test engineer
+
+        
+        
+          Senior test engineer
+
+        
+        
+          Lead test engineer
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This describes the role of a test engineer and the skills required, including:
+
+
+  an introduction to the role, telling you what you would do in this role and the full list of skills
+  a description of the levels in this role, from tester to lead test engineer, specifying the skills you need for each level and the corresponding skill level (awareness, working, practitioner, expert)
+
+
+Introduction to the role of test engineer
+
+A test engineer undertakes test planning activity including discovery capture, test definition and the estimation of test effort as part of a broader risk-based approach.
+
+Skills required to be a test engineer
+
+You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.
+
+
+  
+Functional testing. You can analyse changes to the development of products and services and plan design. You know how to run and manage appropriate tests to ensure that requirements have been fully met. You understand and can identify the most effective techniques, data sets and tools to use. You can communicate defects or trends clearly to software developers, outlining how defects are identified and the possible causes. You can design, or provide assurance for, appropriate risk-based end-to-end system integration test models.
+  
+Non-functional testing. You know how to analyse changes to or the development of products and services. You can plan design in a non-functional environment. You know how to run and manage appropriate non-functional tests to ensure that requirements have been fully met. You understand and can identify the most effective techniques, data sets and non-functional testing tools. You can communicate defects or trends clearly to software developers, outlining how defects are identified and possible causes. You can design or provide assurance for appropriate risk-based end-to-end system integration test models.
+  
+Technical breadth. You know how to use a range of contemporary technologies including cloud platforms, open source and ‘aaS’ services to better enable and enhance the delivery of QAT services. You stay abreast of industry developments to make cost-effective use of new and emerging tools and technologies. You can use a breadth of knowledge from across the wider technology and digital professions, strengthening the effective delivery of services. You have relevant professional awareness, which may include architecture, continuous integration and deployment, coding or scripting languages.
+  
+Test analysis. You can visualise, articulate and solve complex problems and concepts, and make disciplined decisions based on available information. You can apply logical thinking, gather and analyse information using comprehensive tools and techniques, use data to formulate both short-term and long-term strategic plans, identify and analyse options, and assess feasibility and operational impact. You know how to ensure that the business solution aligns with the vision, mission, objectives, strategy and the business and user needs. You can identify and recognise a viable solution or control.
+
+
+Tester (test engineer)
+
+A tester (test engineer) works closely with test engineers and QAT analysts to learn the activities and techniques required to establish the basis of testing. At this level, you will:
+
+
+  have domain and business knowledge
+  develop test scripts under supervision
+  raise awareness of and manage defects
+
+
+Skills needed for this role
+
+
+  
+Functional testing. You know about functional testing techniques. You can execute test scenarios and identify defects, raising awareness of them. You know how to run tests others have written and know the processes to do so. You understand a range of standard testing techniques. (Relevant skill level: awareness)
+  
+Non-functional testing. You know about non-functional testing techniques. You can execute non-functional test scenarios and identify defects. You can run non-functional tests others have written and know the processes to do so. You understand a range of standard non-functional testing techniques. (Relevant skill level: awareness)
+  
+Technical breadth. You know about a range of tools and techniques for test automation. Likely to have some demonstrable technical attributes. (Relevant skill level: awareness)
+  
+Test analysis. You can contribute to improving delivery and understand the importance of evidence-based design and analysis. (Relevant skill level: awareness)
+
+
+Test engineer
+
+A test engineer is responsible for writing, debugging and refactoring test code. At this level, you will:
+
+
+  work closely with software developers to reach a common understanding of the code base and test coverage at unit level
+  collaborate with analysts to make sure the required business scenarios are covered in the acceptance test scripts
+  test engineers work on both functional and non-functional areas of an application
+  coach and mentor testers
+
+
+Skills needed for this role
+
+
+  
+Functional testing. You can design and execute test cases using standard testing techniques. You can come up with different business scenarios for a feature, working with others in the team. (Relevant skill level: working)
+  
+Non-functional testing. You can design and execute non-functional test cases using standard testing techniques, in instructed environments. You can come up with different business scenarios for a feature, working with others in the team. (Relevant skill level: working)
+  
+Technical breadth. You can use a range of technologies for testing. You know how to use one type of tool to write test scripts. You may use technologies to design and execute test cases under guidance. (Relevant skill level: working)
+  
+Test analysis. You can identify simple patterns and trends. You know how to investigate problems and opportunities in existing processes and can contribute to recommending solutions to these. You know how to work with stakeholders to identify objectives and potential benefits. (Relevant skill level: working)
+
+
+Senior test engineer
+
+A senior test engineer has similar responsibilities to a test engineer but at a more complex level and on a greater scale. At this level you will:
+
+
+  identify and raise awareness of risks arising from the automation test results
+  identify new and implement existing test frameworks to improve confidence in testing
+  be proficient in a range of coding languages (you may be an expert in only one)
+  mentor and advise other team members in testing practices
+
+
+Skills needed for this role
+
+
+  
+Functional testing. You can design and execute a wide range of testing techniques and communicate test results to both technical and non-technical stakeholders. You know how to make decisions on the environment for testing and coach others. You can identify defects, alerting the business to them, and you can help prioritise them based on defect severity. (Relevant skill level: practitioner)
+  
+Non-functional testing. You can design and execute a wide range of non-functional testing techniques and communicate non-functional test results to both technical and non-technical stakeholders. You can make decisions on running types of non-functional testing. You know how to coach and mentor others. You can identify defects, alerting the business to them, and help prioritise them based on defect severity. (Relevant skill level: practitioner)
+  
+Technical breadth. You have a good working knowledge of different tools and techniques and can train others. You can advise others on testing techniques and frameworks. You know how to research, plan and train others within the team. (Relevant skill level: practitioner)
+  
+Test analysis. You can think creatively, ask the right questions and critically evaluate and communicate findings to a larger team. You know how to lead investigative work into problems and opportunities in existing processes. You can drive the collection of information and creation of recommendations for improvements. You can absorb large amounts of conflicting information and use it to determine solutions. (Relevant skill level: practitioner)
+
+
+Lead test engineer
+
+A lead test engineer writes new automation test frameworks based on project requirements. At this level, you will:
+
+
+  promote the use of open source tools
+  be proficient in multiple test scripting languages
+  have a presence in external test communities and regularly share learning
+  work closely with leads across the digital, data and technology profession to champion quality
+  guide test team members to design test strategies - this may involve more complex and larger scale delivery
+  manage communications between projects to control integration and dependencies
+
+
+Skills needed for this role
+
+
+  
+Functional testing. You can advise on up-to-date functional testing techniques. You know how to assess and peer-review the work of others. You can coach and mentor others. You can write test approaches for major projects and provide guidance on risk approaches. You can devise new test techniques and provide recommendations. (Relevant skill level: expert)
+  
+Non-functional testing. You can advise on up-to-date non-functional testing techniques. You know how to assess and peer-review the work of others. You can coach and mentor others. You know how to write non-functional test approaches for major projects and provide guidance on risk approaches. You can devise new non-functional test techniques and provide recommendations. (Relevant skill level: expert)
+  
+Technical breadth. You can act as an advisor with a strategic understanding of IT trends and technologies. You can write and publish papers. You know about emerging tools and techniques. You can set up frameworks based on the needs of the team. You know how to work across different tools and software languages. (Relevant skill level: expert)
+  
+Test analysis. You can think ‘outside the box’, ask the right questions and critically evaluate and communicate findings to a larger team. You know how to lead investigative work into problems and opportunities in existing processes. You can drive the collection of information and creation of recommendations for improvements. You can absorb large amounts of conflicting information and use it to determine solutions. (Relevant skill level: practitioner)
+
+
+Read more
+
+
+  Civil Service Jobs
+
+
+
+
+
+      
+        
+    Published 7 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Quality Assurance Testing (QAT) analyst
+        Software developer
+        Programme delivery manager
+        IT service manager
+        Data architect
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

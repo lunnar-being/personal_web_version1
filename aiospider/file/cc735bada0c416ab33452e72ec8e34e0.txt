@@ -1,0 +1,124 @@
+    
+
+
+
+ Agility across a whole enterprise combines speed and stability; helps role clarity, innovation, and operational discipline
+
+
+; and can produce positive outcomes for organizational health and performance. Although the beneficial outcomes of agility are widely recognized by executives,
+
+
+ those considering an enterprise-wide agile transformation are questioning both the potential of such an undertaking and the outcomes they should seek.What should executives focus on, and what might they expect to change? Some data are emerging to help with answers. We analyzed the impact of enterprise-wide agile transformations as part of our worldwide agile-research effort. We analyzed 22 organizations in six sectors, and our preliminary results identified three main outcomes of agile transformations: improved customer satisfaction, employee engagement, and operational performance. These make up what we call the “agile impact engine.” The benefits are mutually reinforcing and produce a fourth outcome: improved financial performance (Exhibit 1).
+
+
+
+
+
+The agile impact engine forms a framework for assessing potential gains by examining in more depth those organizations that have successfully completed agile transformations (see sidebar “A word on our research methodology”).
+        
+
+
+    
+    Although these results seem highly desirable, there are three caveats. First, the extent of the gains depends on the starting level of enterprise agility, since, naturally, those starting with lower baselines experience more change. Second, significant gains are found only where agility is implemented successfully, holistically, and with high ambitions for performance improvement. Finally, the 20 to 30 percent improvement in financial performance may not register as profit and loss, as organizations make strategic decisions about removing cost and reinvesting in growth and capabilities.
+
+	
+
+
+	
+Before we look closer at the potential impact of agile transformation, it’s important to build a shared understanding of how we define and understand
+the topic.What is enterprise agility?Agile organizations can quickly redirect their people and priorities toward value-creating opportunities. A common misconception is that stability and scale must be sacrificed for speed and flexibility. Truly agile organizations combine both: a strong backbone or center provides the stability for developing and scaling dynamic capabilities.
+
+
+This backbone binds structural stability (standard operating procedures) to cultural stability (shared purpose, direction, and values); it also supports dynamic capabilities (for instance, fluid changes to strategy and team setup) in order to respond quickly to fast-changing conditions.How do you create an agile organization?
+        
+
+
+    
+    To balance flexibility and stability, organizations can implement choices in five dimensions
+
+
+ of the agile operating model (Exhibit 2). The extent to which an organization has implemented these agile elements represents their level of agile maturity (see sidebar “How agile are you?”). To reap the fullest benefits of agility, companies should implement any operating-model changes across all five dimensions.
+    
+Few organizations have completed a full transformation across all dimensions of the operating model at the enterprise or business-unit level; most still work at team-level agility.
+
+
+ However, we see a growing interest in scaling agility from pilot projects at the team level to implementation across larger parts of the organization. With this in mind, our research included only those agile transformations at the enterprise or business-unit level.
+
+
+What do you measure when you measure agility?Although the five dimensions seen in Exhibit 2 provide a clear path to implementation and how to assess the level of enterprise agility, they offer no guidance on how to measure the impact of enterprise agility. The danger here is using the table to measure the ruler rather than the other way around.
+		
+	
+We tracked a broad set of outcome metrics during agile transformations and saw that organizations use a unique set of metrics depending on their sector, customer type (for example, B2B or B2C), and transformation objectives (Exhibit 3). However, we can broadly synthesize the key outcome metrics into the four categories that compose the structure of the agile impact engine shown earlier:
+    customer satisfaction
+    employee engagement
+    operational performance
+    financial performance
+
+    
+Clearly, different organizations undergoing agile transformations will tend to emphasize apposite outcome categories. For example, those in our sample who needed to recruit talent focused more on employee engagement, whereas those in financial distress concentrated on financial gains and those facing competitive pressure valued customer satisfaction.
+	
+
+
+	
+Using enterprise agility to meet rapidly changing customer needs can result, unsurprisingly, in a better customer journey. In the cases we examined, agile transformations resulted in an uplift in customer satisfaction and engagement of between ten and 30 points.An obvious driver of this impact on customer experience is the shift toward an obsession with the customer; this is key for all agility. During an agile transformation, customers move to the heart of the organization, and the “North Star” (a shared purpose and vision across the organization) invariably centers around customer needs.In fact, the North Star is essential to an agile transformation, since it informs all decisions and missions and provides a language shared across the organization. For example, Amazon’s North Star is, “We seek to be Earth’s most customer-centric company.” Amazon’s four guiding principles, of which one is “customer obsession rather than competitor focus,” further emphasize this purpose.
+
+
+
+
+    
+Another element that enhances customer satisfaction is a flexible network of teams (one of the five trademarks of an agile company). In a successful agile transformation, the teams need to operate with high standards of alignment, accountability, expertise, transparency, and collaboration, all in service of the customer.The impact of these standards on customer satisfaction becomes clear when we consider the complicated pathway that new product ideas took at an Asia–Pacific telco in its preagile state. As Exhibit 4 shows, new ideas to meet customer needs went through countless handovers between departments with different customer value propositions and incentives. This resulted in frequent delays and, consequently, low customer satisfaction. During the company’s agile transformation, it moved to a cross-functional setup of its digital-consumer business, with 18 squads taking end-to-end accountability for different outcomes within the new digital hub. As a result, customer satisfaction increased by 35 points.
+    
+
+	
+
+
+	
+A second area in which the impact of agility is clearly visible is in employee engagement. The organizations in our sample experience a 20- to 30-point improvement in engagement in an agile environment, compared with a nonagile environment.
+
+
+ This change was seen whether engagement was measured by employee willingness to recommend their workplaces or by internal employee-satisfaction surveys.Several factors could explain the impact of agility on employee engagement. Most fundamentally, in the nonhierarchical organization of cross-functional teams, employees have the opportunity to develop a strong sense of autonomy, mastery, and purpose.
+
+
+ These have a positive influence on employee satisfaction and engagement, as evidenced in previous McKinsey publications and extensive research, including that compiled in Daniel H. Pink’s Drive: The Surprising Truth About What Motivates Us (Riverhead Books, 2009).An agile transformation encourages these three motivating factors, as illustrated by a telecom operator from Asia–Pacific. The company launched an enterprise-wide agile transformation, with improved employee engagement as a leading goal, alongside increased customer centricity and faster time to market. Throughout the transformation, the company’s operating model went through an overhaul. They transformed its hierarchical and multilayered organization structure into a simple, three-layered approach consisting of a leadership squad, 18 tribes, and approximately 200 autonomous squads.Autonomy was embedded by creating small, cross-functional teams with full end-to-end accountability for specific missions and products. Mastery grew from its need for people who could apply knowledge across a broad range of situations while having deep knowledge in one area. The new setup recognized individuals for their technical skills and allowed growth in expertise, not just a move into management with a multidimensional contribution model.
+        
+
+
+    
+    Finally, purpose was created through an inspiring North Star translated in clear goals and missions
+for each squad in the organization. Concrete tools such as objectives and key results (OKRs) allowed the North Star to act as a common language between distributed and autonomous teams (see sidebar “What is the difference between a key performance indicator and an objectives-and-key-results metric?”).As a result, employee engagement scores in most of the agile tribes now significantly exceed levels seen even in many of the iconic digital natives, allowing the organization to attract top talent in the market and strongly outperforms its peers in this area.(For more on the impact of purpose, see sidebar “Mini case study: Purpose in the public sector.”)It makes sense to want happy, motivated, and engaged employees. There is a strong connection between employee engagement and efficiency metrics (such as speed of issue resolution), as well as between employee engagement and customer satisfaction.
+
+
+ And the contribution of such employees is widespread. Moreover, it should come as no surprise that high employee engagement scores attract better applicants and support organizations in the war for talent.
+        
+
+
+    
+    When measuring the impact on employee engagement of agile transformations, it is important to track changes over time. Any transformation can initially provoke excitement across both agile and nonagile parts of the organization. Equally, parts of an organization may experience a subsequent decline in engagement when they encounter obstacles in nontransformed parts of the organization.The HR director of such a fully agile organization expands on the powerful impact purpose and autonomy had on the large improvements in employee engagement
+
+
+:[Without purpose and autonomy], you’re in a world where people come in to work, they do their little bit, they go home, but they may have no idea where that fits into the big scheme of things. Agile puts direct ownership and real-time accountability with the squad so that they have absolute clarity about where it all fits now. That’s where the engagement comes from—employee engagement goes off the chart because people have richer jobs, they’ve got a broader perspective, and they’re focused on solving problems. They don’t feel like hamsters—they feel like they’re part of a squad that’s on a mission.
+	
+
+
+	
+Operational-performance metrics vary by sector. Common examples in our sample include time to market, planning time, issue-resolution speed, predictability, and raw product output, among others. These can fit broadly into three categories: speed, target-achievement rates (TARs), and other industry-specific metrics. Our research shows that implementing an agile transformation can unlock an improvement of 30 to 50 percent in these metrics.Two specific factors—enhanced visibility and understanding of objectives and improved team dedication—are dominant here:
+    
+    
+Next, we outline some of the potential performance improvements associated with agility.Increasing speedUsing agility, organizations can increase the speed of decisions and product development, as well as shorten the time between the conception and release of a product (known as time to market). They dream of a setup that allows them to stop trailing their competitors and to move to the forefront of product development.
+    
+This happened to a telecom player in our sample. As a result of the company’s new, agile setup, it could respond to its competitors’ new-product releases within one week, as opposed to several months: it cut time to market by as much as 70 percent. Overall, our research indicates that agile transformation can reduce time to market by at least 40 percent.
+This is also relevant for B2B companies, or parts of B2B companies, in which speed can have a large impact on capital expenditure. An oil and gas company, for example, wanted to reduce the time it took to plan and design a new oil well. The health and safety implications of drilling rely on a variety of technical skills and require large capital and time expenditure. By creating one co-located team of engineers from the completion, drilling, geoscience, and petroleum teams, as well as supply-chain and commercial specialists, the company halved the time required to plan and design its wells and increased quality by reducing handovers.Finally, in service operations, speed can drive significant gains in productivity and customer satisfaction, as we have seen in many instances of agile transformations of customer-service and back-office activities.Improving target-achievement rateAnother operational metric that shows significant improvement after agile transformations is the TAR. Capture 70,000 customers of a goal 100,000 new customers, and the TAR is 70 percent.
+
+
+ Whereas most traditional companies struggle to meet their targets (falling below the 100 percent rate), all agile companies in our sample, bar one, surpassed their targets: rates ranged from 90 percent
+
+
+ to 140 percent. The 140 percent TAR was at a European bank that outperformed its objectives despite deteriorating market conditions. That said, outperforming targets is not always desirable. Predictability of performance is crucial in accurate forecasting for strategy and resources. Agility allows organizations to adjust their forecasts and targets up and down in a timely manner.Raising sector-specific metricsThere are many industry-specific operational metrics that illustrate the benefit of agility. For one Australian liquefied natural gas producer, increasing the amount of gas produced per employee was a key operational metric. By applying agile methodologies, such as shifting technical middle managers to “doers” and creating semiautonomous operating assets, the producer was able to raise overall gas production by 5 to 10 percent. However, with a significant reduction in full-time-equivalent hours by means of these methodologies (and by reducing its organizational layers to four), the overall increase in the volume of gas production per employee went up by 70 to 80 percent.Understanding challenges on the journey to impactAlthough successful agile transformations lead to impressive operational improvements in the long run, a dip in operational performance is common during the initial phases of the transformation. This is the result of employees and the organization adjusting to new ways of working. For example, at an Asian telco, senior leaders mentioned that performance—measured by time to market and achievement of performance targets—initially dipped after implementing new initiatives (sprint-based operating rhythms and newly cross-functional squads). But after three months, performance surpassed the company’s preagile level.
+	
+
+
+	
+Can improvements in customer satisfaction, employee engagement, and operational metrics (such as speed) as a result of agile transformation translate into financial uplifts? Whereas almost all the organizations in our sample tracked productivity gains and cost savings, few systematically looked at revenue or margin uplift, citing difficulties in baselining the pretransformation state. This led to the data overemphasizing cost savings; nonetheless, we have qualitative evidence of revenue-based improvement as a result of agile transformation.
+		
+	
+Although cost savings is seldom the primary objective of an agile transformation, it is a natural consequence of the improved operational performance and ability to provide the same outcomes with fewer people. The internal and external costs savings identified in our sample ranged from 20 to 30 percent. Importantly, in several cases, companies reinvested part of the savings to capture new business opportunities—meaning these savings did not register as part of profit and loss.For example, a Latin American bank decided to go agile in one of its discrete business units. By applying a “no middle managers” rule; reducing the number of layers to three, from seven; dedicating squad members 100 percent to the transformation; and removing the silos between the business and IT functions, it saved 30 percent of its internal full-time-equivalent employees. The bank identified all these employees as new capacity and redeployed them to new roles within the agile company.Our research so far shows that the prize for agility at the enterprise level is a significant boost in multiple organizational outcomes; we have summarized the maximum potential in our agile impact engine. The findings hold true for successful agile-transformation implementations across sectors and geographies. As the pressures mount to find innovative ways to remain competitive in today’s rapidly changing environments, agility is no longer just desirable but becoming essential.To continue building our fact base, in coming months, we will extend our research on agile maturity and key performance indicators (including financial results) across industries and over time.

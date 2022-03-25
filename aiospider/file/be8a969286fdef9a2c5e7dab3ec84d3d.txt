@@ -1,0 +1,405 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    EVHS and WCS: become an authorised installer
+  
+
+  
+  
+  
+      
+  Apply to be an authorised installer for the Electric Vehicle Homecharge Scheme (EVHS) or Workplace Charging Scheme (WCS). 
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Office for Zero Emission Vehicles
+
+      
+      Published
+      24 November 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Information required
+
+        
+        
+          Approved installer list
+
+        
+        
+          How to maintain authorised installer status
+
+        
+        
+          Ongoing responsibilities
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+To claim the Electric Vehicle Homecharge Scheme (EVHS) grant or the Workplace Charging Scheme (WCS) grant, you must apply to become an authorised installer.
+
+Once you have acknowledged receipt of your successful authorisation letter from the Office of Zero Emissions Vehicles (OZEV), you can start to install chargepoints under the scheme.
+
+Only installations carried out after the date of authorisation will be eligible for the EVHS grant.
+
+If you wish to solely sub-contract the installation of chargepoints and make claims on behalf of installers, you should apply to be an OZEV authorised installer representative.
+
+An authorised installer representative remains wholly responsible for ensuring that its installers abide by all the terms and conditions of the scheme.
+
+You must inform the DVLA of the sub-contracted installers and their OZEV authorised installer numbers.
+
+If the sub-contractor is not an OZEV authorised installer, you must provide DVLA with the Competent Person Scheme name and number for the sub-contractor.
+
+If a sub-contracted installer fails to meet the terms and conditions of the scheme, OZEV may revoke the authorisation of the authorised installer representative
+
+
+Grants will only be paid in relation to any EVHS or WCS approved equipment listed at:
+
+
+  Electric Vehicle Homecharge Scheme approved chargepoint model list
+  Workplace Charging Scheme approved chargepoint list
+
+
+
+ Apply to become a WCS or EVHS installer 
+
+Information required
+You must provide all information requested in the authorised installer application. If any information is missing, your application will not be processed.
+
+OZEV, or its representatives, will process applications and confirm if your application has been successful by email.
+
+To apply to be an OZEV-authorised installer, you must provide:
+
+
+  company name
+  location of head office
+  
+UK address
+  bank account details (bank, account name, account number and sort code)
+  Competent Person Scheme name and number
+  email address and phone number – for contact by OZEV and Driver and Vehicle Licensing Agency (DVLA)
+  information required for the approved installer list
+
+
+
+To apply to be an OZEV-authorised installer representative, you must provide:
+
+
+  company name
+  location of head office
+  
+UK address
+  bank account details (bank, account name, account number and sort code)
+  names and OZEV-authorised installer numbers of subcontractors
+  public liability insurance certificate
+  email address and phone number (for contact by OZEV and DVLA)
+  information required for the approved installer list
+
+  
+Competent Person Scheme name and number for each sub-contractor
+
+
+Accepted Competent Person Scheme (CPS) operators for EVHS
+
+
+
+  
+National Association of Professional Inspectors and Testers (NAPIT):
+    
+      Electrotechnical Assessment Scheme
+      Competent person scheme
+    
+  
+  
+National Inspection Council for Electrical Installation Contracting (NICEIEC):
+    
+      Domestic Installer Scheme registration
+      Approved Contractor with Domestic Installer Scheme registration
+    
+  
+  ELECSA
+  Stroma
+  SELECT (Scotland’s Electrical Trade Association)
+  OFTEC Home | Oil, Solid Fuel and Renewable Heating Technologies
+
+
+Accepted CPS operators for WCS
+
+
+
+  
+National Association of Professional Inspectors and Testers (NAPIT):
+    
+      Electrotechnical Assessment Scheme
+      Competent person scheme
+    
+  
+  
+National Inspection Council for Electrical Installation Contracting (NICEIEC):
+    
+      Approved Contractor
+    
+  
+  Stroma
+  SELECT (Scotland’s Electrical Trade Association)
+
+
+Where to find your CPS number
+
+You can find your relevant CPS number by checking the:
+
+
+  Certificate Number on your NAPIT certificate (for example, NAP/12345/12/1)
+  Enrolment or Certification Number on your NICEIC certificate (for example, 123456789)
+  Company Reference Number on your Stroma certificate (for example, STRI 12345)
+  Company Reference Number on your SELECT certificate (for example, 12345)
+
+
+OZEV, or its representatives, will conduct checks on any party that applies for authorisation. For authorised installer representatives, these will include checking proof of public liability insurance (not employer’s liability insurance) and company details.
+
+For installers, this will include proof of:
+
+
+  public liability insurance
+  membership of the Electrical Association
+
+
+Checks may also be made on credit, fraudulent activity and customer feedback.
+
+OZEV has the right to deny or suspend authorisation of an installer. Authorisation can be revoked at any time if the current terms and conditions of authorisation are breached.
+
+
+If you are not sure if you are authorised or have any questions about the evidence you need to supply, contact the DVLA at installer.authorisations@dvla.gov.uk.
+
+
+Approved installer list
+The approved installer list is a tool that enables chargepoint customers across the UK to locate and contact OZEV-authorised installers for chargepoint enquiries.
+
+To apply, you will need to provide:
+
+
+  company name
+  website (where applicable)
+  town or city where you are based
+  region of operation (or UK-wide if applicable)
+  contact email address (for the general public)
+  contact phone number (for the general public)
+
+
+If your information is incomplete or needs to be updated, contact ChargePointGrantApps@dvla.gov.uk with the appropriate information.
+
+How to maintain authorised installer status
+
+To retain OZEV approval, an authorised installer or authorised installer representative must:
+
+
+  have submitted a claim within the past 2 years
+  remain part of a Competent Person Scheme (for authorised installers only)
+
+
+If an authorised installer or authorised installer representative no longer wishes – or is no longer able – to maintain their status as an authorised installer/authorised installer representative, they should notify ChargePointGrantApps@dvla.gov.uk.
+
+If you are an authorised installer or authorised installer representative and you do not submit a claim within 2 years, or are no longer registered on the Competent Person Scheme you were accredited by when you applied to join the scheme, OZEV will remove you from the list of approved installers and you will no longer be eligible for grant funding.
+
+The government takes the safety of the public extremely seriously. If necessary, OZEV will remove companies and individuals found to be performing unsafe installations from our schemes and inform their electrical trade associations of our decision.
+
+
+Installers may not use the OZEV logo, which is for government use only. They may, however, state that they are OZEV approved.
+
+
+Ongoing responsibilities
+
+Monthly order numbers and forecast data
+
+Authorised installers and authorised installer representatives must submit to OZEV monthly updates on their installation orders.
+
+Authorised installers and authorised installer representatives must submit quarterly forecasts every 3 months.
+
+An online form will be sent to installers (usually by the end of every month) to be completed and submitted by the deadline indicated on the online form. Failure to supply this information, or persistently supplying inaccurate information, may result in authorisation being revoked
+
+What to do if your details are incomplete or inaccurate
+
+If your information is incomplete or needs to be updated, contact ChargePointGrantApps@dvla.gov.uk with the appropriate information.
+
+
+
+
+
+      
+        
+    Published 24 November 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Workplace Charging Scheme authorised installers
+        Electric Vehicle Homecharge Scheme: minimum technical specification
+        Electric Vehicle Homecharge Scheme approved chargepoint model list
+        Workplace Charging Scheme: guidance for installers
+        Workplace Charging Scheme approved chargepoint list
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Grant schemes for electric vehicle charging infrastructure
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Low emission and electric vehicles
+        Road transport emissions
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

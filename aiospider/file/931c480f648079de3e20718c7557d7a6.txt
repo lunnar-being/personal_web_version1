@@ -1,0 +1,97 @@
+    
+
+
+
+This article was written in collaboration with Erica Hutchins Coe (partner in McKinsey’s Atlanta office), Kana Enomoto (expert in the Washington, DC, office), Patrick Finn (senior partner in the Detroit office), John Stenson (partner in the New York office), and Kyle Weber (partner in the Chicago office). with more than 178,000 lives lost as of mid-August 2020.
+
+
+ In the coming months, more deaths will undoubtedly occur as a direct result of the virus. However, there will likely be additional layers of delayed or indirect impact that result from deferred or canceled treatment, longer-term and unknown health impacts of those who recover from COVID-19, the physical and behavioral health impact of sheltering in place, and the tertiary health effects stemming from an economic downturn.
+        
+
+
+    
+    In this article, we examine two independent and potential drivers of delayed or indirect impact: exacerbations of certain chronic and episodic conditions that result from deferred or canceled treatment, and new and worsening behavioral health conditions.The immediate and direct impact of COVID-19The immediate and direct potential impact of COVID-19 has already resulted in thousands of lives lost and significant incremental cost to the healthcare system. However, as has already been reported,
+
+
+
+
+
+ a distinct possibility exists that the number of lives lost has been understated. In any given year, the number of people that die in the United States follows a relatively stable curve that varies predictably over the course of the year. In 2020, the United States has deviated noticeably from this curve.In a typical year, approximately 953,000 Americans would have been expected to die from any cause from March 1 to the end of June. This year, roughly 163,000 “extra deaths” have occurred during this same time period, an increase of 17 percent.
+
+
+ While a portion of this excess can be connected to reported COVID-19 fatalities, roughly 35,000 “extra deaths” are unexplained. This gap could be the result of randomness in the data, an unknown source of increased death rate, or deaths that have resulted directly or indirectly from COVID-19 but have not yet been included in official counts because of data lags or underreporting (Exhibit 1).
+    
+In addition to the human toll, treating patients with COVID-19 has a financial impact. While the true number of individuals that have contracted COVID-19 is difficult to quantify given certain limitations in testing, the number of people seeking treatment for COVID-19 is better understood. Of individuals seeking care, roughly 76 percent receive testing and basic treatment or services. Seventeen percent are hospitalized with mild to moderate conditions. The remaining 7 percent are treated for severe conditions.
+
+
+ For every million people that seek treatment, the US health system will incur roughly $5.3 billion in direct cost (Exhibit 2).
+
+
+
+    
+
+		
+	
+The impact of deferred or canceled treatment on chronic and episodic conditionsOnce the immediate and direct impact of COVID-19 in a particular geography has passed, the effects from deferred care will likely create new challenges for individuals and the healthcare system that could increase annual costs in the United States between $30 billion and $65 billion.
+
+
+ In a recent McKinsey Consumer Healthcare Insights survey,
+
+
+ 40 percent of individuals stated they have canceled upcoming appointments (for example, routine checkups, treatment for chronic conditions) and an additional 12 percent reported that they needed care but have not scheduled or received care (Exhibit 3). Furthermore, physicians may anticipate that capacity at health systems could be constrained in the future as a result of incoming COVID-19 patients and therefore may elect to defer commencing treatment because of legitimate concerns that a treatment regimen may need to be discontinued. For patients with chronic and episodic conditions, this delay could lead to harmful exacerbations of their conditions.
+    
+The impact of deferred care across different conditions will likely vary. For example, a patient with diabetes may rely more heavily on prescription medication. A cancer patient, however, may need to receive chemotherapy or radiation treatment at an acute care facility while also being immunocompromised. Even small delays or variations in oncology or radiation treatment regimens could impact the outcome of the cancer, yet patients must balance that with concerns of contracting COVID-19. Ultimately the impact on patients is expected to depend on the likelihood that treatment is canceled or delayed and how much a cancellation or delay could exacerbate a condition (Exhibit 4).
+    
+If the impact of delayed or canceled treatments is extrapolated across the types of common conditions, it becomes clear that the resulting cost to the health system could be substantial. For example, the average cost of treating a patient with chronic obstructive pulmonary disease has the potential to increase by between 7 and 11 percent, going from approximately $38,000 per patient per year to approximately $41,000 per patient per year (Exhibit 5). This increase in cost is largely driven by an expected increase in the severity of a patient’s symptoms due to care deferral. A different story emerges for patients with diabetes, where the impact could be relatively modest: the average cost of treating a patient has the potential to increase by just 1 to 4 percent. This relatively low impact is projected because of enhanced ability to manage diabetes costs using pharmaceutical and lifestyle interventions.
+    
+The long-term impact of behavioral health exacerbationsLonger-term effects of COVID-19 are already beginning to emerge: the behavioral health toll of anxiety and depression related to the virus itself, the extended lockdown, and the ensuing economic downturn. Additionally, the rates of anxiety and depression for all populations have continued to rise since early June, reaching all-time highs from July 16–21, with Latinx, Asian, Black, and multi-racial groups expressing higher levels of symptoms than non-Hispanic whites, according to the Census Bureau and the Centers for Disease Control and Prevention’s National Center for Health Statistics.
+
+
+
+    
+This culminating impact is likely to extend far beyond that of the acute effects of COVID-19-related hospital and other medical care. In addition to significantly more people reporting symptoms of depression and anxiety, data also indicate higher rates of binge drinking and insomnia with a large pharmacy benefit management organization reporting a 21 percent increase in prescriptions for medications to treat depression, anxiety, and insomnia.
+
+
+
+
+
+
+
+
+ COVID-19 has not only interrupted the treatment of people already managing mental or substance use disorders, but also placed broader segments of the population at risk for developing conditions such as depression, anxiety, alcohol use disorder, and post-traumatic stress disorder (PTSD).This surge of people experiencing acute behavioral health problems—both those with new symptoms and those with existing conditions—has the potential to further impact the healthcare system for years to come. Analysis shows that people with behavioral health diagnoses have around four times the average healthcare spending of those without, due to factors such as medical complications, reduced access to preventive care, and challenges with illness management. Although this analysis is a correlation and does not imply causation, individuals with behavioral health conditions consistently have higher spending for physical healthcare than individuals without behavioral health conditions (Exhibit 6).
+    
+While national events such as Hurricane Katrina or the Great Recession provide some sense of the long-term impact of traumatic stress on behavioral health, COVID-19 is in its own category. Across different segments of the population (for example, frontline healthcare workers, people who become unemployed), the likelihood of developing a mental or substance use disorder could be influenced by current or past traumatic stress exposure as well as by preexisting health and social vulnerability. Taking these factors into consideration, along with analysis of studies of the behavioral health impact from natural disasters, quarantines, and economic downturns, we estimate that some 35 million people could develop a new behavioral health condition due to the COVID-19 pandemic (Exhibit 7).
+    
+
+		
+	
+This estimate is conservative and does not include the disproportionate impact of COVID-19 on already vulnerable or at-risk populations, areas with concentrated pandemic impact may see even higher rates of behavioral health need. For example, 35 percent of US deaths to COVID-19 have occurred in long-term care facilities.
+
+
+ While data on race and ethnicity are not yet complete, early studies indicate dramatic disparities in mortality relative to white Americans for Black, Latinx, and some Native American populations.
+
+
+
+
+
+ In addition, there may be adverse impact from other confounding factors, such as natural disasters or civil unrest. Finally, the influence of COVID-19 on the behavioral health of children and adolescents isolated at home for extended periods is not yet known, but questions arise about their educational and social development. Youth in isolation may also face more serious risks of psychological traumatic stress known to lead to negative behavioral and physical health outcomes as an adult.
+
+
+
+        
+
+
+    
+    When we extrapolate the known cost impact of having a mental or substance use disorder across this striking increase in the number of people experiencing a behavioral health need, the result is significant: a potential 50 percent increase in the prevalence of behavioral health conditions could lead to $100 billion to $140 billion of additional spend in the first 12 months post-onset of the COVID-19 pandemic (Exhibit 8). (See methodology in the appendix for further detail.)
+    
+Finally, it is important to consider that the behavioral health impact of the pandemic is likely to last well beyond 2020. Some conditions, such as sleep–wake disorders, may resolve quickly, but others, such as PTSD, may not even appear until 2021 and may last for a number of years beyond. Unless rapid and far-reaching action is taken to address behavioral health at a population level, negative psychological effects of the COVID-19 pandemic, including deaths by overdose and suicide, are likely to persist for more than 24 months, contributing not only to increased healthcare spending but also to substantial economic and social cost.
+
+
+The direct impact COVID-19 is having on mortality and cost to the healthcare system is significant. For those individuals who have suffered and recovered from this life-threatening condition, the effects of the physical disease may resolve in a matter of weeks. Unfortunately, however, the ripple effects for physical and behavioral health will continue long after the immediate crisis has subsided. Healthcare organizations and leaders can consider taking action now to understand, quantify, and prepare for these additional layers of impact to support their members, patients, own employees, and the broader communities they serve. Specifically, organizations may consider the following steps:
+    Developing virtual health offerings and capabilities beyond the traditional “tele-urgent” that are better able to care for chronic patients
+    Increasing virtual, remote, and home health capacity to treat patients with chronic or episodic conditions
+    Developing an approach (often involving collaboration between payers and providers) for prioritizing high-risk individuals to traditional facilities deemed safe and appropriate
+    Strengthening community prevention of behavioral health conditions through risk-stratified crisis counseling support and broader outreach to promote resilience
+    Leveraging data and technology through predictive analytics to direct prevention and clinical resources to those most at risk for behavioral health issues and unmet basic needs
+    Integrating behavioral and physical health services, including expanding behavioral health capacity through increased behavioral health competency of primary care providers and expanded use of peer counselors, implementing universal screening for mental and substance use disorders, and initiating or accelerating efforts to reduce stigma
+Despite a desire to return to “normal” life, COVID-19 will clearly continue to shape a next normal. Healthcare stakeholders may first prioritize addressing urgent cases related to delayed care, such as those with cardiac or oncology conditions. However, a robust framework for addressing behavioral health concerns will be necessary to manage demand on the system, acknowledging that the full healthcare impact of COVID-19 may not be known for years to come.For questions about the methodology used for the calculations in this article, see the appendix and contact the authors for further detail.

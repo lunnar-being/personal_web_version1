@@ -1,0 +1,332 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Publishing accessible documents
+  
+
+  
+  
+  
+      
+  Learn how to publish accessible documents to meet the needs of all users under the accessibility regulations
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office and Government Digital Service
+
+      
+      Published
+      18 August 2020
+      Last updated
+      
+        1 July 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Writing accessible documents
+
+        
+        
+          Making non-HTML documents accessible
+
+        
+        
+          Creating a PDF/A for archiving purposes
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Writing accessible documents
+Follow these steps when you write a document. If you have questions, contact your website publishing team.
+
+1. Think about format
+
+Doing this will help your document support as many users as possible and can future-proof your information.
+
+Publish in HTML format wherever possible so that your documents use your users’ custom browser settings. It can be difficult to make other formats easier to read. For example, PDF documents:
+
+
+  can make your content harder to find, use and maintain
+
+  do not work well with assistive technologies like screen readers a lot of the time
+
+
+If your documents do not meet accessibility standards you could be breaking the Equality Act 2010.
+
+Contact the team responsible for your website to find out more about how to publish in HTML.
+
+2. Keep the language simple
+
+Use clear and simple language.
+
+Simple language makes your document accessible to people with cognitive impairments and learning disabilities.
+
+Research shows that most users prefers simple language, including specialist audiences. This helps users to understand and process information quickly.
+
+Where you need to use technical terms, abbreviations or acronyms, explain what they mean the first time you use them.
+
+3. Keep the document structure simple
+
+Give the document a meaningful title.
+
+Keep sentences and paragraphs short. Aim for around 25 words or less per sentence.
+
+Use a sans serif font like Arial or Helvetica. Use a minimum size of 12 points.
+
+Use sentence case. Avoid all caps text and italics.
+
+Make sure the text is left aligned, not justified.
+
+Avoid underlining, except for links.
+
+Make sure link text clearly describes where the link goes. It should also be understandable on its own, even if read out of context. This is because some screen reader users list links on a page to find what they need quickly.
+
+Documents with single continuous columns of text are easier to make accessible than documents with a complex layout.
+
+Only use tables for data. Keep tables simple: avoid splitting or merging cells.
+
+Do not use things like colour or shape alone to show meaning. Instructions like ‘click the big green button’ rely on the user to see the page and someone who is colour blind may not see the green button.
+
+If you’re using images or charts, think about how you’ll make the content accessible to people with a visual impairment. Two options are:
+
+
+  make the same point in the text of the document (so people with visual impairments get the information they need - the image or chart is there as an extra for people who are able to see it)
+  give the person converting or uploading the document for you alt text (‘alternative text’) for the image or chart
+
+
+Do not use images containing text, as it’s not possible to resize the text in the image and screen readers cannot read text which is part of an image.
+
+Avoid footnotes where possible. Provide explanations inline instead.
+
+4. Give the document a structure
+
+Break up your document to make it more readable. Use bullet points, numbered steps and meaningful subheadings.
+
+Do not use bold to mark up subheadings. Use styles to create a hierarchy of headings: ‘heading 1’, ‘heading 2’ and so on.
+
+Use styles for tables and bullet lists. That way, a screen reader will recognise the formatting and read out the content correctly.
+
+Ask your website publishing team if you’re not sure how to do this.
+
+Follow the guidance on structuring and tagging your document in an accessible way if you’re using:
+
+
+  
+Adobe Acrobat or Adobe Acrobat Pro
+
+  LibreOffice
+  Microsoft Office
+
+
+5. Forms, complex documents and other office formats
+
+Build forms in HTML where possible or build digital services using components from GOV.UK design system.
+
+Publish forms in OpenDocument (.odt) if you cannot use HTML.
+
+If you’re creating another type of office document (for example a spreadsheet or presentation), there’s guidance on how to make it accessible on the Accessible Digital Office Document Project website.
+
+Making non-HTML documents accessible
+
+GOV.UK
+
+Turn existing PDFs into: 
+
+
+  HTML if it is to be viewed
+  an OpenDocument if it is to be edited, such as a form
+
+
+Read more about which open format to publish your document in. 
+
+If you need to keep the PDF, you must publish an accessible version with it. If you do not, you may be breaking the law.
+
+It’s simpler to create HTML from an OpenDocument or Word Document than it is to try to make a PDF accessible for all users. You can use the govspeak preview app and a Markdown tables generator to help you with the Markdown.
+
+Other government websites
+
+Turn existing PDFs into HTML to improve accessibility and to reach as many users as possible. You need the source document to create an HTML webpage.
+
+Creating a new document as PDF is a last resort and should be avoided unless there is a specific business need. You should always provide an HTML version too.
+
+Make sure your source document is accessible before you convert to PDF. You can find tutorials on how to improve PDF accessibility on office suites.
+
+Once you convert it into a PDF and use an accessibility checker to check for issues you may have missed.
+
+Make sure you meet government accessibility requirements and WCAG 2.1 standards.
+
+Creating a PDF/A for archiving purposes
+
+PDF/A is an open standard for archiving government documents intended for downloading or long term digital storage. The ‘A’ stands for archiving. It does not relate to accessibility.
+
+Saving your document as PDF/A means the document will continue to work for a long time after it’s published, even if things like fonts you used to create it are no longer supported.
+
+Many office suites will let you save documents directly into PDF/A format. If your software does not, you will need to use another programme to convert it to PDF/A.
+
+Do not scan non-digital documents and convert them into a PDF/A as users will not be able to search the content and it won’t be read by a screen reader. The quality may also suffer making it hard to read for all users.
+
+First, convert the scanned text using Optical Character Recognition (OCR). Then convert to PDF/A to make the document more accessible to screen reader users.
+
+PDF and PDF/A cannot be made fully accessible to all users of assistive technology. You should publish an accessible version with the PDF/A.
+
+
+
+
+      
+        
+    Published 18 August 2020
+    Last updated 1 July 2021
+      + show all updates
+      
+        
+            
+              1 July 2021
+              Added more information to clarify that PDF and PDF/A are never fully accessible to every type of assistive technology. 
+Retagged to GDS as well as CDDO because this is a jointly owned page.
+            
+            
+              4 December 2020
+              Section added to explain that PDFs on GOV.UK must either become HTML, or have an HTML or other OpenDocument version to meet accessibility standards.
+            
+            
+              18 August 2020
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Sample accessible document policy
+        Content design: planning, writing and managing content
+        Support for government publishers
+        How to publish on GOV.UK
+        Style guide
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

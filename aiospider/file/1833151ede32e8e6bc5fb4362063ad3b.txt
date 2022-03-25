@@ -1,0 +1,132 @@
+
+
+The RAND Blog
+Previous Blog PostDo We Know How to Treat Alcohol Misuse in Women?Next Blog PostBe Wary of Proposals for Less Defense Budget Transparency
+
+The Unintended Consequences of a Proposed Cure for COVID-19
+commentary
+(The Hill)
+Laura Ng, who has lupus, had to call at least five pharmacies before she was able to fill her hydroxychloroquine prescription, in Seattle, Washington, March 31, 2020Photo by Lindsey Wasson/Reuters
+
+
+
+by Samantha McBirney, Sangita M. Baxi, Krishna B. Kumar, Todd A. Richmond
+April 29, 2020
+
+
+The very discussion of chloroquine and hydroxychloroquine as therapeutic options against COVID-19 has decreased their availability for proven treatments, exacerbated global shortages, fueled an already rampant counterfeit drug market in Africa and worsened trade tensions.
+Each day in Africa, more than 1,000 people die of malaria, in part driven by shortages of these proven anti-malarial treatments. These drugs are also FDA-approved treatment options for the 1.3 million Americans who suffer from rheumatoid arthritis and the 1.5 million who suffer from Lupus. Chloroquine is known to have antiviral and anti-inflammatory effects, garnering attention as a candidate for COVID-19 treatment. But at this point, there is no definitive evidence that these drugs work to treat COVID-19, and they remain as unproven options still under investigation.
+Immediately after these drugs were promoted as possible treatments, in the United States, hospital orders were up 3,000 percent for chloroquine and 260 percent for hydroxychloroquine from March 1 to March 17. This skyrocketing demand has now created an official nationwide shortage in the United States of both drugs. Part of this shortage is driven by medical professionals who may be inappropriately prescribing the medicines. Over-prescription has become so common that several states have restricted prescribing of the drugs, including Texas, Ohio, and West Virginia. Hoarding of these drugs has also deprived many patients with lupus and rheumatoid arthritis of their needed medication.
+Claims made about these drugs in the United States also immediately began trending across social media in Africa, resulting in the stockpiling of these drugs in many African countries. Malaria remains a leading cause of morbidity and mortality in the developing world, with the disease burden resting primarily in sub-Saharan Africa, where chloroquine-based drugs are commonly used for treatment. In most areas, these drugs can be bought over the counter without a prescription. Nigeria accounts for the most malaria cases worldwide (a global share of 25 percent) and deaths (24 percent). Pharmacies there have reported running out of the drugs, and several patients who had access to chloroquine have died after overdosing, presumably in an attempt to stave off the virus.
+In a controversial move, the FDA has since approved both chloroquine and hydroxychloroquine for emergency use in COVID-19 patients. These and other drugs are currently being tested in the international clinical trial Solidarity to determine if they can be repurposed as COVID-19 treatments. In response, drug manufacturers are beginning to ramp up production to meet the potential need if these drugs prove to be effective.
+Antimalarials are already widely counterfeited in much of sub-Saharan Africa, and the uncertain dynamics caused by the increased supply and demand will likely increase this. A global pandemic offers criminals the opportunity to take advantage of unparalleled demand. While the United States and Europe have measures in place to protect against fraudulent products related to COVID-19, regulatory systems are far from foolproof, especially in countries that are completely lacking a regulatory system or enforcement agency.
+When hydroxychloroquine was mooted as a treatment option for COVID-19, India stopped exports of the drug in to order prioritize availability for its own nationals. India is one the largest producers of the drugs and historically supplies half of American needs. It soon lifted the ban upon threat of retaliation from the United States. The United Kingdom had earlier banned parallel exports (reexporting to other European countries) of these drugs. The world was already at the brink of a trade war at the onset of the COVID-19 crisis, and the current fight is likely to exacerbate trade tensions and hamper economic recovery after the crisis.
+Education of the broader public by scientists about the science behind the use, and abuse, of chloroquine and hydroxychloroquine is critical.Share on TwitterWhat can be done to deal with the unintended consequences caused by the elevated profile of these drugs? Continuing to adhere to the prevention guidelines that the CDC has put forth is of the utmost importance as this helps reduce the number of overall cases and, therefore, the demand for any kind of treatment. Education of the broader public by scientists about the science behind the use, and abuse, of chloroquine and hydroxychloroquine, through accessible and effective communication, is critical. While it is possible that future clinical trials prove their efficacy against COVID-19, the studies that have been done up to this point lack scientific rigor, and there is tremendous risk to those who use these drugs without understanding the potential side effects. For instance, a Brazilian trial of chloroquine had to be halted after some patients developed dangerous heart rhythm problems.
+And if these drugs are proven safe for COVID-19 treatment, FDA prescription guidelines for the different uses could be critical. Also important, given competing treatment needs, is a stable supply of these drugs from verified sources to be available for their intended purposes. This is particularly important in African countries that may not have the political clout to engage in a trade war with more prosperous countries. Detection of counterfeit antimalarials in Africa and enforcing disciplinary actions could be stepped up in order to save lives. And that work could benefit all countries if pandemics and the resulting panic treatments recur.
+It would be tragic indeed if, under the pretext of saving lives from one novel disease, the world loses lives to others that have hitherto had treatment options.
+
+Samantha McBirney is an engineer at the nonpartisan, nonprofit RAND Corporation, where she has been studying counterfeit anti-malarial drugs in Africa. Sangita Baxi is an assistant policy analyst at RAND. Krishna B. Kumar directs the Pardee Initiative for Global Human Progress at the Pardee RAND Graduate School, where Todd Richmond directs the Technology and Narrative Lab.
+This commentary originally appeared on The Hill on April 29, 2020. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Samantha McBirney
+Engineer
+
+
+
+Sangita M. Baxi
+@sangitabaxi
+Assistant Policy Researcher; Ph.D. Candidate, Pardee RAND Graduate School
+
+
+
+Krishna B. Kumar
+@kbkumar_
+Director, RAND International Research; Distinguished Chair in International Economic Policy; Senior Economist; Director, Initiative for Global Human Progress, Pardee RAND Graduate School
+
+
+
+Todd A. Richmond
+Director, Pardee RAND Tech + Narrative Lab; Professor, Pardee RAND Graduate School; Adjunct Research Staff
+
+
+
+
+
+
+Topics
+ Coronavirus Disease 2019 (COVID-19)
+Evidence Based Health Practice
+Pandemic
+Pharmaceutical Drugs
+Supply Chain Management
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Commentary
+The Justice System and the COVID-19 Pandemic: Resources for Policymakers
+
+Apr 20, 2020
+Bethany Saunders-Medina
+
+
+
+
+
+
+
+
+
+
+Report
+A Mechanism to Reduce Medical Supply Shortfalls During Pandemics
+
+Apr 16, 2020
+Elizabeth Hastings Roer, Isla Globus-Harris
+
+
+
+
+
+
+
+
+
+
+Commentary
+Supply Chain Disruptions Due to COVID-19 and Social Distancing
+
+Apr 28, 2020
+Aaron Strong @resourceecon, Jonathan Welburn @jwwelburn
+
+
+
+
+
+
+
+

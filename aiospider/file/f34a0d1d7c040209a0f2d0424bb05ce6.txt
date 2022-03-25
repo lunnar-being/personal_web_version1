@@ -1,0 +1,73 @@
+    
+
+
+
+ have demonstrated that people can rapidly change their behaviors during the acute phase of a crisis—for example, through high initial compliance with lockdowns and large-scale shifts to working from home. However, sustaining those changes for a prolonged period is more difficult.COVID-19 will be with us for many months, perhaps years, to come. Societies face the challenge of resuming as many normal activities as possible while preventing a resurgence in the number of cases. To do so, they need strategies to sustain changes in behavior, such as the use of face masks and physical distancing, over time. Recommended behaviors will continue to emerge as new scientific evidence surfaces. As UN Secretary-General António Guterres put it, “None of us is safe until all of us are safe.”Much has been written about actions that countries and companies can take to fight virus spread and reopen safely. But government edicts and corporate policies depend on human behavior to be effective.  shows that compliance isn’t always the greatest motivator. We believe that instead of relying on compliance and enforcement, leaders now have an opportunity to shift to addressing the underlying thoughts, feelings, and beliefs that ultimately determine whether people will change. Getting “” of what motivates individuals to act is crucial to  crisis.Enter the , which has four interrelated and evidence-based practices to drive mindset and behavior change: offering clear and consistent messaging to foster better understanding of the coronavirus, using formal mechanisms to shape safe behavior, teaching practical skills to instill confidence, and leveraging role models who reinforce new norms. Decision makers can use the influence model at scale to promote public health, employee safety, and customer confidence for the long term.
+    
+
+
+	
+
+
+
+
+    
+    
+
+Applying the model: Public health and the workplaceLarge-scale organizational change has always been difficult, and that has been truer than ever during the pandemic.  to external shocks, supply-chain changes, shifts in the marketplace and their core businesses, employee health and safety, and other factors. Countries must keep people safe and reopen economies.
+
+
+
+
+    
+
+Research has shown that one of the primary blocks to sustainable change can be traced to , which fall into the categories of “I am not allowed,” “I can’t,” or “I won’t.” Mindsets underlie behaviors, which lead to outcomes (see sidebar, “Why changing behavior is like playing whack-a-mole”).  can guide organizations through comprehensive transformations by addressing those underlying mindsets. It consists of four elements that work best in concert (Exhibit 1):
+    understanding and conviction
+    reinforcement with formal mechanisms
+    confidence and skill building
+    role modeling
+
+    
+In the context of the COVID-19 crisis, decision makers can implement the four elements of the influence model to address broader societal and public-health issues.Understanding and convictionWe know from research that human beings strive for congruence between their beliefs and their actions, experiencing discomfort when they are misaligned.
+
+
+ Believing in the “why” behind a change can therefore inspire people to change their behaviors. In practice, however, we find that many leaders incorrectly assume that the reason is obvious or universal—and so fail to communicate it sufficiently or at all.“Why” messaging during the crisis is an important opportunity, but it has a mixed record. Some early information came across as inconsistent, constantly changing, or even alarmist. Many people reacted negatively to that confused messaging.Leaders can take the following actions to implement understanding and conviction during the COVID-19 crisis:
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     When Washington State emerged as one of the early COVID-19 hot spots in the United States, scientists, not politicians, delivered clear and comprehensive messages about the coronavirus. This aligned with the Centers for Disease Control and Prevention’s  (Oxford University Press, 2019), which discusses how scientific experts should communicate with the public by being transparent and empathetic. The manual also cautions that they must “not over-reassure or overpromise.”
+
+
+ For organizations, that may mean having senior leaders publicly partner with a scientific advisor and share updates in consultation with that advisor. Senior leaders may also transparently acknowledge that their decisions are tied to data.
+    The compelling “why” for one individual may not resonate with another person.  has shown that employees derive meaning across five sources: having a positive impact on , wanting the best for their , providing superior service for their , having positive relationships with their , and reaching their development goals. Leaders have an opportunity to tell five stories at once regarding why safety precautions matter to each group, reaching a wider audience.
+Reinforcement with formal mechanismsThe reinforcement lever is often misunderstood as a novel way of enforcing compliance. While formal reinforcement mechanisms include policies and regulations, they also make it easier to do the right thing by removing barriers and providing positive reinforcement (versus punishing for doing the wrong thing). That is in line with what has been widely studied in behavioral psychology: associations and consequences shape behavior.
+
+
+Leaders can take the following actions to implement reinforcement:
+     In crowded and closed spaces (such as subways and stores), it makes sense to deny entry to people without a mask. But  into safer behavior, consider providing single-use masks to those who did not bring their own, installing hand sanitizers at entryways, and painting or adding  stickers where lines form to mark six-foot spacing.  is not nagging: it’s about choice, easy to follow, and personal.
+    Community centers, grocery stores, government offices, and places of worship are great channels for distributing masks. Many companies have sent employees cloth masks for themselves and their families, and universities that are reopening have sent returning students kits with masks, wipes, and other health-safety items.
+    People are receiving information about COVID-19 from all sides. Simplifying it—for example, by showing incremental case counts and total case counts paired with mobility data—may provide enough information for people to be confident that their contributions are effective and being recognized.
+Confidence and skill buildingConfidence and skill building come down to ensuring that people have the information and skills required to do things differently—and feel able to do so. When individuals are confident in their ability to change, they can create a self-fulfilling prophecy.Leaders can take the following actions to implement confidence and skill building:
+     Emphasize how individuals can protect themselves and others. Simple lessons, such as on how to adjust a mask so that it fits well and what physical distancing entails, are already in place. More targeted measures personalized to specific environments, such as on how to hold a shop-floor briefing and how to interact with customers, may help as well. Continue to emphasize them through multiple channels, including posters, emails, bite-size lessons, and more.
+     For manufacturing, build in hand-washing breaks and other actions to augment a safety culture. Line-led training can allow individuals to handle unforeseen situations. For example, a logistics company saw that workers weren’t wearing masks in a warehouse. Further conversations revealed that employees found the environment too hot to wear masks full time. The solution was to have employees wear masks when stacking boxes in a group but to relax the mandate when they were moving around in vehicles or on ladders, where they were, by definition, at a distance from others.
+     Employees in customer-facing situations can be provided training on how to interact and de-escalate situations in which customers are unwilling to wear masks and how to observe safe behavioral norms.
+     Japan’s “three Cs” (avoid close contact, crowded areas, and closed spaces) is a simple yet effective message that leaves room for individual judgment and promotes education as the situation changes.
+Role modelingPeople mimic and learn—both consciously and subconsciously—from the individuals and groups that surround them. One of the best ways to drive the adoption of new behaviors is by ensuring that the people who individuals trust most are modeling the appropriate behaviors. Marketing professionals have known for years that what might resonate with one population won’t with another. A local sports star who endorses a product will likely elicit a different reaction if that endorsement is played in a rival city. The same is true across populations during the COVID-19 crisis.Leaders can take the following actions to implement role modeling:
+     When interacting with other leaders or with the public, such role modeling is essential. For example, some public officials, despite their earlier skepticism, have begun wearing masks in public.
+     Share stories of influential people voluntarily quarantining after testing positive for COVID-19 or coming into contact with a person who has it. Tom Hanks and Rita Wilson drew praise for self-quarantining in Australia after they tested positive for COVID-19. Organizations with strong branding power, such as sports teams, may consider lending their brands to promote safe masking.
+     Earlier in the pandemic, many leaders engaged in , such as giving up their salaries and donating their bonuses to charities that fight COVID-19. Regarding safety, many industrial and mining companies, for example, often incorporate “safety moments” as a mandatory first agenda item of meetings. In that spirit, leaders might consider a new ritual that in-person meetings start only when everyone is masked.
+Tailoring the model: Individuals and groupsThe influence model’s four levers are most effective when they are deployed together and customized to individuals or groups. For instance, government leaders and public-health officials can tailor the four elements differently, depending on whether people have dependents living with them or not (Exhibit 2).
+    
+Employers have even more ability to tailor the influence model to ensure that their employees feel it is safe to return to work—and perhaps even provide comfort to customers. Companies discovered that opportunity as remote working took hold: some people are responding better to working from home than others, and approaches that are  have a better chance of succeeding (Exhibit 3).
+    
+
+    
+A recent campaign to reduce the use of handheld cell phones while driving is a good example of how the four levers of the influence model can come together to change behaviors. The outcome was a dramatic drop in the use of handheld cell phones by drivers, particularly those aged 16 to 24, between 2009 and 2018 (Exhibit 4).
+    
+We all look forward to the day when we can, as much as possible, resume our normal lives. But the COVID-19 pandemic is a medium-term reality rather than a short-term challenge. We have learned a great deal about the coronavirus and how to reduce the risk of transmission. Applying the influence model can help drive the adoption of safe behaviors that light the way to the end of the tunnel.

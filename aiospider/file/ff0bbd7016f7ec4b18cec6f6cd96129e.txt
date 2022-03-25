@@ -1,0 +1,21 @@
+GPS is everywhere—on your phone, in your car, even on your wrist—but what the heck even is it and how does it work?GPS is short for Global Positioning System. It’s a satellite-based navigation system that helps people find their precise location on Earth. 
+
+
+
+
+Before GPS, navigation involved paper maps or very specialized tools like sextants and chronometers. Now, satellites orbiting the Earth 12,000 miles up can guide pizza delivery drivers to your house before the cheese cools.Back in 1973, the military began looking for a reliable, accurate means of electronic navigation. Existing systems didn’t always work accurately enough for military purposes, and some were vulnerable to an enemy attack.
+
+
+
+
+The system that was developed allowed a GPS receiver to connect to three or more satellites to trilaterate their position, but it was limited to military use until the 1980s. President Ronald Reagan made it available to the world after a Korean airliner was shot down by Soviet fighters when it strayed off course due to navigational errors.
+
+
+
+
+GPS is still owned by the U.S. government and the satellites are operated by the Air Force, though it’s available for use by anyone in the world with a GPS receiver.Technological advances have improved GPS’ accuracy, and the newest systems will allow a user to pinpoint their position to within less than a foot.
+
+
+
+
+

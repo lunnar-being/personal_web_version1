@@ -1,0 +1,632 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Maintain your systems on the Public Services Network (PSN)
+  
+
+  
+  
+  
+      
+  IT managers should now be planning how to migrate their PSN services to the cloud.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Cabinet Office
+
+      
+      Published
+      4 November 2014
+      Last updated
+      
+        26 February 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Ensure you are PSN compliant
+
+        
+        
+          Get network resources
+
+        
+        
+          Consider encrypted WAN Connectivity
+
+        
+        
+          Request changes from service providers
+
+        
+        
+          Install the new connection and configure your environment
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Look at the services your organisation uses, and work out whether and how you can migrate them from the PSN to the cloud.
+
+The moving to modern network solutions guidance will help your organisation on this journey.
+
+Ensure you are PSN compliant
+You should continue with any work needed to secure and maintain your network to ensure it meets the existing security standards. Find out about PSN compliance here.
+
+Get network resources
+You can still request IP addresses and get approval to use your Domain Name System (DNS) name on PSN from the PSN team, although these will now be assessed in light of the move to adopt Technology Code of Practice across government.
+
+You can use your own public IP addresses, but you may qualify for an allocation of IP addresses from the PSN team. Complete an IP address allocation form, making sure that you understand and agree to the terms and conditions.
+
+The PSN team will allocate IP addresses if your request is approved.
+
+In some cases, we have delegated blocks of our IP addresses to third parties. If you need addresses for the following purposes, you should contact the relevant organisation directly.
+
+
+  
+    
+      Purpose of the IP addresses
+      Contact
+    
+    
+      
+PSN connections for HMRC
+      HMRC
+    
+    
+      
+PSN connections for Home Office
+      Home Office Technology
+    
+    
+      
+PSN connections for Police
+      
+PSN in Policing
+    
+    
+      UK Cloud PSN cloud services
+      UK Cloud
+    
+    
+      CSC PSN cloud services
+      CSC
+    
+  
+
+
+Nominet is the government’s DNS Provider offering a secure DNS service. You should buy this DNS service through CCS and then complete the following form to request access to use the DNS Service.
+
+Note: As of 31 March 2021 this service replaces the DNS procurement process and DNS service via the legacy GSi Convergence Framework (GCF). The GCF Service is no longer available.
+
+Consider encrypted WAN Connectivity
+You may want encryption on your network service. To do this:
+
+
+  choose a supplier that offers an IPED-connected encryption service
+  make sure the supplier knows which services you need access to
+  make sure you understand what the timescales are for you to be able to access these services
+
+
+Read the Inter-Provider Encryption Domain (IPED) service document to learn more about using encryption on PSN.
+
+Request changes from service providers
+You must make sure you have access to the PSN services you need from your new connection. The PSN team will provide new IP addresses for new customers connecting to the network. Make sure that you know all the services that you’re currently accessing and contact the service owners so they can make any technical changes required to give you access.
+
+Install the new connection and configure your environment
+Your connectivity supplier will do the physical installation and configuration of the PSN connectivity service. There can be a lead time of approximately 9 weeks between ordering the circuit to installation. You also need to confirm with your supplier that they have got Government Conveyance Network (GCN) connectivity. If they don’t you’re unlikely to be able to access other government services on PSN.
+
+If you have services bought through the GCF framework you need to complete and return a request for change (RFC) to our current core services provider, Vodafone. You need to complete this no later than 6 weeks before the date you want to transition. You will need your PSN IP address to complete the RFC form.
+
+Your supplier will provide specific technical details about connecting to their network following an order. We have also set out below technical steps to follow to successfully connect to PSN.
+
+Configure your firewall
+You will need to configure your firewall to access the services you need. A typical rule set is:
+
+
+  
+    
+      From
+      To
+      Protocol
+      Action
+      Comment
+    
+    
+      Your proxy/NAT
+      PSN
+      HTTP (TCP:80) HTTP (TCP:8080) HTTPS (TCP443)
+      Allow
+      Enable outbound access to applications within the PSN using HTTP & HTTPS
+    
+    
+      PSN
+      Your web services
+      HTTP (TCP:80) HTTPS (TCP:443)
+      Allow
+      Enable outbound access to applications within the PSN using HTTP & HTTPS
+    
+    
+      PSN
+      Your email servers
+      SMTP (TCP:25)
+      Allow
+      Enable inbound email from PSN
+
+    
+    
+      Your DNS servers
+      
+PSN DNS servers
+      
+DNS (UDP:53) DNS (TCP:53)
+      Allow
+      Allow queries to the PSN DNS servers
+    
+    
+      Any
+      Any
+      Any
+      Block
+      Default rule for all other traffic
+    
+  
+
+
+Configure your DNS servers to use Nominet
+Nominet provides the primary DNS servers and resolvers for the following domains:
+
+
+  *.gsi.gov.uk
+  *.gse.gov.uk
+  *.gsx.gov.uk
+  *.gcsx.gov.uk
+
+
+The IP addresses of the PSN DNS resolvers that you should configure on your DNS servers are 51.33.255.42 and 51.33.255.58, both accessible using DNS on UDP Port 53.
+
+
+All gsi-family domain names (gsi.gov.uk, gse.gov.uk, gcsx.gov.uk or gsx.gov.uk) must now be replaced with a government domain like gov.uk, gov.scot, llyw.cymru or gov.wales.
+
+
+Note: Network Time Protocol (NTP) service is no longer provided.
+
+IP addresses reachable on PSN
+
+The summary blocks of IP addresses in the table below are set aside for use on PSN, and reachable from PSN.
+
+If you are a PSN customer, you can choose to configure your firewalls so your users can route to some or all of these summary blocks. Alternatively, each of your service providers will confirm with you what specific IP address ranges their services are on.
+
+If you are a PSN service provider you must use this list to maintain routing between all points on PSN. This will simplify your routing tables and firewall rules and minimise the cost of change as new end-points connect.
+
+Any organisation may set aside a summary block of IP addresses that they own for use on PSN, and assign ranges within this block for individual customer end-points. When a summary block fills up, the organisation may set aside a new one.
+
+If your organisation owns IP addresses and has set some aside for the PSN shared services VPN, then the PSN IP address management obligations require you to notify the PSN team of each summary block you have set aside for PSN, and state whether it is for PSN Assured or PSN Protected use.
+
+IP address summary blocks set aside for use on PSN:
+
+
+  
+    
+      IPv4 Block
+      Owner
+      Purpose
+    
+    
+      5.153.248.0/24
+      Memset
+      
+PSN Protected
+    
+    
+      51.33.0.0/16
+      
+PSN team
+      
+PSN Assured
+    
+    
+      51.130.0.0/16
+      
+PSN team
+      
+PSN Assured
+    
+    
+      51.147.0.0/16
+      
+PSN team
+      
+PSN Assured
+    
+    
+      51.231.0.0/16
+      
+PSN team
+      
+PSN Protected
+    
+    
+      51.238.0.0/16
+      
+PSN team
+      
+PSN Protected
+    
+    
+      51.239.0.0/16
+      
+PSN team
+      
+PSN Protected
+    
+    
+      51.242.0.0/16
+      
+PSN team
+      
+PSN Protected
+    
+    
+      51.243.0.0/16
+      
+PSN team
+      
+PSN Protected
+    
+    
+      51.247.0.0/16
+      
+PSN team
+      
+PSN Protected
+    
+    
+      88.64.20.0/24
+      Unify
+      
+PSN Assured
+    
+    
+      88.64.21.0/24
+      Unify
+      
+PSN Protected
+    
+    
+      109.234.170.0/24
+      Thales
+      
+PSN Assured
+    
+    
+      109.234.171.0/24
+      Thales
+      
+PSN Assured
+    
+    
+      109.234.172.0/24
+      Thales
+      
+PSN Assured
+    
+    
+      109.234.173.0/24
+      Thales
+      
+PSN Protected
+    
+    
+      109.234.174.0/24
+      Thales
+      
+PSN Assured
+    
+    
+      109.234.175.0/24
+      Thales
+      
+PSN Protected
+    
+    
+      137.221.131.248/29
+      Convergence Group
+      
+PSN Assured
+    
+    
+      137.221.133.32/29
+      Convergence Group
+      
+PSN Assured
+    
+    
+      137.221.176.0/21
+      Convergence Group
+      
+PSN Assured
+    
+    
+      188.92.140.128/25
+      Thales
+      
+PSN Protected
+    
+  
+
+
+IP address summary blocks used for other government networks reachable from PSN, that the PSN team is aware of:
+
+
+  
+    
+      IPv4 Block
+      Purpose
+    
+    
+      20.146.120.128/25
+      HSCIC N3
+    
+    
+      20.146.248.128/25
+      HSCIC N3
+    
+    
+      51.62.0.0/18
+      legacy GCSX
+    
+    
+      51.63.0.0/16
+      legacy GSI, GSE, GSX, xGSI
+    
+    
+      51.64.0.0/16
+      legacy PNN SCN
+    
+    
+      51.65.224.0/19
+      legacy PNN CJX
+    
+    
+      51.67.224.0/19
+      legacy PNN CJX
+    
+    
+      62.208.251.0/24
+      legacy PNN SCN
+    
+    
+      155.231.0.0/16
+      HSCIC N3
+    
+    
+      194.189.100.144/28
+      HSCIC N3
+    
+    
+      194.189.111.96/27
+      HSCIC N3
+    
+    
+      194.189.111.224/27
+      HSCIC N3
+    
+    
+      194.189.113.128/27
+      HSCIC N3
+    
+  
+
+
+Gateways to other networks and access to government information sources
+You need to identify all services and organisations that you communicate with. Some of these may be outside PSN. Email is allowed to move between these networks but for other services, like web traffic (HTML), you’ll need:
+
+
+  
+    the provider of the service or network to give you permission
+  
+  
+    a public sector interconnect provider to enable routing between your organisation and the required service or network
+  
+  
+    the provider of the service to enable access to the specific services you need
+  
+  
+    your local IT team and your connectivity service provider to make sure that you can route to the destination IP address ranges, as described in IP Routing
+  
+  
+    your local IT team and the external service provider to configure the required services appropriate to your users’ needs
+  
+
+
+The external networks that you can currently access through this route are:
+
+
+  NHS N3 network
+  European Council of Ministers network
+  Criminal Justice Extranet (CJX)
+  Police National Network (PNN)
+  Criminal Justice Secure Mail
+  Various European Union Government Intranets (TESTA)
+
+
+
+
+
+
+      
+        
+    Published 4 November 2014
+    Last updated 26 February 2021
+      + show all updates
+      
+        
+            
+              26 February 2021
+              This guidance has been updated to reflect a change in supplier and to help organisations with their migration to modern networks.
+            
+            
+              8 November 2016
+              Table Update
+            
+            
+              4 November 2014
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        How Cafcass migrated off the PSN
+        Hackney Council’s approach to moving to a cloud-first model from the PSN
+        Apply for a Public Services Network (PSN) connectivity service compliance certificate
+        Apply for a Government Conveyancing Network (GCN) connectivity service compliance certificate
+        Recommended open standards for government
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Government efficiency, transparency and accountability
+        Civil service reform
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

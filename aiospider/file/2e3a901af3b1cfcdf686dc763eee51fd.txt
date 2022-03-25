@@ -1,0 +1,124 @@
+
+
+Public and private organizations are increasingly aware of the potential value of data and analytics to improving organizational performance and outcomes. This report examines how the private sector addresses data governance and analytics to inform how the Department of Defense can develop and apply advanced analytics to acquisition challenges.
+
+
+
+
+Read Online
+
+Benchmarking Data Use and Analytics in Large, Complex Private-Sector Organizations
+Implications for Department of Defense Acquisition
+by Jeffrey A. Drezner, Jon Schmid, Justin Grana, Megan McKernan, Mark Ashby
+Related Topics: Big Data, Data Analysis, Military Acquisition and Procurement, Performance Measurement, United States Department of Defense
+CitationEmbed
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+Download Free Electronic Document
+
+FormatFile SizeNotes
+
+
+
+
+PDF file
+
+
+0.2 MB
+Use Adobe Acrobat Reader version 10 or higher for the best experience.
+
+
+
+
+
+
+
+
+
+
+Research Questions
+
+How can data collection be benchmarked and used in large, complex commercial enterprises — in particular, advanced data science techniques and analytics?What lessons are applicable to the DoD acquisition data and analytics environment, and how can DoD acquisition analytics capabilities be improved?
+
+
+
+Public and private organizations are increasingly aware of the potential value of data and analytics to improving organizational performance and outcomes. The U.S. Department of Defense (DoD) is one of those organizations. Its size, complexity, security needs, and culture have created a challenging environment for successful use of data in decisionmaking. DoD's acquisition data lay an important part of the foundation for decisions about weapon systems. Because the private sector faces similar data challenges, the authors examined commercial data practices that might translate to the DoD acquisition community in the areas of data governance and analytics. Benchmarking select private-sector data governance and analytics practices helps establish a baseline against which DoD practices can be compared. That comparison can be used to identify areas in which DoD could improve and suggests actions or approaches to make those improvements. The authors determined that functions associated with the office of a chief data officer and associated data governance and data management are foundational requirements to pursue an analytics strategy in any organization.
+Key Findings
+
+There is a broad consensus on data governance and analytics guiding principles (i.e., lessons in creating a data-focused organization).
+Data governance and strategy are critical enablers of analytics capability. Emphasis should be on how analytics contributes to an organization's strategic goals.
+Organizational design should be federated: a strong central chief data officer with core governance and analytics function and distributed analytics capabilities within business units.
+Resource requirements for analytics vary widely and are driven by strategic objectives and tailored to where an organization starts (i.e., existing data analytics capabilities).
+Approach implementation using change management strategies. Becoming a data-driven organization was viewed as a transformative change in business processes.
+Data and analytics maturity models reflect commercial benchmarks and provide a road map for improving analytics capabilities.
+
+
+Recommendations
+
+Because data governance and strategy are critical enablers of analytics capability, the Principal Deputy Assistant Secretary of Defense, Acquisition Enablers (PDASD[AE]) should create and maintain a data governance and analytics strategy for acquisition.
+PDASD(AE) should use its position to expand its role in data governance, management, and analytics specific to acquisition to further improve the federated organizational design. This could include expanding the existing Acquisition Visibility Steering Group and Working Group to include analytics.
+DoD leadership needs to see that resources are being spent efficiently. Demonstrating value quickly through the use of analytics activities to help solve or bring clarity to a pressing issue for the organization is one way to justify use of resources for analytics.
+Further maturing the data analytics capability within the DoD acquisition community would be transformative and may require changes or impacts in decisionmaking processes, business processes, organizational structure, and organizational culture.
+The acquisition community within the Office of the Under Secretary of Defense for Acquisition and Sustainment should continue to build on and leverage existing infrastructure, the common data framework for program information, and existing analytics capability.
+
+
+
+Research conducted by
+
+RAND National Security Research Division
+
+
+
+This research was sponsored by the Office of the Under Secretary of Defense for Acquisition and Sustainment, Acquisition Enablers, and conducted by the Acquisition and Technology Policy Center within the RAND National Defense Research Institute.This report is part of the RAND Corporation Research report series. RAND reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND reports undergo rigorous peer review to ensure high standards for research quality and objectivity.Permission is given to duplicate this electronic document for personal use only, as long as it is unaltered and complete. Copies may not be duplicated for commercial purposes. Unauthorized posting of RAND PDFs to a non-RAND Web site is prohibited. RAND PDFs are protected under copyright law. For information on reprint and linking permissions, please visit the RAND Permissions page.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: RAND Corporation
+Availability: Web-Only
+ Pages: 20
+DOI: https://doi.org/10.7249/RRA225-1
+Document Number: RR-A225-1
+Year: 2020
+Series: Research Reports
+
+
+
+Explore
+Related Topics
+
+Big DataData AnalysisMilitary Acquisition and ProcurementPerformance MeasurementUnited States Department of Defense
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+Citation
+Format:
+
+ Chicago Manual of Style
+ RAND Corporation Style Manual
+
+Drezner, Jeffrey A., Jon Schmid, Justin Grana, Megan McKernan, and Mark Ashby, Benchmarking Data Use and Analytics in Large, Complex Private-Sector Organizations: Implications for Department of Defense Acquisition. Santa Monica, CA: RAND Corporation, 2020. https://www.rand.org/pubs/research_reports/RRA225-1.html.
+Drezner, Jeffrey A., Jon Schmid, Justin Grana, Megan McKernan, and Mark Ashby, Benchmarking Data Use and Analytics in Large, Complex Private-Sector Organizations: Implications for Department of Defense Acquisition, Santa Monica, Calif.: RAND Corporation, RR-A225-1, 2020. As of December 16, 2021: https://www.rand.org/pubs/research_reports/RRA225-1.html
+
+Download Citation (BibTeX)
+Download Citation (RIS)
+
+
+

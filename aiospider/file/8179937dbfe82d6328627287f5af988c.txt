@@ -1,0 +1,130 @@
+
+
+
+
+Previous News ReleaseCreative Measures Needed to Meet Critical Care Demands of COVID-19; RAND Calculator Can Help Health Officials Plan for Patient SurgeNext News Release$10 Million Gift from Family of Former Defense Secretary Frank Carlucci to Support Pardee RAND Graduate School
+
+
+Future Quantum Computers May Pose Threat to Today's Most-Secure Communications
+
+
+
+For Release
+ThursdayApril 9, 2020
+
+Quantum computers that are exponentially faster than any of our current classical computers and are capable of code-breaking applications could be available in 12 to 15 years, posing major risks to the security of current communications systems, according to a new RAND Corporation report.
+The security risks posed by this new category of computers can be managed if the U.S. government acts quickly, and a centrally coordinated, whole-of-nation approach is the best way to manage those challenges, according to RAND researchers.
+“If adequate implementation of new security measures has not taken place by the time capable quantum computers are developed, it may become impossible to ensure secure authentication and communication privacy without major, disruptive changes,” said Michael Vermeer, lead author of the report and a physical scientist at nonprofit, nonpartisan RAND. “The United States has the means and very likely enough time to avert a quantum disaster and build a safer future, but only if it begins preparations now.”
+Standard protocols for postquantum cryptography that can maintain the current level of computing security are expected to be drafted and released within the next five years.
+However, the nationwide or global transition necessary to implement the standard protocols and mitigate the vulnerability from quantum computing is expected to take decades—far longer than the time that experts estimated would be available for the task, the report finds.
+The report says that the sooner an interoperable standard for postquantum cryptography can be widely implemented, the more the eventual risk will be diminished.
+Building cyber-resilience and cryptographic agility into the digital infrastructure also will offer an opportunity to adopt structural improvements in the use of cryptography in communication and information systems that could improve the nation's ability to respond to both current and future cyber threats.
+If the United States acts in time with appropriate policies, risk reduction measures, a whole-of-government approach, and a collective sense of urgency, it has an opportunity to build a future communications infrastructure that is as safe or safer than the status quo, according to RAND researchers.
+The nation could reap the enormous benefits expected from quantum computing while enhancing privacy and security.
+“The advent of quantum computers presents retroactive risk because information being securely communicated today without postquantum cryptography may be captured and held by others now in order to be decrypted and revealed later once quantum computers are created. This presents a vulnerability that urgently needs to be addressed,” said Evan Peet, a co-author of the report and an economist at RAND.
+Funding for the project was provided by RAND supporters and income from operations.
+The report, “Securing Communications in the Quantum Computing Age: Managing the Risks to Encryption,” is available at www.rand.org.
+This report is part of a broader effort, to envision critical security challenges in the world of 2040, considering the effects of political, technological, social, and demographic trends that will shape those security challenges in the coming decades. The research was conducted within the RAND Center for Global Risk and Security.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+About the RAND Corporation
+The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous.
+
+
+
+
+Media Resources
+RAND Office of Media Relations
+(703) 414-4795
+(310) 451-6913
+media@rand.org
+
+
+Researcher Spotlight
+
+
+
+Michael J. D. Vermeer
+Physical Scientist
+
+
+Michael J. D. Vermeer is a physical scientist at the RAND Corporation. His interests and expertise cover topics related to science and technology policy, criminal justice, national security, cybersecurity, and emerging technologies. He co-leads the Priority Criminal Justice Needs Initiative, a…
+
+
+
+Evan D. Peet
+Economist
+
+
+Evan Peet is an economist at the RAND Corporation and a Pardee RAND Graduate School faculty member. His research focuses on human capital, population health, labor, and environment. Within these topics, Peet has researched infant health, maternal health, the opioid crisis, COVID-19, pollution,…
+
+Explore Our People »
+
+Explore
+All News Releases
+By Date
+Related Topics
+
+Communication SystemsCybersecurityData PrivacyEmerging TechnologiesThe Internet
+
+Explore All Topics »
+
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+Securing Communications in the Quantum Computing Age
+
+Apr 9, 2020
+Michael J. D. Vermeer @MJDVermeer, Evan D. Peet
+
+
+
+
+
+
+
+
+
+
+Project
+Security 2040
+
+Apr 23, 2018
+
+
+
+
+
+
+
+
+
+
+Article
+Quantum Computers Will Break the Internet, but Only If We Let Them
+
+Apr 9, 2020
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Research Topics:Homeland Security and Public Safety/Homeland Security/Critical Infrastructure Protection/Cybersecurity","Research Topics:Cyber and Data Sciences/The Internet","Research Topics:Science and Technology/Cyber and Data Sciences/Data Science/Data Privacy","Research Topics:Infrastructure and Transportation/Infrastructure/Communication Systems","Content Types:News Release","Research Topics:Science and Technology/Emerging Technologies"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Cybersecurity","value":"research-topics:homeland-security-and-public-safety/homeland-security/critical-infrastructure-protection/cybersecurity"},{"display":"The Internet","value":"research-topics:cyber-and-data-sciences/the-internet"},{"display":"Data Privacy","value":"research-topics:science-and-technology/cyber-and-data-sciences/data-science/data-privacy"},{"display":"Communication Systems","value":"research-topics:infrastructure-and-transportation/infrastructure/communication-systems"},{"display":"News Release","value":"content-types:news-release"},{"display":"Emerging Technologies","value":"research-topics:science-and-technology/emerging-technologies"}];})();
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Research Topics:Homeland Security and Public Safety/Homeland Security/Critical Infrastructure Protection/Cybersecurity","Research Topics:Cyber and Data Sciences/The Internet","Research Topics:Science and Technology/Cyber and Data Sciences/Data Science/Data Privacy","Research Topics:Infrastructure and Transportation/Infrastructure/Communication Systems","Content Types:News Release","Research Topics:Science and Technology/Emerging Technologies"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Cybersecurity","value":"research-topics:homeland-security-and-public-safety/homeland-security/critical-infrastructure-protection/cybersecurity"},{"display":"The Internet","value":"research-topics:cyber-and-data-sciences/the-internet"},{"display":"Data Privacy","value":"research-topics:science-and-technology/cyber-and-data-sciences/data-science/data-privacy"},{"display":"Communication Systems","value":"research-topics:infrastructure-and-transportation/infrastructure/communication-systems"},{"display":"News Release","value":"content-types:news-release"},{"display":"Emerging Technologies","value":"research-topics:science-and-technology/emerging-technologies"}];})();
+

@@ -1,0 +1,333 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Share, reuse and collaborate
+  
+
+  
+  
+  
+      
+  Avoid duplicating effort and unnecessary costs by collaborating across government and sharing and reusing technology, data, and services.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      6 November 2017
+      Last updated
+      
+        31 March 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Benefits of sharing and reusing
+
+        
+        
+          How to share technology and collaborate across government
+
+        
+        
+          How you can reuse technology
+
+        
+        
+          Related guides
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+To meet Point 8 of the Technology Code of Practice (TCoP) your plans must show you’ve considered whether your project or programme can share and reuse technology.
+
+If you’re going through the spend control process you must explain how you’re trying to meet point 8.
+
+
+The Central Digital and Data Office is currently collecting feedback on the Technology Code of Practice. The aim is to improve the content and make sure it meets user needs. If you want to add your feedback, please complete this short survey.
+
+
+Benefits of sharing and reusing
+
+Before you start your technology project or programme, consider whether sharing your work could benefit other teams in your organisation, or other government organisations.
+
+By sharing your work you can benefit from:
+
+
+  easier collaboration with other organisations
+  a larger pool of experts who can help you find solutions to any issues more quickly
+  more integration between government technologies
+
+
+By reusing existing technology you can benefit from:
+
+
+  avoiding duplication and unnecessary spending
+  speeding up initial project or programme phases
+  better value for money
+
+
+How to share technology and collaborate across government
+
+It’s easier and cheaper to plan how you will share your technology solution from the start of your project or programme. Clear documentation will help your project or programme, and make it easier for you to share your work.
+
+There are several ways you can work in the open and share your technology, data, and services.
+
+Communities
+
+There are communities in a variety of channels, such as Knowledge Hub, Google Groups and Slack. You will need to create a free account to join. Examples of the cross-government communities you can join include the:
+
+
+  
+technology communities listed in the Service Manual
+  
+technical architecture community (Knowledge Hub)
+  
+cloud working group (Knowledge Hub)
+  
+cloud office productivity service community (Knowledge Hub)
+  
+API community (email address for Google group)
+  
+Design System community - where you can share and contribute service design patterns
+
+
+You can join these communities to explore which emerging and mature technologies other organisations are using before you commit resources to a project or programme.
+
+Government APIs
+
+The API technical and data standards and API design guidance can help your organisation provide data for government services in a consistent and shareable way. You can also use or contribute to the government’s API catalogue.
+
+Combine requirements with other government organisations
+
+Crown Commercial Service (CCS) provides information about current and future opportunities to combine buying requirements when purchasing technology.
+
+This service is free and you:
+
+
+  could increase your savings
+  can use the customer team for support and advice
+  can join procurements run by CCS that combine buying requirements for everyday items such as audio conferencing and WAN connectivity
+
+
+How you can reuse technology
+
+There are several technology resources and common government platforms available to all government organisations. These will help you to reuse government services, information, data and software components.
+
+Government platforms
+
+Consider using common government platforms and services where appropriate. These include:
+
+
+  
+GOV.UK Notify for user notifications
+  
+GOV.UK Pay for payments
+  
+GOV.UK Platform as a Service for hosting
+
+
+Common technology
+
+Common technology guidance and services include:
+
+
+  Securing government email
+  Set up government email services securely
+  Protect domains that do not send email
+  Sharing workplace wireless networks
+  How to install network infrastructure in shared buildings
+  Connect to GovWifi
+  Set up GovWifi in your organisation
+
+
+Government code
+
+You should publish your code in the open and use open source technology. Some examples of open government code include:
+
+
+  the Ministry of Justice’s GitHub page
+
+  the Government Digital Service’s GOV.UK Frontend
+
+  the Home Office Design System repository which includes forms for reuse
+
+  the Government Digital Service’s source code
+
+  the Department for Environment Food & Rural Affairs GitHub account
+
+  
+GCHQ’s GitHub account which includes tools for data storage, processing and analysis
+
+
+
+Next: Technology Code of Practice point 9 - Integrate and adapt technology
+
+
+Related guides
+
+
+  Government technology standards and guidance
+
+
+
+
+
+      
+        
+    Published 6 November 2017
+    Last updated 31 March 2021
+      + show all updates
+      
+        
+            
+              31 March 2021
+              Addition of a temporary research survey to get user feedback on the Technology Code of Practice.
+            
+            
+              22 May 2019
+              Restructure and clarification of content. Some link updates and changes.
+            
+            
+              6 November 2017
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Open Source guidance
+        Make privacy integral
+        Hackney Council’s approach to moving to a cloud-first model from the PSN
+        Manage your data for access and reuse
+        Integrate and adapt technology
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

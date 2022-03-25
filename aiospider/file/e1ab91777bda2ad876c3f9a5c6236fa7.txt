@@ -1,0 +1,99 @@
+
+        
+        
+        
+     authorized for use across the globe and mass immunization programs scaling up, optimism is increasing for a potential  over the next several months. Vaccine manufacturers continue to ramp up capacity, expanding the available supply to geographies with contracted volume commitments. Public-health authorities across the globe remain united in their support of vaccination as a critical tool in ending the COVID-19 pandemic.
+
+
+ And despite pockets of concern,  is increasing as more real-world experience accumulates on the safety and efficacy of the vaccines.
+    
+    
+Nonetheless, challenges remain. With the spread of new variants, the level of vaccination required to achieve herd immunity likely still surpasses the share of consumers who have received or are interested in receiving a vaccine (Exhibit 1). The status of vaccine rollout varies significantly by geography, with different phasing and eligibility criteria. Uncertainty remains regarding the emergence of new SARS-CoV-2 variants and implications for the efficacy of current vaccines.
+    
+
+	
+Given these tailwinds and headwinds, employers are uniquely positioned to support COVID-19-vaccine adoption. Any prospective approaches they take to support COVID-19-vaccine adoption should carefully consider what types of support employees want.In this article, we’ll seek to bring clarity to organizations looking to support their own return-to-work efforts—and accelerate the path to societal and economic recovery—by supporting COVID-19-vaccine adoption. Our findings will be most relevant in the short term for employers in the United States (where the research underpinning this article was conducted) but will likely have implications for employers in other geographies as well.We’ll describe, in particular, the following:
+    what vaccine-adoption support actions employees say they want from their employers and how that compares with what employers are doing today
+    what roles employers could play—and are playing—in supporting vaccination in their workforce, broader networks, and communities
+    how employers could navigate a return to work across a range of vaccination scenarios (for example, where only part of the workforce is vaccinated)
+Employees are receptive to employer vaccination support, especially the actions employers are taking alreadyOver the past two months, we’ve conducted research with more than 400 US-based companies
+
+
+ across a broad range of industries to understand what actions employers are taking to support workforce vaccination and which actions resonate strongest with employees (Exhibit 2). Taken together, the research suggests the elements of a nascent “vaccination playbook” that draws from each of the three conditions generally correlated with the uptake of public-health interventions: . Three findings stood out most prominently.
+    
+
+    
+    
+    
+Employers of all sizes can play a role in building conviction and offering convenient and ‘costless’ vaccinationGiven the unevenness with which many employers are focusing their efforts to scale vaccine adoption, it’s useful to highlight examples of the three key ways employers can make a difference: creating strong conviction among consumers, providing high levels of convenience, and ensuring that vaccination is truly ‘costless’ or better. Employers are uniquely situated to achieve all three goals given their privileged access, position of trust, and ability to address potential barriers to vaccine uptake practically. As we will describe, even small to midsize employers could have a role to play, individually or by partnering with others to scale their efforts.ConvictionConviction—a firmly held belief or opinion—is vital for anyone seeking vaccination (or any other health intervention, for that matter). Building conviction is complicated by the scale and diversity of information sources available on COVID-19 vaccination, as well as by the persistence of misinformation. Employers have a direct channel of communication to their employees, which puts them in a unique position to cut through the noise and provide facts and information that could support building conviction. There are many actions that employers can take, including educating employees on the facts of vaccination, normalizing vaccination, and developing workplace policies.Educate on the facts. Employers can share authoritative, credible, and accessible information on the safety, efficacy, and side effects of available vaccines. The CDC, for example, has simple summaries of vaccine information accessible on its website.
+
+
+ Employers could direct employees to this information while also serving as stewards for tailoring and sharing it with their workforce (by creating more visual representations of the information and referencing it explicitly). For example, Verizon has provided an online COVID-19-vaccine FAQ guide for employees, including data on the specific vaccines authorized for use, information about how to register for a vaccine, and internal company policies associated with the vaccines.
+
+
+ Daimler has provided similar resources for its workforce in Germany through its company-related health-insurance program, including an interactive portal for employees to ask questions about COVID-19 vaccines.
+
+
+Engage relevant experts and community leaders. Beyond providing information, employers can bring in key experts to address their workforce—for example, hosting panel discussions with physicians and public-health leaders to share scientific information, answer employee questions, and address concerns. Employers can also provide venues for open dialogue with the local community or religious leaders, creating space to listen to employees and acknowledge any concerns.The key to such initiatives (apart from the information they provide) is to have frank, open conversations that prioritize listening to employees. Small and midsize employers in the same community could come together to organize such sessions, thereby reaching greater scale and making implementation more practical. OCBC Bank Singapore organized a series of seminars with reputable local medical experts to provide information to its employees on a range of topics, including vaccine efficacy, potential side effects, and the impact of vaccines on physical distancing and other interventions.
+
+
+ For its part, Israel-based SodaStream brought in Jewish and Muslim religious leaders and Arabic- and Hebrew-speaking medical professionals to help present facts and help offset any misinformation about the COVID-19 vaccines
+
+
+ among the company’s diverse pool of factory workers.
+
+	
+
+
+
+
+    
+    
+
+Highlight role models. Employers can create an atmosphere where COVD-19 vaccinations are supported, for example, by having company executives or managers share their vaccination experiences with workers or by creating a network of vaccinated “employee ambassadors” to answer questions and share their experiences. In practice, ensuring that role models and ambassadors are visible to all employees—and representative of the workforce—will help to optimize the effort’s reach and impact. Several hospital CEOs, among the first to be eligible to receive COVID-19 vaccines, have stepped up to the plate to publicly demonstrate their confidence in the vaccines to their employees and broader communities. As more doses become available and the eligibility criteria expand to include broader segments of the population, having company leaders and peers act as role models can be an important signal to employees.Understand the implications of prospective vaccine-related policies. Some companies are investigating corporate policies,
+
+
+ for instance, regarding employee vaccination and the ability to work on-site or travel. Such efforts tend to be in the early stages, given current vaccine supply constraints and limited authorization for emergency use (versus full licensure) in most geographies. Nonetheless, some companies in countries with fewer vaccine supply constraints—such as Israel’s BIG Shopping Centers—have announced policies requiring employees and suppliers to demonstrate proof of vaccination prior to coming on-site.
+
+
+It is not our intention here to give policy advice, and such considerations are well beyond the scope of this article. Nonetheless, for companies that are contemplating policies around COVID-19 vaccination, it would be useful to understand how their employees perceive various options.For their part, the employees in our recent survey appear only somewhat affected by prospective employer vaccination policies. 54 percent of employees said they would be very willing to return to their prepandemic work environment if their employer required all employees to be vaccinated. Meanwhile, 41 percent were very willing to return if their employer were to only recommend vaccination (and the employee was already vaccinated).ConvenienceMaking vaccination as convenient as possible is another important enabler to support COVID-19-vaccine adoption. While consumers place different emphasis on different aspects of convenience, employers can take multiple actions to improve the experience of their workforce: sharing practical information to navigate the vaccination process, simplifying the process itself, and increasing the proximity of vaccination sites.Share practical information. Providing employees with information to help navigate the often-complex process of vaccination can ease the burden on employees. This information could include, for example, updated details about local vaccination sites (including hours of operation), weblinks to scheduling sites, or best practices for securing an appointment (such as bringing proof of ID and bringing the vaccine record card to the second appointment, if necessary). As part of a broader approach to engage employees on COVID-19 vaccination, Tyson Foods is partnering with Matrix Medical Network to support vaccine communications, administration, and counseling to ensure Tyson’s US employees have access to information about COVID-19 vaccines.
+
+
+Simplify the experience. Employers can support vaccination scheduling for their workers, for example, by reserving appointment slots at nearby vaccination sites to minimize wait and travel times. Similarly, companies can partner with organizations in the medical or public-health space to help with vaccine questions and scheduling or even to connect employees with transportation services that offer free rides to vaccination appointments. For example, Target is offering all US employees free Lyft rides to get to and from their COVID-19-vaccination appointments. The company also announced it will work with CVS Pharmacy to evaluate how to best offer vaccines to employees at Target’s in-store CVS Pharmacy locations.
+
+
+Increase proximity. Healthcare systems across the globe have reported setting up COVID-19-vaccination clinics for their personnel. As eligibility criteria expand, other employers can also consider offering on-site vaccination clinics for their employees, which can expand system capacity to deliver vaccines, in turn helping to accelerate vaccine rollout. Broadening the reach of vaccination clinics to include employees’ eligible family members and local community members can further this impact. Depending on local eligibility and reopening criteria, having an off-site location for the clinic can be an alternative that provides access to vaccines for remote-working employees without compromising the well-being of essential on-site personnel.In the UAE, Emirates airline has opened clinics at company locations across the country to offer COVID-19 vaccines to all its employees—12 hours a day, seven days a week.
+
+
+ Amazon has also held multiple pop-up clinics in Seattle to administer vaccines for eligible members of the community and employees in the company’s warehouses and retail stores.
+
+
+CostlessnessWhile most governments are directly procuring COVID-19 vaccines for their populations, consumers may still face financial barriers related to the vaccination process (for example, lost wages due to time away from work, and transportation costs) that could hinder their willingness to receive a vaccine. For example, about 12 percent of employees state that the time away from work to be vaccinated or due to side effects is a barrier to adoption.Employers can help overcome this barrier by creating structural support around the vaccination process, covering employees’ direct costs associated with vaccination, and even offering rewards and recognition to employees who choose to be vaccinated. In addition, some consumers may not have a clear understanding of the costs (or lack thereof, in most countries) associated with COVID-19 vaccination; employers can address this perceived barrier by clarifying the financial implications (if any) for their workforce.Create structural support. Employers can provide incremental sick days or PTO for vaccination and any needed recovery time, offsetting any potential structural challenges that might prevent workers from getting vaccinated. Employers can also adjust shift times and scheduling to accommodate employee vaccination appointments, particularly during working hours. Chobani announced it would cover up to six working hours  for its employees to get vaccinated—three hours for each of the two COVID-19-vaccine doses.
+
+
+ Similarly, Dollar General offers four hours of PTO for employees who self-report receiving a vaccine dose.
+
+
+Cover direct costs. Another approach that some employers are taking to minimize financial constraints associated with the COVID-19-vaccination process is to pay for out-of-pocket costs such as transportation or to offer free rides to vaccination sites. Employers can also work with healthcare providers, or directly with employees, to reimburse any vaccine-administration costs incurred. For example, in addition to providing two hours of pay for each dose of vaccine, ALDI USA offers to reimburse employees’ costs associated with vaccine administration.
+
+
+ In the UAE, companies such as Danube Group and Samana Group are providing transportation for employees to receive the vaccine.
+
+
+Offer rewards and recognition. Some employers are also offering their employees financial and nonfinancial rewards for vaccination. Financial rewards could include cash bonuses, retirement contributions, and other gifts. SodaStream, for example, offered its vaccinated workers gift cards.
+
+
+ Nonfinancial incentives could include wellness-program reward points through insurance providers or prioritization of vaccinated employees to return on-site during return-to-work phasing. Brazilian meatpacker JBS USA will pay $100 to US-based employees who voluntarily receive a COVID-19 vaccine.
+
+
+ Emerson Electric also announced plans to reward employees who get vaccinated—the company is considering a contribution to workers’ 401(k) retirement accounts or gift cards to spend at local businesses.
+
+
+Expanding impact into the broader communityBeyond their own workforce, businesses can support vaccination more broadly within their networks, communities, and even their industries. Indeed, large employers arguably have an extra responsibility to role model for their respective industries and lead by example.As a network catalyst, companies can influence supply-chain partners (for example, suppliers and contractors), as well as customers. Examples include an insurance provider offering policyholders a flexible, same-day transportation service to help them get vaccinated or an airline requiring passengers to be vaccinated. Companies can also act as delivery partners for vaccination programs in their communities—for example, by hosting pop-up clinics on corporate campuses to vaccinate the public or by pledging funding to a fact-checking initiative for vaccine education.Some companies offer programs to support qualified staff members (for example, medical doctors working at pharma companies) who want to volunteer at community vaccination centers on weekends and recognize these employees in internal newsletters and on social media in an effort to strengthen morale while also building conviction through role modeling.Looking ahead: Navigating workforce vaccinations and the return to workIn the near term, it will be important for employers to consider actions that can help shape their perspective and approach for the COVID-19 vaccination of their workforce. Key steps could include the following:
+    continuing to monitor employee eligibility, including phases and timing, which may become far simpler, as many jurisdictions plan to extend eligibility to all people 16 and older in the coming weeks
+    assessing options for actions based on relevance and feasibility within the context of the business, for example, based on the specific barriers to adoption for the workforce and employers’ scale and resourcing to pursue various actions
+    forming a cross-functional team (for example, including HR, legal, and key business-unit and site managers) with an empowered leader to drive planning and action related to employee vaccination
+    
+    collaborating with local public-health leaders to ensure actions are complementary, consistent, and well coordinated
+    soliciting feedback from the workforce, measuring the effectiveness of different initiatives, and adjusting as needed
+Over time, companies may want to integrate vaccination planning and action with broader efforts to protect the workforce and return to work safely. If so, employers would need to develop a plan to operationally manage variability in vaccination status across the workforce. In addition, they would need to consider and plan for how to support continued vaccination, as relevant—for example, booster shots for emerging variants. Beyond supporting vaccination adoption, employers should consider evaluating in-person health protocols, meeting and collaboration norms, changes to work-from-home setup and protocols, and travel policies.While much progress has been made in accelerating the development and delivery of COVID-19 vaccines to countries around the world, the final hurdle of uptake among consumers still remains. Employers are uniquely positioned to support vaccine adoption and could do so by building conviction and making vaccination as convenient and costless to employees as possible.References to specific companies are solely for information purposes and do not constitute any endorsement.

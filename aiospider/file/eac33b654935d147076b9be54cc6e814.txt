@@ -1,0 +1,329 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Interrupted time series study
+  
+
+  
+  
+  
+      
+  How to use an interrupted time series to evaluate your digital health product.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency
+
+      
+      Published
+      22 December 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          What to use it for
+
+        
+        
+          Pros
+
+        
+        
+          Cons
+
+        
+        
+          How to carry out an interrupted time series study
+
+        
+        
+          Example: using incentives to increase blood glucose testing in teenagers with Type 1 diabetes
+
+        
+        
+          More information and resources
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+An interrupted time series (ITS) design involves collecting data consistently before and after an interruption. This means introducing and withdrawing your digital product or service, or some part of it, and then seeing if anything changes in the outcome you’re assessing.
+
+What to use it for
+
+Using ITS can help you to find out whether your digital product or service achieves its aims, so it can be useful to conduct once you have developed your product (summative evaluation). To use an ITS design, you need 2 things:
+
+
+  an intervention that can quickly produce a measurable effect when introduced at a specific time point
+  the ability to collect time series data (sequential observations from before and after the intervention) to evaluate the effects of introducing the intervention
+
+
+Pros
+
+Benefits of ITS include:
+
+
+  it is a strong design to use to estimate effects of your product when randomisation is not suitable or possible
+  many ITS designs involve comparing participants to themselves, which means that the design is more sensitive to differences in the effects of the intervention
+  it can be conducted with a small sample size
+
+
+Cons
+
+Drawbacks of ITS include:
+
+
+  lack of randomisation means that drawing definitive answers about the effects of your digital product will be limited
+  some ITS designs might be more likely to be influenced by a novelty factor, for example, when you introduce and withdraw the product in a short period of time
+
+
+How to carry out an interrupted time series study
+
+Traditionally, ITS designs have been used to assess effects of interventions when assigning people to different groups is not possible, such as with mass media campaigns or policy change. For example, ITS studies let us assess the impact of introducing smoke-free policies by comparing the data before and after the introduction of the policies.
+
+However, ITS can also be very useful for evaluating digital health products. For example, you could use ecological momentary assessment to collect your data. There are 2 main types of designs that are useful for assessing products delivered through digital means:
+
+ABA design (also called reversal or removal design)
+
+In an ABA design, outcomes are collected consistently but the intervention is added and then removed. The continuous data collection lets you assess if the outcome changes when the intervention is added and whether the effect diminishes after it is removed.
+
+This design is only appropriate if the digital product or service aims to produce an effect and the effect is expected to diminish when the product is withdrawn (see carry-over effects in crossover randomised controlled trials).
+
+Multiple baseline design
+
+In a multiple baseline design, the start of the intervention is staggered across participants. This design is particularly useful if you cannot remove the digital product after introducing it or if the effects of the intervention cannot be unlearned. For example, it is useful when you are progressively rolling out a new digital service to different organisations. You can measure the outcome before and after the introduction of the service in different places at different times. You can then compare the change over time accounting for any factors that may influence the effects, such as events that impact all organisations.
+
+Analysing ITS data
+
+Analysis of an ITS series considers the underlying trends and patterns across the full dataset when estimating intervention effects. It does not just report the effects of pre-intervention post-intervention periods as in a before and after study. There are various potential issues that may bias your results. You need to account for these when analysing the data. For example:
+
+
+  random fluctuations in the outcomes
+  seasonal effects
+  autocorrelation – that is, individual responses tend to be more similar when assessments are carried out close together in time
+
+
+Example: using incentives to increase blood glucose testing in teenagers with Type 1 diabetes
+
+Raiff and Dallery (2010), ‘Internet-based contingency management to improve adherence with blood glucose testing recommendations for teens with Type 1 diabetes’
+
+Blood glucose testing is critical in preventing the progression to diabetes-related illnesses, such as retinopathy. Raiff and Dallery (2010) used an ABA design to assess the feasibility and acceptability of a web-based incentive intervention to increase blood glucose testing in teenagers with Type 1 diabetes. They included 4 participants.
+
+There were 3 phases, each lasting 5 days:
+
+
+  baseline (A)
+  intervention (B)
+  return to baseline (A)
+
+
+In this study, participants received financial incentives when they posted videos of themselves performing at least 4 blood glucose tests per day – the intervention was the ability to earn vouchers for submitting blood glucose testing videos. At the end of the intervention phase, participants were asked to stop posting videos (and earning vouchers) but to continue blood glucose testing. For both A-phases, data was collected from the participant’s personal glucometer.
+
+The authors reported:
+
+
+  an increase in the frequency of blood glucose tests when incentives were introduced
+  a reduction when the incentives were removed
+
+
+There were some carry-over effects.
+
+As this was a feasibility study with a small sample, the authors did not draw firm conclusions about the efficacy of the incentives. However, the study suggested web-based incentive programme may be a promising digital tool to increase blood glucose monitoring in teens with Type 1 diabetes.
+
+More information and resources
+
+Ewusie and others (2020), ‘Methods, Applications and Challenges in the Analysis of Interrupted Time Series Data: A Scoping Review’. Information about various methods used in analysing time series data, and their strengths and limitations.
+
+Bernal and others (2018), ‘The use of controls in interrupted time series studies of public health interventions’. One method for strengthening the findings of a study using an ITS design is to add a control. This describes the wide range of controls that can be used.
+
+Ramsay and others (2003), ‘Interrupted Time Series Designs in Health Technology Assessment: lessons from two systematic reviews of behavior change strategies’. This paper critically evaluates analysis of various ITS studies that assessed health technology, points to the issues in their analysis, and suggests a framework for analysing the data.
+
+Examples of interrupted time series studies in digital health
+
+Perski and others (2020), ‘Influence of the SARS-CoV-2 Outbreak on the Uptake of a Popular Smoking Cessation App in UK Smokers: Interrupted Time Series Analysis’.  The authors assessed whether the coronavirus outbreak influenced the downloads of a smoking cessation app.
+
+Brydon and others (2020), ‘Transitioning to full field digital mammography in Nova Scotia: using interrupted time series methods to study the impact of technology change on mammography volumes’. The authors used ITS in a real-world setting to evaluate the transition from analogue to digital diagnostic imaging.
+
+Chereni and others (2017), ‘Effect of adding a mobile health intervention to a multimodal antimicrobial stewardship programme across three teaching hospitals: an interrupted time series study’. The researchers assessed the impact of adding an app intervention to decrease antibiotic prescribing.
+
+Cushing and others (2011), ‘An Evaluation of a Personal Electronic Device to Enhance Self-Monitoring Adherence in a Pediatric Weight Management Program using a Multiple Baseline Design’. An example of multiple baseline design evaluating a device for self-monitoring compared to the traditional pen and pencil method.
+
+
+
+
+
+      
+        
+    Published 22 December 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Choose evaluation methods: evaluating digital health products
+        Before-and-after study: comparative studies
+        Mixed methods study
+        Define how your product works: evaluating digital health products
+        Quasi-experimental study: comparative studies
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Evaluating digital health products
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Health improvement
+        Research, testing and standards
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

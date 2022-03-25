@@ -1,0 +1,204 @@
+
+
+Attempts by the U.S. Department of Defense (DoD) to address persistent challenges with software development have been hampered by an inability to identify the many software professionals working within DoD's programs. In this report, the authors identify and characterize a subset of DoD's software workforce, the types of software developed within DoD, and the variety of methods DoD programs use when employing that workforce to develop software.
+
+
+
+
+Read Online
+
+The Composition and Employment of Software Personnel in the U.S. Department of Defense
+An Initial Analysis
+by Bonnie L. Triezenberg, Jason M. Ward, Jonathan Cham, Devon Hill, Sean Robson, Jeff Fourman
+Related Topics: Civilian Military Workforce, Military Information Technology Systems, Technical Professions, United States Department of Defense, Workforce Development
+CitationEmbed
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+DownloadDownload eBook for Free
+
+FormatFile SizeNotes
+
+
+
+
+PDF file
+
+
+1.2 MB
+Use Adobe Acrobat Reader version 10 or higher for the best experience.
+
+
+
+
+Purchase
+Purchase Print Copy
+
+ FormatList Price
+Price
+
+
+Add to Cart
+Paperback120 pages
+$30.50
+$24.40 20% Web Discount
+
+
+
+
+
+
+
+
+
+
+Research Questions
+
+What is the composition of the DoD workforce tasked with developing software? Specifically, in what DoD career fields do they work, how experienced are they, what is their educational background, and what software development activities do they perform?
+What type of software is DoD developing, and what are the implications for developing and training DoD's software workforce?
+How is DoD using current and emerging practices and methods for both software development and workforce development and employment?
+
+
+
+The U.S. Department of Defense (DoD) has experienced persistent challenges with software development across various acquisition programs. Attempts to address those challenges through workforce initiatives (such as hiring, training, and professional development) have been severely hampered by an inability to identify and characterize the presumably tens of thousands of software professionals working within DoD's programs.
+In this report, the authors attempt to identify and characterize DoD's software workforce, the types of software developed within DoD, and the variety of methods DoD programs use when employing that workforce to develop software. The research team's effort to develop a comprehensive picture of the software workforce was hindered by a lack of data in existing DoD databases and by internal DoD organizational issues that limited the team's ability to gather data. Although this report provides a snapshot of DoD's software workforce, the types of software developed within DoD, and the variety of methods DoD programs use when employing that workforce to develop software, there are significant limitations in the underlying data. The research team's recommendations, using lessons learned from this effort, focus on what defense leaders will need to better understand, train, and employ DoD's software acquisition workforce in the future.
+Key Findings
+
+Findings regarding the composition of DoD's software workforce from a snapshot of about 2,000 personnelUniformed personnel, for the most part, do not identify as being part of the software workforce.
+
+The vast majority (about 80 percent) of DoD software personnel in the sample are in the engineering acquisition career field.
+
+About half of DoD's software personnel in the sample have a degree related to software or computer science; more than 90 percent have a degree in science, technology, engineering, or math.
+
+Most personnel with an educational background in software or computer science spend at least a portion of their time developing software. Less than 3 percent are employed exclusively in management roles.
+Distinct challenges of DoD softwareMost DoD software directly supports the war fight—i.e., software contained in radios, sensors, and weapons, as well as in air, space, and land vehicles.
+
+Most DoD software is tightly integrated with underlying hardware.
+
+DoD software's security and safety challenges are far greater than for most commercial software development efforts.
+Distinct challenges of DoD software organizationsMany contributing factors make it difficult to hire software developers into DoD acquisition organizations.
+
+Once hired, there are substantial barriers to keeping software skill sets current.
+
+Software project, program, and contract management are key skill sets needed by DoD's software workforce as the department strives to manage a much larger contractor workforce.
+
+
+
+Recommendations
+
+ It is imperative that DoD develop the competencies and culture needed to incorporate actual warfighters early and often in the development of programs and the underlying software.
+
+When seeking to reap the benefits of commercial software development practices, DoD must take care not to replicate the security practices of that industry.
+
+DoD should review current safety standards and guidance to ensure they include best practices for achieving high levels of operational trust in highly automated and/or autonomous DoD software–intensive systems.
+
+DoD software workforce development initiatives should be focused on the best practices of embedded software development.
+
+Improvement initiatives should focus on engineering acquisition careers, given that most personnel in the DoD software workforce are assigned to that field.
+
+Additional efforts are needed to identify and characterize DoD's software workforce. Those efforts must be driven from the highest levels of the DoD hierarchy.
+
+Future software workforce research teams should include one or more government personnel from the software centers as detached members of the project team.
+
+ Once the software workforce has been identified, DoD should conduct analyses to better understand how the dynamics of age, experience, and pay levels affect hiring and retention.
+
+DoD should conduct an in-depth analysis regarding the employment of software-educated professionals to ensure that biases regarding suitability for assignment into broader roles are not affecting promotions.
+
+
+
+Table of Contents
+
+Chapter One
+Introduction
+
+Chapter Two
+Snapshot of DoD Software Personnel
+
+Chapter Three
+Characterizing DoD Software Acquisitions
+
+Chapter Four
+Challenges Faced by Software Development Organizations Within DoD
+
+Chapter Five
+DoD Workforce Data Call Lessons Learned
+
+Chapter Six
+Summary and Recommendations
+
+Appendix A
+Data Collection Methodology
+
+Appendix B
+Workforce Data Analysis
+
+Appendix C
+Data Visualizations and Discussion of DoD Sample
+
+
+
+
+Research conducted by
+
+RAND National Security Research Division
+
+
+
+This research was sponsored by the Deputy Assistant Secretary of Defense for Systems Engineering, Major Program Support, and conducted within the Forces and Resources Policy Center and the Acquisition and Technology Policy Center of the RAND National Security Research Division (NSRD).This report is part of the RAND Corporation Research report series. RAND reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND reports undergo rigorous peer review to ensure high standards for research quality and objectivity.Permission is given to duplicate this electronic document for personal use only, as long as it is unaltered and complete. Copies may not be duplicated for commercial purposes. Unauthorized posting of RAND PDFs to a non-RAND Web site is prohibited. RAND PDFs are protected under copyright law. For information on reprint and linking permissions, please visit the RAND Permissions page.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: RAND Corporation
+Availability: Available
+
+Print
+Format: Paperback
+Paperback Pages: 120
+List Price: $30.50
+Paperback Price:  $24.40
+Paperback ISBN/EAN: 9781977406415
+DOI: https://doi.org/10.7249/RRA520-1
+Document Number: RR-A520-1
+Year: 2020
+Series: Research Reports
+
+
+
+Explore
+Related Topics
+
+Civilian Military WorkforceMilitary Information Technology SystemsTechnical ProfessionsUnited States Department of DefenseWorkforce Development
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+Citation
+Format:
+
+ Chicago Manual of Style
+ RAND Corporation Style Manual
+
+Triezenberg, Bonnie L., Jason M. Ward, Jonathan Cham, Devon Hill, Sean Robson, and Jeff Fourman, The Composition and Employment of Software Personnel in the U.S. Department of Defense: An Initial Analysis. Santa Monica, CA: RAND Corporation, 2020. https://www.rand.org/pubs/research_reports/RRA520-1.html. Also available in print form.
+Triezenberg, Bonnie L., Jason M. Ward, Jonathan Cham, Devon Hill, Sean Robson, and Jeff Fourman, The Composition and Employment of Software Personnel in the U.S. Department of Defense: An Initial Analysis, Santa Monica, Calif.: RAND Corporation, RR-A520-1, 2020. As of December 16, 2021: https://www.rand.org/pubs/research_reports/RRA520-1.html
+
+Download Citation (BibTeX)
+Download Citation (RIS)
+
+
+

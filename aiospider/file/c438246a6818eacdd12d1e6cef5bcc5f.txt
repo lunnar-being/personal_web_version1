@@ -1,0 +1,63 @@
+    
+
+
+
+ making managing chronic conditions outcomes and costs a challenging priority for Medicare fee-for-service (FFS) and Medicare Advantage (MA) plans. Over the past several years, the Centers for Medicare & Medicaid Services (CMS) has been taking actions to increase MA plan design options and spur enrollment growth (MA enrollment grew 37 percent from 2016 to 2020). Their most recent changes increase flexibilities for supplementary benefits for individuals with chronic conditions (SSBCI, also known as special supplemental benefits for the chronically ill). These new flexibilities can help to address unmet social needs for beneficiaries with chronic conditions, including access to food and produce, transportation, and structural home modifications.
+        
+
+
+    
+    CMS has made management of these chronic diseases a priority in both the Medicare FFS and MA populations. In Medicare FFS, CMS has invested in growing alternative payment models, such as the Primary Care First model, to improve disease management. It has continued to receive high approval ratings from seniors along the way.
+
+
+
+
+
+ The new benefit flexibilities for MA plans signal a similar commitment, with the hope of improving both the outcomes of patients with chronic conditions and the management of their costs.For the 2020 plan year, CMS allowed MA carriers to offer products with supplemental benefits, designed just for chronically ill enrollees, that are not necessarily health-related but have a reasonable expectation of improving or maintaining the health or overall function of the enrollees.
+
+
+ This action builds upon new 2019 policy that expanded the definition of health-related supplemental benefits that Medicare Advantage plans could offer to all enrollees.
+
+
+
+		
+	
+CMS announced in May that in calendar year 2021, MA carriers may count supplemental benefit spending in the numerator of the Medical Loss Ratio (MLR) and that eligibility for supplemental benefits goes beyond the set of specific conditions outlined in the Medicare Managed Care Manual (Chapter 16b).
+
+
+ These changes could continue the growth in supplemental benefits, as payers seek to prevent remitting portions of their revenue to CMS (which occurs if 85 percent of revenue is not spent on claims and activities to improve care quality).CMS’ publicly available data sets
+
+
+ can provide insight into the current state of chronic conditions
+
+
+ in Medicare: beneficiaries with two or more chronic conditions represent 94 percent of Medicare expenditures, despite only being 68 percent of members (Exhibit 1). Additionally, the data highlight that polychronic beneficiaries with six or more conditions (17 percent of beneficiaries) account for more than 50 percent of Medicare expenditures. Seniors who have more than two chronic conditions consume around $11,000 more annually in health services than those who do not.
+    
+Based on 2018 data, seniors with one chronic condition are 55 percent more likely to choose MA than those with none, and those with five or more chronic conditions are 70 percent more likely to choose MA than those with none.
+
+
+ The new design flexibilities for products offered for 2020 could make MA even more attractive to qualifying chronically ill patients.
+
+
+In spring 2020, CMS released data for the first time providing several insights into the emerging adoption of supplemental benefits for the chronically ill, including:
+ The most common benefits offered were access to food and produce, as well as pest control (Exhibit 2). However, in the first year, only around 6 percent of the MA population
+
+
+ was enrolled in a product with any newly allowed supplemental benefits.
+
+
+    
+
+		
+	
+
+ Though adoption of supplemental benefits in the first year was relatively low (around 6 percent of the MA population), offerings were often concentrated in highly competitive markets, including Ohio and Southern California (Exhibit 3). However, some markets considered competitive due to their high population of Medicare beneficiaries, such as Florida, saw fairly limited offerings. This finding may suggest a potential opportunity for new entrants in those markets (though managing up front administrative investments through MLR will be important).
+
+    
+
+ Ninety-four percent of enrollment in plans offering supplemental benefits for the chronically ill was concentrated in Health Maintenance Organizations (HMOs) (65 percent) and Special Needs Plan (SNPs) (29 percent), which often focus on care management (Exhibit 4). This 94 percent concentration in HMOs and SNPs is much greater than the 72 percent of total enrollment in these plans across the entire MA market, implying an over indexing of supplemental benefits within these plans. Highly rated plans (4+ Stars) were also more likely to offer supplemental benefits, with 82 percent of enrollees in plans with supplemental benefits receiving those benefits from 4+ Star plans even though 4+ Star plans make up around 75 percent of total MA enrollment.
+
+    
+Given the high prevalence of chronic conditions in the MA population (for example, 60 percent with hypertension) and relatively low adoption of supplementary benefits for the chronically ill in the first year, MA plans, particularly those in underpenetrated markets, may look to leverage these supplemental benefit offerings as a unique differentiator in 2021 and beyond (Exhibit 5). As these plans increasingly support chronically ill beneficiaries, accurate risk coding may become even more important.
+    
+Moving forward, MA plans can offer supplementary benefits for the chronically ill to spur enrollment growth and complement care management efforts (particularly for at-risk populations with unmet social needs), creating a chance to drive performance on cost management and improved health outcomes. Careful and evidence-based management of individuals with chronic conditions—in a rapidly growing MA market—presents an opportunity for breakthrough innovation for the Medicare population.

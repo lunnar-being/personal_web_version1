@@ -1,0 +1,322 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    The Product Security and Telecommunications Infrastructure (PSTI) Bill - telecoms infrastructure factsheet
+  
+
+  
+  
+  
+      
+  Telecoms infrastructure factsheet accompanying the Product Security and Telecommunications Infrastructure Bill, outlining the problems the Bill will address and how.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Digital, Culture, Media & Sport
+
+      
+      Published
+      24 November 2021
+      Last updated
+      
+        1 December 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          What we are doing
+
+        
+        
+          How we are going to amend the Code
+
+        
+        
+          Who the Bill will apply to and why
+
+        
+        
+          How the consultation has helped to shape the government’s plans
+
+        
+        
+          How much it will cost
+
+        
+        
+          Background to these reforms
+
+        
+        
+          Why we are building on the 2017 reforms
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+What we are doing
+
+The Electronic Communications Code regulates rights for network operators and infrastructure providers to install and maintain digital communications infrastructure on public and private land. The Code was substantially reformed in 2017, to make it cheaper and easier for digital infrastructure to be deployed, maintained and upgraded. These new measures build on those reforms, to ensure their original aims are fully realised.
+
+The measures in this Bill aim to support and encourage faster and more collaborative negotiations, and to ensure the procedure and framework for renewing expired agreements is clearer and more consistent. To optimise the use of existing networks, the Bill will enable greater upgrading and sharing of apparatus installed before the 2017 reforms. Finally, new measures will allow operators to secure Code rights more quickly and cheaply through the courts if a landowner or occupier repeatedly does not respond to requests for these rights.
+
+As a whole, the reforms will help ensure that the rollout of future-proof, gigabit-capable broadband and 5G networks delivers equal opportunities for businesses and households across the UK to engage with the digital economy and realise the possibilities increased connectivity brings.
+
+
+Why telecoms infrastructure is important
+
+Good quality digital infrastructure where we live, work or travel is needed to access online public services, social networks, as well as healthcare, retail and financial services. A UK-wide rollout of mobile network coverage, broadband connectivity and fibre upgrades is needed to ensure everyone can fully realise the benefits of digitally integrated services and products.
+
+The COVID-19 pandemic has shown us how vital it is for people to stay connected - from home working and schooling to staying in touch with family. Greater digital connectivity will reduce the ‘digital divide’ between remote and urban areas, strengthen national resilience during crises and support social inclusion for vulnerable socio-economic groups.
+
+
+How we are going to amend the Code
+
+Negotiation of Agreements and Dispute Resolution
+
+The legal processes for disputes about code rights can be costly and time consuming. Disagreements can also have an adverse impact on future relationships between operators and site providers. The Bill will introduce measures to actively encourage the use of alternative dispute resolution (ADR) rather than legal proceedings where possible. Ofcom will also issue guidance about how complaint handling and operators will be required to have complaints procedures in place. As a further measure to make legal procedures less time consuming, the Bill will also create a new process enabling operators to obtain Code rights over certain types of land quickly, in circumstances where a landowner does not respond to repeated requests for Code rights.
+
+Expired Agreements
+
+The Bill will include measures to align the position relating to agreements to grant code rights on expiry. This should help negotiations for renewal agreements to be completed more quickly, with ADR again being encouraged where appropriate. In cases where legal proceedings are needed, there will also be greater scope for the parties to seek interim orders.
+
+Rights to upgrade and share infrastructure
+
+Upgrading and sharing existing apparatus is a cost effective way to optimise the use of existing networks. It also has environmental benefits, requiring fewer installations and less streetwork activity. The 2017 reforms recognised this and introduced new, limited automatic rights for operators to upgrade and share apparatus. However, these rights only apply to agreements made after those reforms came into force. Consequently, the rights are not available in relation to a large proportion of the UK’s digital network. The Bill introduces new rights for operators to share and upgrade apparatus installed under land, regardless of when it was installed, providing specific criteria are satisfied, which will ensure there will be no impact on the land, and no burden on the landowner.
+
+Who the Bill will apply to and why
+
+These reforms will apply to parties involved in requests for Code rights, which deal with the deployment and maintenance of telecoms infrastructure and networks on private land. The aim of these reforms is to facilitate the provision of digital coverage and connectivity, while ensuring rights and powers available to operators strike a proportionate balance between the increasing public need for digital services and the interests of landowners and occupiers.
+
+How the consultation has helped to shape the government’s plans
+
+The government’s plans have been informed by the responses received to its public consultation, which were over 1,300 in total. The government published itsresponsein November 2021, which details key findings and outlines the approaches taken as a result of the feedback from that consultation.
+
+How much it will cost
+
+Two impact assessments have been prepared in support of the Bill to assess the costs and benefits of the Bill to businesses and other stakeholders: one on the impact of the new product security framework and a de minimis assessment on the impact of the reforms to the Electronic Communications Code.
+
+Background to these reforms
+
+The government has ambitious plans to achieve the nationwide rollout of future-proof, gigabit-capable broadband and 5G networks as soon as possible, to unlock the huge economic and social benefits that this will bring. As we emerge from the COVID-19 pandemic, ensuring the whole country has access to world-class digital infrastructure will be critical to our economic recovery.
+
+We are working with industry to target a minimum of 85% gigabit-capable coverage by 2025. We are also aiming to ensure that 95% of the UK’s geographic landmass has 4G coverage from at least one mobile network operator by 2025, and that the majority of the UK population has 5G coverage by 2027.
+
+In order to accelerate work towards the recommendations made in the 2018 Future Telecoms Infrastructure Review, it is important that we deliver the changes that are needed to speed up commercial and public investment in gigabit-capable networks.
+
+The Electronic Communications Code
+
+The 2017 Electronic Communications Code ("the Code") is the legal framework underpinning rights to install and keep electronic communications apparatus on public and private land, and to carry out other activities needed to provide electronic communications networks. The Code provides a regulatory framework that supports and encourages the efficient and cost-effective installation and maintenance of robust digital communications networks. Simultaneously, the Code aims to ensure that an appropriate balance is achieved between the public interest in these networks and the private rights of individual landowners and occupiers.
+
+Why we are building on the 2017 reforms
+
+The 2017 reforms specifically recognised the increasing importance of access to fast and reliable digital services for society and the economy and aimed to make it faster and easier for networks to be deployed, upgraded and shared. But since those reforms came into force, stakeholders have raised concerns about how they are working and whether they are having their intended effect. This feedback informed a 2021 consultation on specific problem areas and we now recognise that further changes are needed to ensure that the aims of the 2017 reforms are realised. Telecommunications technology continues to evolve and public demand for digital services continues to grow: our reforms are intended to keep pace with these changes, while maintaining a proportionate balance with the interests of landowners and occupiers.
+
+Public consultation 2021
+
+We consulted on the following problem areas:
+
+
+  Issues relating to obtaining and using Code agreements. Operators, site providers and their representatives often find engagement with one another difficult. This can prolong negotiations, which in turn delays network rollout.
+  Difficulties relating to expired agreements. There is inconsistency in the way agreements are renewed across the UK, and in some situations the current legislation unintentionally prevents some who already have apparatus installed from renewing an expired agreement or obtaining a new Code agreement to replace it.
+  Making use of existing infrastructure. Operators are currently unable to make the most efficient use of existing infrastructure because automatic rights to upgrade and share apparatus are only available for agreements completed after the 2017 reforms. This has affected the pace at which gigabit-capable broadband and 5G networks have been rolled out and upgraded.
+
+
+The consultation looked at each of these areas in detail, and solicited feedback from a wide range of sources. These views helped to form the government’s approach and policy goals. The government response outlines the final policy proposals which informed this Bill.
+
+
+
+
+
+      
+        
+    Published 24 November 2021
+    Last updated 1 December 2021
+      + show all updates
+      
+        
+            
+              1 December 2021
+              Added PDF versions of factsheets.
+            
+            
+              24 November 2021
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        The Product Security and Telecommunications Infrastructure (PSTI) Bill - factsheets
+        The Product Security and Telecommunications Infrastructure (PSTI) Bill – product security factsheet
+        National Data Strategy Mission 1 Policy Framework: Unlocking the value of data across the economy
+        Review of the Access to Infrastructure Regulations - call for evidence
+        Future Telecoms Infrastructure Review
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        The Product Security and Telecommunications Infrastructure (PSTI) Bill - factsheets
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Communications and telecomms
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

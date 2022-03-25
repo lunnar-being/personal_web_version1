@@ -1,0 +1,359 @@
+
+
+Taking Stock of RAND's Research About the Information Environment
+Photo by putilov_denis/Adobe Stock
+Download This Bibliography
+
+
+
+
+Select RAND Research on the Information Environment: 2014-2020 
+
+
+
+Information, or how to obtain knowledge from investigation, study, or instruction, has always been a critical and broad element of the human experience. However, the advent of the internet and the increasing connectivity of humanity has exponentially increased the pool of information and data available to us. This environment provides opportunities for and presents challenges to the United States; harnessing the power of information and using it to increase efficiencies, improve security, and deny access and advantages to adversaries are all topics that RAND Corporation research has examined in this sphere.
+Both the National Security Strategy of the United States of America and National Defense Strategy of the United States of America recognize the information environment (IE) as central in warfare, although both documents emphasize the use of information in contexts short of open warfare or in the digital realm. The U.S. Department of Defense (DoD) defines the IE as "the aggregate of individuals, organizations, and systems that collect, process, disseminate, or act on information." DoD operates explicitly in the IE and acknowledges that the inherent informational aspects of all military activities have effects in and throughout the IE. Public and private organizations also operate in this space, along with friendly and adversarial governments, nonstate actors, and private citizens. Moreover, the tools and capabilities in this realm are no longer the exclusive purview of national governments; the proliferation of information sources and analytic tools in the public realm has only increased the complexity of the IE for DoD. Since the end of the Cold War, the United States has expected dominance in its military endeavors, including those in the IE. In the resulting decades, China and Russia have been developing their capabilities to conduct operations in this realm against the United States and its allies. With a return to near-peer competition, DoD must consider these adversarial capabilities and how it will confront and mitigate them.
+RAND has a long history of researching the IE, but this compendium focuses on the past six years, because of the dynamic nature of the information ecosystem and the fast pace of technological change. The bulk of the works in this summary focus on DoD efforts in the IE, though a few studies have also looked at the activities of other agencies and departments, including the Department of State, the intelligence community (IC), and federal and municipal law enforcement elements. The large number of actors, programs, and activities touching the IE across departments and agencies presents several challenges, including coordinating across multiple competing interests while also protecting the civil rights and privacy of U.S. citizens. Ultimately, the research grapples with how the United States can and should effectively leverage the IE to engage and defeat adversaries while protecting the national interest and the civil liberties of individual Americans.
+As noted in the very definition of the word information, the term is broad and encompasses diverse actions, functions, and subjects. RAND's research appropriately covers the breadth and depth of the IE as it relates to the national security realm. For example, one effort to organize key types of information relevant for military operations identified six categories, which include situational awareness, command and control (C2), how to influence adversaries and how they influence military forces, and how information affects actors in the environment who are not direct adversaries. This is just one example of an attempt to define information and bound it for a specific project. This summary does not use this taxonomy to organize RAND research on the IE, choosing instead to use broad categories according to the general focus of the research projects, which recognized the breadth of research projects on the IE.
+The remainder of this introduction discusses the main findings from RAND research in five main areas. As it remains a dynamic and constantly evolving area of research, overlap exists among many of the sections. The first section addresses the literature on operations in the information environment (OIE) and the staff integrating function of information operations. Historical usage of the term information operations at times blurred the distinction between these two realms. Although the section notes differences between the two, it has addressed them together. The second section focuses on social media. The third broaches data analytics (formerly focusing on big data), while the fourth distills the findings from research on intelligence collection and analysis. The fifth section discusses RAND work on information security and privacy and information-sharing (although these are two notionally distinct areas of research, they are presented in a single section because many of the key issues overlap).
+Jump To
+
+Operations in the Information Environment
+Social Media
+Data Analytics
+Intelligence Collection and Analysis
+Information Security, Information-Sharing, and Privacy
+Operations in the Information Environment
+DoD now uses OIE to describe a sequence of actions with the common purpose of affecting the perceptions, attitudes, and decisionmaking of relevant actors. RAND's research in this space focuses on how DoD can improve its own OIE and the staff function that supports these operations, and also investigates adversarial efforts to shape the IE. At the core, analysis has addressed the key question: How does the United States effectively conduct OIE to maintain national security and defend against the operations of our adversaries?
+One key insight that emerges is that DoD has not effectively integrated the IE into operational planning, doctrine, or processes, instead considering traditional land, air, and sea operations separately from operations in the information space. The authors of Improving C2 and Situational Awareness for Operations in and Through the Information Environment note that this is a critically important gap as our adversaries increasingly weaponize information. Lessons from Others for Future U.S. Army Operations in and Through the Information Environment (2018) reaffirms this assessment while adding that changes in the IE are because of technology proliferation among less sophisticated state and nonstate actors. This has expanded the threat environment, especially as these actors do not operate within the same legal and ethical constraints as the United States and its allies. This gap is also reflected in the lack of consistent inclusion of the IE into DoD wargaming efforts. Wargames provide opportunities for operators and support staff to plan and practice responses in a conflict. Therefore, these games must reflect the realities of warfare, in particular against the "increasingly important information-based tools of warfare," as noted in Opportunities for Including the Information Environment in U.S. Marine Corps Wargames (2020). Raising the IE to the level of land, air, and sea operations will only further enhance U.S. national security efforts, recognizing that the effects of OIE extend beyond the IE.
+With external experts and Congress also arguing that the decentralized nature of DoD information efforts across the services harms U.S. efforts against our adversaries, RAND research has also focused on how to overcome coordination issues within DoD and how to assess and evaluate operations conducted in the IE. Information Operations: The Imperative of Doctrine Harmonization and Measures of Effectiveness (2015) focused on psychological operations in Afghanistan and documented a disconnect between the doctrine relating to conducting operations in the IE and the implementation of that doctrine in the field. The report recommends that DoD develop a holistic strategy to communicate with local populations via key community influencers and to understand the needs and interests of the target population. To support the practitioner, RAND developed evaluation toolkits and handbooks to provide recommendations on how to apply doctrine to the battlespace. However, evaluation of influence efforts is not always straightforward. It can be difficult to measure changes in audience behavior and attitudes, and it can take a great deal of time for DoD's inform, influence, and persuade efforts to have an effect, as Assessing and Evaluating Department of Defense Efforts to Inform, Influence, and Persuade: Desk Reference (2015) explains. Assessment is made easier when objectives are clear and specific and when assessment design is part of planning. Frameworks for Assessing USEUCOM Efforts to Inform, Influence, and Persuade (2020) reaffirms these findings, while also noting that when assessments are systematically developed and executed, appropriate allocation of resources, refinement of plans, and realization of objectives are more likely to occur.
+In contrast with some of DoD's struggles to develop a coherent IE strategy and approach, U.S. adversaries are significantly more advanced at least in the strategic planning for such activities. Hostile Social Manipulation: Present Realities and Emerging Trends (2019) notes that adversaries employ targeted social media campaigns, sophisticated forgeries, cyberbullying and harassment of individuals, distribution of rumors and conspiracy theories, and other tools and approaches to cause damage to the target state. The authors argue for establishing a framework for understanding the scope and consequences of hostile social manipulation. This type of manipulation can lead to virtual societal warfare. Set in the digital realm, this type of warfare "involves efforts to manipulate or disrupt the information foundations of the effective functioning of economic and social systems." As warfare continues to expand in the IE, advanced democracies, including the United States, must enhance resilience against information-based social manipulation and understand the vulnerabilities present in emerging technologies. David Ronfeldt and John Arquilla (2020) emphasize these findings in an update to a 1999 RAND report discussing how to adapt U.S. strategy to the information age. In Whose Story Wins: Rise of the Noosphere, Noopolitik, and Information-Age Statecraft, they argue the decisive factor in war will increasingly be connected to "whose story wins" in the global commons; many adversaries have already developed and deployed weaponized narratives, strategic deception, and epistemic attacks to gain leverage in the IE.
+Selected Publications
+
+
+
+Frameworks for Assessing USEUCOM Efforts to Inform, Influence, and Persuade 2020
+
+
+
+
+Opportunities for Including the Information Environment in U.S. Marine Corps Wargames 2020
+
+
+
+
+Whose Story Wins: Rise of the Noosphere, Noopolitik, and Information-Age Statecraft 2020
+
+
+
+
+Hostile Social Manipulation: Present Realities and Emerging Trends 2019
+
+
+
+
+The Emerging Risk of Virtual Societal Warfare: Social Manipulation in a Changing Information Environment 2019
+
+
+
+
+Improving C2 and Situational Awareness for Operations in and Through the Information Environment 2018
+
+
+
+
+Countering Russian Social Media Influence 2018
+
+
+
+
+Lessons from Others for Future U.S. Army Operations in and Through the Information Environment 2018
+
+
+
+
+Lessons from Others for Future U.S. Army Operations in and Through the Information Environment: Case Studies 2018
+
+
+
+
+Russian Social Media Influence: Understanding Russian Propaganda in Eastern Europe 2018
+
+
+
+
+Russian Social Media Influence: Understanding Russian Propaganda in Eastern Europe 2018
+
+
+
+
+Russia's Use of Media and Information Operations in Turkey: Implications for the United States 2018
+
+
+
+
+Assessing and Evaluating Department of Defense Efforts to Inform, Influence, and Persuade: Worked Example 2017
+
+
+
+
+Dominating Duffer's Domain: Lessons for the U.S. Marine Corps Information Operations Practitioner 2017
+
+
+
+
+Dominating Duffer's Domain: Lessons for the U.S. Army Information Operations Practitioner 2017
+
+
+
+
+Monitoring Social Media: Lessons for Future Department of Defense Social Media Analysis in Support of Information Operations 2017
+
+
+
+
+The Weaponization of Information: The Need for Cognitive Security 2017
+
+
+
+
+Robust and Resilient Logistics Operations in a Degraded Information Environment 2017
+
+
+
+
+The Russian "Firehose of Falsehood" Propaganda Model: Why It Might Work and Options to Counter It 2016
+
+
+
+
+Information Operations: The Imperative of Doctrine Harmonization and Measures of Effectiveness 2015
+
+
+
+
+Assessing and Evaluating Department of Defense Efforts to Inform, Influence, and Persuade: Desk Reference 2015
+
+
+
+
+Assessing and Evaluating Department of Defense Efforts to Inform, Influence, and Persuade: Handbook for Practitioners 2015
+
+
+
+
+Assessing and Evaluating Department of Defense Efforts to Inform, Influence, and Persuade: An Annotated Reading List 2015
+
+
+
+Social Media
+RAND's work on social media related to national security generally falls into to two broad categories: (1) ways that DoD and law enforcement could leverage social media for their advantage, and (2) adversaries' usage of social media against the United States and U.S. partners and allies. Questions relating to social media collection and analysis, along with developing methods to leverage it in operations in the IE, remain critical and outstanding. DoD and federal, state, and local law enforcement must also consider how to protect the civil liberties of U.S. citizens when analyzing social media and while conducting operations that use those sources.
+Monitoring Social Media: Lessons for Future Department of Defense Social Media Analysis in Support of Information Operations (2017) begins with the following observation: Social media analysis is playing an important and increasing role in advertising and academic research, but it also has significant potential to support military operations in the IE by providing a window into the perspectives, thoughts, and communications of a wide variety of relevant audiences. The report notes that existing legal and policy frameworks have not kept pace with the global expansion and reach of modern communication systems, which include the massive amounts of information produced by social media users on an hourly basis. In addition to providing recommendations for the most-effective analytic approaches for DoD to leverage social media analysis in operations in the IE, the authors provided a framework to consider legal, ethical, policy, technological, and training factors. In 2019's Using Social Media and Social Network Analysis in Law Enforcement, a panel of experts grappled with similar issues, but from the perspective of state and municipal law enforcement rather than national security. Stakeholders wanted to understand how to leverage social media in social network analysis but emphasized legal processes, providing transparency while ensuring privacy, and equitable justice as their primary concerns.
+In addition to adapting policy and legal frameworks to the new IE, research was undertaken to identify not only individuals participating in broad malign or subversive information efforts, but the whole structure supporting the operation. The authors of Detecting Malign or Subversive Information Efforts over Social Media: Scalable Analytics for Early Warning (2020) highlight the "credibility gap" the United States has in detecting and addressing these malign campaigns in the public sphere. Using a Russian case study, they adapted "an existing social media analysis method, combining network analysis and text analysis to map, visualize, and understand the communities interacting on social media." The analytic method required both machine-based approaches and human expertise to detect the misinformation campaign, and the authors recommended that the U.S. government not only implement the proof of concept but also develop professional expertise to support early detection of such efforts.
+The importance of social media and its analysis holds not only for DoD and other U.S. agencies and departments but also for U.S. adversaries. RAND research on adversary use of social media has thus far predominantly focused on Russia, capturing a snapshot of its tactics and operations at the time of the project, as its capabilities continue to mature and evolve. RAND researchers have termed Russian activities in the IE as, "the firehose of falsehood," which has "two . . . distinctive features: high numbers of channels and messages and a shameless willingness to disseminate partial truths or outright fictions," which confuses and overwhelms its audience, according to The Russian "Firehose of Falsehood" Propaganda Model: Why It Might Work and Options to Counter It (2016). Unfortunately, this study also found that people are poor at discriminating truth from falsehood and, therefore, are more vulnerable to being manipulated than most realize. Russian information efforts are not interested in emphasizing truth or being a credible source but rather aim to obfuscate facts and confuse their targets, and their contemporary methodology was noticed during and researched after the 2016 U.S. presidential election. Following the IC's public announcement of the Russian influence campaign, RAND researchers provided recommendations about how to combat Russian disinformation in Countering Russian Social Media Influence (2018). The authors note that Russian disinformation campaigns through social media are directed by senior levels of the Russian government and aim to push several conflicting narratives simultaneously, deepening existing divisions within American society, and degrading trust in Western institutions and the democratic process. Additional RAND reports have documented similar Russian efforts against U.S. partner nations or countries where they perceive growing U.S. influence, such as Eastern Europe and Turkey. In each of these situations, Russia seeks to exploit divisions and sow doubt in the relationship between the United States and these allies by leveraging the public information sphere on social media.
+Foreign governments are not the only adversaries the United States must confront in the IE. Nonstate actors, such as al Qaeda and the Islamic State of Iraq and Syria (ISIS) took the media tools presented to them and revolutionized their usage to spread their message, recruit followers, and disrupt U.S. and coalition efforts to eliminate the threat from the terrorist group. In two projects, Elizabeth Bodine-Baron and Todd Helmus investigated ISIS' use of Twitter and identified ways to effectively counteract the group's messaging. In Examining ISIS Support and Opposition Networks on Twitter (2016), they identified opportunities to effectively undermine ISIS' Twitter effort by learning how ISIS supporters and their opponents leveraged Twitter. In 2017, they investigated further ISIS' methods to empower opponents on Twitter, recommending that any Twitter campaign be supported by a larger effort to undermine ISIS messaging, working with influential local Twitter users, and tailoring messages to specific communities. The IE short of war provides the United States and its adversaries multiple opportunities to achieve strategic policy goals.
+Selected Publications
+
+
+
+Detecting Malign or Subversive Information Efforts over Social Media: Scalable Analytics for Early Warning 2020
+
+
+
+
+Social Media and the Army: Implications for Outreach and Recruiting 2019
+
+
+
+
+Using Social Media and Social Network Analysis in Law Enforcement: Creating a Research Agenda, Including Business Cases, Protections, and Technology Needs 2018
+
+
+
+
+Countering Russian Social Media Influence 2018
+
+
+
+
+Russian Social Media Influence: Understanding Russian Propaganda in Eastern Europe 2018
+
+
+
+
+Russian Social Media Influence: Understanding Russian Propaganda in Eastern Europe 2018
+
+
+
+
+Russia's Use of Media and Information Operations in Turkey: Implications for the United States 2018
+
+
+
+
+Empowering ISIS Opponents on Twitter 2017
+
+
+
+
+Monitoring Social Media: Lessons for Future Department of Defense Social Media Analysis in Support of Information Operations 2017
+
+
+
+
+The Russian "Firehose of Falsehood" Propaganda Model: Why It Might Work and Options to Counter It 2016
+
+
+
+
+Examining ISIS Support and Opposition Networks on Twitter 2016
+
+
+
+Data Analytics
+As mentioned in the previous section, civilians not associated with governments produce massive quantities of data on a daily basis. However, governments also regularly produce large amounts of data, whether in the public or private spheres. Considering the rise of attacks by state and nonstate hackers to gain primarily personally identifiable information, such as the hack against the U.S. Office of Personnel Management in 2015, an opportunity exists to understand how and why adversaries might attempt to gain access to the same public data troves that DoD wishes to understand and those sensitive ones produced by the U.S. government. RAND research generally focused on how DoD can better assess the data it already possesses, especially in areas where the services are overwhelmed with collecting and producing mission-critical data. However, opportunities remain to research adversarial efforts and priorities to gain access to sensitive U.S. data or the same public data to uncover and exploit U.S. vulnerabilities, which exist beyond leveraging publicly available social media information.
+Multiple reports focused on leveraging openly available data-driven research tools and mechanisms, such as Google Trends or Google AdWords, to better understand potential recruits' search methodologies or improve online outreach to those people. In 2016's Searching for Information Online: Using Big Data to Identify the Concerns of Potential Army Recruits, the authors argue that the anonymous data from those Google tools provide leading and lagging indicators about the evolution of a searcher's interest in a military career. Research conducted through focus groups in 2019 revealed recruiting specialists recognized the potential privacy issues that could arise through this type of data mining, and sought to understand potential restrictions and constraints that exist in today's online world.
+In addition to recruiting, DoD recognizes that efficiencies can be gained by leveraging, organizing, and protecting data in the acquisition field. Over a period of five years and three separate projects, RAND researchers documented that the process for gaining access to data is inefficient and might not provide access to the best data to support analysis, according to Issues with Access to Acquisition Data and Information in the Department of Defense (2015). Data remain critical to management and oversight of the acquisition process, but service cultures often have incompatible storage systems, privacy and security concerns, and limited methods to conduct analysis given these constraints. Issues with Access to Acquisition Data and Information in the Department of Defense: Doing Data Right in Weapon System Acquisition (2017) found that large businesses also have these concerns and issues. Recommended best practices from the private sector included embracing a master data management system, which would formalize governance, improve the quality of structured and unstructured data and its ability to be analyzed, and encourage training programs. Additional research considered storage methods and the feasibility of cloud computing for the voluminous amounts of data produced by the U.S. military.
+Selected Publications
+
+
+
+Leveraging Big Data Analytics to Improve Military Recruiting 2019
+
+
+
+
+Assessing Department of Defense Use of Data Analytics and Enabling Data Management to Improve Acquisition Outcomes 2019
+
+
+
+
+Issues with Access to Acquisition Data and Information in the Department of Defense: Doing Data Right in Weapon System Acquisition 2017
+
+
+
+
+Defining the Roles, Responsibilities, and Functions for Data Science Within the Defense Intelligence Agency 2016
+
+
+
+
+Searching for Information Online: Using Big Data to Identify the Concerns of Potential Army Recruits 2016
+
+
+
+
+Issues with Access to Acquisition Data and Information in the Department of Defense: Executive Summary 2015
+
+
+
+
+Data Flood: Helping the Navy Address the Rising Tide of Sensor Information 2014
+
+
+
+
+Cost Considerations in Cloud Computing 2014
+
+
+
+
+Ramifications of DARPA's Programming Computation on Encrypted Data Program 2014
+
+
+
+
+Capacity Building at the Kurdistan Region Statistics Office Through Data Collection 2014
+
+
+
+
+Capacity Building at the Kurdistan Region Statistics Office Through Data Collection: Kurdish translation 2014
+
+
+
+Intelligence Collection and Analysis
+The expanding IE challenges the IC like few other U.S. government departments and agencies; not only does it have to manage the information it collects through clandestine and technical methods but it continues to struggle with incorporating the open source data (e.g., social media, press, big data) produced by the broader population. RAND researchers worked to identify ways the IC could manage multiple large data sources and incorporate publicly available information, technologies, and methods into their suite of capabilities while maintaining operational security. The 2017 National Security Strategy of the United States describes the environment the IC faces:
+America's ability to identify and respond to geostrategic and regional shifts and their political, economic, military, and security implications requires that the U.S. Intelligence Community (IC) gather, analyze, discern, and operationalize information. In this information-dominant era, the IC must continuously pursue strategic intelligence to anticipate geostrategic shifts, as well as shorter-term intelligence so that the United States can respond to the actions and provocations of rivals.
+Open Source Intelligence (OSINT) complements strategic and crisis intelligence analysis and production but is often underutilized because of the difficulty in understanding emerging OSINT sources and methods, particularly social media platforms. RAND research suggests that, although commercial off-the-shelf tools are useful, it is likely they will have to be adapted for intelligence analysis purposes. Still, the rapid advances in machine learning and natural language processing likely will support analysis of open source data for intelligence purposes. It would behoove the IC to spend time investigating which tools and open data sources can be leveraged in the future. Defining the Roles, Responsibilities, and Functions for Data Science Within the Defense Intelligence Agency (2016) recommended that the agency look into efforts to recruit, train, and retain its own internal data science capabilities, taking advantage of the growing community and applying it to military intelligence analysis. However, commercial technologies affect how the public and private spheres interact, which is changing the way we conduct business, diplomacy, intelligence operations, and war and how we think about privacy, security, and secrecy, which will continue to have ramifications on the legal frameworks that govern the IC and its analysis and collection capabilities, as highlighted in A Rapidly Changing Urban Environment: How Commercial Technologies Can Affect Military Intelligence Operations (2016).
+RAND has also continued to focus on traditional aspects of intelligence analysis, unrelated to the issues of OSINT and data analytics. Understanding how to best train and prepare analysts for their roles within the national security community and how effective analytic capabilities are at providing effective recommendations remain of utmost importance to decisionmakers. Leveraging the Past to Prepare for the Future of Air Force Intelligence Analysis (2016) describes an environment where intelligence analysts must be ready to support commanders across the entire spectrum of warfare, from irregular and terrorist threats to conventional war with a near-peer competitor. Although some processes, such as strong critical thinking and analysis skills and building collaborative networks, are needed regardless of the type of mission, the research uncovered challenges relating to the pace of future operations and the volume of information collected. Researchers recommended a renewed focus on training and developing analysts and the tools they have available to them.
+Selected Publications
+
+
+
+Defining Second Generation Open Source Intelligence (OSINT) for the Defense Enterprise 2018
+
+
+
+
+Perspectives and Opportunities in Intelligence for U.S. Leaders 2018
+
+
+
+
+Assessing the Value of Structured Analytic Techniques in the U.S. Intelligence Community 2017
+
+
+
+
+Defining the Roles, Responsibilities, and Functions for Data Science Within the Defense Intelligence Agency 2016
+
+
+
+
+Leveraging the Past to Prepare for the Future of Air Force Intelligence Analysis 2016
+
+
+
+
+A Rapidly Changing Urban Environment: How Commercial Technologies Can Affect Military Intelligence Operations 2016
+
+
+
+Information Security, Information-Sharing, and Privacy
+With more data—and more touchpoints between individuals, corporations, and governments and the digital world—come more and greater risks that this information will be improperly protected or shared. Issues of privacy and security are embedded in all RAND work on information in a national security context. Questions about who owns data and how they control access to this information, the ability to analyze data, and how to guarantee the security of the data and its connections to the source (whether human- or systems-generated) are the key elements of concern moving forward as the world becomes more reliant on information systems. The European Union, DoD, National Institutes of Justice, and elements of the United Kingdom's regulatory community requested RAND's assistance in understanding the regulatory and legal frameworks currently available to protect individuals' privacy and information security across the spectrum of smartphones, the connectivity through the Internet of Things, and data breaches. Education of consumers, policymakers, law enforcement, and private industry remains critical to ensure the protection of citizen's civil rights and the massive quantities of data collected. Proliferation of technologies and further technological advances in those technologies will only increase the challenges presented to each of these groups. Therefore, an opportunity exists to conduct research on the policy and legal protections of the data and its producers.
+RAND's research into the legal and regulatory ecosystem confronts the tension between technology and privacy. Looking into smartphones, researchers discovered that although privacy-preserving technology is improving, it does not fully address users' privacy concerns, providing a space for policy regulation, according to Can Smartphones and Privacy Coexist?: Assessing Technologies and Regulations Protecting Personal Data on Android and iOS Devices (2016). Cell phones are not the only technology concerning policymakers and consumers. Smart speakers, such as Amazon's Alexa, Apple's HomePod, and Google Assistant, are also under scrutiny. These tools consume and produce massive quantities of data, collecting personal information that raises critical security concerns for individuals, companies, policymakers, and even criminals who seek to leverage the tool.
+Law enforcement agencies must be especially concerned as they navigate the legal space between investigations to maintain order and the protection of individuals. Technology increases the ability to share information quickly among all levels of local, state, and federal agencies, but limitations exist regarding information-sharing technology and policy. Improving Information-Sharing Across Law Enforcement: Why Can't We Know? (2015) provides recommendations to federal, state, and local law enforcement agencies about how to navigate the numerous records management systems to protect information and still provide mechanisms to share with other law enforcement agencies when appropriate. Moreover, in some domestic security arenas, such as those related to transnational terrorism, the involvement of intelligence agencies can lead to civil liberty and privacy concerns. Popular sentiment supports the notion that information-sharing between these communities is critical, but analysts must remain vigilant as they adhere to legal constraints and as policymakers consider the effectiveness of sharing the information. Two separate projects led by Brian A. Jackson highlight that establishing methods to measure the effects of information-sharing between law enforcement agencies is necessary; How Do We Know What Information Sharing Is Really Worth? Exploring Methodologies to Measure the Value of Information Sharing and Fusion Efforts (2014)looked at improving methodologies for assessing outcome measures. In Knowing More, but Accomplishing What? Developing Approaches to Measure the Effects of Information-Sharing on Criminal Justice Outcomes (2017), researchers found that for the system evaluated, significant correlations were discovered between the benefits of information-sharing and outcomes across the law enforcement enterprise. Information-sharing implications also exist between the U.S. government and commercial enterprises along with inside the U.S. federal interagency, with proprietary data and privacy concerns at the top of the list.Selected Publications
+
+
+
+Consumer Attitudes Toward Data Breach Notifications and Loss of Personal Information 2016
+
+
+
+
+Can Smartphones and Privacy Coexist? Assessing Technologies and Regulations Protecting Personal Data on Android and iOS Devices 2016
+
+
+
+
+Electronic Surveillance of Mobile Devices: Understanding the Mobile Ecosystem and Applicable Surveillance Law 2015
+
+
+
+
+Internet Freedom Software and Illicit Activity: Supporting Human Rights Without Enabling Criminals 2015
+
+
+
+
+Information Security and Data Protection Legal and Policy Frameworks Applicable to European Union Institutions and Agencies 2014
+
+
+
+
+Living Room Connected Devices: Opportunities, security challenges and privacy implications for users and industry 2014
+
+
+
+
+Portfolio Assessment of the Department of State Internet Freedom Program 2014
+
+
+
+Sources of This Research
+The studies highlighted and synthesized here were sponsored by the U.S. Army, the U.S. Air Force, and the Office of the Secretary of Defense and conducted in three federally funded research and development centers managed by RAND: RAND Arroyo Center, Project AIR FORCE, and the National Defense Research Institute.
+RAND conducted each of the analyses at the request of a senior leader, uniformed or civilian, who faced a major decision and required high-quality, objective research to help inform it. As a result, each analysis was designed to be not only rigorous and reliable, but also responsive, relevant, and immediately useful.
+This bibliography is one of a series initiated by RAND Arroyo Center, the Army's federally funded research and development center for studies and analysis.
+
+

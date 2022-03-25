@@ -1,0 +1,326 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Users’ account details and activity visible to others: improve the safety of your online platform
+  
+
+  
+  
+  
+      
+  Practical steps to manage the risk of online harms if your online platform makes users’ account details and activity visible to others.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Digital, Culture, Media & Sport
+
+      
+      Published
+      29 June 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Harms caused by users’ account details and activity being visible
+
+        
+        
+          How harms can happen if your users’ account details and activity are visible
+
+        
+        
+          How to prevent harms relating to visible account details and activity
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+If your users’ account details and activity are visible, this means some or all of them can be seen by other users, or by the general public. These details may include:
+
+
+  personal details, like their name, age or location
+  comments they have made
+  content they have viewed
+
+
+This page will help you understand how making users’ account details and activity visible on a platform can create a risk to users’ safety, and how to manage those risks.
+
+
+New online safety legislation is coming which will aim to reduce online harms. If you own or manage an online platform in scope of the forthcoming legislation, you will have a legal duty to protect users against illegal content. You will also have to put in place measures to protect children if they are likely to use your service.
+
+
+
+Learn what an online harm is
+
+Learn about your responsibilities if you own or manage an online platform or service.
+
+7 step checklist to keep your business and users safe
+
+Taking a safety by design approach
+
+Learn about best practice design if your platform features:
+
+
+  private or public channels
+  live streaming
+  anonymous or multiple accounts
+  search functionality
+
+
+
+Harms caused by users’ account details and activity being visible
+
+
+Example of a harm that can happen if users’ account details or activity are visible
+
+On an app that allows users to interact with each other, users are required to tick a box to confirm they are over the age of 16. Users can only get messages from approved ‘friends’, but their account details - including username, date of birth, location and biography - are publicly visible.
+
+Because users can verify their own ages, the app is used by children whose personal details could be exploited by offenders.
+
+
+How harms can happen if your users’ account details and activity are visible
+
+When a user’s activity and details are visible to other users or to the general public, they are more vulnerable to being tracked, targeted or groomed. Their personal information may be shared without their permission, and it is easier for strangers to contact them offline as well as online.
+
+The most likely harms relating to visible account details and activity include:
+
+
+  
+    cyberstalking and cyberbullying
+  
+  
+    hate crime
+  
+  
+    child sexual exploitation and abuse
+  
+  
+    terrorist content
+  
+
+
+How to prevent harms relating to visible account details and activity
+
+1. Know your users
+
+
+If you allow your users to create accounts, you could:
+
+
+  
+    make users verify their accounts during account creation - for example, using two-factor authentication (2FA)
+  
+  
+    establish how old your users are, using age assurance technology such as age verification
+  
+
+
+Find out more about safety technology providers
+
+
+2. Set safety settings to high by default
+
+
+Doing this when a user creates their account will stop their account details and activity from being visible inadvertently. If you do this, you should do it for all users.
+
+The highest safety level you offer should make sure that:
+
+
+  
+    users’ content, contacts and activity are only visible to friends
+  
+  
+    users cannot share their location with strangers
+  
+  
+    automatic face recognition is turned off
+  
+
+
+For users under the age of 18, you may want to (one of the following):
+
+
+  
+    stop them from reducing their safety levels
+  
+  
+    require additional authorisation before they can reduce their safety levels - for example, from a verified parent or guardian using parental controls
+  
+
+
+You can use it to prompt or nudge users when they want to change their safety settings. You should also ask users to confirm they understand the risks associated with changing them before allowing them to continue.
+
+
+
+
+Part of Online safety guidance if you own or manage an online platform
+
+
+
+
+      
+        
+    Published 29 June 2021
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Live streaming: improve the safety of your online platform
+        Search functionality: improve the safety of your online platform
+        Safer platform checklist: practical steps to protect your users from online harms
+        Anonymous or multiple account creation: improve the safety of your online platform
+        Online safety guidance if you own or manage an online platform
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Online safety guidance if you own or manage an online platform
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Online safety
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

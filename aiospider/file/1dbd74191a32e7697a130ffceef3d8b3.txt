@@ -1,0 +1,2236 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Charity funded equipment for medical and veterinary uses (VAT Notice 701/6)
+  
+
+  
+  
+  
+      
+  Find out when it's possible to get zero-rated supplies on medical and research goods and services that have been funded by charities.
+
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          HM Revenue & Customs
+
+      
+      Published
+      6 August 2014
+      Last updated
+      
+        31 December 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          1. Overview
+
+        
+        
+          2. Zero rating goods and services bought with charitable or donated funds
+
+        
+        
+          3. Eligible bodies
+
+        
+        
+          4. Qualifying goods and services
+
+        
+        
+          5. Funding and purchasing
+
+        
+        
+          6. Purchasing goods and services for donation to an eligible body
+
+        
+        
+          7. Imports and exports
+
+        
+        
+          8. Evidence of eligibility for relief
+
+        
+        
+          9. Checklist for suppliers
+
+        
+        
+          Your rights and obligations
+
+        
+        
+          Help us improve this notice
+
+        
+        
+          Putting things right
+
+        
+        
+          How HMRC uses your information
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+1. Overview
+
+1.1 What this notice is about
+
+This notice explains:
+
+
+  
+    when goods and services purchased:
+
+    
+      
+        with charitable or donated funds by eligible bodies can be zero-rated
+      
+      
+        by a third party for donation to an eligible body can be zero-rated
+      
+    
+  
+  
+    what is an eligible body for the purposes of this relief
+  
+  
+    the conditions that must be met before you can zero rate goods and services
+  
+
+
+A separate supplement is available, and contains sample declarations for completion when qualifying goods and services are purchased by, or for donation to, eligible bodies.
+
+For details of other VAT reliefs on goods and services purchased by a charity, see How VAT affects charities (VAT Notice 701/1) and Goods or services supplied to charities (VAT Notice 701/58).
+
+1.2 Who should read this notice
+
+You should read this notice if you are, or if you represent a:
+
+
+  
+    hospital, health authority, research institution or one of the charitable bodies eligible for this relief
+  
+  
+    person, organisation or group purchasing goods or services for donation to any of these
+  
+  
+    business supplying qualifying goods or services to any of these
+  
+
+
+1.3 The law covering this notice
+
+This notice is covered in part by the VAT Act 1994:
+
+
+  
+    section 30 provides that a supply is zero-rated if it is specified in Schedule 8 to the Act
+  
+  
+    schedule 8, Group 15 provides that certain supplies of qualifying goods and services to an eligible body, or to a person for donation to an eligible body, are zero-rated
+  
+
+
+1.4 Definition of handicapped or disabled
+
+The VAT law refers to people who are ‘handicapped’ and defines this as ‘chronically sick or disabled’. Some of these terms are no longer in general use and can sometimes cause offence. These terms are used in this notice only where it is essential to accurately reflect the wording of the law.
+
+2. Zero rating goods and services bought with charitable or donated funds
+
+2.1 The basic conditions for zero rating
+
+Goods and services are zero-rated when all of the following conditions are met:
+
+
+  
+    
+      Condition
+      Description
+    
+  
+  
+    
+      1
+      The goods and services are purchased either:by an eligible body - see section 3for donation to an eligible body – see section 6.
+    
+    
+      2
+      The supply is of either:qualifying goods or services – see paragraph 4.1the repair and maintenance of qualifying goods
+    
+    
+      3
+      None of the restrictions detailed in paragraph 3.6 apply
+    
+    
+      4
+      If the supply is of medical, scientific, computer, video, sterilising, laboratory, or refrigeration equipment, this equipment is being purchased to be used by an eligible body mainly for medical or veterinary research, training, diagnosis or treatment – see paragraph 4.3
+
+    
+    
+      5
+      Where the goods or services are being purchased by an eligible body, they are paid for using charitable or donated funds – see section 5
+
+    
+    
+      6
+      The purchaser provides the supplier with a valid declaration of eligibility or sufficient evidence to demonstrate eligibility for the relief – see paragraph 8.2
+
+    
+  
+
+
+Before zero rating any supplies of goods or services, you may wish to consult the checklist for suppliers.
+
+2.2 Other VAT reliefs available to charities
+
+As well as those mentioned in this notice, other goods and services purchased by a charity may qualify for zero rating. Further details can be found in How VAT affects charities (VAT Notice 701/1) and Goods or services supplied to charities (VAT Notice 701/58).
+
+3. Eligible bodies
+
+3.1 Bodies eligible to purchase qualifying goods and services at the zero rate
+
+Subject to all of the other conditions in paragraph 2.1 being met, the following bodies can purchase qualifying goods at the zero rate:
+
+
+  
+    certain health bodies – see paragraph 3.2
+  
+  
+    research institutions whose activities are not carried on for profit – see paragraph 3.3
+  
+  
+    certain charitable institutions – see paragraph 3.4
+  
+  
+    any person, group or organisation that is purchasing qualifying goods for donation to one of the eligible bodies specified in paragraph 6.1
+  
+
+
+3.2 Health bodies eligible to receive qualifying goods and services at the zero rate
+
+The health bodies that can purchase qualifying goods at the zero rate are:
+
+
+  
+    NHS trusts
+  
+  
+    other hospitals whose activities are not carried on for profit – see paragraph 3.3
+  
+  
+    Special Health Authorities in England
+  
+  
+    Health Authorities, Special Health Authorities and Local Health Boards in Wales
+  
+  
+    Health Boards in Scotland
+  
+  
+    Health and Social Services Boards in Northern Ireland
+  
+  
+    Clinical Commissioning Groups
+  
+  
+    the Common Services Agency for the Scottish Health Service
+  
+  
+    the Northern Ireland Central Services Agency for Health and Social Services
+  
+  
+    the Isle of Man Health Services Board
+  
+
+
+3.3 When the activities of a hospital or research institution are carried out on a not for profit basis
+
+A hospital or research institution carries out its activities on a not for profit basis when it meets both of the following conditions:
+
+
+  
+    
+      Condition
+      Description
+    
+  
+  
+    
+      1
+      it cannot, and does not, distribute any profit achieved
+    
+    
+      2
+      it applies any surplus that arises from supplies of hospital or research services to the furtherance of its objectives
+    
+  
+
+
+3.4 Charitable institutions eligible to receive qualifying goods and services at the zero rate
+
+3.4.1 Charities that are eligible bodies
+
+
+  
+    
+      A charitable institution is an eligible body when it is
+      and
+    
+  
+  
+    
+      A charitable day centre
+      does not exist primarily as a place for social or recreational activitiesprovides care or medical or surgical treatment, where over an extended period of time the majority of the recipients are chronically sick or disabled people – see paragraphs 3.4.2 and 3.4.3Note – a charitable day centre or care establishment may still be an eligible body if, for a temporary period, chronically sick or disabled people form less than 50% of the recipients of care or treatment services, provided that over the extended period, the majority of recipients are chronically sick or disabled.Examples include charitable physiotherapy centres for disabled children, and charitable centres that run rehabilitation or training classes for disabled adults.Only qualifying goods used for an eligible purpose can be zero-rated to charitable day centres – see paragraph 3.6.
+    
+    
+      Any other charitable establishment
+      provides institutional care, or medical or surgical treatment, where the majority of the recipients are chronically sick or disabled people – see paragraphs 3.4.2 and 3.4.3is approved, licensed or registered under the relevant social legislation with the appropriate regulatory body for care standards; or is exempted from obtaining such registration by the relevant legislation.Examples include charitable hospices and residential care homes.Only qualifying goods used for an eligible purpose can be zero-rated to these charitable establishments – see paragraph 3.6 for restrictions.
+    
+    
+      A charitable domiciliary care provider
+      provides medical, personal or nursing care services to disabled people in their own homes – see paragraphs 3.4.3 and 3.4.4.Only certain qualifying goods can be zero-rated to charitable domiciliary care providers – see paragraph 3.6 for restrictions.
+    
+    
+      Any charity that
+      provides rescue or first aid services for humans or animalsprovides transport services mainly to disabled people; orhas as its sole purpose and function the provision of a range of services for, or on behalf of, chronically sick or disabled people. Examples include charities established to: provide care or welfare services to disabled people; lobby on behalf of disabled people; or fund medical research into the causes, prevention or cure of disablement.
+    
+  
+
+
+Bodies that are not eligible to purchase qualifying goods and services zero-rated under this relief include day centres, residential care homes or providers of home care services:
+
+
+  
+    that are not charities
+  
+  
+    where over an extended period the majority of the recipients of care provided are not chronically sick or disabled people
+  
+
+
+Any charity that is not an eligible body may still purchase certain goods and services zero-rated under separate VAT reliefs. For further details see How VAT affects charities (VAT Notice 701/1) and Goods or services supplied to charities (VAT Notice 701/58).
+
+3.4.2  Care, medical or surgical treatment
+
+This includes protection, treatment, supervision, control or guidance that is provided to meet medical, physical, personal or domestic needs of an individual. Care or treatment will usually involve some personal contact between the provider and recipient. For example:
+
+
+  
+    helping a person with daily personal needs such as bathing, dressing, feeding or toileting
+  
+  
+    medical or surgical treatment
+  
+  
+    nursing sick or injured patients in a hospital, hospice or nursing home
+  
+  
+    looking after or supervising vulnerable people
+  
+
+
+For the purposes of this relief, catering, laundry and other services that do not require direct contact with the recipient are not care or medical or surgical treatment.
+
+3.4.3 Chronically sick or disabled
+
+Chronic sickness is a condition regarded as such by the medical profession.
+
+Disability is a physical or mental impairment that has a substantial and long-term adverse effect on a person’s ability to carry out day-to-day activities.
+
+Frail elderly people who are not disabled, or people whose mobility is temporarily impaired by short-term illness or injury are not chronically sick or disabled for the purposes of this VAT relief.
+
+3.4.4 Medical, personal or nursing care
+
+This includes medical treatment and the sort of care that a nurse might carry out or supervise – such as washing or feeding a patient, helping a patient out of bed, and administering drugs.
+
+It does not include assistance with general domestic tasks such as cooking, cleaning or shopping.
+
+3.5 Animal charities that are eligible bodies
+
+Animal charities are eligible bodies if they provide rescue or first aid services to animals, or are animal hospitals providing ‘in-patient’ facilities.
+
+Animal clinics or surgeries are not eligible bodies for the relief unless they’re part of an animal hospital, or are run by a charity that also provides rescue or first aid services.
+
+3.6 Zero rating of qualifying goods or services purchased by any eligible body
+
+There are restrictions on the qualifying goods that some eligible bodies can purchase zero-rated. These restrictions are:
+
+
+  
+    
+      Eligible body
+      Restrictions on use
+    
+  
+  
+    
+      Charitable day centresorCharitable establishments providing care or medical or surgical treatment
+      Zero rating applies only when qualifying goods or services are for use within the day centre or care establishment.Goods or services purchased for a more general use are not zero-rated under this relief.
+    
+    
+      Charitable domiciliary care providers
+      Zero rating applies only to:medical equipment that is used in the course of domiciliary careparts or accessories of such medical equipmentrepair or maintenance of such medical equipmentis not available to domiciliary care providers for any other qualifying goods or services.
+    
+  
+
+
+These restrictions also apply when the goods are purchased for donation to one of these eligible bodies.
+
+4. Qualifying goods and services
+
+4.1 Goods and services supplied to an eligible body that qualify for zero rating
+
+Subject to the restrictions on use detailed in paragraph 3.6, the following goods and services are zero-rated when purchased or hired by an eligible body using charitable or donated funds:
+
+
+  
+    
+      Qualifying goods or services
+      Further information
+    
+  
+  
+    
+      The following equipment when purchased mainly for medical or veterinary research, training, diagnosis or treatment:
+       
+    
+    
+      medical equipmentscientific equipmentcomputer equipment and certain softwarevideo equipmentsterilising equipmentlaboratory equipmentrefrigeration equipment
+      paragraph 4.2.2paragraph 4.2.3paragraphs 4.2.4 and 4.2.5paragraph 4.2.6paragraph 4.2.7paragraph 4.2.8paragraph 4.2.9
+    
+    
+      Parts and accessories for use in or with any of this equipment.
+      paragraph 4.5
+    
+    
+      Ambulances and parts or accessories for use in or with ambulances.
+      paragraphs 4.4 and 4.5
+    
+    
+      Certain goods for use by a disabled person.
+      paragraph 4.6
+    
+    
+      Certain motor vehicles.
+      paragraph 4.7
+    
+    
+      Certain rescue equipment when purchased by, or for donation to, a charity providing rescue or first aid services.
+      paragraph 4.8
+    
+    
+      Certain resuscitation models for use in first aid training
+      paragraph 4.9
+    
+    
+      Repair, maintenance or installation of qualifying goods, and any goods supplied in connection with this repair, maintenance or installation.
+      paragraph 4.10
+    
+  
+
+
+When a charity purchases goods and services that are not detailed, zero rating under a separate VAT relief may still apply. For further details see How VAT affects charities (VAT Notice 701/1) and Goods or services supplied to charities (VAT Notice 701/58).
+
+4.2 Equipment that can be zero-rated when purchased by an eligible body
+
+4.2.1 Definition of equipment
+
+Equipment is articles designed or used for a specific purpose. It will usually be durable, although certain disposable items, such as syringes that are designed to be used once only, may still be equipment.
+
+The following items are not equipment and do not qualify for zero rating, even when supplied to, or for donation to, an eligible body:
+
+
+  
+    bulk materials such as liquids, powders, sheets, pellets, granules
+  
+  
+    clothing (other than specialist medical equipment such as surgical masks, gowns and gloves)
+  
+  
+    consumables such as chemical reagents, fuel, ink, medicines, oil, paper, and cleaning and sterilising fluids – medicines and chemical reagents may qualify for zero rating under a separate relief when supplied to certain charities
+  
+
+
+Further information can be found in How VAT affects charities (VAT Notice 701/1).
+
+4.2.2 Medical equipment
+
+Medical equipment is equipment (see paragraph 4.2.1) that has features or characteristics that identify it as having been designed for a medical (including dental) purpose or function, such as the diagnosis or treatment of patients.
+
+This covers a wide range of goods, from simple items like bandages and tongue depressors, to complex machinery such as x-ray machines and scanners.
+
+General use items used to equip a medical facility, such as a television purchased for use in a hospital ward, are not medical equipment.
+
+Medical equipment may only be zero-rated when it is purchased or hired mainly for medical or veterinary research, training, diagnosis or treatment – see paragraph 4.3.
+
+4.2.3 Scientific equipment
+
+Scientific equipment is equipment (see paragraph 4.2.1) designed to perform a scientific function. This includes precision measuring equipment and analytical equipment such as thermometers, weighing machines and spectrometers.
+
+Equipment that is not designed to perform a scientific function, but merely works on a scientific principle, is not scientific equipment.
+
+Scientific equipment may only be zero-rated when it is purchased or hired mainly for medical or veterinary research, training, diagnosis or treatment – see paragraph 4.3.
+
+4.2.4 Computer equipment
+
+Computer equipment includes computer hardware such as servers, screens, keyboards and disks.
+
+Machinery or other equipment that is either operated by computer or has computerised components, is not computer equipment.
+
+Computer equipment may only be zero-rated when it is purchased or hired mainly for medical or veterinary research, training, diagnosis or treatment – see paragraph 4.3.
+
+4.2.5 The rules that apply to computer software
+
+Computer software is zero-rated when purchased by an eligible body solely for use in medical research, diagnosis or treatment.
+
+Zero rating does not apply to computer software or programs that are purchased:
+
+
+  
+    for a purpose other than medical research, diagnosis or treatment
+  
+  
+    by a person, body or organisation other than an eligible body – even if the software is purchased for donation to an eligible body
+  
+
+
+4.2.6 Video equipment
+
+This includes video recording and playback equipment.
+
+Video equipment may only be zero-rated when it is purchased or hired mainly for medical or veterinary research, training, diagnosis or treatment – see paragraph 4.3.
+
+4.2.7 Sterilising equipment
+
+This includes autoclaves and other specialised equipment using steam or other high temperature processes.
+
+Microwave ovens and other cooking appliances are not sterilising equipment, even if they can be used to sterilise. Sterilising fluid is not equipment, and does not qualify for zero rating, even when purchased by an eligible body.
+
+Sterilising equipment may only be zero-rated when it is purchased or hired mainly for medical or veterinary research, training, diagnosis or treatment – see paragraph 4.3.
+
+4.2.8 Laboratory equipment
+
+This includes equipment (see paragraph 4.2.1) that’s designed for use in a laboratory, such as:
+
+
+  
+    test tubes and other laboratory glassware
+  
+  
+    bunsen burners
+  
+  
+    fume cupboards
+  
+  
+    microtomes
+  
+  
+    cryostats
+  
+  
+    laboratory benches
+  
+  
+    specialised sinks
+  
+  
+    catchpots
+  
+
+
+The following are not laboratory equipment:
+
+
+  
+    ordinary cupboards, lockers, seats and other furniture, even when these are used to equip a laboratory
+  
+  
+    bulk materials such as liquids, powders, sheets, pellets, granules
+  
+  
+    general purpose items used to equip a laboratory
+  
+  
+    consumables such as chemical reagents, medicines, and cleaning and sterilising fluids
+  
+
+
+Laboratory equipment may only be zero-rated when it is purchased or hired mainly for medical or veterinary research, training, diagnosis or treatment – see paragraph 4.3.
+
+4.2.9 Refrigeration equipment
+
+This includes all cooling and freezing equipment, whether designed for industrial, domestic or any other purpose.
+
+Refrigeration equipment may only be zero-rated when it is purchased or hired mainly for medical or veterinary research, training, diagnosis or treatment – see paragraph 4.3.
+
+4.3 Medical or veterinary research, training, diagnosis or treatment
+
+Medical, scientific, computer, video, sterilising, laboratory, or refrigeration equipment can only be zero-rated when purchased by an eligible body mainly for use in one of the following ways:
+
+(a) Medical or veterinary research. This means original research into human or animal disease and injury.
+
+(b) Medical or veterinary training. This covers the training of doctors, nurses, surgeons (including dental and veterinary surgeons), and other professionals involved in medical or veterinary diagnosis or treatment. The overall programme of training should include the physical application by the students of theoretical knowledge. The teaching of subjects like biology and zoology, where the trainee has no practical medical or veterinary involvement with patients, is not medical or veterinary training for the purposes of this VAT relief.
+
+(c) Medical or veterinary diagnosis or treatment. This is the diagnosis and treatment of a physical or mental illness or injury by a medical or paramedical practitioner or a veterinary surgeon.
+
+Medical, scientific, computer, video, sterilising, laboratory, or refrigeration equipment purchased for any other use is not eligible for zero rating. This includes equipment purchased or hired for:
+
+
+  
+    general biological studies
+  
+  
+    environmental research
+  
+  
+    research into animal husbandry or food production
+  
+  
+    general administration
+  
+  
+    domestic or leisure purposes
+  
+
+
+Where the equipment is to be used partly for a qualifying use, and partly for any other use, it can be zero-rated only where its main use is one of those detailed in (a), (b), or (c) of this paragraph. In this context ‘main’ means real, substantial and continuing.
+
+4.4 What an ambulance is
+
+An ambulance is an emergency vehicle used for transporting sick and injured people or animals. This includes specially equipped air ambulances or watercraft.
+
+To qualify for zero rating as an ambulance, the vehicle must have the following features:
+
+
+  
+    the front and both sides must bear permanently fitted signs indicating that the vehicle is an ambulance
+  
+  
+    in the case of an ambulance for transporting human patients, adequate door space for the loading of a patient on a stretcher
+  
+  
+    seating to the rear of the driver (or pilot) for at least one attendant
+  
+  
+    one or more stretcher that, with its handles extended, measures at least 1.95 metres, together with permanent fittings to hold this stretcher in position, this size specification applies only to ambulances that transport human patients – for ambulances that transport animals, any reasonable lifting or carrying equipment is acceptable
+  
+
+
+4.5 Parts and accessories
+
+4.5.1 General
+
+Subject to the other conditions in paragraph 2.1, parts or accessories can be zero-rated when purchased or hired by an eligible body predominantly for use in or with:
+
+
+  
+    medical, scientific, computer, video, sterilising, laboratory or refrigeration equipment that is used in medical or veterinary research, training, diagnosis or treatment – see paragraph 4.3
+  
+  
+    ambulances – see paragraph 4.4
+  
+  
+    the items for use by disabled people described in paragraph 4.6
+  
+
+
+4.5.2 Parts and accessories
+
+Parts are integral components without which the equipment is incomplete.
+
+Accessories means optional extras that are not necessary for the equipment to operate in its normal course, but are used to:
+
+
+  
+    improve the operation of the equipment
+  
+  
+    enable the equipment to be used, or used to better effect, in particular circumstances
+  
+
+
+This would cover, for example, a printer for use with a computer, a specially designed camera for use with a microscope, and a rack for holding test tubes.
+
+Items that are not parts or accessories include:
+
+
+  
+    items that have independent uses, such as television sets
+  
+  
+    accessories to accessories
+  
+  
+    generic bulk substances, such as liquids, powders, sheets, pellets and granules
+  
+
+
+4.6 Goods used by disabled people that may be zero-rated
+
+Subject to the other conditions in paragraph 2.1 being met, zero rating applies to the following items:
+
+
+  
+    medical or surgical appliances designed solely for the relief of disability or injury
+  
+  
+    certain electrically or mechanically adjustable beds
+  
+  
+    certain sanitary devices
+  
+  
+    certain chair or stair lifts
+  
+  
+    certain hoists and lifters
+  
+  
+    motor vehicles that are capable of carrying up to 12 people, and have been designed or substantially and permanently adapted for the carriage of a person in a wheelchair or on a stretcher
+  
+  
+    boats designed, or substantially and permanently adapted, for use by a disabled person
+  
+  
+    other equipment and appliances designed solely for use by a chronically sick or disabled person
+  
+
+
+Further details on each of these categories can be found in Reliefs from VAT for disabled and older people (VAT Notice 701/7).
+
+4.7 Motor vehicles but not ambulances that qualify for zero rating
+
+When purchased or hired by an eligible body using charitable or donated funds, the following vehicles are zero-rated:
+
+
+  
+    specially designed or adapted motor vehicles of a type described in paragraph 4.6
+  
+  
+    unadapted motor vehicles that have between 7 and 50 seats, and are purchased or hired for use by an eligible body mainly for the transportation of blind, deaf, mentally handicapped or terminally ill people
+  
+  
+    vehicles that have been substantially and permanently adapted to carry at least one disabled person in a wheelchair, the number of wheelchair spaces and access facilities depend on the seating capacity of the vehicle, as detailed here
+  
+
+
+
+  
+    
+      Number of seats
+      Special facilities or conditions
+    
+  
+  
+    
+      1 – 16
+      1 or more wheelchair spaces and a fitted ramp to provide access for wheelchair or an electric or hydraulic lift
+    
+    
+      17 – 26
+      2 or more wheelchair spaces and an electric or hydraulic lift
+    
+    
+      27 – 36
+      3 or more wheelchair spaces and an electric or hydraulic lift
+    
+    
+      37 – 46
+      4 or more wheelchair spaces and an electric or hydraulic lift
+    
+    
+      47 – 50
+      5 or more wheelchair spaces and an electric or hydraulic lift
+    
+  
+
+
+4.8 Rescue equipment that qualifies for zero rating
+
+Rescue equipment is only zero-rated under this relief when all of the following conditions are met:
+
+
+  
+    
+      Condition
+      Description
+    
+  
+  
+    
+      1
+      The supply is of:telecommunication equipmentlight enhancing equipmentheat detecting equipment aural or visual equipmentthat is not of a type ordinarily supplied for private or recreational use
+    
+    
+      2
+      The equipment is supplied to, or for donation to, a charity that provides rescue or first aid services
+    
+    
+      3
+      The equipment is to be used by the charity solely for providing rescue or first aid services
+    
+  
+
+
+Rescue equipment that is eligible for zero rating includes:
+
+
+  
+    image intensifiers, heat seekers and similar specialist equipment used to locate casualties
+  
+  
+    flares used to illuminate large areas for search purposes
+  
+  
+    two-way radios that are pre-calibrated to the emergency frequency
+  
+
+
+General use items such as mobile phones and pagers, binoculars, torches, searchlights and loudhailers are not zero-rated, even when they’re purchased for use by a rescue or first aid charity.
+
+4.9 Resuscitation training models that can be zero-rated
+
+Resuscitation training models (resuscitation dummies) can only be zero-rated if they include a head and torso designed for use during first aid training in cardiopulmonary resuscitation and defibrillation techniques.
+
+4.10 Repair, maintenance or installation of eligible goods
+
+The repair or maintenance of any goods detailed in paragraph 4.1, and any goods supplied in connection with this repair and maintenance, are zero-rated when the:
+
+
+  
+    goods are owned or possessed by an eligible body
+  
+  
+    repair or maintenance service is paid for using charitable or donated funds
+  
+
+
+Zero rating also applies to any goods supplied in connection with a zero-rated supply of repair and maintenance.
+
+If the normal selling price of relevant goods includes an amount for installation, fixing or connection to mains services or testing equipment on site, zero rating applies to the whole selling price – including that element which relates to installation or testing.
+
+Where building works, such as removal of walls or reinforcing floors, are necessary in order to install large items of equipment, these works are standard-rated, even when carried out by the supplier of the equipment.
+
+4.11 Examples of qualifying goods or services
+
+When consulting this table, you should remember that in addition to the supply being of qualifying goods or services, all of the other conditions detailed in paragraph 2.1 must be met for zero rating to apply.
+
+This list is not exhaustive. With the pace of technological change, new types of equipment will often be developed. If an item does not appear on this list, the underlying principles set out in this notice should be followed to determine if the item is a qualifying one. In areas of doubt, specialist advice should be sought.
+
+
+  
+    
+      Not eligible for relief
+      Goods
+      Eligible for relief as
+    
+  
+  
+    
+      X
+      Air conditioners
+       
+    
+    
+       
+      Air control systems, specialist (capable of precisely controlling pressure, temperature and humidity)
+      Laboratory equipment
+    
+    
+      X
+      Air filters, general
+       
+    
+    
+       
+      Air filtration systems, specialist (built to meet specific circumstances)
+      Laboratory equipment
+    
+    
+      X
+      Air showers
+       
+    
+    
+      X
+      Alarms, security of smoke
+       
+    
+    
+      X
+      Alarm bracelets
+       
+    
+    
+      X
+      Alcohol spray
+       
+    
+    
+       
+      Anaesthetic apparatus
+      Medical equipment
+    
+    
+       
+      Animal cages, specialist (for example, free from chemicals and not available for consumer use)
+      Laboratory equipment
+    
+    
+       
+      Aprons, lead lined for x-ray protection
+      Medical equipment
+    
+    
+      X
+      Aprons, other
+       
+    
+    
+       
+      Artificial limbs
+      Goods for use of disabled person
+    
+    
+       
+      Autoclaves
+      Sterilising equipment
+    
+    
+      X
+      Bactericides
+       
+    
+    
+       
+      Bandages
+      Medical equipment
+    
+    
+       
+      Barometers
+      Scientific equipment
+    
+    
+       
+      Bedding, specialist (for example, free from chemicals) for animal cages
+      Laboratory equipment
+    
+    
+       
+      Bedpans
+      Medical equipment
+    
+    
+       
+      Bedpan washers, with sterilising steam cycle
+      Sterilising equipment
+    
+    
+      X
+      Bedpan washers, other
+       
+    
+    
+       
+      Beds, highly specialised (for example, net suspension or medical water beds)
+      Medical equipment
+    
+    
+       
+      Beds, hospital – with tilting action or variable height features
+      Goods for use of disabled person
+    
+    
+      X
+      Biocidal sprays
+       
+    
+    
+      X
+      Blankets
+       
+    
+    
+       
+      Bunsen burners
+      Laboratory equipment
+    
+    
+       
+      Bottle washers, animal cage specific
+      Laboratory equipment
+    
+    
+       
+      Cages, animal, specialist (for example, free from chemicals and not available for consumer use)
+      Laboratory equipment
+    
+    
+      X
+      Cameras, still
+       
+    
+    
+       
+      Cameras, video
+       
+    
+    
+      X
+      Cameras, digital (with video capability)
+       
+    
+    
+       
+      Cameras, thermal imaging
+      Scientific equipment
+    
+    
+      X
+      Cartridges, printer
+       
+    
+    
+      X
+      Catering equipment
+       
+    
+    
+       
+      Catheters
+      Medical equipment
+    
+    
+      X
+      
+CD players or recorders
+       
+    
+    
+       
+      Centrifuges
+      Scientific or laboratory equipment
+    
+    
+       
+      Clamps, medical
+      Medical equipment
+    
+    
+      X
+      Cleaning equipment
+       
+    
+    
+      X
+      Closed circuit television systems
+       
+    
+    
+       
+      Commode chairs
+      Goods for use of disabled person
+    
+    
+       
+      Computer disks and tapes
+      Accessory to computer equipment
+    
+    
+       
+      Computer keyboards
+      Computer equipment
+    
+    
+       
+      Computer mouse
+      Accessory to computer equipment
+    
+    
+       
+      Computer printers, including networking and multi-function printers, provided there is evidence the item is to be used mainly for medical or veterinary research, and so on.
+      Accessory to computer equipment
+    
+    
+       
+      Computer screens
+      Accessory to computer equipment
+    
+    
+       
+      Computer screen filters
+      Accessory to computer equipment
+    
+    
+       
+      Computer server
+      Computer equipment
+    
+    
+      X
+      Computer stationery
+       
+    
+    
+       
+      Computer tablet, including iPads
+      Computer equipment, provided there is evidence the item is to be used mainly for medical or veterinary research, and so on.
+    
+    
+      X
+      Cotton wool
+       
+    
+    
+      X
+      Curtains
+       
+    
+    
+      X
+      Data
+       
+    
+    
+       
+      Deep freezers
+      Refrigeration equipment
+    
+    
+       
+      Dental chairs
+      Medical equipment
+    
+    
+       
+      Dental drills
+      Medical equipment
+    
+    
+       
+      Dental mirrors
+      Medical equipment
+    
+    
+       
+      Dental spittoons
+      Medical equipment
+    
+    
+      X
+      Disinfectants
+       
+    
+    
+       
+      Drip poles
+      Medical equipment
+    
+    
+      X
+      Drugs trolleys
+       
+    
+    
+       
+      DVD players, recorders or blank DVDs
+
+      Video equipment
+    
+    
+       
+      Endoscopes
+      Medical equipment
+    
+    
+       
+      Electro-cardiographs
+      Medical equipment
+    
+    
+      X
+      Ethernet
+       
+    
+    
+       
+      Eye test charts
+      Medical equipment
+    
+    
+       
+      Examination couches, adjustable
+      Medical equipment
+    
+    
+       
+      First aid kits, supplied as prepackaged units
+      Medical equipment
+    
+    
+       
+      Forceps
+      Medical equipment
+    
+    
+      X
+      Fuel
+       
+    
+    
+       
+      Fume cupboards
+      Laboratory equipment
+    
+    
+      X
+      Gloves, nitrile
+       
+    
+    
+       
+      Gloves, surgical
+      Medical equipment
+    
+    
+      X
+      Gloves, other
+       
+    
+    
+      X
+      Gymnasium equipment
+       
+    
+    
+      X
+      Hearing aids
+       
+    
+    
+       
+      Heart pacemakers
+      Medical equipment or goods for use of disabled person
+    
+    
+       
+      Hoists and patient lifting devices
+      Goods for use of disabled person
+    
+    
+       
+      Howie-style lab coats (reusable)
+      Laboratory equipment
+    
+    
+      X
+      Howie-style lab coats (disposable)
+       
+    
+    
+       
+      Hypodermic needles
+      Medical equipment
+    
+    
+       
+      Ice-making machines
+      Refrigeration equipment
+    
+    
+       
+      Identification bracelets for patients
+      Medical equipment
+    
+    
+       
+      iPads
+      Computer equipment
+    
+    
+      X
+      iPhones
+       
+    
+    
+       
+      Kidney bowls
+      Medical equipment
+    
+    
+       
+      Lab coats, including Howie-style reusable
+      Laboratory equipment
+    
+    
+       
+      lab coats
+       
+    
+    
+      X
+      Laboratory animals
+       
+    
+    
+       
+      Laboratory benches
+      Laboratory equipment
+    
+    
+       
+      Laboratory glassware
+      Laboratory equipment
+    
+    
+      X
+      Lockers
+       
+    
+    
+       
+      Mattresses, specially designed for the relief
+      Medical equipment
+    
+    
+       
+      or prevention of pressure sores
+       
+    
+    
+       
+      Medicine measures, graduated
+      Medical equipment
+    
+    
+       
+      Microscopes
+      Scientific or laboratory equipment
+    
+    
+      X
+      Mobile phones
+       
+    
+    
+      X
+      Nurse call systems
+       
+    
+    
+      X
+      Occupational therapy materials
+       
+    
+    
+       
+      Operating lights
+      Medical equipment
+    
+    
+      X
+      Overbed tables
+       
+    
+    
+      X
+      Overhead projection units
+       
+    
+    
+       
+      Pacemakers
+      Medical equipment or goods for use of disabled person
+    
+    
+      X
+      Pagers
+       
+    
+    
+       
+      Patient trolleys and stretchers
+      Medical equipment
+    
+    
+       
+      Physiotherapy equipment, specialised – other than gymnasium equipment
+      Medical equipment
+    
+    
+       
+      Pillows, orthopaedic, specially designed and used for neck or spinal injuries
+      Medical equipment
+    
+    
+      X
+      Pillows, other
+       
+    
+    
+       
+      Pipettes
+      Laboratory equipment
+    
+    
+      X
+      Power supplies, including UPS
+       
+    
+    
+      X
+      Printer cartridges
+       
+    
+    
+      X
+      Projectors (including ceiling mounted options)
+       
+    
+    
+       
+      Rack washers, animal cage specific
+      Medical equipment
+    
+    
+       
+      Radiography equipment
+      Medical equipment
+    
+    
+       
+      Renal dialysis units
+      Medical equipment or goods for use of disabled person
+    
+    
+       
+      Resuscitation equipment
+      Medical equipment
+    
+    
+       
+      Resuscitation dummies
+      Resuscitation training model
+    
+    
+      X
+      Routers
+       
+    
+    
+       
+      Scalpels
+      Medical equipment
+    
+    
+      X
+      Screens
+       
+    
+    
+       
+      Sharps bins
+      Medical equipment
+    
+    
+      X
+      Smartphones
+       
+    
+    
+      X
+      Sound systems
+       
+    
+    
+       
+      Specialist animal cages (for example, free from chemicals and not available for consumer use)
+      Laboratory equipment
+    
+    
+       
+      Specialist bedding (for example, free from chemicals) for animal cages
+      Laboratory equipment
+    
+    
+       
+      Sphygmomanometers
+      Medical equipment
+    
+    
+       
+      Splints
+      Medical equipment
+    
+    
+      X
+      Stationery
+       
+    
+    
+      X
+      Sterilising solutions
+       
+    
+    
+      X
+      Sterisiling wipes
+       
+    
+    
+       
+      Stethoscopes
+      Medical equipment
+    
+    
+       
+      Surgical gloves
+      Medical equipment
+    
+    
+       
+      Surgical gowns
+      Medical equipment
+    
+    
+       
+      Surgical masks
+      Medical equipment
+    
+    
+       
+      Suture needles
+      Medical equipment
+    
+    
+       
+      Swabs
+      Medical equipment
+    
+    
+       
+      Syringes
+      Medical equipment
+    
+    
+       
+      Tablet, computer (including iPads)
+      Computer equipment, provided there is evidence the item is to be used mainly for medical or veterinary research, and so on
+    
+    
+      X
+      Tape recorders
+       
+    
+    
+      X
+      Telephones
+       
+    
+    
+      X
+      Television sets
+       
+    
+    
+       
+      Test tubes
+      Laboratory equipment
+    
+    
+       
+      Thermal imaging cameras
+      Scientific equipment
+    
+    
+       
+      Thermometers, clinical
+      Medical equipment
+    
+    
+       
+      Thermometers, other
+      Scientific equipment
+    
+    
+       
+      Tongue depressors
+      Medical equipment
+    
+    
+      X
+      Towels
+       
+    
+    
+      X
+      Uniforms
+       
+    
+    
+       
+      
+USB memory sticks
+      Computer equipment
+    
+    
+       
+      Video cameras
+      Video equipment
+    
+    
+       
+      Video tapes
+      Video equipment
+    
+    
+       
+      Video players
+      Video equipment
+    
+    
+       
+      Video monitors
+      Video equipment
+    
+    
+      X
+      Wall screens or monitors
+       
+    
+    
+      X
+      Waste disposal bags, boxes, jars and sacks
+       
+    
+    
+      X
+      Waste disposal machinery
+       
+    
+    
+       
+      Weighing machines
+      Scientific equipment
+    
+    
+       
+      Wheelchairs
+      Goods for use of disabled person
+    
+    
+      X
+      WiFi systems
+       
+    
+    
+      X
+      Wipes, clean room
+       
+    
+    
+      X
+      Wipes, sterilising
+       
+    
+    
+       
+      Wound dressings
+      Medical equipment
+    
+    
+       
+      X-ray films or plates
+      Medical equipment
+    
+    
+       
+      X-ray machines – medical
+      Medical equipment
+    
+    
+       
+      X-ray machines – other
+      Scientific equipment
+    
+    
+       
+      X-ray viewers
+      Medical equipment
+    
+  
+
+
+5. Funding and purchasing
+
+5.1 How the purchase should be funded
+
+For zero rating to apply, it’s essential that all funds to pay for the qualifying relevant goods or services be:
+
+
+  
+    charitable
+  
+  
+    from voluntary donations or contributions
+  
+
+
+Alternatively, relevant goods or services (except computer software), purchased by a third party for donation to certain eligible bodies can be zero-rated – see paragraph 6.1.
+
+If a charity buys goods with its own funds, the purchase is made with charitable funds.
+
+Where a person, group or organisation contributes funds to an eligible body, and do not receive anything in return, this is a voluntary contribution or donation. Lottery funding is also regarded as a voluntary contribution for the purposes of this relief.
+
+If an eligible body that is not a charity contributes to the purchase from its own resources, the goods or services cannot be zero-rated, even if the supply is of qualifying goods or services.
+
+National Health Service funds are not charitable or donated, and any goods or services purchased with these funds are not zero-rated.
+
+6. Purchasing goods and services for donation to an eligible body
+
+6.1 General
+
+Qualifying goods and services can be zero-rated when they’re supplied to any person, body or organisation for donation to:
+
+
+  
+    one of the health bodies specified in paragraph 3.2
+  
+  
+    a hospital or research institution, whose activities are carried out on a not-for-profit basis – see paragraph 3.3
+  
+  
+    one of the charitable institutions specified in paragraph 3.4.1
+  
+
+
+Brief details of the donor, and the eligible body to which the goods or services will be donated, should be given on any declaration of eligibility for zero rating provided by the purchaser to the supplier – see paragraph 8.2.
+
+Items purchased for donation to any other charity may not be zero-rated under this relief, even if the charity is an eligible body that would benefit from relief if it purchased the goods or services itself.
+
+When a charity sells, lets or exports goods that have been donated for that purpose, this onward supply of the goods by the charity can be zero-rated. For further details see Imports (VAT Notice 702).
+
+7. Imports and exports
+
+7.1 Goods purchased from outside the UK
+
+VAT relief also applies when goods are imported from outside the UK. This means that where all the conditions in paragraph 2.1 are met, no VAT will be charged on the importation of qualifying goods. In order for relief to apply, importers should lodge the relevant declaration of eligibility (see paragraph 8.2) with us at the point of importation.
+
+If you import computer software you should also read Imports (VAT Notice 702) and Place of supply of services (VAT Notice 741A).
+
+7.2 Bringing goods into Northern Ireland from an EU member state
+
+If you’re registered for VAT in Northern Ireland and you purchase goods from a business registered for VAT in an EU member state, you must normally account for VAT in the UK on your acquisition of the goods. The rate of tax due is the one applicable to the supply of identical goods in the UK. This means that no VAT is due on the acquisition of qualifying goods purchased by eligible bodies using charitable or donated funds. Eligible bodies acquiring relevant goods from an EU member state are not required to provide their supplier with an eligibility declaration, but should retain evidence that the goods were eligible for acquisition at the zero rate of VAT.
+
+The single market (VAT Notice 725) explains the VAT rules that apply to goods acquired from member states of the EU.
+
+If you’re in Northern Ireland but not registered for VAT and you purchase goods from an EU member state, the goods will be liable to VAT according to the rules of the member state in which the supply takes place. This supply will be taxed at the rate in force in that country, and zero rating will not apply.
+
+7.3 Goods sold to eligible bodies based outside the UK
+
+It is not a requirement of this relief that an eligible body is based in the UK, although relief will not apply to any supply made to health boards in other countries. Therefore, the relief outlined in this notice will apply where the conditions detailed in paragraph 2.1 are met in full.
+
+Exports of goods to countries outside the UK are zero-rated under the normal export rules.
+
+Goods exported from the UK (VAT Notice 703) explains the rules relating to goods that are exported from the UK.
+
+8. Evidence of eligibility for relief
+
+8.1 Determining if your supply is zero-rated
+
+You should be able to determine whether the goods or services you’re supplying are qualifying goods and services (see paragraph 4.1). But, before you zero rate your supply, you must be satisfied that:
+
+
+  
+    the purchaser is an eligible body (see paragraph 3.1), or is purchasing the goods or services for donation to an eligible body – see paragraph 6.1
+  
+  
+    the goods or services are being purchased with charitable or donated funds – see paragraph 5.1
+  
+  
+    where appropriate, the goods or services are being purchased for a qualifying use – see paragraphs 3.4.1 and 4.3
+  
+
+
+You may wish to consult the checklist at section 9 before zero rating your supply.
+
+8.2 Demonstrating eligibility for relief
+
+8.2.1 The evidence of eligibility a supplier should obtain from the purchaser
+
+The supplier is responsible for ensuring that all the conditions for zero rating are met. We recommend that suppliers obtain a written declaration of eligibility from each customer who claims entitlement to VAT relief. Such a declaration should contain sufficient information to demonstrate that the conditions for the relief are fulfilled. The declaration should be separate, or clearly distinguishable from, any order form or invoice against which the goods or services are supplied. A customer signing an order should not automatically be signing a declaration of eligibility for VAT relief.
+
+The supplement to this notice contains examples of acceptable formats for declarations. These examples may be copied or otherwise reproduced by suppliers or purchasers. Any other declaration form used must require the purchaser to provide the same information as the relevant example shown in the supplement to this notice.
+
+In addition to a written declaration, suppliers may require evidence that the purchaser is an eligible body. This may include in the case of:
+
+
+  
+    any charitable body, evidence this it is a charity – How VAT affects charities (VAT Notice 701/1) provides further details on which bodies are charities
+  
+  
+    domiciliary care agencies, day centres or other establishments, evidence that care or treatment services are provided mainly to chronically sick or disabled people – see paragraph 8.2.2
+  
+  
+    charitable transport providers, evidence that transport services are provided mainly to disabled people – see paragraph 8.2.3
+  
+  
+    other charities, evidence that its sole purpose is the provision of services for, or on behalf of, chronically sick or disabled people – see paragraph 8.2.4
+  
+
+
+Suppliers must retain evidence that any supply they have zero-rated was eligible for relief. This may include an eligibility declaration, and any accompanying documents provided by the purchaser.
+
+8.2.2 Demonstrating that care or treatment services are provided, in the majority of cases, to chronically sick or disabled people
+
+To be an eligible body, a charitable day centre or care establishment should be able to demonstrate that over an extended period of time, 51% or more of the recipients of care or treatment services are chronically sick or disabled people. This should be evident from the care provider’s own records, including publicity materials and details of the charity’s day-to-day operations.
+
+8.2.3 Demonstrating that transport services are provided mainly to chronically sick or disabled people
+
+To be an eligible body, a charitable transport provider should be able to demonstrate that its transport services are provided predominantly to chronically sick or disabled people – see paragraph 3.4.3. It is not necessary for transport providers to maintain detailed records of all passengers transported, but the fact that its services are provided predominantly to chronically sick or disabled people should be reflected in its constitution or aims and objectives, or in other materials such as:
+
+
+  
+    publicity and advertising material
+  
+  
+    any documents issued for the purpose of obtaining funding from a third party, such as a local authority
+  
+  
+    evidence of day-to-day operations
+  
+  
+    any other evidence that may be relevant, for example, an analysis of passengers carried over a representative period
+  
+
+
+For the charitable transport provider to be an eligible body, the evidence should all show a consistent theme, that transport services are focused towards one client group, chronically sick or disabled people, and are provided predominantly (but not necessarily exclusively) for the needs of these clients.
+
+8.2.4 Demonstrating that the sole purpose and function of a charity is to provide services for, or on behalf of, chronically sick or disabled people
+
+The charity’s purpose and function may be clear from its constitution and aims and objectives, but may also be reflected in its publicity material; applications for funding, and details of its day-to-day operations.
+
+8.3 Responsibility for applying the correct rate of VAT
+
+The supplier is responsible for ensuring that all the conditions for zero rating are met.
+
+The production of a declaration or any other evidence of eligibility by a customer does not authorise the zero rating of a supply. A supplier must take reasonable steps to check any apparent inconsistencies, and to confirm that any information given by the purchaser is correct.
+
+But, the purchaser has a responsibility to make a truthful statement of its eligibility for zero rating, and, where required, to provide appropriate documentation to support this statement.
+
+8.4 If suppliers get it wrong
+
+Extra Statutory Concession 3.11, which is set out in Notice 48 Extra-statutory concessions provides that customs will not seek to recover tax due from a supplier who has taken reasonable steps to check the validity of a declaration, but has failed to identify an inaccuracy, and, in good faith, has zero-rated a supply. This concession will only be applied if the supplier can demonstrate that all reasonable steps were taken to check the details provided on the declaration.
+
+9. Checklist for suppliers
+
+
+  
+    
+      Step
+      Question
+      If yes go to
+      If no go to
+    
+  
+  
+    
+      1
+      Are the goods or services purchased by an eligible body? (see section 3)
+      Step 3
+      Step 2
+    
+    
+      2
+      Are the goods being purchased for donation to one of the eligible bodies specified in paragraph 6.1?
+      Step 3
+      Step 26
+    
+    
+      3
+      Is your supply the sale or hire of any of the relevant goods or services listed in paragraph 4.1?
+      Step 4
+      Step 26
+    
+    
+      4
+      Are you supplying either:medical, scientific, computer, video, sterilising, laboratory or refrigeration equipment (see paragraph 4.2)parts and accessories to such equipment (see paragraph 4.5)repair and maintenance of such equipment?
+      Step 5
+      Step 6
+    
+    
+      5
+      Is the equipment used, or to be used, mainly for:medical or veterinary researchmedical or veterinary trainingmedical or veterinary treatment and diagnosis? (see paragraph 4.3)
+      Step 6
+      Step 26
+    
+    
+      6
+      Is your supply to a day centre or institution providing care or medical or surgical treatment?
+      Step 7
+      Step 8
+    
+    
+      7
+      Are the goods or services for use within the day centre or care institution?
+      Step 22
+      Step 26
+    
+    
+      8
+      Is your supply to a domiciliary care provider?
+      Step 9
+      Step 10
+    
+    
+      9
+      Are you supplying:medical equipment for use the course of domiciliary care (see paragraph 4.2.2)parts and accessories to such equipment (see paragraph 4.5)repair and maintenance of such equipment?
+      Step 22
+      Step 26
+    
+    
+      10
+      Are you supplying rescue equipment, or the repair and maintenance of rescue equipment? (see paragraph 4.8)
+      Step 11
+      Step 12
+    
+    
+      11
+      Is your supply to a charity providing rescue or first aid services?
+      Step 22
+      Step 26
+    
+    
+      12
+      Are you supplying repair or maintenance services?
+      Step 13
+      Step 14
+    
+    
+      13
+      Are the items you are repairing or maintaining qualifying goods (see paragraph 4.1) owned or possessed by an eligible body? (see paragraph 3.1)
+      Step 22
+      Step 26
+    
+    
+      14
+      Are you supplying an unadapted motor vehicle?
+      Step 15
+      Step 17
+    
+    
+      15
+      Does the vehicle have between 7 and 50 seats?
+      Step 16
+      Step 26
+    
+    
+      16
+      Is the vehicle for use by an eligible body to transport blind, deaf, mentally handicapped or terminally sick people?
+      Step 22
+      Step 26
+    
+    
+      17
+      Are you supplying computer software, or a license to use software?
+      Step 18
+      Step 20
+    
+    
+      18
+      Is the software to be used solely for medical research, diagnosis or treatment? (see paragraph 4.3)
+      Step 22
+      Step 26
+    
+    
+      19
+      Is the computer software purchased or hired by a third party for donation to a charity or eligible body?
+      Step 26
+      Step 22
+    
+    
+      20
+      Are you supplying a resuscitation training model as detailed in paragraph 4.9?
+      Step 21
+      Step 22
+    
+    
+      21
+      Is the training model for use in first aid training?
+      Step 22
+      Step 26
+    
+    
+      22
+      Is the purchaser an eligible body (see paragraph 3.1) using charitable or donated funds to fund the purchase? (see paragraph 5.1)
+      Step 24
+      Step 23
+    
+    
+      23
+      Are the goods or services for donation to one of the eligible bodies mentioned in paragraph 6.1?
+      Step 24
+      Step 26
+    
+    
+      24
+      Have you received a valid certificate or declaration, or any other evidence to demonstrate the purchaser’s eligibility for relief? (see paragraph 8.2)
+      Step 25
+      Step 26
+    
+    
+      25
+      The supply may be zero-rated subject to all of the conditions in paragraph 2.1 being met.
+       
+       
+    
+    
+      26
+      The supply does not qualify for zero rating under this relief. There are a number of other reliefs for supplies made to charities. For further details see How VAT affects charities (VAT Notice 701/1) and Goods or services supplied to charities (VAT Notice 701/58).
+       
+       
+    
+  
+
+
+Your rights and obligations
+
+Read Your Charter to find out what you can expect from HMRC and what we expect from you.
+
+Help us improve this notice
+
+If you have any feedback about this notice email: customerexperience.indirecttaxes@hmrc.gsi.gov.uk.
+
+You will need to include the full title of this notice. Do not include any personal or financial information like your VAT number.
+
+If you need general help with this notice contact the helpline for VAT: reliefs for disabled and older people, if you have another VAT question you should phone our VAT helpline or make a VAT enquiry online.
+
+Putting things right
+
+If you’re unhappy with HMRC’s service, contact the person or office you have been dealing with and they will try to put things right.
+
+If you’re still unhappy, find out how to complain to HMRC.
+
+How HMRC uses your information
+
+Find out how HMRC uses the information we hold about you.
+
+
+
+
+
+      
+        
+    Published 6 August 2014
+    Last updated 31 December 2020
+      + show all updates
+      
+        
+            
+              31 December 2020
+              This page has been updated because the Brexit transition period has ended.
+            
+            
+              1 May 2019
+              Information about eligible bodies has been updated to help clarify those eligible to receive qualifying goods and services at the zero rate.
+            
+            
+              25 January 2019
+              The section 'Help us improve this notice' has been updated to include a link to the relevant contact for VAT reliefs for disabled and older people.
+            
+            
+              9 October 2018
+              New entries have been added to the list of examples of qualifying zero-rated goods or services in paragraph 4.11.
+            
+            
+              6 August 2014
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Charity funded equipment certificates (VAT Notice 701/6 supplement)
+        Goods or services supplied to charities (VAT Notice 701/58)
+        Health institutions supplies (VAT Notice 701/31)
+        How VAT affects charities (VAT Notice 701/1)
+        VAT Refund Scheme for charities (VAT Notice 1001)
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        VAT notices in alphabetical order
+        VAT notices in numerical order
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        VAT
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

@@ -1,0 +1,53 @@
+
+    
+    
+
+        
+        
+        
+     widen the gaps between the best- and worst-performing industries and companies, your company’s future performance may well depend on your ability to position the corporate portfolio ahead of these trends. One way to do that is by expanding into new business
+areas. But how do you determine how far to venture from your core business, and in what direction? To understand the most effective strategies for pursuing growth beyond the core (the industry that accounts for the largest share of total revenue), we analyzed the expansion moves and performance of almost 2,000 global companies. We found that, while there are some regional differences, those prioritizing growth opportunities in business areas where they are “natural owners,” able to bring unique advantages or capabilities to the business, generate the best shareholder returns. These growth outperformers use advanced analytics to identify hidden investable growth opportunities, select the operating model and governance structure best suited to the new business, and then appoint senior leaders with competencies most needed in the new business. Nature, not number: The performance of diversified corporate portfoliosAlmost two-thirds of the companies we studied operate in multiple industries.
+
+
+ When assessing the performance of their corporate portfolios, we considered two factors: the number of different industries their portfolios cover (which serves as a measure of diversification) and the similarity of those industries.
+
+
+ Industry similarity is calculated based on the number of times industries occur together in the corporate portfolios within our data set. In other words, corporate portfolios including industries that occur together frequently in other corporate portfolios—for example, cable and satellite together with broadcasting, or aerospace and defense with industrial machinery—would have high similarity scores (Exhibit 1).
+
+
+ 
+    
+We discovered that it is the similarity of the indus­tries in the corporate portfolio that most strongly correlates with performance (Exhibit 2).
+
+
+ Contrary to the widely held belief that focused portfolios produce better returns than diversified ones, companies whose portfolios span multiple similar industries can perform as well as their focused peers. What matters is the nature, not the number, of industries. 
+    
+Why is this the case? In essence, similarity is a proximate measure of whether a company is operating in business areas where it is likely to be the natural (or best) owner. The natural owner
+of an asset is the organization able to create the most value from owning or operating it. This value could derive from synergies with other businesses the company owns, privileged access to capital or talent, or a competitive advantage from distinctive capabilities, processes, and assets. Take the example of General Mills’ 2001 purchase of Pillsbury from Diageo.
+
+
+ Diageo’s core business is alcoholic beverages, while General Mills’ and Pillsbury’s is packaged foods. Since there was little overlap between Diageo’s core business and Pillsbury’s, the latter operated as an entirely separate unit, offering little synergy with the core business. On the other hand, Pillsbury’s and General Mills’ businesses share many of the same competencies and assets, enabling the new owner to reduce costs in purchasing, manufacturing, and distribution, and to improve revenue by selling Pillsbury products through some of its existing channels. As a result, General Mills raised Pillsbury’s operating profit by roughly 70 percent, or $400 million per year.
+		
+	
+Interestingly, when we separate companies head­quartered in developed countries from those
+based in emerging economies, we find that higher portfolio similarity positively correlates with shareholder returns in developed markets but the opposite is true in emerging markets. This may be the result of different sources of natural-ownership advantage in different types of economies. In developed markets, advantages usually stem from synergies between businesses or sector-specific assets and capabilities, as in the case of General Mills and Pillsbury. In emerging markets, on the other hand, advantages often derive from better access to capital (especially in regions where capital markets are less developed) and senior managerial talent (who are attracted to larger companies because of the better career opportunities they offer). These advantages tend to be concentrated in a relatively few large, high-performing corporations that are able to deploy their superior capital and talent to pursue growth opportunities. Take, for example, Dangote Group, one of Africa’s largest conglomerates. The company started in 1981 as a commodity-trading business and later diversified into food, packaging, automotive, cement production, steel, and infrastructure. Its growth was enabled by access to capital, talent, and relation­ships that smaller, more focused companies in the region lack. Implications for your growth strategyOur analysis indicates that 21 percent of total corporate growth over the decade we studied came from outside the core industries of the sample companies. About half of that growth came from new business areas, with the rest from companies growing in (noncore) industries where they already had a presence. Developed-market companies that grew in a way that maintained or increased the similarity of
+their portfolios generated higher returns than their peers (Exhibit 3). For example, Comcast, at the
+time the largest cable-television player in the United States, acquired NBC Universal from General Electric in 2011. The acquisition increased Comcast’s presence in cable television and also enabled it to expand into new similar industries such as movies and theme parks.
+    
+Whether a company increased the similarity by focusing its growth investment on its core industry, similar noncore industries where it was already competing, or similar new industries made little dif­fer­ence to its performance.
+
+
+ Of the one in four companies that chose to expand into new industries, those that expanded into similar areas were almost twice as likely to generate shareholder returns above their industry median than those that expanded into nonsimilar areas (Exhibit 4). 
+    
+It is important to note that 40 percent of companies that grew into nonsimilar adjacencies also generated shareholder returns above their industry median. The reason could be that our measure
+of similarity is an imperfect proxy for estimating the natural-ownership advantage. It does not capture all of the granular business areas where companies could have a competitive advantage or newer business areas they entered that are not yet prevalent in corporate portfolios. For example, by our metric, Amazon’s successful expansion into cloud computing (through Amazon Web Services) is not classified as growth into a similar new business area, as no other Internet retailer in our data set competes in cloud computing. Nevertheless, the statistics send a compelling message: companies should prioritize expansion opportunities in business areas where they are the natural owners.How to unlock growth in new businesses
+	
+Companies seeking to expand into new business areas need to identify both the specific investment opportunities and the right approach to operating and staffing the new business. In our client discussions, we most often hear the following three questions. How can we identify nonobvious investable opportunities? To find concrete pockets of growth, leading companies today complement traditional brainstorming approaches with  that can reveal attractive industry segments or acquisition targets that would otherwise be difficult to spot. The most effective of these algorithms use sophisticated network analysis to parse and find connections among hundreds of unstructured text data sources, such as company descriptions, patent filings, academic papers, and web pages. For example, when a manufacturing company wanted to analyze growth opportunities within the gasket and insulation space, it used a text-clustering algorithm and network analysis to pinpoint 45 potential growth areas within five clusters, each with a shortlist of acquisition prospects. 
+    
+Should I integrate the new business with my existing ones? When entering a new business, companies often default to integrating it into their existing operating model. This can prove counterproductive, especially if the new business differs materially from the existing ones. For example, the new business may be at a different level of maturity or have different customer
+volumes or product-development cycles. A business releasing new products every two to three months will require a faster decision-making cadence than one that does so every 12 or 18 months. Similarly,
+a company with 70 percent of revenue coming from ten customers will have a very different sales model than one that sells its products to thousands of customers. It is important to explicitly consider the trade-offs associated with different governance structures and operating models. One high-performing industrial company that relies on frequent acquisitions to expand its product offerings allows the companies it acquires to remain largely self-governed, as the executive team believes
+the value of fostering a culture of accountability and ownership outweighs the incremental synergy potential of full integration. How do I select the right leader for the new business? Our , conducted with executive-search firm Egon Zender, found that strong corporate growth correlates with excellent leader­ship scores on a few dimensions rather than solid but unexceptional scores on many.
+
+
+ Since relatively few executives have excellent leadership scores on many dimensions, looking for great “all arounders” is a risky bet. Companies are therefore more likely to succeed if they can match leaders’ true source of excellence to the most important needs of the new business. And if the new business has needs significantly different from the existing ones, finding the right leader may require looking beyond the current management team. You can accelerate your growth and reposition your company ahead of accelerating trends by investing in new business areas where your company is the natural owner. To maximize your odds of success, use advanced analytics to identify nonobvious investable opportunities, consider a range of oper­at­ing models for the new business, and appoint leaders with excellent capabilities in the areas that the new business needs most. 

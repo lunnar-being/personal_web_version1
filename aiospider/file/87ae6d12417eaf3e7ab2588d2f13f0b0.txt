@@ -1,0 +1,252 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    AI, Data Science and Machine Learning: a Dstl biscuit book
+  
+
+  
+  
+
+  
+    
+  A short guide to artificial intelligence (AI), data science and machine learning, explaining the terminology and helping you use and apply the latest advances. 
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Defence Science and Technology Laboratory
+
+      
+      Published
+      23 July 2019
+      Last updated
+      
+        23 October 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Artificial Intelligence, Data Science and (mainly) Machine Learning: the Dstl Biscuit Book
+    
+        PDF, 3.54MB, 40 pages
+    
+
+
+      
+        This file may not be suitable for users of assistive technology.
+        
+  
+    
+      Request an accessible format.
+    
+  
+    
+          If you use assistive technology (such as a screen reader) and need a
+version of this document in a more accessible format, please email centralenquiries@dstl.gov.uk.
+Please tell us what format you need. It will help us if you say what assistive technology you use.
+
+
+  
+      
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+This biscuit book has been published by data science experts at the Defence Science and Technology Laboratory (Dstl) AI Lab, to help the people we work (in MOD and beyond) understand how to engage with and use these technologies.
+
+While it covers AI and data science, this book mainly focuses on machine learning. It is the first in a series of biscuit books issued by Dstl.
+
+Explaining the definitions and differences, latest thinking and developments, biscuit books are something to be dipped into and easily digested - just like a biscuit with tea. Dstl is at the heart of innovations in this area, working with other government departments, academia and institutions for the defence and security of the UK.
+
+For more information contact ai_lab@dstl.gov.uk
+
+
+
+        
+      
+
+      
+    Published 23 July 2019
+    Last updated 23 October 2020
+      + show all updates
+      
+        
+            
+              23 October 2020
+              Addition document added
+            
+            
+              4 December 2019
+              Updated Biscuit Book added
+            
+            
+              23 July 2019
+              First published.
+            
+        
+      
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Crumbs! Understanding Data: a Dstl biscuit book
+        Building Blocks for AI and Autonomy: a Dstl biscuit book
+        Assurance of AI and Autonomous Systems: a Dstl biscuit book
+        Machine learning with limited data
+        Dstl biscuit books
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Dstl biscuit books
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Military equipment, logistics and technology
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

@@ -1,0 +1,15 @@
+
+    
+    
+This article was a collaborative effort by Kevin Eiden, , Bartlomiej Kazimierski, Charlie Lewis, and Kevin Telford, representing views from McKinsey’s Risk & Resilience Practice.
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+    As they embrace a risk-based cybersecurity approach, leading organizations can become proactive. The survey also revealed that these organizations outperform in a number of other activities arising from the recognition of cyberrisk as a business risk. These include senior management making cyberrisk and cyber culture a part of business decision making, the use of tested cybersecurity scenarios in business-continuity planning and disaster recovery, taking a holistic approach to cybersecurity so that the supply chain as well as the organizational perimeter are covered, encryption protection for sensitive data at rest, and a deep understanding and use of threat intelligence.Finally, the survey found that both leading organizations and aspiring leaders performed well on ten other technical and nontechnical activities, showing the overall trend toward risked-based security. These activities include the application of strong technical controls around mobile devices, the inclusion of business leaders as part of cyberrisk decision making, having segmented and more tightly secured networks to better protect sensitive information, and putting in place information and policies that enable mature cybersecurity.The survey provides a measure of hard evidence to support the experiential knowledge of the most advanced cybersecurity professionals. The  right now, and while organizations have made some progress, most have a good deal to do to become resilient against existing cyberthreats and proactive on the rapidly changing threat landscape. Organizations have no time to lose in advancing toward holistic cyberresilience. 

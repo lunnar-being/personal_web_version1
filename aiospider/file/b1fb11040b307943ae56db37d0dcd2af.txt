@@ -1,0 +1,118 @@
+
+
+
+
+
+
+Read Online
+
+Technological Change and the Skill Premium
+21st Century Evidence
+by Jesse Lastunen
+Related Topics: Cyber and Data Sciences, Labor Markets, Postsecondary Education, STEM Education, Wages and Compensation
+CitationEmbed
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+Download eBook for Free
+
+FormatFile SizeNotes
+
+
+
+
+PDF file
+
+
+27.6 MB
+Use Adobe Acrobat Reader version 10 or higher for the best experience.
+
+
+
+
+
+
+
+
+
+
+Technological change in the 21st century is predominantly characterized by digitalization, or the use and development of information and communication technologies at companies. While digitalization facilitates economic progress, there is a growing concern about its effects on labor market disparities. In this dissertation, I document recent changes in labor outcomes by education and offer insights into the role of digitalization in shaping these trends.
+First, I show that the earnings premium for higher education has increased since the 2008 financial crisis. Among those with advanced degrees, technical majors accounted for the entirety of this growth. The gaps between education groups also increased the most in high-technology industries and occupations. In addition to documenting these trends, I examine how premiums have reacted to changes in the labor force composition. I show that the skill premium has increased despite rapid growth in the supply of skilled labor, suggesting that the demand for skill is rising.
+In subsequent chapters, digital advances are explored as a candidate explanation for this trend. I use variation in technology and labor market outcomes across industries, regions and individuals to study the effects of two complementary proxies of digitalization — investment in information technology and value added from digital goods. The analysis points to a positive impact of both proxies on earnings that increase with education and are concentrated in high-technology sectors. A causal interpretation of the differential effects of digitalization is bolstered by an instrumental variable approach and the limited impact of placebo regressors on the earnings premiums. While the two digitalization proxies amplify skill-based disparities in earnings, no education group is negatively affected by them in absolute terms.
+Finally, I assess policies that could reduce earnings disparities without slowing down the development of digital technologies or productivity growth more broadly. One effective solution would be to expand the number of skilled workers in the country. In a simple quantitative exercise, I show that relatively modest annual increases in the university-educated workforce could considerably moderate the skill premium. I offer practical recommendations on immigration and education policy to advance this goal in the coming decades.
+
+Table of Contents
+
+Chapter One
+Skill Premium in the 21st Century
+
+Chapter Two
+Past Trends and Expected Labor Market Effects of Digitalization
+
+Chapter Three
+Labor Market Effects of Digitalization by Education and Occupation Type
+
+Appendix 
+Supplementary Tables and Figures
+
+
+
+
+Research conducted by
+
+Pardee RAND Graduate School
+
+
+
+This document was submitted as a dissertation in May 2020 in partial fulfillment of the requirements of the doctoral degree in public policy analysis at the Pardee RAND Graduate School. The faculty committee that supervised and approved the dissertation consisted of Krishna B. Kumar (Chair), Shanthi Nataraj, Philip Armour, and Raffaele Vardavas. Sgouris Sgouridis, Director of Research Programs at DEWA in Dubai, was the external reader for the dissertation.This report is part of the RAND Corporation Dissertation series. Pardee RAND dissertations are produced by graduate fellows of the Pardee RAND Graduate School, the world's leading producer of Ph.D.'s in policy analysis. The dissertations are supervised, reviewed, and approved by a Pardee RAND faculty committee overseeing each dissertation.Permission is given to duplicate this electronic document for personal use only, as long as it is unaltered and complete. Copies may not be duplicated for commercial purposes. Unauthorized posting of RAND PDFs to a non-RAND Web site is prohibited. RAND PDFs are protected under copyright law. For information on reprint and linking permissions, please visit the RAND Permissions page.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: AuthorPublisher: RAND Corporation
+Availability: Web-Only
+ Pages: 255
+DOI: https://doi.org/10.7249/RGSDA1167-1
+Document Number: RGSD-A1167-1
+Year: 2021
+Series: Dissertations
+
+
+
+Explore
+Related Topics
+
+Cyber and Data SciencesLabor MarketsPostsecondary EducationSTEM EducationWages and Compensation
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+Citation
+Format:
+
+ Chicago Manual of Style
+ RAND Corporation Style Manual
+
+Lastunen, Jesse, Technological Change and the Skill Premium: 21st Century Evidence. Santa Monica, CA: RAND Corporation, 2021. https://www.rand.org/pubs/rgs_dissertations/RGSDA1167-1.html.
+Lastunen, Jesse, Technological Change and the Skill Premium: 21st Century Evidence, Santa Monica, Calif.: RAND Corporation, RGSD-A1167-1, 2021. As of December 15, 2021: https://www.rand.org/pubs/rgs_dissertations/RGSDA1167-1.html
+
+Download Citation (BibTeX)
+Download Citation (RIS)
+
+
+

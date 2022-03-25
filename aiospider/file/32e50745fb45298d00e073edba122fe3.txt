@@ -1,0 +1,566 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Moving to modern network solutions
+  
+
+  
+  
+  
+      
+  This guidance explains why and how public sector organisations should move to modern network solutions and away from legacy networks with information on standards you need to follow and case studies.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      15 April 2019
+      Last updated
+      
+        23 January 2020
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Why you should migrate to modern network solutions
+
+        
+        
+          How to migrate IT environments to the internet and away from legacy networks
+
+        
+        
+          Review your network requirements
+
+        
+        
+          Move email to modern solutions and away from legacy networks
+
+        
+        
+          Move to consuming services via the internet
+
+        
+        
+          Move services you provide to modern solutions and away from legacy networks
+
+        
+        
+          Data protection and security standards to follow
+
+        
+        
+          Meet the Minimum Cyber Security Standard even if you’re PSN compliant
+
+        
+        
+          Keep services secure on the internet
+
+        
+        
+          PSN migration case studies
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+There is usually no need for your public sector organisation, or a group of organisations, to buy a physical network infrastructure to create a dedicated network.
+
+Your organisation can provide services using the public cloud and let users reach these using an internet connection.
+
+Why you should migrate to modern network solutions
+
+You should consider your business objectives together with the needs of all users when migrating from legacy services and buying replacements. When you take full account of the network performance and security needs of your users, you will find that it often makes sense to:
+
+
+  
+    use public cloud services
+  
+  
+    reach these public cloud services using an internet connection
+  
+
+
+This approach is generally more flexible, current, cheaper and quicker to deploy than using bespoke services over dedicated networks. Technology leaders agreed this in 2017 and the approach supports the Cloud First policy.
+
+The benefits of using an internet connection
+
+Using an internet connection helps you to:
+
+
+  
+    save money by not using legacy networks like the Public Services Network (PSN)
+  
+  
+    work better across government by using commonly available tools such as instant messaging, voice and video messaging, secure file sharing, and the APIs that support these services
+  
+  
+    provide a better and more secure user experience because cloud vendors continuously fix vulnerabilities and improve their products
+  
+  
+    access a marketplace of cloud security tools, which you can use to help protect your users and their information
+  
+  
+    move to modern solutions and away from legacy technology
+  
+  
+    avoid lock-in to a long-term contract
+  
+  
+    avoid using a fixed network specification that does not support your users’ needs
+  
+
+
+How to migrate IT environments to the internet and away from legacy networks
+
+Your organisation can reduce the amount it pays for legacy networks like the PSN by migrating in phases.
+
+You should start migrating by:
+
+
+  
+    reviewing your network requirements
+  
+  
+    moving email to modern solutions and away from legacy networks
+  
+  
+    moving away from consuming services via legacy networks by working with suppliers to find out when their services are available over the internet
+  
+  
+    moving services you provide to modern solutions and away from legacy networks
+  
+  
+    following data protection and security standards when using the internet even if you are PSN compliant
+  
+
+
+You may find it useful to learn about how other organisations have migrated away to modern solutions and away from the PSN to the internet.
+
+We also recommend that you:
+
+
+  
+    sign up for short-term PSN connectivity contracts, so your agreements do not dictate your exit schedule
+  
+  
+    monitor which PSN services your users need
+  
+  
+    make PSN services accessible to your internet-only users via a gateway
+  
+  
+    reduce the number of users in your organisation with access to the PSN
+  
+  
+    reduce the bandwidth and number of your PSN connections
+  
+  
+    remove PSN users as each service becomes available over the internet
+  
+
+
+Review your network requirements
+
+When you move away to a modern networking solution and away from a legacy network, you will need to review your network requirements to make sure the internet connectivity you buy meets your users’ needs.
+
+Make sure you have the right amount of bandwidth and resilience. Smaller organisations should make sure they have enough bandwidth to meet user needs when it comes to uploading and downloading content. All organisations should consider bandwidth across different times of day and for different applications.
+
+You should also consider whether losing your connectivity, even for a short period, will cause disruption to your business and impact the general public. If so, you should consider a more resilient connection.
+
+In some circumstances, for example when you have large numbers of users that consume lots of bandwidth your organisation may need a higher quality and more consistent network connection. A solution like a direct private connection may be more cost effective. Several cloud providers offer direct private connections, which offer:
+
+
+  
+    better network quality
+  
+  
+    some protection from distributed denial-of-service attacks
+  
+  
+    higher availability and end-to-end service assurance
+  
+
+
+Move email to modern solutions and away from legacy networks
+
+You should not make assumptions about the security of an email domain just by looking at its name.
+
+The gsi-family domains (gsi.gov.uk, gse.gov.uk, gcsx.gov.uk or gsx.gov.uk) were invented for the Government Secure Intranet (GSI) network. The GSI network no longer exists, so these prefixes are misleading.
+
+
+You must stop using gsi-family domains as they tie you to a legacy network. Replace these domains with a government domain like gov.uk, gov.scot, llyw.cymru or gov.wales. If you try to migrate a gsi-family domain to the internet, some of your emails will not reach their destinations.
+
+
+The secure email guidance explains how to:
+
+
+  
+    secure email on any domain, using modern and widely used standards, without tying you to a legacy network
+  
+  
+    protect all domains that do and do not send emails
+  
+
+
+After you have migrated from your gsi-family domain, you should use the National Cyber Security Centre’s (NCSC’s) Mail Check service to access your Domain-based Message Authentication, Reporting and Conformance (DMARC), Sender Policy Framework (SPF) and Transport Layer Security (TLS) reports and learn more about your email service’s security.
+
+Review how you use email
+
+You should consider providing a digital service to give other organisations access to information rather than emailing attachments. This means everyone will have a single source of truth, which will improve cross-government collaboration.
+
+This single source of truth will help to manage and control your data effectively and lawfully. Users in other organisations will then always be able to access the most recent version of any data record, rather than referring back to old copies in their mailboxes.
+
+Move to consuming services via the internet
+
+If you’re consuming services over a legacy network such as the PSN, contact the owner of the service to find out:
+
+
+  
+    if you can access the service from the internet instead
+  
+  
+    when you will be able to access the service from the internet
+  
+  
+    whether there are any connectivity recommendations or requirements that will improve the user experience
+  
+
+
+You must also check what data protection and security standards your organisation needs to follow.
+
+Move services you provide to modern solutions and away from legacy networks
+
+If you provide services over a legacy network such as the PSN, you should review your requirements and develop plans to migrate these services to the internet. This will help make sure your consumers are not forced to buy expensive legacy network connectivity to reach your service. Legacy technology will get more expensive as organisations migrate away from the PSN and suppliers increase their prices to cover their fixed costs.
+
+The ideal migration approach is to offer users the option to connect to your service using either the PSN or the internet. This will help your consumers to switch over to the internet easily without interrupting access to the service.
+
+Read more about keeping services secure.
+
+Data protection and security standards to follow
+
+Your organisation is expected to meet its legal, regulatory and policy obligations as required by:
+
+
+  
+    GDPR
+  
+  
+    the Security Policy Framework
+  
+  
+    any other obligation that is specific to the data that you are processing
+  
+
+
+The Cabinet Office requires all departments, which includes organisations, agencies, arm’s length bodies, and contractors, to follow the Minimum Cyber Security Standard. This should help you meet your legal and regulatory obligations.
+
+The Government Digital Service (GDS) recommends all public sector bodies follow the Minimum Cyber Security Standard, unless they are required by a specific authority to follow a different standard. For example, follow the Data Security and Protection Toolkit for the NHS.
+
+Your organisation may follow other security standards such as:
+
+
+  
+    Cyber Essentials, or Cyber Essentials Plus
+  
+  
+    Centre for Internet Security (CIS) Controls
+  
+  
+    ISO 27001
+  
+
+
+If your organisation uses any of these standards you should also make sure that you align with the Minimum Cyber Security Standard.
+
+Meet the Minimum Cyber Security Standard even if you’re PSN compliant
+
+The Minimum Cyber Security Standard requires you to focus on your sensitive information and your key operational services. PSN compliance covers only the IT environment that is connected to the PSN and what you need to do to protect the shared PSN network.
+
+Key operational services are services that your organisation is responsible for delivering to citizens or other organisations. These may include:
+
+
+  
+    services like revenues, benefits, identity and passport services
+  
+  
+    services for other government organisations like vetting and law enforcement
+  
+
+
+
+The scope of your existing PSN compliance certificate may not cover all these services.
+
+
+The Minimum Cyber Security Standard groups its controls into 5 areas:
+
+
+  
+    identify
+  
+  
+    protect
+  
+  
+    detect
+  
+  
+    respond
+  
+  
+    recover
+  
+
+
+Keep services secure on the internet
+
+If you’re a public sector organisation or a commercial partner you should follow this guidance when:
+
+
+  
+    building an internet-facing service to replace a legacy service on a dedicated network such as the PSN
+  
+  
+    migrating a legacy service from a dedicated network such as the PSN
+  
+
+
+Standards to use if you’re building a service
+
+If you’re designing and building a new service to use over the internet that replaces one on a dedicated network, you need to follow the Technology Code of Practice. This will help you to make sure the technology you buy or build meets users needs, is scalable, shareable, maintainable, vendor-independent and secure. You should pay particular attention to:
+
+
+  
+    point 6 - make things secure
+  
+  
+    point 12 - meet the Digital Service Standard for digital services, and the Service Manual that supports it, to make sure that your service continuously improves to meet user needs
+  
+
+
+National Cyber Security Centre (NCSC) offers more detailed security and policy guidance that you should follow. If you are:
+
+
+  
+    buying or configuring an existing third party, publicly available cloud service, then use NCSC’s Cloud Security Collection
+  
+  
+    designing a new service, then use the NCSC’s Digital service security guidance to secure the service from end-to-end
+  
+
+
+Standards to use if you’re migrating a service
+
+If you’re migrating a service to the internet from a dedicated network, you should follow:
+
+
+  
+    the NCSC’s Cloud security collection and Digital service security guidance to make sure that you’re not introducing a security risk
+  
+  
+    NCSC guidance on using IPsec to protect data and using TLS to protect data to prevent eavesdropping of your information
+  
+  
+    Principle 2 of the Network Principles and secure services to protect your data because you no longer have the protection of a private network
+  
+
+
+Check your service is secure when live
+
+Once you have built or migrated a service to the internet use:
+
+
+  
+    the NCSC Web Check tool to find and fix common vulnerabilities
+  
+  
+    Service Manual guidance on penetration testing
+  
+
+
+PSN migration case studies
+
+To help your organisation migrate away from the PSN you can learn from other organisations who have already migrated. GDS will add more case studies to this list as migrations across government progress.
+
+The benefits of moving to modern solutions and away from the PSN
+
+There are many ways to migrate from the PSN. You can read about how:
+
+
+  
+    GDS has given users access to a single PSN service
+  
+  
+    the Department for International Development migrated email from the PSN to the internet
+  
+  
+    Welsh public sector organisations migrated email from the PSN to the internet
+  
+  
+    the Children and Family Court Advisory and Support Service (Cafcass) migrated off PSN
+  
+  
+    Hackney Council moved to a cloud-first approach
+  
+
+
+
+
+
+
+      
+        
+    Published 15 April 2019
+    Last updated 23 January 2020
+      + show all updates
+      
+        
+            
+              23 January 2020
+              We've updated the guidance to clarify when to use the Minimum Cyber Security Standard, which will continuously evolve.
+            
+            
+              18 September 2019
+              Added a case study about how Hackney Council has moved to a cloud-first approach
+            
+            
+              15 April 2019
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        How Cafcass migrated off the PSN
+        The Pensions Regulator moves email and web portal to the cloud
+        Hackney Council’s approach to moving to a cloud-first model from the PSN
+        How DFID migrated email from the PSN to the internet
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

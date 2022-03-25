@@ -1,0 +1,167 @@
+<!--<%@ page language="java" contentType="text/html; charset=utf-8"
+   pageEncoding="utf-8"%>
+<%@ taglib prefix="s" uri="/struts-tags"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+"http://www.w3.org/TR/html4/loose.dtd">-->
+<html>
+
+<head>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <title>Homepage of our system</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <!-- style css -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Responsive-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}">
+    <!-- fevicon -->
+    <link rel="icon" href="{{ url_for('static', filename='images/favicon.png') }}" />
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/jquery.mCustomScrollbar.min.css') }}">
+    <!-- Tweaks for older IEs-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome.css') }}">
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
+    <!-- font awesome -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/font-awesome.min.css') }}">
+    <!-- select -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap-select.min.css') }}">
+    <!-- owl stylesheets -->
+    <link href="https://fonts.googleapis.com/css?family=Great+Vibes|Poppins:400,700&display=swap&subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/owl.carousel.min.css') }}">
+    <link rel="stylesoeet" href="{{ url_for('static', filename='css/owl.theme.default.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/jquery.fancybox.min.css" media="screen') }}">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
+</head>
+
+<body>
+    <div class="container">
+        <div class="header_section_top">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="custom_menu">
+                        <ul>
+                            <li><a href="index.html">首页</a></li>
+                            <li><a href="search_result.html">检索</a></li>
+                            <li><a href="browse_by_category.html">分类浏览</a></li>
+                            <li><a href="parse.html">采集</a></li>
+                            <li><a href="statistics_analysis.html">统计分析</a></li>
+                            <li><a href="proofreading.html">审校</a></li>
+                        </ul>
+                        <div class="user">
+                            <img src="{{ url_for('static', filename='images/not_login.png') }}" alt="">
+                            <div class="user-name"><a href="login.html">未登录</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row clearfix">
+            <div class="col-md-12 column" style="margin-top:20px;">
+                <ul class="breadcrumb">
+                    <li>
+                        <a href="index.html">首页</a>
+                    </li>
+                    &nbsp;/&nbsp;
+                    <li>
+                        <a href="search_result.html">检索结果</a>
+                    </li>
+                    &nbsp;/&nbsp;
+                    <li class="active">
+                        全文
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-12 column" style="margin-top: 20px;">
+                <div class="row clearfix">
+                    <div class="col-md-9 column">
+                        <h2 id="title">{{ policy_text.original_title }}</h2>
+                        {{ policy_text.abstract | safe}}
+                    </div>
+                    <div class="col-md-3 column">
+                        <div class="card">
+                            <div class="card-body">
+                                <p>国家：<span id="country">{{ policy_text.nation }}</span></p>
+                                <p>发布时间：<span id="release-time">{{ policy_text.release_time.strftime("%Y/%m/%d") }}</span></p>
+                                <p>发布机构：<span id="institution">{{ policy_text.institution }}</span></p>
+                                <p>领域：<span id="field">{{ policy_text.field }}</span></p>
+                                <p>关键词：<span id="keywords">{{ "无" if policy_text.keywords == None else policy_text.keywords }}</span></p>
+                            </div>
+                        </div>
+                        <br>
+                        <div class="card">
+                            <div class="card-body">
+                                <h4>下载链接</h4>
+                                <p><a href="download/{{ original_file.savename }}">英文原版 {{ original_file.savename.split(".")[-1].upper() }}</a></p>
+                                <p><a href="{% if trans_file %}download/{{ trans_file.savename }}{% endif %}">翻译版</a></p>
+                                <p><a href="{% if checked_file %}download/{{ checked_file.savename }}{% endif %}">审校版</a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <br>
+                <br>
+            </div>
+            <div class="col-md-1 column">
+            </div>
+        </div>
+    </div>
+    <footer class="panel-footer" style="width: 100%; overflow: hidden;">
+        <div class="container">
+            <div class="row footer-top" style="text-align: center;">
+            </div>
+            <hr style="border: 1px  solid #000000;">
+            <div class="row" style="text-align: center;">
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <a href="#" style=" color: gray;">关于我们</a>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <a href="#" style=" color: gray;">联系方式</a></li>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <a href="#" style=" color: gray;">相关网站</a></li>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <a href="#" style=" color: gray;">特别致谢</a></li>
+                </div>
+            </div>
+            <br>
+        </div>
+    </footer>
+    <!-- Javascript files-->
+    <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/popper.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/jquery-3.0.0.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/plugin.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap-select.min.js') }}"></script>
+    <!-- sidebar -->
+    <script src="{{ url_for('static', filename='js/jquery.mCustomScrollbar.concat.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/custom.js') }}"></script>
+    <script>
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+    }
+
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+    }
+
+    function getPolicy() {
+        
+    }
+    </script>
+</body>
+
+</html>

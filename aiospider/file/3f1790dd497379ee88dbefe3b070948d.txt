@@ -1,0 +1,41 @@
+
+        
+        
+        
+     on human health and the economy, the COVID-19 pandemic has reshaped much about the day-to-day lives of people across the globe. In this post, we highlight some observations on how the experience of living through a pandemic has influenced US financial decision makers’ willingness to use fintechs (see sidebar) for their financial needs. Among the highlights:
+    the southern US states are fintech strongholds, both in terms of overall fintech accounts and growth since the start of the crisis
+    fintechs are catching up with traditional banks in terms of customer trust
+    Black fintech users are more satisfied with their fintech accounts than with traditional banks 
+
+        
+
+
+    
+    These observations are based on the US results of surveys McKinsey conducted monthly between March and November of this year, measuring financial sentiment, behaviors, needs, and expectations among household financial decision makers in 30 countries.
+
+
+1. Forty percent of US financial decision makers say they have a fintech account
+    
+Forty-two percent of respondents surveyed between May 25 and November 8 said they use at least one fintech. Among all financial decision makers surveyed, more than six percent reported becoming a fintech user since the start of the pandemic.2. All fintech types—payment, investments, lending, and overall banking—have grown since the crisis beganMore than 24 percent of consumers use a fintech banking platform, making it the most-used of the four types. These general banking platforms also saw the greatest total absolute increase in users: 6 percent of total consumers opened an overall banking fintech account during the crisis. Despite lagging in growth terms, payments accounts are the second-most-used financial technology type, with about 16 percent of consumers using at least one account.Despite significant growth in e-commerce transactions during the pandemic, consumer payments fintechs have not seen a big bump in usage. The fintechs benefiting most from growth in transactions (e.g., Stripe, Adyen, Braintree) do not—for the most part—have direct-to-consumer relationships.Investment and lending platforms have smaller numbers of total customers, but have grown by the highest percentage during the COVID-19 crisis—with increases of 23 percent and 25 percent, respectively, in users.
+    
+
+		
+	
+3. Fintech is thriving in the US SouthEight of the top ten states by percentage of financial decision makers that report having a fintech account are in the South, with New York and California rounding out the list. Growth in the number of customers reporting having a fintech account over the pre-COVID-19 base has also been significant in the South.
+    
+4. The young use fintech the most, but older generations are joining them in larger numbersGen Z and Millennials had the most fintech accounts overall. Gen Z saw an increase of 14 percentage points of new users (or a 27 percent increase) and Millennials saw an increase of 8 percentage points (or a 17 percent increase). A substantial number of Baby Boomers—26 percent—rely on some sort of fintech account, contradicting the general perception that digital tools are exclusively for younger people.
+    
+5. Younger users tend to use multiple accounts, whereas older generations are more likely to use oneOlder generations appear to turn to fintechs as point solutions, while younger generations use multiple fintechs to approximate a more traditional banking relationship. Gen Z are also the most frequent multi-account users of fintech, with 29 percent (or over half of Gen Z fintech users overall) using more than one account. Nearly two thirds of Baby Boomer fintech users have only one account.
+    
+6. Fintech preaches to the converted: Very few non-fintech users say COVID-19 has made them more likely to open an account in future.It appears that the pandemic has swayed very few non-fintech-users to change course. The convenience of being able to transact at a distance has failed to motivate them to consider opening fintech accounts. Only 7 percent of respondents—across all age groups—that did not hold digital accounts prior to the crisis said that COVID-19 has made them more likely to open one in the future. At the same time, more than half of fintech users who opened an additional account during the crisis said that COVID-19 has made them more likely to use fintechs in the future.
+    
+7. Decision makers in all income brackets opened new fintech accounts throughout the crisisAll income groups saw existing users open new accounts and each had a similar percentage of total decision makers open accounts for the first time. Total penetration is greatest among the highest and lowest income groups—suggesting a bifurcation of many fintechs’ strategies for those income groups. Forty-five percent of financial decision makers who report having income above $100,000 use fintechs, the most of any income group, while 41 percent of those that make less than $25,000 use one.
+    
+
+		
+	
+8. Since the start of COVID-19 in the US, Black financial decision makers have been opening fintech accounts at an accelerated pace, and are more satisfied with fintechs than with traditional financial services providersSince the start of the crisis, a larger percentage of Black decision makers have opened fintech accounts than white decision makers (the only two demographic categories with enough data to report). Roughly 56 percent report being very satisfied with their financial technology providers. Black financial decisions makers are six percentage points more likely to report being very satisfied with their fintech accounts than with traditional banking channels. 
+    
+9. Traditional banks and fintechs have similar levels of customer trust—which could be good news for fintechsWe inquired about financial decision makers’ preferences for financial technology versus traditional firms. Not surprisingly, the primary factor for considering a traditional bank was trust (30 percent of responses). A similar share of respondents (27 percent) indicated they trusted financial technology companies more than banks; so far, so equal. But, fintechs surpassed banks in a number of other areas (e.g., convenience, ease of use, and digital experiences), suggesting traditional players’ incumbent advantages may be eroding.
+    
+For more of our insights, on both US customers and those around the globe, and fintech surveys for six additional countries, visit our .

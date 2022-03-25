@@ -1,0 +1,372 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Exporting to Iran through the Procurement Channel
+  
+
+  
+  
+  
+      
+  Guidance for UK exporters on the process of exporting nuclear and dual-use goods and services covered by the Procurement Channel.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Export Control Joint Unit and Department for International Trade
+
+      
+      Published
+      31 December 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Current sanctions on Iran
+
+        
+        
+          What is the Procurement Channel
+
+        
+        
+          What activity is covered by the Procurement Channel
+
+        
+        
+          Check if your items are on the NSG’s ‘Trigger List’ or dual-use list
+
+        
+        
+          Check you’re not dealing with designated entities
+
+        
+        
+          Getting approval through the Procurement Channel
+
+        
+        
+          Approval times for applications through the Procurement Channel
+
+        
+        
+          Terms and conditions for approved licences
+
+        
+        
+          Appeals process for rejected applications
+
+        
+        
+          Getting your items out of the UK
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Guidance on the export licence approval process for those goods and services listed in what activity is covered by the Procurement Channel. This process applies to any exporter or service provider established in the UK.
+
+Current sanctions on Iran
+
+On 16 January 2016, the majority of EU trade and financial sanctions against Iran were lifted. This was under the Joint Comprehensive Plan of Action (JCPOA) agreed between the E3+3 (UK, France, Germany, USA, Russia, China) and Iran.
+
+However, some sanctions remain in force including the arms embargo and a ban on the supply of missile-related goods, technology and associated services.
+
+The UK implements these sanctions, and a range of other UK sanctions regimes, through regulations established under the Sanctions and Anti-Money Laundering Act 2018 (the Sanctions Act). This was implemented at 11pm 31 December 2020.
+
+What is the Procurement Channel
+
+Certain nuclear-related activities with Iran can only take place if they have been approved in advance by the UN Security Council. States will seek approval for these activities from the Security Council which will then consult the Procurement Working Group comprising the E3+3 and Iran.
+
+The Procurement Working Group will consider all such proposals and make a recommendation to the Security Council for its final review and decision. The Security Council will notify the proposing state of its decision. This is known as the Procurement Channel.
+
+What activity is covered by the Procurement Channel
+
+
+  
+    The export, making available, transfer, supply, or delivery of items (including temporary exports) of nuclear-list goods and nuclear-list technology. This is as specified in the Nuclear Suppliers Group (NSG) Trigger List and NSG Dual-Use List, as well as other restricted goods and technology as defined in Article 34 of the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019.
+  
+  
+    The provision to Iran of assistance or services related to the export, making available, transfer, supply, delivery, manufacture, or use of the items specified above. This includes technical assistance or training, financial services, funds, investment, brokering services.
+  
+  
+    The acquisition by any Iranian person, entity or body of an interest in commercial activities in another state. This involves uranium mining and the production and use of goods in the NSG Trigger List, and related investments.
+  
+
+
+Normal export licensing procedures apply for all other items. However if your goods or services for nuclear end-use in Iran do not normally require a licence you should still contact exportcontrol.help@trade.gov.uk if you have any concerns or doubts.
+
+The Procurement Channel does not apply to exporting items or providing related services categorised as ‘other restricted goods’ or ‘other restricted technology’ in the Iran (Sanctions) (Nuclear) (EU Exit) Regulations 2019. This exemption applies only if those goods or services are not on the NSG’s Trigger List or Dual-Use list. Exceptionally we can decide to submit other applications through the Procurement Channel. We will contact you if this is the case.
+
+Check if your items are on the NSG’s ‘Trigger List’ or dual-use list
+
+Only applications for NSG listed items and associated services and investments must go through the Procurement Channel.
+
+See further guidance on exporting items on the Trigger List.
+
+If your dual-use items are not on the Trigger List, but are on the consolidated list of strategic military and dual-use items that require export authorization you should follow licensing procedures for dual-use items.
+
+
+It is a criminal offence to export controlled goods without the correct licence. Penalties vary depending on the nature of the offence.
+
+
+Check you’re not dealing with designated entities
+
+You must check HM Treasury’s consolidated list to ensure that you are not looking to deal, either directly or indirectly, with a designated entity (persons or organisations subject to restrictive measures). This applies to both the supply of material to Iran or in the payment route utilised.
+
+A number of Iranian entities are still designated, for example for proliferation, human rights and terrorism concerns. Making funds and economic resources to these entities, directly or indirectly, is prohibited in the absence of a licence.
+
+If you are looking to deal with an entity designated under financial sanctions you must approach HM Treasury with information about your proposed dealings and the relevant grounds for licensing. They will consider whether a licence can be issued taking into account the financial sanctions regime.
+
+Getting approval through the Procurement Channel
+
+Applying for a licence
+
+1.
+You must first apply for a licence from the Export Control Joint Unit (ECJU) in the Department for International Trade if your proposed activity is covered by the Procurement Channel.
+
+Licence applications involving the supply of goods (including temporary exports) and technology must be submitted on SPIRE, the online export licensing system.
+
+Applications involving only the supply of technical assistance or financial services and funds or investments must be submitted in writing to exportcontrol.help@trade.gov.uk.
+
+We will submit the application to the UN provided we assess the proposed transaction to be consistent with:
+
+
+  our licensing criteria
+  activities covered by the Procurement Channel
+
+
+
+You cannot apply directly to the UN. Only states can submit applications to the UN.
+
+2.
+Applications must provide:
+
+
+  full details of the activity concerned
+  full technical specifications of any goods to be supplied
+
+
+You must also include for submission to the UN Security Council:
+
+
+  the additional application form available on the UN website which must be completed as fully as possible
+  the optional end-use certificate available on the UN website on the specified template which must be signed by one of the following:
+    
+      (i) the Atomic Energy Organisation of Iran (AEOI) where the goods and services are for Iran’s nuclear programme
+      (ii) another appropriate Iranian government body where the goods and services are for non-nuclear civil use (for example industrial, scientific or medical uses)
+    
+  
+
+
+Failure to provide these documents will delay your application. We will reject any application that does not supply the required information and supporting documentation, including the end-user undertaking.
+
+However we accept that certain information, such as contract numbers and dates, export licence number, and details of shipping details, may not be available at the time you make your application. These may be submitted later. Licence conditions require us to send this additional information to the UN Security Council before any goods or services are supplied.
+
+Information contained in the template application form will be sent to the UN Security Council and will be shared with the E3+3 and Iran. UN rules regarding confidentiality apply.
+
+Licence processing
+
+We will assess the licence application against the UK Strategic Export Licensing Criteria in the normal way.
+
+If we decide that the proposed activity would be a breach of the criteria your licence application will be refused and you will be notified accordingly. You will have 28 days to submit an appeal against this decision.
+
+If the activity is consistent with the Criteria we will submit your application to the Procurement Channel through the UN Security Council and we will inform you that we have done so. This should not be taken as permission to proceed with the activity.
+
+Approval times for applications through the Procurement Channel
+
+The JCPOA sets specific timeframes for the processing of applications through the Procurement Channel, but the process may take up to 50 working days.
+
+This takes into account the possibility that:
+
+
+  the Procurement Working Group may seek further information from applicant states
+  states may ask the Procurement Working Group to reconsider its recommendation prior to the Security Council making a final decision
+
+
+We expect that decisions will be made much more quickly than this. However, until a representative sample of applications have been processed through the Procurement Channel we cannot provide guidance on realistic timescales.
+
+ECJU’s licence processing targets will not apply to Procurement Channel applications.
+
+Terms and conditions for approved licences
+
+If the application is approved by the Security Council, we will grant your licence.
+
+It is a condition of your licence that you submit any required information regarding contracts and shipping that was not available when you submitted your application. This must be done at least 5 days before the actual shipment so that we may forward the information to the UN.
+
+
+Failure to provide this information is a breach of the licence.
+
+
+Appeals process for rejected applications
+
+If the application is rejected by the Security Council, then your licence application will be refused. The decision of the UN Security Council is binding.
+
+You still have the right of appeal. However, you must be aware that there is no corresponding Procurement Channel appeal process. If possible, we will tell you why your application was rejected so that you may address any shortcomings should you wish to submit a new application.
+
+Getting your items out of the UK
+
+Check what declarations need to be made for goods you send from the UK.
+
+
+
+
+
+      
+        
+    Published 31 December 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Exporting items on the ‘Trigger List’
+        Transhipment licences
+        Open general export licence (military and dual-use goods: UK forces deployed in embargoed destinations)
+        Exporting nuclear-related items
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Trade restrictions on exports
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

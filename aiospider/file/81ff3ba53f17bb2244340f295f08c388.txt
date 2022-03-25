@@ -1,0 +1,193 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    HM Land Registry digital services roadmap
+  
+
+  
+  
+
+  
+    
+  Our digital services roadmap, updated quarterly. 
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          HM Land Registry
+
+      
+      Published
+      21 October 2021
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+    
+      
+  
+    
+      Applies to England and Wales
+
+
+      
+          
+    Documents
+
+
+      
+
+    
+        
+  
+      
+  
+  
+    Digital services roadmap
+    
+        HTML
+    
+
+
+  
+
+
+
+  
+
+
+        
+          Details
+
+
+          
+
+    
+            
+The purpose of HM Land Registry’s digital services is to ensure that our diverse user groups have a set of simple, joined-up and consistent experiences across our digital channels. We’ve used our expertise in designing and delivering user-centred products and services which are available and accessible for all. The continued development of digital services directly contributes to the HM Land Registry’s vision:
+
+
+  the property market is perfectly informed by digital data
+  customers receive an outstanding, wholly digital service and transactions are secure, near frictionless and resilient
+  the financial value of property is easier to realise
+  digital property information is easy for all to use in the support of private and public sector services and a sustainable future
+
+
+Since 2017, HM Land Registry has increased its investment in digital services to help to enable a move from receiving paper-based applications to digital which is the cornerstone for its transformation.
+
+What has been achieved to date
+
+The increase in investment has led to change projects being started and outcomes being produced. This has contributed to HM Land Registry providing more modern digital services, good examples are:
+
+
+  
+    The initial developments for receiving digital applications. This has focused HM Land Registry on moving away from paper applications through showing the value of receiving structured data from customers and providing them with validated data to reduce errors. This approach will contribute to increasing speed of service for these types of digital applications.
+  
+  
+    Looking to the technology market to understand opportunities for digital signatures and proving identification.  Again, over time this will improve the speed of service. Also, developing more public facing APIs can support the case management system market to grow.
+  
+  
+    Developing modern casework and fraud systems to improve how work can be handled throughout the lifecycle of an application.
+  
+  
+    Opening more of data to users through publishing them on an easy to use platform, whilst also making more data available to view for citizens to help with self service.
+  
+  
+    Improving digital channels, making improvements through feature development to the HM Land Registry domain hosted portal and adding a new service to the business gateway channel.
+  
+
+
+
+
+        
+      
+
+      
+    Published 21 October 2021
+
+
+
+      
+    
+  
+  
+
+  
+
+
+    
+
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Land registration
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

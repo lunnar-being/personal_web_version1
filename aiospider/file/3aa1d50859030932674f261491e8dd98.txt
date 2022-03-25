@@ -1,0 +1,370 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Cost utility analysis: health economic studies
+  
+
+  
+  
+  
+      
+  How to use a cost utility analysis to evaluate your digital health product.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency
+
+      
+      Published
+      13 October 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          What to use it for
+
+        
+        
+          Pros
+
+        
+        
+          Cons
+
+        
+        
+          How to carry out a cost utility analysis
+
+        
+        
+          Example: The PAS Study
+
+        
+        
+          More information and resources
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This page is part of a guide to evaluating digital health products.
+
+Cost utility analysis (CUA) is one type of economic evaluation that can help you compare the costs and effects of alternative interventions. CUA measures health effects in terms of both quantity (life years) and quality of life. These are combined into a single measure of health: quality-adjusted life years (QALYs).
+
+CUA can help you understand how far your product extends people’s lives (life year gains) and improves the quality of life compared to alternative options. The incremental cost and incremental effect (QALY) of your product is then combined into a single metric, the cost per QALY (or incremental cost-effectiveness ratio).
+
+CUA studies are routinely used in the UK to inform resource allocation decisions across different healthcare settings. For example, they help inform decisions made by the National Institute for Health and Care Excellence (NICE) about which drugs and medical devices to provide in the English NHS.
+
+What to use it for
+
+Use a cost utility analysis when:
+
+
+  you want to assess the value for money of a digital product that might be funded by the NHS
+  you need to establish the cost-effectiveness of a product that is likely to involve a high financial commitment from the payer
+  both quantity and quality of life are important dimensions of the health benefits from using your product
+
+
+Pros
+
+Advantages include:
+
+
+  QALYs show health benefits in terms of both quantity and quality of life
+  
+CUA facilitates comparisons across different health interventions and policies by using a common unit of effect (QALY)
+  
+CUA can inform resource allocation decisions across different healthcare settings
+
+
+Cons
+
+Drawbacks include:
+
+
+  quality of life measures tend to be more subjective than clinical measures
+  generic health-related quality of life instruments can be less accurate at capturing subtle health effects, for example, effects on mental health
+  
+CUA does not capture non-health effects
+
+
+How to carry out a cost utility analysis
+
+You should follow the general considerations for any economic evaluation study. There are also points that are particularly relevant to cost utility analysis (CUA):
+
+Choosing your study perspective
+
+CUA studies aim to inform resource allocation to achieve maximum population health for a given health budget. In principle, they should take a broad societal perspective. This would consider all costs, whoever incurs them, and effects beyond the patient.
+
+However, quantifying the costs and effects to everyone directly or indirectly affected by a digital health product can be very challenging. As a result, CUA usually adopts the perspective of the NHS and personal social services. This is the viewpoint recommended by NICE for its Health Technology Appraisal Programme.
+
+Measuring effects
+
+QALYs attempt to combine the effects of your product on both mortality (how long people live for) and morbidity (how well people are). One QALY represents one year of life in full health. To calculate QALYs, you will need to measure:
+
+
+  life years
+  health-related quality of life (HRQL)
+
+
+Life years are estimates of how far an intervention extends life.
+
+HRQL reflects an individual’s perceptions of their own health, shown as specific health states or dimensions.
+
+There are many ways to measure HRQL. The most widely used are generic measures, such as the 5-dimension EuroQol (EQ-5D) and the 36-item Sort Form Survey (SF-36). Each measures ask individuals to describe their health across different domains.
+
+For example, the EQ-5D measure includes 5 dimensions: mobility, self-care, usual activities, pain/discomfort and anxiety/depression. Patients indicate their own health state by answering how they feel across the different health domains. Each health state is then assigned a value, taken from the general public, to generate an HRQL score. For example, the EQ-5D score uses a scale from 0 (death) to 1 (perfect health).
+
+QALYs are calculated by multiplying the time spent in a particular health state by the corresponding HRQL score. For instance, if a digital product for managing heart failure extends a person’s life by 5 years at a quality of life by 0.8, compared to an alternative option, then it would generate 4 (5x0.8) QALYs.
+
+Reporting the results
+
+To summarise the relative cost-effectiveness of your product compared to alternative products, you should report an incremental cost effectiveness ratio (ICER). The ICER is calculated by taking the ratio between the incremental cost and the incremental QALY, which gives you the cost per additional QALY gained.
+
+For example, a digital product for managing heart failure generates 4 QALYs compared to an alternative option. If that digital product costs £4,000 more than the alternative, then the ICER would be £4,000 divided by 4, that is £1,000 per QALY.
+
+This measure is useful to inform resource allocation decisions at national level. It allows a quick assessment of whether a specific product is cost-effective by identifying whether the ICER is below the maximum a decision-maker is willing to pay for a QALY.
+
+For example, the cost per QALY threshold by NICE for England and Wales is between £20,000 and £30,000. The example digital product for managing heart failure would be judged highly cost-effective because its ICER (£1,000 per QALY) is well below this threshold.
+
+Example: The PAS Study
+
+Smit and others (2013), ‘Cost-effectiveness and cost-utility of internet-based computer tailoring for Smoking Cessation’.
+
+The Personal Advice in Stopping Smoking (PAS) programme for smoking cessation combined multiple computer tailoring and tailored counselling by a practice nurse. The multiple computer tailoring consisted of computer-generated letters personalised according to patient characteristics.
+
+The CUA compared 3 options:
+
+
+  the PAS intervention
+  multiple computer tailoring only
+  usual care
+
+
+As well as the main clinical outcome (smoking abstinence), the CUA considered health-related quality of life at 12 months, measured using the EuroQol EQ-5D.
+
+The CUA took a societal perspective and considered costs to the healthcare system as well as to the patient:
+
+Intervention costs
+
+These included resources needed for the delivery of the web-based multiple computer tailoring and the nurse counselling sessions.
+
+Costs of the digital component related to hosting and maintenance of the website. They excluded development and research-specific costs because those had been incurred before the relevant implementation period.
+
+Healthcare resources
+These included healthcare resources used in:
+
+
+  primary care (GP and nurse consultations)
+  secondary care (hospital admissions)
+  community services (mental health and alternative support)
+
+
+Resource use data were collected for both the intervention and control groups using the study’s case report forms.
+
+Patient costs
+
+These included costs to patients of:
+
+
+  travel
+  time lost through participating in the interventions
+  over-the-counter drugs
+  informal care
+
+
+Data were collected retrospectively using self-reported questionnaires.
+
+The researchers used the updated Dutch manual for cost analysis in healthcare research to value healthcare resources. Unit costs for informal care were based on estimated unpaid work rates. Time lost due to the intervention was costed using average earnings.
+
+The CUA found that multiple computer tailoring only was clearly not cost-effective because it cost more than usual care and provided fewer QALYs.
+
+The PAS programme was relatively more expensive (incremental costs were €806), and provided a small additional benefit (0.02 QALYs) compared to usual care. This resulted in a cost per QALY of €40,000.
+
+Because the recommended willingness to pay for a QALY gain in the Dutch system is €18,000, the CUA study concluded that usual care was the most cost-effective option.
+
+More information and resources
+
+Kidholm and others 2016, ‘Cost-utility analysis of a cardiac rehabilitation program: the Teledialog project’. The CUA suggested that the total cost of the app-based cardiac rehabilitation programme (Teledialog) was about €1,700 higher than the usual rehab in a hospital setting. The QALY gain (HRQL was measured using the SF-36 instrument) associated with Teledialog was very small (0.004). The resulting ICER was about €484,000, suggesting that the digital rehab programme was unlikely to be cost-effective.
+
+Warmerdam and others (2010), ‘Cost-utility and cost-effectiveness of internet-based treatment for adults with depressive symptoms’. The study compared an internet-based cognitive behavioural therapy, an internet-based problem-solving therapy, and usual care. It found that both costs and QALYs (HRQL was measured using the EQ-5D instrument) were similar across the comparison groups. Both internet-based interventions appeared to be cost-effective compared to usual care, but problem-solving therapy was the most cost effective with a cost per QALY of €11,523.
+
+
+
+
+
+      
+        
+    Published 13 October 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Cost consequence analysis: health economic studies
+        NHS reference costs 2013 to 2014
+        Cost effectiveness analysis: health economic studies
+        Behaviour change techniques review: descriptive studies
+        Case-control study: comparative studies
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Evaluating digital health products
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Health improvement
+        Research, testing and standards
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

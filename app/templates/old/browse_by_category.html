@@ -1,0 +1,275 @@
+<!--<%@ page language="java" contentType="text/html; charset=utf-8"
+   pageEncoding="utf-8"%>
+<%@ taglib prefix="s" uri="/struts-tags"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" 
+"http://www.w3.org/TR/html4/loose.dtd">-->
+<html>
+
+<head>
+    <!-- basic -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- mobile metas -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+    <!-- site metas -->
+    <title>Homepage of our system</title>
+    <meta name="keywords" content="">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <!-- bootstrap css -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <!-- style css -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Responsive-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}">
+    <!-- fevicon -->
+    <link rel="icon" href="{{ url_for('static', filename='images/fevicon.png"') }}", type="image/gif" />
+    <!-- Scrollbar Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/jquery.mCustomScrollbar.min.css') }}">
+    <!-- Tweaks for older IEs-->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome.css') }}">
+    <!-- fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Poppins:400,700&display=swap" rel="stylesheet">
+    <!-- font awesome -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/font-awesome.css') }}">
+    <!-- select -->
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap-select.min.css') }}">
+    <!-- owl stylesheets -->
+    <link href="https://fonts.googleapis.com/css?family=Great+Vibes|Poppins:400,700&display=swap&subset=latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/owl.carousel.min.css') }}">
+    <link rel="stylesoeet" href="{{ url_for('static', filename='css/owl.theme.default.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/jquery.fancybox.min.css') }}" media="screen">
+    <link rel="stylesheet" href="https://cdn.staticfile.org/font-awesome/4.7.0/css/font-awesome.css">
+    <style type="text/css">
+    .tag-list label {
+        display: inline-block;
+        *display: inline;
+        zoom: 1;
+        cursor: pointer;
+        padding: 1px 10px;
+        margin: 0 3px 5px 0;
+        color: #666;
+        font-size: 14px;
+        border-radius: 2px;
+        background: none;
+    }
+
+    .tag-list label:hover {
+        background: #eeeeee;
+    }
+
+    .tag-list label input {
+        -webkit-appearance: none;
+        text-rendering: auto;
+        color: -internal-light-dark(black, white);
+        letter-spacing: normal;
+        word-spacing: normal;
+        text-transform: none;
+        text-indent: 0px;
+        text-shadow: none;
+        display: inline-block;
+        text-align: start;
+    }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="header_section_top">
+            <div class="row">
+                <div class="col-sm-12">
+                    <div class="custom_menu">
+                        <ul>
+                            <li><a href="index.html">首页</a></li>
+                            <li><a href="search_result.html">检索</a></li>
+                            <li><a href="browse_by_category.html">分类浏览</a></li>
+                            <li><a href="parse.html">采集</a></li>
+                            <li><a href="statistics_analysis.html">统计分析</a></li>
+                            <li><a href="proofreading.html">审校</a></li>
+                        </ul>
+                        <div class="user">
+                            <img src="{{ url_for('static', filename='images/not_login.png') }}" alt="">
+                            <div class="user-name"><a href="login.html">未登录</a></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row clearfix">
+            <div class="col-md-1 column">
+            </div>
+            <div class="col-md-10 column">
+                <br>
+                <div class="container">
+                    <form class="form-inline">
+                        <select name="country" class="selectpicker">
+                            <option value="">全部国家</option>
+                            <option value="">中国</option>
+                            <option value="">美国</option>
+                            <option value="">英国</option>
+                            <option value="">德国</option>
+                            <option value="">意大利</option>
+                        </select>
+                        <select name="country" class="selectpicker">
+                            <option value="">全部领域</option>
+                            <option value="">工业</option>
+                            <option value="">农业</option>
+                            <option value="">经济</option>
+                            <option value="">健康</option>
+                        </select>
+                        <select name="country" class="selectpicker">
+                            <option value="">全部机构</option>
+                            <option value="">XXX</option>
+                            <option value="">XX</option>
+                        </select>
+                        <button type="submit" class="btn btn-primary" style="margin-right: 20px;">筛选</button>
+                    </form>
+                </div>
+                <div class="container">
+                    <div class="country-tag">
+                        <div class="tag-list">
+                            <span style="font-size: 17px;font-weight: bold;">国别:</span>
+                            <label>中国<input type="radio" name="tag" value=""></label>
+                            <label>美国<input type="radio" name="tag" value=""></label>
+                            <label>德国<input type="radio" name="tag" value=""></label>
+                            <label>英国<input type="radio" name="tag" value=""></label>
+                            <label>法国<input type="radio" name="tag" value=""></label>
+                            <label>全部国家<input type="radio" name="tag" value=""></label>
+                        </div>
+                    </div>
+                    <div class="field-tag">
+                        <div class="tag-list">
+                            <span style="font-size: 17px;font-weight: bold;">领域:</span>
+                            <label>工业<input type="radio" name="tag" value=""></label>
+                            <label>农业<input type="radio" name="tag" value=""></label>
+                            <label>经济<input type="radio" name="tag" value=""></label>
+                            <label>健康<input type="radio" name="tag" value=""></label>
+                            <label>科研<input type="radio" name="tag" value=""></label>
+                            <label>全部领域<input type="radio" name="tag" value=""></label>
+                        </div>
+                    </div>
+                    <div class="country-tag">
+                        <div class="tag-list">
+                            <span style="font-size: 17px;font-weight: bold;">机构:</span>
+                            <label>XXX局<input type="radio" name="tag" value=""></label>
+                            <label>XX局<input type="radio" name="tag" value=""></label>
+                            <label>XXX所<input type="radio" name="tag" value=""></label>
+                            <label>XXX研究院<input type="radio" name="tag" value=""></label>
+                            <label>XXX院<input type="radio" name="tag" value=""></label>
+                            <label>全部机构<input type="radio" name="tag" value=""></label>
+                        </div>
+                    </div>
+                </div>
+                <br>
+                <h2>
+                    Disruptive, high-impact aerospace technologies: apply for funding
+                </h2>
+                <p>
+                    Organisations can get grants to develop game-changing solutions to UK aerospace challenges and bring forward the flight technologies of the future.
+                </p>
+                <p>
+                    <a class="btn" href="content_page.html">View details »</a>
+                </p>
+                <h2>
+                    Smart: innovation funding for game-changing ideas from business
+                </h2>
+                <p>
+                    An overview of the grants that organisations can get to carry out ambitious, disruptive R&D projects with a high potential for commercial success.
+                </p>
+                <p>
+                    <a class="btn" href="#">View details »</a>
+                </p>
+                <h2>
+                    Future Sensing and Situational Awareness Programme
+                </h2>
+                <p>
+                    The Future Sensing and Situational Awareness Programme develops novel and disruptive sensor technology and concepts.
+                </p>
+                <p>
+                    <a class="btn" href="#">View details »</a>
+                </p>
+                <h2>
+                    Heading
+                </h2>
+                <p>
+                    Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+                </p>
+                <p>
+                    <a class="btn" href="#">View details »</a>
+                </p>
+                <h2>
+                    Heading
+                </h2>
+                <p>
+                    Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+                </p>
+                <p>
+                    <a class="btn" href="#">View details »</a>
+                </p>
+                <h2>
+                    Heading
+                </h2>
+                <p>
+                    Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+                </p>
+                <p>
+                    <a class="btn" href="#">View details »</a>
+                </p>
+                <ul class="pagination">
+                    <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+                    <li class="page-item"><a class="page-link" href="#">1</a></li>
+                    <li class="page-item"><a class="page-link" href="#">2</a></li>
+                    <li class="page-item"><a class="page-link" href="#">3</a></li>
+                    <li class="page-item"><a class="page-link" href="#">Next</a></li>
+                </ul>
+            </div>
+            <div class="col-md-1 column">
+            </div>
+        </div>
+    </div>
+    <footer class="panel-footer" style="width: 100%; overflow: hidden;">
+        <div class="container">
+            <div class="row footer-top" style="text-align: center;">
+            </div>
+            <hr style="border: 1px  solid #000000;">
+            <div class="row" style="text-align: center;">
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <a href="#" style=" color: gray;">关于我们</a>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <a href="#" style=" color: gray;">联系方式</a></li>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <a href="#" style=" color: gray;">相关网站</a></li>
+                </div>
+                <div class="col-sm-3 col-md-3 col-lg-3">
+                    <a href="#" style=" color: gray;">特别致谢</a></li>
+                </div>
+            </div>
+            <br>
+        </div>
+    </footer>
+    <!-- Javascript files-->
+    <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/popper.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/jquery-3.0.0.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/plugin.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/bootstrap-select.min.js') }}"></script>
+    <!-- sidebar -->
+    <script src="{{ url_for('static', filename='js/jquery.mCustomScrollbar.concat.min.js') }}"></script>
+    <script src="{{ url_for('static', filename='js/custom.js') }}"></script>
+    <script>
+    function openNav() {
+        document.getElementById("mySidenav").style.width = "250px";
+    }
+
+    function closeNav() {
+        document.getElementById("mySidenav").style.width = "0";
+    }
+    </script>
+</body>
+
+</html>

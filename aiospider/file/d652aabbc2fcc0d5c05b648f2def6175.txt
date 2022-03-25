@@ -1,0 +1,312 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Classification by automated grading techniques - Video Imaging Analysis (VIA)
+  
+
+  
+  
+  
+      
+  Guidance for using automated grading techniques for beef carcase classification
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Rural Payments Agency
+
+      
+      Published
+      13 November 2017
+      Last updated
+      
+        1 January 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          What is VIA
+
+
+        
+        
+          Approved machines
+
+        
+        
+          Licences for VIA
+
+
+        
+        
+          Carcase presentation
+
+        
+        
+          Operating requirements for VIA
+
+
+        
+        
+          Issues identified with VIA
+
+
+        
+        
+          Machines switched off or in test mode
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+What is VIA
+
+VIA is an automated grading process that uses video cameras on the slaughter line and specialist software to classify carcases. VIA lights the suspended carcases and the video cameras take digital pictures of each carcase. The software processes these images to analyse information about the carcase shape (conformation) and fat cover. The contours of the carcase are analysed to assess its conformation based on the EUROP classification scale. 
+It then compares the amount of red (flesh) and white (fat) on the image to determine the fat class of the carcase.
+
+Approved machines
+Currently, the only machine approved for use in the UK is the VBS 2000 (E+V Technology) machine.
+
+Licences for VIA
+
+VIA is approved for use, with a licence, across the UK. The Rural Payments Agency (RPA) issue the appropriate licences for England and Wales. Slaughterhouses must notify RPA, in writing, if they want to classify carcases using VIA. RPA will issue a licence to classify carcases using automated grading techniques if the slaughterhouse has installed the appropriate technology and met the criteria for its use. 
+RPA must be satisfied that the VIA machine is operating and classifying bovine carcases to the required standards. Regular inspections will show if this is the case.
+A licence may be suspended or revoked if:
+
+
+  the business (operator) using the machine has broken the terms of the issued licence
+  grading doesn’t meet the standards required by the Regulations – whether this is because of the machine or with the way it is being used
+  the machine covered by the licence is moved.
+
+
+Carcase presentation
+The approved carcase presentation for VIA classification is the UK dressing specification. 
+For a VIA classification to be valid, the carcase presentation must be identical to the one used in the certification test which approved the use of VIA for the UK. This is the EU Certification Test in Northern Ireland in March 2010 which used the UK dressing specification. 
+Any request for changes to the approved carcase presentation must:
+
+
+  be made in writing, and
+  agreement received before the changes are made.
+
+
+Operating requirements for VIA
+
+Slaughterhouses using VIA to classify carcases must:
+
+
+  have an appropriate licence issued by RPA
+
+  identify the category of the carcase using the system referred to in EUR 2000/1760 ‘Identification and registration of bovine animals’
+  keep daily control reports on the automated grading, specifically include any faults or inaccuracies and what actions were taken where necessary
+  classify carcases in line with the EUROP scale
+  use carcase labels
+  have a licenced classifier on site at all times.
+
+
+The use of labels is compulsory where classification is carried out by automated grading techniques. Slaughterhouses must record all necessary information on the carcase labels, records and remittance advices. They must include the fact that classification was by automated grading techniques.
+
+The classification, identification and weighing of the carcase must take place within 1 hour of slaughter after the animal has been stuck. If VIA fails to classify a carcase, the classification and identification of the carcase must take place on the day of slaughter. Weighing of the carcase must still take place within 1 hour. For this reason a slaughterhouse using VIA must also have a licenced classifier on site at all times to carry out the grading if a machine stops working or if a machine fails to classify a carcase.
+
+VIA machines need maintained and serviced on a regular basis to make sure that they continue to work correctly. Operators must check each machine daily and keep a control report. These reports must be available for inspection when requested.
+
+Issues identified with VIA
+
+An operator must inform RPA if issues are identified that affect grading and classification of bovine carcases. If issues are identified, RPA will assess the information and decide if the VIA machine is to be switched off.
+
+RPA conduct routine inspections and might identify issues during the inspection.
+
+Machines switched off or in test mode
+Operators must continue to meet all the requirements of the Beef Carcase Classification scheme, even when they have switched the machine off or it is in test mode. Operators must continue to classify bovine carcases aged 8 months and over in line with the EUROP scale. A licenced classifier needs to carry out this classification. 
+When a carcase is classified by manual means the required records must include the following details of the classifier who carried out the classification:
+
+
+  name
+  signature
+  licence number
+
+
+Information given to the supplier of the slaughtered animal must also include that manual classification took place.
+RPA will confirm when the machine is certified for use again, until then these requirements will apply.
+Operators must provide RPA with evidence that the issues identified have been fully resolved. When RPA receives this evidence they will carry out an inspection to assess if the machine can be switched back on. Operators can only switch the machine back on when authorised by RPA.
+
+
+
+
+
+      
+        
+    Published 13 November 2017
+    Last updated 1 January 2021
+      + show all updates
+      
+        
+            
+              1 January 2021
+              Regulation change updated due to EU exit
+            
+            
+              13 November 2017
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        The Beef Carcase Classification scheme: classify carcases
+        Beef and veal labelling: what happens if you don't comply
+        Beef and veal labelling inspections
+        Set up a traceability system for beef and veal
+        The Beef Carcase Classification scheme: guidance
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Food and farming
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

@@ -1,0 +1,359 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Guidance and tools for digital accessibility
+  
+
+  
+  
+  
+      
+  Find the best guidance and tools to meet the accessibility regulations.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office and Government Digital Service
+
+      
+      Published
+      1 February 2021
+      Last updated
+      
+        9 August 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Meeting the Public Sector Bodies Accessibility Regulations
+
+        
+        
+          Making your projects, programmes and infrastructure accessible and inclusive
+
+        
+        
+          Designing accessible services
+
+        
+        
+          Designing accessible content
+
+        
+        
+          Creating accessible communications
+
+        
+        
+          Testing with accessibility personas
+
+        
+        
+          Accessibility training
+
+        
+        
+          Your website accessibility statement
+
+        
+        
+          Join the accessibility community
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+Meeting the Public Sector Bodies Accessibility Regulations
+
+Leading a team on accessibility
+If you lead a team and are responsible for the accessibility of your website this guidance will help you to meet the regulations. You could be working in a large government organisation or somewhere smaller like a school.
+
+Accessibility requirements for public sector websites and apps
+
+Working in a team making accessibility changes
+If you work in a team that makes changes to your website this guidance will help you to know what you need to do to make your website meet the accessibility regulations.
+
+Make your website or app accessible
+Understand the WCAG principles, guidelines and success criteria 
+Follow accessibility guidance for your job role
+
+Monitoring websites and mobile apps under the regulations
+Find out how the Central Digital and Data Office (CDDO) are monitoring websites and mobile apps and understand how the sampling process works.
+
+Public sector website and mobile application accessibility monitoring
+
+Making your projects, programmes and infrastructure accessible and inclusive
+
+Find out how to build, buy or supply accessible technology, and how this will help your programme.
+
+Make things accessible and inclusive
+
+Designing accessible services
+
+When creating, updating or managing a service you need to think about accessibility. This guidance helps service designers and other people working on services to consider the most important facts when starting this work.
+
+Making your service accessible
+
+Find out what you should consider to make sure the service you’re building or managing is accessible.
+
+Making your service accessible: An introduction
+
+Using accessible styles, components and patterns
+
+If you’re building your service on a .service.gov.uk domain, you should use the GOV.UK Design System’s accessible styles, components and patterns.
+
+GOV.UK Design System
+
+Including all users
+There’s usually no alternative to using government services so they have to work for everyone. Making your service inclusive means making sure anyone who needs to can use it as easily as possible.
+
+Making your service more inclusive
+
+Testing with assistive technology
+
+Testing with assistive technology throughout the development of your service will help you to find and fix accessibility problems and meet the needs of all your users.
+
+Testing with assistive technologies
+
+Finding user research participants
+For your research to be effective, your participants must be actual or likely users of your service and you must include disabled people and people who use assistive technology. This guidance explains how to recruit the right participants.
+
+Finding user research participants
+
+Designing accessible content
+
+Working with documents
+If you are working with different content formats find out which ones work best to make things more accessible for all users.
+
+Publishing accessible documents
+
+Guidance for GOV.UK publishers
+This content design guidance will help GOV.UK publishers make their content more accessible. It’s specifically written for people using the GOV.UK publishing tools, but it might still be useful if you publish elsewhere.
+
+Find out about:
+
+
+  structuring headings and start buttons
+  writing accessible links
+  avoiding duplicate page titles
+  describing images, graphs and charts
+  creating accessible tables
+  making Whitehall publications accessible
+  using open formats and avoiding PDFs
+  creating accessible forms
+  making videos accessible
+  making translations accessible
+
+
+Working with data
+
+If you produce spreadsheets or workbooks of data, find out how to make them accessible.
+
+Optimise spreadsheets for accessibility
+
+Creating accessible communications
+
+Find out how to make your social media posts accessible and inclusive.
+
+Accessible communications
+
+Creating inclusive communications
+
+Learn about communicating inclusively, portraying disability and how to make different types of accessible formats available.
+
+Inclusive communication
+
+Testing with accessibility personas
+
+Find out about accessibility personas and how to use them to test your products and services.
+
+Using persona profiles to test accessibility
+
+Accessibility training
+
+You can sign up for the following free training opportunities:
+
+
+  
+Introduction to Web Accessibility from edX - endorsed by W3C
+  Introduction to UX and accessible design from FutureLearn
+  User-centred design training and events in the Service Manual
+
+
+Your website accessibility statement
+You need an accessibility statement on your website or mobile app which details accessibility problems you have not fixed yet and any you are working on to resolve.
+
+Use this sample accessibility statement to help you to write one for your organisation.
+
+Sample accessibility statement
+
+Join the accessibility community
+Learn more about accessibility and share ideas and experiences with people working on solving accessibility problems across the public sector.
+
+Find out more about the accessibility community
+
+
+
+
+      
+        
+    Published 1 February 2021
+    Last updated 9 August 2021
+      + show all updates
+      
+        
+            
+              9 August 2021
+              Link added to guidance on how to meet WCAG 2.1 principles and success criteria.
+            
+            
+              27 July 2021
+              Links added to online resources including how to make technology and communications accessible and inclusive, using the GOV.UK Design System, testing with accessibility personas and free training. Links to content design guidance for GOV.UK publishers and working with data.
+            
+            
+              29 March 2021
+              Removing duplication from the 'Including all users' section.
+            
+            
+              25 March 2021
+              New content linking to the Service Manual and information on the website sampling process
+            
+            
+              1 February 2021
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Publishing accessible documents
+        Examples of tables and charts to use on GOV.UK 
+        Doing a basic accessibility check if you cannot do a detailed one
+        How to publish on GOV.UK
+        Reporting an accessibility problem on a public sector website
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

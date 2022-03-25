@@ -1,0 +1,98 @@
+
+
+
+
+Previous News ReleaseNo Silver Bullet for Determining Safety of Automated Vehicles; Public Trust in AV Technology Rides on Multiple Assessments and Government MessagingNext News ReleaseEfforts Needed to Expand Ability of Family Members to Integrate into Formal Health Care Teams
+
+
+Preventive Health Care Dropped Significantly During First Two Months of Pandemic Lockdown; Study Finds Disparities in Switch to Telemedicine
+
+
+
+For Release
+ThursdayNovember 5, 2020
+
+During the first two months of the pandemic lockdown, Americans dramatically reduced their use of preventive and elective health care, while increasing use of telemedicine—but the switch was not enough to offset reductions in in-person care, according to a new study.
+The analysis, one of the first to quantify the cuts in elective medical care experienced in March and April, found that the number of mammograms and colonoscopies—diagnostic procedures that cannot be done via telehealth—dropped by more than 65% during the period. Overall health care utilization declined by 23% in March and by 52% in April.
+Smaller cuts in in-person care and lower rates of telemedicine use were observed among patients who reside in lower-income or predominately non-white zip codes. Researchers say the findings are another example of disparities in health care that have worsened during the coronavirus pandemic.
+The study, published online by the journal JAMA Network Open, is based on medical records from more than 5 million Americans who have private health insurance.
+“This adds detailed evidence to the anecdotal reports that Americans quit going to see the doctor when the pandemic shutdown started,” said Christopher Whaley, the study's lead author and a policy researcher at RAND, a nonprofit research organization. “If important visits are only delayed for a few months, there will likely be no harm. But if patients do not get important screenings, there could be long-term negative health consequences.”
+Most studies about the change in medical care since the beginning of the pandemic shutdown have used information from a single health system or geographic market to observe changes in use of medical services.
+The new study used insurance claims data from 2018 to 2020 from about 200 employers across all 50 states.
+Researchers found that for March and April 2020, utilization of colonoscopy decreased by nearly 70% relative to rates observed in March and April 2019. Relative reductions for mammograms was 67% among women ages 46 to 64.
+Blood sugar tests dropped by more than 50%, vaccines among children under age 2 dropped by 22% and angioplasty procedures dropped by nearly 17%. A small drop was seen in chemotherapy treatments. In addition, musculoskeletal surgery, cataract surgery and MRIs all dropped by 45% or more.
+Use of prescription drugs for high cholesterol and diabetes saw small drops, while use of asthma medications increased by 11% over March and April.
+During the same period, telemedicine visits skyrocketed, increasing by more than 4,000% in April 2020 as compared to April 2019. But the increase in telemedicine visits replaced only about 40% of the decline in medical office visits.
+Researchers found that patients who resided in lower-income or predominately non-white zip codes had an increase in telehealth visits that was about a third lower than those who lived in the wealthiest neighborhoods.
+“The extent to which access barriers to telemedicine contribute to lower rates of in-person care deferral, and thus increases in potential exposure to COVID-19, should be examined in future work,” Whaley said.
+Support for the study was provided by the National Institute on Aging and the National Cancer Institute.
+Other authors of the study are Megan F. Pera, Jennie Chang, Julia Velasco and Heather K. Hagg, all of Castlight Health, Jonathan Cantor of RAND, Neeraj Sood of USC, and Dena M. Bravata of Castlight Health and the Center for Primary Care and Outcomes Research at Stanford University.
+RAND Health Care promotes healthier societies by improving health care systems in the United States and other countries.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+About the RAND Corporation
+The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous.
+
+
+
+
+Media Resources
+RAND Office of Media Relations
+(703) 414-4795
+(310) 451-6913
+media@rand.org
+
+
+Researcher Spotlight
+
+
+
+Christopher M. Whaley
+Policy Researcher
+
+
+Christopher Whaley is a policy researcher at the RAND Corporation and professor at the Pardee RAND Graduate School. His research focuses on using large-scale medical claims data to examine how information and financial incentives influence patient's choice of providers, how providers respond to…
+
+Explore Our People »
+
+Explore
+All News Releases
+By Date
+Related Topics
+
+Coronavirus Disease 2019 (COVID-19)Health DisparitiesPandemicTelemedicine
+
+Research Conducted By
+
+RAND Health Care
+
+Explore All Topics »
+
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+Journal Article
+Changes in Health Services Use Among Commercially Insured US Populations During the COVID-19 Pandemic
+
+Jan 26, 2021
+Christopher M. Whaley @cm_whaley, Megan F. Pera, et al.
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Research Topics:Health, Health Care, and Aging/Health Disparities","Research Topics:Health, Health Care, and Aging/Infectious Diseases/Coronavirus Disease 2019 (COVID-19)","Content Types:News Release","Research Topics:Cyber and Data Sciences/Health Information Technology/Telemedicine","Research Topics:Health, Health Care, and Aging/Infectious Diseases/Epidemic/Pandemic"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Health Disparities","value":"research-topics:health-health-care-and-aging/health-disparities"},{"display":"Coronavirus Disease 2019 (COVID-19)","value":"research-topics:health-health-care-and-aging/infectious-diseases/coronavirus-disease-2019-COVID-19"},{"display":"News Release","value":"content-types:news-release"},{"display":"Telemedicine","value":"research-topics:cyber-and-data-sciences/health-information-technology/telemedicine"},{"display":"Pandemic","value":"research-topics:health-health-care-and-aging/infectious-diseases/epidemic/pandemic"}];})();
+

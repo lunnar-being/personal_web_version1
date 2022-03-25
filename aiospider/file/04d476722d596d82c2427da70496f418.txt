@@ -1,0 +1,44 @@
+
+    
+    
+
+        
+        
+        
+     to be running a regional or midsize bank. On the one hand, they’re competing against large global banks that continue to build market share and woo away customers. On the other, they are facing the  that let consumers bypass banks altogether. Add to that the steep regulatory and reporting requirements, the cost of upgrading legacy tech systems, and the general challenge of trying to operate at scale in an environment of near-zero interest rates and increased cyberattacks. COVID-19’s arrival curbed business activity while accelerating digitization and changes in consumer behavior. 
+	
+The net result is intense pressure to ramp up productivity in that middle tier—the regional banks, community banks, credit unions, cooperatives, and midsize banks that typically have $50 billion to $150 billion of assets under management. To achieve that, most of these banks will need to transform their operations with a customer-centric, end-to-end approach. The question, of course, is how this can be achieved when . In our experience, some of the main challenges to a successful transformation are changing the organizational culture and developing new digital capabilities. That challenge is exacerbated for the regional or midsize banks that lack the capital or other levers that global banks have to invest in transforming their technology and workforce structure. In this article, we look at what one midsize bank did to significantly improve productivity and the lessons it holds for others to create the conditions for a more holistic transformation as economic conditions improve.The productivity challenge of midsize banksAs noted in McKinsey’s , some 36 percent of banks worldwide earned a mere 1.6 percent return on tangible equity (ROTE)—a measure of profitability—over the past three years. Most of these “challenged banks” operate below scale and are “caught in the middle,” with neither high single-digit market share nor any niche propositions. Many operate in Western Europe, where they must contend with weak macro conditions such as slow loan growth and low interest rates. For many midsize banks, these conditions make transformation an imperative, not just to improve productivity but, ultimately, to survive. As noted in , companies must push harder to automate production tasks, shift to online channels, and invest in digital transformation. While such investments are critical and should be prioritized as economic conditions improve, they are not what makes or breaks a successful transformation.In our experience, the main hurdle to achieving a successful transformation is often shifting the mindset of the people who work in an organization. In short, it’s all about the “soft stuff”— articulating bold ambitions at the top, clear messaging and role modeling throughout management, and engagement at all levels.We suggest leaders focus on not only the financial and operational metrics around performance but also the critical measures of organizational health. Our research shows that transformations that have a strong emphasis on organizational health have a  (TRS) over an 18-month period compared with those that don’t (Exhibit 1). 
+    
+A key factor in improving organizational health is to focus on capability building—that is, helping employees learn not only the technical skills they need to do their jobs but also leadership and foundational management skills. For example, data from McKinsey’s  (OHI)
+
+
+ of 38 publicly listed companies showed that when companies included more than 30 percent of their workforces in capability-building programs, . These companies also improved OHI scores by an average of 12 percentile places. Such capability building is especially critical in , in which during the pandemic one part of the workforce may have been dealing with the stress of remote-working environments while another faced the challenge of maintaining personal safety when serving customers face to face. In many organizations,  points to a future in which financial investment in resources may be less important than time and commitment offered by senior executives. The power of investing in the soft stuffLeaders typically think of empathy, resilience, kindness, communication, and other skills as the soft stuff of effective management. Though managers may recognize how important such traits are, they often mistakenly believe that these skills are innate to individual leaders. In fact, they are much more likely to be honed through learning. Moreover, we find five related approaches serve as critical enablers of successful transformations. They are: a shared vision and culture of success; setting challenging and inspirational targets; an emphasis on servant leadership; a focus on the “how” of delivering superior results; and the ability to measure results. The experience of one midsize US bank illustrates the important roles these factors play in launching and maintaining momentum for transforming enterprise-wide performance.
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+The transformation eraMidsize banks are far from alone in facing the need for rapid transformation in the coming years. With the speed of digital change only accelerating amid the COVID-19 pandemic, it’s clear that at least some banks under pressure will face the choice between being a disruptor or being disrupted. The good news is that the shift to digital channels, contactless banking, hybrid working, and more agile organizations offer the opportunity to achieve healthier organizations, happier employees, and better results. While change can be intimidating in difficult and uncertain times, it is possible to improve the odds of success. The hard stuff will always matter: investing in new technologies, making tough choices around business lines, and restructuring the organization to align with where the world is going versus where it has been. The best first step, though, is to focus on the softer elements of transformation to build an organization that’s a magnet for talent and customers in the digital age. 

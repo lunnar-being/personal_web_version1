@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/bootstrap.min.css') }}"/>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+  <script src="{{ url_for('static', filename='js/jquery.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/bootstrap.min.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+  <link rel="icon" href="{{ url_for('static', filename='images/istic.png') }}" type="image/gif"/>
+  <title>科技政策数据库展示系统</title>
+</head>
+<body>
+<!-- 顶部导航栏 -->
+<header>
+  {% import "_macros.html" as macros with context %}
+  {{ macros.header("collect.html") }}
+</header>
+<!-- 页面主体部分 -->
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12">
+      <div class="row">
+        <!-- 左侧目录 -->
+        <div class="col-xs-12 col-sm-2 col-md-2 col-lg-2">
+          <ul class="nav nav-pills nav-stack">
+            <li>
+              <a href="./collect.html">数据采集</a>
+            </li>
+            <li class="active">
+              <a href="./users.html">用户管理</a>
+            </li>
+            <li>
+              <a href="./add-policy.html">导入数据</a>
+            </li>
+          </ul>
+        </div>
+        <!-- 右侧内容 -->
+        <div class="col-xs-12 col-sm-9 col-md-9 col-lg-9 tab-content">
+          <!-- 用户管理 -->
+          <div class="panel panel-default">
+            <div class="panel-heading">
+              <h4>用户管理</h4>
+              <div class="btn-group">
+                  <button class="btn btn-primary" data-toggle="modal" data-target="#addUser">新增用户</button>
+                  <button class="btn btn-danger" data-toggle="modal" data-target="#delUser" onclick="selectUser()">删除用户</button>
+              </div>
+              <div class="modal fade" id="addUser" role="dialog" aria-labelledby="addUserLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                      <h4 class="modal-title" id="addUserLabel">新增用户</h4>
+                    </div>
+                    <div class="modal-body">
+                      <form class="form-horizontal">
+                        <div class="form-group">
+                          <label for="inputUserName" class="col-sm-2 control-label">用户名</label>
+                          <div class="col-sm-10">
+                            <input type="user" class="form-control" id="inputUserName" placeholder="UserName">
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label for="inputPassword" class="col-sm-2 control-label">密码</label>
+                          <div class="col-sm-10">
+                            <input type="password" class="form-control" id="inputPassword" placeholder="Password">
+                          </div>
+                        </div>
+                        <div class="form-group">
+                          <label for="inputPassword" class="col-sm-2 control-label">用户权限</label>
+                          <div class="col-sm-10">
+                            <label class="radio-inline">
+                              <input type="radio" name="userRole" id="inlineRadio1" value="1"> 管理员
+                            </label>
+                            <label class="radio-inline">
+                              <input type="radio" name="userRole" id="inlineRadio2" value="2"> 普通用户
+                            </label>
+                          </div>
+                        </div>
+                      </form>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+                      <button type="button" class="btn btn-primary" onclick="addUser()">确认提交</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="modal fade" id="delUser" role="dialog" aria-labelledby="delUserLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                      <h4 class="modal-title" id="delUserLabel">删除用户</h4>
+                    </div>
+                    <div class="modal-body">
+                      <p>即将删除以下用户的账号：</p>
+                      <div id="del-user" style="padding-left: 20px;"></div>
+                    </div>
+                    <div class="modal-footer">
+                      <button type="button" class="btn btn-default" data-dismiss="modal">关闭</button>
+                      <button type="button" class="btn btn-danger" onclick="delUser()">确认删除</button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="panel-body">
+              <table class="table table-hover" id="user-list">
+                <tr>
+                  <th width="5%"></th>
+                  <th width="25%">用户名</th>
+                  <th width="30%">密码</th>
+                  <th width="17%">用户权限</th>
+                </tr>
+                {% for user in users_info %}
+                <tr>
+                  <td>{% if user.role_id != 0 %}<input type="checkbox" name="user" value="{{ user.username }}"/>{% endif %}</td>
+                  <td>{{ user.username }}</td>
+                  <td> ****** </td>
+                  <td>{% if user.role_id == 0 %}超级管理员{% elif user.role_id == 1 %}管理员{% else %}普通用户{% endif %}</td>
+                </tr>
+                {% endfor %}
+              </table>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- 页脚 -->
+{% import "_macros.html" as macros %}
+{{ macros.footer() }}
+</body>
+<script>
+  // 新增用户
+  function addUser() {
+    var username = $("#inputUserName").val();
+    var password = $("#inputPassword").val();
+    var role = $("input[name='userRole']:checked").val();
+    $.ajax({
+      url: "/add_user",
+      type: "POST",
+      data: {
+        "username": username,
+        "password": password,
+        "role": role
+      },
+      success: function (data) {
+        alert("新增成功");
+        $(window).attr("location", "/users.html");
+      },
+      error: function (e) {
+        alert("新增失败");
+      }
+    });
+  }
+  // 选中用户
+  function selectUser() {
+    var selected = $("#user-list input[name='user']:checked");
+    var content = "";
+    for (let user of selected) {
+      content += "<p>" + user.value + "</p>";
+    }
+    $("#del-user").html(content);
+  }
+  // 删除用户
+  function delUser() {
+    var users = $("#user-list input[name='user']:checked");
+    var usernames = "";
+    for (let user of users) { usernames += user.value + " "; }
+    console.log()
+    $.ajax({
+      url: "/del_user",
+      type: "POST",
+      data: {
+        "usernames": usernames,
+      },
+      success: function (data) {
+        alert("删除成功");
+        $(window).attr("location", "/users.html");
+      },
+      error: function (e) {
+        alert("删除失败");
+      }
+    });
+  }
+</script>
+</html>

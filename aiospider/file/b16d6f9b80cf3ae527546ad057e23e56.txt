@@ -1,0 +1,170 @@
+
+
+The authors examine scalable analytics to detect malign or subversive information efforts, using the 2018 World Cup as a case study. The report has operational relevance to the U.S. government. It may benefit both researchers interested in going beyond post hoc recognition of malign or subversive information campaigns to in-time detection and social media companies interested in preventing their platforms from being co-opted by malign actors.
+
+
+
+
+Read Online
+
+Detecting Malign or Subversive Information Efforts over Social Media
+Scalable Analytics for Early Warning
+by William Marcellino, Krystyna Marcinek, Stephanie Pezard, Miriam Matthews
+Related Topics: Information Operations, The Internet, Network Analysis, Psychological Warfare, Russia, Social Media Analysis
+CitationEmbed
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+DownloadDownload eBook for Free
+
+FormatFile SizeNotes
+
+
+
+
+PDF file
+
+
+0.8 MB
+Use Adobe Acrobat Reader version 10 or higher for the best experience.
+
+
+
+
+Purchase
+Purchase Print Copy
+
+ FormatList Price
+Price
+
+
+Add to Cart
+Paperback66 pages
+$16.00
+$12.80 20% Web Discount
+
+
+
+
+
+
+
+
+
+
+Research Questions
+
+What evidence currently exists regarding malign or subversive information campaigns on social media?
+What analytic methods can be used to detect such campaigns on social media?
+How could such methods be of use to the U.S. government, other researchers, and social media companies in the future?
+
+
+
+
+The United States has a capability gap in detecting malign or subversive information campaigns before these campaigns substantially influence the attitudes and behaviors of large audiences. Although there is ongoing research into detecting parts of such campaigns (e.g., compromised accounts and "fake news" stories), this report addresses a novel method to detect whole efforts. The authors adapted an existing social media analysis method, combining network analysis and text analysis to map, visualize, and understand the communities interacting on social media. As a case study, they examined whether Russia and its agents might have used Russia's hosting of the 2018 World Cup as a launching point for malign and subversive information efforts. The authors analyzed approximately 69 million tweets, in three languages, about the World Cup in the month before and the month after the event, and they identified what appear to be two distinct Russian information efforts, one aimed at Russian-speaking and one at French-speaking audiences. Notably, the latter specifically targeted the populist gilets jaunes (yellow vests) movement; detecting this effort months before it made headlines illustrates the value of this method. To help others use and develop the method, the authors detail the specifics of their analysis and share lessons learned. Outside entities should be able to replicate the analysis in new contexts with new data sets. Given the importance of detecting malign information efforts on social media, it is hoped that the U.S. government can efficiently and quickly implement this or a similar method.
+Key Findings
+
+There were two distinct Russian information campaigns, one in Russian and one in FrenchRussian-language efforts were characterized with relatively high confidence as likely including state-sponsored actions; these efforts were focused within two communities.
+French-language efforts were also focused within two communities; one of these was rated with high confidence, and the other with low confidence, as state-sponsored.
+Although these information efforts cannot be linked directly to Russia, it is likely that the information campaigns detected as deliberate were indeed conducted by Russia.
+There are challenges in detecting malign and subversive information effortsThere is a serious technical gap in current research into detecting information efforts: Current research is focused on detecting individual elements, not wholes at the level of aggregates.
+
+For the foreseeable future, it is unlikely that a purely machine-based approach will have the kind of human-like precision with language data needed to robustly detect malign information efforts. This report outlines a human-in-the-loop approach that leverages what computers and humans do best, but data-ingestion expertise is required, and the overall process is expert-driven.
+
+
+
+Recommendations
+
+Given the urgency of the need to detect malign and subversive information efforts, and given the promise of this proof-of-concept study, the United States, allies, and partners should strongly consider operationalizing this method and complementary methods and technology.
+
+Any U.S. government–led efforts to develop information efforts, detection methods, and technology should address the current research gap. Research should be focused on wholes at the level of aggregates, not on detecting individual elements.
+
+The U.S. government should invest in developing professional expertise to appropriately support early detection of malign information efforts. Such professional expertise would include data science, social network analysis, text analytics, and culture/language expertise for select target audiences.
+
+
+
+
+Table of Contents
+
+Chapter One
+Introduction: Detecting Malign or Subversive Information Efforts over Social Media
+
+Chapter Two
+Analytic Methods: A Template for Detecting Malign or Subversive Information Campaigns
+
+Chapter Three
+Findings: A Case Study in Detecting Russian Malign or Subversive Information Efforts During the 2018 Fédération Internationale de Football Association World Cup
+
+Chapter Four
+Recommendations and the Way Ahead
+
+Appendix A
+Full Community Characterization
+
+
+
+
+Research conducted by
+
+RAND National Security Research Division
+
+
+
+This research was sponsored by U.S. European Command (USEUCOM) and conducted within the International Security and Defense Policy Center of the RAND National Defense Research Institute.This report is part of the RAND Corporation Research report series. RAND reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND reports undergo rigorous peer review to ensure high standards for research quality and objectivity.Permission is given to duplicate this electronic document for personal use only, as long as it is unaltered and complete. Copies may not be duplicated for commercial purposes. Unauthorized posting of RAND PDFs to a non-RAND Web site is prohibited. RAND PDFs are protected under copyright law. For information on reprint and linking permissions, please visit the RAND Permissions page.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: RAND Corporation
+Availability: Available
+
+Print
+Format: Paperback
+Paperback Pages: 66
+List Price: $16.00
+Paperback Price:  $12.80
+Paperback ISBN/EAN: 9781977403797
+DOI: https://doi.org/10.7249/RR4192
+Document Number: RR-4192-EUCOM
+Year: 2020
+Series: Research Reports
+
+
+
+Explore
+Related Topics
+
+Information OperationsThe InternetNetwork AnalysisPsychological WarfareRussiaSocial Media Analysis
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+Citation
+Format:
+
+ Chicago Manual of Style
+ RAND Corporation Style Manual
+
+Marcellino, William, Krystyna Marcinek, Stephanie Pezard, and Miriam Matthews, Detecting Malign or Subversive Information Efforts over Social Media: Scalable Analytics for Early Warning. Santa Monica, CA: RAND Corporation, 2020. https://www.rand.org/pubs/research_reports/RR4192.html. Also available in print form.
+Marcellino, William, Krystyna Marcinek, Stephanie Pezard, and Miriam Matthews, Detecting Malign or Subversive Information Efforts over Social Media: Scalable Analytics for Early Warning, Santa Monica, Calif.: RAND Corporation, RR-4192-EUCOM, 2020. As of December 16, 2021: https://www.rand.org/pubs/research_reports/RR4192.html
+
+Download Citation (BibTeX)
+Download Citation (RIS)
+
+
+

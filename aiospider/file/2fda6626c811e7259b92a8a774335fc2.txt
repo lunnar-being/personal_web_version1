@@ -1,0 +1,92 @@
+
+
+Expert Insights: The Future of Research Assessments
+
+
+
+
+
+
+
+
+
+Share on FacebookShare on TwitterShare on LinkedIn
+Embed
+
+
+
+Add to website or blog
+<iframe src="https://www.rand.org/multimedia/audio/2021/09/17/expert-insights-the-future-of-research-assessments/_jcr_content/par/multimediavideoplaye.embed" width="400" height="225" frameborder="0" allowfullscreen></iframe>
+Copy and paste the selected text
+How do researchers expect the types of research they produce to change in the next 5 to 10 years? In this Expert Insights podcast, Catriona Manville, a former research leader at RAND Europe, and Susan Guthrie, Research Group Director for Science and Emerging Technology discuss this question and their study examining the changing research landscape and how future changes in research may affect the nature of research assessment in the UK.Transcript
+Catherine McShane
+Hello and welcome to RAND Europe's Expert Insights, a brief conversation in which we discuss our latest research and look more in-depth at some of the pressing policy issues of the day. I'm Cat McShane and in this session we're going to be talking about a RAND Europe study that examined the research landscape in the UK and how research assessment may change in the future. In conversation are study author, Catriona Manville, a former research leader at RAND Europe and now Head of Policy at the Association of Medical Research Charities, and Susan Guthrie, RAND Europe's Research Group Director for Science and Emerging Technology. Welcome to you both. Catriona, please could you start by telling us why this research was conducted?
+Catriona Manville
+Well, we undertook this research to look at the expected impact of technology on the production and assessment of research over the next decade. There's been lots of changes in the last couple of years, and it's an important time to take stock and think about how research will change going forward. To explore this, we conducted expert workshops and surveyed 3,000 academics from across England to understand what they believe the outputs of research will be in the coming decade and how these might change. This study was funded by Research England, who commissioned a lot of the research that's conducted in our higher education institutions. And it's important to understand what the future of research will look like so that the assessment mechanisms can keep pace with the evolution of what is produced.
+Cat McShane
+And what were the findings?
+Catriona Manville
+Well, we found that different types of research will be produced going forwards. Technology has expanded the types of product that are available from research beyond traditional journal articles and conference papers. For example, researchers are producing blogs, websites, codes and software, policy briefs, podcasts and a host of other types of output. So we found that researchers are currently producing many types of outputs to share their research and findings, and they expect this diversity to expand in the future. 
+Catherine McShane
+That's really interesting that we start to see the diversification of research outputs. Why do you think that researchers want to use these different channels to communicate their findings?
+Catriona Manville
+Well, I think that they think it's important to communicate with different audiences and allow them to engage with the research. Different mediums will make it accessible to those who wouldn't seek out journal articles, for example, those in the real world who may be able to implement some of the findings of this research. I guess this is all part of a larger topic. Really it's about the rise of the societal impact. It's something that we've seen, particularly over the last decade. And as it's taxpayers money that's going into this research, it is really seen as important to justify it and be accountable for what public money is spent on. And articulating the benefits of this to society and the rest of the population is important as a justification for subsequent funding.
+Cat McShane
+Sue, in addition to societal impact, what do you think might be driving this change?
+Susan Guthrie
+So I think there's quite a number of different factors that are driving some of the change in academic outputs that we've talked about. And we identified some of these in the study as well. One of those is the importance of collaboration with other academics at an international level and an increasing focus on multidisciplinary research. And these are really very much reflective of some of the wider trends we see in the research system and that we've identified in some of our other work in the space.
+We see international mobility growing very rapidly over the last decade, and an increasing focus of funders on multi and interdisciplinary research. We also see this in other places, as well. So, for example, looking back to the case studies that were submitted to the REF in 2014, we see that more than three quarters of those were multidisciplinary in terms of their academic research background.
+There's also some wider trends ongoing in research culture that will be impacting on the expansion of different types of outputs of research, for example, the rise in the kind of transparency and open science agenda. So, for example, at the moment, journals now require you not just to publish your article, but also to deposit data sets alongside that so that people can use that and build on your research. This also links environmental changes and funding requirements, of course, as well, which will inevitably drive behavior as the supporters and funders of research with very much increased focus on open science and open publication. 
+Catriona Manville
+I think it's a really interesting time in research systems as to how they are progressing and the opportunities that they provide. But just to counter that a little bit, in our study, it did show that everything isn't set to change, though. The dominant form of output, talking about all these diverse forms is still going to be the peer-reviewed journal articles and conference papers. And this is set to continue.
+There's a real wish to increase the diversity of outputs that people produce and maybe even to move away from these key pieces of the journal article and the conference proceeding. But they're so ingrained in the sector in the way that they communicate and in the value that's placed on them. A quarter of the respondents to our survey said that they would like to produce different forms of output in an ideal world. Interestingly, across all disciplines and subject areas, they wanted to produce more books and less journal articles. I think this is because journal articles may not always be the best way to present the findings and ensure that the research is taken up, for example, to reach practitioners or the public. However, they are a recognised currency in academia.
+Journal articles are evaluated and linked to funding for the university, and often correctly or incorrectly, this feeds down to criteria for promotion and recruitment at an individual level. So if we want to move away from publishing for the sake of it, then we need to consider how to reward people and what the recognition system could be that would value other types of outputs and activities whilst appreciating that all forms of output may not hold the same weight. The UK has tried to do this to an extent with the inclusion of societal impact as a metric for funding, but maybe we could be going further. 
+Susan Guthrie
+I think that's a good point, but you have to bear in mind that measuring that societal impact is really not straightforward. We've seen that coming in in the UK, where research assessment often includes now an assessment of societal impact or potential for impact, as well as an assessment of academic excellence. As we know in the UK, funding for research conducted at universities is provided in two forms. You have the CORE QR funding from the government to the institution, plus individual research grants that are awarded to researchers for particular projects or topics.
+The CORE funding aspect is allocated to an assessment of the best research every seven years through the process known as the REF. In recent years, rather than just looking at a set of publications as a way to assess academic excellence, that assessment is also included impact case studies, and we see it as something to drive changes in behavior and attitudes towards impact. But it has been a lot of work and there's been a high burden for this process.
+The assessment process as a whole takes thousands of hours. Academics in the field have to read the papers and the case studies and assess them and decide which ones are the best and rate them on a scale. One report estimates the cost of the time spent assessing those submissions in the order of £23 million. When we compare that to the amounts of funding that's been allocated on the basis of that process it's pretty good. It's probably less than point one of a percent, but it's still really a huge number. 
+Cat McShane
+So what could be done to reduce the burden of that assessment process?
+Catriona Manville
+Well, in the twenty-first century, we can think about what tools are around us to help us with this burden. So for example, could we use the technology or automate the process to reduce that burden? The other half of the study that we did looked at whether that would be possible. For example, could you reuse assessment done elsewhere in the system, such as when the research is peer-reviewed prior to receiving funding or prior to publication in a journal?
+We ran a series of workshops to explore these options. Totally replacing expert judgment with technology does not seem to be the direction of travel. The closest that we have to that at present is bibliometrics. This is the statistical analysis of books, articles or other publications. But there are limitations with using this data to assess the quality. So the areas where we see that technology could support the process are the use of unique identifiers to identify the items that are being reviewed, but also to identify reviewers to ensure that relevant reviewers are there for outputs.
+As you mentioned, Sue, things are becoming more and more inter and multidisciplinary, and with that creates different challenges as to whether one person is actually able to review an entire output. Do they have the relevant skills? Using technology to identify where their strengths lie from what else they've published and what they're involved with would allow us to put together the right cohort of people that could pass expert judgment on an individual output. As well, technology could be used for some of the eligibility criteria, for example, plagiarism detection. One of the things we found when looking at assessment processes for the REF back in 2014 was that there was time wasted where different reviewers had reviewed an output when somebody else deemed it ineligible. If these automated checks could be done early in the process by technology, then the time spent would be focused on those expert judgments for the eligible side of things.
+Susan Guthrie
+These are certainly areas where technology could have some advantages and help out with the burden that we've emphasised. But there's also a range of other issues we need to think of around research assessment. A really important one of those that we've been looking at in some of our wider studies in this space is bias. So we know that peer review can be subject to bias and a range of different factors, be that gender, cognitive differences, institutional biases, as well, given that already exists in the peer review process as it stands now, there's also risk if we start to use technology that some of those biases could be reinforced in the algorithms that we use, particularly if they build on existing decision making processes.
+There's also a range of other challenges. How do we recruit academics to conduct peer review? It's an extra burden on people's time and often they aren't paid for that work. And how do we train them to do it well, to make sure that we're making good decisions about how funding is allocated?
+Catriona Manville
+And finally, there's also issues currently around the discoverability of articles. As the volume of papers producing is ever increasing, how do you ensure that people can identify and read those which are relevant to them?
+Cat McShane
+And so, Catriona, where do we go from here?
+Catriona Manville
+Our work has shown that technology is impacting on the research that academics are producing and the way that they communicate it. In addition, technology could be harnessed to improve the efficiency of the process, supporting both scholarly communication and publishing, and also the assessment of research. But the outstanding questions are how do you target the community's effort to ensure that the elements that are best conducted by humans are still done so, and that we can use technology to streamline the system further? We're not going to be able to eliminate the burden entirely as long as we want to keep using researchers and academics in this process, but we can have a good go at reducing it.
+Cat McShane
+Thank you, Catriona, and thank you, Sue, for talking to us today. That was really interesting. The RAND Europe study that we've discussed was  The Changing Research Landscape and Reflections on National Research Assessment in the Future. It was commissioned by Research England and if you're interested in finding out more about this research, please visit our website at randeurope.org. RAND Europe is a nonprofit, nonpartisan research organisation that helps to improve policy and decision making through research and analysis.
+Learn More
+
+/content/rand/multimedia/audio/2021/09/17/expert-insights-the-future-of-research-assessments/jcr:content/par/wrapperdiv/teaserlist
+
+
+
+ProjectWhat is the future of UK research and assessment?Oct 4, 2019
+Although technology, policy, and the international environment are changing the UK research landscape, and many researchers expect to produce more diverse forms of outputs in the future, they also think journal articles and conference contributions will remain the dominant form of output. 
+
+
+CommentaryThe Future of Research OutputsMay 12, 2020Susan Guthrie, Maja Maricevic, et al.
+The changing nature of research outputs has the potential to affect a wide range of organizations and people. A proactive stance could help drive research towards better practices in information storage, sharing and communication, but requires early action and shared goals at a sector level.
+
+
+CommentaryWhat Is the Future of England's Research and Research Assessment?Nov 1, 2019Catriona Manville
+Rapid technological developments, changes in public policy, and shifts in the international environment all affect academia. To help understand these effects, RAND researchers asked more than 3,600 academics in England how they expect their research to evolve over the next decade.
+
+
+CommentaryCulture, Performance, and Assessment in ResearchMay 25, 2021Susan Guthrie, Jonathan Grant
+The unwritten, and often unsaid, concern in the debate about research culture in the UK is an apparent trade-off between excellence in research and a healthy research culture. But the evidence shows that this is a false dichotomy.
+
+
+ProjectUnderstanding researcher views on REF 2021Nov 24, 2021
+A real-time evaluation of the REF 2021 assessment process found that overall views on the REF are mixed. Many researchers perceive that the REF has a negative influence on UK researchers and the research community, but views on specific aspects and influences of the REF are more nuanced.
+
+
+
+

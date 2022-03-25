@@ -1,0 +1,384 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Rapid evaluation of digital health products during the COVID-19 pandemic
+  
+
+  
+  
+  
+      
+  Why it's important to evaluate digital health products that have been developed rapidly and how to choose evaluation methods in these circumstances.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          UK Health Security Agency
+
+      
+      Published
+      13 May 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Identifying intended and unintended consequences
+
+        
+        
+          Designing your study
+
+        
+        
+          Choosing evaluation methods
+
+        
+        
+          Considering the participant
+
+        
+        
+          Rapid evaluation checklist
+
+        
+        
+          More information
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This guidance is part of a guide to evaluating digital health products.
+
+The COVID-19 pandemic has led to the rapid implementation of many digital health products. This page explains why it is important to evaluate these products and what evaluation approaches might work best in these circumstances.
+
+When developing or introducing a new technology, it is important to evaluate it. When you are introducing technology at speed, it may be even more important to consider evaluation, because it is more likely that you make mistakes or not foresee problems.
+
+You should reflect on what your project has done and be open to feedback from stakeholders, including people using your product. This should be done in a number of ways. Formal evaluation methods are one approach that can help.
+
+Identifying intended and unintended consequences
+
+You will know how you expect your product to work for users so you might have developed a theory of change or logic model to show this. This should guide how you collect data and plan your evaluation. Your theory will imply intended consequences and you can find outcome measures to assess these.
+
+You may have a good idea of how your product will work for users, but you still need to evaluate to test this. You may be working on assumptions that are out of date, or only apply to some users and not others, or you may be mistaken.
+
+Technology can have unexpected consequences (good and bad) and accelerated introductions can easily miss these. A 2005 evaluation provides an example [payment required to access full article]. A hospital brought in a computerised physician order entry system to reduce medical errors and mortality. Researchers found that its introduction was associated with an unexpected increase in mortality for children admitted after being transported from another hospital. This seemed to be because the new system delayed order entry for this group compared to the previous system. It also disrupted physician/nurse communication opportunities. It was possible to resolve some of these problems with programming modifications.
+
+Designing your study
+
+Rapid evaluation may mean short feedback cycles, which are more common when developing a product (formative research). Even if you are evaluating a product to see if it achieves its aims (summative evaluation), you may want to feedback results as and when they become available instead of waiting until the evaluation is completed.
+
+You may be rapidly iterating versions of your product. This poses a challenge because the thing you’re evaluating keeps changing. Keep a good record of what changes are being made so that you can take this into account in data analysis.
+
+You may be able to draw on existing research protocols or tools, for example, measures, sources of data, models. This is a sensible strategy with most evaluations but can be particularly useful when you need to move quickly.
+
+Where possible, use standard outcome measures. The advantages are:
+
+
+  They have been proven to work before, so we know they measure what they are supposed to measure.
+  If different evaluations use the same outcomes, we can learn by comparing across projects.
+  There may be appropriate baseline or normative data to allow for comparisons. Rapid evaluations will often involve before-and-after studies and having some comparative data can help you to determine what improvement tends to occur over time anyway.
+
+
+You may not have worked out details of your evaluation while you are building your technology, but you can build in generic functionality to make evaluation easier later. For example, you may want to ask users questions, so think how to build a flexible mechanism for doing that into your app. Make sure you consider data governance rules.
+
+When planning your evaluation, consider what sample size you need. While larger samples are generally better, smaller samples than usual can still be useful. If we do not know anything, even a small amount of data is informative. It’s still important to think about your sampling approach and how circumstances may affect it. For example, for quantitative studies, you want a representative sample, but biases may be introduced by recruiting participants rapidly or because of how the pandemic is affecting a population.
+
+Choosing evaluation methods
+
+What methods are best for the rapid evaluation of rapid implementations? How can you carry out evaluation methods rapidly?
+
+Descriptive studies
+
+It’s important to collect basic information such as:
+
+
+  the number of people using the service
+  who is using the service
+  why people are using the service
+  how people interact with your service
+  what outcomes they are getting from the service
+
+
+Approaches like the use of routine data collection and audit should be straightforward, even at speed.
+
+Surveys of user or stakeholder experience are also relatively straightforward. Online surveys are one option. You can gather information about outcomes relating to knowledge and attitudes, and self-reported behaviour.
+
+Read more about descriptive studies.
+
+Qualitative studies
+
+Qualitative methods can be carried out rapidly, even methods seen as more involved, like ethnography. Online remote methods can be used instead of face-to-face approaches, where appropriate. You can conduct interviews and even focus groups through video-conferencing or phone calls.
+
+Usability testing can also be done quickly. Methods for remote usability testing are well established. Sharing and capturing screens can produce a better understanding of how a participant is interacting with a digital product. 
+There are several tools available to support these sessions, for example:
+
+
+  unmoderated testing, where a participant completes tasks and answers questions in their own time
+  heatmaps, which show how users interact with a webpage, such as where they click and how far they scroll
+
+
+Read more about qualitative studies.
+
+Comparative studies
+
+Comparative studies are valuable because they provide insight into what might otherwise have happened if your product didn’t exist, but they can be difficult to do at speed.
+
+There are challenges with before-and-after studies. A fundamental problem is the lack of baseline data (measurements taken before your product was implemented) to provide a comparison. You may not want to wait to collect baseline data before introducing your product. The impact of the COVID-19 pandemic may also mean there is not a clear baseline to compare to. You may be able to use historical data so make sure it is comparable and you are consistent in how you collect data.
+
+If randomised controlled trials are too difficult, natural experiments may be a good alternative. If you are introducing a digital health product in one area before another, you can make a comparison, even if the choice of areas was not randomised.
+
+More information about comparative studies is available.
+
+Health economics
+
+When digital health products are implemented at speed, there are 2 main considerations from an economic perspective.
+
+First, does the intervention appear to be good value for money? This is crucial to products that involve a high financial commitment from commissioners. You can use cost-consequence analysis to evaluate this.
+
+Value for money implies a comparison. This might be to current practice or usual care. Estimate the gross and net cost of providing the new service. Does the new service lead to the same or improved outcomes? Pay particular attention to consequences that use resources of any sort. As with comparative studies, conducting cost-consequences analysis at speed will be difficult, but maybe possible if routinely-collected data is available.
+
+You should also think about whose perspective to take. You might consider:
+
+
+  whether an intervention is good value for money for a commissioner of health services
+  whether an intervention is good value for money for an individual patient or member of the public
+
+
+Second, is the new product affordable? The answer to this question usually involves an assessment of the financial impact (both costs and savings) of implementing the new product. This is budget impact analysis. This assessment is relatively straightforward and can be carried out rapidly. It usually involves:
+
+
+  working out the size of the eligible population
+  clarifying if the new product replaces or adds to an existing service (what matters is the net effect on cost)
+  quantitative assessment of changes in resource use and costs from implementing the new product
+
+
+You can get data from:
+
+
+  real-life service use databases and registries
+  uptake and usage from similar populations elsewhere
+  expert opinion
+  surveys
+
+
+Considering the participant
+
+Remember that the constraints you are under also apply to the participants in your evaluation. Their lives may be very stressful at this time. Think about how you can minimise the burden on them. That may mean switching to a less intrusive research method or delaying the evaluation.
+
+Consider how you are recruiting participants. While you want any research sample to be representative, you should exclude groups for whom the research will be an unacceptable burden.
+
+When working rapidly or working under conditions of social distancing, online methods of data collection are attractive and can work well. However, remember that participants with the best technology and the fastest connection speeds are not representative of the population you are designing for. Remember to test your product on older technology. There may be times where a simple phone call is a better method of data collection than an online tool.
+
+Rapid evaluation checklist
+
+All evaluation is a pragmatic compromise between a theoretical ideal and practical limitations. This may be more relevant for an evaluation done rapidly. As with any evaluation, be honest, transparent and realistic about what conclusions you can draw from your evaluation. Read more about using the results of your evaluation.
+
+
+  Have a theory or model of how your digital product works
+  But also be aware of possible unintended consequences
+  Reflect on what you are doing
+  Listen to feedback
+  Plan descriptive studies (routine data collection/audit and user feedback)
+  Consider carrying out rapid qualitative studies
+  Consider what historical data you have
+  Start collecting data before you implement your digital health product if possible, to help with before-and-after studies
+  Use natural experiments (for example, a product being introduced in one area but not another) where possible
+  Consider the financial implications of the new product, or whether it is cost-effective
+  Be transparent about what you can conclude from your evaluation
+
+
+More information
+
+Jean Ledger and Chris Sherlaw-Johnson (2019), ‘Evaluating, fast and slow: reflections from the Rapid Evaluation Conference’
+
+Natalie Baron and Louise Petrie (2020), ‘User Research and COVID-19: crowdsourcing tools and tips for remote research’
+
+GOV.UK Service Manual (2020), ‘Conducting user research while people must stay at home because of coronavirus’
+
+Kathryn Oliver, Theo Lorenc, Jane Tinkler and Chris Bonell (2019), ‘Understanding the unintended consequences of public health policies: the views of policymakers and evaluators’
+
+For more information contact henry.potts@phe.gov.uk.
+
+Authors
+
+Written by Henry Potts, Flora Death, Chiara Garattini, Manuel Gomes, James Raftery and Paulina Bondaronek.
+
+
+
+
+
+      
+        
+    Published 13 May 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Define how your product works: evaluating digital health products
+        Quasi-experimental study: comparative studies
+        Choose evaluation methods: evaluating digital health products
+        Patient-reported outcomes and experiences study
+        Interview study: qualitative studies
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Evaluating digital health products
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Research, testing and standards
+        Coronavirus (COVID-19)
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

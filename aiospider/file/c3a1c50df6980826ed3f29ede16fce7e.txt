@@ -1,0 +1,171 @@
+
+
+RAND Europe was commissioned by the European Commission to conduct a study aimed at: 1. Conducting an analysis of future technologies and how these could be used to commit or prevent cybercrimes. 2. Proposing possible ways to prevent future technologies from being exploited for criminal purposes. To achieve this, RAND Europe employed a mixed methods approach leveraging desk research, horizon scanning, stakeholder consultations, and serious gaming.
+
+
+
+
+Read Online
+
+The Future of Cybercrime in Light of Technology Developments
+by Jacopo Bellasio, Erik Silfversten, Eireann Leverett, Anna Knack, Fiona Quimbre, Emma Louise Blondes, Marina Favaro, Giacomo Persi Paoli
+Related Topics: Cybercrime, Emerging Technologies, Estonia, The Internet, Science, Technology, and Innovation Policy
+CitationEmbedView related products
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+
+
+Download Free Electronic Document
+
+FormatFile SizeNotes
+
+
+
+
+PDF file
+
+
+0.5 MB
+Use Adobe Acrobat Reader version 10 or higher for the best experience.
+
+
+
+
+
+
+
+
+
+
+Research Questions
+
+What is the state-of-the-art understanding of current and future trends for cybercrime? What policy and legal measures and initiatives have been adopted to tackle cybercrime in Estonia and at EU and international levels?What new and future technologies are expected to emerge over the next ten years that may have an impact on or be used for cybercrime purposes? To what extent and in what ways might new and emerging technologies change cybercrime?What policy and legal measures could be adopted to prevent the exploitation of new and emerging technologies for cybercrime purposes?
+
+
+
+The government of Estonia requested support from the European Commission under Regulation (EU) 2017/825 to analyse new and emerging technological developments and identify their potential application in cybercrime. In May 2019, RAND Europe was commissioned by the European Commission Structural Reform Support Service to conduct a study (ref: SRSS/C2018/092) aimed at:
+
+Conducting an analysis of future technologies and how these could be used to commit or prevent cybercrimes.
+Proposing possible ways to prevent future technologies from being exploited for criminal purposes.
+
+To meet the objectives of the study, RAND Europe (i) took stock of current knowledge of and policy on cybercrime as well as of completed and ongoing research on future trends in cybercrime; (ii) conducted horizon scanning activities to identify new and emerging technologies that may have an impact on cybercrime; (iii) engaged with stakeholders and experts to elicit their views on current and future cybercrime and technology trends; and (iv) designed and delivered a table-top exercise to help identify possible policy and legislative measures and initiatives to be adopted in order to prevent new and emerging technologies from being exploited for cybercrime purposes. This document presents an overview of results emerging from activities conducted under the study.
+Key Findings
+
+The next decade will likely see an increase in the speed and coverage of connectivity which will contribute to an overall increase in the volume and speed at which different types of cybercrime are conducted.
+
+The proliferation of Information Technology-enabled devices, systems, and services will result in an increase in the attack surface and vulnerabilities that could be leveraged by malicious actors.
+
+Developments in the fields of computing and data storage technologies, paired with a proliferation of devices, are expected to result in an increased ability to record, generate, store, access and manipulate data.
+
+Advances in computing power, accompanied by developments in the fields of artificial intelligence and machine learning, are expected to contribute to a growing ability to process and analyse data, allowing to infer from these new insights and results which are beyond the reach of current analytical capabilities.
+
+Technological advances are expected to result in increasing complexity as regards the tracking and attribution of criminal and malicious activities.
+
+The consolidation of the internet economy around a limited number of key players, and an increasing societal reliance on their products and services, may raise challenges such as contributing to the widespread emembedding of vulnerabilities with the potential to yield large-scale systemic effects when leveraged.
+
+While this study focuses on the impact that technology may have on cybercrime, a wide variety of other non-technical drivers and factors are also expected to influence this phenomenon over the coming decade.
+
+
+
+Recommendations
+
+Pursue broad cybercrime capacity building in light of technological development.Strengthen the overall cybersecurity resilience of Estonia through awareness, education and capacity building.
+
+Seek legal, regulatory and organisational agility.Prepare the Estonian legal, regulatory and organisational environment to adequately respond to cybercrime challenges resulting from technological change.
+Invest in technologies relevant to the Estonian context.Ensure that Estonia has sufficient technological expertise, skills and research in relation to high-priority emerging technologies.
+
+
+
+ Related Products 
+
+
+
+
+
+
+
+
+
+Research Brief
+How could technological developments influence the future of cybercrime?
+
+Dec 16, 2020
+Jacopo Bellasio, Erik Silfversten, et al.
+
+
+
+
+
+
+
+
+
+
+Project
+Technological developments and the future of cybercrime
+
+Dec 15, 2020
+
+
+
+
+
+
+
+Research conducted by
+
+RAND Europe
+
+
+
+The research described in this report was commissioned by the European Commission Structural Reform Support Service (SRSS) and conducted by RAND Europe.This report is part of the RAND Corporation Research report series. RAND reports present research findings and objective analysis that address the challenges facing the public and private sectors. All RAND reports undergo rigorous peer review to ensure high standards for research quality and objectivity.Permission is given to duplicate this electronic document for personal use only, as long as it is unaltered and complete. Copies may not be duplicated for commercial purposes. Unauthorized posting of RAND PDFs to a non-RAND Web site is prohibited. RAND PDFs are protected under copyright law. For information on reprint and linking permissions, please visit the RAND Permissions page.
+The RAND Corporation is a nonprofit institution that helps improve policy and decisionmaking through research and analysis. RAND's publications do not necessarily reflect the opinions of its research clients and sponsors.
+
+
+
+
+Document Details
+
+Copyright: RAND Corporation
+Availability: Web-Only
+ Pages: 13
+DOI: https://doi.org/10.7249/RRA137-1
+Document Number: RR-A137-1
+Year: 2020
+Series: Research Reports
+
+
+
+Explore
+Related Topics
+
+CybercrimeEmerging TechnologiesEstoniaThe InternetScience, Technology, and Innovation Policy
+
+Browse by Series
+Browse by Authors
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+Citation
+Format:
+
+ Chicago Manual of Style
+ RAND Corporation Style Manual
+
+Bellasio, Jacopo, Erik Silfversten, Eireann Leverett, Anna Knack, Fiona Quimbre, Emma Louise Blondes, Marina Favaro, and Giacomo Persi Paoli, The Future of Cybercrime in Light of Technology Developments. Santa Monica, CA: RAND Corporation, 2020. https://www.rand.org/pubs/research_reports/RRA137-1.html.
+Bellasio, Jacopo, Erik Silfversten, Eireann Leverett, Anna Knack, Fiona Quimbre, Emma Louise Blondes, Marina Favaro, and Giacomo Persi Paoli, The Future of Cybercrime in Light of Technology Developments, Santa Monica, Calif.: RAND Corporation, RR-A137-1, 2020. As of December 17, 2021: https://www.rand.org/pubs/research_reports/RRA137-1.html
+
+Download Citation (BibTeX)
+Download Citation (RIS)
+
+
+

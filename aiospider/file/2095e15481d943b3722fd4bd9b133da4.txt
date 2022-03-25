@@ -1,0 +1,172 @@
+
+
+
+
+Previous Blog Post
+Can Primary Care Networks and Models of Vertical Integration Coexist in the NHS?Next Blog Post
+RCEP Forms the World's Largest Trading Bloc. What Does This Mean for Global Trade?
+
+article
+Want to Rebuild Public Trust? Focus on Civic Education
+December 8, 2020
+
+A 2nd-grade student votes during a mock election at his school in Gainesville, Florida, November 3, 2020.Photo by Brad McClenny/Reuters
+
+
+
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+Overview
+The United States is grappling with an intangible yet existential threat: an increasing unwillingness to accept basic facts. Education must play a pivotal role in rebuilding our civic infrastructure and restoring public trust. RAND researchers identified four opportunities to help educators and policymakers reenergize civic development in American classrooms.
+
+
+
+Topline
+
+
+Civic education is ready for a revival—and such a revival would be an essential element of the multifaceted strategy needed to restore the role of facts and analysis in American life.
+Share on Twitter
+
+
+
+
+
+In 1957, the Soviet Union catapulted a metallic orb the size of a basketball beyond Earth's atmosphere. Sputnik, Russian for “fellow traveler,” became the first artificial satellite, collecting data for three weeks before its batteries died—and the Space Race sprang to life.
+Soviets celebrated. Sputnik was both a monumental scientific achievement and a political victory over their Cold War rival, the United States.
+Meanwhile, many Americans perceived the launch as a crisis. Leaders in Washington worried about the decline of the United States as a global superpower. The director of the American Institute of Physics even warned that, unless the nation's scientific capabilities expanded, the American way of life would be “doomed to rapid extinction.”
+Policymakers, scientists, and engineers rallied to meet the moment. Part of this push was a new focus on science, technology, engineering, and mathematics (STEM) education. To address widespread concern that U.S. schools were failing to prepare students in STEM, funding shifted to support new curricula, fellowships, and scholarships designed to build a competitive science workforce for the future.
+It worked. In the years and decades that followed, Americans went on to contribute to countless technological and scientific innovations that would augment human capabilities and fundamentally change the world—the proliferation of renewable energy, the sequencing of the human genome, and the invention of the smartphone, to name a few.
+But today, nearly 30 years after the Cold War came to an end, the United States faces another fundamental challenge that will require an education overhaul.
+This time, the threat is the diminishing role of facts and analysis in American public life.
+This phenomenon, called Truth Decay by RAND researchers, has led to political paralysis, the erosion of civil discourse, and widespread uncertainty. If Americans can't even agree about basic facts, then they will be hamstrung in efforts to address today's most severe challenges.
+If Americans can't even agree about basic facts, then they will be hamstrung in efforts to address today's most severe challenges.Share on TwitterFor example, many people in the United States believe that genetically modified foods are unsafe to eat, contradicting scientific consensus that genetically modified organisms (GMOs) typically pose no adverse health effects. And despite an overwhelming body of evidence that shows vaccines are safe, there is an increasing number of individuals who issue baseless warnings about side effects—a troubling trend, given the COVID-19 pandemic.
+Investments in education must once again be part of the solution. A new RAND report examines the state of civic education and media literacy in schools and considers how civics could play a promising role in the effort to mitigate Truth Decay.
+“We've traditionally thought of schooling as a way to prepare youth for college and a career,” said Julia Kaufman, a senior policy researcher at RAND and an author of the study. “But schools can also help students become good, responsible citizens. And yet civic education is often edged out by other subjects that we deem important for college and career readiness.”
+
+/content/rand/blog/articles/2020/12/want-to-rebuild-public-trust-focus-on-civic-education/jcr:content/par/digitalarticle/par-digital-article/wrapperdiv_1978607034/teaserlist
+
+
+
+Preparing Children for Civic Life in the Era of Truth Decay
+
+
+To identify steps that could help the United States meet this challenge, Kaufman and her colleagues surveyed principals and social studies teachers about their perspectives on the state of civic education and about their beliefs about the government, the media, and other institutions.
+“As we've seen throughout history, policies are shaped by the events that precede them,” Kaufman said. “Education policy could help us address the Truth Decay crisis, but it's going to take changes that scale across the country.”
+These are just a few of the researchers' recommendations to help teachers promote civic development, help policymakers and administrators support those teachers, and, hopefully, slow the spread of Truth Decay.Help Students Think Outside the Textbook Through Hands-On Learning
+“Our data suggest that simulations (PDF) that engage students in real, authentic democratic processes are underutilized,” Kaufman said.
+School-based elections, mock trials, and other hands-on experiences could help children feel more connected with democracy.
+The virtual reality platform HistoryMaker VR allows students to embody important figures from American history. One student might become Abraham Lincoln, delivering the Gettysburg Address during a lesson about the Civil War. Another might help her classmates learn about the judiciary by telling the story of Justice Sonia Sotomayor's appointment to the Supreme Court.
+Granted, simulations could be challenging, with many schools currently teaching remotely. But teachers could turn to several internet-based simulations, such as iCivics, which provides free, nonpartisan lesson plans, games, and activities and includes a remote-learning toolkit. Students can virtually run their own law firm to learn about constitutional rights or play a game that guides them through the path to American citizenship.Incorporate Civics into Other Subjects
+More than 70 percent of elementary school teachers and 40 percent of middle and high school teachers pointed to pressure to cover other content, such as reading and math, as an obstacle to supporting students' civic development.
+But civic education does not have to compete with other subjects. In fact, it can complement them.
+Language arts students could study Maya Angelou as an activist as well as a poet—or Martin Luther King, Jr., as a writer as well as a civil rights leader. Art students could learn about color theory by examining campaign posters and yard signs and discussing their intended meanings. Math classes could demystify such concepts as margins of error in polling data, how congressional seats are apportioned, or what arithmetic a campaign adviser might need to know as she navigates the Electoral College.
+“It makes sense to integrate civics education with other subjects because civics skills are so intertwined with other skills in real-life contexts,” Kaufman said. “It becomes a more authentic way of learning.”Embrace Controversy, Emphasize Social and Emotional Competencies
+Many Americans avoid discussing politics with friends and family members to avoid conflict. But they may be missing an opportunity. Discussing controversial topics in a safe environment with trusted individuals could be good practice for engaging in productive conversations in public settings.
+“It's really important to help students grapple with [controversial topics] in a safe and respectful way. It can help them learn how to have healthy, constructive discussions.”Julia KaufmanShare on TwitterTeachers could create such an environment in the classroom through social and emotional learning (SEL) and school guidance programs. Most teachers across the United States agree that SEL is important and have adopted practices to promote it. Instruction and school environments that encourage respect, empathy, and relationship-building could pave the way for students to engage in discussions about important issues that might otherwise be prickly.
+“Counseling, mental health checks, conflict resolution programs, and supports for students' social and emotional learning—these are all necessary for civic development,” Kaufman said. “They're also an important part of cultivating well-rounded individuals and can be the key to navigating difficult discussions successfully.”
+Of course, this is not something teachers can take lightly, given that conversations about controversial issues could become heated or lead to outcomes teachers would like to avoid. For example, RAND researchers found that students who were vocal about their political views were more likely to be targets of bullying and exclusion. But instead of avoiding conflict, teachers should be proactive and help manage controversial conversations as they arise.
+“Many teachers might be unwilling to do this. They might be afraid that it will lead to a difficult discussion or anger their students or their students' families,” Kaufman said. “But it's really important to help students grapple with these issues in a safe and respectful way. It can help them learn how to have healthy, constructive discussions.”Students take part in a social and emotional learning exercise at Brubaker Elementary School in Des Moines, Iowa, November 8, 2019
+Photo by Zach Boyden-Holmes/Reuters Marketplace
+Support Initiatives That Help Teachers Deliver Equitable and Inclusive Civic Education
+Policymakers may need to target civic development policies and programs to specific populations, especially those that lack resources. The RAND study found that teachers in schools that serve more students of color and low-income students put less emphasis on discussing controversial civics issues than their counterparts at less diverse schools in more affluent areas. Their students also tend to have fewer opportunities to engage in civic activities, such as debates or school elections.
+In addition, growing awareness of racial injustice has led some to question whether civics materials provide an accurate representation of history, particularly in terms of colonization, slavery, and the Civil Rights movement. Districts, schools, teachers, and parents should advocate for access to instructional materials that have been vetted for their accuracy and quality, including textbooks, worksheets, and performance assessments.
+Policy could also help increase awareness of and adherence to standards to ensure that students receive a comprehensive, high-quality civic education.
+“Suggesting high-quality standards and guidelines is a good start, but we need to go further,” Kaufman said. “Civics is poised to address tensions within our democracy, and we need to give teachers the resources they need if we expect to see meaningful change.”
+Story
+Maria Gardner
+Production
+Deanna Lee
+
+
+
+
+Topics
+ Civic Education
+Education Curriculum
+Media Literacy
+Politics and Government
+Social and Emotional Learning
+Teachers and Teaching
+United States
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+Preparing Children and Youth for Civic Life in the Era of Truth Decay
+
+Dec 8, 2020
+Laura S. Hamilton, Julia H. Kaufman @juliahkaufman, et al.
+
+
+
+
+
+
+
+
+
+
+Project
+Truth Decay
+
+Jan 16, 2018
+
+
+
+
+
+
+
+
+
+
+Essay
+The Importance of Teaching Civic Responsibility in America
+
+Oct 29, 2020
+
+
+
+
+
+
+
+
+
+
+Project
+Civic Education
+
+Aug 12, 2020
+
+
+
+
+
+
+
+More about this research
+The research on which this article is based was conducted by RAND researchers. The full report, Preparing Children and Youth for Civic Life in the Era of Truth Decay (by Laura S. Hamilton, Julia H. Kaufman, and Lynn Hu, 2020), was peer-reviewed and published to rand.org; it is free to read online or download for personal use. Learn more about RAND copyright and permissions.
+This report is part of RAND's Countering Truth Decay initiative, which explores how to restore the role of facts and analysis in American public life. Funding was provided by gifts from RAND supporters and income from operations.
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Content Types:Blog","Research Topics:Education and Literacy/Teachers and Teaching","Research Topics:Education and Literacy/Education Curriculum","Research Topics:Geographic Areas/Americas/North America/United States","Research Topics:Law and Business/Law/Politics and Government","Research Topics:Education and Literacy/Life Skills/Media Literacy","Research Topics:Education and Literacy/Civic Education","Content Types:Article","Research Topics:Education and Literacy/Social and Emotional Learning"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Blog","value":"content-types:blog"},{"display":"Teachers and Teaching","value":"research-topics:education-and-literacy/teachers-and-teaching"},{"display":"Education Curriculum","value":"research-topics:education-and-literacy/education-curriculum"},{"display":"United States","value":"research-topics:geographic-areas/Americas/North-America/United-States"},{"display":"Politics and Government","value":"research-topics:law-and-business/law/politics-and-government"},{"display":"Media Literacy","value":"research-topics:education-and-literacy/life-skills/media-literacy"},{"display":"Civic Education","value":"research-topics:education-and-literacy/civic-education"},{"display":"Article","value":"content-types:article"},{"display":"Social and Emotional Learning","value":"research-topics:education-and-literacy/social-and-emotional-learning"}];})();
+

@@ -1,0 +1,114 @@
+
+
+The RAND Blog
+Previous Blog PostThe Wealth Gap WidensNext Blog PostIs the Conflict in Libya a Preview of the Future of Warfare?
+
+With Great Power Comes Great Responsibility—How to Harness Technologies in the Fight Against COVID-19
+commentary
+(Centre for Science and Policy)
+Photo by Cecilie_Arcurs/Getty Images
+
+
+
+by Salil Gunashekar and Emily Ryen Gloinson
+June 2, 2020
+
+
+The outbreak of the COVID-19 pandemic has resulted in an unprecedented public health crisis, presenting new and profound challenges on multiple fronts around the world. Throughout this period, the response from science, technology, and innovation communities has been remarkable, proving that innovation and learning, interdisciplinary methods and collaboration, information and data sharing, and adaptability are more important than ever.
+New technological innovations—developed, trialled and implemented at considerable pace and scale—have been actively led and supported by governments, industry, and funders across the globe. For instance, in the UK, fast-track competitions focusing on industry innovations have been launched rapidly to respond to the extensive disruption caused by the pandemic. In sub-Saharan Africa, innovation centres and data science–inspired social enterprises are offering funding and support to technology projects that aim to address the social and economic impacts. And, the World Health Organisation is directly engaging with technology companies and experts to help design and deliver potential solutions.
+The co-ordinated response and coming together of different stakeholders demonstrate how technology solutions can be quickly leveraged in effective ways, from innovations for tackling the public health crisis to technologies that focus on mitigating the wider impacts of the pandemic on society and the economy. Nevertheless, it is worth pausing to consider some of the potential risks and challenges associated with the technologies being developed and how they should be addressed so that society will benefit from the opportunities that emerging technologies offer.
+For example, there are prospective legal, ethical and trust implications for the public with respect to several technologies. The range and scale of app-based contact tracing and symptom tracking solutions could have long-standing consequences on surveillance, privacy, and data collection. It is possible that some of the current data-driven and technology-based solutions, with short-term requirements solely targeted at tackling the pandemic, may become more long-lasting or even permanent in the future. At what cost should public protection be achieved in relation to personal privacy, or will privacy fears keep potentially useful technologies from being widely adopted?
+
+At what cost should public protection be achieved in relation to personal privacy, or will privacy fears keep potentially useful technologies from being widely adopted?Share on TwitterHence, it is vital that policymakers ensure effective science and technology oversight mechanisms are proactively and swiftly put in place factoring in the specific contexts (e.g., geographical, cultural, political, economic) within which the technologies are being developed and deployed. Effective oversight enables the risks associated with technological advances to be minimised but crucially ensures that long-term resilience and flexibility is built in by providing appropriate structures and conditions within which technologies can be nurtured for the benefit of society and the economy.
+A RAND Europe study on the oversight of emerging science and technology highlights how important it is to recognise and learn lessons from the past, and systematically capture, assess, and learn from what did and did not work. For example, in the 1990s and 2000s, the Estonian government proactively put in place measures to support the integration of technology into government and to create the foundation for a more digital society. The government's oversight included diverse mechanisms such as legislation, tax incentives, standardisation, investment in technological infrastructure, and educational programmes to build digital skills. It also involved collaboration with private sector stakeholders, which was key to the effectiveness of the government's attempts.
+Equally, the ability to look ahead and make informed projections about the future—using, for example, foresight techniques—cannot be overestimated. As noted in the oversight study, being able to better foresee the potential impacts of science and technology will make it easier to prepare and plan for unintended consequences in the medium- to long-term and respond in a more fleet-footed manner. Earnestly preparing for and anticipating what comes next, the diverse range of technologies and the myriad ways in which stakeholders have engaged and collaborated to develop technology solutions, could help strengthen the resilience of our economies and societies to other events in the future that might threaten global stability.
+In what is likely to be a fundamentally changed world in which much will be looked at through the lens of COVID-19, transparent, dynamic, and inclusive approaches to science and technology oversight will build accountability, help anticipate the implications of widespread technology diffusion, and create and sustain public trust and confidence. In this regard, providing reasonable assurances around data protection standards, transparently confronting privacy concerns, and clearly articulating access, usage, and time parameters associated with some of the technologies could be beneficial. Significantly, engaging with the public openly and regularly, and explaining the benefits but also the potential risks associated with technologies will help promote acceptance and win trust. In turn, this could result in more effective and extensive uptake of the technologies that could be crucial in helping ensure nations can successfully navigate and transition from the current crisis.
+Data, technology, and their applications are going a long way to help countries and communities address different aspects of the current emergency. Digitalisation and models of collaboration, open science practices, and injection of R&D funding that might normally have taken several months or even years to happen are being swiftly implemented. Indeed, one could argue that never has so much depended on science, technology, and innovation so urgently.
+However, of equal urgency is the need to ensure that appropriate, evidence-based and independent oversight of these technological innovations is put in place in “real time,” so the benefits can be weighed against the risks, and critical policy and decisionmaking processes are scrutinised in a timely manner.
+
+Salil Gunashekar is a research leader and Emily Ryen Gloinson is an analyst at RAND Europe. They are experts in emerging technology policy research.
+This commentary originally appeared on Centre for Science and Policy on May 31, 2020. Commentary gives RAND researchers a platform to convey insights based on their professional expertise and often on their peer-reviewed research and analysis.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+
+
+Authors
+
+
+
+Salil Gunashekar
+Associate Director and Research Leader (Science and Emerging Technology, RAND Europe)
+
+
+
+
+
+
+Topics
+ Coronavirus Disease 2019 (COVID-19)
+Data Privacy
+Emerging Technologies
+Pandemic
+Science, Technology, and Innovation Policy
+
+
+
+Stay InformedRAND Policy CurrentsGet weekly updates from RAND.
+EmailSign Up
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Project
+Oversight of emerging science and technology: Learning from past and present efforts around the world
+
+Mar 21, 2019
+
+
+
+
+
+
+
+
+
+
+Project
+Foresight and Optimisation in Horizon 2020 
+
+Jan 12, 2015
+
+
+
+
+
+
+
+
+
+
+Commentary
+Should Communities Be Concerned About Digital Technologies to Fight COVID-19?
+
+May 13, 2020
+Abbie Tingstad, Shira H. Fischer @ShiraFischer, et al.
+
+
+
+
+
+
+
+

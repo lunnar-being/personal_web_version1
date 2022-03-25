@@ -1,0 +1,407 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Application operations engineer
+  
+
+  
+  
+  
+      
+  Find out what an application operations engineer does and the skills you need to do the job.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Central Digital and Data Office
+
+      
+      Published
+      7 January 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Introduction to the role of application operations engineer
+
+        
+        
+          Associate application operations engineer
+
+        
+        
+          Application operations engineer
+
+        
+        
+          Senior application operations engineer
+
+        
+        
+          Lead application operations engineer
+
+        
+        
+          Principal application operations engineer
+
+        
+        
+          Read more
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This describes the role of an application operations engineer and the skills required, including:
+
+
+  an introduction to the role, telling you what you would do in this role and the full list of skills
+  a description of the levels in this role, from associate application operations engineer to principal application operations engineer, specifying the skills you need for each level and the corresponding skill level (awareness, working, practitioner, expert)
+
+
+This role is part of the Digital, Data and Technology Profession in the Civil Service.
+
+Introduction to the role of application operations engineer
+
+An application operations engineer supports, manages and maintains a single application or a suite of applications.
+
+Skills required to be an application operations engineer
+
+You will need the following skills for this role, although the level of expertise for each will vary, depending on the role level.
+
+
+  
+Incident management. You can coordinate the response to incident reports, ensuring relevant prioritisation and detail to allow effective investigation. You can identify the correct procedures or channels for resolution and monitor resolution activity and progress updates to customers. You understand the relevant change management tools and processes.
+  
+Ownership and initiative. You can take ownership of problems and proactively resolve technical problems, ensuring that technical solutions continue to meet business requirements. You know how to take full accountability for actions taken and decisions made.
+  
+Problem management. You can understand and identify problems, analysing and helping to identify the appropriate solution. You can classify and prioritise problems, document their causes and implement remedies.
+  
+User focus. You understand users and can identify who they are and what their needs are, based on evidence. You can translate user stories and propose design approaches or services to meet these needs. You can engage in meaningful interactions and relationships with users.You put users first and can manage competing priorities.
+
+
+Associate application operations engineer
+
+As a trainee, you will work in an established team and support application operations engineers in their daily work, under their direction.
+
+Skills needed for this role
+
+
+  
+Incident management. You can identify and register incidents, gathering the required information and allocating it to the appropriate channel. (Relevant skill level: awareness)
+  
+Ownership and initiative. You know about problem resolution processes and know to pass problems to your team. (Relevant skill level: awareness)
+  
+Problem management. You can investigate problems in systems, processes and services, with an understanding of the level of a problem (for example, strategic, tactical, operational). You can contribute to the implementation of remedies and preventative measures. (Relevant skill level: awareness)
+  
+User focus. You have an awareness or understanding of user experience analysis and its principles. You can see the purpose of user stories and focus on user needs. (Relevant skill level: awareness)
+
+
+Application operations engineer
+
+An application operations engineer maintains services and is responsible for conducting user and security administration. At this level, you will:
+
+
+  monitor applications and are accountable for batch processes
+  in some organisations, carry out the duties of an end user computing engineer, such as fixing technical problems, maintaining hardware and liaising with the problem or incident manager
+
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You can maintain secure configuration and accurate information, controlling IT assets in one or more significant areas, and verifying location and state of assets. (Relevant skill level: working)
+  
+Availability and capacity management. You know how to manage service components to ensure they meet business needs and performance targets. (Relevant skill level: working)
+  
+Change management. You can implement changes based on requests for change. You know how to apply change control procedures. (Relevant skill level: awareness)
+  
+Continual service improvement. You know about developing process efficiency and common ways in which processes are optimised. You can support specific activities to improve development processes. You can spot or identify obvious deficiencies. (Relevant skill level: awareness)
+  
+Incident management. You can identify and register incidents, gathering the required information and allocating it to the appropriate channel. (Relevant skill level: awareness)
+  
+Ownership and initiative. You can own an issue until a new owner has been found or the problem has been mitigated or resolved. (Relevant skill level: working)
+  
+Problem management. You can investigate problems in systems, processes and services, with an understanding of the level of a problem (for example, strategic, tactical, operational). You can contribute to the implementation of remedies and preventative measures. (Relevant skill level: awareness)
+  
+Service focus. You can take inputs and establish coherent frameworks that work. (Relevant skill level: working)
+  
+Service Management Framework knowledge. You have a Level 3 Service Management Framework qualification. (Relevant skill level: awareness)
+  
+Technical specialism. You can assist in technical support activities and carry out agreed / routine maintenance and administration tasks. (Relevant skill level: awareness)
+  
+Technical understanding. You know about the subject matter and have an understanding of what it involves. (Relevant skill level: awareness)
+  
+Testing. You can execute test scripts under supervision. You understand the role of testing and how it works. (Relevant skill level: awareness)
+  
+User focus. You can identify needs and engage with users or stakeholders to collate user needs evidence. You understand and can define research that fits user needs. You can use quantitative and qualitative data about users to turn user focus into outcomes. (Relevant skill level: working)
+
+
+Senior application operations engineer
+
+Dealing with more complex issues, a senior application operations engineer is responsible for code deployment and coordinating change-based activities such as taking services live. Depending on the complexity and size of a project and the likely impact it will have on the business, you might manage and maintain certain aspects of an application.
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You can maintain secure configuration and accurate information, controlling IT assets in one or more significant areas, and verifying location and state of assets. (Relevant skill level: working)
+  
+Availability and capacity management. You know how to manage service components to ensure they meet business needs and performance targets. (Relevant skill level: working)
+  
+Change management. You can analyse and assess impact, and develop and document change requests. You can implement changes based on requests for change. (Relevant skill level: working)
+  
+Continual service improvement. You can identify process optimisation opportunities with guidance and contribute to the implementation of proposed solutions. (Relevant skill level: working)
+  
+Incident management. You can diagnose and prioritise incidents, investigating their causes and finding resolutions. (Relevant skill level: working)
+  
+Ownership and initiative. You can own an issue until a new owner has been found or the problem has been mitigated or resolved. (Relevant skill level: working)
+  
+Problem management. You can initiate and monitor actions to investigate patterns and trends to resolve problems, including consulting specialists where required. You can determine the appropriate remedy and assist with implementation of it as well as preventative measures. (Relevant skill level: working)
+  
+Service focus. You can take inputs and establish coherent frameworks that work. (Relevant skill level: working)
+  
+Service Management Framework knowledge. You have a Level 3 Service Management Framework qualification. (Relevant skill level: awareness)
+  
+Technical specialism. You can use management system software and tools. You have knowledge of logical schemata to investigate problems, collect performance statistics and create reports. You can carry out routine configuration, installation and reconfiguration of database and related products. You are able to optimise performance and forecast resource needs. (Relevant skill level: working)
+  
+Technical understanding. You understand core technical concepts related to the role and can apply them with guidance. (Relevant skill level: working)
+  
+Testing. You can review requirements, specifications and define test conditions. You can identify issues and risks associated with work while being able to analyse and report test activities and results. (Relevant skill level: working)
+  
+User focus. You can identify needs and engage with users or stakeholders to collate user needs evidence. You understand and can define research that fits user needs. You can use quantitative and qualitative data about users to turn user focus into outcomes. (Relevant skill level: working)
+
+
+Lead application operations engineer
+
+A lead application operations engineer defines the application strategy and the strategy for security administration. At this level, you:
+
+
+  will liaise with leads within IT operations on how applications are performing and changes that need to be put in place
+  may manage and maintain certain aspects of an application depending on the complexity and size of a project and the likely impact it will have on the business
+
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You can maintain secure configuration and accurate information, controlling IT assets in one or more significant areas, and verifying location and state of assets. (Relevant skill level: working)
+  
+Availability and capacity management. You know how to manage service components to ensure they meet business needs and performance targets. (Relevant skill level: working)
+  
+Change management. You can deal with high-impact, complex change requests. You know how to ensure that release policies, procedures and processes are applied. (Relevant skill level: practitioner)
+  
+Continual service improvement. You can identify process optimisation opportunities with guidance and contribute to the implementation of proposed solutions. (Relevant skill level: working)
+  
+Incident management. You can lead the investigation and resolution of incidents. (Relevant skill level: practitioner)
+  
+Ownership and initiative. You can take accountability of issues that occur and be proactive in searching for potential problems. You know how to achieve excellent user outcomes. (Relevant skill level: practitioner)
+  
+Problem management. You can initiate and monitor actions to investigate patterns and trends to resolve problems, including consulting specialists where required. You can determine the appropriate remedy and assist with implementation of it as well as preventative measures. (Relevant skill level: working)
+  
+Service focus. You can take inputs and establish coherent frameworks that work. (Relevant skill level: working)
+  
+Service Management Framework knowledge. You have a Level 3 Service Management Framework qualification and knowledge of life-cycle and / or capability elements of ITIL (Information Technology Infrastructure Library). (Relevant skill level: working)
+  
+Technical specialism. You know how to draft and maintain procedures and documentation. You can set standards for definition, security and integrity of objects and ensure conformance to these standards. (Relevant skill level: practitioner)
+  
+Technical understanding. You understand core technical concepts related to the role and can apply them with guidance. (Relevant skill level: working)
+  
+Testing. You can manage planning of system and/or acceptance tests, coordinating both functional and non-functional specifications. You can provide authoritative advice and guidance on test planning and can identify the process improvements and contribute to definition of best practice. (Relevant skill level: practitioner)
+  
+User focus. You know how to collaborate with user researchers and can represent users internally. You understand the difference between user needs and the desires of the user. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used. (Relevant skill level: practitioner)
+
+
+Principal application operations engineer
+
+A principal application operations engineer owns the application strategy and leads on the resourcing and learning and development for their team. At this level, you will have expert technical understanding and will be accountable for vendor and supplier management.
+
+Depending on the complexity and size of a project and the likely impact it will have on the business, you may also manage and maintain certain aspects of an application.
+
+Skills needed for this role
+
+
+  
+Asset and configuration management. You know how to manage configuration items, related information, service compliance and risks. (Relevant skill level: practitioner)
+  
+Availability and capacity management. You can ensure the correct implementation of standards and procedures, identifying capacity issues, stipulating the required changes and instigating these. You know how to initiate remedial action. (Relevant skill level: practitioner)
+  
+Change management. You can deal with high-impact, complex change requests. You know how to ensure that release policies, procedures and processes are applied. (Relevant skill level: practitioner)
+  
+Continual service improvement. You know how to analyse current processes, identify and implement opportunities to optimise processes, and lead and develop a team of experts to deliver service improvements. You help to evaluate and establish requirements for the implementation of changes by setting policy and standards. (Relevant skill level: practitioner)
+  
+Incident management. You can lead the investigation and resolution of incidents. (Relevant skill level: practitioner)
+  
+Ownership and initiative. You can take accountability of issues that occur and be proactive in searching for potential problems. You know how to achieve excellent user outcomes. (Relevant skill level: practitioner)
+  
+Problem management. You can ensure that the right actions are taken to investigate, resolve and anticipate problems. You can coordinate the team to investigate problems, implement solutions and take preventive measures. (Relevant skill level: practitioner)
+  
+Service focus. You know how to see the bigger picture and can investigate how to get the best of underlying services. (Relevant skill level: practitioner)
+  
+Service Management Framework knowledge. You have an expert certificate in Service Management Framework qualification. (Relevant skill level: practitioner)
+  
+Technical specialism. You know the direction for future technologies. You can deliver a model to support and maintain those future technologies and any databases that co-exist in the current environment. (Relevant skill level: expert)
+  
+Technical understanding. You thoroughly understand the technical concepts required for the role and can explain how these fit into the wider technical landscape. (Relevant skill level: practitioner)
+  
+Testing. You can hold responsibility for managing testing activities within development or integration activities. You know how to manage risks and can take preventative action when risks become unacceptable. You can manage customer relations. (Relevant skill level: expert)
+  
+User focus. You know how to collaborate with user researchers and can represent users internally. You understand the difference between user needs and the desires of the user. You can champion user research to focus on all users. You can prioritise and define approaches to understand the user story, guiding others in doing so. You can offer recommendations on the best tools and methods to be used. (Relevant skill level: practitioner)
+
+
+Read more
+
+
+  Civil Service Jobs
+
+
+
+
+
+
+      
+        
+    Published 7 January 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        IT service manager
+        Infrastructure engineer
+        Network architect
+        Development operations (DevOps) engineer
+        Technical architect
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Digital, Data and Technology Profession Capability Framework
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+
+  
+
+
+    
+  
+
+
+    

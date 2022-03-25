@@ -1,0 +1,46 @@
+
+
+Strategies for Minimizing Cybersecurity Risks
+
+
+
+
+
+To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video
+
+
+
+Share on FacebookShare on TwitterShare on LinkedIn
+Embed
+
+
+
+Add to website or blog
+<iframe src="https://www.rand.org/multimedia/video/2021/02/24/strategies-for-minimizing-cyber-security-risks/_jcr_content/par/multimediavideoplaye_597926641.embed" width="580" height="326" frameborder="0" allowfullscreen></iframe>
+Copy and paste the selected text
+Transcript
+Quentin Hodgson, Senior International/Defense Researcher
+Cyber security is ultimately a team sport, which means it requires action on the behalf of individuals, organizations and businesses, government, and internationally as well. At the individual level, we all have to become much better educated about the kinds of threats that we face and what constitutes risky behavior when we're using our own personal devices, whether it's at home for personal entertainment or for work purposes.
+Over the past year, we've seen a significant shift in workforce habits as more of the workforce had to work from home or work remotely due to the pandemic. And this has really exposed organizations and businesses to a much broader so-called "attack surface." It means that those businesses, the IT professionals, cybersecurity professionals, have to think much more broadly about how to secure their networks and services against cyber threats when you can't just rely on a strong perimeter defense, but really have to think about focusing more on a data-centric approach to cybersecurity.
+At the government level, we've seen some significant improvements in the ability of, for example, the United States government to coordinate its cybersecurity support to the private sector, as well as coordinating across government from the Department of Homeland Security to the FBI and Justice Department and the Department of Defense. Examples include the work to try to defend the elections in 2018 and 2020 from foreign interference, but also coordinate activity on the part of law enforcement agencies working with private sector companies, both here as well as abroad, to take down malicious infrastructure such as the Trickbot and Emotet botnets in the past few months.
+We have to recognize, of course, that the SolarWinds compromise, which affected a number of U.S. government agencies as well as private sector, is yet another example of having to continually focus on improving our cybersecurity posture, that we can never rest and think that we've accomplished everything we need to do. It's a constant, constant battle against malicious cyber actors.
+Internationally, of course, we have a lot of issues that we need to face, and some of those have to include not just coordinating with our partners and allies, but engaging in a constructive dialog with countries like Russia and China who are engaging in malicious cyber activity. We can't let them just continue to engage in these kinds of activities without calling them out for it when it does happen.Learn More
+
+/content/rand/multimedia/video/2021/02/24/strategies-for-minimizing-cyber-security-risks/jcr:content/par/wrapperdiv_copy/teaserlist
+
+
+
+Should Communities Be Concerned About Digital Technologies to Fight COVID-19?May 13, 2020Abbie Tingstad, Shira H. Fischer @ShiraFischer, et al.
+Personal smart devices offer an unprecedented opportunity to identify, track, map, and communicate about COVID-19. But apps could pose privacy and security concerns.
+
+
+The Internet of Bodies Will Change Everything, for Better or WorseOct 29, 2020
+The rise of devices that connect the human body to the web is accelerating rapidly. This Internet of Bodies could revolutionize health care and improve our quality of life. But without appropriate guardrails, it could also jeopardize our most intimate personal information and introduce several ethical concerns.
+
+
+Tech Alone Isn't Enough to Create a Successful Smart CityFeb 10, 2021Jared Mondschein @JSMondschein, Aaron Clark-Ginsberg @aclarkginsberg, et al.
+Smart-city initiatives are popping up in small communities and large metropolitan regions alike. But these initiatives have run into significant hurdles. Some cities have developed frameworks to overcome these challenges, but many continue to struggle.
+
+
+
+

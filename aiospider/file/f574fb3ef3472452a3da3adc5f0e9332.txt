@@ -1,0 +1,74 @@
+
+        
+        
+        
+     driven by shifting demographics, rising consumer expectations, technological innovations, and limited legacy health infrastructure. Collectively, these factors could enable governments, payers, providers, and consumers to reimagine healthcare delivery and management. In response to these trends, consumer-centric digital health ecosystems are forming across Asia at unprecedented speed and scale. Today, digital health impacts more than a billion lives, and estimates show that digital health in Asia could collectively create up to $100 billion in value by 2025, up from $37 billion in 2020 (Exhibit 1).
+    
+This article explores the driving factors for the emergence of health ecosystems in Asia, describes several emerging health ecosystem players, and defines strategic questions that potential ecosystem orchestrators should address.Healthcare disruption in Asia is increasingly likely
+	
+Healthcare in Asia sits at the nexus of five fundamental forces driving transformation. These forces are not unique to Asia, nor do they impact each country and region within Asia to the same degree. Collectively, however, they exert a powerful drive to deliver healthcare in increasingly scalable, sustainable, and personalized ways.
+     By 2025, Asia will be home to 456 million seniors age 65 or older, representing 10 percent of its population.
+
+
+ This is a 14 percent growth over 2021—a rapid demographic change that both increases potential demand for health services and decreases the available supply of manpower to deliver care.
+     With the exception of three countries in the region, the average number of doctors per 1,000 people in Asia is lower than the OECD average.
+
+
+ In addition, the World Health Organization has estimated a global shortfall of nine million nurses, with some of the worst affected countries located in Asia.
+
+
+ While investments in hospitals and physician health infrastructure will continue to rise, traditional, labor-intensive care delivery models are unlikely to meet Asia’s rising health needs.
+     Consumers are spending more on health and wellness and increasingly demand access to convenient, affordable care. Furthermore, our consumer research has indicated that consumers are trading up in health and safety, with consumers in China, for example, willing to spend more on health-branded products during the pandemic. According to , 43.5 percent of Chinese consumers are reportedly spending more on their health in the past 12 months and 23.1 percent are spending more on their nutrition.
+     Today, governments in Asia, on average, spend only 4.5 percent of GDP on healthcare, compared with the OECD average of 12 percent. Yet governments are the dominant payer in Asia, accounting for 64 percent of all health expenditures in 2018 (compared with private insurers, which covered 7 percent). Finding ways to control the growth of healthcare expenditures remains an urgent public priority even while prioritizing quality and access for patients.
+     Asia is home to half the world’s internet users, and already leads digital innovation worldwide in multiple sectors.
+
+
+ Indeed, venture capital and private equity investments in digital health in Asia have grown at 38 percent CAGR from 2015 to 2020. As a result, as of 2020, Asia comprises 44 percent of global venture capital/private equity investments in digital health—$6 billion of $14 billion.
+
+		
+	
+The rise of health ecosystems in AsiaConsumer-centric digital ecosystems are emerging across the world in response to these fundamental forces disrupting healthcare.
+
+
+ Such ecosystems are designed to seamlessly deliver the right care in the right setting at the right time by integrating three critical components: (a) a network of health-service providers across care settings, (b) a system of intelligence that leverages behavioral, social, and health data to analyze patients’ needs and selects the appropriate provider, and (c) a technology backbone that enables data and insights to flow between care providers.Importantly, health ecosystems are enabled by digital but are not purely digital, as they integrate both digital and physical health services. In addition, the breadth and complexity of health ecosystems means they cannot be encapsulated by a single entity, but typically consist of a central orchestrator anchored around a few self-built business models. They also manage multiple partners, including brick-and-mortar providers, healthtech start-ups, and IT vendors, to cover a more complete part of the care continuum.As we discussed in “,” “healthcare ecosystems of the future will likely be defined by the needs of different patient populations and their associated effective care journeys (including beyond care itself). The consumer-oriented nature of these ecosystems also will increase the number of healthcare touchpoints, with the goal of modifying patient behavior and improving outcomes.” Across Asia, a wide spectrum of players are beginning to define their approach to health ecosystems—not only healthcare incumbents such as insurers, providers, and governments but also nontraditional entrants such as consumer-technology giants, banks, telco-companies, industrial and retail conglomerates, and others. Emerging health ecosystems already impact more than a billion lives across Asia today (Exhibit 2), with prominent examples emerging in China, India, and Indonesia, among other markets.
+    
+Four archetypes of health ecosystems are now emerging with different anchor use cases:
+     Many of the largest health ecosystem players in Asia have rapidly grown by combining telemedicine and e-pharmacy services to address underserved populations. In China, for example, Ping An Good Doctor’s initial value proposition was allowing users to see a doctor online in minutes rather than waiting in line at a hospital for hours. Patients who required an in-person follow-up could subsequently get an expedited appointment booking at a hospital. Ping An Good Doctor then expanded into e-commerce transactions, providing consumer health products, generics, and health checkup kits on its platform.
+    
+    By contrast, AliHealth began with an e-pharmacy proposition in 2011, managing drug sales on Alibaba’s Tmall e-commerce platform and then expanding to home delivery of medications, provider partnerships for teleconsultations, appointment booking, and e-payments. Likewise in India, Practo launched as one of the first platforms to connect hospital-based physicians to patients across the country via video- and phone-based consultations, then expanded into medicine delivery, electronic health records management for hospitals, and even medical insurance services. Finally, in Indonesia, Halodoc has emerged as one of the largest platforms for patients to easily access general practitioner teleconsults, pharmacy delivery, and home lab services across more than 50 cities, addressing the lack of easy access to primary care outside of major hubs such as Jakarta and Surabaya.
+     Some public and private payers have begun leveraging digital technologies to nudge consumers to monitor their health and lower the long-term cost of care. For example, since 2015 the Health Promotion Board (HPB) of Singapore has run the Healthy 365 program, which gamifies wellness by awarding redeemable Healthpoints based on daily step counts, healthy food purchases, health screenings, and more.
+
+
+ In 2020, HPB expanded its program by partnering with Apple to launch LumiHealth, which layers in additional activity and wellness challenges for users of the Apple Watch.
+
+
+ Similarly, private payers such as AIA and Prudential have launched personalized wellness programs (AIA Vitality
+
+
+ and Pulse by Prudential,
+
+
+ respectively) to actively engage policyholders and guide them to the appropriate health provider.
+     An increasing number of hospitals are looking to establish digital “front doors” to engage with patients before and after their visit. Singapore has taken this model across its public healthcare system, with its HealthHub application serving as a single comprehensive digital entry point for all citizens to book appointments, order medications, and access vaccination records, disease risk assessments, and other health content. In addition, this model has scaled intensively in China, with close to 1,000 such “internet hospitals” established by early 2021 and detailed guidelines on social insurance reimbursement of online activities published by more than 20 cities. Approximately 70 percent of the internet hospitals are established by brick-and-mortar hospitals, such as Peking Union Medical College (PUMC) Hospital in Beijing and Huashan Hospital in Shanghai, and the remainder are led by digital consumer giants, such as Alibaba, Tencent, and Ping An.
+     Following the success of Livongo and Omada in the United States, interest in digital chronic disease management platforms has increased across Asia. Among the largest examples are Medlinker and ClouDr in China, both of which have focused on building platforms to connect patients, physicians, payers, providers, and pharmacies. In fact, Medlinker has collaborated with 50,000 physicians and built patient-management tools to address diabetes, hepatic disease, and kidney disease.
+
+
+ Medlinker also offers e-pharmacy services in collaboration with pharmaceutical companies. Meanwhile, ClouDr has taken a slightly different approach, establishing closer ties to hospitals by building a software-as-a-service platform for disease management
+
+
+ and providing prescriptions to patients who can collect drugs at offline pharmacy chains.
+To date, the markets have rewarded emerging health ecosystem innovators. As of March 2021, Tencent’s WeDoctor is estimated to be valued at up to $6.8 billion, which is 24 times the price-to-revenue ratio,
+
+
+ well in line with Ping An Good Doctor’s ratio of 16 times price-to-revenue, and significantly above the average price-to-revenue ratio of brick-and-mortar health providers in Asia, which is around tenfold. Even companies with smaller but rapidly scaling health ecosystems have seen valuation boosts supported in part by health ecosystem approaches. For example, Apollo Hospitals, one of the largest hospitals in India, launched its Apollo 24/7 health ecosystem in February 2020 to provide teleconsultations and home delivery of medicines. It announced strong results for the second half of FY 2021 in June.
+
+
+On the other hand, there are lessons that orchestrators need to draw to capture opportunities from the promising fundamentals and trends. First, building a successful ecosystem relies on aligning interests and connecting multiple stakeholders (for example, government, payer, provider, physician, and patients) within health systems, and in-depth analysis about the pain points of each party (down to the operational level) is key to reveal the opportunities. Second, a digital ecosystem does not imply a pure online approach and a successful model would require integration of both online and offline resources to build the care continuum and achieve the best outcomes. Third, the design of each business model will require definition of at least three functions, that is, flow generation, transaction conversion, and profit creation, to ensure a sustainable development.
+		
+	
+Key questions to ask when building digital health ecosystemsDespite the impressive impact numbers achieved to date by several health ecosystem players, we believe significant opportunity remains to expand the scope and breadth of health ecosystems across Asia. Speed is critical to capturing value in this nascent market, as the winner-take-all dynamics of ecosystem-based markets heavily favor first movers or fast followers. Thus, potential health ecosystem orchestrators should ask themselves the following four key questions:
+    
+    
+    
+    
+We believe that digital health ecosystems represent the future of healthcare in Asia and beyond. Both healthcare incumbents and new entrants will need to define what their future roles will be in orchestrating or participating in health ecosystems. Answering these four questions can help ecosystem orchestrators assess how they will realize the value at stake associated with building a digital health ecosystem, and thereby impact patients’ lives across Asia.

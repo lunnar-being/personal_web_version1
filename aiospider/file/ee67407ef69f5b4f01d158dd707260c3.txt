@@ -1,0 +1,70 @@
+
+
+The use of public engagement for technological innovation
+melita/Adobe Stock
+
+Because different public engagement techniques may be more or less effective in promoting selected outcomes, researchers found that a diverse range of techniques should be used to engage the public in technological innovation.
+What is the issue?
+Public engagement is increasingly recognised by governments, regulators, industry, academia, and the general public as a critical instrument to bring openness and transparency in decision making around science and technology, increase representativeness, and to help address issues like public mistrust in science and technology. Continued dialogue with the public can help to increase public trust and acceptability of new and emerging technologies and build public support for policy and regulation. 
+The methods and approaches to engage the public and the topics covered can vary widely, from well-established to more atypical techniques. Understanding what works, in what contexts and for what purpose in relation to public engagement and technological innovations is important to inform policy and regulation associated with technological innovations. The overarching aim of this study commissioned by the Better Regulation Executive (BRE) at the Department for Business Energy and Industrial Strategy (BEIS) was to bring together evidence on the current use of public engagement for technological innovation.How did we help?
+We focused on identifying and understanding the types of public engagement techniques used in the real world, how these have been applied to technological innovation across different sectors, and any potential outcomes they may have, as well as the effectiveness of these approaches.
+In the first phase of the study, we conducted a rapid review of the academic literature covering public engagement techniques applied in the context of technological innovation. This was supplemented with targeted searches of the grey literature and scoping consultations with experts in the area of public engagement. In the second phase of the study, we developed ten detailed case studies to provide concrete illustrations of how public engagement has been applied to technological innovations in different sectors. For each case study, the information was gathered through interviews with stakeholders and by reviewing a selection of articles connected to the case study. What did we find?
+A diverse range of public engagement techniques could be used in the context of technological innovation. 
+
+Traditional approaches to public engagement have been used most frequently. These include well-established methods such as surveys and public dialogues, for which considerable guidance already exists.
+
+Atypical approaches have been used in some instances. These generally tend to be innovative, ‘digital-enabled’ techniques, using online tools or immersive virtual reality technologies and simulations. There is evidence to suggest these atypical approaches could hold potential to be used more in the future.
+
+Public engagement techniques have been applied to a diverse range of technologies (e.g. cognitive technologies (including artificial intelligence and machine learning), data-driven technologies, medical/biotechnologies, green technologies, and nanotechnologies).
+
+
+Different public engagement techniques have, to varying degrees, had an impact on selected outcomes. 
+
+	The most reported outcome is to raise awareness and understanding of technological innovations.
+
+	There are several instances in which public engagement has informed aspects of policy, regulation, ethics, and trust.
+
+	There are limited instances in which public engagement has helped inform market adoption of a technology or contributed to changes in business models.
+
+	Overall, the evidence on impacts is strongest for traditional approaches (i.e. surveys, public dialogues), with less evidence around atypical techniques, which tend to consist of proof-of-concepts to demonstrate the feasibility of a particular approach.
+
+
+The usefulness of public engagement techniques is contextual. 
+
+
+The effectiveness of public engagement techniques with regard to technological innovation is often not formally assessed, and evidence about many approaches is limited.
+
+
+The evidence suggests that consultative approaches such as surveys, interviews and focus groups are a well-established method to gather information on technological innovation from a selected sample of the public.
+
+
+Deliberative methods are particularly useful to explore complex topics in depth, and when there is potential uncertainty or controversy.
+
+
+There are multiple innovative methods (e.g. art-based and experiential techniques) that could help to render public engagement more meaningful, and potentially widen participation.
+
+
+The use of online and digital-enabled approaches can speed up the process of engagement, capture the views of the public at scale, and enhance the experience of engagement.
+
+
+What are the key learnings?
+The analysis identified some key learnings for policymakers and regulators to consider when conducting public engagement in the context of technological innovations. 
+
+	The use of multiple techniques over the course of the public engagement process can help to engage different ‘publics’ appropriately.
+
+	Spreading public engagement over time allows for reflection and embedding of concepts.
+
+	Having an impact on trust in technologies and technological innovation requires time and considered debate to increase accountability and more systematic public engagement.
+
+	A multi-stakeholder, collaborative approach to public engagement helps to develop informed and considered judgements.
+
+	Using online and digital-enabled public engagement techniques can potentially increase the speed, scale, inclusivity, and geographical coverage of engagement.
+
+	Using some atypical techniques can potentially render public engagement more tangible and user-friendly and could also increase the diversity of participation.
+
+	Having an impact on outcomes such as regulation, policy and market adoption of technological innovation typically requires buy-in and engagement with the right stakeholders.
+
+	It is important to build evaluation into public engagement processes to track impacts and outcomes over time.
+
+
+

@@ -1,0 +1,185 @@
+
+
+Hacking Equity
+Ideas for a More Equitable Recovery from the COVID-19 Pandemic
+
+
+
+
+Alexandra Gl/Adobe Stock
+The Challenge: Engaging Future Change Leaders in Policy 
+We know COVID-19 affected populations inequitably, hitting vulnerable communities especially hard. We also know that young people—given the right tools and knowledge—change the world for the better.
+That’s why RAND Corporation, through its NextGen Initiative, and Pardee RAND Graduate School are partnering with the Atlanta University Center (AUC) Consortium—Clark Atlanta University, Morehouse College, and Spelman College—to offer the RAND–AUC Consortium Tech and Public Policy Hackathon.
+This unique virtual hackathon, designed by the Pardee RAND Tech + Narrative Lab, teams AUC undergraduates with Pardee RAND graduate students and challenges them to identify promising policy solutions for a more equitable recovery from the pandemic. 
+How Is This Hackathon Different?
+Hackathons are designed to bring teams together to solve problems.
+This hackathon, by connecting emerging leaders of color with experienced policy analysts and doctoral candidates, allows for a wide range of fresh insights and creative explorations, while deepening undergraduate students’ understanding of policy. The program follows in the footsteps of the Pardee RAND Faculty Leaders Program, which aims to build diversity in the field of public policy. 
+Mentored by RAND researchers, the undergraduate and graduate students will use large datasets to identify social issues and explore promising policy solutions for a more equitable recovery from the pandemic. In mid-November, the teams will share their final presentations, and a panel of judges will select one team’s presentation as the winner. Undergraduates from the winning team will be treated to a hosted lunch and included in a recap video shared on social media.
+
+I hope hackathon participants cultivate a greater familiarity around working with data and an appreciation for the challenges that come with it. What they learn here may spark ideas of how they can advance equity in other contexts.Asya Spears Pardee RAND Doctoral Candidate / Spelman College Alumna / Hackathon Advisor and Judge
+
+
+
+
+Hackathon Partners
+Hackathon at a Glance
+Dates
+Kick-off Meeting: Oct. 27
+Team Meetings: Oct. 28 - Nov. 12
+Final Presentations: Nov. 17
+Participants
+24 Clark Atlanta, Morehouse, and Spelman undergraduates
+16 Pardee RAND Ph.D. students
+8 RAND researcher/Pardee RAND faculty mentors
+5 judges
+
+
+
+
+
+Who's Involved?
+Student Teams
+Approximately two dozen AUC students will participate, representing a wide range of interests and goals. Their majors include political science, engineering, cybersecurity, sociology, and more. Their aspirations include a variety of careers, including criminal defense attorney, AI developer, public health physician, cultural anthropologist, and climate change engineer.
+
+They will be joined by doctoral candidates in the policy analysis program at Pardee RAND who come from a variety of disciplines. Pardee RAND Ph.D students pursue research across a wide range of policy issues, including health policy, education, environmental equity, technological equity, and more.
+Judges
+
+
+Angelica Geter, Dr.P.H.
+Chief Strategy Officer, Black Women’s Health Imperative
+
+
+Raynard Kington, M.D., Ph.D.
+Head of School, Phillips Academy, Andover; Trustee, RAND Corporation; Board of Governors, Pardee RAND
+
+
+
+
+
+Michael Scholtens, M.S.
+Data Analyst, Digital Threats to Democracy, The Carter Center
+
+
+Asya Spears, M.S.
+Ph.D. Candidate, Pardee RAND Graduate School; Alumna, Spelman College
+
+
+
+
+Malcolm V. Williams, Ph.D.
+Senior Policy Researcher, RAND; Inclusion, Diversity and Equity Advisor, Pardee RAND
+
+
+
+
+Mentors
+
+
+Ben Boudreaux, Ph.D.
+Policy Researcher; Professor, Pardee RAND Graduate School
+
+
+Kathryn Edwards, Ph.D.
+Economist; Professor, Pardee RAND Graduate School
+
+
+
+
+Gavin Hartnett, Ph.D.
+Information Scientist; Professor, Pardee RAND Graduate School
+
+
+Toyya Pujol-Mitchell, Ph.D.
+Operations Researcher and Health Data Scientist
+
+
+
+
+Jonathan Welburn, Ph.D.
+Operations Researcher; Professor, Pardee RAND Graduate School
+
+
+Jhacova Williams, Ph.D.
+Associate Economist; Professor, Pardee RAND Graduate School
+
+
+
+
+Melanie Zaber, Ph.D.
+Economist; Codirector, RAND Middle-Class Pathways Center
+
+
+Li Ang Zhang, Ph.D.
+Information Scientist; Professor, Pardee RAND Graduate School
+
+
+Organizers
+
+
+Barbara Harris-Combs, Ph.D.
+Professor of Sociology, Clark Atlanta University; Alumna, Pardee RAND Faculty Leaders Program
+
+
+Stefanie Howard, M.A.
+Assistant Dean, Admissions and Strategic Initiatives, Pardee RAND Graduate School
+
+
+
+
+Osonde Osoba, Ph.D.
+Senior Information Scientist; Professor and Tech + Narrative Lab Co-Director, Pardee RAND Graduate School
+
+
+
+Todd Richmond, Ph.D.
+Professor, Pardee RAND Graduate School; Director, Pardee RAND Tech + Narrative Lab
+
+
+
+
+
+Rachanee Srisavasdi, M.B.A.
+NextGen Initiative Director, RAND Corporation
+
+
+Sinead Younge, Ph.D.
+Professor of Psychology, Morehouse College; Director, Institute for Social Justice Inquiry and Praxis, Andrew Young Center for Global Leadership; Alumna, Pardee RAND Faculty Leaders Program
+
+
+
+
+
+
+
+
+/content/prgs/research/tech-and-narrative-lab/equity-hackathon/jcr:content/par/columnwrap_1952909843/col2/wrapperdiv_copy/teaserlist
+
+Related Activities
+
+Hackathon Explores Ethics of COVID-19 Dashboards
+
+
+Morehouse College President Discusses Social Justice
+
+
+From Social Justice Activism to Shaping Policy: An Interactive, Virtual Workshop
+
+
+Hackathon Lets Students Explore Dark Web
+
+
+Faculty Leaders Program in Policy Research and Analysis
+
+
+RAND NextGen Initiative
+
+
+
+
+
+About RAND, Pardee RAND Graduate School and the Tech + Narrative Lab
+RAND is a research and analysis organization dedicated to deep knowledge and ingenuity. We are nonpartisan and nonprofit, committed to solving the toughest problems facing the world today. 
+RAND educates the leaders of tomorrow through the Pardee RAND Graduate School. Based in Santa Monica, CA, Pardee RAND offers a full-time, fully funded Ph.D. program in policy analysis—the first and largest of its kind in the country.
+In Pardee RAND's Tech + Narrative Lab, students apply new and emerging technologies to study policy problems, create novel solutions, and understand policy implications of technology.
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Research Topics:Health, Health Care, and Aging/Infectious Diseases/Coronavirus Disease 2019 (COVID-19)","Research Topics:Children, Families, and Communities/Racial Equity","Research Topics:Science and Technology/Emerging Technologies","Research Topics:Education and Literacy/Educational Equity","Research Topics:Science and Technology/Science, Technology, and Innovation Policy"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Coronavirus Disease 2019 (COVID-19)","value":"research-topics:health-health-care-and-aging/infectious-diseases/coronavirus-disease-2019-COVID-19"},{"display":"Racial Equity","value":"research-topics:children-families-and-communities/racial-equity"},{"display":"Emerging Technologies","value":"research-topics:science-and-technology/emerging-technologies"},{"display":"Educational Equity","value":"research-topics:education-and-literacy/educational-equity"},{"display":"Science, Technology, and Innovation Policy","value":"research-topics:science-and-technology/science-technology-and-innovation-policy"}];})();
+

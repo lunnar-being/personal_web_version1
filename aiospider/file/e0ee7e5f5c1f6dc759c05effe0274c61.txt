@@ -1,0 +1,108 @@
+
+
+
+
+Previous News ReleaseCOVID-19 'Vaccine Nationalism' Could Cost the World Up to $1.2 Trillion a YearNext News ReleasePreventive Health Care Dropped Significantly During First Two Months of Pandemic Lockdown; Study Finds Disparities in Switch to Telemedicine
+
+
+No Silver Bullet for Determining Safety of Automated Vehicles; Public Trust in AV Technology Rides on Multiple Assessments and Government Messaging
+
+
+
+For Release
+ThursdayOctober 29, 2020
+
+No single method is sufficient to determine whether an automated vehicle is safe enough for the road, and ultimately consumers are most likely to trust the government about AV safety, according to a new RAND Corporation report.
+The report examines three approaches—measurements, processes, and thresholds—commonly used to evaluate the safety of automated driving technologies and finds that a combination of all three is necessary to determine an acceptable level of safety to satisfy different kinds of stakeholders, from industry to safety advocates.
+“There is no silver bullet to determine whether or not an AV is safe to operate,” said Marjory Blumenthal, lead author of the report and a senior policy researcher at RAND, a nonprofit, nonpartisan research organization. “A consensus where developers, regulators, and policymakers agree both on a set of approaches to evaluate safety and how to effectively communicate about them will be essential to nurturing public trust in AVs.”
+According to the report, evidence from a variety of sources needs to be pieced together to understand whether AVs are acceptably safe. In the absence of abundant crash data, alternatives to the statistical measures easily used for conventional cars (known as leading measures) are evolving but cannot stand alone. Instead, they'll need to be combined with information about company processes (especially steps taken by developers to implement technical standards), which help signal safety culture—how thoroughly the company embraces safety. Measures can be combined with process information to support thresholds, such as how well AVs compare to human drivers. Thresholds are easy to understand, but like measurements are works in progress.
+The study also examines the challenges associated with communicating about AV safety to the general public. A national survey conducted through the RAND American Life Panel found that the general public most trusts simple, data-driven messages from independent, authoritative bodies such as government agencies.
+“Public trust in AVs is imperative, but getting consumers on board will require consistent, coherent, and comprehensive messages about safety from all stakeholders,” Blumenthal said. “Industry and the government aren't always transparent or on the same page, and that would need to change in order to convince consumers that AVs are acceptably safe.”
+The report recommends use of an industry consortium to help develop leading measures such as “roadmanship” (which captures the AVs ability to operate in traffic without causing problems for other road users), greater transparency and uniformity between developers on the presentation of evidence for meeting safety thresholds, and continued research by the U.S. Department of Transportation into the comparison between human drivers and AVs. The researchers also urge AV developers to work with state and local governments to deploy more vehicles in communities around the country to familiarize the general public with the technology and what it can and cannot do.
+Other authors of the report, “Safe Enough: Approaches to Assessing Acceptable Safety for Automated Vehicles,” are Laura Fraade-Blanar, Ryan Best, and J. Luke Irwin.
+The research was sponsored by the Uber Advanced Technology Group and builds upon a 2018 RAND study, “Measuring Automated Vehicle Safety: Forging a Framework.” It was conducted and published independently by RAND Social and Economic Well-Being, which seeks to actively improve the health, social, and economic well-being of populations and communities throughout the world.
+
+Share on FacebookShare on TwitterShare on LinkedIn
+
+
+About the RAND Corporation
+The RAND Corporation is a research organization that develops solutions to public policy challenges to help make communities throughout the world safer and more secure, healthier and more prosperous.
+
+
+
+
+Media Resources
+RAND Office of Media Relations
+(703) 414-4795
+(310) 451-6913
+media@rand.org
+
+
+Researcher Spotlight
+
+
+
+Marjory S. Blumenthal
+Adjunct Policy Researcher
+
+
+Marjory Blumenthal (she/her) is an adjunct policy researcher at the RAND Corporation. She joined the RAND Corporation as director of the experimental Science, Technology, and Policy program in spring 2016, with a broad remit that includes science and technology trends, societal impacts, and…
+
+Explore Our People »
+
+Explore
+All News Releases
+By Date
+Related Topics
+
+Autonomous VehiclesPassenger TrafficTraffic AccidentsTransportation Safety
+
+Research Conducted By
+
+RAND Social and Economic Well-Being
+
+Explore All Topics »
+
+
+
+
+
+ Related Resources 
+
+
+
+
+
+
+
+
+
+Report
+Safe Enough
+
+Oct 29, 2020
+Marjory S. Blumenthal @MarjorySB, Laura Fraade-Blanar, et al.
+
+
+
+
+
+
+
+
+
+
+Report
+Measuring Automated Vehicle Safety
+
+Oct 11, 2018
+Laura Fraade-Blanar, Marjory S. Blumenthal @MarjorySB, et al.
+
+
+
+
+
+
+
+(function(){if(top.window.RAND===undefined){top.window.RAND={};}if(top.window.RAND.authoring===undefined){top.window.RAND.authoring={};}top.window.RAND.authoring.page_content_tags=["Research Topics:Infrastructure and Transportation/Transportation/Transportation Technology/Autonomous Vehicles","Research Topics:Infrastructure and Transportation/Transportation/Surface Transportation/Passenger Traffic","Content Types:News Release","Research Topics:Infrastructure and Transportation/Transportation/Transportation Safety","Research Topics:Infrastructure and Transportation/Transportation/Surface Transportation/Traffic Accidents"];top.window.RAND.authoring.page_content_tags_json=[{"display":"Autonomous Vehicles","value":"research-topics:infrastructure-and-transportation/transportation/transportation-technology/autonomous-vehicles"},{"display":"Passenger Traffic","value":"research-topics:infrastructure-and-transportation/transportation/surface-transportation/passenger-traffic"},{"display":"News Release","value":"content-types:news-release"},{"display":"Transportation Safety","value":"research-topics:infrastructure-and-transportation/transportation/transportation-safety"},{"display":"Traffic Accidents","value":"research-topics:infrastructure-and-transportation/transportation/surface-transportation/traffic-accidents"}];})();
+

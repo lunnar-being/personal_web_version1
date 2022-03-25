@@ -1,0 +1,273 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Accessibility statement for Data View
+  
+
+  
+  
+  
+      
+  This accessibility statement is for Ofsted's 'Data View' digital service.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Ofsted
+
+      
+      Published
+      22 September 2020
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+    
+      Applies to England
+
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          How accessible this service is
+
+        
+        
+          Reporting accessibility problems with this service
+
+        
+        
+          Enforcement procedure
+
+        
+        
+          Technical information about this service’s accessibility
+
+        
+        
+          Non accessible content
+
+        
+        
+          How we tested this service
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+This page only contains information about the Data View service.
+
+This service is hosted on a third-party website separate from GOV.UK. There is a separate accessibility statement for the main GOV.UK website
+
+How accessible this service is
+
+Data View is a tool that allows users to view Ofsted inspection data in a visual way. The tool pre-dates the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018 (‘accessibility regulations’).
+
+Some people may find parts of this service difficult to use:
+
+
+  the tool has interactive elements such as drop-down menus that are not in a logical nested order.  A combination of the tab and arrow keys must be used to interact with elements of the tool.  It is not clear when the tab key or arrow keys should be used when using interactive elements.  This disadvantages visually impaired users using assistive technology
+  we display locations of providers on an interactive map. Visually impaired users using assistive technology are unable to interact with this map using a keyboard
+  it is not possible to include alt text for images on the current version of the tool.  Visually impaired users using assistive technology will not be able to access a summary of the visualisation displayed in charts and maps
+  it is not possible to zoom in up to 200% without assistive technology without text spilling off the screen
+
+
+Users who find the Data View service difficult to use can find the inspection data in an alternative accessible format in Ofsted’s official statistics.
+
+The ‘Compare local authority areas’ tab uses data from the Local Authority Interactive Tool (LAIT) published by the Department for Education (DfE).
+
+Reporting accessibility problems with this service
+
+We are always looking to improve the accessibility of this service. If you find any problems that are not listed on this page or think we are not meeting accessibility requirements, contact us at Data.View@ofsted.gov.uk.
+
+Enforcement procedure
+
+The Equality and Human Rights Commission (EHRC) is responsible for enforcing the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018. If you are not happy with how we respond to your complaint, contact the Equality Advisory and Support Service (EASS).
+
+Technical information about this service’s accessibility
+
+Ofsted is committed to making this service accessible, in accordance with the Public Sector Bodies (Websites and Mobile Applications) (No. 2) Accessibility Regulations 2018.
+
+This service is not compliant with the Web Content Accessibility Guidelines version 2.1 AA standard. The non-accessible parts are listed below.
+
+Non accessible content
+
+The content listed below is non-accessible for the following reasons.
+
+Non compliance with the accessibility regulations
+
+Data View uses interactive elements such as drop-down menus that are not in a logical nested order.  A combination of the tab and arrow keys must be used to interact with elements of the tool.  It is not clear when the tab key or arrow keys should be used when interacting with elements.  This does not meet WCAG 2.1 success criterion 3.2.3 (consistent navigation).  We will keep the accessibility of this feature under review if the platform that hosts Data View is updated.
+
+Data View contains maps that cannot be operated using a keyboard.   This disadvantages users using assistive technology that rely on keyboard navigation. This does not meet WCAG 2.1 success criterion 2.1.1 (keyboard).  We will keep the accessibility of this feature under review if the platform that hosts Data View is updated.
+
+Data View contains maps and interactive graphs.  The version of the platform Data View uses does not support alt text so the information in interactive images is not available to people using a screen reader. This does not meet WCAG 2.1 success criterion 1.1.1 (non-text content).  We will keep the accessibility of this feature under review if the platform that hosts Data View is updated.
+
+It is not possible to zoom in up to 200% without assistive technology without text spilling off the screen.  This disadvantages users with a visual impairment.  This does not meet WCAG 2.1 success criterion 1.4.4 (resize text).  We will keep the accessibility of this feature under review if the platform that hosts Data View is updated.
+
+Disproportionate burden
+
+Not applicable.
+
+How we tested this service
+
+This website was and is currently being tested for compliance with the Web Content Accessibility Guidelines V2.1 level A and level AA. These tests have been carried out internally.
+
+This page was prepared on 22 September 2020. It was last updated on 22 September 2020.
+
+
+
+
+      
+        
+    Published 22 September 2020
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Exploring Ofsted inspection data with Data View
+        Statistics at Ofsted
+        Local authority interactive tool (LAIT)
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Corporate information
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

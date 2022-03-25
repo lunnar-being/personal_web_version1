@@ -1,0 +1,569 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Qualifications to work with F gas
+  
+
+  
+  
+  
+      
+  The qualifications you need to work with fluorinated gas (F gas) and the organisations that offer these qualifications.
+
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Environment Agency and Department for Environment, Food & Rural Affairs
+
+      
+      Published
+      31 December 2014
+      Last updated
+      
+        14 September 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          Stationary refrigeration and air conditioning (SRAC) systems (including heat pumps) qualifications
+
+        
+        
+          Stationary fire protection systems qualifications
+
+        
+        
+          Mobile air conditioning systems qualifications
+
+        
+        
+          Electrical switchgear qualifications
+
+        
+        
+          Recovering solvents qualifications
+
+        
+        
+          Other equipment qualifications
+
+        
+        
+          Working with F gas in the EU
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+You must have your own qualifications to work on equipment containing F gas, even if you work for someone else.
+
+
+It is against the law to work with F gas if you do not have the correct qualifications. You could receive a civil penalty for breaking the law. See the Environment Agency enforcement sanctions policy.
+
+If you see someone working with F gas that doesn’t have the right qualifications, report it to f-gassupport@environment-agency.gov.uk.
+
+
+Stationary refrigeration and air conditioning (SRAC) systems (including heat pumps) qualifications
+
+You must have qualifications to:
+
+
+  install new systems
+  service and maintain systems
+  check for leaks
+  recover gases
+  decommission and dispose of old systems
+  work on refrigerated trucks over 3.5 tonnes
+  work on refrigerated trailers made to be towed by trucks or trailers
+
+
+You need a:
+
+
+  category 1 certificate to carry out all activities
+  category 2 certificate to install, maintain, service and recover refrigerant from systems containing F gas equivalent to less than 5 tonnes of CO2 - calculate the carbon dioxide equivalent of an F gas
+
+  category 3 certificate to recover refrigerant from systems that contain less than 3kg of F gas
+
+  category 4 certificate to check equipment for leaks if you don’t break into the refrigeration circuit
+
+
+You must have a qualification as an individual from one of these accredited organisations (or an equivalent qualification that another EU member state recognises):
+
+City and Guilds
+
+
+1 Giltspur Street  
+London  
+EC1A 9DD 
+
+
+
+Telephone: 0844 543 0033
+Email: centresupport@cityandguilds.com
+Company number: 05200334
+
+Building Engineering Services Association (BESA)
+
+
+Lincoln House  
+137-143 Hammersmith Road  
+London  
+W14 0QL  
+
+
+
+Telephone: 020 7313 4900
+Email: enquiries@thebesa.com
+Company number: 09796322
+
+LCL Awards
+
+
+Unit 2, 1 Rowdell Road  
+Northolt  
+Middlesex  
+UB5 5QR  
+
+
+
+Telephone: 020 8839 2439
+Email: enquiries@lclawards.co.uk
+Company number: 04615993
+
+Construction Industry Training Board (CITB) are no longer issuing new F gas  qualifications or certification.
+
+Stationary fire protection systems qualifications
+
+To work on a fire protection system that contains F gas equivalent to 5 tonnes or more of carbon dioxide you must have:
+
+
+  a Fire Industry Association (FIA) F gas certificate for individuals
+  an equivalent qualification that another EU member state recognises
+
+
+Find out how to calculate the carbon dioxide equivalent of an F gas.
+
+Fire Industry Association
+
+
+Tudor House  
+Kingsway Business Park  
+Oldfield Road  
+Hampton  
+Middlesex  
+TW12 2HD  
+
+
+
+Telephone: 020 3166 5002   
+Email: info@fia.uk.com
+Company number: 05989140
+
+Mobile air conditioning systems qualifications
+
+You must have a qualification to recover refrigerant from mobile air conditioning systems in:
+
+
+  goods vehicles weighing less than 3,500kg
+  passenger vehicles with 8 seats or fewer
+
+
+You must have a relevant qualification from one of these organisations (or an equivalent qualification that another EU member state recognises):
+
+City and Guilds
+
+
+1 Giltspur Street  
+London  
+EC1A 9DD  
+
+
+
+Telephone: 020 7294 2800
+Email: automotive@cityandguilds.com
+Company number: 05200334
+
+Institute of the Motor Industry (IMI)
+
+
+Fanshaws  
+Brickendon  
+Hertford  
+SG13 8PQ  
+
+
+
+Telephone: 01992 511521
+Email: imiawarding@theimi.org.uk 
+IMI company number: 00225180
+IMI Awards Limited company number: 06237350
+
+ABC Awards
+
+
+Robins Wood House  
+Robins Wood Road  
+Nottingham  
+NG8 3NH  
+
+
+
+Telephone: 0151 339 4181
+Email: centresupport@abcawards.co.uk
+Company number: 04117784
+
+Construction Industry Training Board (CITB) are no longer issuing new F gas  qualifications or certification.
+
+Electrical switchgear qualifications
+
+You must have a qualification to carry out work on electrical switchgear that contains sulfur hexafluoride (SF6). This includes:
+
+
+  installing new systems
+  carrying out maintenance
+  recovering sulphur hexafluoride (SF6)
+  decommissioning and disposing of old systems
+
+
+You must have a relevant qualification from one of these organisations (or an equivalent qualification that another EU member state recognises):
+
+Western Power Distribution plc
+
+
+Avonbank  
+Feeder Road  
+Bristol  
+BS2 0TB  
+
+
+
+Telephone: 0800 096 3080   
+Email: wpdengineeringpolicy@westernpower.co.uk
+
+South Wales company number: 02366985
+South West company number: 02366894
+West Midlands company number: 03600574   
+East Midlands company number: 02366923
+
+Northern Ireland Electricity plc
+
+
+PO Box 2  
+120 Malone Road  
+Belfast  
+BT9 5HT  
+
+
+
+Telephone: 028 90 66 11 00   
+Email: leonard.taggart@nie.co.uk   
+Company number: NI026041
+
+EA Technology Limited
+
+
+Capenhurst Technology Park  
+Capenhurst  
+Chester  
+CH1 6ES  
+
+
+
+Telephone: 0151 339 4181   
+Email: sales@eatechnology.com
+Company number: 02566313
+
+Lucy Electric Ltd
+
+
+Eagle Works  
+Walton Well Road  
+Oxford, UK  
+OX2 6EE  
+
+
+
+Telephone: 01865 311411   
+Email: info@wlucy.com
+Company number: 01179461
+
+National Grid Electricity Transmission plc
+
+
+1-3 Strand  
+London  
+WC2N 5EH  
+
+
+
+Telephone: 01623 872611   
+Email: daniel.tingle@nationalgrid.com
+Company number: 02366977
+
+Recovering solvents qualifications
+To recover solvents containing F gas from equipment, you must have a qualification from 
+Fraser Technologies (or an equivalent qualification that another EU member state recognises):
+
+Fraser Technologies
+
+
+24 Grange Road  
+Houstoun Industrial Estate  
+Livingston  
+Scotland  
+EH54 5DE  
+
+
+
+Telephone: 01506 443 058   
+Email: techsupport@frasertech.co.uk
+Company number: SC231307
+
+You can recover solvents for up to a year before you qualify if you:
+
+
+  work under supervision of a qualified person
+  are on the Fraser Technology training course or an equivalent course in another EU country
+
+
+Other equipment qualifications
+If you’re servicing equipment not covered by specific qualifications, you must have appropriate training and qualifications to cover the handling of F gases.
+
+Working with F gas in the EU
+
+If you have a UK F-gas certificate as a company or individual, it will not be valid for work in the EU.
+
+To work on equipment containing F gas in the EU, you’ll need to get a recognised qualification and certification where relevant from one of the 27 EU member states.
+
+
+
+
+
+      
+        
+    Published 31 December 2014
+    Last updated 14 September 2021
+      + show all updates
+      
+        
+            
+              14 September 2021
+              Removed Siemens Plc contact information as they no longer provide electrical switchgear qualifications.
+            
+            
+              1 July 2021
+              UK F gas qualifications or certifications no longer valid as 30 June 2021 deadline has passed.
+            
+            
+              30 April 2021
+              Removed information about applying to the Irish Environmental Protection Agency for an equivalent F gas certificate as the deadline for applications has passed.
+            
+            
+              15 March 2021
+              Updated the section 'Working in the EU' to include the details to apply for an equivalent certificate from the Irish Environmental Protection Agency.
+            
+            
+              16 February 2021
+              Updated Western Powers contact details
+            
+            
+              31 December 2020
+              Updated with note that the EU does not recognise qualifications from Great Britain.
+            
+            
+              21 August 2019
+              Updated list of qualifications and organisations.
+            
+            
+              23 May 2018
+              We have added the addresses and contact details for accredited bodies offering qualifications to work with F gas.
+            
+            
+              24 October 2017
+              Updated to show revised list of accredited organisations who offer F gas qualifications
+            
+            
+              13 April 2017
+              Changed the qualification you must hold from Construction Industry Training Board Refrigeration certificate to Building Engineering Services Association accredited courses relating to F Gas regulation.
+            
+            
+              31 December 2014
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Bans on F gas in new products and equipment: current and future
+        Applying for quota to produce or import F gas
+        Company certification to work with F gas
+        Uses of F gas (HFCs) exempt from the phase down
+
+  
+
+
+
+
+      
+
+    Collection
+
+  
+
+
+        Fluorinated gas (F gas): guidance for users, producers and traders
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Chemicals
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    

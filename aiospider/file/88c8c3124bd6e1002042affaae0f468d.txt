@@ -1,0 +1,17 @@
+
+Artificial intelligence will play a key role in assisting cyber operators to make speedier and more accurate decisions, Air Force Lt. Gen. Jack Shanahan, director, Defense Department's Joint Artificial Intelligence Center said while participating in a panel at the 10th Annual Billington Cybersecurity Summit in Washington yesterday. 
+
+
+
+
+DOD is increasingly focused on AI — and counter, or adversarial AI — the general said, adding that the AI tools of the future must work in extreme field environments and be trusted by the troops who will use them.That will require a "red team" approach to training, he said, pitting an opposition force against cyber operators to test the limits of cyber defense. The Defense Innovation Unit is already automating some of the red team actions, he added.
+
+
+
+
+"Counter-AI is in the future. It's analogous to electronic warfare," the general said. "That's something that's upon us now, and we need more thought put into that commercial enterprise."Shanahan said three areas of focus for cyber-related AI are talent, culture and data. "Data challenges are a particularly hard one for the cyber piece," he added.When AI is used for noncyber applications such as motion video, known objects on the ground are easy to classify and label. The same goes for predictive maintenance and humanitarian assistance, Shanahan said. But cyber is much harder."What does normal look like so anomalies and variances in the system can be detected in the data?" he said. And he noted that data is also important in building algorithms.
+
+
+
+
+Shanahan said data in the DOD and intelligence communities wasn't built expecting a future of AI. "So before AI becomes fully functional," he said, "the data problem has to be addressed."Data problems with AI and cyber include access, quality, content, classification and format, he noted."We have 24 cybersecurity service providers, all collecting data in slightly different ways," he said. So, constructing a cyberdata framework means working with Cyber Command and the National Security Agency and those cybersecurity service providers to come up with a starting point for data curation, content, sharing and storage. "Just on that agreement, I think we'll have much more success down the road as we bring in commercial vendors to do product evaluation," Shanahan said. "The challenge right now is they didn't know the data they'd be seeing."

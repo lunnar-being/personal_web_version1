@@ -1,0 +1,483 @@
+
+      
+
+
+
+  
+    
+
+
+      
+    Guidance
+  
+
+  
+  
+    Use precision application of fertiliser, manure and other inputs
+  
+
+  
+  
+  
+      
+  Find out how land managers can improve business efficiency, and water and air quality, by switching to precision application of fertiliser and manures.
+
+  
+
+
+
+  
+    
+      
+  
+      From:
+      
+          Department for Environment, Food & Rural Affairs
+
+      
+      Published
+      7 June 2021
+      Last updated
+      
+        14 December 2021
+          — 
+            See all updates
+          
+      
+  
+
+    
+    
+    
+  
+
+
+
+
+
+
+
+
+
+  
+    
+  
+    
+      Applies to England
+
+
+
+      
+      
+          
+    
+      Contents
+
+    
+        
+          About precision fertiliser and manure application
+
+        
+        
+          Before you invest in precision application systems and technology
+
+        
+        
+          Precision application systems and technology
+
+        
+    
+
+      
+    
+      
+
+    Print this page
+
+
+        
+
+    
+          
+
+If you’re completing this action as part of the Sustainable Farming Incentive pilot, how you do it is up to you.
+
+The advice on this page can help you get better environmental and business benefits, but you do not have to follow it to get paid.
+
+
+About precision fertiliser and manure application
+
+If you apply inputs of fertiliser and manure, precision application can reduce the amount you use and save you money. This applies to:
+
+
+  arable crops
+  grassland
+  forestry
+  horticulture
+
+
+Inputs include:
+
+
+  livestock manures and slurries
+  anaerobic digestates
+  composts
+  sewage sludge (biosolids)
+  artificial fertilisers
+
+
+You can use precision technology to make sure you match crop and soil nutrients requirements by:
+
+
+  accurately placing material
+  adding material at the correct rate
+  testing the nutrient content of any manures, slurries and digestates used, to account for natural variation in nutrient value
+
+
+Technology is vital to precision farming. You can make better decisions with data from:
+
+
+  computers
+  remote sensors
+  satellite guidance and positioning systems
+
+
+If new technology is too expensive, you can retrofit equipment to existing machinery or use specialist contractors.
+
+Check if you can get funding for new precision fertiliser and manure application equipment.
+
+Where to use precision application
+
+Identify areas at high risk from nutrient losses. You can:
+
+
+  use MAGIC to check if your land is in a nitrate or phosphate priority area
+
+  complete a runoff and soil erosion risk assessment
+
+
+High risk areas include fields that are:
+
+
+  located in a drinking water protection area
+
+  connected to watercourses like streams and ditches
+  next to sensitive habitats like Sites of Special Scientific Interest (SSSI)
+  close to neighbouring properties, if you apply material with a strong smell
+
+
+Deep injection of slurry can mean a high risk of nitrate leaching. It is not suitable for:
+
+
+  sandy or light soils
+  shallow soil over fissured or permeable rock
+  cracked or fissured soils, which occur when dry conditions cause soils with a high clay content to shrink and crack
+
+
+Benefits of precision application
+
+Efficient nutrient use has business benefits. You can:
+
+
+  save money by reducing the need for artificial fertiliser
+  expect better yields from more consistent crop growth and quality
+
+
+Better placement of slurry or digestates onto or just below the ground surface will:
+
+
+  reduce crop contamination
+  reduce the risk of crop scorch
+  improve odour control
+  mean you can use it on growing cereal crops
+  allow livestock to return to grazing sooner, with less grass rejected
+
+
+Precision application of inputs will benefit the environment. It can help reduce:
+
+
+  nutrient (nitrate and phosphate) loss from organic and artificial fertilisers
+  runoff of faecal bacteria from biosolids, livestock manures and slurries
+  soil compaction, through use of fewer but more accurate machinery routes
+  air pollution from ammonia and tiny airborne particles
+  greenhouse gas emissions
+
+
+Fewer nutrients and faecal bacteria in water bodies, wetlands, coastal waters and groundwater helps to protect:
+
+
+  drinking and bathing waters
+  aquatic habitats and species
+  shellfish production, like mussels, oysters and clams, making them safer for people to eat
+
+
+You must follow the farming rules for water. These require you to take steps to stop manure, fertiliser or soil getting into water bodies.
+
+Before you invest in precision application systems and technology
+
+You should match nutrient inputs to crop demand with a nutrient management plan. You can use your plan along with a whole farm nutrient budget.
+
+Look at your current setup and identify:
+
+
+  what machinery you already have
+  your ability to invest
+  the level of precision you need
+  whether you’ll use liquid or solid materials
+  the type of soil
+  what crops you grow
+  any nearby watercourses or neighbouring properties
+
+
+Regulatory controls may apply to specific materials. You must follow:
+
+
+  environmental permit controls
+  any landspreading permits
+
+  best practice to use sewage sludge on your land
+
+
+
+Get advice before you buy new machinery. Only buy it if you’ll make more money as a result of using it than it costs to buy. You may want to use a specialist contractor who has the equipment you need instead.
+
+You can also get help in planning which precision application system to use. You’ll find this on trade websites, at agricultural shows, from machinery dealers and in the farming press.
+
+Precision application systems and technology
+
+You can alter existing machinery to improve spreading accuracy. This will avoid:
+
+
+  applying too much or not enough fertiliser or manure
+  excess vegetation at field edges or growth of algae in watercourses because of nutrient enrichment
+  variable nutrient supply to the crop, which could make a nutrient management plan less precise
+
+
+Fertiliser spreader calibration
+
+Check your fertiliser spreader at least once a year, and ideally before you use a new type of fertiliser. Use a qualified tester or your own calibration equipment.
+
+There are 2 types of spreader calibration:
+
+
+  application rate
+  spread pattern
+
+
+Application rate calibration guarantees the correct amount of fertiliser for an area.
+
+You should calibrate the spread pattern each time you use a new fertiliser type in the spreader to:
+
+
+  make sure you spread the fertiliser evenly, with no overlaps or gaps
+  keep the spread pattern the same, even if you use different application rates for the same product
+
+
+Spread pattern calibration is best done with a tray test to measure any variations in the spread pattern. A ‘coefficient of variation’ (CV) of below 10% means the spreading is even.
+
+Manure spreader calibration
+
+Calibrate manure spreading to determine the application rate and how evenly you apply slurry and solid manure.
+
+The application rate depends on:
+
+
+  discharge rate
+  spread (bout) width
+  forward speed
+
+
+Once you know the available nutrients in the manure, you can alter the forward speed to achieve the correct application rate for each crop. Find out more about spread width.
+
+Global positioning system (GPS)
+
+This satellite-based navigation system:
+
+
+  helps you cover a field with the spacing you need by showing you where to steer
+  gives an even coverage of nutrients by preventing overlapping or underlapping
+  allows you to work accurately in the dark
+  is useful if you do not have tramlines to follow
+  can be combined with assisted steering so you can work hands-free
+
+
+Sensor system
+
+Sensors produce an electrical signal which a computer uses to control machinery. You can use a sensor system with GPS to apply fertiliser or manure even more accurately.
+
+Variable rate application
+
+You can vary the application rate for different parts of a field to apply the correct amounts of nutrients. You can either pre-programme the application rates or make adjustments while you’re working.
+
+You can retrofit variable rate controls to many slurry, solid manure, or solid and liquid fertiliser spreaders. Check with your equipment manufacturer or dealer.
+
+Fertiliser placement
+
+Fertiliser placement is usually used on high value crops such as vegetables to:
+
+
+  increase fertiliser efficiency by putting nutrients close to germinating or established crops
+  reduce surface exposure of fertiliser and potential losses by runoff
+
+
+Low-emission liquid manure and digestate placement
+
+You can reduce nutrient waste by spreading liquid manures and digestates close to the ground. Conventional application with a splash plate is affected by wind and relies on the even matching of lapped spreading widths.
+
+Use ‘band spreading’ to put nutrients directly on the soil and reduce ammonia loss.
+
+Apply liquid manures in a series of narrow bands about 5cm wide and 20cm to 30cm apart with either:
+
+
+  a trailing hose or dribble bar on arable land to fertilise growing crops
+  a trailing shoe just below a grass sward or crop canopy
+
+
+Other band spreading measures include:
+
+
+  
+GPS control to turn off sections of trailing shoe, trailing hose and dribble bar applicators
+  pump flow meters and weigh cells for accurate application rates
+
+
+You can inject liquid manures below the soil surface, before crops establish on arable land.
+
+Use injection to reduce crop contamination and odour emissions. Shallow injection can reduce ammonia losses but deeper injection can stop them.
+
+Shallow injection uses discs to cut slots at 5cm to 10cm depth. You can use it on stone-free, non-sloping grassland.
+
+Deep injection places slurry behind cultivation tines in closed slots at 25cm depth. It can damage growing crops and you should not use it on soils with a high risk of nitrate leaching.
+
+Do not use shallow or deep injection on soils with historic features. Register and request an SFI Historic Environment Farm Environment Record (SFI HEFER) to learn more about historic features on your land.
+
+
+
+
+
+      
+        
+    Published 7 June 2021
+    Last updated 14 December 2021
+      + show all updates
+      
+        
+            
+              14 December 2021
+              Added link to funding options
+            
+            
+              18 August 2021
+              Added clarification that this is best practice but not mandatory advice.
+            
+            
+              7 June 2021
+              First published.
+            
+        
+      
+
+
+
+          
+      
+
+      
+        
+          
+    
+      
+    
+    Contents
+
+
+        
+      
+  
+    
+
+    Print this page
+
+  
+  
+
+  
+
+
+    
+  
+
+      
+        Related content
+      
+
+
+
+
+      
+
+
+  
+
+
+        Use a whole farm nutrient budget
+        Increase soil organic matter
+        Reduce grassland management intensity next to watercourses
+        Grow legumes in grassland to replace nutrient inputs
+        Create and use a nutrient management plan
+
+  
+
+
+  
+
+
+
+    
+
+
+  Brexit
+  
+    Check what you need to do
+
+
+
+
+
+
+
+
+  
+    
+        
+  
+    
+  
+
+
+
+
+
+      
+
+    Explore the topic
+
+  
+
+
+        Land management
+        Wildlife and habitat conservation
+
+  
+
+
+  
+
+  
+
+
+    
+  
+
+
+    
