@@ -1202,7 +1202,7 @@ def get_analysis_data():
         #
         # }
     elif chart == 'state-message-tree':
-        pa = os.path.abspath("..\static\monitor\state_message.txt")
+        pa = os.path.abspath("../static/monitor/state_message.txt")
         with open(pa) as f:
             keywords = eval(f.read())
             f.close()
