@@ -28,13 +28,14 @@
 class Father(object):
     def __init__(self, name):
         self.name = name
+import os
 
 
 
 
 
 if __name__ == '__main__':
-    print("dsd".startswith())
+    print(os.path.abspath("../view.py"))
     # q={1,2,3}
     # u={3,4}
     # print(q-u)

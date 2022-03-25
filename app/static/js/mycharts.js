@@ -429,7 +429,11 @@ function institutionNum2(data) {
   };
 
   option && myChart.setOption(option);
-
+  myChart.on('click',  function(param) {
+  console.log("csac")
+            //param.name x轴值,param.data y轴值
+            alert(param.name+":"+param.data)
+        });
 }
 
 
@@ -897,6 +901,7 @@ function chartRadar(source_data){
     }]
 };
   myChart.setOption(option, true);
+
   window.onresize = myChart.resize;
 }
 
@@ -1076,6 +1081,7 @@ function keywordCloud(){
 }
 
 function drawkeyCloud(source_data) {
+  var current_word = ""
   var shownum = $("#keyshownum").val();
   var keylist = [];
   for (let item of source_data) {
@@ -1105,7 +1111,9 @@ function drawkeyCloud(source_data) {
     tooltip: {
       show: true,
       formatter: function (item) {
+        window.current_word = item[0]
         return item[0] + ' 出现 ' + item[1] + ' 次'
+
       }
     },
     list: series,
@@ -1132,14 +1140,23 @@ function drawkeyCloud(source_data) {
     keywc.setOption(option);
   }, 1000);
 
+  // keywc.on('click',  function(param) {
+  //       console.log("csac")
+  //           //param.name x轴值,param.data y轴值
+  //           alert(param.name+":"+param.data)
+  //       });
   window.onresize = function () {
     keywc.resize();
   }
 }
 
+function searchKeywords(){
+  console.log(window.current_word)
+  word = window.current_word
+  window.location.href = 'search.html?query=' + word + "&field=全部分类&order=rank&query-type=关键词";
+  return false
+};
 
 $(document).ready(function () {
   institutionNum();
 })
-
-

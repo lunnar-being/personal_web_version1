@@ -261,8 +261,6 @@ def search():
         elif i.startswith("query"):
             query_list.append(args[i])
     box_num = len(query_list)
-    print(query_list)
-    print(bool_list)
     #获取所有的检索词和布尔逻辑符等
     # while True:
     #     if i>0:
@@ -482,7 +480,7 @@ def user_manage():
 @permission_required(Permissions.MANAGE_CONTENT)
 def management():
     policy_text_list = PolicyText.query.limit(10).offset(10).all()
-    print(len(policy_text_list))
+    # print(len(policy_text_list))
     policy_to_origin_file_dict = dict()
     for policy_text in policy_text_list:
         policy_to_origin_file_dict[policy_text.id] = PolicyText.query.get(
@@ -515,7 +513,7 @@ def collect():
         i[1] = str(i[1])
         result3.append(i)
     # all_record = Collect.
-    print(result3)
+    # print(result3)
     data = [
                 ('白宫','https://www.whitehouse.gov/','whitehouse'),
                 ('英国政府网', 'https://www.gov.uk', 'gov'),
@@ -531,7 +529,7 @@ def collect():
         data[i] = list(data[i])
         data[i].append(result3[i][1])
         data[i].append(result3[i][2])
-    print(data)
+    # print(data)
     return render_template('collect.html', day_select=int(day_select), time_select=int(time_select), result = data)
 
 
@@ -884,7 +882,7 @@ def get_AIPentity_num():
     num = int(num)
     if 0<num and num<=100:
         entity_num = num
-        print(num)
+        # print(num)
         # render_template('aip_monitor.html',entity = entity2[:num])
         return json.dumps({'status':"ok"}), 200
     else:
@@ -1035,7 +1033,7 @@ def favor_operate():
     favors = user.favor
     favor_list = list(map(int, favors.split(',')))
     favor_list = list(set(favor_list))
-    print(favor)
+    # print(favor)
     if favor=='1':
         favor_list.append(id)
     else:
@@ -1058,11 +1056,11 @@ def rate_star():
     star = request.form.get('star')
     id = request.form.get('id')
     id = int(id[7:])
-    print(id)
+    # print(id)
     record = PolicyText.query.filter_by(id=id).first()
     record.recommend = float(star)
     db.session.commit()
-    print(star)
+    # print(star)
 
     # time_select = time
     return 'ok'
@@ -1204,7 +1202,8 @@ def get_analysis_data():
         #
         # }
     elif chart == 'state-message-tree':
-        with open(r"E:\research\technology\app\static\monitor\state_message.txt") as f:
+        pa = os.path.abspath("..\static\monitor\state_message.txt")
+        with open(pa) as f:
             keywords = eval(f.read())
             f.close()
         # print(keywords)
