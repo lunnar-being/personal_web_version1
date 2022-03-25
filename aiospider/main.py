@@ -8,11 +8,13 @@ from aiospider.module.spider_main import spider_main
 # from aiospider.module.topic import update_topic
 # from aiospider.module.CHN import update_CHN
 
-
+import os
 class spider_pipline:
     def __init__(self):
         cf = configparser.RawConfigParser()
-        cf.read(r"E:\research\technology\aiospider\config.ini")
+        path = os.path.abspath("aiospider/config.ini")
+        print(path)
+        cf.read(path)
         setting = cf["setting"]
         self.file = setting["file"]
         # self.model_bart = setting["model_bart"]

@@ -130,7 +130,7 @@ db = pymysql.connect(host="81.70.102.186", user="root", password="YDH@henniu123"
 s = statistic(db)
 
 def get_file(file):
-    path = rf"E:\research\technology\app\static\monitor\{file}.txt"
+    path = os.path.abspath(f"app/static/monitor/{file}.txt")
     with open(path, encoding='utf8') as f:
         entity = f.readlines()
         f.close()
