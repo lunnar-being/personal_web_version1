@@ -154,7 +154,7 @@ def index():
                            # policy_text_nofavor=policy_text_nofavor,
                            # policy_text_favor = favor_policy,
                            pagination=policy_text_pagination,
-                           filter={'order': order, 'field': field, 'file_type': doc_type},
+                           filter={'order': order, 'field': field, 'file_type': doc_type,'country':country},
                            filed_count_dict=filed_count,
                            type_count_dict=type_count,
                            country_list = ["全部国家",'美国','英国',"日本","加拿大"]
