@@ -45,7 +45,7 @@
         {% endfor %}
       </ul>
       <ul class="tag-selection" id="country-selection">
-        {% for country in country_list %}
+        {% for country in ["全部国家",'美国','英国',"日本","加拿大"] %}
         <li><a value="{{ country }}"><span class="tag {% if country == filter['country'] %}tag-checked{% endif %}">{{ country }}</span></a></li>
         {% endfor %}
       </ul>
@@ -216,6 +216,9 @@
     var file_type = $("#file-type-selection span.tag-checked").parent().attr("value");
     var country = $("#country-selection span.tag-checked").parent().attr("value");
     var order = $(".form-control option:selected").val();
+    if (country==undefined){
+        country = "全部国家"
+    }
     window.location.href = 'index.html?field=' + field + "&file_type=" + file_type + "&country=" + country + "&order=" + order;
   }
 </script>
