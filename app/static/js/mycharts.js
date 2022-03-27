@@ -1150,6 +1150,119 @@ function drawkeyCloud(source_data) {
   }
 }
 
+// 定制化分析
+function customizedAna(){
+  var keyword = $("#c_keyword").val();
+  var domain = $("#c_domain").val();
+  var type2 = $("#c_chart").val();
+  console.log(domain+keyword+type2)
+  $.ajax({
+    url: "/analysis_data",
+    type: "POST",
+    data: {'chart': 'customizedAna','keyword':keyword,'domain':domain,'type':type2},
+    dataType: "json",
+    success: function (data){
+      console.log("type:"+type2)
+      customizedChart(data,type2);
+    },
+    error: function (e){
+      alert("error");
+    }
+  });
+}
+
+function customizedChart(data,type){
+  console.log(data)
+  if(type=="number_institute"){
+    reset('#customized');
+    var chartDom = document.getElementById('customized');
+    var myChart = echarts.init(chartDom);
+    var option;
+    option = {
+    tooltip: {
+      trigger: 'item'
+    },
+    legend: {
+      top: '5%',
+      left: 'center'
+    },
+    series: [
+      {
+        name: 'Access From',
+        type: 'pie',
+        radius: ['40%', '70%'],
+        avoidLabelOverlap: false,
+        itemStyle: {
+          borderRadius: 10,
+          borderColor: '#fff',
+          borderWidth: 2
+        },
+        label: {
+          show: false,
+          position: 'center'
+        },
+        emphasis: {
+          label: {
+            show: true,
+            fontSize: '40',
+            fontWeight: 'bold'
+          }
+        },
+        labelLine: {
+          show: false
+        },
+        data: data
+      }
+    ]
+  };
+    option && myChart.setOption(option);
+  }
+  else{
+    reset('#customized');
+      var chartDom = document.getElementById('customized');
+      var myChart = echarts.init(chartDom);
+      var option;
+      let num = data[0];
+      let time = data[1]
+      option = {
+        tooltip: {
+        trigger: 'axis'
+      },
+      legend: {},
+      toolbox: {
+        show: true,
+        feature: {
+          dataZoom: {
+            yAxisIndex: 'none'
+          },
+          dataView: { readOnly: false },
+          magicType: { type: ['line', 'bar'] },
+          restore: {},
+          saveAsImage: {}
+        }
+      },
+        xAxis: {
+          type: 'category',
+          name:'时间',
+          data: time
+        },
+        yAxis: {
+          type: 'value'
+        },
+        series: [
+          {
+            name:"政策数量",
+            data: num,
+            type: 'line',
+            smooth: true
+          }
+        ]
+      };
+
+    option && myChart.setOption(option);
+  }
+}
+
 function searchKeywords(){
   console.log(window.current_word)
   word = window.current_word

@@ -50,6 +50,9 @@
                 <li>
                 <a id="chart-btn7" href="#chart7" data-toggle="pill" onclick="stateMessageTree()">国情咨文关键词演变</a>
               </li>
+                <li>
+                <a id="chart-btn8" href="#chart8" data-toggle="pill" onclick="customizedAna()">定制化分析</a>
+              </li>
             </ul>
           </div>
           <!-- 右侧内容 -->
@@ -114,14 +117,46 @@
             </div>
           </div>
           </div>
-
-              <div class="tab-pane chart-part" id="chart7">
+          <div class="tab-pane chart-part" id="chart7">
               <div class="panel panel-default">
                 <div class="panel-heading">
                   <h4>国情咨文关键词演变</h4>
                 </div>
                 <div class="panel-body">
                   <div id="state-message" class="chart-div">
+                  </div>
+                </div>
+              </div>
+            </div>
+          <div class="tab-pane chart-part" id="chart8">
+              <div class="panel panel-default">
+                <div class="panel-heading">
+                  <h4>定制化分析</h4>
+                    <label for="c_domain" class="form-label">输入关键词：</label><input id="c_keyword" type="text" value="任意关键词">
+                    <label for="c_domain" class="form-label">选择领域：</label>
+                    <select id="c_domain">
+                        <option value ="All">All</option>
+                      <option value ="医药健康科技">医药健康科技</option>
+                      <option value ="新材料科技">新材料科技</option>
+                      <option value="能源环境科技">能源环境科技</option>
+                      <option value="食品技术科技">食品技术科技</option>
+                      <option value ="空天科技">空天科技</option>
+                      <option value ="国防安全">国防安全</option>
+                      <option value="智能制造">智能制造</option>
+                      <option value="新代信息通信科技">新代信息通信科技</option>
+                      <option value="大数据与人工智能">大数据与人工智能</option>
+                      <option value="现代交通科技">现代交通科技</option>
+                    </select>
+                    <label for="c_chart" class="form-label">选择展示图表:</label>
+                    <select id="c_chart">
+                        <option value="number_change">数量变化</option>
+                      <option value="number_institute">涉及机构</option>
+                    </select>
+                  <button><a style=" text-decoration: none; color: black;" onclick="customizedAna()">刷新</a></button>
+
+                </div>
+                <div class="panel-body">
+                  <div id="customized" class="chart-div">
                   </div>
                 </div>
               </div>

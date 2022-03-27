@@ -1186,23 +1186,9 @@ def get_analysis_data():
         # res2020 = [i for i in result if i[0]==2020]
         # res2021 = [i for i in result if i[0] == 2021]
         result = [res2020,res2021]
-        # result = {
-        #     'name':'涉华政策关键词',
-        #     'children':
-        #         [
-        #             {
-        #                 'name': '2020',
-        #                 'children': res2020
-        #         },
-        #             {
-        #                 'name': '2021',
-        #                 'children': res2021
-        #             }
-        #         ]
-        #
-        # }
+
     elif chart == 'state-message-tree':
-        pa = os.path.abspath("../static/monitor/state_message.txt")
+        pa = os.path.abspath("app/static/monitor/state_message.txt")
         with open(pa) as f:
             keywords = eval(f.read())
             f.close()
@@ -1211,7 +1197,7 @@ def get_analysis_data():
         for i in keywords:
             k = []
             for j in i:
-                k.append({'name':j,'value':1})
+                k.append({'name':j.title(),'value':1})
             keywords2.append(k[:4])
         # print(keywords2)
         result = {
@@ -1249,7 +1235,54 @@ def get_analysis_data():
         sql = 'SELECT translated_keywords FROM t1 WHERE `rank` > 6.7;'
         result = db.session.execute(sql)
         result = [list(row) for row in list(result) if row.keywords]
+    elif chart == 'customizedAna':
+        type = request.form.get('type')
+        domain = request.form.get('domain')
+        keyword = request.form.get('keyword')
+        print(type)
+        if type == "number_change":
+            if domain=='All' and keyword=="任意关键词" or keyword == "":
+                sql = 'SELECT count(*),YEAR(time), MONTH(time) as m FROM t1 WHERE (YEAR(time) > 2020 AND MONTH(time) > 4) GROUP BY YEAR(time), MONTH(time)  ;'
+            elif domain!='All' and keyword=="任意关键词" or keyword == "":
+                sql = f'SELECT count(*),YEAR(time), MONTH(time) as m FROM t1 WHERE (YEAR(time) > 2020 AND MONTH(time) > 4 AND `field_main`="{domain}") GROUP BY YEAR(time), MONTH(time)  ;'
+            elif domain=='All' and keyword!="任意关键词" and keyword!="":
+                sql = f'SELECT count(*),YEAR(time), MONTH(time) as m FROM t1 WHERE (YEAR(time) > 2020 AND MONTH(time) > 4 AND `translated_keywords` LIKE "%{keyword}%" OR `translated_title` LIKE "%{keyword}%") GROUP BY YEAR(time), MONTH(time)  ;'
+            elif domain!='All' and keyword!="任意关键词" and keyword!="":
+                sql = f'SELECT count(*),YEAR(time), MONTH(time) as m FROM t1 WHERE (YEAR(time) > 2020 AND MONTH(time) > 4 AND `translated_keywords` LIKE "%{keyword}%" OR `translated_title` LIKE "%{keyword}%" AND `field_main`="{domain}") GROUP BY YEAR(time), MONTH(time)  ;'
+            res = db.session.execute(sql)
+            res = [list(row) for row in list(res) if row[1]]
+            print(res)
+            res.sort(key=lambda x: (x[1], x[2]))
+            print(res)
+            num = [i[0] for i in res]
+            time = ['.'.join([str(i[1]), str(i[2])]) for i in res]
+            result = [num, time]
+        elif type == "number_institute":
+            if domain == 'All' and keyword == "任意关键词" or keyword == "":
+                sql = 'SELECT count(*),translated_institution FROM t1 WHERE (YEAR(time) >= 2020 AND `translated_institution` is not null ) GROUP BY translated_institution;'
+            elif domain != 'All' and keyword == "任意关键词" or keyword == "":
+                sql = f'SELECT count(*),translated_institution FROM t1 WHERE (YEAR(time) >= 2020 AND `field_main`="{domain}" AND `translated_institution` is not null) GROUP BY translated_institution;'
+            elif domain == 'All' and keyword != "任意关键词" and keyword!="":
+                sql = f'SELECT count(*),translated_institution FROM t1 WHERE (YEAR(time) >= 2020 AND `translated_institution` is not null AND `translated_keywords` LIKE "%{keyword}%" OR `translated_title` LIKE "%{keyword}%") GROUP BY translated_institution;'
+            elif domain != 'All' and keyword != "任意关键词" and keyword!="":
+                sql = f'SELECT count(*),translated_institution FROM t1 WHERE (YEAR(time) >= 2020 AND `translated_institution` is not null AND `translated_keywords` LIKE "%{keyword}%" OR `translated_title` LIKE "%{keyword}%" AND `field_main`="{domain}") GROUP BY translated_institution;'
 
+            res = db.session.execute(sql)
+            res = [list(row) for row in list(res)]
+            # print(res)
+            res = [i for i in res if i[0]]
+            if len(res)>=10:
+                res.sort(key=lambda x:x[0],reverse=True)
+                institute_top10 = res[:10]
+            else:
+                institute_top10 = res
+            # print(len(institute_mt10))
+            institute_num = [i[0] for i in institute_top10]
+            institutes = [i[1] for i in institute_top10]
+            # print(institutes)
+            # print(institute_num)
+            result = [dict([("name",institutes[i]),("value",institute_num[i])]) for i in range(len(institutes)) if institutes[i]]
+            # print(result)
     return json.dumps(result)
 
 
