@@ -251,9 +251,10 @@ class belfercenter:
             start = time.time()
 
             this_url = download([i], callback=self.callback_class.get_this_page_url)()
-            this_url = [k for k in this_url[0] if k is not None]
             if len(this_url) == 0:
                 continue
+            this_url = [k for k in this_url[0] if k is not None]
+
 
             htmls = download(this_url, cache=self.cache)()
             z = [i for i in zip(this_url, htmls) if i[1] != None]

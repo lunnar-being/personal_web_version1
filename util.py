@@ -95,13 +95,13 @@ class FileName:
         dir_path = Config.BASE_DIR
         file_name = self.gen_name(file_type)
         if file_type == 1:
-            return os.path.join(dir_path, 'app/data/origin', file_name)
+            return os.path.join(dir_path, 'aiospider\\file', file_name)
         if file_type == 2:
-            return os.path.join(dir_path, 'app/data/format', file_name)
+            return os.path.join(dir_path, 'aiospider\\file', file_name)
         if file_type == 3:
-            return os.path.join(dir_path, 'app/data/trans', file_name)
+            return os.path.join(dir_path, 'aiospider\\file', file_name)
         if file_type == 4:
-            return os.path.join(dir_path, 'app/data/check', file_name)
+            return os.path.join(dir_path, 'aiospider\\file', file_name)
 
 
 class MyThread(threading.Thread):

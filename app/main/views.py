@@ -230,8 +230,10 @@ def article():
     # keywords = [', '.join(eval(i.keywords)) for i in policy_text]
     if policy_text.keywords:
         policy_text.keywords = ', '.join(eval(policy_text.keywords))
-    original_file = PolicyText.query.get(policy_text.original_file)  # type: File
-    format_file = PolicyText.query.get(policy_text.format_file)  # type: File
+    original_file = policy_text.original_file
+    print("xc",original_file)
+    # PolicyText.query.get(policy_text.original_file)  # type: File
+    format_file = PolicyText.query.get(policy_text.format_file) if policy_text.format_file else None  # type: File
     trans_file = PolicyText.query.get(policy_text.translated_file) if policy_text.translated_file else None
     checked_file = PolicyText.query.get(policy_text.checked_file) if policy_text.checked_file else None
     return render_template('article.html',
@@ -260,6 +262,8 @@ def search():
             bool_list.append(args[i])
         elif i.startswith("query"):
             query_list.append(args[i])
+    if not type_list:
+        type_list = ['标题']
     box_num = len(query_list)
     #获取所有的检索词和布尔逻辑符等
     # while True:
@@ -283,6 +287,7 @@ def search():
     PER_PAGE = 10
     logger = logging.getLogger('search')
     page = request.args.get('page', 1, int)
+    print(page)
     filter_args = [PolicyText.id==000]
     policy_text_pagination = None
     policy_text_pagination = PolicyText.query.filter(*filter_args).paginate(
@@ -986,11 +991,14 @@ def collect_web():
     filter_args = []
     filter_args.append(Collect.name == site_name)
     res = Collect.query.filter(*filter_args)
-    a.spider(site_name)
+    try:
+        a.spider(site_name)
     # print(res)
     # record = res[0]
     # print(record.name)
-    return f'{site_name}采集完毕!'
+        return f'{site_name}采集完毕!'
+    except:
+        return "未采集到数据！无更新数据或网络问题！"
 
 
 @main.route('/select_day', methods=['POST'])
@@ -1395,31 +1403,28 @@ def add_one_policy():
     abstract = request.form.get('abstract')
 
     # generate new policy
-    p = PolicyText(original_title=original_title,
+    p = PolicyText(title=original_title,
                    translated_title=translated_title,
                    nation=nation,
-                   language=lang,
+                   # language=lang,
                    source_url=source_url,
-                   correct_field=field,
-                   doc_type=doc_type,
+                   field_main=field,
+                   topic_classification=doc_type,
                    institution=institution,
                    translated_abstract=abstract,
-                   keywords=keywords,
-                   spider_condition=99)  # 99: manual
+                   translated_keywords=keywords)
     p.release_time = datetime.now()
 
     # generate new file
     file_name = f"origin_{get_md5_str(source_url)}.{extension}"
-    f = File(savename=file_name)
+    # f = File(savename=file_name)
     fname = FileName(file_name)
     opath = fname.gen_path(file_type=1)
     uploaded_file.save(opath)
     logger.debug(f"savepath: {opath}")
-    db.session.add(f)
-    db.session.commit()
 
     # complete policy
-    p.original_file = f.id
+    p.original_file = file_name
     db.session.add(p)
     db.session.commit()
     return '上传成功', 200

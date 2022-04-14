@@ -33,8 +33,8 @@ def download():
     file_name = request.args.get('file_name', type=str)
     # todo check file_name safety
     file_type_re = re.match(r'^(.*)_', file_name)
-    file_type = file_type_re.group(1)
-    file_path = f'{Config.BASE_DIR}/app/data/{file_type}/{file_name}'
+    # file_type = file_type_re.group(1)
+    file_path = f'{Config.BASE_DIR}\\aiospider\\file\{file_name}'
     print(file_path)
     if os.path.exists(file_path):
         return send_file(file_path, as_attachment=True)
