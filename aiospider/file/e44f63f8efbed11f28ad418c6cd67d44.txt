@@ -1,1 +1,0 @@
-Upgrade the HAD system with newer technology and configure it to be controlled with a Windows-based system.

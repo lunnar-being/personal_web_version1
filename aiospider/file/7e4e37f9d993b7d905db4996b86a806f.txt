@@ -1,1 +1,0 @@
-Funding will support the project team's information gathering and analysis efforts to at provide a blueprint for an end-to-end, data-driven approach to Risk-Aware Market Clearing (RAMC), where risk is explicitly modeled, quantified, and optimized, striking a tradeoff between cost and system-level risk minimization.

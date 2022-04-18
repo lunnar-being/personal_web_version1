@@ -1,1 +1,0 @@
-Operationalizing machine learning depends on a solid data set that the underlying algorithms can analyze and learn from. To get there, deployments span three sequential environments to train ML models: development, user-acceptance testing, and production. The production environment is generally optimal because it uses real-world data. 

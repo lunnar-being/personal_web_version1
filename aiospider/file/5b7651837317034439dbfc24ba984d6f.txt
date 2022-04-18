@@ -1,7 +1,0 @@
-
-        
-
-
-    
-    COVID-19 and associated public health measures may negatively affect some individuals with physical health, behavioral health (mental health and substance use disorders), and social and economic vulnerability. To better understand the potential impact on these populations, McKinsey developed an  incorporating a clinical data sample of more than 15 million insured individuals in the United States as well as non-clinical data elements.This analysis focuses on individuals with physical or behavioral health (BH) vulnerability. We found that there is significant variation in the proportion of people with increased risk of developing severe COVID-19 symptoms across and within states, and individuals with increased risk of developing severe COVID-19 symptoms are nearly twice as likely to have a comorbid BH condition. Furthermore, many counties with a high proportion of people with increased risk of developing severe COVID-19 symptoms have lower BH care capacity, including 37 percent fewer mental health providers per 100,000 people.
-    

@@ -1,8 +1,0 @@
-
-    
-    
-        
-CIOs in the immediate term have really pivoted, number one, on the cost front to remove time, material resources, contractors, consultants, as need be.Second thing is clearly organizations have pivoted heavily if not completely, to remote working. And as such, there’s been a big demand on their infrastructure and collaboration tools.And the third thing that we’ve been finding is CIOs have been spending a lot of time on business continuity planning, certainly working with their different vendor partners across many different countries to accommodate different lockdowns, and understand their own handling of business continuity and remote working because most of the vendors are doing the same thing.
-		
-	
-I think the really interesting thing is what’s happening in the medium term. Certainly some organizations have been quite clear about the fact they’re reducing their discretionary spending, and so the change portfolio, which impacts IT. I think that, in addition to that, what we’re seeing is most organizations are actually increasing the amount of or keeping consistent the amount of technology funding because they’re investing in areas such as architecture, data, data management, cloud migration because they’re seeing this as an opportunity to invest ahead of the curve.And then the third thing is there’s clearly preparing for a longer-term remote working environment where 40-60 percent of the workforce are gonna be working remotely. And for that, you need much better and more sophisticated collaboration tools.

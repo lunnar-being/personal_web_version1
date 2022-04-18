@@ -1,1 +1,0 @@
-The project will test a CO2 elective membrane on a slip stream of flue gas from a coal-fired plant.

@@ -1,9 +1,0 @@
-
-	
-Despite the disruption of the COVID-19 pandemic, EV adoption accelerated in 2020 as the industry began to develop the mobility systems of the future. For many private- and fleet-vehicle owners, the EV that will tip the scales away from internal combustion engines is already in development.This rapid progress has highlighted two priorities that are critical to the future of the EV market: an adequate supply of tailored batteries and a scaled network of charging stations. Upstream investments include building sufficient battery production facilities to meet regional EV demand. For example, to meet Europe’s 2030 targets, annual battery capacity will have to increase from the current 60 gigawatt hours (GWh) installed to 900 GWh. Downstream, charging infrastructure across multiple vehicle classes (such as passenger cars, trucks, and buses) and use cases (such as home, work, depot, or highway) will have to be ramped up fast. The upstream and downstream infrastructure is interdependent, and both face challenging bottlenecks due to the technology, capital, and commitment required to succeed.
-		
-	
-With a global fleet of more than 11 million vehicles on the road today, there is potential to expand the market to seven times that number in less than a decade.
-
-
- The enabling ecosystem of EVs will include myriad factors; in this issue, we cover the latest thinking on scaling battery manufacturing and publicly available charging. EVs will play a key role in reducing carbon emissions to remain on . In service of this goal, it has never been more important to expand the availability of publicly accessible EV chargers and accelerate the production of high-quality, cost-efficient, low-carbon batteries.

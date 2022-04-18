@@ -1,1 +1,0 @@
-Provide funding to Missouri University of Science and Technology to develop a platform which would optimize electric arc furnace (EAF) operations through the use of sensors, burner/injector systems, and real time data analysis. 

@@ -1,1 +1,0 @@
-Revision 1 changes the ECP to a first tier to address the offsite testing at Advanced Cooling Technologies, Inc. (ACT), of components fabricated at the INL.
